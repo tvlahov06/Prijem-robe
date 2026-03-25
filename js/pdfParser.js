@@ -15,8 +15,39 @@ var PDFParser = {
   },
 
   _fixText: function(text) {
-    if (!/[\u00C0-\u00FF]/.test(text)) return text;
-    try { return decodeURIComponent(escape(text)); } catch (e) { return text; }
+    var result = text;
+    // First try to fix double-encoded UTF-8
+    try {
+      if (/[\u00C0-\u00FF]/.test(result)) {
+        var decoded = decodeURIComponent(escape(result));
+        if (decoded !== result) result = decoded;
+      }
+    } catch(e) {}
+    // Replace multi-char mojibake sequences (must come before single-char)
+    var multi = [
+      ["Ä\u0087","c"],["Ä\u008D","c"],["Ä\u0091","d"],["Ä\u0086","C"],["Ä\u008C","C"],["Ä\u0090","D"],
+      ["Å\u00A1","s"],["Å\u00BE","z"],["Å\u00BD","Z"],["Å\u00A0","S"],
+      ["Ã¤","d"],["Ã¶","o"],["Ã¼","u"],["Ã©","e"],["Ã¡","a"],["Ã³","o"],["Ãº","u"]
+    ];
+    for (var m = 0; m < multi.length; m++) {
+      while (result.indexOf(multi[m][0]) >= 0) {
+        result = result.replace(multi[m][0], multi[m][1]);
+      }
+    }
+    // Replace single characters (proper Unicode + any remaining)
+    var out = "";
+    for (var i = 0; i < result.length; i++) {
+      var ch = result.charAt(i);
+      var code = result.charCodeAt(i);
+      if (code === 0x10D || code === 0x10C) out += (code === 0x10D) ? "c" : "C";       // č Č
+      else if (code === 0x107 || code === 0x106) out += (code === 0x107) ? "c" : "C";   // ć Ć
+      else if (code === 0x161 || code === 0x160) out += (code === 0x161) ? "s" : "S";   // š Š
+      else if (code === 0x17E || code === 0x17D) out += (code === 0x17E) ? "z" : "Z";   // ž Ž
+      else if (code === 0x111 || code === 0x110) out += (code === 0x111) ? "d" : "D";   // đ Đ
+      else if (code === 0xC2) out += "";  // stray Â from mojibake
+      else out += ch;
+    }
+    return out;
   },
 
   parsePDF: function(file) {
