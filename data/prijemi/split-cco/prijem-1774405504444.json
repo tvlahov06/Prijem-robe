@@ -2,9 +2,9 @@
   "id": "prijem-1774405504444",
   "poslovnica": "split-cco",
   "datum": "2026-03-25",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-03-25T02:25:04.444Z",
-  "azurirano": "2026-03-25T02:25:35.401Z",
+  "azurirano": "2026-03-25T02:25:40.780Z",
   "dokumenti": [
     {
       "naziv": "MeÄuskladiÅ¡ni izlaz br. 1929-101",
@@ -35,5 +35,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-03-25T02:25:40.780Z"
 }
