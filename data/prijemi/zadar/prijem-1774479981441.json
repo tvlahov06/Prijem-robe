@@ -1,0 +1,426 @@
+{
+  "id": "prijem-1774479981441",
+  "poslovnica": "zadar",
+  "datum": "2026-03-25",
+  "status": "aktivan",
+  "kreirano": "2026-03-25T23:06:21.441Z",
+  "azurirano": "2026-03-25T23:06:21.441Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 1917-101",
+      "stavke": [
+        {
+          "naziv": "Usisavac Dyson V8 Absolute",
+          "barkod": "5025155090152",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Velvet Red/Gold Straight+Wavy",
+          "barkod": "5025155112342",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V11 Advanced",
+          "barkod": "5025155096093",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907CP 900W",
+          "barkod": "8006447000087",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907R 900W",
+          "barkod": "8006447000872",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB505DG 500W",
+          "barkod": "8006447000070",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
+          "barkod": "8006447002166",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 1929-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
+          "barkod": "8806099028282",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11 WiFi 64GB sivi",
+          "barkod": "8806097781943",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska za Samsung Galaxy A57 5G ljubicasta",
+          "barkod": "8806099037734",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska za Samsung Galaxy A57 5G tamno plava",
+          "barkod": "8806099037758",
+          "ocekivano": 6,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 1947-101",
+      "stavke": [
+        {
+          "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ00U1SC, 39.6cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB",
+          "barkod": "199272265351",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Nitro V 15, NH.QZ8EX.01K, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 9 270H, 32 GB RAM, 1 TB",
+          "barkod": "4711474900814",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Nitro V 15, NH.QV2EX.006, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 7 240H, 16 GB RAM, 1 TB",
+          "barkod": "4711474444752",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ011PSC, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512",
+          "barkod": "199273478859",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming F16 FX608JPR-QT002, 40.6cm",
+          "barkod": "4711636037259",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop LENOVO LOQ Essential, 83S0003USC, 39.6cm (15.6\") IPS FHD 144Hz, AMD Ryzen 7 7735HS, 16 GB RAM,",
+          "barkod": "199273138777",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP OMEN 16-am0136nn, D32JWEA, 40.6 cm (16\"), IPS 2K 60-144 Hz, Intel Core Ultra 7 255H, 16 GB RAM, 1",
+          "barkod": "199896426671",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Neo Indigo, mhff4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
+          "barkod": "195950852578",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DELL 24\" Pro Plus monitor P2425H, IPS Full HD, 100Hz, 5ms, ComfortView Plus, DisplayPort, HDMI, VGA, USB-C, 3x",
+          "barkod": "5397184821701",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DELL 27\" Pro Plus monitor P2725DE, IPS 2K/QHD, 100Hz, 5ms, ComfortView Plus, 2x DisplayPort (Daisy Chain),",
+          "barkod": "5397184962480",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 27'' ACER Nitro VG27FX, UM.HV0EE.601, IPS,HDMI, DP, 144Hz",
+          "barkod": "4711474414922",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 26.5\" ACER Predator X27UZ1, UM.GXXEE.113, OLED 2K/QHD, 280Hz, 0.03ms, AMD FreeSync, 2x HDMI,",
+          "barkod": "4711474641595",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CANON Pixma MG2551S Color Inkjet MF pisac - Print, Copy, Scan, A4",
+          "barkod": "4549292234206",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer HP OfficeJet Pro 8122e All-in-One Printer, 405U3B - Instant Ink",
+          "barkod": "196337163881",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 1948-101",
+      "stavke": [
+        {
+          "naziv": "Sat Samsung Galaxy Fit3 sivi",
+          "barkod": "8806095362175",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
+          "barkod": "8806097651000",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C bijeli bez kabela",
+          "barkod": "8806094912081",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prozirna maska za Samsung Galaxy Galaxy A57 5G prozirna",
+          "barkod": "8806099037727",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel Samsung USB Type-C na USB Type-C (1,8m, 5A) crni",
+          "barkod": "8806094257540",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A16 4GB/128GB dual SIM tamnoplavi",
+          "barkod": "8806095822334",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
+          "barkod": "6942103168185",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Fit 4 crni (Seiya-B19F)",
+          "barkod": "6942103155000",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
+          "barkod": "8806097651079",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM svijetlo plavi",
+          "barkod": "8806097651147",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 46mm Black (Vili-B19F)",
+          "barkod": "6942103132001",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicni punjac Samsung Duo za mobitel ili sat crni",
+          "barkod": "8806092978539",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
+          "barkod": "6942103168239",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi",
+          "barkod": "8806099028114",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A26 5G 6GB/128GB dual SIM crni",
+          "barkod": "8806097072812",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Xcover 7 crni",
+          "barkod": "8806095382531",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple USB-C Power Adapter 20W",
+          "barkod": "195950084658",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch8 44mm srebrni",
+          "barkod": "8806097415602",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 15 128GB Black",
+          "barkod": "195949036033",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 41mm Gold Milanese Strap (Jana-B19M)",
+          "barkod": "6942103131981",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 Ultra siva",
+          "barkod": "8806097887232",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T4511 45W Fast Charge USB-C crni bez kabla",
+          "barkod": "8806097039709",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S25 5G 12/128GB onyx crni",
+          "barkod": "8806095815534",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Pro Brown 46mm (Atum-B29W)",
+          "barkod": "6942103168208",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lokator CHIPOLO POP, bijeli",
+          "barkod": "850047123503",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lokator CHIPOLO POP, crni",
+          "barkod": "850047123558",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lokator CHIPOLO LOOP, koraljni",
+          "barkod": "850070419260",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lokator CHIPOLO POP, 4 kom (crveni/plavi/zuti/zeleni)",
+          "barkod": "850047123787",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lokator CHIPOLO LOOP, crni",
+          "barkod": "850070419291",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lokator CHIPOLO LOOP, mornarsko plavi",
+          "barkod": "850070419277",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lokator CHIPOLO LOOP, boja metvice",
+          "barkod": "850070419284",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lokator CHIPOLO LOOP, 4 komada, 4 boje",
+          "barkod": "850070419314",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lokator CHIPOLO CARD, crni",
+          "barkod": "850070419321",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T6530 Trio 65W, 25W i 15W Fast Charge 2x USB-C i USB-A crni bez kabela",
+          "barkod": "8806092673885",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
+          "barkod": "6942103168246",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB crni",
+          "barkod": "8806097827221",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S25+ 5G 12/256GB crni",
+          "barkod": "8806095815312",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB nebesko plavi",
+          "barkod": "8806097826781",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Mini 5 Pro Fly More Combo (DJI RC2)",
+          "barkod": "6937224123212",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE 3 GPS 44mm Starlight Aluminium Case with Starlight Sport Band - M/L",
+          "barkod": "195950645996",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
+          "barkod": "8806097827177",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
