@@ -2,27 +2,27 @@
   "id": "prijem-1774408354699",
   "poslovnica": "split-cco",
   "datum": "2026-03-25",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-03-25T03:28:29.949Z",
-  "azurirano": "2026-03-25T03:28:29.949Z",
+  "azurirano": "2026-03-25T03:31:19.262Z",
   "dokumenti": [
     {
-      "naziv": "MeÃÂuskladiÃÂ¡ni izlaz br. 1917-101",
+      "naziv": "MeÃÂÃÂuskladiÃÂÃÂ¡ni izlaz br. 1917-101",
       "stavke": [
         {
-          "naziv": "UsisavaÃÂ Dyson V8 Absolute",
+          "naziv": "UsisavaÃÂÃÂ Dyson V8 Absolute",
           "barkod": "5025155090152",
           "ocekivano": 2,
           "skenirano": 0
         },
         {
-          "naziv": "UreÃÂaj za oblikovanje kose Dyson Airwrap i.d. Velvet Red/Gold Straight+Wavy",
+          "naziv": "UreÃÂÃÂaj za oblikovanje kose Dyson Airwrap i.d. Velvet Red/Gold Straight+Wavy",
           "barkod": "5025155112342",
           "ocekivano": 1,
           "skenirano": 0
         },
         {
-          "naziv": "UsisavaÃÂ Dyson V11 Advanced",
+          "naziv": "UsisavaÃÂÃÂ Dyson V11 Advanced",
           "barkod": "5025155096093",
           "ocekivano": 2,
           "skenirano": 0
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "naziv": "Međuskladišni izlaz br. 1929-101",
+      "naziv": "MeÄuskladiÅ¡ni izlaz br. 1929-101",
       "stavke": [
         {
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi SM-A576B",
@@ -69,7 +69,7 @@
           "skenirano": 0
         },
         {
-          "naziv": "Silikonska maska za Samsung Galaxy A57 5G ljubičasta",
+          "naziv": "Silikonska maska za Samsung Galaxy A57 5G ljubiÄasta",
           "barkod": "8806099037734",
           "ocekivano": 10,
           "skenirano": 0
@@ -82,5 +82,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-03-25T03:31:19.262Z"
 }
