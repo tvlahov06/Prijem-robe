@@ -30,7 +30,6 @@ var PDFParser = {
         cMapPacked: true
       }).promise;
     }).then(function(pdf) {
-      // Extract all text items with positions across all pages
       var allItems = [];
       var pagePromises = [];
 
@@ -58,14 +57,12 @@ var PDFParser = {
       }
 
       return Promise.all(pagePromises).then(function() {
-        // Sort items: by page, then Y descending (top to bottom), then X ascending
         allItems.sort(function(a, b) {
           if (a.page !== b.page) return a.page - b.page;
           if (Math.abs(a.y - b.y) > 4) return b.y - a.y;
           return a.x - b.x;
         });
 
-        // Group into rows by Y proximity
         var rows = [];
         var currentRow = [];
         var currentY = null;
@@ -84,12 +81,10 @@ var PDFParser = {
         }
         if (currentRow.length > 0) rows.push(currentRow);
 
-        // Sort within each row by X
         for (var r = 0; r < rows.length; r++) {
           rows[r].sort(function(a, b) { return a.x - b.x; });
         }
 
-        // Build line texts
         var lines = [];
         for (var r = 0; r < rows.length; r++) {
           var parts = [];
@@ -107,134 +102,89 @@ var PDFParser = {
         if (dm) docNum = dm[1];
         else {
           for (var i = 0; i < lines.length; i++) {
-            var m = lines[i].match(/^(\d{3,5}-\d{2,4})$/);
+            var m = lines[i].match(/(\d{3,5}-\d{2,4})/);
             if (m) { docNum = m[1]; break; }
           }
         }
         if (!docNum) docNum = file.name.replace(".pdf", "");
 
         // ========================================
-        // PARSE ITEMS USING RB + "kom" PATTERN
-        // Structure per item in the text:
-        //   Line: RB number (standalone integer 1-999)
-        //   Line: "kom"
-        //   Line: barcode (12-13 digit number)
-        //   Line: MPC price
-        //   Line: total price
-        //   Line: quantity (like "2,00")
-        //   Line: catalog number
-        //   Line: [optional Skl.Mj like "UE", "WW", "EU", "EE", or other]
-        //   Lines: product name (one or more lines until next RB)
+        // PARSE ITEMS FROM SINGLE-LINE FORMAT
+        // Each item line looks like:
+        //   "RB CATALOG NAME... BARCODE kom QTY MPC TOTAL"
+        // Where BARCODE is 12-13 digits
+        // And the line starts with a number (RB)
+        //
+        // Some items span 2 lines:
+        //   "1 SM-R390NZAAE Sat Samsung Galaxy Fit3 sivi SM-R390NZAAEUE 8806095362175 kom 2,00 39,00 78,00"
+        //   "UE"  (continuation - Skl.Mj. or extra name)
         // ========================================
 
         var items = [];
-        var i = 0;
 
-        while (i < lines.length) {
-          var line = lines[i].trim();
+        for (var i = 0; i < lines.length; i++) {
+          var line = lines[i];
 
-          // Check: is this line a standalone RB number (1-999)?
-          if (/^\d{1,3}$/.test(line)) {
-            var rb = parseInt(line);
-            if (rb > 0 && rb < 1000) {
-              // Check next line is "kom"
-              if (i + 1 < lines.length && lines[i + 1].trim() === "kom") {
-                // We found an item start!
-                var barcodeLine = (i + 2 < lines.length) ? lines[i + 2].trim() : "";
-                var mpcLine = (i + 3 < lines.length) ? lines[i + 3].trim() : "";
-                var totalLine = (i + 4 < lines.length) ? lines[i + 4].trim() : "";
-                var qtyLine = (i + 5 < lines.length) ? lines[i + 5].trim() : "1";
-                var catalogLine = (i + 6 < lines.length) ? lines[i + 6].trim() : "";
+          // Match: starts with RB number, contains 12-13 digit barcode, contains "kom" and quantity
+          var match = line.match(/^(\d{1,3})\s+\S+\s+(.*?)\s+(\d{12,13})\s+kom\s+(\d+)[,\.]\d+/);
 
-                // Parse barcode
-                var barcode = "";
-                var bcMatch = barcodeLine.match(/^(\d{12,13})$/);
-                if (bcMatch) {
-                  barcode = bcMatch[1];
-                } else {
-                  // Barcode might be on the same row with other data
-                  var bcSearch = barcodeLine.match(/(\d{12,13})/);
-                  if (bcSearch) barcode = bcSearch[1];
-                }
+          if (!match) continue;
 
-                // Parse quantity
-                var qty = 1;
-                var qtyMatch = qtyLine.match(/^(\d+),(\d+)$/);
-                if (qtyMatch) {
-                  qty = parseInt(qtyMatch[1]);
-                } else {
-                  var qtyNum = parseFloat(qtyLine.replace(",", "."));
-                  if (!isNaN(qtyNum) && qtyNum > 0) qty = Math.round(qtyNum);
-                }
+          var rb = parseInt(match[1]);
+          if (rb < 1 || rb > 999) continue;
 
-                // Skip catalog number and optional Skl.Mj, collect name lines
-                var nameStart = i + 7; // after catalog
-                
-                // Check if line at i+7 is a Skl.Mj code (UE, WW, EU, EE, HR, or short code)
-                if (nameStart < lines.length) {
-                  var maybeSklMj = lines[nameStart].trim();
-                  if (/^(UE|WW|EU|EE|HR|\d+\.\d+)$/.test(maybeSklMj) || maybeSklMj.length <= 4) {
-                    nameStart = i + 8;
-                  }
-                }
+          var rawName = match[2];
+          var barcode = match[3];
+          var qty = parseInt(match[4]);
 
-                // Collect name lines until next RB+kom or structural elements
-                var nameLines = [];
-                var j = nameStart;
-                while (j < lines.length) {
-                  var nextLine = lines[j].trim();
+          // Clean name: remove catalog number at the start
+          // The raw name includes catalog after RB, like "SM-R390NZAAE Sat Samsung..."
+          // We already skipped RB and first token (catalog) in the regex via \S+
+          // But rawName still might have trailing model codes
 
-                  // Stop if we hit next item (number followed by "kom")
-                  if (/^\d{1,3}$/.test(nextLine)) {
-                    var nextRb = parseInt(nextLine);
-                    if (nextRb > 0 && nextRb < 1000 && j + 1 < lines.length && lines[j + 1].trim() === "kom") {
-                      break;
-                    }
-                  }
-                  // Stop at structural elements
-                  if (/^Ukupno|^Stranica|^Izdao|^Sancta Domenica|^Vrijeme/.test(nextLine)) break;
-                  // Stop at page header repeated elements
-                  if (/^RB\s+Katalo/.test(nextLine)) break;
-                  if (nextLine === "Skl. Mj.") break;
+          // Remove trailing model/catalog codes (uppercase letters+numbers pattern at end)
+          var name = rawName;
+          // Remove trailing codes like "SM-R390NZAAEUE", "EP-T2510NWEGEU", "SM-G556B"
+          name = name.replace(/\s+[A-Z]{2,4}-[A-Z0-9]{3,}$/g, "");
+          // Remove trailing standalone model like "SM-A175B" but keep meaningful words
+          name = name.replace(/\s+SM-[A-Z0-9]+$/g, "");
 
-                  // Skip empty or very short lines
-                  if (nextLine.length > 1) {
-                    nameLines.push(nextLine);
-                  }
-                  j++;
-                }
-
-                var name = nameLines.join(" ").trim();
-
-                // Clean up name: remove trailing catalog codes like "SM-A175B", "EF-QA576CTEGWW", "EP-T2510NWEGEU"
-                name = name.replace(/\s+[A-Z]{2,4}-[A-Z0-9]{4,}$/g, "");
-                // Remove trailing codes in parentheses that are model numbers
-                // But keep useful parenthetical info like "(DJI RC2)"
-                
-                if (!name || name.length < 2) name = "Artikl " + barcode;
-
-                if (barcode) {
-                  // Check for duplicate barcodes
-                  var exists = false;
-                  for (var k = 0; k < items.length; k++) {
-                    if (items[k].barkod === barcode) { exists = true; break; }
-                  }
-                  if (!exists) {
-                    items.push({
-                      naziv: name,
-                      barkod: barcode,
-                      ocekivano: qty,
-                      skenirano: 0
-                    });
-                  }
-                }
-
-                i = j; // Jump to where we stopped
-                continue;
+          // Check next line for continuation (extra name text)
+          if (i + 1 < lines.length) {
+            var nextLine = lines[i + 1];
+            // Continuation lines start with Skl.Mj (UE, WW, EU, EE) or have extra text
+            // but DON'T start with a new RB number
+            if (!/^\d{1,3}\s+\S+\s+/.test(nextLine) && !/^Ukupno|^Stranica|^Izdao|^Vrijeme|^Sancta|^RB\s/.test(nextLine)) {
+              // It's a continuation - extract useful name parts
+              var extra = nextLine;
+              // Remove Skl.Mj prefix
+              extra = extra.replace(/^(UE|WW|EU|EE|HR|\d+\.\d+)\s*/, "");
+              // Remove trailing catalog codes
+              extra = extra.replace(/\s*[A-Z]{2,4}-[A-Z0-9]{4,}$/g, "");
+              extra = extra.replace(/\s*SM-[A-Z0-9]+$/g, "");
+              extra = extra.trim();
+              if (extra.length > 1 && /[a-zA-Z]/.test(extra)) {
+                name = name + " " + extra;
               }
             }
           }
-          i++;
+
+          name = name.trim();
+          if (!name || name.length < 2) name = "Artikl " + barcode;
+
+          // Avoid duplicates
+          var exists = false;
+          for (var k = 0; k < items.length; k++) {
+            if (items[k].barkod === barcode) { exists = true; break; }
+          }
+          if (!exists) {
+            items.push({
+              naziv: name,
+              barkod: barcode,
+              ocekivano: qty,
+              skenirano: 0
+            });
+          }
         }
 
         console.log("Parsed " + items.length + " items:", items);
