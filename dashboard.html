@@ -20,10 +20,15 @@
   </style>
 </head>
 <body>
+  <script>if(localStorage.getItem("theme")==="dark")document.documentElement.setAttribute("data-theme","dark");</script>
   <div class="app">
     <div class="page-header">
-      <div class="title-group"><h1>&#128230; Prijemi robe</h1><p id="pn"></p></div>
-      <div class="header-action" style="display:flex;gap:8px">
+      <div class="title-group">
+        <h1>&#128230; Prijemi robe</h1>
+        <div class="poslovnica-name" id="pn"></div>
+      </div>
+      <div class="header-action" style="display:flex;gap:8px;align-items:center">
+        <div class="theme-toggle" id="theme-toggle" title="Tamni/svijetli nacin"></div>
         <button id="new-btn" class="btn btn-primary btn-sm">+ Novi prijem</button>
         <button onclick="Auth.logout()" class="btn-icon" title="Odjava">&#9211;</button>
       </div>
@@ -100,6 +105,16 @@
     }
 
     function toast(m, t) { var old = document.querySelectorAll(".toast"); for(var i=0;i<old.length;i++) old[i].remove(); var el = document.createElement("div"); el.className = "toast " + t; el.textContent = m; document.body.appendChild(el); setTimeout(function() { el.remove(); }, 3000); }
+
+    // Dark mode toggle
+    var toggle = document.getElementById("theme-toggle");
+    if (localStorage.getItem("theme") === "dark") { document.documentElement.setAttribute("data-theme", "dark"); toggle.classList.add("dark"); }
+    toggle.addEventListener("click", function() {
+      var isDark = document.documentElement.getAttribute("data-theme") === "dark";
+      if (isDark) { document.documentElement.removeAttribute("data-theme"); toggle.classList.remove("dark"); localStorage.setItem("theme", "light"); }
+      else { document.documentElement.setAttribute("data-theme", "dark"); toggle.classList.add("dark"); localStorage.setItem("theme", "dark"); }
+    });
+
     load();
   </script>
 </body>

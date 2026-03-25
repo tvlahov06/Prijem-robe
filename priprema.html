@@ -22,11 +22,15 @@
   </style>
 </head>
 <body>
+  <script>if(localStorage.getItem("theme")==="dark")document.documentElement.setAttribute("data-theme","dark");</script>
   <div class="app">
     <div class="page-header">
       <button class="back-btn" onclick="window.location.href='dashboard.html'">&#8592;</button>
       <div class="title-group"><h1>Priprema prijema</h1><p id="pn"></p></div>
-      <div class="header-action"><button id="save-btn" class="btn btn-success btn-sm" disabled>&#128190; Spremi</button></div>
+      <div class="header-action" style="display:flex;gap:6px;align-items:center">
+        <div class="theme-toggle" id="theme-toggle" onclick="var d=document.documentElement.getAttribute('data-theme')==='dark';if(d){document.documentElement.removeAttribute('data-theme');this.classList.remove('dark');localStorage.setItem('theme','light')}else{document.documentElement.setAttribute('data-theme','dark');this.classList.add('dark');localStorage.setItem('theme','dark')}"></div>
+        <button id="save-btn" class="btn btn-success btn-sm" disabled>&#128190; Spremi</button>
+      </div>
     </div>
     <div id="upload-zone" class="upload-zone">
       <div class="upload-icon">&#128196;</div><h3>Ucitaj PDF dostavnice</h3><p>Povuci datoteke ovdje ili klikni za odabir</p>
@@ -170,6 +174,7 @@
     }
 
     function toast(m, t) { var old = document.querySelectorAll(".toast"); for(var i=0;i<old.length;i++) old[i].remove(); var el = document.createElement("div"); el.className = "toast " + t; el.textContent = m; document.body.appendChild(el); setTimeout(function() { el.remove(); }, 3000); }
+    if(localStorage.getItem("theme")==="dark") document.getElementById("theme-toggle").classList.add("dark");
     loadEx();
   </script>
 </body>

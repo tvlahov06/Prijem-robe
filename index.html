@@ -13,8 +13,12 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
 </head>
 <body>
+  <script>if(localStorage.getItem("theme")==="dark")document.documentElement.setAttribute("data-theme","dark");</script>
   <div class="login-wrapper">
     <div class="login-box">
+      <div style="text-align:right;margin-bottom:12px">
+        <div class="theme-toggle" id="theme-toggle" title="Tamni/svijetli nacin" style="display:inline-block"></div>
+      </div>
       <div class="login-logo">
         <img src="icons/logo.svg" alt="PR" style="width:72px;height:72px;border-radius:20px;">
         <h1>Prijem Robe</h1>
@@ -23,7 +27,7 @@
       <div class="login-card">
         <div class="form-group">
           <label>Poslovnica</label>
-          <select id="sel" disabled><option value="">Ucitavanje...</option></select>
+          <select id="sel" disabled style="font-size:18px;font-weight:600;padding:14px 16px"><option value="">Ucitavanje...</option></select>
         </div>
         <div class="form-group">
           <label>PIN</label>
@@ -136,6 +140,15 @@
 
     function showErr(m) { err.textContent = m; err.style.display = "block"; }
     function hideErr() { err.style.display = "none"; }
+
+    // Dark mode
+    var toggle = document.getElementById("theme-toggle");
+    if (localStorage.getItem("theme") === "dark") { document.documentElement.setAttribute("data-theme", "dark"); toggle.classList.add("dark"); }
+    toggle.addEventListener("click", function() {
+      var isDark = document.documentElement.getAttribute("data-theme") === "dark";
+      if (isDark) { document.documentElement.removeAttribute("data-theme"); toggle.classList.remove("dark"); localStorage.setItem("theme", "light"); }
+      else { document.documentElement.setAttribute("data-theme", "dark"); toggle.classList.add("dark"); localStorage.setItem("theme", "dark"); }
+    });
 
     if (Auth.isLoggedIn()) window.location.href = "dashboard.html";
     else updateUI();
