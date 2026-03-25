@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prijem Robe</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="login-wrapper">
+    <div class="login-box">
+      <div class="login-logo">
+        <div class="icon">📦</div>
+        <h1>Prijem Robe</h1>
+        <p>Sustav za prijem i kontrolu robe</p>
+      </div>
+      <div class="login-card">
+        <div class="form-group">
+          <label>Poslovnica</label>
+          <select id="sel" disabled><option value="">Učitavanje...</option></select>
+        </div>
+        <div class="form-group">
+          <label>PIN</label>
+          <div class="pin-input-group">
+            <input type="password" class="pin-digit" maxlength="1" inputmode="numeric" autocomplete="off">
+            <input type="password" class="pin-digit" maxlength="1" inputmode="numeric" autocomplete="off">
+            <input type="password" class="pin-digit" maxlength="1" inputmode="numeric" autocomplete="off">
+            <input type="password" class="pin-digit" maxlength="1" inputmode="numeric" autocomplete="off">
+          </div>
+        </div>
+        <div id="err" class="error-msg" style="display:none"></div>
+        <button id="login-btn" class="btn btn-primary btn-full" disabled>Prijava</button>
+        <div class="token-section">
+          <details id="token-det">
+            <summary>⚙ GitHub Token</summary>
+            <div class="token-input-wrap">
+              <div class="form-group" style="margin-bottom:8px">
+                <input type="password" id="gh-token" placeholder="Unesi GitHub token" autocomplete="off">
+              </div>
+              <button id="save-token" class="btn btn-secondary btn-sm btn-full">Spremi token</button>
+              <div id="token-status" class="token-status"></div>
+            </div>
+          </details>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="js/github.js"></script>
+  <script src="js/auth.js"></script>
+  <script>
+    const pins = document.querySelectorAll('.pin-digit');
+    const loginBtn = document.getElementById('login-btn');
+    const sel = document.getElementById('sel');
+    const err = document.getElementById('err');
+    const tokenDet = document.getElementById('token-det');
+    const tokenSt = document.getElementById('token-status');
+
+    pins.forEach((d, i) => {
+      d.addEventListener('input', () => { if (d.value && i < 3) pins[i+1].focus(); d.classList.toggle('filled', !!d.value); chk(); });
+      d.addEventListener('keydown', e => { if (e.key === 'Backspace' && !d.value && i > 0) { pins[i-1].focus(); pins[i-1].value = ''; pins[i-1].classList.remove('filled'); } });
+      d.addEventListener('paste', e => { e.preventDefault(); const p = (e.clipboardData||window.clipboardData).getData('text').trim(); if (/^\d{4}$/.test(p)) { pins.forEach((dd,j)=>{dd.value=p[j];dd.classList.add('filled');}); pins[3].focus(); chk(); } });
+    });
+
+    const getPin = () => Array.from(pins).map(d=>d.value).join('');
+    const chk = () => { loginBtn.disabled = getPin().length !== 4 || !sel.value; };
+    sel.addEventListener('change', chk);
+
+    function updateUI() {
+      if (GitHubStorage.isConfigured()) {
+        const c = GitHubStorage.getConfig();
+        tokenSt.className = 'token-status connected';
+        tokenSt.innerHTML = `<span class="status-dot green"></span> Povezano: ${c.owner}/${c.repo}`;
+        document.getElementById('gh-token').value = '••••••••';
+        tokenDet.removeAttribute('open');
+        loadPoslovnice();
+      } else {
+        tokenSt.className = 'token-status disconnected';
+        tokenSt.innerHTML = '<span class="status-dot red"></span> Token nije postavljen';
+        tokenDet.setAttribute('open', '');
+        sel.innerHTML = '<option value="">Prvo postavi token</option>';
+      }
+    }
+
+    document.getElementById('save-token').addEventListener('click', async () => {
+      const token = document.getElementById('gh-token').value.trim();
+      if (!token || token === '••••••••') { showErr('Unesi token'); return; }
+      const btn = document.getElementById('save-token');
+      btn.textContent = 'Povezujem...'; btn.disabled = true;
+      try {
+        await GitHubStorage.saveToken(token);
+        try { await GitHubStorage.ensureDataStructure(); } catch {}
+        updateUI();
+      } catch (e) {
+        GitHubStorage.clearConfig();
+        showErr('Neispravan token ili nema pristupa repozitoriju.');
+      }
+      btn.textContent = 'Spremi token'; btn.disabled = false;
+    });
+
+    async function loadPoslovnice() {
+      if (!GitHubStorage.isConfigured()) return;
+      try {
+        const data = await GitHubStorage.readFile('data/poslovnice.json');
+        if (data?.content?.poslovnice) {
+          sel.innerHTML = '<option value="">— Odaberi poslovnicu —</option>';
+          data.content.poslovnice.forEach(p => { sel.innerHTML += `<option value="${p.id}">${p.naziv}</option>`; });
+          sel.disabled = false;
+        }
+      } catch { sel.innerHTML = '<option value="">Greška</option>'; }
+    }
+
+    loginBtn.addEventListener('click', doLogin);
+    pins[3].addEventListener('keydown', e => { if (e.key === 'Enter' && !loginBtn.disabled) doLogin(); });
+
+    async function doLogin() {
+      loginBtn.textContent = 'Prijava...'; loginBtn.disabled = true; hideErr();
+      try { await Auth.login(sel.value, getPin()); window.location.href = 'dashboard.html'; }
+      catch (e) { showErr(e.message); pins.forEach(d=>{d.value='';d.classList.remove('filled');}); pins[0].focus(); }
+      loginBtn.textContent = 'Prijava'; loginBtn.disabled = false;
+    }
+
+    const showErr = m => { err.textContent = m; err.style.display = 'block'; };
+    const hideErr = () => { err.style.display = 'none'; };
+
+    if (Auth.isLoggedIn()) window.location.href = 'dashboard.html';
+    else updateUI();
+  </script>
+</body>
+</html>

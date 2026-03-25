@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prijem Robe — Dashboard</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="app">
+    <div class="page-header">
+      <div class="title-group">
+        <h1>📦 Prijemi robe</h1>
+        <p id="pn"></p>
+      </div>
+      <div class="header-action" style="display:flex;gap:8px">
+        <button id="new-btn" class="btn btn-primary btn-sm">+ Novi prijem</button>
+        <button onclick="Auth.logout()" class="btn-icon" title="Odjava">⏻</button>
+      </div>
+    </div>
+    <div class="stats-row">
+      <div class="stat-card"><div class="value" id="st">-</div><div class="label">Ukupno</div></div>
+      <div class="stat-card"><div class="value" id="sa">-</div><div class="label">Aktivnih</div></div>
+      <div class="stat-card stat-success"><div class="value" id="sd">-</div><div class="label">Završenih</div></div>
+    </div>
+    <div id="list" class="prijem-list"><div class="empty-state loading"><div class="empty-icon">⏳</div><h3>Učitavanje...</h3></div></div>
+  </div>
+  <script src="js/github.js"></script>
+  <script src="js/auth.js"></script>
+  <script>
+    if (!Auth.requireAuth()) throw 0;
+    document.getElementById('pn').textContent = Auth.getPoslovnica();
+    document.getElementById('new-btn').addEventListener('click', () => { window.location.href = 'priprema.html'; });
+
+    const list = document.getElementById('list');
+
+    async function load() {
+      const pid = Auth.getPoslovnicaId();
+      try {
+        const files = await GitHubStorage.listFiles(`data/prijemi/${pid}`);
+        const prijemi = [];
+        for (const f of (files||[]).filter(f => f.name.endsWith('.json') && !f.name.startsWith('.'))) {
+          try { const d = await GitHubStorage.readFile(f.path); if (d) prijemi.push({ ...d.content, _sha: d.sha, _path: f.path }); } catch {}
+        }
+        prijemi.sort((a, b) => new Date(b.datum) - new Date(a.datum));
+
+        document.getElementById('st').textContent = prijemi.length;
+        document.getElementById('sa').textContent = prijemi.filter(p => p.status !== 'zavrsen').length;
+        document.getElementById('sd').textContent = prijemi.filter(p => p.status === 'zavrsen').length;
+
+        if (!prijemi.length) { list.innerHTML = '<div class="empty-state"><div class="empty-icon">📋</div><h3>Nema prijema</h3><p>Klikni "+ Novi prijem" za početak.</p></div>'; return; }
+
+        list.innerHTML = '';
+        prijemi.forEach(p => {
+          const totO = p.dokumenti.reduce((s,d) => s + d.stavke.reduce((ss,st) => ss + st.ocekivano, 0), 0);
+          const totS = p.dokumenti.reduce((s,d) => s + d.stavke.reduce((ss,st) => ss + (st.skenirano||0), 0), 0);
+          const totA = p.dokumenti.reduce((s,d) => s + d.stavke.length, 0);
+          const date = new Date(p.datum).toLocaleDateString('hr-HR', { day:'numeric', month:'short', year:'numeric' });
+
+          const card = document.createElement('div');
+          card.className = 'prijem-card';
+          card.style.cursor = 'pointer';
+          card.innerHTML = `
+            <div class="prijem-info" style="flex:1">
+              <div class="prijem-date">${date}</div>
+              <div class="prijem-meta">${p.dokumenti.length} dok. · ${totA} artikala · ${totS}/${totO} sken.</div>
+            </div>
+            <span class="status-badge ${p.status}">${p.status === 'priprema' ? 'Priprema' : p.status === 'aktivan' ? 'Aktivan' : 'Završen'}</span>
+            <button class="btn-icon delete-btn" title="Obriši" style="margin-left:8px;width:32px;height:32px;font-size:14px;color:var(--danger);border-color:var(--danger-border);">✕</button>
+          `;
+
+          // Click on card -> open
+          card.addEventListener('click', (e) => {
+            if (e.target.closest('.delete-btn')) return;
+            window.location.href = p.status === 'priprema' ? `priprema.html?id=${p.id}` : `skeniranje.html?id=${p.id}`;
+          });
+
+          // Delete button
+          card.querySelector('.delete-btn').addEventListener('click', async (e) => {
+            e.stopPropagation();
+            if (!confirm(`Obrisati prijem od ${date}?`)) return;
+            try {
+              await GitHubStorage.deleteFile(p._path, p._sha, `Brisanje prijema ${date}`);
+              card.remove();
+              toast('Prijem obrisan', 'success');
+              // Refresh stats
+              load();
+            } catch (err) { toast('Greška: ' + err.message, 'error'); }
+          });
+
+          list.appendChild(card);
+        });
+      } catch (e) { list.innerHTML = `<div class="empty-state"><div class="empty-icon">⚠️</div><h3>Greška</h3><p>${e.message}</p></div>`; }
+    }
+
+    function toast(msg, type) {
+      document.querySelectorAll('.toast').forEach(t => t.remove());
+      const t = document.createElement('div'); t.className = `toast ${type}`; t.textContent = msg;
+      document.body.appendChild(t); setTimeout(() => t.remove(), 3000);
+    }
+
+    load();
+  </script>
+</body>
+</html>

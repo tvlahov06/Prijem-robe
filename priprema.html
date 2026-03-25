@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prijem Robe — Priprema</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="app">
+    <div class="page-header">
+      <button class="back-btn" onclick="window.location.href='dashboard.html'">←</button>
+      <div class="title-group"><h1>Priprema prijema</h1><p id="pn"></p></div>
+      <div class="header-action"><button id="save-btn" class="btn btn-success btn-sm" disabled>💾 Spremi</button></div>
+    </div>
+    <div id="upload-zone" class="upload-zone">
+      <div class="upload-icon">📄</div><h3>Učitaj PDF dostavnice</h3><p>Povuci datoteke ovdje ili klikni za odabir</p>
+      <input type="file" id="fi" accept=".pdf" multiple style="display:none">
+    </div>
+    <div id="fl" style="margin:16px 0;display:none">
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px">
+        <span style="font-size:13px;color:var(--text-secondary);font-weight:500">Učitani dokumenti:</span>
+        <button id="add-more" class="btn btn-secondary btn-sm">+ Dodaj PDF</button>
+      </div>
+      <div id="ft" style="display:flex;flex-wrap:wrap;gap:6px"></div>
+    </div>
+    <div id="pl" style="display:none;text-align:center;padding:40px"><div style="font-size:32px" class="loading">⚙️</div><p style="color:var(--text-secondary);margin-top:8px">Čitam PDF-ove...</p></div>
+    <div id="is" style="display:none">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px">
+        <span style="font-size:14px;color:var(--text-secondary)">Ukupno: <strong id="ti" style="color:var(--text)">0</strong> artikala, <strong id="tq" style="color:var(--text)">0</strong> komada</span>
+      </div>
+      <div class="article-list-section"><div class="article-list-header">Artikli</div><div id="il"></div></div>
+      <div style="margin-top:14px;display:flex;gap:8px;flex-wrap:wrap">
+        <input type="text" id="mn" placeholder="Naziv artikla" style="flex:2;min-width:140px;padding:10px 12px;background:var(--bg-white);border:1.5px solid var(--border);border-radius:10px;font-size:14px;font-family:var(--font);color:var(--text);outline:none">
+        <input type="text" id="mb" placeholder="Barkod" style="flex:1;min-width:110px;padding:10px 12px;background:var(--bg-white);border:1.5px solid var(--border);border-radius:10px;font-size:14px;font-family:var(--font);color:var(--text);outline:none">
+        <input type="text" inputmode="numeric" id="mq" placeholder="Kol." value="1" style="width:60px;padding:10px 8px;background:var(--bg-white);border:1.5px solid var(--border);border-radius:10px;font-size:14px;text-align:center;font-family:var(--font);color:var(--text);outline:none">
+        <button id="ma" class="btn btn-secondary btn-sm">+ Dodaj</button>
+      </div>
+    </div>
+  </div>
+  <script src="js/github.js"></script>
+  <script src="js/auth.js"></script>
+  <script src="js/pdfParser.js"></script>
+  <script>
+    if (!Auth.requireAuth()) throw 0;
+    document.getElementById('pn').textContent = Auth.getPoslovnica();
+    const uz = document.getElementById('upload-zone'), fi = document.getElementById('fi'), fl = document.getElementById('fl'), ft = document.getElementById('ft'), il = document.getElementById('il'), saveBtn = document.getElementById('save-btn');
+    let docs = [], exId = null, exSha = null;
+    const editId = new URLSearchParams(window.location.search).get('id');
+
+    uz.addEventListener('click', () => fi.click());
+    document.getElementById('add-more').addEventListener('click', () => fi.click());
+    uz.addEventListener('dragover', e => { e.preventDefault(); uz.classList.add('dragover'); });
+    uz.addEventListener('dragleave', () => uz.classList.remove('dragover'));
+    uz.addEventListener('drop', e => { e.preventDefault(); uz.classList.remove('dragover'); proc(Array.from(e.dataTransfer.files).filter(f => f.type === 'application/pdf')); });
+    fi.addEventListener('change', e => { proc(Array.from(e.target.files)); fi.value = ''; });
+
+    async function proc(files) {
+      if (!files.length) return;
+      document.getElementById('pl').style.display = 'block';
+      try { const r = await PDFParser.parseMultiple(files); r.forEach(d => { docs.push(d); addTag(d); }); fl.style.display = 'block'; render(); }
+      catch (e) { toast('Greška: ' + e.message, 'error'); }
+      document.getElementById('pl').style.display = 'none';
+    }
+
+    function addTag(d) { const t = document.createElement('span'); t.className = 'file-tag'; t.innerHTML = `📄 ${d.dokumentNaziv} <span class="count">(${d.stavke.length})</span>`; ft.appendChild(t); }
+
+    function render() {
+      il.innerHTML = ''; let tot = 0, tq = 0, gi = 0;
+      docs.forEach((d, di) => {
+        const sep = document.createElement('div'); sep.className = 'doc-separator'; sep.textContent = '📄 ' + d.dokumentNaziv; il.appendChild(sep);
+        d.stavke.forEach((s, si) => {
+          gi++; tot++; tq += s.ocekivano;
+          const el = document.createElement('div'); el.className = 'article-item';
+          el.innerHTML = `<div class="article-icon status-none">📦</div><div class="article-info"><div class="name">${s.naziv}</div><div class="barcode">${s.barkod}</div></div><div class="article-count"><span style="font-weight:700">${s.ocekivano}</span> <span style="color:var(--text-muted)">kom</span></div><button class="btn-icon" onclick="rmItem(${di},${si})" style="width:28px;height:28px;font-size:12px;color:var(--danger);border-color:var(--danger-border)">✕</button>`;
+          il.appendChild(el);
+        });
+      });
+      document.getElementById('ti').textContent = tot; document.getElementById('tq').textContent = tq;
+      document.getElementById('is').style.display = tot > 0 ? 'block' : 'none'; saveBtn.disabled = tot === 0;
+    }
+
+    window.rmItem = (di, si) => { docs[di].stavke.splice(si, 1); if (!docs[di].stavke.length) docs.splice(di, 1); ft.innerHTML = ''; docs.forEach(d => addTag(d)); render(); };
+
+    document.getElementById('ma').addEventListener('click', () => {
+      const n = document.getElementById('mn').value.trim(), b = document.getElementById('mb').value.trim(), q = parseInt(document.getElementById('mq').value) || 1;
+      if (!n || !b) { toast('Unesi naziv i barkod', 'error'); return; }
+      let m = docs.find(d => d.dokumentNaziv === 'Ručni unos');
+      if (!m) { m = { dokumentNaziv: 'Ručni unos', stavke: [] }; docs.push(m); addTag(m); fl.style.display = 'block'; }
+      m.stavke.push({ naziv: n, barkod: b, ocekivano: q, skenirano: 0 });
+      document.getElementById('mn').value = ''; document.getElementById('mb').value = ''; document.getElementById('mq').value = '1';
+      render();
+    });
+
+    saveBtn.addEventListener('click', async () => {
+      if (!docs.length) return;
+      saveBtn.disabled = true; saveBtn.textContent = '⏳ Spremam...';
+      try {
+        const pid = Auth.getPoslovnicaId(), now = new Date(), id = exId || `prijem-${now.getTime()}`;
+        const data = { id, poslovnica: pid, datum: now.toISOString().split('T')[0], status: 'aktivan', kreirano: now.toISOString(), azurirano: now.toISOString(),
+          dokumenti: docs.map(d => ({ naziv: d.dokumentNaziv, stavke: d.stavke.map(s => ({ naziv: s.naziv, barkod: s.barkod, ocekivano: s.ocekivano, skenirano: s.skenirano || 0 })) })) };
+        await GitHubStorage.writeFile(`data/prijemi/${pid}/${id}.json`, data, `Prijem ${data.datum}`, exSha);
+        toast('Spremljeno!', 'success'); setTimeout(() => window.location.href = 'dashboard.html', 800);
+      } catch (e) { toast('Greška: ' + e.message, 'error'); saveBtn.disabled = false; saveBtn.textContent = '💾 Spremi'; }
+    });
+
+    async function loadEx() {
+      if (!editId) return;
+      try { const d = await GitHubStorage.readFile(`data/prijemi/${Auth.getPoslovnicaId()}/${editId}.json`);
+        if (d) { exId = d.content.id; exSha = d.sha; docs = d.content.dokumenti.map(doc => ({ dokumentNaziv: doc.naziv, stavke: doc.stavke })); fl.style.display = 'block'; docs.forEach(d => addTag(d)); render(); }
+      } catch {}
+    }
+
+    function toast(m, t) { document.querySelectorAll('.toast').forEach(t => t.remove()); const el = document.createElement('div'); el.className = `toast ${t}`; el.textContent = m; document.body.appendChild(el); setTimeout(() => el.remove(), 3000); }
+    loadEx();
+  </script>
+</body>
+</html>
