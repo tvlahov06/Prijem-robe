@@ -1,6 +1,14 @@
 {
   "poslovnice": [
-    { "id": "split-cco", "naziv": "BB Split CCO", "pin": "4020" },
-    { "id": "zadar", "naziv": "BB Zadar", "pin": "4050" }
+    {"id":"split-cco","naziv":"BB Split CCO","pin":"4020"},
+    {"id":"zadar","naziv":"BB Zadar","pin":"4050"},
+    {"id":"rijeka","naziv":"BB Rijeka","pin":"4031"},
+    {"id":"varazdin","naziv":"BB Varazdin","pin":"4070"},
+    {"id":"osijek","naziv":"BB Osijek","pin":"1070"},
+    {"id":"zagreb-arena","naziv":"BB Zagreb Arena","pin":"2046"},
+    {"id":"zagreb-cco-west","naziv":"BB Zagreb CCO West","pin":"2070"},
+    {"id":"zagreb-cco-east","naziv":"BB Zagreb CCO East","pin":"2060"},
+    {"id":"sveta-nedelja","naziv":"BB Sveta Nedelja","pin":"1020"},
+    {"id":"zagreb-ses","naziv":"BB Zagreb SES","pin":"2042"}
   ]
 }
