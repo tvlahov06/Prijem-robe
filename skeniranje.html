@@ -19,9 +19,16 @@
       .article-info .name{font-size:12px}
       .article-info .barcode{font-size:11px}
       .qi{width:40px;font-size:14px;padding:4px 1px}
-      .scan-input-row input{font-size:14px;padding:12px}
+      .scan-input-row input{font-size:16px;padding:12px}
       .bottom-actions{position:sticky;bottom:0;background:var(--bg);padding:12px 0}
     }
+    .online-badge{display:inline-flex;align-items:center;gap:5px;font-size:12px;font-weight:600;padding:4px 10px;border-radius:20px;margin-left:8px}
+    .online-badge.online{background:var(--success-bg);color:var(--success)}
+    .online-badge.offline{background:var(--danger-bg);color:var(--danger)}
+    .online-badge .dot{width:7px;height:7px;border-radius:50%}
+    .online-badge.online .dot{background:var(--success)}
+    .online-badge.offline .dot{background:var(--danger);animation:pulse 1.5s infinite}
+    .pending-badge{font-size:11px;color:var(--warning);margin-left:6px;font-weight:500}
   </style>
 </head>
 <body>
@@ -29,7 +36,10 @@
   <div class="app">
     <div class="page-header">
       <button class="back-btn" onclick="window.location.href='dashboard.html'">&#8592;</button>
-      <div class="title-group"><h1 id="dt">Ucitavanje...</h1><p id="dd"></p></div>
+      <div class="title-group">
+        <h1 id="dt">Ucitavanje...<span id="net-badge" class="online-badge online"><span class="dot"></span>Online</span></h1>
+        <p id="dd"></p>
+      </div>
       <div class="header-action" style="display:flex;gap:6px;align-items:center">
         <div class="theme-toggle" id="theme-toggle" onclick="var d=document.documentElement.getAttribute('data-theme')==='dark';if(d){document.documentElement.removeAttribute('data-theme');this.classList.remove('dark');localStorage.setItem('theme','light')}else{document.documentElement.setAttribute('data-theme','dark');this.classList.add('dark');localStorage.setItem('theme','dark')}"></div>
         <button id="edit-btn" class="btn btn-secondary btn-sm">&#9998; Uredi</button>
@@ -51,7 +61,7 @@
     <div id="sb" class="scan-banner"></div>
 
     <div class="scan-section">
-      <div style="margin-bottom:8px;font-size:13px;color:var(--text-secondary);font-weight:500">Barkod unos:</div>
+      <div style="margin-bottom:8px;font-size:13px;color:var(--text-secondary);font-weight:500">Barkod unos:<span id="pending-info" class="pending-badge"></span></div>
       <div class="scan-input-row">
         <input type="text" id="si" placeholder="Skeniraj ili upisi barkod..." autocomplete="off" autofocus>
       </div>
@@ -64,9 +74,11 @@
 
     <div class="bottom-actions">
       <button id="exp-btn" class="btn btn-secondary btn-sm">&#128202; Eksport</button>
+      <button id="sync-btn" class="btn btn-primary btn-sm" style="display:none">&#8635; Sync</button>
       <div class="spacer"></div>
       <button id="rst-btn" class="btn btn-danger btn-sm">&#8634; Reset</button>
     </div>
+
   </div>
 
   <script src="js/github.js"></script>
@@ -79,35 +91,125 @@
     var pId = new URLSearchParams(window.location.search).get("id");
     if (!pId) window.location.href = "dashboard.html";
 
-    // Edit button -> go to priprema with this prijem ID
+    var isOnline = navigator.onLine;
+    var pendingSave = false;
+    var localKey = "prijem_local_" + pId;
+    var netBadge = document.getElementById("net-badge");
+    var pendingInfo = document.getElementById("pending-info");
+    var syncBtn = document.getElementById("sync-btn");
+
+    // ========== ONLINE/OFFLINE DETECTION ==========
+    function updateNetStatus() {
+      isOnline = navigator.onLine;
+      if (isOnline) {
+        netBadge.className = "online-badge online";
+        netBadge.innerHTML = '<span class="dot"></span>Online';
+        // Auto-sync if there are pending changes
+        if (pendingSave) { syncToGitHub(); }
+      } else {
+        netBadge.className = "online-badge offline";
+        netBadge.innerHTML = '<span class="dot"></span>Offline';
+      }
+      updatePendingUI();
+    }
+
+    window.addEventListener("online", updateNetStatus);
+    window.addEventListener("offline", updateNetStatus);
+
+    function updatePendingUI() {
+      if (pendingSave) {
+        pendingInfo.textContent = "(nespremljene promjene)";
+        syncBtn.style.display = isOnline ? "inline-flex" : "none";
+      } else {
+        pendingInfo.textContent = "";
+        syncBtn.style.display = "none";
+      }
+    }
+
+    // ========== LOCAL STORAGE ==========
+    function saveLocal() {
+      try {
+        localStorage.setItem(localKey, JSON.stringify({ data: pData, sha: pSha, time: new Date().toISOString() }));
+      } catch(e) { console.warn("Local save failed:", e); }
+    }
+
+    function loadLocal() {
+      try {
+        var saved = localStorage.getItem(localKey);
+        if (saved) return JSON.parse(saved);
+      } catch(e) {}
+      return null;
+    }
+
+    // ========== LOAD PRIJEM ==========
+    function load() {
+      if (isOnline) {
+        // Try loading from GitHub
+        GitHubStorage.readFile("data/prijemi/" + Auth.getPoslovnicaId() + "/" + pId + ".json").then(function(d) {
+          if (!d) {
+            // Not on GitHub, try local
+            var local = loadLocal();
+            if (local) { initFromData(local.data, local.sha); return; }
+            alert("Nije pronadjen"); window.location.href = "dashboard.html"; return;
+          }
+          // Check if local version is newer
+          var local = loadLocal();
+          if (local && local.data.azurirano && d.content.azurirano && new Date(local.data.azurirano) > new Date(d.content.azurirano)) {
+            // Local is newer (was edited offline), use local but keep remote sha for next save
+            initFromData(local.data, d.sha);
+            pendingSave = true;
+            updatePendingUI();
+          } else {
+            initFromData(d.content, d.sha);
+          }
+        }).catch(function(e) {
+          console.warn("GitHub load failed, trying local:", e);
+          var local = loadLocal();
+          if (local) { initFromData(local.data, local.sha); toast("Offline - lokalni podaci", "error"); }
+          else { alert("Greska: " + e.message); }
+        });
+      } else {
+        // Offline - load from local
+        var local = loadLocal();
+        if (local) {
+          initFromData(local.data, local.sha);
+          toast("Offline nacin rada", "error");
+        } else {
+          alert("Nema internetske veze i nema lokalnih podataka.");
+          window.location.href = "dashboard.html";
+        }
+      }
+    }
+
+    function initFromData(data, sha) {
+      pData = data;
+      pSha = sha;
+      document.getElementById("dt").innerHTML = pData.dokumenti.map(function(d) { return d.naziv; }).join(", ") + '<span id="net-badge" class="online-badge ' + (isOnline ? "online" : "offline") + '"><span class="dot"></span>' + (isOnline ? "Online" : "Offline") + '</span>';
+      netBadge = document.getElementById("net-badge");
+      document.getElementById("dd").textContent = new Date(pData.datum).toLocaleDateString("hr-HR", { day:"numeric", month:"long", year:"numeric" }) + ".";
+      items = [];
+      for (var di = 0; di < pData.dokumenti.length; di++) {
+        for (var si = 0; si < pData.dokumenti[di].stavke.length; si++) {
+          var s = pData.dokumenti[di].stavke[si];
+          items.push({ di: di, si: si, dn: pData.dokumenti[di].naziv, naziv: s.naziv, barkod: s.barkod, ocekivano: s.ocekivano, skenirano: s.skenirano || 0 });
+        }
+      }
+      if (pData.status === "zavrsen") setFin(true);
+      saveLocal(); // Cache locally
+      render(); stats();
+      Scanner.init("#si", "#sb", scan);
+    }
+
     document.getElementById("edit-btn").addEventListener("click", function() {
       window.location.href = "priprema.html?id=" + pId;
     });
-
-    function load() {
-      GitHubStorage.readFile("data/prijemi/" + Auth.getPoslovnicaId() + "/" + pId + ".json").then(function(d) {
-        if (!d) { alert("Nije pronadjen"); window.location.href = "dashboard.html"; return; }
-        pData = d.content; pSha = d.sha;
-        document.getElementById("dt").textContent = pData.dokumenti.map(function(d) { return d.naziv; }).join(", ");
-        document.getElementById("dd").textContent = new Date(pData.datum).toLocaleDateString("hr-HR", { day:"numeric", month:"long", year:"numeric" }) + ".";
-        items = [];
-        for (var di = 0; di < pData.dokumenti.length; di++) {
-          for (var si = 0; si < pData.dokumenti[di].stavke.length; si++) {
-            var s = pData.dokumenti[di].stavke[si];
-            items.push({ di: di, si: si, dn: pData.dokumenti[di].naziv, naziv: s.naziv, barkod: s.barkod, ocekivano: s.ocekivano, skenirano: s.skenirano || 0 });
-          }
-        }
-        if (pData.status === "zavrsen") setFin(true);
-        render(); stats();
-        Scanner.init("#si", "#sb", scan);
-      }).catch(function(e) { alert("Greska: " + e.message); });
-    }
 
     function setFin(f) {
       document.getElementById("fin-banner").style.display = f ? "flex" : "none";
       document.getElementById("fin-btn").style.display = f ? "none" : "";
     }
 
+    // ========== SCANNING ==========
     function scan(bc) {
       var it = null;
       for (var i = 0; i < items.length; i++) { if (items[i].barkod === bc) { it = items[i]; break; } }
@@ -166,12 +268,48 @@
       else { sdc.style.borderLeftColor = "#ff3b30"; sdc.style.background = "var(--danger-bg)"; document.getElementById("sd").style.color = "#ff3b30"; }
     }
 
+    // ========== SAVE (LOCAL + GITHUB) ==========
     function schSave() { clearTimeout(saveT); saveT = setTimeout(save, 2000); }
+
     function save() {
       pData.azurirano = new Date().toISOString();
-      return GitHubStorage.writeFile("data/prijemi/" + Auth.getPoslovnicaId() + "/" + pId + ".json", pData, "Sken", pSha).then(function(r) { if (r) pSha = r.content.sha; }).catch(function(e) { console.error(e); });
+      saveLocal(); // Always save locally first
+
+      if (isOnline) {
+        return syncToGitHub();
+      } else {
+        pendingSave = true;
+        updatePendingUI();
+        return Promise.resolve();
+      }
     }
 
+    function syncToGitHub() {
+      return GitHubStorage.writeFile("data/prijemi/" + Auth.getPoslovnicaId() + "/" + pId + ".json", pData, "Sken", pSha).then(function(r) {
+        if (r) pSha = r.content.sha;
+        pendingSave = false;
+        updatePendingUI();
+        saveLocal(); // Update local with new sha
+      }).catch(function(e) {
+        console.error("Sync failed:", e);
+        pendingSave = true;
+        updatePendingUI();
+      });
+    }
+
+    // Manual sync button
+    syncBtn.addEventListener("click", function() {
+      syncBtn.textContent = "Syncing..."; syncBtn.disabled = true;
+      syncToGitHub().then(function() {
+        toast("Sinkronizirano!", "success");
+      }).catch(function() {
+        toast("Sync neuspjesan", "error");
+      }).then(function() {
+        syncBtn.textContent = "\u21BB Sync"; syncBtn.disabled = false;
+      });
+    });
+
+    // ========== FINISH / REOPEN / RESET ==========
     document.getElementById("fin-btn").addEventListener("click", function() {
       var dc = 0, td = 0;
       for (var i = 0; i < items.length; i++) { if (items[i].skenirano !== items[i].ocekivano) { dc++; td += Math.abs(items[i].skenirano - items[i].ocekivano); } }
@@ -192,6 +330,7 @@
       render(); stats(); save().then(function() { Scanner.refocus(); });
     });
 
+    // ========== EXPORT ==========
     document.getElementById("exp-btn").addEventListener("click", function() {
       var c = "\uFEFF" + "Dokument;Naziv;Barkod;Ocekivano;Skenirano;Razlika\n";
       for (var i = 0; i < items.length; i++) { var it = items[i]; c += '"' + it.dn + '";"' + it.naziv + '";"' + it.barkod + '";' + it.ocekivano + ";" + it.skenirano + ";" + (it.skenirano - it.ocekivano) + "\n"; }
@@ -201,7 +340,17 @@
 
     function toast(m, t) { var old = document.querySelectorAll(".toast"); for(var i=0;i<old.length;i++) old[i].remove(); var el = document.createElement("div"); el.className = "toast " + t; el.textContent = m; document.body.appendChild(el); setTimeout(function() { el.remove(); }, 3000); }
     if(localStorage.getItem("theme")==="dark") document.getElementById("theme-toggle").classList.add("dark");
+
+    // ========== INIT ==========
+    updateNetStatus();
     load();
+
+    // Periodically check connection and auto-sync
+    setInterval(function() {
+      var wasOnline = isOnline;
+      isOnline = navigator.onLine;
+      if (isOnline !== wasOnline) updateNetStatus();
+    }, 5000);
   </script>
 </body>
 </html>
