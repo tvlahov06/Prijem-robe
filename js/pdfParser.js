@@ -1,9 +1,7 @@
 var PDFParser = {
-  _libLoaded: false,
 
   _ensureLib: function() {
     if (window.pdfjsLib) return Promise.resolve();
-    var self = this;
     return new Promise(function(resolve, reject) {
       var s = document.createElement("script");
       s.src = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js";
@@ -16,23 +14,29 @@ var PDFParser = {
     });
   },
 
-  _fixEncoding: function(text) {
+  _fixText: function(text) {
+    // Try to fix double-encoded UTF-8
+    if (!/[\u00C0-\u00FF]/.test(text)) return text;
     try {
-      var bytes = [];
-      for (var i = 0; i < text.length; i++) {
-        bytes.push(text.charCodeAt(i) & 0xFF);
-      }
-      var decoded = new TextDecoder("utf-8", { fatal: true }).decode(new Uint8Array(bytes));
-      if (decoded !== text) {
-        var hasHrv = decoded.indexOf("\u010D") >= 0 || decoded.indexOf("\u0107") >= 0 ||
-                     decoded.indexOf("\u0161") >= 0 || decoded.indexOf("\u017E") >= 0 ||
-                     decoded.indexOf("\u0111") >= 0 || decoded.indexOf("\u010C") >= 0 ||
-                     decoded.indexOf("\u0106") >= 0 || decoded.indexOf("\u0160") >= 0 ||
-                     decoded.indexOf("\u017D") >= 0 || decoded.indexOf("\u0110") >= 0;
-        if (hasHrv) return decoded;
-      }
-    } catch (e) {}
-    return text;
+      return decodeURIComponent(escape(text));
+    } catch (e) {
+      return text;
+    }
+  },
+
+  _cleanName: function(name) {
+    // Remove catalog number patterns from the beginning
+    // Patterns: "476547-01", "NB907CP", "SM-A576BDBBE", "EF-PA576CVEG"
+    var cleaned = name;
+    // Remove leading catalog numbers like "476547-01 " or "NB907CP "
+    cleaned = cleaned.replace(/^\d{3,8}-?\d{0,4}\s+/, "");
+    // Remove patterns like "SM-A576BDBBE" or "EF-PA576CVEG" at start
+    cleaned = cleaned.replace(/^[A-Z]{1,4}-?[A-Z]?[A-Z0-9]{2,15}\s+/g, "");
+    // Remove "UE " or "WW " at start
+    cleaned = cleaned.replace(/^(UE|WW|EU|HR)\s+/g, "");
+    // Remove trailing catalog codes like "EF-PA576CVEGWW"
+    cleaned = cleaned.replace(/\s+[A-Z]{2}-[A-Z0-9]{6,}$/g, "");
+    return cleaned.trim();
   },
 
   parsePDF: function(file) {
@@ -40,7 +44,13 @@ var PDFParser = {
     return this._ensureLib().then(function() {
       return file.arrayBuffer();
     }).then(function(arrayBuffer) {
-      return pdfjsLib.getDocument({ data: arrayBuffer }).promise;
+      // Use cMapUrl for proper character encoding
+      return pdfjsLib.getDocument({
+        data: arrayBuffer,
+        cMapUrl: "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/cmaps/",
+        cMapPacked: true,
+        standardFontDataUrl: "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/standard_fonts/"
+      }).promise;
     }).then(function(pdf) {
       var textItems = [];
       var pagePromises = [];
@@ -49,7 +59,7 @@ var PDFParser = {
         (function(pageNum) {
           pagePromises.push(
             pdf.getPage(pageNum).then(function(page) {
-              return page.getTextContent().then(function(content) {
+              return page.getTextContent({ normalizeWhitespace: true }).then(function(content) {
                 for (var j = 0; j < content.items.length; j++) {
                   var item = content.items[j];
                   var str = item.str.trim();
@@ -69,14 +79,14 @@ var PDFParser = {
       }
 
       return Promise.all(pagePromises).then(function() {
-        // Sort textItems by page then y desc then x asc
+        // Sort by page, then y desc, then x asc
         textItems.sort(function(a, b) {
           if (a.page !== b.page) return a.page - b.page;
           if (Math.abs(a.y - b.y) > 4) return b.y - a.y;
           return a.x - b.x;
         });
 
-        // Group into rows by Y
+        // Group into rows
         var rows = [];
         var currentRow = [];
         var currentY = null;
@@ -95,7 +105,6 @@ var PDFParser = {
         }
         if (currentRow.length > 0) rows.push(currentRow);
 
-        // Sort items within each row by X
         for (var r = 0; r < rows.length; r++) {
           rows[r].sort(function(a, b) { return a.x - b.x; });
         }
@@ -103,24 +112,19 @@ var PDFParser = {
         var rowTexts = [];
         for (var r = 0; r < rows.length; r++) {
           var parts = [];
-          for (var c = 0; c < rows[r].length; c++) {
-            parts.push(rows[r][c].text);
-          }
+          for (var c = 0; c < rows[r].length; c++) parts.push(rows[r][c].text);
           rowTexts.push(parts.join(" "));
         }
 
         console.log("PDF rows:");
-        for (var i = 0; i < rowTexts.length; i++) {
-          console.log("  " + i + ": " + rowTexts[i]);
-        }
+        for (var i = 0; i < rowTexts.length; i++) console.log("  " + i + ": " + rowTexts[i]);
 
         // Doc number
         var docNum = "";
         var full = rowTexts.join(" ");
         var dm = full.match(/izlaz br\.\s*([\d\-\/]+)/i);
-        if (dm) {
-          docNum = dm[1];
-        } else {
+        if (dm) docNum = dm[1];
+        else {
           for (var i = 0; i < rowTexts.length; i++) {
             var m = rowTexts[i].match(/^(\d{3,5}-\d{2,4})$/);
             if (m) { docNum = m[1]; break; }
@@ -128,44 +132,46 @@ var PDFParser = {
         }
         if (!docNum) docNum = file.name.replace(".pdf", "");
 
-        // Parse items
+        // Parse items from rows containing barcodes
         var items = [];
         for (var ri = 0; ri < rowTexts.length; ri++) {
-          var row = self._fixEncoding(rowTexts[ri]);
+          var row = self._fixText(rowTexts[ri]);
           var bcMatch = row.match(/\b(\d{13})\b/);
           if (!bcMatch) continue;
           var barcode = bcMatch[1];
           var bcIdx = row.indexOf(barcode);
 
-          // Qty
+          // Qty: find "kom X,00" after barcode
           var afterBC = row.substring(bcIdx);
           var qm = afterBC.match(/kom\s+(\d+(?:,\d+)?)/);
           var qty = qm ? Math.round(parseFloat(qm[1].replace(",", "."))) : 1;
 
-          // Name: between catalog and barcode
+          // Name: text between catalog number and barcode
           var name = row.substring(0, bcIdx).trim();
+          // Remove RB number at start
           name = name.replace(/^\d{1,3}\s+/, "");
-          name = name.replace(/^[A-Z]{1,3}-?[A-Z0-9]{3,15}\s+/, "");
+          // Clean catalog numbers
+          name = self._cleanName(name);
 
           // Check next rows for name continuation
           for (var nri = ri + 1; nri < Math.min(ri + 3, rowTexts.length); nri++) {
-            var nr = self._fixEncoding(rowTexts[nri]);
+            var nr = self._fixText(rowTexts[nri]);
             if (/\b\d{13}\b/.test(nr)) break;
             if (/Ukupno|Izdao|Stranica/.test(nr)) break;
             var nrt = nr.trim();
             if (nrt === "UE" || nrt === "WW" || nrt === "EU" || nrt === "HR") continue;
             if (nr.length < 3) continue;
-            var cleaned = nr.replace(/^[A-Z]{2}-[A-Z0-9]+\s*/g, "");
-            cleaned = cleaned.replace(/^(UE|WW|EU|HR)\s+/g, "").trim();
+            var cleaned = self._cleanName(nr);
             if (cleaned.length > 2 && /[a-zA-Z]/.test(cleaned)) {
               name += " " + cleaned;
             }
           }
 
-          name = self._fixEncoding(name.trim());
+          name = self._fixText(name.trim());
+          name = self._cleanName(name);
           if (!name || name.length < 3) name = "Artikl " + barcode;
 
-          // Check duplicate
+          // Avoid duplicates
           var exists = false;
           for (var k = 0; k < items.length; k++) {
             if (items[k].barkod === barcode) { exists = true; break; }
@@ -176,10 +182,8 @@ var PDFParser = {
         }
 
         console.log("Parsed:", items);
-        return {
-          dokumentNaziv: self._fixEncoding("Me\u0111uskladi\u0161ni izlaz br. " + docNum),
-          stavke: items
-        };
+        var docName = self._fixText("Me\u0111uskladi\u0161ni izlaz br. " + docNum);
+        return { dokumentNaziv: docName, stavke: items };
       });
     });
   },
@@ -191,12 +195,8 @@ var PDFParser = {
     for (var i = 0; i < files.length; i++) {
       (function(f) {
         chain = chain.then(function() {
-          return self.parsePDF(f).then(function(r) {
-            results.push(r);
-          }).catch(function(e) {
-            console.error("Parse error:", e);
-            results.push({ dokumentNaziv: f.name, stavke: [], error: e.message });
-          });
+          return self.parsePDF(f).then(function(r) { results.push(r); })
+          .catch(function(e) { results.push({ dokumentNaziv: f.name, stavke: [], error: e.message }); });
         });
       })(files[i]);
     }
