@@ -8,6 +8,21 @@
   <link rel="icon" href="icons/favicon.png" type="image/png">
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#007aff">
+  <style>
+    @media(max-width:500px){
+      .page-header{flex-wrap:wrap;gap:8px}
+      .page-header .title-group h1{font-size:16px}
+      .page-header .header-action{width:100%;display:flex;gap:6px}
+      .page-header .header-action .btn{flex:1}
+      .stat-card{padding:10px 6px}.stat-card .value{font-size:20px}
+      .article-item{padding:10px 12px;gap:8px}
+      .article-info .name{font-size:12px}
+      .article-info .barcode{font-size:11px}
+      .qi{width:40px;font-size:14px;padding:4px 1px}
+      .scan-input-row input{font-size:14px;padding:12px}
+      .bottom-actions{position:sticky;bottom:0;background:var(--bg);padding:12px 0}
+    }
+  </style>
 </head>
 <body>
   <div class="app">
@@ -71,7 +86,7 @@
       GitHubStorage.readFile("data/prijemi/" + Auth.getPoslovnicaId() + "/" + pId + ".json").then(function(d) {
         if (!d) { alert("Nije pronadjen"); window.location.href = "dashboard.html"; return; }
         pData = d.content; pSha = d.sha;
-        document.getElementById("dt").textContent = pData.dokumenti.map(function(d) { return d.naziv.replace("Me\u0111uskladi\u0161ni izlaz br. ", ""); }).join(", ");
+        document.getElementById("dt").textContent = pData.dokumenti.map(function(d) { return d.naziv; }).join(", ");
         document.getElementById("dd").textContent = new Date(pData.datum).toLocaleDateString("hr-HR", { day:"numeric", month:"long", year:"numeric" }) + ".";
         items = [];
         for (var di = 0; di < pData.dokumenti.length; di++) {
