@@ -12,6 +12,25 @@
   --shadow-sm:0 1px 3px rgba(0,0,0,.06);--shadow:0 2px 8px rgba(0,0,0,.08);--shadow-lg:0 4px 16px rgba(0,0,0,.1);
   --font:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;
 }
+/* DARK MODE */
+[data-theme="dark"] {
+  --bg:#0a0e17;--bg-white:#151b2b;--bg-card:#151b2b;--bg-input:#1a2236;
+  --border:#2a3550;--border-light:#1f2a42;
+  --text:#e8edf5;--text-secondary:#8899b4;--text-muted:#556380;
+  --accent:#3b82f6;--accent-light:rgba(59,130,246,.15);
+  --success:#22c55e;--success-bg:rgba(34,197,94,.1);--success-border:rgba(34,197,94,.3);
+  --warning:#f59e0b;--warning-bg:rgba(245,158,11,.1);
+  --danger:#ef4444;--danger-bg:rgba(239,68,68,.1);--danger-border:rgba(239,68,68,.3);
+  --green-dark:#6ee7b7;
+  --shadow-sm:0 1px 3px rgba(0,0,0,.2);--shadow:0 2px 8px rgba(0,0,0,.3);--shadow-lg:0 4px 16px rgba(0,0,0,.4);
+}
+/* THEME TOGGLE */
+.theme-toggle{width:44px;height:26px;border-radius:13px;background:var(--bg-input);border:1.5px solid var(--border);cursor:pointer;position:relative;transition:all .3s;flex-shrink:0}
+.theme-toggle::after{content:'';width:20px;height:20px;border-radius:50%;background:var(--text-muted);position:absolute;top:1.5px;left:2px;transition:all .3s}
+.theme-toggle.dark{background:var(--accent)}
+.theme-toggle.dark::after{transform:translateX(18px);background:#fff}
+/* POSLOVNICA NAME */
+.poslovnica-name{font-size:22px;font-weight:700;color:var(--accent);letter-spacing:-.3px}
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:var(--font);background:var(--bg);color:var(--text);min-height:100vh;-webkit-font-smoothing:antialiased;font-size:16px}
 
