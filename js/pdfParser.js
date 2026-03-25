@@ -182,7 +182,7 @@ var PDFParser = {
         }
 
         console.log("Parsed:", items);
-        var docName = self._fixText("Me\u0111uskladi\u0161ni izlaz br. " + docNum);
+        var docName = "MSI " + docNum;
         return { dokumentNaziv: docName, stavke: items };
       });
     });
