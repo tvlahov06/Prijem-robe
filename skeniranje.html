@@ -162,8 +162,8 @@
       document.getElementById("ss").textContent = ts; document.getElementById("se").textContent = te;
       document.getElementById("sd").textContent = td === 0 ? "0" : (td > 0 ? "+" + td : td);
       var sdc = document.getElementById("sdc");
-      if (td === 0 && ts > 0) { sdc.style.borderLeftColor = "#34c759"; sdc.style.background = "#eafbef"; }
-      else { sdc.style.borderLeftColor = "#ff3b30"; sdc.style.background = "#ffeceb"; }
+      if (td === 0 && ts > 0) { sdc.style.borderLeftColor = "#34c759"; sdc.style.background = "var(--success-bg)"; document.getElementById("sd").style.color = "#34c759"; }
+      else { sdc.style.borderLeftColor = "#ff3b30"; sdc.style.background = "var(--danger-bg)"; document.getElementById("sd").style.color = "#ff3b30"; }
     }
 
     function schSave() { clearTimeout(saveT); saveT = setTimeout(save, 2000); }
