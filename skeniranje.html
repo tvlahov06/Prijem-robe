@@ -41,9 +41,9 @@
     </div>
 
     <div class="stats-row">
-      <div class="stat-card"><div class="value" id="ss">0</div><div class="label">Skenirano</div></div>
-      <div class="stat-card"><div class="value" id="se">0</div><div class="label">Ocekivano</div></div>
-      <div class="stat-card stat-danger" id="sdc"><div class="value" id="sd">0</div><div class="label">Razlika</div></div>
+      <div class="stat-card" style="border-left:4px solid #007aff"><div class="value" id="ss">0</div><div class="label">Skenirano</div></div>
+      <div class="stat-card" style="border-left:4px solid #ff9500"><div class="value" id="se">0</div><div class="label">Ocekivano</div></div>
+      <div class="stat-card" id="sdc" style="border-left:4px solid #ff3b30"><div class="value" id="sd">0</div><div class="label">Razlika</div></div>
     </div>
 
     <div id="sb" class="scan-banner"></div>
@@ -159,7 +159,9 @@
       var td = ts - te;
       document.getElementById("ss").textContent = ts; document.getElementById("se").textContent = te;
       document.getElementById("sd").textContent = td === 0 ? "0" : (td > 0 ? "+" + td : td);
-      document.getElementById("sdc").className = td === 0 && ts > 0 ? "stat-card stat-success" : "stat-card stat-danger";
+      var sdc = document.getElementById("sdc");
+      if (td === 0 && ts > 0) { sdc.style.borderLeftColor = "#34c759"; sdc.style.background = "#eafbef"; }
+      else { sdc.style.borderLeftColor = "#ff3b30"; sdc.style.background = "#ffeceb"; }
     }
 
     function schSave() { clearTimeout(saveT); saveT = setTimeout(save, 2000); }
