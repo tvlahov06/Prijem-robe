@@ -165,8 +165,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);min-height:1
   .article-info .name{font-size:13px}
   .article-info .barcode{font-size:11px}
   .article-icon{width:32px;height:32px;font-size:14px}
-  .qi,.qty-input-inline{width:40px;font-size:14px;padding:4px 1px}
-  .scan-input-row input{font-size:14px;padding:12px}
+  .qi,.qty-input-inline{width:42px;font-size:16px;padding:4px 1px}
+  .scan-input-row input{font-size:16px;padding:12px}
   .btn-sm{padding:7px 12px;font-size:13px}
   .prijem-card{padding:12px 14px}
   .prijem-card .prijem-date{font-size:14px}
