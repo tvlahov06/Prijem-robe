@@ -1,0 +1,39 @@
+{
+  "id": "prijem-1774456550629",
+  "poslovnica": "varazdin",
+  "datum": "2026-03-25",
+  "status": "aktivan",
+  "kreirano": "2026-03-25T16:35:50.629Z",
+  "azurirano": "2026-03-25T16:35:50.629Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 1929-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
+          "barkod": "8806099028282",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11 WiFi 64GB sivi",
+          "barkod": "8806097781943",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska za Samsung Galaxy A57 5G ljubicasta",
+          "barkod": "8806099037734",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska za Samsung Galaxy A57 5G tamno plava",
+          "barkod": "8806099037758",
+          "ocekivano": 6,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
