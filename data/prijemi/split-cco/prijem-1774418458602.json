@@ -3,56 +3,9 @@
   "poslovnica": "split-cco",
   "datum": "2026-03-25",
   "status": "aktivan",
-  "kreirano": "2026-03-25T06:00:58.602Z",
-  "azurirano": "2026-03-25T06:01:33.674Z",
+  "kreirano": "2026-03-25T06:01:55.000Z",
+  "azurirano": "2026-03-25T06:01:55.000Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 1917-101",
-      "stavke": [
-        {
-          "naziv": "UsisavaÄ Dyson V8 Absolute",
-          "barkod": "5025155090152",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "UreÄaj za oblikovanje kose Dyson Airwrap i.d. Velvet Red/Gold Straight+Wavy",
-          "barkod": "5025155112342",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "UsisavaÄ Dyson V11 Advanced",
-          "barkod": "5025155096093",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB907CP 900W",
-          "barkod": "8006447000087",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB907R 900W",
-          "barkod": "8006447000872",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB505DG 500W",
-          "barkod": "8006447000070",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
-          "barkod": "8006447002166",
-          "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
     {
       "naziv": "MSI 1929-101",
       "stavke": [
@@ -69,7 +22,7 @@
           "skenirano": 0
         },
         {
-          "naziv": "Silikonska maska za Samsung Galaxy A57 5G ljubiÄasta",
+          "naziv": "Silikonska maska za Samsung Galaxy A57 5G ljubiÃÂasta",
           "barkod": "8806099037734",
           "ocekivano": 10,
           "skenirano": 0
