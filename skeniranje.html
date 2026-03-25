@@ -3,25 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Prijem Robe — Skeniranje</title>
+  <title>Prijem Robe - Skeniranje</title>
   <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="icons/favicon.png" type="image/png">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#007aff">
 </head>
 <body>
   <div class="app">
     <div class="page-header">
-      <button class="back-btn" onclick="window.location.href='dashboard.html'">←</button>
-      <div class="title-group"><h1 id="dt">Učitavanje...</h1><p id="dd"></p></div>
-      <div class="header-action"><button id="fin-btn" class="btn btn-success btn-sm">✓ Završi</button></div>
+      <button class="back-btn" onclick="window.location.href='dashboard.html'">&#8592;</button>
+      <div class="title-group"><h1 id="dt">Ucitavanje...</h1><p id="dd"></p></div>
+      <div class="header-action" style="display:flex;gap:6px">
+        <button id="edit-btn" class="btn btn-secondary btn-sm">&#9998; Uredi</button>
+        <button id="fin-btn" class="btn btn-success btn-sm">&#10003; Zavrsi</button>
+      </div>
     </div>
 
     <div id="fin-banner" class="finished-banner" style="display:none">
-      <span class="text">✓ Prijem završen</span>
+      <span class="text">&#10003; Prijem zavrsen</span>
       <button id="reopen-btn" class="btn btn-secondary btn-sm">Nastavi prijem</button>
     </div>
 
     <div class="stats-row">
       <div class="stat-card"><div class="value" id="ss">0</div><div class="label">Skenirano</div></div>
-      <div class="stat-card"><div class="value" id="se">0</div><div class="label">Očekivano</div></div>
+      <div class="stat-card"><div class="value" id="se">0</div><div class="label">Ocekivano</div></div>
       <div class="stat-card stat-danger" id="sdc"><div class="value" id="sd">0</div><div class="label">Razlika</div></div>
     </div>
 
@@ -30,7 +36,7 @@
     <div class="scan-section">
       <div style="margin-bottom:8px;font-size:13px;color:var(--text-secondary);font-weight:500">Barkod unos:</div>
       <div class="scan-input-row">
-        <input type="text" id="si" placeholder="Skeniraj ili upiši barkod..." autocomplete="off" autofocus>
+        <input type="text" id="si" placeholder="Skeniraj ili upisi barkod..." autocomplete="off" autofocus>
       </div>
     </div>
 
@@ -40,9 +46,9 @@
     </div>
 
     <div class="bottom-actions">
-      <button id="exp-btn" class="btn btn-secondary btn-sm">📊 Eksport</button>
+      <button id="exp-btn" class="btn btn-secondary btn-sm">&#128202; Eksport</button>
       <div class="spacer"></div>
-      <button id="rst-btn" class="btn btn-danger btn-sm">↺ Reset</button>
+      <button id="rst-btn" class="btn btn-danger btn-sm">&#8634; Reset</button>
     </div>
   </div>
 
@@ -51,115 +57,130 @@
   <script src="js/scanner.js"></script>
   <script>
     if (!Auth.requireAuth()) throw 0;
-    const il = document.getElementById('il');
-    let pData = null, pSha = null, items = [], saveT = null;
-    const pId = new URLSearchParams(window.location.search).get('id');
-    if (!pId) window.location.href = 'dashboard.html';
+    var il = document.getElementById("il");
+    var pData = null, pSha = null, items = [], saveT = null;
+    var pId = new URLSearchParams(window.location.search).get("id");
+    if (!pId) window.location.href = "dashboard.html";
 
-    async function load() {
-      try {
-        const d = await GitHubStorage.readFile(`data/prijemi/${Auth.getPoslovnicaId()}/${pId}.json`);
-        if (!d) { alert('Nije pronađen'); window.location.href = 'dashboard.html'; return; }
+    // Edit button -> go to priprema with this prijem ID
+    document.getElementById("edit-btn").addEventListener("click", function() {
+      window.location.href = "priprema.html?id=" + pId;
+    });
+
+    function load() {
+      GitHubStorage.readFile("data/prijemi/" + Auth.getPoslovnicaId() + "/" + pId + ".json").then(function(d) {
+        if (!d) { alert("Nije pronadjen"); window.location.href = "dashboard.html"; return; }
         pData = d.content; pSha = d.sha;
-        document.getElementById('dt').textContent = pData.dokumenti.map(d => d.naziv.replace('Međuskladišni izlaz br. ', '')).join(', ');
-        document.getElementById('dd').textContent = new Date(pData.datum).toLocaleDateString('hr-HR', { day:'numeric', month:'long', year:'numeric' }) + '.';
+        document.getElementById("dt").textContent = pData.dokumenti.map(function(d) { return d.naziv.replace("Me\u0111uskladi\u0161ni izlaz br. ", ""); }).join(", ");
+        document.getElementById("dd").textContent = new Date(pData.datum).toLocaleDateString("hr-HR", { day:"numeric", month:"long", year:"numeric" }) + ".";
         items = [];
-        pData.dokumenti.forEach((doc, di) => { doc.stavke.forEach((s, si) => {
-          items.push({ di, si, dn: doc.naziv, naziv: s.naziv, barkod: s.barkod, ocekivano: s.ocekivano, skenirano: s.skenirano || 0 });
-        }); });
-        if (pData.status === 'zavrsen') setFin(true);
+        for (var di = 0; di < pData.dokumenti.length; di++) {
+          for (var si = 0; si < pData.dokumenti[di].stavke.length; si++) {
+            var s = pData.dokumenti[di].stavke[si];
+            items.push({ di: di, si: si, dn: pData.dokumenti[di].naziv, naziv: s.naziv, barkod: s.barkod, ocekivano: s.ocekivano, skenirano: s.skenirano || 0 });
+          }
+        }
+        if (pData.status === "zavrsen") setFin(true);
         render(); stats();
-        Scanner.init('#si', '#sb', scan);
-      } catch (e) { alert('Greška: ' + e.message); }
+        Scanner.init("#si", "#sb", scan);
+      }).catch(function(e) { alert("Greska: " + e.message); });
     }
 
     function setFin(f) {
-      document.getElementById('fin-banner').style.display = f ? 'flex' : 'none';
-      document.getElementById('fin-btn').style.display = f ? 'none' : '';
+      document.getElementById("fin-banner").style.display = f ? "flex" : "none";
+      document.getElementById("fin-btn").style.display = f ? "none" : "";
     }
 
     function scan(bc) {
-      const it = items.find(s => s.barkod === bc);
-      if (!it) return { status: 'not_found', barcode: bc };
+      var it = null;
+      for (var i = 0; i < items.length; i++) { if (items[i].barkod === bc) { it = items[i]; break; } }
+      if (!it) return { status: "not_found", barcode: bc };
       it.skenirano++; pData.dokumenti[it.di].stavke[it.si].skenirano = it.skenirano;
-      const el = document.querySelector(`[data-bc="${bc}"]`);
-      if (el) { const inp = el.querySelector('.qi'); if (inp) inp.value = it.skenirano; updEl(el, it); el.classList.add('just-scanned'); setTimeout(() => el.classList.remove('just-scanned'), 600); }
+      var el = document.querySelector('[data-bc="' + bc + '"]');
+      if (el) { var inp = el.querySelector(".qi"); if (inp) inp.value = it.skenirano; updEl(el, it); el.classList.add("just-scanned"); setTimeout(function() { el.classList.remove("just-scanned"); }, 600); }
       stats(); schSave();
-      return it.skenirano === it.ocekivano ? { status: 'complete', ...it } : it.skenirano > it.ocekivano ? { status: 'over', ...it } : { status: 'ok', ...it };
+      return it.skenirano === it.ocekivano ? { status: "complete", naziv: it.naziv, skenirano: it.skenirano, ocekivano: it.ocekivano } : it.skenirano > it.ocekivano ? { status: "over", naziv: it.naziv, skenirano: it.skenirano, ocekivano: it.ocekivano } : { status: "ok", naziv: it.naziv, skenirano: it.skenirano, ocekivano: it.ocekivano };
     }
 
     window.qc = function(idx, val) {
-      const v = parseInt(val); if (isNaN(v) || v < 0) return;
+      var v = parseInt(val); if (isNaN(v) || v < 0) return;
       items[idx].skenirano = v; pData.dokumenti[items[idx].di].stavke[items[idx].si].skenirano = v;
-      const els = document.querySelectorAll('.article-item');
+      var els = document.querySelectorAll(".article-item");
       if (els[idx]) updEl(els[idx], items[idx]);
       stats(); schSave();
     };
 
     function updEl(el, it) {
-      const diff = it.skenirano - it.ocekivano;
-      const st = it.skenirano === 0 ? 'none' : it.skenirano < it.ocekivano ? 'partial' : it.skenirano === it.ocekivano ? 'ok' : 'over';
-      const ic = el.querySelector('.article-icon');
-      ic.className = `article-icon status-${st}`;
-      ic.textContent = st === 'ok' ? '✓' : st === 'partial' ? '◐' : st === 'over' ? '!' : '○';
-      const dd = el.querySelector('.dd');
-      if (dd) dd.innerHTML = diff !== 0 ? `<span class="diff ${diff > 0 ? 'positive' : 'negative'}" style="font-size:12px;font-weight:700">${diff > 0 ? '+' + diff : diff}</span>` : '';
-      el.style.background = st === 'ok' ? '#f8fef9' : st === 'over' ? '#fffcf5' : '';
+      var diff = it.skenirano - it.ocekivano;
+      var st = it.skenirano === 0 ? "none" : it.skenirano < it.ocekivano ? "partial" : it.skenirano === it.ocekivano ? "ok" : "over";
+      var ic = el.querySelector(".article-icon");
+      ic.className = "article-icon status-" + st;
+      ic.textContent = st === "ok" ? "\u2713" : st === "partial" ? "\u25D0" : st === "over" ? "!" : "\u25CB";
+      var dd = el.querySelector(".dd");
+      if (dd) dd.innerHTML = diff !== 0 ? '<span class="diff ' + (diff > 0 ? "positive" : "negative") + '" style="font-size:12px;font-weight:700">' + (diff > 0 ? "+" + diff : diff) + "</span>" : "";
+      el.style.background = st === "ok" ? "#f8fef9" : st === "over" ? "#fffcf5" : "";
     }
 
     function render() {
-      il.innerHTML = ''; let cd = null;
-      items.forEach((it, idx) => {
-        if (it.dn !== cd) { cd = it.dn; const s = document.createElement('div'); s.className = 'doc-separator'; s.textContent = '📄 ' + cd; il.appendChild(s); }
-        const diff = it.skenirano - it.ocekivano;
-        const st = it.skenirano === 0 ? 'none' : it.skenirano < it.ocekivano ? 'partial' : it.skenirano === it.ocekivano ? 'ok' : 'over';
-        const si = st === 'ok' ? '✓' : st === 'partial' ? '◐' : st === 'over' ? '!' : '○';
-        const dt = diff !== 0 ? `<span class="diff ${diff > 0 ? 'positive' : 'negative'}" style="font-size:12px;font-weight:700">${diff > 0 ? '+' + diff : diff}</span>` : '';
-        const el = document.createElement('div'); el.className = 'article-item'; el.dataset.bc = it.barkod;
-        if (st === 'ok') el.style.background = '#f8fef9'; if (st === 'over') el.style.background = '#fffcf5';
-        el.innerHTML = `<div class="article-icon status-${st}">${si}</div><div class="article-info"><div class="name" title="${it.naziv}">${it.naziv}</div><div class="barcode">${it.barkod}</div></div><div class="article-count"><input type="text" inputmode="numeric" pattern="[0-9]*" class="qty-input-inline qi" value="${it.skenirano}" onfocus="this.select()" onchange="qc(${idx},this.value)" onblur="qc(${idx},this.value)"><span style="color:var(--text-muted);font-size:14px">/${it.ocekivano}</span></div><div class="dd" style="min-width:32px;text-align:right">${dt}</div>`;
-        il.appendChild(el);
-      });
+      il.innerHTML = ""; var cd = null;
+      for (var idx = 0; idx < items.length; idx++) {
+        (function(it, i) {
+          if (it.dn !== cd) { cd = it.dn; var s = document.createElement("div"); s.className = "doc-separator"; s.textContent = "\u{1F4C4} " + cd; il.appendChild(s); }
+          var diff = it.skenirano - it.ocekivano;
+          var st = it.skenirano === 0 ? "none" : it.skenirano < it.ocekivano ? "partial" : it.skenirano === it.ocekivano ? "ok" : "over";
+          var si = st === "ok" ? "\u2713" : st === "partial" ? "\u25D0" : st === "over" ? "!" : "\u25CB";
+          var dt = diff !== 0 ? '<span class="diff ' + (diff > 0 ? "positive" : "negative") + '" style="font-size:12px;font-weight:700">' + (diff > 0 ? "+" + diff : diff) + "</span>" : "";
+          var el = document.createElement("div"); el.className = "article-item"; el.setAttribute("data-bc", it.barkod);
+          if (st === "ok") el.style.background = "#f8fef9"; if (st === "over") el.style.background = "#fffcf5";
+          el.innerHTML = '<div class="article-icon status-' + st + '">' + si + '</div><div class="article-info"><div class="name" title="' + it.naziv + '">' + it.naziv + '</div><div class="barcode">' + it.barkod + '</div></div><div class="article-count"><input type="text" inputmode="numeric" pattern="[0-9]*" class="qty-input-inline qi" value="' + it.skenirano + '" onfocus="this.select()" onchange="qc(' + i + ',this.value)" onblur="qc(' + i + ',this.value)"><span style="color:var(--text-muted);font-size:14px">/' + it.ocekivano + '</span></div><div class="dd" style="min-width:32px;text-align:right">' + dt + "</div>";
+          il.appendChild(el);
+        })(items[idx], idx);
+      }
     }
 
     function stats() {
-      const te = items.reduce((s, i) => s + i.ocekivano, 0), ts = items.reduce((s, i) => s + i.skenirano, 0), td = ts - te;
-      document.getElementById('ss').textContent = ts; document.getElementById('se').textContent = te;
-      document.getElementById('sd').textContent = td === 0 ? '0' : (td > 0 ? '+' + td : td);
-      document.getElementById('sdc').className = td === 0 && ts > 0 ? 'stat-card stat-success' : 'stat-card stat-danger';
+      var te = 0, ts = 0;
+      for (var i = 0; i < items.length; i++) { te += items[i].ocekivano; ts += items[i].skenirano; }
+      var td = ts - te;
+      document.getElementById("ss").textContent = ts; document.getElementById("se").textContent = te;
+      document.getElementById("sd").textContent = td === 0 ? "0" : (td > 0 ? "+" + td : td);
+      document.getElementById("sdc").className = td === 0 && ts > 0 ? "stat-card stat-success" : "stat-card stat-danger";
     }
 
     function schSave() { clearTimeout(saveT); saveT = setTimeout(save, 2000); }
-    async function save() {
-      try { pData.azurirano = new Date().toISOString(); const r = await GitHubStorage.writeFile(`data/prijemi/${Auth.getPoslovnicaId()}/${pId}.json`, pData, 'Sken', pSha); if (r) pSha = r.content.sha; } catch (e) { console.error(e); }
+    function save() {
+      pData.azurirano = new Date().toISOString();
+      return GitHubStorage.writeFile("data/prijemi/" + Auth.getPoslovnicaId() + "/" + pId + ".json", pData, "Sken", pSha).then(function(r) { if (r) pSha = r.content.sha; }).catch(function(e) { console.error(e); });
     }
 
-    document.getElementById('fin-btn').addEventListener('click', async () => {
-      const dc = items.filter(s => s.skenirano !== s.ocekivano).length;
-      const td = items.reduce((s, i) => s + Math.abs(i.skenirano - i.ocekivano), 0);
-      if (dc && !confirm(`Razlike: ${dc} artikala, ${td} kom.\n\nZavršiti ipak?`)) return;
-      if (!dc && !confirm('Završiti prijem?')) return;
-      pData.status = 'zavrsen'; pData.zavrseno = new Date().toISOString(); await save(); setFin(true); toast('Završeno!', 'success');
+    document.getElementById("fin-btn").addEventListener("click", function() {
+      var dc = 0, td = 0;
+      for (var i = 0; i < items.length; i++) { if (items[i].skenirano !== items[i].ocekivano) { dc++; td += Math.abs(items[i].skenirano - items[i].ocekivano); } }
+      var msg = dc ? "Razlike: " + dc + " artikala, " + td + " kom.\n\nZavrsiti ipak?" : "Zavrsiti prijem?";
+      if (!confirm(msg)) return;
+      pData.status = "zavrsen"; pData.zavrseno = new Date().toISOString();
+      save().then(function() { setFin(true); toast("Zavrseno!", "success"); });
     });
 
-    document.getElementById('reopen-btn').addEventListener('click', async () => {
-      pData.status = 'aktivan'; delete pData.zavrseno; await save(); setFin(false); toast('Nastavljeno', 'success'); Scanner.refocus();
+    document.getElementById("reopen-btn").addEventListener("click", function() {
+      pData.status = "aktivan"; delete pData.zavrseno;
+      save().then(function() { setFin(false); toast("Nastavljeno", "success"); Scanner.refocus(); });
     });
 
-    document.getElementById('rst-btn').addEventListener('click', async () => {
-      if (!confirm('Resetirati sva skeniranja?')) return;
-      items.forEach(i => { i.skenirano = 0; pData.dokumenti[i.di].stavke[i.si].skenirano = 0; });
-      render(); stats(); await save(); Scanner.refocus();
+    document.getElementById("rst-btn").addEventListener("click", function() {
+      if (!confirm("Resetirati sva skeniranja?")) return;
+      for (var i = 0; i < items.length; i++) { items[i].skenirano = 0; pData.dokumenti[items[i].di].stavke[items[i].si].skenirano = 0; }
+      render(); stats(); save().then(function() { Scanner.refocus(); });
     });
 
-    document.getElementById('exp-btn').addEventListener('click', () => {
-      let c = '\uFEFF' + 'Dokument;Naziv;Barkod;Očekivano;Skenirano;Razlika\n';
-      items.forEach(i => { c += `"${i.dn}";"${i.naziv}";"${i.barkod}";${i.ocekivano};${i.skenirano};${i.skenirano - i.ocekivano}\n`; });
-      const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([c], { type: 'text/csv;charset=utf-8;' }));
-      a.download = `prijem-${pData.datum}.csv`; a.click();
+    document.getElementById("exp-btn").addEventListener("click", function() {
+      var c = "\uFEFF" + "Dokument;Naziv;Barkod;Ocekivano;Skenirano;Razlika\n";
+      for (var i = 0; i < items.length; i++) { var it = items[i]; c += '"' + it.dn + '";"' + it.naziv + '";"' + it.barkod + '";' + it.ocekivano + ";" + it.skenirano + ";" + (it.skenirano - it.ocekivano) + "\n"; }
+      var a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([c], { type: "text/csv;charset=utf-8;" }));
+      a.download = "prijem-" + pData.datum + ".csv"; a.click();
     });
 
-    function toast(m, t) { document.querySelectorAll('.toast').forEach(t => t.remove()); const el = document.createElement('div'); el.className = `toast ${t}`; el.textContent = m; document.body.appendChild(el); setTimeout(() => el.remove(), 3000); }
+    function toast(m, t) { var old = document.querySelectorAll(".toast"); for(var i=0;i<old.length;i++) old[i].remove(); var el = document.createElement("div"); el.className = "toast " + t; el.textContent = m; document.body.appendChild(el); setTimeout(function() { el.remove(); }, 3000); }
     load();
   </script>
 </body>

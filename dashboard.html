@@ -3,102 +3,93 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Prijem Robe — Dashboard</title>
+  <title>Prijem Robe</title>
   <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="icons/favicon.png" type="image/png">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#007aff">
 </head>
 <body>
   <div class="app">
     <div class="page-header">
-      <div class="title-group">
-        <h1>📦 Prijemi robe</h1>
-        <p id="pn"></p>
-      </div>
+      <div class="title-group"><h1>&#128230; Prijemi robe</h1><p id="pn"></p></div>
       <div class="header-action" style="display:flex;gap:8px">
         <button id="new-btn" class="btn btn-primary btn-sm">+ Novi prijem</button>
-        <button onclick="Auth.logout()" class="btn-icon" title="Odjava">⏻</button>
+        <button onclick="Auth.logout()" class="btn-icon" title="Odjava">&#9211;</button>
       </div>
     </div>
     <div class="stats-row">
       <div class="stat-card"><div class="value" id="st">-</div><div class="label">Ukupno</div></div>
       <div class="stat-card"><div class="value" id="sa">-</div><div class="label">Aktivnih</div></div>
-      <div class="stat-card stat-success"><div class="value" id="sd">-</div><div class="label">Završenih</div></div>
+      <div class="stat-card stat-success"><div class="value" id="sd">-</div><div class="label">Zavrsenih</div></div>
     </div>
-    <div id="list" class="prijem-list"><div class="empty-state loading"><div class="empty-icon">⏳</div><h3>Učitavanje...</h3></div></div>
+    <div id="list" class="prijem-list"><div class="empty-state loading"><div class="empty-icon">&#9203;</div><h3>Ucitavanje...</h3></div></div>
   </div>
   <script src="js/github.js"></script>
   <script src="js/auth.js"></script>
   <script>
     if (!Auth.requireAuth()) throw 0;
-    document.getElementById('pn').textContent = Auth.getPoslovnica();
-    document.getElementById('new-btn').addEventListener('click', () => { window.location.href = 'priprema.html'; });
+    document.getElementById("pn").textContent = Auth.getPoslovnica();
+    document.getElementById("new-btn").addEventListener("click", function() { window.location.href = "priprema.html"; });
+    var list = document.getElementById("list");
 
-    const list = document.getElementById('list');
-
-    async function load() {
-      const pid = Auth.getPoslovnicaId();
-      try {
-        const files = await GitHubStorage.listFiles(`data/prijemi/${pid}`);
-        const prijemi = [];
-        for (const f of (files||[]).filter(f => f.name.endsWith('.json') && !f.name.startsWith('.'))) {
-          try { const d = await GitHubStorage.readFile(f.path); if (d) prijemi.push({ ...d.content, _sha: d.sha, _path: f.path }); } catch {}
+    function load() {
+      var pid = Auth.getPoslovnicaId();
+      GitHubStorage.listFiles("data/prijemi/" + pid).then(function(files) {
+        var validFiles = [];
+        for (var i = 0; i < (files||[]).length; i++) {
+          if (files[i].name.indexOf(".json") > -1 && files[i].name.indexOf(".") !== 0) validFiles.push(files[i]);
         }
-        prijemi.sort((a, b) => new Date(b.datum) - new Date(a.datum));
+        var prijemi = [];
+        var chain = Promise.resolve();
+        for (var i = 0; i < validFiles.length; i++) {
+          (function(f) {
+            chain = chain.then(function() {
+              return GitHubStorage.readFile(f.path).then(function(d) {
+                if (d) { d.content._sha = d.sha; d.content._path = f.path; prijemi.push(d.content); }
+              }).catch(function(){});
+            });
+          })(validFiles[i]);
+        }
+        return chain.then(function() {
+          prijemi.sort(function(a, b) { return new Date(b.datum) - new Date(a.datum); });
+          document.getElementById("st").textContent = prijemi.length;
+          var active = 0, done = 0;
+          for (var i = 0; i < prijemi.length; i++) { if (prijemi[i].status === "zavrsen") done++; else active++; }
+          document.getElementById("sa").textContent = active;
+          document.getElementById("sd").textContent = done;
 
-        document.getElementById('st').textContent = prijemi.length;
-        document.getElementById('sa').textContent = prijemi.filter(p => p.status !== 'zavrsen').length;
-        document.getElementById('sd').textContent = prijemi.filter(p => p.status === 'zavrsen').length;
-
-        if (!prijemi.length) { list.innerHTML = '<div class="empty-state"><div class="empty-icon">📋</div><h3>Nema prijema</h3><p>Klikni "+ Novi prijem" za početak.</p></div>'; return; }
-
-        list.innerHTML = '';
-        prijemi.forEach(p => {
-          const totO = p.dokumenti.reduce((s,d) => s + d.stavke.reduce((ss,st) => ss + st.ocekivano, 0), 0);
-          const totS = p.dokumenti.reduce((s,d) => s + d.stavke.reduce((ss,st) => ss + (st.skenirano||0), 0), 0);
-          const totA = p.dokumenti.reduce((s,d) => s + d.stavke.length, 0);
-          const date = new Date(p.datum).toLocaleDateString('hr-HR', { day:'numeric', month:'short', year:'numeric' });
-
-          const card = document.createElement('div');
-          card.className = 'prijem-card';
-          card.style.cursor = 'pointer';
-          card.innerHTML = `
-            <div class="prijem-info" style="flex:1">
-              <div class="prijem-date">${date}</div>
-              <div class="prijem-meta">${p.dokumenti.length} dok. · ${totA} artikala · ${totS}/${totO} sken.</div>
-            </div>
-            <span class="status-badge ${p.status}">${p.status === 'priprema' ? 'Priprema' : p.status === 'aktivan' ? 'Aktivan' : 'Završen'}</span>
-            <button class="btn-icon delete-btn" title="Obriši" style="margin-left:8px;width:32px;height:32px;font-size:14px;color:var(--danger);border-color:var(--danger-border);">✕</button>
-          `;
-
-          // Click on card -> open
-          card.addEventListener('click', (e) => {
-            if (e.target.closest('.delete-btn')) return;
-            window.location.href = p.status === 'priprema' ? `priprema.html?id=${p.id}` : `skeniranje.html?id=${p.id}`;
-          });
-
-          // Delete button
-          card.querySelector('.delete-btn').addEventListener('click', async (e) => {
-            e.stopPropagation();
-            if (!confirm(`Obrisati prijem od ${date}?`)) return;
-            try {
-              await GitHubStorage.deleteFile(p._path, p._sha, `Brisanje prijema ${date}`);
-              card.remove();
-              toast('Prijem obrisan', 'success');
-              // Refresh stats
-              load();
-            } catch (err) { toast('Greška: ' + err.message, 'error'); }
-          });
-
-          list.appendChild(card);
+          if (!prijemi.length) { list.innerHTML = '<div class="empty-state"><div class="empty-icon">&#128203;</div><h3>Nema prijema</h3><p>Klikni "+ Novi prijem" za pocetak.</p></div>'; return; }
+          list.innerHTML = "";
+          for (var i = 0; i < prijemi.length; i++) {
+            (function(p) {
+              var totO = 0, totS = 0, totA = 0;
+              for (var d = 0; d < p.dokumenti.length; d++) {
+                totA += p.dokumenti[d].stavke.length;
+                for (var s = 0; s < p.dokumenti[d].stavke.length; s++) { totO += p.dokumenti[d].stavke[s].ocekivano; totS += (p.dokumenti[d].stavke[s].skenirano || 0); }
+              }
+              var date = new Date(p.datum).toLocaleDateString("hr-HR", { day:"numeric", month:"short", year:"numeric" });
+              var card = document.createElement("div");
+              card.className = "prijem-card"; card.style.cursor = "pointer";
+              var statusText = p.status === "priprema" ? "Priprema" : p.status === "aktivan" ? "Aktivan" : "Zavrsen";
+              card.innerHTML = '<div class="prijem-info" style="flex:1"><div class="prijem-date">' + date + '</div><div class="prijem-meta">' + p.dokumenti.length + " dok. &middot; " + totA + " artikala &middot; " + totS + "/" + totO + ' sken.</div></div><span class="status-badge ' + p.status + '">' + statusText + '</span><button class="btn-icon delete-btn" title="Obrisi" style="margin-left:8px;width:32px;height:32px;font-size:14px;color:var(--danger);border-color:var(--danger-border)">&#10005;</button>';
+              card.addEventListener("click", function(e) {
+                if (e.target.closest(".delete-btn")) return;
+                window.location.href = "skeniranje.html?id=" + p.id;
+              });
+              card.querySelector(".delete-btn").addEventListener("click", function(e) {
+                e.stopPropagation();
+                if (!confirm("Obrisati prijem od " + date + "?")) return;
+                GitHubStorage.deleteFile(p._path, p._sha, "Brisanje").then(function() { toast("Obrisano", "success"); load(); }).catch(function(err) { toast("Greska: " + err.message, "error"); });
+              });
+              list.appendChild(card);
+            })(prijemi[i]);
+          }
         });
-      } catch (e) { list.innerHTML = `<div class="empty-state"><div class="empty-icon">⚠️</div><h3>Greška</h3><p>${e.message}</p></div>`; }
+      }).catch(function(e) { list.innerHTML = '<div class="empty-state"><div class="empty-icon">&#9888;</div><h3>Greska</h3><p>' + e.message + "</p></div>"; });
     }
 
-    function toast(msg, type) {
-      document.querySelectorAll('.toast').forEach(t => t.remove());
-      const t = document.createElement('div'); t.className = `toast ${type}`; t.textContent = msg;
-      document.body.appendChild(t); setTimeout(() => t.remove(), 3000);
-    }
-
+    function toast(m, t) { var old = document.querySelectorAll(".toast"); for(var i=0;i<old.length;i++) old[i].remove(); var el = document.createElement("div"); el.className = "toast " + t; el.textContent = m; document.body.appendChild(el); setTimeout(function() { el.remove(); }, 3000); }
     load();
   </script>
 </body>
