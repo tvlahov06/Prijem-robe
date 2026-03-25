@@ -2,9 +2,9 @@
   "id": "prijem-1774418458602",
   "poslovnica": "split-cco",
   "datum": "2026-03-25",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-03-25T06:01:55.000Z",
-  "azurirano": "2026-03-25T06:02:05.761Z",
+  "azurirano": "2026-03-25T06:02:43.943Z",
   "dokumenti": [
     {
       "naziv": "MSI 1929-101",
@@ -22,7 +22,7 @@
           "skenirano": 0
         },
         {
-          "naziv": "Silikonska maska za Samsung Galaxy A57 5G ljubiÃÂÃÂasta",
+          "naziv": "Silikonska maska za Samsung Galaxy A57 5G ljubiÃÂÃÂÃÂÃÂasta",
           "barkod": "8806099037734",
           "ocekivano": 10,
           "skenirano": 0
@@ -35,6 +35,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-03-25T06:02:05.761Z"
+  ]
 }
