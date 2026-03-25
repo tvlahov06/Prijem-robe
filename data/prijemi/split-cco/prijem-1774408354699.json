@@ -1,0 +1,86 @@
+{
+  "id": "prijem-1774408354699",
+  "poslovnica": "split-cco",
+  "datum": "2026-03-25",
+  "status": "aktivan",
+  "kreirano": "2026-03-25T03:12:34.699Z",
+  "azurirano": "2026-03-25T03:12:34.699Z",
+  "dokumenti": [
+    {
+      "naziv": "Međuskladišni izlaz br. 1917-101",
+      "stavke": [
+        {
+          "naziv": "Usisavač Dyson V8 Absolute",
+          "barkod": "5025155090152",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uređaj za oblikovanje kose Dyson Airwrap i.d. Velvet Red/Gold Straight+Wavy",
+          "barkod": "5025155112342",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavač Dyson V11 Advanced",
+          "barkod": "5025155096093",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907CP 900W",
+          "barkod": "8006447000087",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907R 900W",
+          "barkod": "8006447000872",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB505DG 500W",
+          "barkod": "8006447000070",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
+          "barkod": "8006447002166",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Međuskladišni izlaz br. 1929-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi SM-A576B",
+          "barkod": "8806099028282",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11 WiFi 64GB sivi",
+          "barkod": "8806097781943",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska za Samsung Galaxy A57 5G ljubičasta",
+          "barkod": "8806099037734",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska za Samsung Galaxy A57 5G tamno plava",
+          "barkod": "8806099037758",
+          "ocekivano": 6,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
