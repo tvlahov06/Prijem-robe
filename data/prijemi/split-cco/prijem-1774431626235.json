@@ -2,9 +2,9 @@
   "id": "prijem-1774431626235",
   "poslovnica": "split-cco",
   "datum": "2026-03-26",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-03-26T16:11:46.929Z",
-  "azurirano": "2026-03-26T16:11:46.929Z",
+  "azurirano": "2026-03-26T16:12:54.673Z",
   "dokumenti": [
     {
       "naziv": "MSI 1948-101",
@@ -286,5 +286,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-03-26T16:12:54.672Z"
 }
