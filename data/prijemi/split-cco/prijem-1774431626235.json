@@ -4,7 +4,7 @@
   "datum": "2026-03-25",
   "status": "aktivan",
   "kreirano": "2026-03-25T09:40:26.235Z",
-  "azurirano": "2026-03-26T06:43:52.993Z",
+  "azurirano": "2026-03-26T06:57:49.213Z",
   "dokumenti": [
     {
       "naziv": "MSI 1917-101",
@@ -207,49 +207,49 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ00U1SC, 39.6cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB",
           "barkod": "199272265351",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ACER Nitro V 15, NH.QZ8EX.01K, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 9 270H, 32 GB RAM, 1 TB",
           "barkod": "4711474900814",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ACER Nitro V 15, NH.QV2EX.006, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 7 240H, 16 GB RAM, 1 TB",
           "barkod": "4711474444752",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ011PSC, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512",
           "barkod": "199273478859",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Laptop ASUS TUF Gaming F16 FX608JPR-QT002, 40.6cm",
           "barkod": "4711636037259",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO LOQ Essential, 83S0003USC, 39.6cm (15.6\") IPS FHD 144Hz, AMD Ryzen 7 7735HS, 16 GB RAM,",
           "barkod": "199273138777",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP OMEN 16-am0136nn, D32JWEA, 40.6 cm (16\"), IPS 2K 60-144 Hz, Intel Core Ultra 7 255H, 16 GB RAM, 1",
           "barkod": "199896426671",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Apple Macbook Neo Indigo, mhff4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
           "barkod": "195950852578",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DELL 24\" Pro Plus monitor P2425H, IPS Full HD, 100Hz, 5ms, ComfortView Plus, DisplayPort, HDMI, VGA, USB-C, 3x",
@@ -279,13 +279,13 @@
           "naziv": "CANON Pixma MG2551S Color Inkjet MF pisac - Print, Copy, Scan, A4",
           "barkod": "4549292234206",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP OfficeJet Pro 8122e All-in-One Printer, 405U3B - Instant Ink",
           "barkod": "196337163881",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -720,7 +720,7 @@
           "naziv": "TV PHILIPS 50PUS7000, 127.0cm (50\"), LED, UHD 4K Smart TV",
           "barkod": "8718863046029",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
@@ -756,7 +756,7 @@
           "naziv": "TV HISENSE 40A5Q, 101.6cm (40\"), QLED, FHD Smart TV, VIDAA OS",
           "barkod": "6942351418315",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
