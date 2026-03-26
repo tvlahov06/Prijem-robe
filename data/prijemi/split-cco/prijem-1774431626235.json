@@ -4,7 +4,7 @@
   "datum": "2026-03-25",
   "status": "aktivan",
   "kreirano": "2026-03-25T09:40:26.235Z",
-  "azurirano": "2026-03-26T07:29:20.708Z",
+  "azurirano": "2026-03-26T07:29:31.456Z",
   "dokumenti": [
     {
       "naziv": "MSI 1917-101",
@@ -344,7 +344,7 @@
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
           "barkod": "8806097651079",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM svijetlo plavi",
@@ -380,7 +380,7 @@
           "naziv": "Mobitel Samsung Galaxy A26 5G 6GB/128GB dual SIM crni",
           "barkod": "8806097072812",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy Xcover 7 crni",
@@ -428,7 +428,7 @@
           "naziv": "Mobitel Samsung Galaxy S25 5G 12/128GB onyx crni",
           "barkod": "8806095815534",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Pro Brown 46mm (Atum-B29W)",
