@@ -4,7 +4,7 @@
   "datum": "2026-03-25",
   "status": "aktivan",
   "kreirano": "2026-03-25T09:40:26.235Z",
-  "azurirano": "2026-03-26T07:24:26.321Z",
+  "azurirano": "2026-03-26T07:24:51.458Z",
   "dokumenti": [
     {
       "naziv": "MSI 1917-101",
@@ -655,7 +655,7 @@
           "naziv": "Parna postaja Philips PSG8140/80",
           "barkod": "8710103970279",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sjeckalica Philips HR1501/00",
