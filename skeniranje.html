@@ -41,7 +41,7 @@
         <p id="dd"></p>
       </div>
       <div class="header-action" style="display:flex;gap:6px;align-items:center">
-        <div class="theme-toggle" id="theme-toggle" onclick="var d=document.documentElement.getAttribute('data-theme')==='dark';if(d){document.documentElement.removeAttribute('data-theme');this.classList.remove('dark');localStorage.setItem('theme','light')}else{document.documentElement.setAttribute('data-theme','dark');this.classList.add('dark');localStorage.setItem('theme','dark')}"></div>
+        <div class="theme-toggle" id="theme-toggle" onclick="var d=document.documentElement.getAttribute('data-theme')==='dark';if(d){document.documentElement.removeAttribute('data-theme');this.classList.remove('dark');localStorage.setItem('theme','light')}else{document.documentElement.setAttribute('data-theme','dark');this.classList.add('dark');localStorage.setItem('theme','dark')}if(typeof render==='function'){setTimeout(render,50);}"></div>
         <button id="edit-btn" class="btn btn-secondary btn-sm">&#9998; Uredi</button>
         <button id="fin-btn" class="btn btn-success btn-sm">&#10003; Zavrsi</button>
       </div>
