@@ -4,7 +4,7 @@
   "datum": "2026-03-25",
   "status": "aktivan",
   "kreirano": "2026-03-25T09:40:26.235Z",
-  "azurirano": "2026-03-26T07:29:05.467Z",
+  "azurirano": "2026-03-26T07:29:11.562Z",
   "dokumenti": [
     {
       "naziv": "MSI 1917-101",
@@ -326,7 +326,7 @@
           "naziv": "Mobitel Samsung Galaxy A16 4GB/128GB dual SIM tamnoplavi",
           "barkod": "8806095822334",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
@@ -386,7 +386,7 @@
           "naziv": "Mobitel Samsung Galaxy Xcover 7 crni",
           "barkod": "8806095382531",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple USB-C Power Adapter 20W",
@@ -506,7 +506,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB crni",
           "barkod": "8806097827221",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S25+ 5G 12/256GB crni",
