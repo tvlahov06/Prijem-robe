@@ -4,7 +4,7 @@
   "datum": "2026-03-25",
   "status": "aktivan",
   "kreirano": "2026-03-25T09:40:26.235Z",
-  "azurirano": "2026-03-26T07:21:12.845Z",
+  "azurirano": "2026-03-26T07:21:22.548Z",
   "dokumenti": [
     {
       "naziv": "MSI 1917-101",
@@ -577,7 +577,7 @@
           "naziv": "Aparat za kavu Philips EP3347/90 espresso",
           "barkod": "8720389030222",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips HD9880/90 Airfryer XXL",
@@ -649,7 +649,7 @@
           "naziv": "Parna postaja Philips PSG8130/80",
           "barkod": "8710103970262",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Philips PSG8140/80",
