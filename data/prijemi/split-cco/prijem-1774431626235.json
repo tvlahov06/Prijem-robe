@@ -4,7 +4,7 @@
   "datum": "2026-03-25",
   "status": "aktivan",
   "kreirano": "2026-03-25T09:40:26.235Z",
-  "azurirano": "2026-03-26T06:58:57.009Z",
+  "azurirano": "2026-03-26T07:00:19.927Z",
   "dokumenti": [
     {
       "naziv": "MSI 1917-101",
@@ -708,7 +708,7 @@
           "naziv": "TV HISENSE 58E7Q, 147.3cm (58\"), QLED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351418810",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TV PHILIPS 32PHS6000, 81.3cm (32\"), LED, HD Smart TV, Titan OS",
@@ -732,7 +732,7 @@
           "naziv": "TV HISENSE 55U7Q, 139.7cm (55\"), ULED Mini LED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351421032",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG UE32H5002FKXXH, 81.3cm (32\"), LED, HD XH Smart TV, Tizen OS",
@@ -744,13 +744,13 @@
           "naziv": "TV PHILIPS 55OLED770, 139.7cm (55\"), OLED, UHD 4K 120Hz, Smart TV - Ambilight",
           "barkod": "8718863046685",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG OLED55C51LA 139.7cm (55\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096381885",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 40A5Q, 101.6cm (40\"), QLED, FHD Smart TV, VIDAA OS",
