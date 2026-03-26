@@ -253,7 +253,7 @@
       ic.textContent = st === "ok" ? "\u2713" : st === "partial" ? "\u25D0" : st === "over" ? "!" : "\u25CB";
       var dd = el.querySelector(".dd");
       if (dd) dd.innerHTML = diff !== 0 ? '<span class="diff ' + (diff > 0 ? "positive" : "negative") + '" style="font-size:12px;font-weight:700">' + (diff > 0 ? "+" + diff : diff) + "</span>" : "";
-      el.style.background = st === "ok" ? "#f8fef9" : st === "over" ? "#fffcf5" : "";
+      el.style.background = st === "ok" ? "var(--success-bg)" : st === "over" ? "var(--warning-bg)" : "";
     }
 
     function render() {
@@ -266,7 +266,7 @@
           var si = st === "ok" ? "\u2713" : st === "partial" ? "\u25D0" : st === "over" ? "!" : "\u25CB";
           var dt = diff !== 0 ? '<span class="diff ' + (diff > 0 ? "positive" : "negative") + '" style="font-size:12px;font-weight:700">' + (diff > 0 ? "+" + diff : diff) + "</span>" : "";
           var el = document.createElement("div"); el.className = "article-item"; el.setAttribute("data-bc", it.barkod);
-          if (st === "ok") el.style.background = "#f8fef9"; if (st === "over") el.style.background = "#fffcf5";
+          if (st === "ok") el.style.background = "var(--success-bg)"; if (st === "over") el.style.background = "var(--warning-bg)";
           el.innerHTML = '<div class="article-icon status-' + st + '">' + si + '</div><div class="article-info"><div class="name" title="' + it.naziv + '">' + it.naziv + '</div><div class="barcode">' + it.barkod + '</div></div><div class="article-count"><input type="text" inputmode="numeric" pattern="[0-9]*" class="qty-input-inline qi" value="' + it.skenirano + '" onfocus="this.select()" onchange="qc(' + i + ',this.value)" onblur="qc(' + i + ',this.value)"><span style="color:var(--text-muted);font-size:14px">/' + it.ocekivano + '</span></div><div class="dd" style="min-width:32px;text-align:right">' + dt + "</div>";
           il.appendChild(el);
         })(items[idx], idx);
