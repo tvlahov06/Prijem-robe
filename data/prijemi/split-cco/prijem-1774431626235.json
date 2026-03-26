@@ -4,7 +4,7 @@
   "datum": "2026-03-25",
   "status": "aktivan",
   "kreirano": "2026-03-25T09:40:26.235Z",
-  "azurirano": "2026-03-26T07:09:02.275Z",
+  "azurirano": "2026-03-26T07:09:05.278Z",
   "dokumenti": [
     {
       "naziv": "MSI 1917-101",
@@ -124,13 +124,13 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7108/02 Sonicare Series 5300 White",
           "barkod": "8720689023009",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips BRI976/00 Lumea",
           "barkod": "8720689005937",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Braun PL5152",
