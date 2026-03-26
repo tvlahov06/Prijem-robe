@@ -1,205 +1,11 @@
 {
   "id": "prijem-1774431626235",
   "poslovnica": "split-cco",
-  "datum": "2026-03-25",
-  "status": "zavrsen",
-  "kreirano": "2026-03-25T09:40:26.235Z",
-  "azurirano": "2026-03-26T07:36:01.387Z",
+  "datum": "2026-03-26",
+  "status": "aktivan",
+  "kreirano": "2026-03-26T07:44:57.876Z",
+  "azurirano": "2026-03-26T07:44:57.876Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 1917-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac Dyson V8 Absolute",
-          "barkod": "5025155090152",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Velvet Red/Gold Straight+Wavy",
-          "barkod": "5025155112342",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac Dyson V11 Advanced",
-          "barkod": "5025155096093",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NB907CP 900W",
-          "barkod": "8006447000087",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Blender Nutribullet NB907R 900W",
-          "barkod": "8006447000872",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NB505DG 500W",
-          "barkod": "8006447000070",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
-          "barkod": "8006447002166",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 1929-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
-          "barkod": "8806099028282",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "Tablet Samsung Galaxy Tab A11 WiFi 64GB sivi",
-          "barkod": "8806097781943",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Silikonska maska za Samsung Galaxy A57 5G ljubicasta",
-          "barkod": "8806099037734",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "Silikonska maska za Samsung Galaxy A57 5G tamno plava",
-          "barkod": "8806099037758",
-          "ocekivano": 6,
-          "skenirano": 6
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 1930-101",
-      "stavke": [
-        {
-          "naziv": "Sobna antena OFA SV9420 42Db 5G",
-          "barkod": "8716184073892",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sobna antena OFA SV9143 42dB 5G",
-          "barkod": "8716184073441",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sobna antena OFA DVBT SV9360 5G",
-          "barkod": "8716184073694",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sobna antena OFA SV9421 5G",
-          "barkod": "8716184073953",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 1946-101",
-      "stavke": [
-        {
-          "naziv": "Brijaci aparat Philips OneBlade Pro QP4631/65 Face & Body",
-          "barkod": "8720689020558",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Cetkica za zube Philips Sonicare HX7108/02 Sonicare Series 5300 White",
-          "barkod": "8720689023009",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "IPL depilator Philips BRI976/00 Lumea",
-          "barkod": "8720689005937",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "IPL depilator Braun PL5152",
-          "barkod": "7500435238366",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Cetkica za zube OralB iO3 MATT BLACK",
-          "barkod": "8006540731277",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Cetkica za zube OralB iO5 PINK",
-          "barkod": "8700216011464",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uvijac za kosu Revlon 2U1 APRICOT",
-          "barkod": "761318523246",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uvijac za kosu Revlon 2U1 RVDR5222E",
-          "barkod": "761318352228",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Uvijac za kosu Revlon 2U1 SALON PLUS",
-          "barkod": "0761318298663",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Stilizator za kosu Babyliss Air Wand AS6550E",
-          "barkod": "3030050190731",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Brijac za glavu Remington XR1600",
-          "barkod": "5038061144017",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pegla za kosu Remington S8540 Keratin Protect",
-          "barkod": "4008496938438",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "Susilo za kosu Remington AC9096 Silk",
-          "barkod": "4008496789078",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Uvijac za kosu Remington AS8810 Keratin Therapy",
-          "barkod": "4008496938384",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
     {
       "naziv": "MSI 1947-101",
       "stavke": [
@@ -688,7 +494,7 @@
           "skenirano": 1
         },
         {
-          "naziv": "Usisavac robot iRobot Roomba Max 705 + Baza AutoEmptyÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢ Black",
+          "naziv": "Usisavac robot iRobot Roomba Max 705 + Baza AutoEmptyÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ Black",
           "barkod": "5061042262981",
           "ocekivano": 1,
           "skenirano": 1
@@ -760,6 +566,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-03-26T07:36:01.387Z"
+  ]
 }
