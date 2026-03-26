@@ -4,7 +4,7 @@
   "datum": "2026-03-25",
   "status": "aktivan",
   "kreirano": "2026-03-25T09:40:26.235Z",
-  "azurirano": "2026-03-26T07:22:24.924Z",
+  "azurirano": "2026-03-26T07:22:34.354Z",
   "dokumenti": [
     {
       "naziv": "MSI 1917-101",
@@ -595,7 +595,7 @@
           "naziv": "Glacalo Philips DST7511/80",
           "barkod": "8720389014352",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST8040/30",
