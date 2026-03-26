@@ -4,7 +4,7 @@
   "datum": "2026-03-25",
   "status": "aktivan",
   "kreirano": "2026-03-25T09:40:26.235Z",
-  "azurirano": "2026-03-26T07:34:00.753Z",
+  "azurirano": "2026-03-26T07:34:04.511Z",
   "dokumenti": [
     {
       "naziv": "MSI 1917-101",
@@ -452,7 +452,7 @@
           "naziv": "Lokator CHIPOLO LOOP, koraljni",
           "barkod": "850070419260",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Lokator CHIPOLO POP, 4 kom (crveni/plavi/zuti/zeleni)",
