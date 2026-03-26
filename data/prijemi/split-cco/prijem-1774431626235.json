@@ -2,9 +2,9 @@
   "id": "prijem-1774431626235",
   "poslovnica": "split-cco",
   "datum": "2026-03-26",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-03-26T15:55:49.975Z",
-  "azurirano": "2026-03-26T16:11:01.209Z",
+  "azurirano": "2026-03-26T16:11:09.472Z",
   "dokumenti": [
     {
       "naziv": "MSI 1948-101",
@@ -13,7 +13,7 @@
           "naziv": "Sat Samsung Galaxy Fit3 sivi",
           "barkod": "8806095362175",
           "ocekivano": 2,
-          "skenirano": 3
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
@@ -257,5 +257,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-03-26T16:11:09.472Z"
 }
