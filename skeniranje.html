@@ -204,13 +204,28 @@
       window.location.href = "priprema.html?id=" + pId;
     });
 
+    var isLocked = false;
+
     function setFin(f) {
+      isLocked = f;
       document.getElementById("fin-banner").style.display = f ? "flex" : "none";
       document.getElementById("fin-btn").style.display = f ? "none" : "";
+      // Lock/unlock scan input
+      var scanSection = document.querySelector(".scan-section");
+      if (scanSection) scanSection.style.display = f ? "none" : "";
+      // Lock/unlock qty inputs
+      var qtyInputs = document.querySelectorAll(".qi");
+      for (var i = 0; i < qtyInputs.length; i++) {
+        qtyInputs[i].disabled = f;
+        qtyInputs[i].style.opacity = f ? "0.5" : "1";
+      }
+      // Lock/unlock reset button
+      document.getElementById("rst-btn").style.display = f ? "none" : "";
     }
 
     // ========== SCANNING ==========
     function scan(bc) {
+      if (isLocked) return { status: "not_found", barcode: "Prijem je zavrsen" };
       var it = null;
       for (var i = 0; i < items.length; i++) { if (items[i].barkod === bc) { it = items[i]; break; } }
       if (!it) return { status: "not_found", barcode: bc };
@@ -222,6 +237,7 @@
     }
 
     window.qc = function(idx, val) {
+      if (isLocked) return;
       var v = parseInt(val); if (isNaN(v) || v < 0) return;
       items[idx].skenirano = v; pData.dokumenti[items[idx].di].stavke[items[idx].si].skenirano = v;
       var els = document.querySelectorAll(".article-item");
@@ -321,7 +337,7 @@
 
     document.getElementById("reopen-btn").addEventListener("click", function() {
       pData.status = "aktivan"; delete pData.zavrseno;
-      save().then(function() { setFin(false); toast("Nastavljeno", "success"); Scanner.refocus(); });
+      save().then(function() { setFin(false); render(); stats(); toast("Nastavljeno", "success"); Scanner.refocus(); });
     });
 
     document.getElementById("rst-btn").addEventListener("click", function() {
