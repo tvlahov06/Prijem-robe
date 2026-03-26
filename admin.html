@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Prijem Robe - Admin</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="icons/favicon.png" type="image/png">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#007aff">
+  <style>
+    .admin-badge{display:inline-block;font-size:11px;font-weight:700;padding:3px 8px;border-radius:12px;background:#7c3aed;color:#fff;margin-left:8px;vertical-align:middle}
+    .posl-section{margin-bottom:24px}
+    .posl-header{display:flex;align-items:center;justify-content:space-between;padding:14px 18px;background:var(--bg-white);border:1px solid var(--border);border-radius:var(--radius) var(--radius) 0 0;cursor:pointer;transition:background .15s}
+    .posl-header:hover{background:var(--bg-input)}
+    .posl-header h3{font-size:17px;font-weight:700}
+    .posl-header .posl-stats{font-size:13px;color:var(--text-secondary)}
+    .posl-header .arrow{font-size:18px;color:var(--text-muted);transition:transform .2s}
+    .posl-header.open .arrow{transform:rotate(90deg)}
+    .posl-body{border:1px solid var(--border);border-top:none;border-radius:0 0 var(--radius) var(--radius);overflow:hidden;display:none}
+    .posl-body.open{display:block}
+    .admin-prijem{display:flex;align-items:center;padding:12px 18px;border-bottom:1px solid var(--border-light);gap:12px;transition:background .15s}
+    .admin-prijem:last-child{border-bottom:none}
+    .admin-prijem:hover{background:var(--bg)}
+    .admin-prijem .prijem-main{flex:1;min-width:0}
+    .admin-prijem .prijem-date{font-size:14px;font-weight:600}
+    .admin-prijem .prijem-detail{font-size:12px;color:var(--text-secondary);margin-top:2px}
+    .admin-prijem .prijem-progress{width:120px;flex-shrink:0}
+    .admin-prijem .prog-bar{height:6px;background:var(--bg-input);border-radius:3px;overflow:hidden;margin-top:4px}
+    .admin-prijem .prog-fill{height:100%;border-radius:3px;transition:width .3s}
+    .admin-prijem .prog-text{font-size:11px;color:var(--text-muted);font-weight:500}
+    .admin-prijem .action-btns{display:flex;gap:4px;flex-shrink:0}
+    .admin-prijem .action-btns button{width:30px;height:30px;border-radius:8px;border:1px solid var(--border);background:var(--bg-input);color:var(--text-secondary);cursor:pointer;font-size:13px;display:flex;align-items:center;justify-content:center;transition:all .15s}
+    .admin-prijem .action-btns button:hover{background:var(--border);color:var(--text)}
+    .admin-prijem .action-btns button.del:hover{background:var(--danger-bg);color:var(--danger);border-color:var(--danger-border)}
+    .total-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:24px}
+    @media(max-width:500px){
+      .total-stats{grid-template-columns:repeat(2,1fr)}
+      .admin-prijem{flex-wrap:wrap}
+      .admin-prijem .prijem-progress{width:100%}
+    }
+  </style>
+</head>
+<body>
+  <script>if(localStorage.getItem("theme")==="dark")document.documentElement.setAttribute("data-theme","dark");</script>
+  <div class="app">
+    <!-- Login -->
+    <div id="admin-login" style="display:none">
+      <div class="login-wrapper" style="min-height:80vh">
+        <div class="login-box">
+          <div class="login-logo">
+            <img src="icons/logo.svg" alt="PR" style="width:60px;height:60px;border-radius:16px;">
+            <h1>Admin Panel</h1>
+            <p>Pristup za administratora</p>
+          </div>
+          <div class="login-card">
+            <div class="form-group">
+              <label>Admin PIN</label>
+              <div class="pin-input-group">
+                <input type="password" class="pin-digit" maxlength="1" inputmode="numeric" autocomplete="off">
+                <input type="password" class="pin-digit" maxlength="1" inputmode="numeric" autocomplete="off">
+                <input type="password" class="pin-digit" maxlength="1" inputmode="numeric" autocomplete="off">
+                <input type="password" class="pin-digit" maxlength="1" inputmode="numeric" autocomplete="off">
+              </div>
+            </div>
+            <div id="admin-err" class="error-msg" style="display:none"></div>
+            <button id="admin-login-btn" class="btn btn-primary btn-full" disabled>Prijava</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Dashboard -->
+    <div id="admin-dashboard" style="display:none">
+      <div class="page-header">
+        <div class="title-group">
+          <h1>&#128230; Admin Panel <span class="admin-badge">ADMIN</span></h1>
+          <p>Pregled svih poslovnica</p>
+        </div>
+        <div class="header-action" style="display:flex;gap:8px;align-items:center">
+          <div class="theme-toggle" id="theme-toggle" onclick="var d=document.documentElement.getAttribute('data-theme')==='dark';if(d){document.documentElement.removeAttribute('data-theme');this.classList.remove('dark');localStorage.setItem('theme','light')}else{document.documentElement.setAttribute('data-theme','dark');this.classList.add('dark');localStorage.setItem('theme','dark')}"></div>
+          <button onclick="sessionStorage.removeItem('admin_auth');location.reload()" class="btn-icon" title="Odjava">&#9211;</button>
+        </div>
+      </div>
+
+      <!-- Total stats -->
+      <div class="total-stats">
+        <div class="stat-card" style="border-left:4px solid #007aff"><div class="value" id="ts-posl">-</div><div class="label">Poslovnica</div></div>
+        <div class="stat-card" style="border-left:4px solid #ff9500"><div class="value" id="ts-prijemi">-</div><div class="label">Prijema</div></div>
+        <div class="stat-card" style="border-left:4px solid #34c759"><div class="value" id="ts-sken">-</div><div class="label">Skenirano</div></div>
+        <div class="stat-card" style="border-left:4px solid #ff3b30"><div class="value" id="ts-ocek">-</div><div class="label">Ocekivano</div></div>
+      </div>
+
+      <div id="posl-list">
+        <div class="empty-state loading"><div class="empty-icon">&#9203;</div><h3>Ucitavanje...</h3></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/github.js"></script>
+  <script>
+    var ADMIN_PIN = "1409";
+    var poslovnice = [];
+    var allData = {};
+
+    // ===== CHECK TOKEN =====
+    if (!GitHubStorage.isConfigured()) {
+      alert("GitHub token nije postavljen. Postavi ga na glavnoj stranici.");
+      window.location.href = "index.html";
+    }
+
+    // ===== AUTH =====
+    var isAdmin = sessionStorage.getItem("admin_auth") === "true";
+
+    if (isAdmin) {
+      document.getElementById("admin-login").style.display = "none";
+      document.getElementById("admin-dashboard").style.display = "block";
+      loadAll();
+    } else {
+      document.getElementById("admin-login").style.display = "block";
+    }
+
+    // PIN input
+    var pins = document.querySelectorAll(".pin-digit");
+    var loginBtn = document.getElementById("admin-login-btn");
+
+    for (var idx = 0; idx < pins.length; idx++) {
+      (function(i) {
+        pins[i].addEventListener("input", function() { if (pins[i].value && i < 3) pins[i+1].focus(); pins[i].classList.toggle("filled", !!pins[i].value); chk(); });
+        pins[i].addEventListener("keydown", function(e) { if (e.key === "Backspace" && !pins[i].value && i > 0) { pins[i-1].focus(); pins[i-1].value = ""; pins[i-1].classList.remove("filled"); } });
+      })(idx);
+    }
+
+    function getPin() { var p = ""; for (var i = 0; i < pins.length; i++) p += pins[i].value; return p; }
+    function chk() { loginBtn.disabled = getPin().length !== 4; }
+
+    loginBtn.addEventListener("click", doLogin);
+    if (pins[3]) pins[3].addEventListener("keydown", function(e) { if (e.key === "Enter" && !loginBtn.disabled) doLogin(); });
+
+    function doLogin() {
+      if (getPin() === ADMIN_PIN) {
+        sessionStorage.setItem("admin_auth", "true");
+        document.getElementById("admin-login").style.display = "none";
+        document.getElementById("admin-dashboard").style.display = "block";
+        loadAll();
+      } else {
+        document.getElementById("admin-err").textContent = "Pogresan PIN";
+        document.getElementById("admin-err").style.display = "block";
+        for (var i = 0; i < pins.length; i++) { pins[i].value = ""; pins[i].classList.remove("filled"); }
+        pins[0].focus();
+      }
+    }
+
+    // ===== LOAD ALL DATA =====
+    function loadAll() {
+      GitHubStorage.readFile("data/poslovnice.json").then(function(data) {
+        if (!data) return;
+        poslovnice = data.content.poslovnice;
+        document.getElementById("ts-posl").textContent = poslovnice.length;
+
+        var chain = Promise.resolve();
+        var totalPrijemi = 0, totalSken = 0, totalOcek = 0;
+
+        for (var i = 0; i < poslovnice.length; i++) {
+          (function(posl) {
+            chain = chain.then(function() {
+              return loadPoslovnica(posl.id).then(function(prijemi) {
+                allData[posl.id] = prijemi;
+                totalPrijemi += prijemi.length;
+                for (var j = 0; j < prijemi.length; j++) {
+                  for (var d = 0; d < prijemi[j].dokumenti.length; d++) {
+                    for (var s = 0; s < prijemi[j].dokumenti[d].stavke.length; s++) {
+                      totalSken += (prijemi[j].dokumenti[d].stavke[s].skenirano || 0);
+                      totalOcek += prijemi[j].dokumenti[d].stavke[s].ocekivano;
+                    }
+                  }
+                }
+              });
+            });
+          })(poslovnice[i]);
+        }
+
+        chain.then(function() {
+          document.getElementById("ts-prijemi").textContent = totalPrijemi;
+          document.getElementById("ts-sken").textContent = totalSken;
+          document.getElementById("ts-ocek").textContent = totalOcek;
+          renderPoslovnice();
+        });
+      });
+    }
+
+    function loadPoslovnica(pid) {
+      return GitHubStorage.listFiles("data/prijemi/" + pid).then(function(files) {
+        var prijemi = [];
+        var chain = Promise.resolve();
+        var validFiles = [];
+        for (var i = 0; i < (files || []).length; i++) {
+          if (files[i].name.indexOf(".json") > -1 && files[i].name.indexOf(".") !== 0) validFiles.push(files[i]);
+        }
+        for (var i = 0; i < validFiles.length; i++) {
+          (function(f) {
+            chain = chain.then(function() {
+              return GitHubStorage.readFile(f.path).then(function(d) {
+                if (d) { d.content._sha = d.sha; d.content._path = f.path; prijemi.push(d.content); }
+              }).catch(function() {});
+            });
+          })(validFiles[i]);
+        }
+        return chain.then(function() {
+          prijemi.sort(function(a, b) { return new Date(b.datum) - new Date(a.datum); });
+          return prijemi;
+        });
+      }).catch(function() { return []; });
+    }
+
+    // ===== RENDER =====
+    function renderPoslovnice() {
+      var container = document.getElementById("posl-list");
+      container.innerHTML = "";
+
+      for (var i = 0; i < poslovnice.length; i++) {
+        var posl = poslovnice[i];
+        var prijemi = allData[posl.id] || [];
+
+        var totSken = 0, totOcek = 0, totArt = 0, activeCount = 0, doneCount = 0;
+        for (var j = 0; j < prijemi.length; j++) {
+          if (prijemi[j].status === "zavrsen") doneCount++; else activeCount++;
+          for (var d = 0; d < prijemi[j].dokumenti.length; d++) {
+            totArt += prijemi[j].dokumenti[d].stavke.length;
+            for (var s = 0; s < prijemi[j].dokumenti[d].stavke.length; s++) {
+              totSken += (prijemi[j].dokumenti[d].stavke[s].skenirano || 0);
+              totOcek += prijemi[j].dokumenti[d].stavke[s].ocekivano;
+            }
+          }
+        }
+
+        var section = document.createElement("div");
+        section.className = "posl-section";
+
+        var header = document.createElement("div");
+        header.className = "posl-header";
+        header.innerHTML = '<div><h3>' + posl.naziv + '</h3><div class="posl-stats">' + prijemi.length + ' prijema &middot; ' + activeCount + ' aktivnih &middot; ' + doneCount + ' zavrsenih &middot; ' + totSken + '/' + totOcek + ' sken.</div></div><span class="arrow">&#9654;</span>';
+
+        var body = document.createElement("div");
+        body.className = "posl-body";
+
+        if (prijemi.length === 0) {
+          body.innerHTML = '<div style="padding:20px;text-align:center;color:var(--text-muted);font-size:13px">Nema prijema</div>';
+        } else {
+          for (var j = 0; j < prijemi.length; j++) {
+            (function(p, pid) {
+              var pSken = 0, pOcek = 0, pArt = 0;
+              for (var d = 0; d < p.dokumenti.length; d++) {
+                pArt += p.dokumenti[d].stavke.length;
+                for (var s = 0; s < p.dokumenti[d].stavke.length; s++) {
+                  pSken += (p.dokumenti[d].stavke[s].skenirano || 0);
+                  pOcek += p.dokumenti[d].stavke[s].ocekivano;
+                }
+              }
+              var pct = pOcek > 0 ? Math.round((pSken / pOcek) * 100) : 0;
+              var date = new Date(p.datum).toLocaleDateString("hr-HR", { day: "numeric", month: "short", year: "numeric" });
+              var statusText = p.status === "zavrsen" ? "Zavrsen" : p.status === "aktivan" ? "Aktivan" : "Priprema";
+              var statusClass = p.status;
+              var barColor = pct >= 100 ? "#34c759" : pct > 0 ? "#ff9500" : "#e5e5ea";
+
+              var row = document.createElement("div");
+              row.className = "admin-prijem";
+              row.innerHTML = '<div class="prijem-main"><div class="prijem-date">' + date + ' <span class="status-badge ' + statusClass + '">' + statusText + '</span></div><div class="prijem-detail">' + p.dokumenti.length + ' dok. &middot; ' + pArt + ' artikala &middot; ' + pSken + '/' + pOcek + ' sken.</div></div><div class="prijem-progress"><div class="prog-text">' + pct + '%</div><div class="prog-bar"><div class="prog-fill" style="width:' + pct + '%;background:' + barColor + '"></div></div></div><div class="action-btns"><button title="Pregled" onclick="openPrijem(\'' + pid + '\',\'' + p.id + '\')">&#128065;</button><button title="Uredi" onclick="editPrijem(\'' + pid + '\',\'' + p.id + '\')">&#9998;</button><button class="del" title="Obrisi" onclick="deletePrijem(\'' + pid + '\',\'' + p._path + '\',\'' + p._sha + '\')">&#10005;</button></div>';
+              body.appendChild(row);
+            })(prijemi[j], posl.id);
+          }
+        }
+
+        (function(h, b) {
+          h.addEventListener("click", function() {
+            h.classList.toggle("open");
+            b.classList.toggle("open");
+          });
+        })(header, body);
+
+        section.appendChild(header);
+        section.appendChild(body);
+        container.appendChild(section);
+      }
+    }
+
+    // ===== ACTIONS =====
+    window.openPrijem = function(pid, prijemId) {
+      // Set session for this poslovnica temporarily
+      var posl = null;
+      for (var i = 0; i < poslovnice.length; i++) { if (poslovnice[i].id === pid) { posl = poslovnice[i]; break; } }
+      if (posl) {
+        sessionStorage.setItem("prijem_session", JSON.stringify({ poslovnicaId: posl.id, poslovnica: posl.naziv, loginTime: new Date().toISOString() }));
+        window.location.href = "skeniranje.html?id=" + prijemId;
+      }
+    };
+
+    window.editPrijem = function(pid, prijemId) {
+      var posl = null;
+      for (var i = 0; i < poslovnice.length; i++) { if (poslovnice[i].id === pid) { posl = poslovnice[i]; break; } }
+      if (posl) {
+        sessionStorage.setItem("prijem_session", JSON.stringify({ poslovnicaId: posl.id, poslovnica: posl.naziv, loginTime: new Date().toISOString() }));
+        window.location.href = "priprema.html?id=" + prijemId;
+      }
+    };
+
+    window.deletePrijem = function(pid, path, sha) {
+      if (!confirm("Obrisati ovaj prijem?")) return;
+      GitHubStorage.deleteFile(path, sha, "Admin brisanje").then(function() {
+        toast("Obrisano", "success");
+        loadAll();
+      }).catch(function(e) { toast("Greska: " + e.message, "error"); });
+    };
+
+    function toast(m, t) { var old = document.querySelectorAll(".toast"); for (var i = 0; i < old.length; i++) old[i].remove(); var el = document.createElement("div"); el.className = "toast " + t; el.textContent = m; document.body.appendChild(el); setTimeout(function() { el.remove(); }, 3000); }
+    if (localStorage.getItem("theme") === "dark") document.getElementById("theme-toggle").classList.add("dark");
+  </script>
+</body>
+</html>
