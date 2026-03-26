@@ -4,7 +4,7 @@
   "datum": "2026-03-25",
   "status": "aktivan",
   "kreirano": "2026-03-25T09:40:26.235Z",
-  "azurirano": "2026-03-26T07:19:30.702Z",
+  "azurirano": "2026-03-26T07:19:59.960Z",
   "dokumenti": [
     {
       "naziv": "MSI 1917-101",
@@ -649,7 +649,7 @@
           "naziv": "Parna postaja Philips PSG8130/80",
           "barkod": "8710103970262",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8140/80",
