@@ -4,7 +4,7 @@
   "datum": "2026-03-28",
   "status": "aktivan",
   "kreirano": "2026-03-28T14:03:38.353Z",
-  "azurirano": "2026-03-28T14:03:38.353Z",
+  "azurirano": "2026-03-28T18:42:16.163Z",
   "dokumenti": [
     {
       "naziv": "MSI 2004-101",
@@ -629,5 +629,7 @@
         }
       ]
     }
-  ]
+  ],
+  "_sha": "8b2584c942c386b299a388a79071697bd9bdde99",
+  "_path": "data/prijemi/split-cco/prijem-1774686545582.json"
 }
