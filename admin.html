@@ -265,8 +265,38 @@
 
               var row = document.createElement("div");
               row.className = "admin-prijem";
-              row.innerHTML = '<div class="prijem-main"><div class="prijem-date">' + date + ' <span class="status-badge ' + statusClass + '">' + statusText + '</span></div><div class="prijem-detail">' + p.dokumenti.length + ' dok. &middot; ' + pArt + ' artikala &middot; ' + pSken + '/' + pOcek + ' sken.</div></div><div class="prijem-progress"><div class="prog-text">' + pct + '%</div><div class="prog-bar"><div class="prog-fill" style="width:' + pct + '%;background:' + barColor + '"></div></div></div><div class="action-btns"><button title="Pregled" onclick="openPrijem(\'' + pid + '\',\'' + p.id + '\')">&#128065;</button><button title="Uredi" onclick="editPrijem(\'' + pid + '\',\'' + p.id + '\')">&#9998;</button><button class="del" title="Obrisi" onclick="deletePrijem(\'' + pid + '\',\'' + p._path + '\',\'' + p._sha + '\')">&#10005;</button></div>';
+              var detailId = "detail-" + pid + "-" + p.id;
+              row.innerHTML = '<div class="prijem-main"><div class="prijem-date">' + date + ' <span class="status-badge ' + statusClass + '">' + statusText + '</span></div><div class="prijem-detail">' + p.dokumenti.length + ' dok. &middot; ' + pArt + ' artikala &middot; ' + pSken + '/' + pOcek + ' sken.</div></div><div class="prijem-progress"><div class="prog-text">' + pct + '%</div><div class="prog-bar"><div class="prog-fill" style="width:' + pct + '%;background:' + barColor + '"></div></div></div><div class="action-btns"><button title="Pregled artikala" onclick="toggleDetail(\'' + detailId + '\')">&#128065;</button><button title="Uredi" onclick="editPrijem(\'' + pid + '\',\'' + p.id + '\')">&#9998;</button><button class="del" title="Obrisi" onclick="deletePrijem(\'' + pid + '\',\'' + p._path + '\',\'' + p._sha + '\')">&#10005;</button></div>';
               body.appendChild(row);
+
+              // Inline detail panel for articles
+              var detail = document.createElement("div");
+              detail.id = detailId;
+              detail.style.display = "none";
+              detail.style.borderBottom = "1px solid var(--border-light)";
+              detail.style.background = "var(--bg)";
+
+              var detailHtml = "";
+              for (var dd = 0; dd < p.dokumenti.length; dd++) {
+                detailHtml += '<div style="padding:8px 18px 4px;font-size:12px;font-weight:600;color:var(--text-secondary)">&#128196; ' + p.dokumenti[dd].naziv + '</div>';
+                for (var ss = 0; ss < p.dokumenti[dd].stavke.length; ss++) {
+                  var st = p.dokumenti[dd].stavke[ss];
+                  var sken = st.skenirano || 0;
+                  var diff = sken - st.ocekivano;
+                  var stStatus = sken === 0 ? "none" : sken < st.ocekivano ? "partial" : sken === st.ocekivano ? "ok" : "over";
+                  var stIcon = stStatus === "ok" ? "\u2713" : stStatus === "partial" ? "\u25D0" : stStatus === "over" ? "!" : "\u25CB";
+                  var diffText = diff === 0 ? "" : (diff > 0 ? "+" + diff : "" + diff);
+                  var diffColor = diff === 0 ? "var(--success)" : diff > 0 ? "var(--warning)" : "var(--danger)";
+                  detailHtml += '<div style="display:flex;align-items:center;padding:6px 18px 6px 28px;gap:10px;border-top:1px solid var(--border-light);font-size:13px">';
+                  detailHtml += '<div class="article-icon status-' + stStatus + '" style="width:28px;height:28px;font-size:13px;flex-shrink:0">' + stIcon + '</div>';
+                  detailHtml += '<div style="flex:1;min-width:0"><div style="font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">' + st.naziv + '</div><div style="font-size:11px;color:var(--text-muted)">' + st.barkod + '</div></div>';
+                  detailHtml += '<div style="font-weight:700;font-size:14px;flex-shrink:0">' + sken + '<span style="color:var(--text-muted);font-weight:400;font-size:12px">/' + st.ocekivano + '</span></div>';
+                  if (diffText) detailHtml += '<div style="font-size:11px;font-weight:700;color:' + diffColor + ';min-width:28px;text-align:right">' + diffText + '</div>';
+                  detailHtml += '</div>';
+                }
+              }
+              detail.innerHTML = detailHtml;
+              body.appendChild(detail);
             })(prijemi[j], posl.id);
           }
         }
@@ -285,13 +315,10 @@
     }
 
     // ===== ACTIONS =====
-    window.openPrijem = function(pid, prijemId) {
-      // Set session for this poslovnica temporarily
-      var posl = null;
-      for (var i = 0; i < poslovnice.length; i++) { if (poslovnice[i].id === pid) { posl = poslovnice[i]; break; } }
-      if (posl) {
-        sessionStorage.setItem("prijem_session", JSON.stringify({ poslovnicaId: posl.id, poslovnica: posl.naziv, loginTime: new Date().toISOString() }));
-        window.location.href = "skeniranje.html?id=" + prijemId;
+    window.toggleDetail = function(detailId) {
+      var el = document.getElementById(detailId);
+      if (el) {
+        el.style.display = el.style.display === "none" ? "block" : "none";
       }
     };
 
