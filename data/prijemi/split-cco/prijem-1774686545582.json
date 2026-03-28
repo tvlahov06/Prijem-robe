@@ -1,0 +1,157 @@
+{
+  "id": "prijem-1774686545582",
+  "poslovnica": "split-cco",
+  "datum": "2026-03-28",
+  "status": "aktivan",
+  "kreirano": "2026-03-28T08:29:05.582Z",
+  "azurirano": "2026-03-28T08:29:05.582Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 2004-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Pixel 10a 8GB/128GB Berry",
+          "barkod": "840353949911",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Pixel 10a 8GB/128GB Lavender",
+          "barkod": "840353949850",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Pixel 10a 8GB/128GB Obsidian",
+          "barkod": "840353949737",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Pixel 10a 8GB/256GB Lavender",
+          "barkod": "840353950092",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Pixel 10a 8GB/256GB Obsidian",
+          "barkod": "840353949973",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2007-101",
+      "stavke": [
+        {
+          "naziv": "IPL depilator Braun PL5152",
+          "barkod": "7500435238366",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2016-101",
+      "stavke": [
+        {
+          "naziv": "Soundbar LG S40T",
+          "barkod": "8806091960320",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX EB-TWS-12, crna boja | Bezicne slusalice",
+          "barkod": "3858894504510",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
+          "barkod": "8806097984795",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/W",
+          "barkod": "4548736161481",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds 7i Pink",
+          "barkod": "6942103164798",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony",
+          "barkod": "4548736170643",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple EarPods (Lightning Connector)",
+          "barkod": "195949506123",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "B/G Bluetooth zvucnik WHITE SHARK GHATAM, GBT-3007, crna/siva",
+          "barkod": "3858894508754",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Samsung",
+          "barkod": "8806097097068",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "STALAK SBOX PLB-2544F-2 (32-70\"/45kg/400x400)",
+          "barkod": "3858894502936",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
+          "barkod": "4548736161436",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/B",
+          "barkod": "4548736162617",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth Sony WH-CH520/P",
+          "barkod": "4548736166462",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice s mikrofonom Sony MDR-EX15AP/B E7",
+          "barkod": "4905524931235",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WF-1000XM5/B",
+          "barkod": "4548736143487",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Sony",
+          "barkod": "4548736134478",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
