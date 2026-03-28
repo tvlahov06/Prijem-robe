@@ -3,8 +3,8 @@
   "poslovnica": "split-cco",
   "datum": "2026-03-28",
   "status": "aktivan",
-  "kreirano": "2026-03-28T14:02:23.623Z",
-  "azurirano": "2026-03-28T14:03:28.177Z",
+  "kreirano": "2026-03-28T14:03:38.353Z",
+  "azurirano": "2026-03-28T14:03:38.353Z",
   "dokumenti": [
     {
       "naziv": "MSI 2004-101",
@@ -625,41 +625,6 @@
           "naziv": "HP HyperX QuadCast 2 S BK Microphone",
           "barkod": "197961186741",
           "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2004-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Pixel 10a 8GB/128GB Berry",
-          "barkod": "840353949911",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Pixel 10a 8GB/128GB Lavender",
-          "barkod": "840353949850",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Pixel 10a 8GB/128GB Obsidian",
-          "barkod": "840353949737",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Pixel 10a 8GB/256GB Lavender",
-          "barkod": "840353950092",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Pixel 10a 8GB/256GB Obsidian",
-          "barkod": "840353949973",
-          "ocekivano": 2,
           "skenirano": 0
         }
       ]
