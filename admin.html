@@ -266,10 +266,10 @@
               var row = document.createElement("div");
               row.className = "admin-prijem";
               var detailId = "detail-" + pid + "-" + p.id;
-              row.innerHTML = '<div class="prijem-main"><div class="prijem-date">' + date + ' <span class="status-badge ' + statusClass + '">' + statusText + '</span></div><div class="prijem-detail">' + p.dokumenti.length + ' dok. &middot; ' + pArt + ' artikala &middot; ' + pSken + '/' + pOcek + ' sken.</div></div><div class="prijem-progress"><div class="prog-text">' + pct + '%</div><div class="prog-bar"><div class="prog-fill" style="width:' + pct + '%;background:' + barColor + '"></div></div></div><div class="action-btns"><button title="Pregled artikala" onclick="toggleDetail(\'' + detailId + '\')">&#128065;</button><button title="Uredi" onclick="editPrijem(\'' + pid + '\',\'' + p.id + '\')">&#9998;</button><button class="del" title="Obrisi" onclick="deletePrijem(\'' + pid + '\',\'' + p._path + '\',\'' + p._sha + '\')">&#10005;</button></div>';
+              row.innerHTML = '<div class="prijem-main" style="cursor:pointer" onclick="toggleDetail(\'' + detailId + '\')"><div class="prijem-date">' + date + ' <span class="status-badge ' + statusClass + '">' + statusText + '</span></div><div class="prijem-detail">' + p.dokumenti.length + ' dok. &middot; ' + pArt + ' artikala &middot; ' + pSken + '/' + pOcek + ' sken.</div></div><div class="prijem-progress"><div class="prog-text">' + pct + '%</div><div class="prog-bar"><div class="prog-fill" style="width:' + pct + '%;background:' + barColor + '"></div></div></div><div class="action-btns"><button class="del" title="Obrisi" onclick="deletePrijem(\'' + pid + '\',\'' + p._path + '\',\'' + p._sha + '\')">&#10005;</button></div>';
               body.appendChild(row);
 
-              // Inline detail panel for articles
+              // Inline detail panel with editable qty
               var detail = document.createElement("div");
               detail.id = detailId;
               detail.style.display = "none";
@@ -277,6 +277,15 @@
               detail.style.background = "var(--bg)";
 
               var detailHtml = "";
+              // Top bar with PDF upload and save
+              detailHtml += '<div style="display:flex;align-items:center;justify-content:space-between;padding:10px 18px;border-bottom:1px solid var(--border-light)">';
+              detailHtml += '<div style="display:flex;gap:8px;align-items:center">';
+              detailHtml += '<button onclick="document.getElementById(\'file-' + detailId + '\').click()" style="display:inline-flex;align-items:center;gap:4px;padding:5px 10px;border:1px solid var(--border);border-radius:6px;background:var(--bg-white);cursor:pointer;font-size:12px;font-family:var(--font);color:var(--text-secondary)">&#128196; + PDF</button>';
+              detailHtml += '<input type="file" id="file-' + detailId + '" accept=".pdf" multiple style="display:none" onchange="addPdfToEdit(\'' + pid + '\',\'' + p.id + '\',this)">';
+              detailHtml += '</div>';
+              detailHtml += '<button onclick="saveEdit(\'' + pid + '\',\'' + p.id + '\')" style="display:inline-flex;align-items:center;gap:4px;padding:5px 12px;border:none;border-radius:6px;background:var(--success);color:#fff;cursor:pointer;font-size:12px;font-weight:600;font-family:var(--font)">&#128190; Spremi</button>';
+              detailHtml += '</div>';
+
               for (var dd = 0; dd < p.dokumenti.length; dd++) {
                 detailHtml += '<div style="padding:8px 18px 4px;font-size:12px;font-weight:600;color:var(--text-secondary)">&#128196; ' + p.dokumenti[dd].naziv + '</div>';
                 for (var ss = 0; ss < p.dokumenti[dd].stavke.length; ss++) {
@@ -287,11 +296,12 @@
                   var stIcon = stStatus === "ok" ? "\u2713" : stStatus === "partial" ? "\u25D0" : stStatus === "over" ? "!" : "\u25CB";
                   var diffText = diff === 0 ? "" : (diff > 0 ? "+" + diff : "" + diff);
                   var diffColor = diff === 0 ? "var(--success)" : diff > 0 ? "var(--warning)" : "var(--danger)";
+                  var inputId = "eq-" + pid + "-" + p.id + "-" + dd + "-" + ss;
                   detailHtml += '<div style="display:flex;align-items:center;padding:6px 18px 6px 28px;gap:10px;border-top:1px solid var(--border-light);font-size:13px">';
                   detailHtml += '<div class="article-icon status-' + stStatus + '" style="width:28px;height:28px;font-size:13px;flex-shrink:0">' + stIcon + '</div>';
                   detailHtml += '<div style="flex:1;min-width:0"><div style="font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">' + st.naziv + '</div><div style="font-size:11px;color:var(--text-muted)">' + st.barkod + '</div></div>';
-                  detailHtml += '<div style="font-weight:700;font-size:14px;flex-shrink:0">' + sken + '<span style="color:var(--text-muted);font-weight:400;font-size:12px">/' + st.ocekivano + '</span></div>';
-                  if (diffText) detailHtml += '<div style="font-size:11px;font-weight:700;color:' + diffColor + ';min-width:28px;text-align:right">' + diffText + '</div>';
+                  detailHtml += '<div style="display:flex;align-items:center;gap:3px;flex-shrink:0"><input type="text" inputmode="numeric" id="' + inputId + '" value="' + sken + '" style="width:38px;padding:3px 1px;text-align:center;font-size:13px;font-weight:700;border:1.5px solid var(--border);border-radius:6px;background:var(--bg-input);color:var(--text);outline:none;font-family:var(--font)" onfocus="this.select()"><span style="color:var(--text-muted);font-size:11px">/' + st.ocekivano + '</span></div>';
+                  if (diffText) detailHtml += '<div style="font-size:11px;font-weight:700;color:' + diffColor + ';min-width:24px;text-align:right">' + diffText + '</div>';
                   detailHtml += '</div>';
                 }
               }
@@ -322,78 +332,15 @@
       }
     };
 
-    window.editPrijem = function(pid, prijemId) {
-      // Find the prijem data
-      var prijemi = allData[pid] || [];
-      var p = null;
-      for (var i = 0; i < prijemi.length; i++) { if (prijemi[i].id === prijemId) { p = prijemi[i]; break; } }
-      if (!p) return;
-
-      var editId = "edit-" + pid + "-" + prijemId;
-      var existing = document.getElementById(editId);
-      if (existing) { existing.style.display = existing.style.display === "none" ? "block" : "none"; return; }
-
-      // Also close detail view if open
-      var detailEl = document.getElementById("detail-" + pid + "-" + prijemId);
-      if (detailEl) detailEl.style.display = "none";
-
-      // Build edit panel
-      var panel = document.createElement("div");
-      panel.id = editId;
-      panel.style.cssText = "border-bottom:1px solid var(--border-light);background:var(--bg-white);padding:16px 18px;";
-
-      var html = '<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px">';
-      html += '<span style="font-size:14px;font-weight:700;color:var(--accent)">&#9998; Uredivanje prijema</span>';
-      html += '<button onclick="saveEdit(\'' + pid + '\',\'' + prijemId + '\')" class="btn btn-success btn-sm">&#128190; Spremi</button>';
-      html += '</div>';
-
-      // Upload zone for adding PDFs
-      html += '<div style="border:2px dashed var(--border);border-radius:10px;padding:16px;text-align:center;cursor:pointer;margin-bottom:12px;background:var(--bg)" onclick="document.getElementById(\'file-' + editId + '\').click()">';
-      html += '<div style="font-size:13px;font-weight:600">+ Dodaj PDF dostavnicu</div>';
-      html += '<div style="font-size:11px;color:var(--text-muted)">Klikni za odabir datoteke</div>';
-      html += '<input type="file" id="file-' + editId + '" accept=".pdf" multiple style="display:none" onchange="addPdfToEdit(\'' + pid + '\',\'' + prijemId + '\',this)">';
-      html += '</div>';
-
-      // Articles with editable qty
-      for (var d = 0; d < p.dokumenti.length; d++) {
-        html += '<div style="padding:6px 0 4px;font-size:12px;font-weight:600;color:var(--text-secondary)">&#128196; ' + p.dokumenti[d].naziv + '</div>';
-        for (var s = 0; s < p.dokumenti[d].stavke.length; s++) {
-          var st = p.dokumenti[d].stavke[s];
-          var sken = st.skenirano || 0;
-          var inputId = "eq-" + pid + "-" + prijemId + "-" + d + "-" + s;
-          html += '<div style="display:flex;align-items:center;padding:6px 0;gap:8px;border-top:1px solid var(--border-light);font-size:13px">';
-          html += '<div style="flex:1;min-width:0"><div style="font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">' + st.naziv + '</div><div style="font-size:11px;color:var(--text-muted)">' + st.barkod + '</div></div>';
-          html += '<div style="display:flex;align-items:center;gap:4px;flex-shrink:0">';
-          html += '<input type="text" inputmode="numeric" id="' + inputId + '" value="' + sken + '" style="width:42px;padding:4px 2px;text-align:center;font-size:14px;font-weight:700;border:1.5px solid var(--border);border-radius:6px;background:var(--bg-input);color:var(--text);outline:none;font-family:var(--font)" onfocus="this.select()">';
-          html += '<span style="color:var(--text-muted);font-size:12px">/' + st.ocekivano + '</span>';
-          html += '</div></div>';
-        }
-      }
-
-      // New articles added via PDF will appear here
-      html += '<div id="new-items-' + editId + '"></div>';
-
-      panel.innerHTML = html;
-
-      // Insert after the prijem row
-      var detailPanel = document.getElementById("detail-" + pid + "-" + prijemId);
-      if (detailPanel) {
-        detailPanel.parentNode.insertBefore(panel, detailPanel);
-      }
-    };
-
     window.addPdfToEdit = function(pid, prijemId, fileInput) {
       if (!fileInput.files.length) return;
       var files = [];
       for (var i = 0; i < fileInput.files.length; i++) files.push(fileInput.files[i]);
 
-      // Need PDFParser - load if not available
       if (typeof PDFParser === "undefined") {
         var s = document.createElement("script");
         s.src = "js/pdfParser.js";
-        s.onload = function() {
-          parsePdfsForEdit(pid, prijemId, files);
-        };
+        s.onload = function() { parsePdfsForEdit(pid, prijemId, files); };
         document.head.appendChild(s);
       } else {
         parsePdfsForEdit(pid, prijemId, files);
@@ -411,15 +358,14 @@
         for (var r = 0; r < results.length; r++) {
           p.dokumenti.push({ naziv: results[r].dokumentNaziv, stavke: results[r].stavke });
         }
-        // Re-render edit panel
-        var editId = "edit-" + pid + "-" + prijemId;
-        var panel = document.getElementById(editId);
-        if (panel) { panel.remove(); }
-        editPrijem(pid, prijemId);
-        toast("PDF dodan!", "success");
-      }).catch(function(e) {
-        toast("Greska: " + e.message, "error");
-      });
+        // Save and reload
+        p.azurirano = new Date().toISOString();
+        GitHubStorage.writeFile(p._path, p, "Admin add PDF", p._sha).then(function(r) {
+          if (r) p._sha = r.content.sha;
+          toast("PDF dodan!", "success");
+          loadAll();
+        }).catch(function(e) { toast("Greska: " + e.message, "error"); });
+      }).catch(function(e) { toast("Greska: " + e.message, "error"); });
     }
 
     window.saveEdit = function(pid, prijemId) {
