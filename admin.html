@@ -323,12 +323,138 @@
     };
 
     window.editPrijem = function(pid, prijemId) {
-      var posl = null;
-      for (var i = 0; i < poslovnice.length; i++) { if (poslovnice[i].id === pid) { posl = poslovnice[i]; break; } }
-      if (posl) {
-        sessionStorage.setItem("prijem_session", JSON.stringify({ poslovnicaId: posl.id, poslovnica: posl.naziv, loginTime: new Date().toISOString() }));
-        window.location.href = "priprema.html?id=" + prijemId;
+      // Find the prijem data
+      var prijemi = allData[pid] || [];
+      var p = null;
+      for (var i = 0; i < prijemi.length; i++) { if (prijemi[i].id === prijemId) { p = prijemi[i]; break; } }
+      if (!p) return;
+
+      var editId = "edit-" + pid + "-" + prijemId;
+      var existing = document.getElementById(editId);
+      if (existing) { existing.style.display = existing.style.display === "none" ? "block" : "none"; return; }
+
+      // Also close detail view if open
+      var detailEl = document.getElementById("detail-" + pid + "-" + prijemId);
+      if (detailEl) detailEl.style.display = "none";
+
+      // Build edit panel
+      var panel = document.createElement("div");
+      panel.id = editId;
+      panel.style.cssText = "border-bottom:1px solid var(--border-light);background:var(--bg-white);padding:16px 18px;";
+
+      var html = '<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px">';
+      html += '<span style="font-size:14px;font-weight:700;color:var(--accent)">&#9998; Uredivanje prijema</span>';
+      html += '<button onclick="saveEdit(\'' + pid + '\',\'' + prijemId + '\')" class="btn btn-success btn-sm">&#128190; Spremi</button>';
+      html += '</div>';
+
+      // Upload zone for adding PDFs
+      html += '<div style="border:2px dashed var(--border);border-radius:10px;padding:16px;text-align:center;cursor:pointer;margin-bottom:12px;background:var(--bg)" onclick="document.getElementById(\'file-' + editId + '\').click()">';
+      html += '<div style="font-size:13px;font-weight:600">+ Dodaj PDF dostavnicu</div>';
+      html += '<div style="font-size:11px;color:var(--text-muted)">Klikni za odabir datoteke</div>';
+      html += '<input type="file" id="file-' + editId + '" accept=".pdf" multiple style="display:none" onchange="addPdfToEdit(\'' + pid + '\',\'' + prijemId + '\',this)">';
+      html += '</div>';
+
+      // Articles with editable qty
+      for (var d = 0; d < p.dokumenti.length; d++) {
+        html += '<div style="padding:6px 0 4px;font-size:12px;font-weight:600;color:var(--text-secondary)">&#128196; ' + p.dokumenti[d].naziv + '</div>';
+        for (var s = 0; s < p.dokumenti[d].stavke.length; s++) {
+          var st = p.dokumenti[d].stavke[s];
+          var sken = st.skenirano || 0;
+          var inputId = "eq-" + pid + "-" + prijemId + "-" + d + "-" + s;
+          html += '<div style="display:flex;align-items:center;padding:6px 0;gap:8px;border-top:1px solid var(--border-light);font-size:13px">';
+          html += '<div style="flex:1;min-width:0"><div style="font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">' + st.naziv + '</div><div style="font-size:11px;color:var(--text-muted)">' + st.barkod + '</div></div>';
+          html += '<div style="display:flex;align-items:center;gap:4px;flex-shrink:0">';
+          html += '<input type="text" inputmode="numeric" id="' + inputId + '" value="' + sken + '" style="width:42px;padding:4px 2px;text-align:center;font-size:14px;font-weight:700;border:1.5px solid var(--border);border-radius:6px;background:var(--bg-input);color:var(--text);outline:none;font-family:var(--font)" onfocus="this.select()">';
+          html += '<span style="color:var(--text-muted);font-size:12px">/' + st.ocekivano + '</span>';
+          html += '</div></div>';
+        }
       }
+
+      // New articles added via PDF will appear here
+      html += '<div id="new-items-' + editId + '"></div>';
+
+      panel.innerHTML = html;
+
+      // Insert after the prijem row
+      var detailPanel = document.getElementById("detail-" + pid + "-" + prijemId);
+      if (detailPanel) {
+        detailPanel.parentNode.insertBefore(panel, detailPanel);
+      }
+    };
+
+    window.addPdfToEdit = function(pid, prijemId, fileInput) {
+      if (!fileInput.files.length) return;
+      var files = [];
+      for (var i = 0; i < fileInput.files.length; i++) files.push(fileInput.files[i]);
+
+      // Need PDFParser - load if not available
+      if (typeof PDFParser === "undefined") {
+        var s = document.createElement("script");
+        s.src = "js/pdfParser.js";
+        s.onload = function() {
+          parsePdfsForEdit(pid, prijemId, files);
+        };
+        document.head.appendChild(s);
+      } else {
+        parsePdfsForEdit(pid, prijemId, files);
+      }
+      fileInput.value = "";
+    };
+
+    function parsePdfsForEdit(pid, prijemId, files) {
+      var prijemi = allData[pid] || [];
+      var p = null;
+      for (var i = 0; i < prijemi.length; i++) { if (prijemi[i].id === prijemId) { p = prijemi[i]; break; } }
+      if (!p) return;
+
+      PDFParser.parseMultiple(files).then(function(results) {
+        for (var r = 0; r < results.length; r++) {
+          p.dokumenti.push({ naziv: results[r].dokumentNaziv, stavke: results[r].stavke });
+        }
+        // Re-render edit panel
+        var editId = "edit-" + pid + "-" + prijemId;
+        var panel = document.getElementById(editId);
+        if (panel) { panel.remove(); }
+        editPrijem(pid, prijemId);
+        toast("PDF dodan!", "success");
+      }).catch(function(e) {
+        toast("Greska: " + e.message, "error");
+      });
+    }
+
+    window.saveEdit = function(pid, prijemId) {
+      var prijemi = allData[pid] || [];
+      var p = null;
+      for (var i = 0; i < prijemi.length; i++) { if (prijemi[i].id === prijemId) { p = prijemi[i]; break; } }
+      if (!p) return;
+
+      // Read all qty inputs
+      for (var d = 0; d < p.dokumenti.length; d++) {
+        for (var s = 0; s < p.dokumenti[d].stavke.length; s++) {
+          var inputId = "eq-" + pid + "-" + prijemId + "-" + d + "-" + s;
+          var input = document.getElementById(inputId);
+          if (input) {
+            var val = parseInt(input.value);
+            if (!isNaN(val) && val >= 0) {
+              p.dokumenti[d].stavke[s].skenirano = val;
+            }
+          }
+        }
+      }
+
+      p.azurirano = new Date().toISOString();
+
+      GitHubStorage.writeFile(p._path, p, "Admin edit", p._sha).then(function(r) {
+        if (r) p._sha = r.content.sha;
+        toast("Spremljeno!", "success");
+        // Close edit panel and refresh
+        var editId = "edit-" + pid + "-" + prijemId;
+        var panel = document.getElementById(editId);
+        if (panel) panel.remove();
+        loadAll();
+      }).catch(function(e) {
+        toast("Greska: " + e.message, "error");
+      });
     };
 
     window.deletePrijem = function(pid, path, sha) {
