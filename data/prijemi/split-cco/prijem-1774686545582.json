@@ -3,8 +3,8 @@
   "poslovnica": "split-cco",
   "datum": "2026-03-28",
   "status": "aktivan",
-  "kreirano": "2026-03-28T08:29:05.582Z",
-  "azurirano": "2026-03-28T08:29:20.563Z",
+  "kreirano": "2026-03-28T08:33:05.100Z",
+  "azurirano": "2026-03-28T08:33:05.100Z",
   "dokumenti": [
     {
       "naziv": "MSI 2004-101",
@@ -148,6 +148,482 @@
         {
           "naziv": "Soundbar Sony",
           "barkod": "4548736134478",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2037-101",
+      "stavke": [
+        {
+          "naziv": "Mis Logitech M185, sivi",
+          "barkod": "5099206027275",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK540 Advanced, bezicna, siva",
+          "barkod": "5099206077522",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK270, bezicna, crna",
+          "barkod": "5099206039384",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G402 Hyperion Fury, zicani",
+          "barkod": "5099206051768",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech Lift Vertical Ergonomic, graphite",
+          "barkod": "5099206099784",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica LOGITECH MK250 graphite",
+          "barkod": "5099206130982",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G733, gaming, RGB, bezicne, crne",
+          "barkod": "5099206088719",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Nitro V 15, NH.QZ7EX.016, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 9 270H, 16 GB RAM, 1 TB",
+          "barkod": "4711474900746",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Nitro V 15, NH.QZAEX.009, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 9 270H, 16 GB RAM, 1 TB",
+          "barkod": "4711474900760",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop LENOVO LOQ 83JE0078SC, 39.6cm (15.6\") IPS FHD 144Hz, Intel Core i7-13650HX, 32 GB RAM, 1 TB SSD,",
+          "barkod": "198158565486",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2036-101",
+      "stavke": [
+        {
+          "naziv": "Mis ACER Smart Fit Vertical Mouse, Crna",
+          "barkod": "4712842946755",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER Easy Fit Mouse, Crna",
+          "barkod": "4712842946748",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB Hub ACER 7in1 Type C Dongle, Srebrna",
+          "barkod": "4712842946571",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis WHITE SHARK Maximus, GM-9010, crni",
+          "barkod": "3858894508068",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis WHITE SHARK Maximus, GM-9010, bijeli",
+          "barkod": "3858894508075",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB Hub ACER HP.DSCAB.022, Srebrna",
+          "barkod": "4712842946779",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR 100, Crna",
+          "barkod": "4711121852237",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR 100, Bijela",
+          "barkod": "4711474195531",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR100, Breskva",
+          "barkod": "4711474195555",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR100, Plava/Zelena",
+          "barkod": "4711474195548",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR130, Crna",
+          "barkod": "4711474799708",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR130, Zuta",
+          "barkod": "4711474835543",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR130, Bijela",
+          "barkod": "4711474799715",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR130, Ljubicasta",
+          "barkod": "4711474835550",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR130, Zelena",
+          "barkod": "4711474835567",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac ACER NP.ADT0A.065, Crna",
+          "barkod": "4713392872532",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac ACER GP.ADT11.028, Crna",
+          "barkod": "4711121143113",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicni router ACER Wave 7 WiFi 7 Mesh Router, bijeli",
+          "barkod": "4711474068613",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicni router ACER Wave 7 WiFi 7 Mesh Router, bijeli",
+          "barkod": "4711474068620",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2067-101",
+      "stavke": [
+        {
+          "naziv": "TV SAMSUNG UE55U8072FUXXH, 139.7cm (55\"), LED, 4K XH UHD Smart TV, Tizen OS",
+          "barkod": "8806097067603",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525804",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 55E77Q, 139.7cm (55\"), QLED, 4K UHD Smart TV, VIDAA OS",
+          "barkod": "6942351418711",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 55PUS9010, 139.7cm (55\"), QLED, UHD 4K 144Hz, Smart TV, Titan OS",
+          "barkod": "8718863046340",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55Q8FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097120452",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 55NANO80A3B 139.7cm (55\"), NanoCell, 4K UHD AEU Smart TV, webOS",
+          "barkod": "8806096362211",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 55QNED86A3A 139.7cm (55\"), QNED, 4K UHD AEU Smart TV, webOS",
+          "barkod": "8806096309650",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 55E7Q, 139.7cm (55\"), QLED, 4K UHD Smart TV, VIDAA OS",
+          "barkod": "6942351418728",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 55E7QPRO, 139.7cm (55\"), QLED, 4K UHD 144Hz, Smart TV, VIDAA OS",
+          "barkod": "6942351416212",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 55E8Q, 139.7cm (55\"), ULED MiniLED, 4K UHD Smart TV, VIDAA OS",
+          "barkod": "6942351419862",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 55MLED820, 139.7cm (55\"), LED, UHD 4K Smart TV, Titan OS",
+          "barkod": "8718863046661",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 55UA73003LA 139.7cm (55\"), LED, 4K UHD Smart Q TV, webOS",
+          "barkod": "8806096340264",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55S90FAEXXH, 139.7cm (55\"), OLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097090953",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE50Q7FAAUXXH, 127.0cm (50\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097118541",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PRO TV HISENSE 50E7QPRO, 127.0cm (50\"), QLED, 4K UHD 144Hz, Smart TV, VIDAA OS",
+          "barkod": "6942351424248",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG UE43U8072FUXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
+          "barkod": "8806097067665",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE43Q7FAAUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097118527",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 43QNED80A3A 109.2cm (43\"), QNED, 4K UHD AEU Smart TV, webOS",
+          "barkod": "8806096398494",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 43PUS7810, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS",
+          "barkod": "8718863046159",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 43A6Q, 109.2cm (43\"), LED, 4K UHD Smart TV, VIDAA OS",
+          "barkod": "6942351415628",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 43E7Q, 109.2cm (43\"), QLED, 4K UHD Smart TV, VIDAA OS",
+          "barkod": "6942351418407",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 40S5K, 101.6cm (40\"), QLED, FHD SMART TV, GOOGLE TV",
+          "barkod": "5901292526023",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 32A5Q, 81.3cm (32\"), QLED, FHD Smart TV, VIDAA OS",
+          "barkod": "6942351418179",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
+          "barkod": "5901292525798",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 65E7Q, 165.1cm (65\"), QLED, 4K UHD Smart TV, VIDAA OS",
+          "barkod": "6942351418902",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55S85FAUXXH, 139.7cm (55\"), OLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806095995205",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2035-101",
+      "stavke": [
+        {
+          "naziv": "USB STICK KINGSTON FD Exodia 64GB USB 3.2",
+          "barkod": "740617309829",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link UE300C USB Type-C na Ethernet adapter, USB 3.0 port, 10/100/1000",
+          "barkod": "6935364072599",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link TL-MR6400 bezicni 4G LTE Router, 300Mbps, interni 4G modem, SIM card slot",
+          "barkod": "6935364092764",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
+          "barkod": "4897098683446",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE450 bezicni pojacivac dometa, Dual Band GHz/5GHz, 10/100/1000 LAN prikljucak",
+          "barkod": "6935364092382",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Bluetooth adapter 4.0 UB400",
+          "barkod": "6935364099664",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
+          "barkod": "740617348651",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX K-123 HR | Zicna tipkovnica",
+          "barkod": "3858894505463",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Software Microsoft 365 Personal FPP 1 godisnja pretplata P/N: EP2-32410",
+          "barkod": "196388539314",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDHC, Class10, 10A1-RA1 100/20MBs, 32GB",
+          "barkod": "4713218461926",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Microsoft Office Home 2024 FPP Medialess ENG, EP2-06812",
+          "barkod": "0196388411894",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Software Microsoft 365 Family 1-godisnja pretplata, Premium Office aplikacije, 6",
+          "barkod": "0196388208241",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torba za laptop Lenovo T210 siva 15,6\"",
+          "barkod": "193386076902",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Lenovo B210 Black 15,6\"",
+          "barkod": "193386076841",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MIS SBOX M-958 Crni",
+          "barkod": "0616320538309",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX WM-852, ljubicasta boja, bezicni | Wireless mis",
+          "barkod": "3858894506125",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WHITE SHARK GM-5014 Graphene, 12.400 DPI, bez boja | Gaming mis",
+          "barkod": "3858894505852",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 1TB USB 3.2 T7 Portable crni MU-PE1T0S/EU",
+          "barkod": "8806092968424",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HDD EXT AD HV300 USB 3.2 Crni -CBK",
+          "barkod": "4713218464972",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark MIS GM-5018 CARADOC RGB/7200 dpi/Crni",
+          "barkod": "3858894507238",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX QuadCast 2 S BK Microphone",
+          "barkod": "197961186741",
           "ocekivano": 1,
           "skenirano": 0
         }
