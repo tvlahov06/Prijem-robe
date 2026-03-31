@@ -4,7 +4,7 @@
   "datum": "2026-03-30",
   "status": "aktivan",
   "kreirano": "2026-03-30T14:42:19.320Z",
-  "azurirano": "2026-03-31T08:37:45.619Z",
+  "azurirano": "2026-03-31T08:37:49.200Z",
   "dokumenti": [
     {
       "naziv": "MSI 2004-101",
@@ -505,7 +505,7 @@
           "naziv": "USB STICK KINGSTON FD Exodia 64GB USB 3.2",
           "barkod": "740617309829",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link UE300C USB Type-C na Ethernet adapter, USB 3.0 port, 10/100/1000",
