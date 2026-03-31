@@ -228,6 +228,113 @@ var PDFParser = {
     });
   },
 
+  // ===== EXCEL PARSER =====
+  _ensureXlsx: function() {
+    if (window.XLSX) return Promise.resolve();
+    return new Promise(function(resolve, reject) {
+      var s = document.createElement("script");
+      s.src = "https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js";
+      s.onload = resolve;
+      s.onerror = reject;
+      document.head.appendChild(s);
+    });
+  },
+
+  parseExcel: function(file) {
+    var self = this;
+    return this._ensureXlsx().then(function() {
+      return file.arrayBuffer();
+    }).then(function(arrayBuffer) {
+      var wb = XLSX.read(arrayBuffer, { type: "array" });
+      var sheetName = wb.SheetNames[0];
+      var ws = wb.Sheets[sheetName];
+      var data = XLSX.utils.sheet_to_json(ws, { header: 1 });
+
+      console.log("Excel rows:", data.length);
+      for (var i = 0; i < Math.min(5, data.length); i++) console.log("  " + i + ":", data[i]);
+
+      // Find header row - look for row containing "Barcode" or "barcode" or "Barkod" or "EAN"
+      var headerRow = -1;
+      var colBarcode = -1, colNaziv = -1, colKol = -1;
+
+      for (var r = 0; r < Math.min(10, data.length); r++) {
+        var row = data[r];
+        if (!row) continue;
+        for (var c = 0; c < row.length; c++) {
+          var val = String(row[c] || "").toLowerCase().trim();
+          if (val === "barcode" || val === "barkod" || val === "ean" || val === "bar code") colBarcode = c;
+          if (val === "naziv" || val === "naziv artikla" || val === "opis" || val === "description" || val === "artikl naziv") colNaziv = c;
+          if (val === "kolicina" || val === "količina" || val === "kol" || val === "qty" || val === "kom") colKol = c;
+        }
+        if (colBarcode >= 0) { headerRow = r; break; }
+      }
+
+      // If no header found, try auto-detect: look for column with 13-digit numbers
+      if (headerRow < 0) {
+        for (var r = 0; r < Math.min(5, data.length); r++) {
+          var row = data[r];
+          if (!row) continue;
+          for (var c = 0; c < row.length; c++) {
+            var val = String(row[c] || "");
+            if (/^\d{12,13}$/.test(val)) {
+              colBarcode = c;
+              headerRow = r - 1;
+              break;
+            }
+          }
+          if (colBarcode >= 0) break;
+        }
+        // Guess other columns based on position relative to barcode
+        if (colBarcode >= 0) {
+          if (colNaziv < 0) colNaziv = colBarcode > 0 ? colBarcode - 1 : colBarcode + 1;
+          if (colKol < 0) colKol = colBarcode + 1;
+        }
+      }
+
+      if (colBarcode < 0) {
+        console.warn("Could not find barcode column");
+        return { dokumentNaziv: file.name.replace(/\.[^.]+$/, ""), stavke: [] };
+      }
+
+      console.log("Header row:", headerRow, "Barcode col:", colBarcode, "Naziv col:", colNaziv, "Kol col:", colKol);
+
+      var items = [];
+      var startRow = headerRow + 1;
+
+      for (var r = startRow; r < data.length; r++) {
+        var row = data[r];
+        if (!row) continue;
+
+        var barcode = String(row[colBarcode] || "").trim();
+        // Must be 8-13 digit number
+        if (!/^\d{8,13}$/.test(barcode)) continue;
+
+        var naziv = colNaziv >= 0 ? String(row[colNaziv] || "").trim() : "Artikl " + barcode;
+        var qty = colKol >= 0 ? parseInt(row[colKol]) : 1;
+        if (isNaN(qty) || qty <= 0) qty = 1;
+
+        // Clean naziv
+        naziv = self._fixText(naziv);
+        if (!naziv || naziv.length < 2) naziv = "Artikl " + barcode;
+
+        // Avoid duplicates
+        var exists = false;
+        for (var k = 0; k < items.length; k++) {
+          if (items[k].barkod === barcode) { exists = true; break; }
+        }
+        if (!exists) {
+          items.push({ naziv: naziv, barkod: barcode, ocekivano: qty, skenirano: 0 });
+        }
+      }
+
+      console.log("Parsed " + items.length + " items from Excel:", items);
+
+      var docName = file.name.replace(/\.[^.]+$/, "");
+      return { dokumentNaziv: docName, stavke: items };
+    });
+  },
+
+  // ===== PARSE MULTIPLE (PDF + EXCEL) =====
   parseMultiple: function(files) {
     var self = this;
     var results = [];
@@ -235,7 +342,16 @@ var PDFParser = {
     for (var i = 0; i < files.length; i++) {
       (function(f) {
         chain = chain.then(function() {
-          return self.parsePDF(f).then(function(r) {
+          var ext = f.name.toLowerCase().split(".").pop();
+          var parser;
+          if (ext === "pdf") {
+            parser = self.parsePDF(f);
+          } else if (ext === "xlsx" || ext === "xls" || ext === "csv") {
+            parser = self.parseExcel(f);
+          } else {
+            parser = Promise.resolve({ dokumentNaziv: f.name, stavke: [], error: "Nepodrzani format" });
+          }
+          return parser.then(function(r) {
             results.push(r);
           }).catch(function(e) {
             console.error("Parse error:", e);
