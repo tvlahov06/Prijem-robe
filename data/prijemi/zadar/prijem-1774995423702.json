@@ -2,9 +2,9 @@
   "id": "prijem-1774995423702",
   "poslovnica": "zadar",
   "datum": "2026-03-31",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-03-31T22:17:03.702Z",
-  "azurirano": "2026-03-31T22:18:10.079Z",
+  "azurirano": "2026-03-31T22:18:50.208Z",
   "dokumenti": [
     {
       "naziv": "MSI 69-151",
@@ -29,5 +29,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-03-31T22:18:50.208Z"
 }
