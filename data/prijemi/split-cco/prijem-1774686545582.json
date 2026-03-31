@@ -4,7 +4,7 @@
   "datum": "2026-03-30",
   "status": "aktivan",
   "kreirano": "2026-03-30T14:42:19.320Z",
-  "azurirano": "2026-03-31T08:33:11.391Z",
+  "azurirano": "2026-03-31T08:33:28.958Z",
   "dokumenti": [
     {
       "naziv": "MSI 2004-101",
@@ -750,7 +750,7 @@
           "naziv": "Brijaci aparat Braun XT5100 trimer",
           "barkod": "8001090794987",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat BRAUN 7 72-N4200CS",
