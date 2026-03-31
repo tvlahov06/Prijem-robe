@@ -280,8 +280,8 @@
               // Top bar with PDF upload and save
               detailHtml += '<div style="display:flex;align-items:center;justify-content:space-between;padding:10px 18px;border-bottom:1px solid var(--border-light)">';
               detailHtml += '<div style="display:flex;gap:8px;align-items:center">';
-              detailHtml += '<button onclick="document.getElementById(\'file-' + detailId + '\').click()" style="display:inline-flex;align-items:center;gap:4px;padding:5px 10px;border:1px solid var(--border);border-radius:6px;background:var(--bg-white);cursor:pointer;font-size:12px;font-family:var(--font);color:var(--text-secondary)">&#128196; + PDF</button>';
-              detailHtml += '<input type="file" id="file-' + detailId + '" accept=".pdf" multiple style="display:none" onchange="addPdfToEdit(\'' + pid + '\',\'' + p.id + '\',this)">';
+              detailHtml += '<button onclick="document.getElementById(\'file-' + detailId + '\').click()" style="display:inline-flex;align-items:center;gap:4px;padding:5px 10px;border:1px solid var(--border);border-radius:6px;background:var(--bg-white);cursor:pointer;font-size:12px;font-family:var(--font);color:var(--text-secondary)">&#128196; + PDF#128196; + PDF/Excel</button>';
+              detailHtml += '<input type="file" id="file-' + detailId + '" accept=".pdf,.xlsx,.xls,.csv" multiple style="display:none" onchange="addPdfToEdit(\'' + pid + '\',\'' + p.id + '\',this)">';
               detailHtml += '</div>';
               detailHtml += '<button onclick="saveEdit(\'' + pid + '\',\'' + p.id + '\')" style="display:inline-flex;align-items:center;gap:4px;padding:5px 12px;border:none;border-radius:6px;background:var(--success);color:#fff;cursor:pointer;font-size:12px;font-weight:600;font-family:var(--font)">&#128190; Spremi</button>';
               detailHtml += '</div>';
