@@ -4,7 +4,7 @@
   "datum": "2026-03-30",
   "status": "aktivan",
   "kreirano": "2026-03-30T14:42:19.320Z",
-  "azurirano": "2026-03-31T08:17:02.834Z",
+  "azurirano": "2026-03-31T08:17:06.706Z",
   "dokumenti": [
     {
       "naziv": "MSI 2004-101",
@@ -756,7 +756,7 @@
           "naziv": "Brijaci aparat BRAUN 7 72-N4200CS",
           "barkod": "8700216645638",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat BRAUN 5 52-N7200CC",
