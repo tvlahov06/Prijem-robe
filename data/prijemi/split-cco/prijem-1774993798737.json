@@ -4,7 +4,7 @@
   "datum": "2026-03-31",
   "status": "aktivan",
   "kreirano": "2026-03-31T21:49:58.737Z",
-  "azurirano": "2026-03-31T21:49:58.737Z",
+  "azurirano": "2026-03-31T22:01:05.758Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -536,6 +536,25 @@
           "skenirano": 0
         }
       ]
+    },
+    {
+      "naziv": "Big Partner 2",
+      "stavke": [
+        {
+          "naziv": "Party light JBL BEAM",
+          "barkod": "1200130012938",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Rezervna baterija JBL Battery 400 s kucistem za punjenje crna",
+          "barkod": "1200130026874",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
     }
-  ]
+  ],
+  "_sha": "d05e305ba18e34f905eb4d42136760e7afb523b2",
+  "_path": "data/prijemi/split-cco/prijem-1774993798737.json"
 }
