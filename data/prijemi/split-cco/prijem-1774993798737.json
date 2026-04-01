@@ -4,7 +4,7 @@
   "datum": "2026-03-31",
   "status": "aktivan",
   "kreirano": "2026-03-31T21:49:58.737Z",
-  "azurirano": "2026-04-01T06:42:02.590Z",
+  "azurirano": "2026-04-01T06:42:11.438Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -175,13 +175,13 @@
           "naziv": "TRUST PC MIS WLESS SILENT MULTI-DEVICE OZAA+ BLACK",
           "barkod": "8713439248203",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST PC MIS WLESS SILENT MULTI-DEVICE OZAA+ WHITE",
           "barkod": "8713439249354",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLACK",
