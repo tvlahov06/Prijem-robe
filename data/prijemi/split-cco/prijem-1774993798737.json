@@ -2,9 +2,9 @@
   "id": "prijem-1774993798737",
   "poslovnica": "split-cco",
   "datum": "2026-03-31",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-03-31T21:49:58.737Z",
-  "azurirano": "2026-04-01T06:46:03.205Z",
+  "azurirano": "2026-04-01T13:57:45.327Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -556,5 +556,6 @@
     }
   ],
   "_sha": "d05e305ba18e34f905eb4d42136760e7afb523b2",
-  "_path": "data/prijemi/split-cco/prijem-1774993798737.json"
+  "_path": "data/prijemi/split-cco/prijem-1774993798737.json",
+  "zavrseno": "2026-04-01T13:57:45.326Z"
 }
