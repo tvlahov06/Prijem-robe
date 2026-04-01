@@ -2,9 +2,9 @@
   "id": "prijem-1774993798737",
   "poslovnica": "split-cco",
   "datum": "2026-04-01",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-04-01T13:58:24.571Z",
-  "azurirano": "2026-04-01T16:12:24.278Z",
+  "azurirano": "2026-04-01T19:00:06.354Z",
   "dokumenti": [
     {
       "naziv": "Big Partner",
@@ -262,6 +262,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-04-01T16:12:24.277Z"
+  ]
 }
