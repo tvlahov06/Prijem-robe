@@ -3,8 +3,8 @@
   "poslovnica": "split-cco",
   "datum": "2026-04-01",
   "status": "aktivan",
-  "kreirano": "2026-04-01T13:58:00.287Z",
-  "azurirano": "2026-04-01T13:58:00.287Z",
+  "kreirano": "2026-04-01T13:58:24.571Z",
+  "azurirano": "2026-04-01T13:58:24.571Z",
   "dokumenti": [
     {
       "naziv": "Big Partner",
@@ -241,47 +241,6 @@
           "naziv": "Zvucnik prijenosni bluetooth JBL GRIP plavi",
           "barkod": "1200130024856",
           "ocekivano": 4,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "Spinnaker",
-      "stavke": [
-        {
-          "naziv": "Segway elektricni romobil C2 Lite E",
-          "barkod": "8721008535258",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Segway elektricni romobil E3 E",
-          "barkod": "8721008534046",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Segway elektricni romobil F3 E",
-          "barkod": "8721008535791",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Segway elektricni romobil F3 Pro E",
-          "barkod": "8721008535814",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Segway elektricni romobil Max G3 I",
-          "barkod": "8721008535999",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Segway elektricni romobil ZT3 Pro I",
-          "barkod": "8721008534015",
-          "ocekivano": 1,
           "skenirano": 0
         }
       ]
