@@ -1,0 +1,165 @@
+{
+  "id": "prijem-1775070035214",
+  "poslovnica": "split-cco",
+  "datum": "2026-04-01",
+  "status": "aktivan",
+  "kreirano": "2026-04-01T19:00:35.214Z",
+  "azurirano": "2026-04-01T19:00:35.214Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 2086-101",
+      "stavke": [
+        {
+          "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ00U1SC, 39.6cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB",
+          "barkod": "199272265351",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Aspire Go 15 AG15-42P-R88L NX.J7WEX.00Q, cm (15.6\") IPS FHD, AMD Ryzen 7 5825U, 16 GB RAM,",
+          "barkod": "4711474945655",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Aspire Lite 15, NX.DMVEX.001, 39.6cm (15.6\") IPS FHD, AMD Ryzen 7 5825U, 32 GB RAM, 1 TB",
+          "barkod": "4711474830173",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP 15-fc0277nm, CZ9C6EA, 39.6 cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD",
+          "barkod": "0199764771070",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Neo Indigo, mhff4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
+          "barkod": "195950852578",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Nitro V 16 AI, NH.U1EEX.001, 40.6cm (16\") IPS WQXGA 180Hz, AMD Ryzen AI 9 365, 32 GB RAM, 1 TB",
+          "barkod": "4711474549891",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Nitro V 16 AI, NH.U1HEX.00C, 40.6cm (16\") IPS WUXGA 180Hz, AMD Ryzen 5 240, 16 GB RAM, 1 TB",
+          "barkod": "4711474768087",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS ROG Strix G16, G614PR-RV022W, 40.6cm 4J0 (16\") FHD+ WUXGA 165Hz, AMD Ryzen 9 8940HX, 32 GB",
+          "barkod": "4711387980767",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Neo Silver, mhfa4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
+          "barkod": "195950850697",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
+          "barkod": "5025155117187",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V8 Total Clean",
+          "barkod": "5025155080306",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V16 Piston Animal",
+          "barkod": "5025155114834",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Dyson Supersonic r Ceramic Pink/Rose Gold Straight + Wavy",
+          "barkod": "5025155118078",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Amber Silk/Pink Champagne Straight+Wavy Limited Edition",
+          "barkod": "5025155119693",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907CP 900W",
+          "barkod": "8006447000087",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB505DG 500W",
+          "barkod": "8006447000070",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
+          "barkod": "8006447002166",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907S 900W",
+          "barkod": "8006447002487",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 27\" Samsung LS27D600UAUXEN, IPS, UWQHD, EN 100Hz",
+          "barkod": "8806095524658",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SAMSUNG 27\" Odyssey G5 Gaming Monitor EN LS27FG502EUXEN, IPS 2K/QHD, 180Hz, 1ms, AMD",
+          "barkod": "8806097817796",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DELL 27\" Gaming monitor SE2725HG, IPS Full HD, 200Hz, 1ms, AMD FreeSync Premium, Display Port, 2x HDMI",
+          "barkod": "5397184962909",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer Epson L3270 EcoTank",
+          "barkod": "8715946727097",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pisac MFP Epson EcoTank L3271",
+          "barkod": "8715946729701",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer Epson L3276 EcoTank, bijeli",
+          "barkod": "8715946727271",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer HP DeskJet 4320 All-in-One - Instant Ink",
+          "barkod": "198701680277",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
