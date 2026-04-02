@@ -1,10 +1,10 @@
 {
   "id": "prijem-1775069985262",
   "poslovnica": "split-cco",
-  "datum": "2026-04-01",
+  "datum": "2026-04-02",
   "status": "aktivan",
-  "kreirano": "2026-04-01T18:59:45.262Z",
-  "azurirano": "2026-04-01T18:59:45.262Z",
+  "kreirano": "2026-04-02T14:35:11.533Z",
+  "azurirano": "2026-04-02T14:35:11.533Z",
   "dokumenti": [
     {
       "naziv": "MSI 2086-101",
@@ -157,6 +157,201 @@
           "naziv": "Printer HP DeskJet 4320 All-in-One - Instant Ink",
           "barkod": "198701680277",
           "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2115-101",
+      "stavke": [
+        {
+          "naziv": "Lego Jurassic World PS4 F32",
+          "barkod": "5051892191555",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assassin's Creed Origins Standard Edition PS4 C27",
+          "barkod": "3307216025788",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "BigBen PS4 Flat USB kabel USB - Micro USB crni 3m",
+          "barkod": "3499550320763",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC CK compatible) crni",
+          "barkod": "3499550360653",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC E compatible) plavi",
+          "barkod": "3499550360684",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC compatible) crveni",
+          "barkod": "3499550360714",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assassin's Creed 4 Black Flag HITS PS4 E34",
+          "barkod": "3307216076889",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Call of Duty: Modern Warfare PS4 B39",
+          "barkod": "5030917285196",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Call of Duty: Black Ops Cold War PS4 C15",
+          "barkod": "5030917291838",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Call of Duty: Black Ops Cold War PS5 G24",
+          "barkod": "5030917292477",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ratchet & Clank: Rift Apart PS5 C35",
+          "barkod": "711719826699",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben charging station za 2 x PS5 Dualsense kontrolere GERV2 USB A - USB c kabel",
+          "barkod": "3665962006414",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Minecraft Starter Collection Refresh PS4 F33",
+          "barkod": "711719704096",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch OLED Console - Red & Blue Joy-Con JC",
+          "barkod": "045496453442",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Marvel's Spider-Man 2 Standard Edition PS5 D35",
+          "barkod": "711719571698",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim D chassis",
+          "barkod": "711719577188",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon Pro Gaming Pack za Dualsense/Portal PS5 kontroler CK Trigger pack",
+          "barkod": "3665962025200",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben zastitna silikonska navlaka Cammo za Dualsense kontroler PS5",
+          "barkod": "3665962006445",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Screamer Day 1 Edition PS5",
+          "barkod": "8056216170435",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 DualSense Edge Wireless Controller Midnight Black",
+          "barkod": "711719593263",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Indiana Jones and the Great Circle PS5",
+          "barkod": "196388560639",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hot Wheels Unleashed PS5",
+          "barkod": "8057168503050",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon licencirani PlayStation 5 ruksak",
+          "barkod": "3665962029918",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ride 6 PS5",
+          "barkod": "8056216170923",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Midnight Black + USB-C kabel za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719025979",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2113-101",
+      "stavke": [
+        {
+          "naziv": "TV HISENSE 40A5Q, 101.6cm (40\"), QLED, FHD Smart TV, VIDAA OS",
+          "barkod": "6942351418315",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 55QNED86A3A 139.7cm (55\"), QNED, 4K UHD AEU Smart TV, webOS",
+          "barkod": "8806096309650",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525934",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097118565",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2114-101",
+      "stavke": [
+        {
+          "naziv": "TV SAMSUNG UE50U7022FKXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
+          "barkod": "8806097251910",
+          "ocekivano": 2,
           "skenirano": 0
         }
       ]
