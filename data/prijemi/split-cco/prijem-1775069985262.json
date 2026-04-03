@@ -4,7 +4,7 @@
   "datum": "2026-04-02",
   "status": "aktivan",
   "kreirano": "2026-04-02T14:40:12.375Z",
-  "azurirano": "2026-04-03T07:01:09.529Z",
+  "azurirano": "2026-04-03T07:01:12.876Z",
   "dokumenti": [
     {
       "naziv": "MSI 2086-101",
@@ -1193,7 +1193,7 @@
           "naziv": "Sisac za kosu Philips HC7650/15",
           "barkod": "8710103897903",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 17U1 Philips MG7941/15",
