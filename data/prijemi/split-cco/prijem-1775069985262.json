@@ -4,7 +4,7 @@
   "datum": "2026-04-02",
   "status": "aktivan",
   "kreirano": "2026-04-02T14:40:12.375Z",
-  "azurirano": "2026-04-03T09:04:50.532Z",
+  "azurirano": "2026-04-03T09:05:14.469Z",
   "dokumenti": [
     {
       "naziv": "MSI 2086-101",
@@ -1490,13 +1490,13 @@
           "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
           "barkod": "6942103168253",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Pro Titanium 46mm (Atum-B29M)",
           "barkod": "6942103168192",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Sat Samsung Galaxy Watch8 44mm srebrni",
@@ -1520,7 +1520,7 @@
           "naziv": "Pametni sat Huawei GT Runner 2 (Chitu-B19W) 43,5mm Dawn Orange",
           "barkod": "6942103185571",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "HUAWEI MatePad 11,5\" 8GB/256GB Siva (Taoxingzhi-W09FK)",
