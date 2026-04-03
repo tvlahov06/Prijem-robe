@@ -4,7 +4,7 @@
   "datum": "2026-04-02",
   "status": "aktivan",
   "kreirano": "2026-04-02T14:40:12.375Z",
-  "azurirano": "2026-04-03T06:49:42.999Z",
+  "azurirano": "2026-04-03T06:49:52.310Z",
   "dokumenti": [
     {
       "naziv": "MSI 2086-101",
@@ -1365,7 +1365,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Bosch MMB6652B VitaPower Serie 6",
