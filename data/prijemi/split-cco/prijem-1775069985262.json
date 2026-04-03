@@ -4,7 +4,7 @@
   "datum": "2026-04-02",
   "status": "aktivan",
   "kreirano": "2026-04-02T14:40:12.375Z",
-  "azurirano": "2026-04-03T06:26:13.369Z",
+  "azurirano": "2026-04-03T06:26:21.729Z",
   "dokumenti": [
     {
       "naziv": "MSI 2086-101",
@@ -483,7 +483,7 @@
           "naziv": "Usisavac stapni Gorenje SVC216210FFIIW*",
           "barkod": "3838782919459",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac stapni Gorenje SVC216GFW",
