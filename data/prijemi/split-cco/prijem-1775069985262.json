@@ -4,7 +4,7 @@
   "datum": "2026-04-02",
   "status": "aktivan",
   "kreirano": "2026-04-02T14:40:12.375Z",
-  "azurirano": "2026-04-03T06:49:26.634Z",
+  "azurirano": "2026-04-03T06:49:39.230Z",
   "dokumenti": [
     {
       "naziv": "MSI 2086-101",
@@ -1395,7 +1395,7 @@
           "naziv": "Usisavac Bosch BHN20L",
           "barkod": "4242005190881",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Braun IS5245BL New CareStyle 5",
