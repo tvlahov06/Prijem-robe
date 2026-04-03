@@ -4,7 +4,7 @@
   "datum": "2026-04-02",
   "status": "aktivan",
   "kreirano": "2026-04-02T14:40:12.375Z",
-  "azurirano": "2026-04-03T06:57:10.722Z",
+  "azurirano": "2026-04-03T06:57:14.357Z",
   "dokumenti": [
     {
       "naziv": "MSI 2086-101",
@@ -1187,7 +1187,7 @@
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
           "barkod": "8710103932482",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu Philips HC7650/15",
