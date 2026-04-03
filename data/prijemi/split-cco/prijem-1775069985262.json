@@ -4,7 +4,7 @@
   "datum": "2026-04-02",
   "status": "aktivan",
   "kreirano": "2026-04-02T14:40:12.375Z",
-  "azurirano": "2026-04-03T08:20:28.207Z",
+  "azurirano": "2026-04-03T08:20:59.963Z",
   "dokumenti": [
     {
       "naziv": "MSI 2086-101",
@@ -329,7 +329,7 @@
           "naziv": "TV LG 55QNED86A3A 139.7cm (55\"), QNED, 4K UHD AEU Smart TV, webOS",
           "barkod": "8806096309650",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
@@ -341,7 +341,7 @@
           "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097118565",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
