@@ -324,6 +324,12 @@
           }
         }
 
+        // Add "new prijem" button at bottom of poslovnica
+        var addBtn = document.createElement("div");
+        addBtn.style.cssText = "padding:12px 18px;border-top:1px solid var(--border-light);";
+        addBtn.innerHTML = '<button onclick="newPrijem(\'' + posl.id + '\',\'' + posl.naziv + '\')" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border:1.5px dashed var(--border);border-radius:8px;background:var(--bg-white);cursor:pointer;font-size:13px;font-weight:600;font-family:var(--font);color:var(--accent);width:100%;justify-content:center">+ Novi prijem</button>';
+        body.appendChild(addBtn);
+
         (function(h, b) {
           h.addEventListener("click", function() {
             h.classList.toggle("open");
@@ -376,6 +382,75 @@
         GitHubStorage.writeFile(p._path, p, "Admin add PDF", p._sha).then(function(r) {
           if (r) p._sha = r.content.sha;
           toast("PDF dodan!", "success");
+          loadAll();
+        }).catch(function(e) { toast("Greska: " + e.message, "error"); });
+      }).catch(function(e) { toast("Greska: " + e.message, "error"); });
+    }
+
+    window.newPrijem = function(pid, poslNaziv) {
+      var newId = "new-prijem-" + pid;
+      var existing = document.getElementById(newId);
+      if (existing) { existing.style.display = existing.style.display === "none" ? "block" : "none"; return; }
+
+      // Find the body element for this poslovnica
+      var sections = document.querySelectorAll(".posl-section");
+      var targetBody = null;
+      for (var i = 0; i < sections.length; i++) {
+        if (sections[i].querySelector("h3") && sections[i].querySelector("h3").textContent === poslNaziv) {
+          targetBody = sections[i].querySelector(".posl-body");
+          break;
+        }
+      }
+      if (!targetBody) return;
+
+      var panel = document.createElement("div");
+      panel.id = newId;
+      panel.style.cssText = "padding:14px 18px;background:var(--bg-white);border-top:1px solid var(--border-light);";
+      panel.innerHTML = '<div style="font-size:14px;font-weight:700;color:var(--accent);margin-bottom:10px">Novi prijem za ' + poslNaziv + '</div>' +
+        '<div style="border:2px dashed var(--border);border-radius:10px;padding:20px;text-align:center;cursor:pointer;background:var(--bg)" onclick="document.getElementById(\'file-' + newId + '\').click()">' +
+        '<div style="font-size:13px;font-weight:600">&#128196; Ucitaj PDF ili Excel</div>' +
+        '<div style="font-size:11px;color:var(--text-muted)">Klikni za odabir datoteke</div>' +
+        '<input type="file" id="file-' + newId + '" accept=".pdf,.xlsx,.xls,.csv" multiple style="display:none" onchange="createPrijemFromFiles(\'' + pid + '\',this)">' +
+        '</div>';
+
+      // Insert before the add button
+      var addBtnDiv = targetBody.lastElementChild;
+      targetBody.insertBefore(panel, addBtnDiv);
+    };
+
+    window.createPrijemFromFiles = function(pid, fileInput) {
+      if (!fileInput.files.length) return;
+      var files = [];
+      for (var i = 0; i < fileInput.files.length; i++) files.push(fileInput.files[i]);
+
+      if (typeof PDFParser === "undefined") {
+        var s = document.createElement("script");
+        s.src = "js/pdfParser.js";
+        s.onload = function() { doCreatePrijem(pid, files); };
+        document.head.appendChild(s);
+      } else {
+        doCreatePrijem(pid, files);
+      }
+      fileInput.value = "";
+    };
+
+    function doCreatePrijem(pid, files) {
+      PDFParser.parseMultiple(files).then(function(results) {
+        var now = new Date();
+        var id = "prijem-" + now.getTime();
+        var dokumenti = [];
+        for (var r = 0; r < results.length; r++) {
+          dokumenti.push({ naziv: results[r].dokumentNaziv, stavke: results[r].stavke });
+        }
+        var data = {
+          id: id, poslovnica: pid, datum: now.toISOString().split("T")[0],
+          status: "aktivan", kreirano: now.toISOString(), azurirano: now.toISOString(),
+          dokumenti: dokumenti
+        };
+        GitHubStorage.writeFile("data/prijemi/" + pid + "/" + id + ".json", data, "Admin novi prijem").then(function() {
+          toast("Prijem kreiran!", "success");
+          var panel = document.getElementById("new-prijem-" + pid);
+          if (panel) panel.remove();
           loadAll();
         }).catch(function(e) { toast("Greska: " + e.message, "error"); });
       }).catch(function(e) { toast("Greska: " + e.message, "error"); });
