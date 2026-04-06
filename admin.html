@@ -287,7 +287,20 @@
               detailHtml += '</div>';
 
               for (var dd = 0; dd < p.dokumenti.length; dd++) {
-                detailHtml += '<div style="padding:8px 18px 4px;font-size:12px;font-weight:600;color:var(--text-secondary)">&#128196; ' + p.dokumenti[dd].naziv + '</div>';
+                // Calculate document-level stats
+                var docSken = 0, docOcek = 0;
+                for (var ss2 = 0; ss2 < p.dokumenti[dd].stavke.length; ss2++) {
+                  docSken += (p.dokumenti[dd].stavke[ss2].skenirano || 0);
+                  docOcek += p.dokumenti[dd].stavke[ss2].ocekivano;
+                }
+                var docStatus = docSken === 0 ? "none" : docSken < docOcek ? "partial" : docSken >= docOcek ? "ok" : "over";
+                var docStatusColor = docStatus === "ok" ? "var(--success)" : docStatus === "partial" ? "var(--warning)" : "var(--danger)";
+                var docStatusIcon = docStatus === "ok" ? "\u2713" : docStatus === "partial" ? "\u25D0" : "\u25CB";
+                detailHtml += '<div style="display:flex;align-items:center;padding:8px 18px 4px;font-size:12px;font-weight:600;color:var(--text-secondary);gap:8px">';
+                detailHtml += '<span style="color:' + docStatusColor + '">' + docStatusIcon + '</span>';
+                detailHtml += '<span style="flex:1">&#128196; ' + p.dokumenti[dd].naziv + ' <span style="font-weight:400">(' + docSken + '/' + docOcek + ')</span></span>';
+                detailHtml += '<button onclick="deleteDoc(\'' + pid + '\',\'' + p.id + '\',' + dd + ')" style="background:none;border:none;color:var(--danger);cursor:pointer;font-size:13px" title="Obrisi dokument">&#10005;</button>';
+                detailHtml += '</div>';
                 for (var ss = 0; ss < p.dokumenti[dd].stavke.length; ss++) {
                   var st = p.dokumenti[dd].stavke[ss];
                   var sken = st.skenirano || 0;
@@ -367,6 +380,21 @@
         }).catch(function(e) { toast("Greska: " + e.message, "error"); });
       }).catch(function(e) { toast("Greska: " + e.message, "error"); });
     }
+
+    window.deleteDoc = function(pid, prijemId, docIndex) {
+      var prijemi = allData[pid] || [];
+      var p = null;
+      for (var i = 0; i < prijemi.length; i++) { if (prijemi[i].id === prijemId) { p = prijemi[i]; break; } }
+      if (!p) return;
+      if (!confirm("Obrisati dokument " + p.dokumenti[docIndex].naziv + "?")) return;
+      p.dokumenti.splice(docIndex, 1);
+      p.azurirano = new Date().toISOString();
+      GitHubStorage.writeFile(p._path, p, "Admin delete doc", p._sha).then(function(r) {
+        if (r) p._sha = r.content.sha;
+        toast("Dokument obrisan!", "success");
+        loadAll();
+      }).catch(function(e) { toast("Greska: " + e.message, "error"); });
+    };
 
     window.saveEdit = function(pid, prijemId) {
       var prijemi = allData[pid] || [];

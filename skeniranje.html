@@ -261,7 +261,19 @@
       il.innerHTML = ""; var cd = null;
       for (var idx = 0; idx < items.length; idx++) {
         (function(it, i) {
-          if (it.dn !== cd) { cd = it.dn; var s = document.createElement("div"); s.className = "doc-separator"; s.textContent = "\u{1F4C4} " + cd; il.appendChild(s); }
+          if (it.dn !== cd) {
+            cd = it.dn;
+            // Calculate doc stats
+            var dSken = 0, dOcek = 0;
+            for (var di2 = 0; di2 < items.length; di2++) { if (items[di2].dn === cd) { dSken += items[di2].skenirano; dOcek += items[di2].ocekivano; } }
+            var dSt = dSken === 0 ? "none" : dSken < dOcek ? "partial" : "ok";
+            var dCol = dSt === "ok" ? "var(--success)" : dSt === "partial" ? "var(--warning)" : "var(--danger)";
+            var dIc = dSt === "ok" ? "\u2713" : dSt === "partial" ? "\u25D0" : "\u25CB";
+            var dIdx = it.di;
+            var s = document.createElement("div"); s.className = "doc-separator"; s.style.display = "flex"; s.style.alignItems = "center";
+            s.innerHTML = '<span style="color:' + dCol + ';margin-right:6px">' + dIc + '</span><span style="flex:1">\u{1F4C4} ' + cd + ' <span style="font-weight:400">(' + dSken + '/' + dOcek + ')</span></span><button onclick="deleteDocFromPrijem(' + dIdx + ')" style="background:none;border:none;color:var(--danger);cursor:pointer;font-size:13px" title="Obrisi dokument">\u2715</button>';
+            il.appendChild(s);
+          }
           var diff = it.skenirano - it.ocekivano;
           var st = it.skenirano === 0 ? "none" : it.skenirano < it.ocekivano ? "partial" : it.skenirano === it.ocekivano ? "ok" : "over";
           var si = st === "ok" ? "\u2713" : st === "partial" ? "\u25D0" : st === "over" ? "!" : "\u25CB";
@@ -355,6 +367,21 @@
       var a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([c], { type: "text/csv;charset=utf-8;" }));
       a.download = "prijem-" + pData.datum + ".csv"; a.click();
     });
+
+    window.deleteDocFromPrijem = function(docIdx) {
+      if (!pData || !pData.dokumenti[docIdx]) return;
+      if (!confirm("Obrisati dokument " + pData.dokumenti[docIdx].naziv + "?")) return;
+      pData.dokumenti.splice(docIdx, 1);
+      // Rebuild items array
+      items = [];
+      for (var di = 0; di < pData.dokumenti.length; di++) {
+        for (var si = 0; si < pData.dokumenti[di].stavke.length; si++) {
+          var s = pData.dokumenti[di].stavke[si];
+          items.push({ di: di, si: si, dn: pData.dokumenti[di].naziv, naziv: s.naziv, barkod: s.barkod, ocekivano: s.ocekivano, skenirano: s.skenirano || 0 });
+        }
+      }
+      render(); stats(); save().then(function() { toast("Dokument obrisan!", "success"); });
+    };
 
     function toast(m, t) { var old = document.querySelectorAll(".toast"); for(var i=0;i<old.length;i++) old[i].remove(); var el = document.createElement("div"); el.className = "toast " + t; el.textContent = m; document.body.appendChild(el); setTimeout(function() { el.remove(); }, 3000); }
     if(localStorage.getItem("theme")==="dark") document.getElementById("theme-toggle").classList.add("dark");
