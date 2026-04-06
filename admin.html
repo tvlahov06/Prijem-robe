@@ -91,11 +91,48 @@
         <div class="stat-card" style="border-left:4px solid #ff3b30"><div class="value" id="ts-ocek">-</div><div class="label">Ocekivano</div></div>
       </div>
 
-      <div id="posl-list">
-        <div class="empty-state loading"><div class="empty-icon">&#9203;</div><h3>Ucitavanje...</h3></div>
+      <!-- Tabs -->
+      <div style="display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap">
+        <button class="btn btn-primary btn-sm" id="tab-prijemi" onclick="showTab('prijemi')">Prijemi</button>
+        <button class="btn btn-secondary btn-sm" id="tab-search" onclick="showTab('search')">&#128269; Pretraga artikala</button>
+        <button class="btn btn-secondary btn-sm" id="tab-posl" onclick="showTab('posl')">&#9881; Poslovnice</button>
+      </div>
+
+      <!-- Tab: Prijemi -->
+      <div id="panel-prijemi">
+        <div id="posl-list">
+          <div class="empty-state loading"><div class="empty-icon">&#9203;</div><h3>Ucitavanje...</h3></div>
+        </div>
+      </div>
+
+      <!-- Tab: Search -->
+      <div id="panel-search" style="display:none">
+        <div style="margin-bottom:16px">
+          <div class="scan-input-row">
+            <input type="text" id="search-input" placeholder="Upisi barkod ili naziv artikla..." style="flex:1;padding:14px 16px;background:var(--bg-white);border:1.5px solid var(--border);border-radius:12px;font-size:16px;font-family:var(--font);color:var(--text);outline:none" oninput="doSearch(this.value)">
+          </div>
+        </div>
+        <div id="search-results"></div>
+      </div>
+
+      <!-- Tab: Poslovnice -->
+      <div id="panel-posl" style="display:none">
+        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:16px">
+          <h3 style="font-size:18px;font-weight:700">Upravljanje poslovnicama</h3>
+          <button class="btn btn-primary btn-sm" onclick="showAddPosl()">+ Nova poslovnica</button>
+        </div>
+        <div id="add-posl-form" style="display:none;background:var(--bg-white);border:1px solid var(--border);border-radius:12px;padding:16px;margin-bottom:16px">
+          <div style="font-size:14px;font-weight:600;margin-bottom:10px">Nova poslovnica</div>
+          <div style="display:flex;gap:8px;flex-wrap:wrap">
+            <input type="text" id="new-posl-naziv" placeholder="Naziv (npr. BB Nova)" style="flex:2;min-width:150px;padding:10px 12px;background:var(--bg-input);border:1.5px solid var(--border);border-radius:8px;font-size:14px;font-family:var(--font);color:var(--text);outline:none">
+            <input type="text" id="new-posl-pin" placeholder="PIN (4 broja)" maxlength="4" inputmode="numeric" style="width:80px;padding:10px 12px;background:var(--bg-input);border:1.5px solid var(--border);border-radius:8px;font-size:14px;font-family:var(--font);color:var(--text);outline:none;text-align:center">
+            <button class="btn btn-success btn-sm" onclick="addPoslovnica()">Dodaj</button>
+            <button class="btn btn-secondary btn-sm" onclick="document.getElementById('add-posl-form').style.display='none'">Odustani</button>
+          </div>
+        </div>
+        <div id="posl-manage-list"></div>
       </div>
     </div>
-  </div>
 
   <script src="js/github.js"></script>
   <script>
@@ -535,6 +572,179 @@
         loadAll();
       }).catch(function(e) { toast("Greska: " + e.message, "error"); });
     };
+
+    // ===== TABS =====
+    window.showTab = function(tab) {
+      document.getElementById("panel-prijemi").style.display = tab === "prijemi" ? "block" : "none";
+      document.getElementById("panel-search").style.display = tab === "search" ? "block" : "none";
+      document.getElementById("panel-posl").style.display = tab === "posl" ? "block" : "none";
+      document.getElementById("tab-prijemi").className = "btn btn-sm " + (tab === "prijemi" ? "btn-primary" : "btn-secondary");
+      document.getElementById("tab-search").className = "btn btn-sm " + (tab === "search" ? "btn-primary" : "btn-secondary");
+      document.getElementById("tab-posl").className = "btn btn-sm " + (tab === "posl" ? "btn-primary" : "btn-secondary");
+      if (tab === "search") document.getElementById("search-input").focus();
+      if (tab === "posl") renderPoslManage();
+    };
+
+    // ===== SEARCH =====
+    var searchTimer = null;
+    window.doSearch = function(query) {
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(function() { executeSearch(query); }, 300);
+    };
+
+    function executeSearch(query) {
+      var container = document.getElementById("search-results");
+      query = query.trim().toLowerCase();
+      if (query.length < 2) { container.innerHTML = '<div style="text-align:center;color:var(--text-muted);padding:30px;font-size:14px">Upisi najmanje 2 znaka za pretragu</div>'; return; }
+
+      var results = [];
+      for (var pid in allData) {
+        var prijemi = allData[pid];
+        var poslNaziv = "";
+        for (var pi = 0; pi < poslovnice.length; pi++) { if (poslovnice[pi].id === pid) { poslNaziv = poslovnice[pi].naziv; break; } }
+
+        for (var j = 0; j < prijemi.length; j++) {
+          var p = prijemi[j];
+          for (var d = 0; d < p.dokumenti.length; d++) {
+            for (var s = 0; s < p.dokumenti[d].stavke.length; s++) {
+              var st = p.dokumenti[d].stavke[s];
+              if (st.barkod.toLowerCase().indexOf(query) >= 0 || st.naziv.toLowerCase().indexOf(query) >= 0) {
+                results.push({
+                  poslovnica: poslNaziv,
+                  datum: p.datum,
+                  status: p.status,
+                  dokument: p.dokumenti[d].naziv,
+                  naziv: st.naziv,
+                  barkod: st.barkod,
+                  ocekivano: st.ocekivano,
+                  skenirano: st.skenirano || 0
+                });
+              }
+            }
+          }
+        }
+      }
+
+      if (results.length === 0) {
+        container.innerHTML = '<div style="text-align:center;color:var(--text-muted);padding:30px;font-size:14px">Nema rezultata za "' + query + '"</div>';
+        return;
+      }
+
+      var html = '<div style="font-size:13px;color:var(--text-secondary);margin-bottom:8px">' + results.length + ' rezultata</div>';
+      html += '<div class="article-list-section">';
+      for (var i = 0; i < results.length; i++) {
+        var r = results[i];
+        var sken = r.skenirano;
+        var stStatus = sken === 0 ? "none" : sken < r.ocekivano ? "partial" : sken === r.ocekivano ? "ok" : "over";
+        var stIcon = stStatus === "ok" ? "\u2713" : stStatus === "partial" ? "\u25D0" : stStatus === "over" ? "!" : "\u25CB";
+        var statusBadge = r.status === "zavrsen" ? "zavrsen" : "aktivan";
+        var date = new Date(r.datum).toLocaleDateString("hr-HR", { day: "numeric", month: "short" });
+        html += '<div class="article-item" style="flex-wrap:wrap">';
+        html += '<div class="article-icon status-' + stStatus + '" style="width:28px;height:28px;font-size:13px">' + stIcon + '</div>';
+        html += '<div style="flex:1;min-width:0"><div style="font-weight:500;font-size:14px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">' + r.naziv + '</div><div style="font-size:11px;color:var(--text-muted)">' + r.barkod + '</div></div>';
+        html += '<div style="font-weight:700;font-size:14px;flex-shrink:0">' + sken + '<span style="color:var(--text-muted);font-weight:400;font-size:12px">/' + r.ocekivano + '</span></div>';
+        html += '<div style="width:100%;display:flex;gap:6px;margin-top:4px;padding-left:38px;font-size:11px;color:var(--text-secondary)">';
+        html += '<span style="background:var(--bg-input);padding:2px 6px;border-radius:4px">' + r.poslovnica + '</span>';
+        html += '<span style="background:var(--bg-input);padding:2px 6px;border-radius:4px">' + date + '</span>';
+        html += '<span style="background:var(--bg-input);padding:2px 6px;border-radius:4px">' + r.dokument + '</span>';
+        html += '<span class="status-badge ' + statusBadge + '" style="font-size:10px;padding:2px 6px">' + (r.status === "zavrsen" ? "Zavrsen" : "Aktivan") + '</span>';
+        html += '</div></div>';
+      }
+      html += '</div>';
+      container.innerHTML = html;
+    }
+
+    // ===== POSLOVNICE MANAGEMENT =====
+    var poslSha = null;
+
+    window.showAddPosl = function() {
+      document.getElementById("add-posl-form").style.display = "block";
+      document.getElementById("new-posl-naziv").focus();
+    };
+
+    function renderPoslManage() {
+      var container = document.getElementById("posl-manage-list");
+      var html = '';
+      for (var i = 0; i < poslovnice.length; i++) {
+        (function(p, idx) {
+          var prijemCount = (allData[p.id] || []).length;
+          html += '<div style="display:flex;align-items:center;gap:10px;padding:14px 16px;background:var(--bg-white);border:1px solid var(--border);border-radius:10px;margin-bottom:8px">';
+          html += '<div style="flex:1"><div style="font-weight:600;font-size:15px">' + p.naziv + '</div><div style="font-size:12px;color:var(--text-muted)">ID: ' + p.id + ' &middot; PIN: ' + p.pin + ' &middot; ' + prijemCount + ' prijema</div></div>';
+          html += '<button onclick="editPosl(' + idx + ')" style="padding:6px 10px;border:1px solid var(--border);border-radius:6px;background:var(--bg-input);cursor:pointer;font-size:12px;font-family:var(--font);color:var(--text-secondary)" title="Uredi">&#9998;</button>';
+          html += '<button onclick="deletePosl(' + idx + ')" style="padding:6px 10px;border:1px solid var(--danger-border);border-radius:6px;background:var(--danger-bg);cursor:pointer;font-size:12px;font-family:var(--font);color:var(--danger)" title="Obrisi">&#10005;</button>';
+          html += '</div>';
+        })(poslovnice[i], i);
+      }
+      container.innerHTML = html;
+    }
+
+    window.addPoslovnica = function() {
+      var naziv = document.getElementById("new-posl-naziv").value.trim();
+      var pin = document.getElementById("new-posl-pin").value.trim();
+      if (!naziv) { toast("Unesi naziv", "error"); return; }
+      if (!/^\d{4}$/.test(pin)) { toast("PIN mora biti 4 broja", "error"); return; }
+      // Check duplicate PIN
+      for (var i = 0; i < poslovnice.length; i++) { if (poslovnice[i].pin === pin) { toast("PIN vec postoji", "error"); return; } }
+      // Generate ID from naziv
+      var id = naziv.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9\-]/g, "");
+      // Check duplicate ID
+      for (var i = 0; i < poslovnice.length; i++) { if (poslovnice[i].id === id) { toast("Poslovnica s tim imenom vec postoji", "error"); return; } }
+
+      poslovnice.push({ id: id, naziv: naziv, pin: pin });
+      savePoslovnice().then(function() {
+        toast("Poslovnica dodana!", "success");
+        document.getElementById("new-posl-naziv").value = "";
+        document.getElementById("new-posl-pin").value = "";
+        document.getElementById("add-posl-form").style.display = "none";
+        renderPoslManage();
+        document.getElementById("ts-posl").textContent = poslovnice.length;
+      });
+    };
+
+    window.editPosl = function(idx) {
+      var p = poslovnice[idx];
+      var newNaziv = prompt("Naziv poslovnice:", p.naziv);
+      if (newNaziv === null) return;
+      newNaziv = newNaziv.trim();
+      if (!newNaziv) { toast("Naziv ne moze biti prazan", "error"); return; }
+
+      var newPin = prompt("PIN (4 broja):", p.pin);
+      if (newPin === null) return;
+      newPin = newPin.trim();
+      if (!/^\d{4}$/.test(newPin)) { toast("PIN mora biti 4 broja", "error"); return; }
+      // Check duplicate PIN
+      for (var i = 0; i < poslovnice.length; i++) { if (i !== idx && poslovnice[i].pin === newPin) { toast("PIN vec postoji", "error"); return; } }
+
+      poslovnice[idx].naziv = newNaziv;
+      poslovnice[idx].pin = newPin;
+      savePoslovnice().then(function() {
+        toast("Poslovnica azurirana!", "success");
+        renderPoslManage();
+      });
+    };
+
+    window.deletePosl = function(idx) {
+      var p = poslovnice[idx];
+      var prijemCount = (allData[p.id] || []).length;
+      if (prijemCount > 0) {
+        if (!confirm("Poslovnica " + p.naziv + " ima " + prijemCount + " prijema!\n\nBrisanjem poslovnice NE brisu se njeni prijemi.\n\nNastaviti?")) return;
+      } else {
+        if (!confirm("Obrisati poslovnicu " + p.naziv + "?")) return;
+      }
+      poslovnice.splice(idx, 1);
+      savePoslovnice().then(function() {
+        toast("Poslovnica obrisana!", "success");
+        renderPoslManage();
+        document.getElementById("ts-posl").textContent = poslovnice.length;
+      });
+    };
+
+    function savePoslovnice() {
+      return GitHubStorage.readFile("data/poslovnice.json").then(function(data) {
+        var sha = data ? data.sha : null;
+        return GitHubStorage.writeFile("data/poslovnice.json", { poslovnice: poslovnice }, "Admin poslovnice", sha);
+      });
+    }
 
     function toast(m, t) { var old = document.querySelectorAll(".toast"); for (var i = 0; i < old.length; i++) old[i].remove(); var el = document.createElement("div"); el.className = "toast " + t; el.textContent = m; document.body.appendChild(el); setTimeout(function() { el.remove(); }, 3000); }
     if (localStorage.getItem("theme") === "dark") document.getElementById("theme-toggle").classList.add("dark");
