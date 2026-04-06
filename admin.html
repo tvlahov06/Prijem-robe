@@ -266,7 +266,9 @@
               var row = document.createElement("div");
               row.className = "admin-prijem";
               var detailId = "detail-" + pid + "-" + p.id;
-              row.innerHTML = '<div class="prijem-main" style="cursor:pointer" onclick="toggleDetail(\'' + detailId + '\')"><div class="prijem-date">' + date + ' <span class="status-badge ' + statusClass + '">' + statusText + '</span></div><div class="prijem-detail">' + p.dokumenti.length + ' dok. &middot; ' + pArt + ' artikala &middot; ' + pSken + '/' + pOcek + ' sken.</div></div><div class="prijem-progress"><div class="prog-text">' + pct + '%</div><div class="prog-bar"><div class="prog-fill" style="width:' + pct + '%;background:' + barColor + '"></div></div></div><div class="action-btns"><button class="del" title="Obrisi" onclick="deletePrijem(\'' + pid + '\',\'' + p._path + '\',\'' + p._sha + '\')">&#10005;</button></div>';
+              var toggleIcon = p.status === "zavrsen" ? "&#9654;" : "&#10003;";
+              var toggleTitle = p.status === "zavrsen" ? "Prebaci u Aktivan" : "Prebaci u Zavrsen";
+              row.innerHTML = '<div class="prijem-main" style="cursor:pointer" onclick="toggleDetail(\'' + detailId + '\')"><div class="prijem-date">' + date + ' <span class="status-badge ' + statusClass + '">' + statusText + '</span></div><div class="prijem-detail">' + p.dokumenti.length + ' dok. &middot; ' + pArt + ' artikala &middot; ' + pSken + '/' + pOcek + ' sken.</div></div><div class="prijem-progress"><div class="prog-text">' + pct + '%</div><div class="prog-bar"><div class="prog-fill" style="width:' + pct + '%;background:' + barColor + '"></div></div></div><div class="action-btns"><button title="' + toggleTitle + '" onclick="toggleStatus(\'' + pid + '\',\'' + p.id + '\')">' + toggleIcon + '</button><button class="del" title="Obrisi" onclick="deletePrijem(\'' + pid + '\',\'' + p._path + '\',\'' + p._sha + '\')">&#10005;</button></div>';
               body.appendChild(row);
 
               // Inline detail panel with editable qty
@@ -455,6 +457,26 @@
         }).catch(function(e) { toast("Greska: " + e.message, "error"); });
       }).catch(function(e) { toast("Greska: " + e.message, "error"); });
     }
+
+    window.toggleStatus = function(pid, prijemId) {
+      var prijemi = allData[pid] || [];
+      var p = null;
+      for (var i = 0; i < prijemi.length; i++) { if (prijemi[i].id === prijemId) { p = prijemi[i]; break; } }
+      if (!p) return;
+      if (p.status === "zavrsen") {
+        p.status = "aktivan";
+        delete p.zavrseno;
+      } else {
+        p.status = "zavrsen";
+        p.zavrseno = new Date().toISOString();
+      }
+      p.azurirano = new Date().toISOString();
+      GitHubStorage.writeFile(p._path, p, "Admin status", p._sha).then(function(r) {
+        if (r) p._sha = r.content.sha;
+        toast(p.status === "zavrsen" ? "Prijem zavrsen" : "Prijem aktiviran", "success");
+        loadAll();
+      }).catch(function(e) { toast("Greska: " + e.message, "error"); });
+    };
 
     window.deleteDoc = function(pid, prijemId, docIndex) {
       var prijemi = allData[pid] || [];
