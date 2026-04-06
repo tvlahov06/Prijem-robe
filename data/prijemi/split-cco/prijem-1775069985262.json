@@ -2,9 +2,9 @@
   "id": "prijem-1775069985262",
   "poslovnica": "split-cco",
   "datum": "2026-04-06",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-04-06T21:23:45.560Z",
-  "azurirano": "2026-04-06T21:24:05.442Z",
+  "azurirano": "2026-04-06T21:24:25.099Z",
   "dokumenti": [
     {
       "naziv": "MSI 2120-101",
@@ -1300,6 +1300,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-04-06T21:23:52.010Z"
+  ]
 }
