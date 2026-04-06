@@ -93,7 +93,12 @@
         (function(di) {
           var tag = document.createElement("span");
           tag.className = "file-tag";
-          tag.innerHTML = '&#128196; ' + docs[di].dokumentNaziv + ' <span class="count">(' + docs[di].stavke.length + ')</span> <button onclick="rmDoc(' + di + ')" style="background:none;border:none;color:var(--danger);cursor:pointer;font-size:14px;margin-left:4px" title="Obrisi dokument">&#10005;</button>';
+          var dSken = 0, dOcek = 0;
+          for (var si2 = 0; si2 < docs[di].stavke.length; si2++) { dSken += (docs[di].stavke[si2].skenirano || 0); dOcek += docs[di].stavke[si2].ocekivano; }
+          var dSt = dSken === 0 ? "none" : dSken < dOcek ? "partial" : "ok";
+          var dCol = dSt === "ok" ? "var(--success)" : dSt === "partial" ? "var(--warning)" : "var(--danger)";
+          var dIc = dSt === "ok" ? "\u2713 " : dSt === "partial" ? "\u25D0 " : "";
+          tag.innerHTML = '<span style="color:' + dCol + '">' + dIc + '</span>&#128196; ' + docs[di].dokumentNaziv + ' <span class="count">(' + dSken + '/' + dOcek + ')</span> <button onclick="rmDoc(' + di + ')" style="background:none;border:none;color:var(--danger);cursor:pointer;font-size:14px;margin-left:4px" title="Obrisi dokument">&#10005;</button>';
           ft.appendChild(tag);
         })(i);
       }
