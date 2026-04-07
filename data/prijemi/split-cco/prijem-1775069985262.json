@@ -4,7 +4,7 @@
   "datum": "2026-04-07",
   "status": "aktivan",
   "kreirano": "2026-04-07T07:45:07.897Z",
-  "azurirano": "2026-04-07T14:19:44.560Z",
+  "azurirano": "2026-04-07T14:19:55.050Z",
   "dokumenti": [
     {
       "naziv": "MSI 2151-101",
@@ -176,191 +176,6 @@
           "barkod": "6935364092764",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2118-101",
-      "stavke": [
-        {
-          "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
-          "barkod": "8720389023026",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Kuhalo za vodu Philips HD9350/96",
-          "barkod": "8720389072529",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Kuhalo za vodu Philips HD9351/90",
-          "barkod": "8710103817970",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikser rucni Philips HR3781/10 crni 500W, 2u1",
-          "barkod": "8720389024634",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikser rucni Philips HR3781/20 crni 500W, 3u1",
-          "barkod": "8720389024658",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Osvjezivac odjece Philips STH3020/70",
-          "barkod": "8720389037542",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Parna postaja Philips GC7844/20",
-          "barkod": "8710103951049",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Parna postaja Philips PSG7200/20",
-          "barkod": "8720389065170",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Parna postaja Philips PSG8130/80",
-          "barkod": "8710103970262",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Parna postaja Philips PSG8140/80",
-          "barkod": "8710103970279",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sokovnik Philips HR1855/70",
-          "barkod": "8710103718390",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sokovnik Philips HR1888/70",
-          "barkod": "8710103860822",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sredstvo za ciscenje mrlja PHILIPS XV1732/01",
-          "barkod": "8720389047725",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Toster Philips HD2650/30",
-          "barkod": "8720389031748",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uredaj za dubinsko ciscenje Philips XW3193/11",
-          "barkod": "8720389047718",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac Philips FC9334/09",
-          "barkod": "8710103796329",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac Philips FC9550/09",
-          "barkod": "8710103860105",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac Philips FC9744/09",
-          "barkod": "8710103810483",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Bosch MMB6652B VitaPower Serie 6",
-          "barkod": "4242005393107",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Kuhalo za vodu Bosch TWK1M124, MyMoment, crveno",
-          "barkod": "4242005397662",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Kuhinjski asistent Bosch MUM5XW20 MUM5 CreationLine",
-          "barkod": "4242005185207",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac Bosch BCS711EXT Unlimited 7, crni",
-          "barkod": "4242005306985",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac Bosch BHN20L",
-          "barkod": "4242005190881",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Parna postaja Braun IS5245BL New CareStyle 5",
-          "barkod": "8021098003690",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Parna postaja Braun IS5249BK New CareStyle 5",
-          "barkod": "8021098003713",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Glacalo Russell Hobbs 25400-56 Color Control, 3100W",
-          "barkod": "5038061111019",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Kuhalo za vodu Russell Hobbs 24993-70 Colours Plus Mini Grey",
-          "barkod": "4008496982912",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Kuhalo za vodu Tefal KO200130 1.5L",
-          "barkod": "3045386378944",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikser rucni Tefal HT450B38 bijeli 450W",
-          "barkod": "3016667242315",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Parna postaja Tefal GV9221E0",
-          "barkod": "3121040077238",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
@@ -574,6 +389,6 @@
       ]
     }
   ],
-  "_sha": "789f5d0479f85636f4b6567df893fe2683241365",
+  "_sha": "c783353813271e839f09b8213c5f93bd19b26fd5",
   "_path": "data/prijemi/split-cco/prijem-1775069985262.json"
 }
