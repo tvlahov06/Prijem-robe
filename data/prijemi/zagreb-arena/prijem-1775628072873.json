@@ -2,9 +2,9 @@
   "id": "prijem-1775628072873",
   "poslovnica": "zagreb-arena",
   "datum": "2026-04-08",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-04-08T06:01:12.873Z",
-  "azurirano": "2026-04-08T07:37:57.610Z",
+  "azurirano": "2026-04-08T07:38:56.629Z",
   "dokumenti": [
     {
       "naziv": "MSI 2193-101",
@@ -643,5 +643,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-04-08T07:38:56.629Z"
 }
