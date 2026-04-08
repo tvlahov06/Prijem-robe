@@ -209,7 +209,6 @@ var PDFParser = {
               ocekivano: qty,
               skenirano: 0
             });
-          }
         }
 
         console.log("Parsed " + items.length + " items:", items);
@@ -311,14 +310,7 @@ var PDFParser = {
         naziv = self._fixText(naziv);
         if (!naziv || naziv.length < 2) naziv = "Artikl " + barcode;
 
-        // Avoid duplicates
-        var exists = false;
-        for (var k = 0; k < items.length; k++) {
-          if (items[k].barkod === barcode) { exists = true; break; }
-        }
-        if (!exists) {
-          items.push({ naziv: naziv, barkod: barcode, ocekivano: qty, skenirano: 0 });
-        }
+        items.push({ naziv: naziv, barkod: barcode, ocekivano: qty, skenirano: 0 });
       }
 
       console.log("Parsed " + items.length + " items from Excel:", items);
