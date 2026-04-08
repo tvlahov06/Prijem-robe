@@ -4,7 +4,7 @@
   "datum": "2026-04-07",
   "status": "aktivan",
   "kreirano": "2026-04-07T21:18:55.444Z",
-  "azurirano": "2026-04-08T06:29:54.831Z",
+  "azurirano": "2026-04-08T06:30:21.653Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -628,7 +628,7 @@
           "naziv": "Mobitel Xiaomi REDMI Note 15 8GB/256GB Black",
           "barkod": "6932554476236",
           "ocekivano": 6,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 8GB/256GB Glacier Blue",
@@ -646,31 +646,31 @@
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 5G 8GB/256GB Black",
           "barkod": "6932554471521",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 5G 8GB/256GB Glacier Blue",
           "barkod": "6932554470500",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 5G 8GB/256GB Titanium",
           "barkod": "6932554470401",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 5G 8GB/512GB Black",
           "barkod": "6932554478636",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 5G 8GB/512GB Titanium",
           "barkod": "6932554478612",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 8GB/256GB Black",
@@ -694,19 +694,19 @@
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro+ 5G 12GB/512GB Black",
           "barkod": "6932554468040",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro+ 5G 12GB/512GB Glacier Blue",
           "barkod": "6932554481971",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro+ 5G 12GB/512GB Mocha Brown",
           "barkod": "6932554481841",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Xiaomi Pad 8 PRO 8/256 sivi",
