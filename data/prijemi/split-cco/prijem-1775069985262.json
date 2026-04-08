@@ -4,7 +4,7 @@
   "datum": "2026-04-07",
   "status": "aktivan",
   "kreirano": "2026-04-07T21:18:55.444Z",
-  "azurirano": "2026-04-08T05:44:11.951Z",
+  "azurirano": "2026-04-08T05:44:15.560Z",
   "dokumenti": [
     {
       "naziv": "MSI 2151-101",
@@ -282,13 +282,13 @@
           "naziv": "CELLULARLINE ACL SLUSALICE BT TWS CORE WHITE",
           "barkod": "8018080490606",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ACL SLUSALICE BT TWS LITE WHITE",
           "barkod": "8018080488726",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ACL SLUSALICE BT TWS WINK BLACK",
