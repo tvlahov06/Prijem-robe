@@ -4,7 +4,7 @@
   "datum": "2026-04-07",
   "status": "aktivan",
   "kreirano": "2026-04-07T21:18:55.444Z",
-  "azurirano": "2026-04-08T05:45:41.446Z",
+  "azurirano": "2026-04-08T05:45:50.252Z",
   "dokumenti": [
     {
       "naziv": "MSI 2151-101",
@@ -336,7 +336,7 @@
           "naziv": "CELLULARLINE KABEL MFI 200CM",
           "barkod": "8018080201912",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL SPIRAL C-C",
@@ -360,7 +360,7 @@
           "naziv": "CELLULARLINE KABEL TYPE-C 200CM",
           "barkod": "8018080295737",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 4
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
