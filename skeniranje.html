@@ -224,11 +224,19 @@
     }
 
     // ========== SCANNING ==========
+    function barcodeMatch(itemBc, scanBc) {
+      if (itemBc === scanBc) return true;
+      // Match with/without leading zero
+      if (itemBc === "0" + scanBc) return true;
+      if (scanBc === "0" + itemBc) return true;
+      return false;
+    }
+
     function scan(bc) {
       if (isLocked) return { status: "not_found", barcode: "Prijem je zavrsen" };
       var it = null;
-      for (var i = 0; i < items.length; i++) { if (items[i].barkod === bc && items[i].skenirano < items[i].ocekivano) { it = items[i]; break; } }
-      if (!it) { for (var i = items.length - 1; i >= 0; i--) { if (items[i].barkod === bc) { it = items[i]; break; } } }
+      for (var i = 0; i < items.length; i++) { if (barcodeMatch(items[i].barkod, bc) && items[i].skenirano < items[i].ocekivano) { it = items[i]; break; } }
+      if (!it) { for (var i = items.length - 1; i >= 0; i--) { if (barcodeMatch(items[i].barkod, bc)) { it = items[i]; break; } } }
       if (!it) return { status: "not_found", barcode: bc };
       it.skenirano++; pData.dokumenti[it.di].stavke[it.si].skenirano = it.skenirano;
       var el = document.querySelector('[data-bc="' + bc + '-' + it.di + '-' + it.si + '"]');
