@@ -4,7 +4,7 @@
   "datum": "2026-04-07",
   "status": "aktivan",
   "kreirano": "2026-04-07T21:18:55.444Z",
-  "azurirano": "2026-04-08T05:43:38.046Z",
+  "azurirano": "2026-04-08T05:43:43.790Z",
   "dokumenti": [
     {
       "naziv": "MSI 2151-101",
@@ -192,13 +192,13 @@
           "naziv": "Adapter Putni SKROSS, EU To UK, 1.500230C-E",
           "barkod": "7640326821236",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Adapter Putni SKROSS, World To Europe, 1.500211C-E",
           "barkod": "7640326820260",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ANKER Kabel USB-C u LIGHTNING 322, 120cm, Pleteni crni",
@@ -552,7 +552,7 @@
           "naziv": "Putni adapter Skross EU - SAD",
           "barkod": "7640166320050",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Putni adapter Skross EU/AUS/UK/SAD + 2ÃÂ USB-A",
