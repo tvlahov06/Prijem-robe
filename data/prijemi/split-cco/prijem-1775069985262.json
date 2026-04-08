@@ -4,7 +4,7 @@
   "datum": "2026-04-07",
   "status": "aktivan",
   "kreirano": "2026-04-07T21:18:55.444Z",
-  "azurirano": "2026-04-08T06:27:38.124Z",
+  "azurirano": "2026-04-08T06:27:46.028Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -468,25 +468,25 @@
           "naziv": "Mobitel Motorola Edge 60 Fusion 8GB/256GB Pantone Slipstream",
           "barkod": "840023295898",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Motorola edge 60 Pro 8GB/256GB Pantone Shadow Green",
           "barkod": "840493609355",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Motorola edge 70 12GB/512GB Pantone Bronze Green",
           "barkod": "840493606774",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Motorola edge 70 12GB/512GB Pantone Gadget Grey",
           "barkod": "840493603377",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
