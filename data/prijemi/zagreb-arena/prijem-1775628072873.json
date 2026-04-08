@@ -4,7 +4,7 @@
   "datum": "2026-04-08",
   "status": "aktivan",
   "kreirano": "2026-04-08T06:01:12.873Z",
-  "azurirano": "2026-04-08T06:43:37.710Z",
+  "azurirano": "2026-04-08T06:43:48.448Z",
   "dokumenti": [
     {
       "naziv": "MSI 2193-101",
@@ -477,7 +477,7 @@
           "naziv": "Parna postaja Philips GC7844/20",
           "barkod": "8710103951049",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG7200/20",
