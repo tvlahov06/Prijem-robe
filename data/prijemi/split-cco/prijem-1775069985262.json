@@ -4,7 +4,7 @@
   "datum": "2026-04-07",
   "status": "aktivan",
   "kreirano": "2026-04-07T21:18:55.444Z",
-  "azurirano": "2026-04-08T06:25:52.616Z",
+  "azurirano": "2026-04-08T06:26:45.404Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -550,37 +550,37 @@
           "naziv": "Mobitel Xiaomi Redmi 15 8GB/256GB Midnight Black",
           "barkod": "6932554445126",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Xiaomi Redmi 15 8GB/256GB Sandy Purple",
           "barkod": "6932554449759",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Xiaomi Redmi 15 8GB/256GB Titan Gray",
           "barkod": "6932554450021",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Xiaomi Redmi 15C 4GB/128GB Midnight Black",
           "barkod": "6932554444860",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Xiaomi Redmi 15C 5G 4GB/128GB crni",
           "barkod": "6932554458607",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Xiaomi Redmi A5 3GB/64GB crni",
           "barkod": "6932554425104",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Mobitel Xiaomi Redmi A5 3GB/64GB plavi",
@@ -598,7 +598,7 @@
           "naziv": "Mobitel Xiaomi Redmi A5 4GB/128GB plavi",
           "barkod": "6932554425241",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Xiaomi Redmi A5 4GB/128GB zlatni",
@@ -676,7 +676,7 @@
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 8GB/256GB Black",
           "barkod": "6932554469825",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 8GB/256GB Glacier Blue",
