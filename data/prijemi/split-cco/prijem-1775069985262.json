@@ -4,7 +4,7 @@
   "datum": "2026-04-07",
   "status": "aktivan",
   "kreirano": "2026-04-07T21:18:55.444Z",
-  "azurirano": "2026-04-08T06:29:27.091Z",
+  "azurirano": "2026-04-08T06:29:35.678Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -712,13 +712,13 @@
           "naziv": "Tablet Xiaomi Pad 8 PRO 8/256 sivi",
           "barkod": "6932554475796",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Xiaomi Pad 8 PRO 8/256 zeleni",
           "barkod": "6932554475574",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet XIAOMI REDMI PAD 2 4GB/128GB Graphite Gray",
@@ -736,7 +736,7 @@
           "naziv": "Tablet Xiaomi Redmi Pad 2 Pro 8GB/256GB Graphite Gray",
           "barkod": "6932554463786",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
