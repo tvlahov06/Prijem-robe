@@ -4,7 +4,7 @@
   "datum": "2026-04-08",
   "status": "aktivan",
   "kreirano": "2026-04-08T06:01:12.873Z",
-  "azurirano": "2026-04-08T07:29:04.198Z",
+  "azurirano": "2026-04-08T07:29:13.634Z",
   "dokumenti": [
     {
       "naziv": "MSI 2193-101",
@@ -103,7 +103,7 @@
           "naziv": "DVB-T2/T prijemnik E-STAR",
           "barkod": "5292618761540",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX kabel RF M/F 2m",
