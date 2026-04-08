@@ -4,7 +4,7 @@
   "datum": "2026-04-07",
   "status": "aktivan",
   "kreirano": "2026-04-07T21:18:55.444Z",
-  "azurirano": "2026-04-08T05:41:01.437Z",
+  "azurirano": "2026-04-08T05:43:03.179Z",
   "dokumenti": [
     {
       "naziv": "MSI 2151-101",
@@ -348,7 +348,7 @@
           "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
           "barkod": "8018080373633",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE C TO C 300 CM",
@@ -432,7 +432,7 @@
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
           "barkod": "8018080481963",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE SLUSALICE TYPE-C SPARROW BLACK",
@@ -555,7 +555,7 @@
           "skenirano": 0
         },
         {
-          "naziv": "Putni adapter Skross EU/AUS/UK/SAD + 2Ã USB-A",
+          "naziv": "Putni adapter Skross EU/AUS/UK/SAD + 2ÃÂ USB-A",
           "barkod": "7640166323693",
           "ocekivano": 3,
           "skenirano": 0
@@ -703,7 +703,7 @@
           "skenirano": 0
         },
         {
-          "naziv": "MobitelÂ  HONOR X7d 8GB/256GB LTE Meteor Silver",
+          "naziv": "MobitelÃÂ  HONOR X7d 8GB/256GB LTE Meteor Silver",
           "barkod": "6936520875511",
           "ocekivano": 1,
           "skenirano": 0
