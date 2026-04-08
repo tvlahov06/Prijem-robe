@@ -4,7 +4,7 @@
   "datum": "2026-04-07",
   "status": "aktivan",
   "kreirano": "2026-04-07T21:18:55.444Z",
-  "azurirano": "2026-04-08T06:25:42.392Z",
+  "azurirano": "2026-04-08T06:25:48.093Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -521,13 +521,13 @@
           "naziv": "Mobitel HONOR X5c Plus 4GB/64GB Midnight Black",
           "barkod": "6936520876099",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel HONOR X5c Plus 4GB/64GB Ocean Cyan",
           "barkod": "6936520876105",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MobitelÃÂÃÂ  HONOR X7d 8GB/256GB LTE Meteor Silver",
@@ -539,7 +539,7 @@
           "naziv": "Susilo za kosu HONOR Choice Pro Zelena",
           "barkod": "6977100380735",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
