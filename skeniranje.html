@@ -239,7 +239,7 @@
       if (!it) { for (var i = items.length - 1; i >= 0; i--) { if (barcodeMatch(items[i].barkod, bc)) { it = items[i]; break; } } }
       if (!it) return { status: "not_found", barcode: bc };
       it.skenirano++; pData.dokumenti[it.di].stavke[it.si].skenirano = it.skenirano;
-      var el = document.querySelector('[data-bc="' + bc + '-' + it.di + '-' + it.si + '"]');
+      var el = document.querySelector('[data-bc="' + it.barkod + '-' + it.di + '-' + it.si + '"]');
       if (el) { var inp = el.querySelector(".qi"); if (inp) inp.value = it.skenirano; updEl(el, it); el.classList.add("just-scanned"); setTimeout(function() { el.classList.remove("just-scanned"); }, 600); }
       stats(); schSave();
       return it.skenirano === it.ocekivano ? { status: "complete", naziv: it.naziv, skenirano: it.skenirano, ocekivano: it.ocekivano } : it.skenirano > it.ocekivano ? { status: "over", naziv: it.naziv, skenirano: it.skenirano, ocekivano: it.ocekivano } : { status: "ok", naziv: it.naziv, skenirano: it.skenirano, ocekivano: it.ocekivano };
