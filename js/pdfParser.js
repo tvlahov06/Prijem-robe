@@ -203,12 +203,6 @@ var PDFParser = {
           name = name.trim();
           if (!name || name.length < 2) name = "Artikl " + barcode;
 
-          // Avoid duplicates
-          var exists = false;
-          for (var k = 0; k < items.length; k++) {
-            if (items[k].barkod === barcode) { exists = true; break; }
-          }
-          if (!exists) {
             items.push({
               naziv: name,
               barkod: barcode,
