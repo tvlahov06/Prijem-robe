@@ -32,6 +32,9 @@
         <button id="save-btn" class="btn btn-success btn-sm" disabled>&#128190; Spremi</button>
       </div>
     </div>
+    <div style="margin-bottom:14px">
+      <input type="text" id="prijem-naziv" placeholder="Naziv prijema (opcija, npr. Samsung roba 25.3.)" style="width:100%;padding:12px 14px;background:var(--bg-white);border:1.5px solid var(--border);border-radius:10px;font-size:15px;font-family:var(--font);color:var(--text);outline:none" onfocus="this.select()">
+    </div>
     <div id="upload-zone" class="upload-zone">
       <div class="upload-icon">&#128196;</div><h3>Ucitaj PDF ili Excel</h3><p>Povuci datoteke ovdje ili klikni za odabir</p>
       <input type="file" id="fi" accept=".pdf,.xlsx,.xls,.csv" multiple style="display:none">
@@ -151,7 +154,8 @@
       if (!docs.length) return;
       saveBtn.disabled = true; saveBtn.textContent = "Spremam...";
       var pid = Auth.getPoslovnicaId(), now = new Date(), id = exId || ("prijem-" + now.getTime());
-      var data = { id: id, poslovnica: pid, datum: now.toISOString().split("T")[0], status: "aktivan", kreirano: now.toISOString(), azurirano: now.toISOString(), dokumenti: [] };
+      var naziv = document.getElementById("prijem-naziv").value.trim();
+      var data = { id: id, poslovnica: pid, naziv: naziv, datum: now.toISOString().split("T")[0], status: "aktivan", kreirano: now.toISOString(), azurirano: now.toISOString(), dokumenti: [] };
       for (var i = 0; i < docs.length; i++) {
         var stavke = [];
         for (var j = 0; j < docs[i].stavke.length; j++) {
@@ -170,6 +174,7 @@
       GitHubStorage.readFile("data/prijemi/" + Auth.getPoslovnicaId() + "/" + editId + ".json").then(function(d) {
         if (d) {
           exId = d.content.id; exSha = d.sha;
+          if (d.content.naziv) document.getElementById("prijem-naziv").value = d.content.naziv;
           for (var i = 0; i < d.content.dokumenti.length; i++) {
             docs.push({ dokumentNaziv: d.content.dokumenti[i].naziv, stavke: d.content.dokumenti[i].stavke });
           }

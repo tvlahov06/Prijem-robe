@@ -87,7 +87,9 @@
               var card = document.createElement("div");
               card.className = "prijem-card"; card.style.cursor = "pointer";
               var statusText = p.status === "priprema" ? "Priprema" : p.status === "aktivan" ? "Aktivan" : "Zavrsen";
-              card.innerHTML = '<div class="prijem-info" style="flex:1"><div class="prijem-date">' + date + '</div><div class="prijem-meta">' + p.dokumenti.length + " dok. &middot; " + totA + " artikala &middot; " + totS + "/" + totO + ' sken.</div></div><span class="status-badge ' + p.status + '">' + statusText + '</span><button class="btn-icon delete-btn" title="Obrisi" style="margin-left:8px;width:32px;height:32px;font-size:14px;color:var(--danger);border-color:var(--danger-border)">&#10005;</button>';
+              var displayName = p.naziv ? p.naziv : date;
+              var subInfo = p.naziv ? date + ' &middot; ' : '';
+              card.innerHTML = '<div class="prijem-info" style="flex:1"><div class="prijem-date">' + displayName + '</div><div class="prijem-meta">' + subInfo + p.dokumenti.length + " dok. &middot; " + totA + " artikala &middot; " + totS + "/" + totO + ' sken.</div></div><span class="status-badge ' + p.status + '">' + statusText + '</span><button class="btn-icon delete-btn" title="Obrisi" style="margin-left:8px;width:32px;height:32px;font-size:14px;color:var(--danger);border-color:var(--danger-border)">&#10005;</button>';
               card.addEventListener("click", function(e) {
                 if (e.target.closest(".delete-btn")) return;
                 window.location.href = "skeniranje.html?id=" + p.id;
