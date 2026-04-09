@@ -307,7 +307,9 @@
               var detailId = "detail-" + pid + "-" + p.id;
               var toggleIcon = p.status === "zavrsen" ? "&#9654;" : "&#10003;";
               var toggleTitle = p.status === "zavrsen" ? "Prebaci u Aktivan" : "Prebaci u Zavrsen";
-              row.innerHTML = '<div class="prijem-main" style="cursor:pointer" onclick="toggleDetail(\'' + detailId + '\')"><div class="prijem-date">' + date + ' <span class="status-badge ' + statusClass + '">' + statusText + '</span></div><div class="prijem-detail">' + p.dokumenti.length + ' dok. &middot; ' + pArt + ' artikala &middot; ' + pSken + '/' + pOcek + ' sken.</div></div><div class="prijem-progress"><div class="prog-text">' + pct + '%</div><div class="prog-bar"><div class="prog-fill" style="width:' + pct + '%;background:' + barColor + '"></div></div></div><div class="action-btns"><button title="' + toggleTitle + '" onclick="toggleStatus(\'' + pid + '\',\'' + p.id + '\')">' + toggleIcon + '</button><button class="del" title="Obrisi" onclick="deletePrijem(\'' + pid + '\',\'' + p._path + '\',\'' + p._sha + '\')">&#10005;</button></div>';
+              var displayName = p.naziv ? p.naziv : date;
+              var subInfo = p.naziv ? date + ' &middot; ' : '';
+              row.innerHTML = '<div class="prijem-main" style="cursor:pointer" onclick="toggleDetail(\'' + detailId + '\')"><div class="prijem-date">' + displayName + ' <span class="status-badge ' + statusClass + '">' + statusText + '</span></div><div class="prijem-detail">' + subInfo + p.dokumenti.length + ' dok. &middot; ' + pArt + ' artikala &middot; ' + pSken + '/' + pOcek + ' sken.</div></div><div class="prijem-progress"><div class="prog-text">' + pct + '%</div><div class="prog-bar"><div class="prog-fill" style="width:' + pct + '%;background:' + barColor + '"></div></div></div><div class="action-btns"><button title="Preimenuj" onclick="renamePrijem(\'' + pid + '\',\'' + p.id + '\')">&#9998;</button><button title="' + toggleTitle + '" onclick="toggleStatus(\'' + pid + '\',\'' + p.id + '\')">' + toggleIcon + '</button><button class="del" title="Obrisi" onclick="deletePrijem(\'' + pid + '\',\'' + p._path + '\',\'' + p._sha + '\')">&#10005;</button></div>';
               body.appendChild(row);
 
               // Inline detail panel with editable qty
@@ -448,6 +450,7 @@
       panel.id = newId;
       panel.style.cssText = "padding:14px 18px;background:var(--bg-white);border-top:1px solid var(--border-light);";
       panel.innerHTML = '<div style="font-size:14px;font-weight:700;color:var(--accent);margin-bottom:10px">Novi prijem za ' + poslNaziv + '</div>' +
+        '<input type="text" id="naziv-' + newId + '" placeholder="Naziv prijema (opcija)" style="width:100%;padding:10px 12px;background:var(--bg-input);border:1.5px solid var(--border);border-radius:8px;font-size:14px;font-family:var(--font);color:var(--text);outline:none;margin-bottom:10px">' +
         '<div style="border:2px dashed var(--border);border-radius:10px;padding:20px;text-align:center;cursor:pointer;background:var(--bg)" onclick="document.getElementById(\'file-' + newId + '\').click()">' +
         '<div style="font-size:13px;font-weight:600">&#128196; Ucitaj PDF ili Excel</div>' +
         '<div style="font-size:11px;color:var(--text-muted)">Klikni za odabir datoteke</div>' +
@@ -483,8 +486,10 @@
         for (var r = 0; r < results.length; r++) {
           dokumenti.push({ naziv: results[r].dokumentNaziv, stavke: results[r].stavke });
         }
+        var nazivInput = document.getElementById("naziv-new-prijem-" + pid);
+        var naziv = nazivInput ? nazivInput.value.trim() : "";
         var data = {
-          id: id, poslovnica: pid, datum: now.toISOString().split("T")[0],
+          id: id, poslovnica: pid, naziv: naziv, datum: now.toISOString().split("T")[0],
           status: "aktivan", kreirano: now.toISOString(), azurirano: now.toISOString(),
           dokumenti: dokumenti
         };
@@ -496,6 +501,23 @@
         }).catch(function(e) { toast("Greska: " + e.message, "error"); });
       }).catch(function(e) { toast("Greska: " + e.message, "error"); });
     }
+
+    window.renamePrijem = function(pid, prijemId) {
+      var prijemi = allData[pid] || [];
+      var p = null;
+      for (var i = 0; i < prijemi.length; i++) { if (prijemi[i].id === prijemId) { p = prijemi[i]; break; } }
+      if (!p) return;
+      var current = p.naziv || "";
+      var newName = prompt("Naziv prijema:", current);
+      if (newName === null) return;
+      p.naziv = newName.trim();
+      p.azurirano = new Date().toISOString();
+      GitHubStorage.writeFile(p._path, p, "Admin rename", p._sha).then(function(r) {
+        if (r) p._sha = r.content.sha;
+        toast("Preimenovano!", "success");
+        loadAll();
+      }).catch(function(e) { toast("Greska: " + e.message, "error"); });
+    };
 
     window.toggleStatus = function(pid, prijemId) {
       var prijemi = allData[pid] || [];
