@@ -5,7 +5,7 @@
   "datum": "2026-04-09",
   "status": "aktivan",
   "kreirano": "2026-04-09T16:35:32.042Z",
-  "azurirano": "2026-04-09T19:16:06.722Z",
+  "azurirano": "2026-04-09T19:20:35.485Z",
   "dokumenti": [
     {
       "naziv": "MSI 2201-101",
@@ -151,7 +151,7 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ00U1SC, 39.6cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB",
           "barkod": "199272265351",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ011PSC, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512",
@@ -205,7 +205,7 @@
           "naziv": "Laptop HP EliteBook 8 G1a 14, AD4J0ET, 35.6cm (14\") IPS WUXGA, AMD Ryzen 7 250, 16 GB RAM, 512 GB SSD, AMD",
           "barkod": "0199251827457",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO Legion Pro 5, 83LT007WSC, 40.6cm (16\") OLED WQXGA 165Hz, AMD Ryzen 7 8745HX, 32 GB RAM, 1",
@@ -217,7 +217,7 @@
           "naziv": "Laptop ACER Nitro V 16 AI, NH.U1GEX.00G, 40.6cm (16\") IPS WUXGA 180Hz, AMD Ryzen 7 260, 32 GB RAM, 1 TB",
           "barkod": "4711474762948",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO LOQ, 83JC00G0SC, 39.6cm (15.6\") IPS Full HD 144Hz, AMD Ryzen 5 7235HS, 24 GB RAM, 1 TB SSD,",
@@ -229,7 +229,7 @@
           "naziv": "Laptop LENOVO Legion Pro 5 83F30038SC, 40.6cm (16\") OLED 165Hz, Intel Core Ultra 9 275HX, 32 GB RAM, 1 TB",
           "barkod": "198158565646",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Apple Macbook Neo Citrus, mhfd4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
@@ -253,7 +253,7 @@
           "naziv": "Laptop LENOVO ThinkBook 16 G9, 21UT000QSC, 40.6cm (16\") IPS WUXGA, AMD Ryzen 7 250, 32 GB RAM, 512 GB",
           "barkod": "199272518501",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -566,7 +566,7 @@
           "naziv": "PlayStation VR2",
           "barkod": "711719453994",
           "ocekivano": 6,
-          "skenirano": 4
+          "skenirano": 6
         },
         {
           "naziv": "Prince Of Persia The Lost Crown PS4 B38",
