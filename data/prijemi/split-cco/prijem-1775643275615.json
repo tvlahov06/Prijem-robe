@@ -5,7 +5,7 @@
   "datum": "2026-04-09",
   "status": "aktivan",
   "kreirano": "2026-04-09T16:35:32.042Z",
-  "azurirano": "2026-04-09T19:22:02.980Z",
+  "azurirano": "2026-04-09T19:22:21.490Z",
   "dokumenti": [
     {
       "naziv": "MSI 2201-101",
@@ -139,7 +139,7 @@
           "naziv": "Printer HP Envy 6120e AiO - 714L8B - Instant Ink",
           "barkod": "0197029817518",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet M234d MFP",
@@ -247,7 +247,7 @@
           "naziv": "Laptop HP 17-cp2040nm, CB7S8EA, 43.9 cm (17.3\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD",
           "barkod": "199642693463",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO ThinkBook 16 G9, 21UT000QSC, 40.6cm (16\") IPS WUXGA, AMD Ryzen 7 250, 32 GB RAM, 512 GB",
