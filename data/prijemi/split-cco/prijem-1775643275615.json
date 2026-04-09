@@ -5,7 +5,7 @@
   "datum": "2026-04-09",
   "status": "aktivan",
   "kreirano": "2026-04-09T16:35:32.042Z",
-  "azurirano": "2026-04-09T19:23:07.521Z",
+  "azurirano": "2026-04-09T19:23:56.612Z",
   "dokumenti": [
     {
       "naziv": "MSI 2201-101",
@@ -91,7 +91,7 @@
           "naziv": "MSI 23.6\" MAG Gaming Monitor MAG 244C, VA Curved Full",
           "barkod": "4711377259156",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "272F X24 MSI 27\" MAG Gaming Monitor MAG 272F X24, Rapid IPS Full HD, 240Hz, 0.5ms, FreeSync Premium, DisplayPort, 2x",
@@ -157,7 +157,7 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ011PSC, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512",
           "barkod": "199273478859",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15, NX.DMVEX.001, 39.6cm (15.6\") IPS FHD, AMD Ryzen 7 5825U, 32 GB RAM, 1 TB",
@@ -235,13 +235,13 @@
           "naziv": "Laptop Apple Macbook Neo Citrus, mhfd4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
           "barkod": "195950851632",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Zenbook S 14, UX5406SA-PZ278X, 35.6cm P50 (14\") OLED 3K 120Hz Touch, Intel Core Ultra 7 258V, 32",
           "barkod": "4711387808771",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP 17-cp2040nm, CB7S8EA, 43.9 cm (17.3\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD",
