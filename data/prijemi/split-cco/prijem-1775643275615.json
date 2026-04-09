@@ -3,8 +3,8 @@
   "poslovnica": "split-cco",
   "datum": "2026-04-09",
   "status": "aktivan",
-  "kreirano": "2026-04-09T08:32:20.974Z",
-  "azurirano": "2026-04-09T08:32:20.974Z",
+  "kreirano": "2026-04-09T09:56:42.724Z",
+  "azurirano": "2026-04-09T09:56:42.724Z",
   "dokumenti": [
     {
       "naziv": "MSI 2201-101",
@@ -665,7 +665,7 @@
           "skenirano": 0
         },
         {
-          "naziv": "Susilo za kosu Remington EC8930E51 AIRviveÃÂ¢ÃÂÃÂ¢",
+          "naziv": "Susilo za kosu Remington EC8930E51 AIRviveÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢",
           "barkod": "5038061174762",
           "ocekivano": 2,
           "skenirano": 0
@@ -695,7 +695,7 @@
           "skenirano": 0
         },
         {
-          "naziv": "Uvijac za kosu Remington CI8930E51 AIRviveÃÂ¢ÃÂÃÂ¢",
+          "naziv": "Uvijac za kosu Remington CI8930E51 AIRviveÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢",
           "barkod": "5038061174731",
           "ocekivano": 4,
           "skenirano": 0
@@ -792,6 +792,142 @@
           "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC MGREEN compatible) Cammo Green",
           "barkod": "3499550382556",
           "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2276-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu Lavazza A Modo Mio Jolie Evo bijela",
+          "barkod": "8000070073593",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Lavazza A Modo Mio Jolie Evo crna",
+          "barkod": "8000070073579",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Lavazza A Modo Mio Jolie Evo crvena",
+          "barkod": "8000070073531",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kapsule za kavu Lavazza A Modo Mio Crema E Gusto 36/1",
+          "barkod": "8000070020221",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kapsule za kavu Lavazza A Modo Mio Intenso 16/1",
+          "barkod": "8000070086029",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2277-101",
+      "stavke": [
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
+          "barkod": "5025155117187",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V8 Absolute",
+          "barkod": "5025155090152",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
+          "barkod": "5025155112656",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Origin Bright Nickel/Bright Copper",
+          "barkod": "5025155117729",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V10 Absolute",
+          "barkod": "5025155088081",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V16 Piston Animal",
+          "barkod": "5025155114834",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Ceramic Pink/Rose Gold",
+          "barkod": "5025155113080",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907CP 900W",
+          "barkod": "8006447000087",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907R 900W",
+          "barkod": "8006447000872",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003W Portable bijeli",
+          "barkod": "8006447002098",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
+          "barkod": "8006447002135",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003PU Portable ljubicasti",
+          "barkod": "8006447002142",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003NBL Portable plavi",
+          "barkod": "8006447002111",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907MAJD 900W",
+          "barkod": "8006447003033",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907MASN 900W",
+          "barkod": "8006447003019",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206GO-MC 1200W McLaren F1 Team Ultra",
+          "barkod": "8006447003965",
+          "ocekivano": 1,
           "skenirano": 0
         }
       ]
