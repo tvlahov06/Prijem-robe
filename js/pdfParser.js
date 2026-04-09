@@ -30,6 +30,10 @@ var PDFParser = {
     result = result.replace(/\u2122/g, "TM");  // ™ -> TM
     result = result.replace(/\u00AE/g, "(R)"); // ® -> (R)
     result = result.replace(/\u00A9/g, "(C)"); // © -> (C)
+    result = result.replace(/[\u201C\u201D\u201E\u201F\u00AB\u00BB]/g, '"'); // " " „ » « -> "
+    result = result.replace(/[\u2018\u2019\u201A\u201B]/g, "'"); // ' ' ‚ -> '
+    result = result.replace(/[\u2013\u2014]/g, "-"); // – — -> -
+    result = result.replace(/\u2026/g, "..."); // … -> ...
     // Replace multi-char mojibake sequences (must come before single-char)
     var multi = [
       ["Ä\u0087","c"],["Ä\u008D","c"],["Ä\u0091","d"],["Ä\u0086","C"],["Ä\u008C","C"],["Ä\u0090","D"],
