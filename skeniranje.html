@@ -371,7 +371,6 @@
 
     // ========== EXPORT ==========
     document.getElementById("exp-btn").addEventListener("click", function() {
-      // Load SheetJS if not loaded
       function doExport() {
         var data = [["Dokument", "Naziv", "Barkod", "Ocekivano", "Skenirano", "Razlika"]];
         for (var i = 0; i < items.length; i++) {
@@ -379,8 +378,37 @@
           data.push([it.dn, it.naziv, it.barkod, it.ocekivano, it.skenirano, it.skenirano - it.ocekivano]);
         }
         var ws = XLSX.utils.aoa_to_sheet(data);
-        // Set column widths
         ws["!cols"] = [{ wch: 20 }, { wch: 45 }, { wch: 15 }, { wch: 12 }, { wch: 12 }, { wch: 10 }];
+
+        // Style header row - light blue background
+        var headerStyle = { fill: { fgColor: { rgb: "DBEAFE" } }, font: { bold: true, color: { rgb: "1E3A5F" } }, alignment: { horizontal: "center" } };
+        for (var c = 0; c < 6; c++) {
+          var cell = XLSX.utils.encode_cell({ r: 0, c: c });
+          if (!ws[cell]) continue;
+          ws[cell].s = headerStyle;
+        }
+
+        // Style data rows - color differences
+        for (var r = 1; r <= items.length; r++) {
+          var diffCell = XLSX.utils.encode_cell({ r: r, c: 5 });
+          if (!ws[diffCell]) continue;
+          var diff = ws[diffCell].v;
+          if (diff === 0) {
+            ws[diffCell].s = { fill: { fgColor: { rgb: "D1FAE5" } }, font: { color: { rgb: "166534" }, bold: true } };
+          } else if (diff < 0) {
+            ws[diffCell].s = { fill: { fgColor: { rgb: "FEE2E2" } }, font: { color: { rgb: "DC2626" }, bold: true } };
+          } else {
+            ws[diffCell].s = { fill: { fgColor: { rgb: "FEF3C7" } }, font: { color: { rgb: "D97706" }, bold: true } };
+          }
+          // Also color the whole row lightly for ok items
+          if (diff === 0) {
+            for (var c2 = 0; c2 < 5; c2++) {
+              var rc = XLSX.utils.encode_cell({ r: r, c: c2 });
+              if (ws[rc]) ws[rc].s = { fill: { fgColor: { rgb: "F0FDF4" } } };
+            }
+          }
+        }
+
         var wb = XLSX.utils.book_new();
         XLSX.utils.book_append_sheet(wb, ws, "Prijem");
         var fileName = "prijem-" + (pData.naziv || pData.datum) + ".xlsx";
