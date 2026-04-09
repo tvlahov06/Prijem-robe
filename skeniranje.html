@@ -371,58 +371,48 @@
 
     // ========== EXPORT ==========
     document.getElementById("exp-btn").addEventListener("click", function() {
-      function doExport() {
-        var data = [["Dokument", "Naziv", "Barkod", "Ocekivano", "Skenirano", "Razlika"]];
-        for (var i = 0; i < items.length; i++) {
-          var it = items[i];
-          data.push([it.dn, it.naziv, it.barkod, it.ocekivano, it.skenirano, it.skenirano - it.ocekivano]);
-        }
-        var ws = XLSX.utils.aoa_to_sheet(data);
-        ws["!cols"] = [{ wch: 20 }, { wch: 45 }, { wch: 15 }, { wch: 12 }, { wch: 12 }, { wch: 10 }];
-
-        // Style header row - light blue background
-        var headerStyle = { fill: { fgColor: { rgb: "DBEAFE" } }, font: { bold: true, color: { rgb: "1E3A5F" } }, alignment: { horizontal: "center" } };
-        for (var c = 0; c < 6; c++) {
-          var cell = XLSX.utils.encode_cell({ r: 0, c: c });
-          if (!ws[cell]) continue;
-          ws[cell].s = headerStyle;
-        }
-
-        // Style data rows - color differences
-        for (var r = 1; r <= items.length; r++) {
-          var diffCell = XLSX.utils.encode_cell({ r: r, c: 5 });
-          if (!ws[diffCell]) continue;
-          var diff = ws[diffCell].v;
-          if (diff === 0) {
-            ws[diffCell].s = { fill: { fgColor: { rgb: "D1FAE5" } }, font: { color: { rgb: "166534" }, bold: true } };
-          } else if (diff < 0) {
-            ws[diffCell].s = { fill: { fgColor: { rgb: "FEE2E2" } }, font: { color: { rgb: "DC2626" }, bold: true } };
-          } else {
-            ws[diffCell].s = { fill: { fgColor: { rgb: "FEF3C7" } }, font: { color: { rgb: "D97706" }, bold: true } };
-          }
-          // Also color the whole row lightly for ok items
-          if (diff === 0) {
-            for (var c2 = 0; c2 < 5; c2++) {
-              var rc = XLSX.utils.encode_cell({ r: r, c: c2 });
-              if (ws[rc]) ws[rc].s = { fill: { fgColor: { rgb: "F0FDF4" } } };
-            }
-          }
-        }
-
-        var wb = XLSX.utils.book_new();
-        XLSX.utils.book_append_sheet(wb, ws, "Prijem");
-        var fileName = "prijem-" + (pData.naziv || pData.datum) + ".xlsx";
-        fileName = fileName.replace(/[^a-zA-Z0-9\-_.]/g, "_");
-        XLSX.writeFile(wb, fileName);
+      var xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
+      xml += '<?mso-application progid="Excel.Sheet"?>\n';
+      xml += '<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">\n';
+      xml += '<Styles>\n';
+      xml += '<Style ss:ID="header"><Interior ss:Color="#DBEAFE" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#1E3A5F"/><Alignment ss:Horizontal="Center"/></Style>\n';
+      xml += '<Style ss:ID="ok"><Interior ss:Color="#D1FAE5" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#166534"/></Style>\n';
+      xml += '<Style ss:ID="okRow"><Interior ss:Color="#F0FDF4" ss:Pattern="Solid"/></Style>\n';
+      xml += '<Style ss:ID="minus"><Interior ss:Color="#FEE2E2" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#DC2626"/></Style>\n';
+      xml += '<Style ss:ID="plus"><Interior ss:Color="#FEF3C7" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#D97706"/></Style>\n';
+      xml += '<Style ss:ID="def"></Style>\n';
+      xml += '</Styles>\n';
+      xml += '<Worksheet ss:Name="Prijem">\n<Table>\n';
+      xml += '<Column ss:Width="140"/><Column ss:Width="300"/><Column ss:Width="110"/><Column ss:Width="80"/><Column ss:Width="80"/><Column ss:Width="70"/>\n';
+      // Header
+      xml += '<Row>';
+      var headers = ["Dokument","Naziv","Barkod","Ocekivano","Skenirano","Razlika"];
+      for (var h = 0; h < headers.length; h++) xml += '<Cell ss:StyleID="header"><Data ss:Type="String">' + headers[h] + '</Data></Cell>';
+      xml += '</Row>\n';
+      // Data rows
+      for (var i = 0; i < items.length; i++) {
+        var it = items[i];
+        var diff = it.skenirano - it.ocekivano;
+        var rowStyle = diff === 0 && it.skenirano > 0 ? "okRow" : "def";
+        var diffStyle = diff === 0 && it.skenirano > 0 ? "ok" : diff < 0 ? "minus" : diff > 0 ? "plus" : "def";
+        xml += '<Row>';
+        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="String">' + esc(it.dn) + '</Data></Cell>';
+        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="String">' + esc(it.naziv) + '</Data></Cell>';
+        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="String">' + it.barkod + '</Data></Cell>';
+        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="Number">' + it.ocekivano + '</Data></Cell>';
+        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="Number">' + it.skenirano + '</Data></Cell>';
+        xml += '<Cell ss:StyleID="' + diffStyle + '"><Data ss:Type="Number">' + diff + '</Data></Cell>';
+        xml += '</Row>\n';
       }
-      if (window.XLSX) { doExport(); }
-      else {
-        var s = document.createElement("script");
-        s.src = "https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js";
-        s.onload = doExport;
-        document.head.appendChild(s);
-      }
+      xml += '</Table>\n</Worksheet>\n</Workbook>';
+      var fileName = "prijem-" + (pData.naziv || pData.datum) + ".xls";
+      fileName = fileName.replace(/[^a-zA-Z0-9\-_.]/g, "_");
+      var a = document.createElement("a");
+      a.href = URL.createObjectURL(new Blob([xml], { type: "application/vnd.ms-excel;charset=utf-8" }));
+      a.download = fileName; a.click();
     });
+
+    function esc(s) { return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
 
     window.deleteDocFromPrijem = function(docIdx) {
       if (!pData || !pData.dokumenti[docIdx]) return;
