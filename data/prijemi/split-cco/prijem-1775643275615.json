@@ -5,7 +5,7 @@
   "datum": "2026-04-09",
   "status": "aktivan",
   "kreirano": "2026-04-09T16:35:32.042Z",
-  "azurirano": "2026-04-09T19:21:38.108Z",
+  "azurirano": "2026-04-09T19:22:02.980Z",
   "dokumenti": [
     {
       "naziv": "MSI 2201-101",
@@ -115,7 +115,7 @@
           "naziv": "Monitor 27\" ACER SA273P1bi, UM.HS3EE.101, FHD IPS 144Hz",
           "barkod": "4711474585431",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 34'' ACER Nitro ED340CUR, UM.CE0EE.009, VA UWQHD, 200Hz, 5ms, AMD FreeSync, 2x HDMI,",
@@ -127,7 +127,7 @@
           "naziv": "Printer HP Smart Tank 580 AiO",
           "barkod": "196188530313",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Printer HP OfficeJet Pro 8122e All-in-One Printer, 405U3B - Instant Ink",
@@ -199,7 +199,7 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 5, 83HW000VSC, 40.6 cm (16\") 2.8K OLED, AMD Ryzen 7 8845HS, 32 GB RAM, 1 TB",
           "barkod": "198155900136",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP EliteBook 8 G1a 14, AD4J0ET, 35.6cm (14\") IPS WUXGA, AMD Ryzen 7 250, 16 GB RAM, 512 GB SSD, AMD",
