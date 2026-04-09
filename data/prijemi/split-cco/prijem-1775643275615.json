@@ -1,10 +1,10 @@
 {
   "id": "prijem-1775643275615",
   "poslovnica": "split-cco",
-  "datum": "2026-04-08",
+  "datum": "2026-04-09",
   "status": "aktivan",
-  "kreirano": "2026-04-08T22:09:25.793Z",
-  "azurirano": "2026-04-08T22:20:57.179Z",
+  "kreirano": "2026-04-09T08:32:20.974Z",
+  "azurirano": "2026-04-09T08:32:20.974Z",
   "dokumenti": [
     {
       "naziv": "MSI 2201-101",
@@ -665,7 +665,7 @@
           "skenirano": 0
         },
         {
-          "naziv": "Susilo za kosu Remington EC8930E51 AIRviveÃ¢ÂÂ¢",
+          "naziv": "Susilo za kosu Remington EC8930E51 AIRviveÃÂ¢ÃÂÃÂ¢",
           "barkod": "5038061174762",
           "ocekivano": 2,
           "skenirano": 0
@@ -695,7 +695,7 @@
           "skenirano": 0
         },
         {
-          "naziv": "Uvijac za kosu Remington CI8930E51 AIRviveÃ¢ÂÂ¢",
+          "naziv": "Uvijac za kosu Remington CI8930E51 AIRviveÃÂ¢ÃÂÃÂ¢",
           "barkod": "5038061174731",
           "ocekivano": 4,
           "skenirano": 0
@@ -727,6 +727,71 @@
           "naziv": "Powerbank Varta 20,000 mAh Fast Charge",
           "barkod": "4008496019083",
           "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2274-101",
+      "stavke": [
+        {
+          "naziv": "Lego Worlds PS4 B33",
+          "barkod": "5051895409220",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC CK compatible) crni",
+          "barkod": "3499550360653",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS4 Nacon Compact Light Wired Controller LUE prozirno-plavi",
+          "barkod": "3499550360806",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Far Cry 6 Standard Edition PS4 E38",
+          "barkod": "3307216170761",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Minecraft Starter Collection Refresh PS4 F33",
+          "barkod": "711719704096",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation VR2",
+          "barkod": "711719453994",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prince Of Persia The Lost Crown PS4 B38",
+          "barkod": "3307216265399",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Elden Ring Nightreign PS5",
+          "barkod": "3391892034639",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Edge Wireless Controller v2",
+          "barkod": "711719586654",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC MGREEN compatible) Cammo Green",
+          "barkod": "3499550382556",
+          "ocekivano": 4,
           "skenirano": 0
         }
       ]
