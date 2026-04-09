@@ -23,6 +23,13 @@ var PDFParser = {
         if (decoded !== result) result = decoded;
       }
     } catch(e) {}
+    // Clean long mojibake sequences (e.g. ™ becomes ÃÂÃÂÃÂ... pattern)
+    result = result.replace(/(\u00C3[\u0080-\u00BF]\u00C2[\u0080-\u00BF]){2,}/g, "");
+    result = result.replace(/(Ã[^a-z]Â[^a-z]){2,}/g, "");
+    // Replace known special symbols
+    result = result.replace(/\u2122/g, "TM");  // ™ -> TM
+    result = result.replace(/\u00AE/g, "(R)"); // ® -> (R)
+    result = result.replace(/\u00A9/g, "(C)"); // © -> (C)
     // Replace multi-char mojibake sequences (must come before single-char)
     var multi = [
       ["Ä\u0087","c"],["Ä\u008D","c"],["Ä\u0091","d"],["Ä\u0086","C"],["Ä\u008C","C"],["Ä\u0090","D"],
