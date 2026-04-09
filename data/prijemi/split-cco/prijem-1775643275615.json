@@ -5,7 +5,7 @@
   "datum": "2026-04-09",
   "status": "aktivan",
   "kreirano": "2026-04-09T16:35:32.042Z",
-  "azurirano": "2026-04-09T19:24:18.827Z",
+  "azurirano": "2026-04-09T19:24:32.563Z",
   "dokumenti": [
     {
       "naziv": "MSI 2201-101",
@@ -139,13 +139,13 @@
           "naziv": "Printer HP Envy 6120e AiO - 714L8B - Instant Ink",
           "barkod": "0197029817518",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Printer HP LaserJet M234d MFP",
           "barkod": "0197961892970",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ00U1SC, 39.6cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB",
