@@ -309,7 +309,7 @@
               var toggleTitle = p.status === "zavrsen" ? "Prebaci u Aktivan" : "Prebaci u Zavrsen";
               var displayName = p.naziv ? p.naziv : date;
               var subInfo = p.naziv ? date + ' &middot; ' : '';
-              row.innerHTML = '<div class="prijem-main" style="cursor:pointer" onclick="toggleDetail(\'' + detailId + '\')"><div class="prijem-date">' + displayName + ' <span class="status-badge ' + statusClass + '">' + statusText + '</span></div><div class="prijem-detail">' + subInfo + p.dokumenti.length + ' dok. &middot; ' + pArt + ' artikala &middot; ' + pSken + '/' + pOcek + ' sken.</div></div><div class="prijem-progress"><div class="prog-text">' + pct + '%</div><div class="prog-bar"><div class="prog-fill" style="width:' + pct + '%;background:' + barColor + '"></div></div></div><div class="action-btns"><button title="Preimenuj" onclick="renamePrijem(\'' + pid + '\',\'' + p.id + '\')">&#9998;</button><button title="' + toggleTitle + '" onclick="toggleStatus(\'' + pid + '\',\'' + p.id + '\')">' + toggleIcon + '</button><button class="del" title="Obrisi" onclick="deletePrijem(\'' + pid + '\',\'' + p._path + '\',\'' + p._sha + '\')">&#10005;</button></div>';
+              row.innerHTML = '<div class="prijem-main" style="cursor:pointer" onclick="toggleDetail(\'' + detailId + '\')"><div class="prijem-date">' + displayName + ' <span class="status-badge ' + statusClass + '">' + statusText + '</span></div><div class="prijem-detail">' + subInfo + p.dokumenti.length + ' dok. &middot; ' + pArt + ' artikala &middot; ' + pSken + '/' + pOcek + ' sken.</div></div><div class="prijem-progress"><div class="prog-text">' + pct + '%</div><div class="prog-bar"><div class="prog-fill" style="width:' + pct + '%;background:' + barColor + '"></div></div></div><div class="action-btns"><button title="Eksport Excel" onclick="exportPrijem(\'' + pid + '\',\'' + p.id + '\')">&#128202;</button><button title="Preimenuj" onclick="renamePrijem(\'' + pid + '\',\'' + p.id + '\')">&#9998;</button><button title="' + toggleTitle + '" onclick="toggleStatus(\'' + pid + '\',\'' + p.id + '\')">' + toggleIcon + '</button><button class="del" title="Obrisi" onclick="deletePrijem(\'' + pid + '\',\'' + p._path + '\',\'' + p._sha + '\')">&#10005;</button></div>';
               body.appendChild(row);
 
               // Inline detail panel with editable qty
@@ -501,6 +501,74 @@
         }).catch(function(e) { toast("Greska: " + e.message, "error"); });
       }).catch(function(e) { toast("Greska: " + e.message, "error"); });
     }
+
+    function escXml(s) { return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
+
+    window.exportPrijem = function(pid, prijemId) {
+      var prijemi = allData[pid] || [];
+      var p = null;
+      for (var i = 0; i < prijemi.length; i++) { if (prijemi[i].id === prijemId) { p = prijemi[i]; break; } }
+      if (!p) return;
+
+      // Build items list
+      var items = [];
+      for (var d = 0; d < p.dokumenti.length; d++) {
+        for (var s = 0; s < p.dokumenti[d].stavke.length; s++) {
+          var st = p.dokumenti[d].stavke[s];
+          items.push({ dn: p.dokumenti[d].naziv, naziv: st.naziv, barkod: st.barkod, ocekivano: st.ocekivano, skenirano: st.skenirano || 0 });
+        }
+      }
+
+      var xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
+      xml += '<?mso-application progid="Excel.Sheet"?>\n';
+      xml += '<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">\n';
+      xml += '<Styles>\n';
+      xml += '<Style ss:ID="header"><Interior ss:Color="#DBEAFE" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#1E3A5F"/><Alignment ss:Horizontal="Center"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/></Borders></Style>\n';
+      xml += '<Style ss:ID="def"></Style>\n';
+      xml += '<Style ss:ID="defSep"><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/></Borders></Style>\n';
+      xml += '<Style ss:ID="ok"><Interior ss:Color="#D1FAE5" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#166534"/></Style>\n';
+      xml += '<Style ss:ID="okSep"><Interior ss:Color="#D1FAE5" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#166534"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/></Borders></Style>\n';
+      xml += '<Style ss:ID="minus"><Interior ss:Color="#FEE2E2" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#DC2626"/></Style>\n';
+      xml += '<Style ss:ID="minusSep"><Interior ss:Color="#FEE2E2" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#DC2626"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/></Borders></Style>\n';
+      xml += '<Style ss:ID="plus"><Interior ss:Color="#FEF3C7" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#D97706"/></Style>\n';
+      xml += '<Style ss:ID="plusSep"><Interior ss:Color="#FEF3C7" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#D97706"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/></Borders></Style>\n';
+      xml += '</Styles>\n';
+      xml += '<Worksheet ss:Name="Prijem">\n<Table>\n';
+      xml += '<Column ss:Width="140"/><Column ss:Width="300"/><Column ss:Width="110"/><Column ss:Width="80"/><Column ss:Width="80"/><Column ss:Width="70"/>\n';
+      xml += '<Row>';
+      var headers = ["Dokument","Naziv","Barkod","Ocekivano","Skenirano","Razlika"];
+      for (var h = 0; h < headers.length; h++) xml += '<Cell ss:StyleID="header"><Data ss:Type="String">' + headers[h] + '</Data></Cell>';
+      xml += '</Row>\n';
+      for (var i = 0; i < items.length; i++) {
+        var it = items[i];
+        var diff = it.skenirano - it.ocekivano;
+        var isLastInDoc = (i === items.length - 1) || (items[i + 1].dn !== it.dn);
+        var rowStyle = isLastInDoc ? "defSep" : "def";
+        var diffStyle;
+        if (diff === 0 && it.skenirano > 0) diffStyle = isLastInDoc ? "okSep" : "ok";
+        else if (diff < 0) diffStyle = isLastInDoc ? "minusSep" : "minus";
+        else if (diff > 0) diffStyle = isLastInDoc ? "plusSep" : "plus";
+        else diffStyle = rowStyle;
+        xml += '<Row>';
+        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="String">' + escXml(it.dn) + '</Data></Cell>';
+        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="String">' + escXml(it.naziv) + '</Data></Cell>';
+        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="String">' + it.barkod + '</Data></Cell>';
+        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="Number">' + it.ocekivano + '</Data></Cell>';
+        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="Number">' + it.skenirano + '</Data></Cell>';
+        xml += '<Cell ss:StyleID="' + diffStyle + '"><Data ss:Type="Number">' + diff + '</Data></Cell>';
+        xml += '</Row>\n';
+      }
+      xml += '</Table>\n</Worksheet>\n</Workbook>';
+
+      var poslNaziv = "";
+      for (var pi = 0; pi < poslovnice.length; pi++) { if (poslovnice[pi].id === pid) { poslNaziv = poslovnice[pi].naziv; break; } }
+      var fileName = "prijem-" + (p.naziv || p.datum) + "-" + poslNaziv + ".xls";
+      fileName = fileName.replace(/[^a-zA-Z0-9\-_.]/g, "_");
+      var a = document.createElement("a");
+      a.href = URL.createObjectURL(new Blob([xml], { type: "application/vnd.ms-excel;charset=utf-8" }));
+      a.download = fileName; a.click();
+      toast("Exportirano!", "success");
+    };
 
     window.renamePrijem = function(pid, prijemId) {
       var prijemi = allData[pid] || [];
