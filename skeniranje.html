@@ -371,10 +371,29 @@
 
     // ========== EXPORT ==========
     document.getElementById("exp-btn").addEventListener("click", function() {
-      var c = "\uFEFF" + "Dokument;Naziv;Barkod;Ocekivano;Skenirano;Razlika\n";
-      for (var i = 0; i < items.length; i++) { var it = items[i]; c += '"' + it.dn + '";"' + it.naziv + '";"' + it.barkod + '";' + it.ocekivano + ";" + it.skenirano + ";" + (it.skenirano - it.ocekivano) + "\n"; }
-      var a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([c], { type: "text/csv;charset=utf-8;" }));
-      a.download = "prijem-" + pData.datum + ".csv"; a.click();
+      // Load SheetJS if not loaded
+      function doExport() {
+        var data = [["Dokument", "Naziv", "Barkod", "Ocekivano", "Skenirano", "Razlika"]];
+        for (var i = 0; i < items.length; i++) {
+          var it = items[i];
+          data.push([it.dn, it.naziv, it.barkod, it.ocekivano, it.skenirano, it.skenirano - it.ocekivano]);
+        }
+        var ws = XLSX.utils.aoa_to_sheet(data);
+        // Set column widths
+        ws["!cols"] = [{ wch: 20 }, { wch: 45 }, { wch: 15 }, { wch: 12 }, { wch: 12 }, { wch: 10 }];
+        var wb = XLSX.utils.book_new();
+        XLSX.utils.book_append_sheet(wb, ws, "Prijem");
+        var fileName = "prijem-" + (pData.naziv || pData.datum) + ".xlsx";
+        fileName = fileName.replace(/[^a-zA-Z0-9\-_.]/g, "_");
+        XLSX.writeFile(wb, fileName);
+      }
+      if (window.XLSX) { doExport(); }
+      else {
+        var s = document.createElement("script");
+        s.src = "https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js";
+        s.onload = doExport;
+        document.head.appendChild(s);
+      }
     });
 
     window.deleteDocFromPrijem = function(docIdx) {
