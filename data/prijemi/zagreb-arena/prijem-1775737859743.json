@@ -1,10 +1,11 @@
 {
   "id": "prijem-1775737859743",
   "poslovnica": "zagreb-arena",
-  "datum": "2026-04-09",
+  "naziv": "",
+  "datum": "2026-04-10",
   "status": "aktivan",
-  "kreirano": "2026-04-09T12:30:59.743Z",
-  "azurirano": "2026-04-10T06:53:29.866Z",
+  "kreirano": "2026-04-10T06:54:44.647Z",
+  "azurirano": "2026-04-10T06:54:44.647Z",
   "dokumenti": [
     {
       "naziv": "MSI 2256-101",
@@ -812,7 +813,7 @@
           "skenirano": 0
         },
         {
-          "naziv": "Death Stranding Directorâs Cut PS5 D37",
+          "naziv": "Death Stranding DirectorÃ¢ÂÂs Cut PS5 D37",
           "barkod": "711719722595",
           "ocekivano": 1,
           "skenirano": 0
@@ -904,6 +905,203 @@
           "naziv": "Kapsule za kavu Lavazza A Modo Mio Intenso 16/1",
           "barkod": "8000070086029",
           "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2259-101",
+      "stavke": [
+        {
+          "naziv": "Sat Samsung Galaxy Fit3 sivi",
+          "barkod": "8806095362175",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB sivi",
+          "barkod": "8806097855019",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A16 4GB/128GB dual SIM tamnoplavi",
+          "barkod": "8806095822334",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A26 5G 6GB/128GB dual SIM crni",
+          "barkod": "8806097072812",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S25 Ultra 5G 12/256GB titan sivi",
+          "barkod": "8806095860107",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A26 5G 6GB/128GB dual SIM menta zeleni",
+          "barkod": "8806097072850",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska s prstenom za Samsung Galaxy Z Flip7 crvena",
+          "barkod": "8806097466536",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 8GB/256GB WiFi sivi",
+          "barkod": "8806097638612",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 8GB/256GB sivi",
+          "barkod": "8806097855071",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S25 5G 12/128GB onyx crni",
+          "barkod": "8806095815534",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Fit3 rozi",
+          "barkod": "8806095362151",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Fold7 5G 12GB/256GB crni",
+          "barkod": "8806097425106",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni Marine remen za Samsung Galaxy Watch Ultra plavi",
+          "barkod": "8806097626855",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
+          "barkod": "6942103168154",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Fit 4 crni (Seiya-B19F)",
+          "barkod": "6942103155000",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
+          "barkod": "6942103168239",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 46mm Black (Vili-B19F)",
+          "barkod": "6942103132001",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 41mm Blue (Jana-B19FC)",
+          "barkod": "6942103131998",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac za mobitel ACER HP.DSCAB.019, Crna",
+          "barkod": "4712842946731",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Pro Brown 46mm (Atum-B29W)",
+          "barkod": "6942103168208",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
+          "barkod": "6942103168253",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei GT Runner 2 (Chitu-B19FB) 43,5mm Midnight Black",
+          "barkod": "6942103185595",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
+          "barkod": "6942103168246",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Huawei MatePad 12X 12GB/512GB (Laurent-W09DK) zeleni",
+          "barkod": "6942103169021",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "RASHLADNI STALAK SBOX CP-28",
+          "barkod": "3858894506989",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP-65W Punjac za HP laptope SBOX HP-65W/ 19.5V-65W",
+          "barkod": "616320533960",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Fit 4 Pro plavi (Seiya-B29F)",
+          "barkod": "6942103155055",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GoPro Protective Housing (H10-H13)",
+          "barkod": "810116382330",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE STRONG GUARD TETRA FORCE CASE RMT IPHONE 15 PRO MAX",
+          "barkod": "8018080466328",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE BOOK AGENDA GALAXY S25 BLACK 25K",
+          "barkod": "8018080491320",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Ultimate 2 Black 48.5mm (March-B19)",
+          "barkod": "6942103169229",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Huawei MatePad 12X 12GB/512GB (Laurent-W09DK) bijeli",
+          "barkod": "6942103169014",
+          "ocekivano": 1,
           "skenirano": 0
         }
       ]
