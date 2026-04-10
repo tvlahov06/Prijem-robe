@@ -5,7 +5,7 @@
   "datum": "2026-04-09",
   "status": "aktivan",
   "kreirano": "2026-04-09T21:33:49.931Z",
-  "azurirano": "2026-04-10T05:57:31.960Z",
+  "azurirano": "2026-04-10T05:57:34.835Z",
   "dokumenti": [
     {
       "naziv": "MSI 2201-101",
@@ -407,7 +407,7 @@
           "naziv": "Cetkica za zube OralB iO5 MATT BLACK",
           "barkod": "4210201415367",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube OralB iO6 BLACK ONYX",
@@ -419,7 +419,7 @@
           "naziv": "Cetkica za zube OralB iO6 GREY OPAL",
           "barkod": "4210201381686",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube OralB iO9 BLACK ONYX",
