@@ -5,7 +5,7 @@
   "datum": "2026-04-10",
   "status": "aktivan",
   "kreirano": "2026-04-10T06:54:44.647Z",
-  "azurirano": "2026-04-10T07:12:30.495Z",
+  "azurirano": "2026-04-10T07:12:45.491Z",
   "dokumenti": [
     {
       "naziv": "MSI 2256-101",
@@ -899,13 +899,13 @@
           "naziv": "Kapsule za kavu Lavazza A Modo Mio Crema E Gusto 36/1",
           "barkod": "8000070020221",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kapsule za kavu Lavazza A Modo Mio Intenso 16/1",
           "barkod": "8000070086029",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
