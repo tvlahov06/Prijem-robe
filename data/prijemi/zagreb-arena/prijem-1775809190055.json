@@ -1,0 +1,52 @@
+{
+  "id": "prijem-1775809190055",
+  "poslovnica": "zagreb-arena",
+  "naziv": "TEST",
+  "datum": "2026-04-10",
+  "status": "aktivan",
+  "kreirano": "2026-04-10T08:19:50.055Z",
+  "azurirano": "2026-04-10T08:19:50.055Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 343-141",
+      "stavke": [
+        {
+          "naziv": "Pametni sat Garmin Venu 2 Slate Black",
+          "barkod": "753759271824",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Auto punjac za smartphone/tablet/laptop Baseus Particular Digital Display, USB + USB-C, QC 3.0 + PD, 5A, 65W, siva",
+          "barkod": "6953156223189",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel USB C - USB C 1m 100W 5A Baseus crni",
+          "barkod": "6953156232051",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat T-Rex Ultra Sahara",
+          "barkod": "6972596103950",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Inter-Tech Power Adapter Type C 100W",
+          "barkod": "2010020429093",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nano 2 736 punjac, 100W, 2xUSB-C/1xUSB-A, crni",
+          "barkod": "0194644098551",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
