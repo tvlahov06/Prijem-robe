@@ -5,7 +5,7 @@
   "datum": "2026-04-10",
   "status": "aktivan",
   "kreirano": "2026-04-10T06:54:44.647Z",
-  "azurirano": "2026-04-10T07:37:14.389Z",
+  "azurirano": "2026-04-10T07:37:18.647Z",
   "dokumenti": [
     {
       "naziv": "MSI 2256-101",
@@ -73,7 +73,7 @@
           "naziv": "Sisac za kosu/bradu BRAUN 8u1 3540",
           "barkod": "8700216429306",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo/kosu/bradu BRAUN 11u1 7540",
@@ -151,7 +151,7 @@
           "naziv": "Tus za zube OralB Aqua Care 6",
           "barkod": "8006540839621",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Revlon STYLE TWIST",
