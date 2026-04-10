@@ -5,7 +5,7 @@
   "datum": "2026-04-09",
   "status": "aktivan",
   "kreirano": "2026-04-09T21:33:49.931Z",
-  "azurirano": "2026-04-10T05:53:45.477Z",
+  "azurirano": "2026-04-10T05:53:54.493Z",
   "dokumenti": [
     {
       "naziv": "MSI 2201-101",
@@ -1048,7 +1048,7 @@
           "naziv": "Brijaci aparat Philips XP9204/30",
           "barkod": "8720689030199",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips S3244/12",
