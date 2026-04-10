@@ -5,7 +5,7 @@
   "datum": "2026-04-09",
   "status": "aktivan",
   "kreirano": "2026-04-09T21:33:49.931Z",
-  "azurirano": "2026-04-10T05:55:21.201Z",
+  "azurirano": "2026-04-10T05:55:23.899Z",
   "dokumenti": [
     {
       "naziv": "MSI 2201-101",
@@ -513,7 +513,7 @@
           "naziv": "Baterije Varta Longlife AA LR6 CUBE12",
           "barkod": "4008496129942",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Powerbank Varta 15,000 mAh Fast Charge",
