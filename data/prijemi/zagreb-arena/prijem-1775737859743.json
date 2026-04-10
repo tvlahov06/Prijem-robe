@@ -5,7 +5,7 @@
   "datum": "2026-04-10",
   "status": "aktivan",
   "kreirano": "2026-04-10T06:54:44.647Z",
-  "azurirano": "2026-04-10T07:29:36.924Z",
+  "azurirano": "2026-04-10T07:30:14.000Z",
   "dokumenti": [
     {
       "naziv": "MSI 2256-101",
@@ -85,7 +85,7 @@
           "naziv": "Cetkica za zube OralB iO10 COSMIC BLACK",
           "barkod": "4210201434672",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube OralB iO2 PINK",
@@ -151,7 +151,7 @@
           "naziv": "Tus za zube OralB Aqua Care 6",
           "barkod": "8006540839621",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Revlon STYLE TWIST",
