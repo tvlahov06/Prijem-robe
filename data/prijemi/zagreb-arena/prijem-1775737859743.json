@@ -5,7 +5,7 @@
   "datum": "2026-04-10",
   "status": "aktivan",
   "kreirano": "2026-04-10T06:54:44.647Z",
-  "azurirano": "2026-04-10T07:48:14.243Z",
+  "azurirano": "2026-04-10T07:48:20.171Z",
   "dokumenti": [
     {
       "naziv": "MSI 2256-101",
@@ -352,7 +352,7 @@
           "naziv": "Printer HP OfficeJet Pro 8122e All-in-One Printer, 405U3B - Instant Ink",
           "barkod": "196337163881",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP Envy 6120e AiO - 714L8B - Instant Ink",
@@ -376,7 +376,7 @@
           "naziv": "Printer Epson L3270 EcoTank",
           "barkod": "8715946727097",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ00U1SC, 39.6cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB",
