@@ -5,7 +5,7 @@
   "datum": "2026-04-09",
   "status": "aktivan",
   "kreirano": "2026-04-09T21:33:49.931Z",
-  "azurirano": "2026-04-10T05:56:14.104Z",
+  "azurirano": "2026-04-10T05:56:34.992Z",
   "dokumenti": [
     {
       "naziv": "MSI 2201-101",
@@ -389,7 +389,7 @@
           "naziv": "Sisac za kosu/bradu BRAUN 8u1 3540",
           "barkod": "8700216429306",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo/kosu/bradu BRAUN 11u1 7540",
@@ -473,7 +473,7 @@
           "naziv": "Brijaci aparat BRAUN 3 3000",
           "barkod": "8700216735896",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
