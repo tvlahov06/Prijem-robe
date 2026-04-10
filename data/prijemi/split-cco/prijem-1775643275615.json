@@ -5,7 +5,7 @@
   "datum": "2026-04-09",
   "status": "aktivan",
   "kreirano": "2026-04-09T21:33:49.931Z",
-  "azurirano": "2026-04-10T05:51:51.201Z",
+  "azurirano": "2026-04-10T05:52:16.234Z",
   "dokumenti": [
     {
       "naziv": "MSI 2201-101",
@@ -455,7 +455,7 @@
           "naziv": "Tus za zube OralB OXYJET MD20",
           "barkod": "8006540841600",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Revlon STYLE TWIST",
@@ -1024,7 +1024,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7108/02 Sonicare Series 5300 White",
           "barkod": "8720689023009",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Philips BHD510/00",
