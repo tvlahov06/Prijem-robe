@@ -449,7 +449,7 @@
       var panel = document.createElement("div");
       panel.id = newId;
       panel.style.cssText = "padding:14px 18px;background:var(--bg-white);border-top:1px solid var(--border-light);";
-      panel.innerHTML = '<div style="font-size:14px;font-weight:700;color:var(--accent);margin-bottom:10px">Novi prijem za ' + poslNaziv + '</div>' +
+      panel.innerHTML = '<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px"><span style="font-size:14px;font-weight:700;color:var(--accent)">Novi prijem za ' + poslNaziv + '</span><button onclick="document.getElementById(\'' + newId + '\').remove()" style="background:none;border:none;color:var(--text-muted);cursor:pointer;font-size:18px" title="Odustani">&#10005;</button></div>' +
         '<input type="text" id="naziv-' + newId + '" placeholder="Naziv prijema (opcija)" style="width:100%;padding:10px 12px;background:var(--bg-input);border:1.5px solid var(--border);border-radius:8px;font-size:14px;font-family:var(--font);color:var(--text);outline:none;margin-bottom:10px">' +
         '<div style="border:2px dashed var(--border);border-radius:10px;padding:20px;text-align:center;cursor:pointer;background:var(--bg)" onclick="document.getElementById(\'file-' + newId + '\').click()">' +
         '<div style="font-size:13px;font-weight:600">&#128196; Ucitaj PDF ili Excel</div>' +
