@@ -5,7 +5,7 @@
   "datum": "2026-04-10",
   "status": "aktivan",
   "kreirano": "2026-04-10T06:54:44.647Z",
-  "azurirano": "2026-04-10T07:28:45.108Z",
+  "azurirano": "2026-04-10T07:29:12.402Z",
   "dokumenti": [
     {
       "naziv": "MSI 2256-101",
@@ -49,13 +49,13 @@
           "naziv": "Epilator Braun SE5-050",
           "barkod": "7500435225038",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Epilator Braun SE7-060",
           "barkod": "7500435225106",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mini epilator za lice Braun FS1000",
@@ -145,7 +145,7 @@
           "naziv": "Cetkica za zube OralB PRO Kids 3+ SPIDERMAN+putna torb.",
           "barkod": "8006540773567",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tus za zube OralB Aqua Care 6",
