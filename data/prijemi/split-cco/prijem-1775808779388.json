@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "",
   "datum": "2026-04-10",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-04-10T08:12:59.388Z",
-  "azurirano": "2026-04-10T08:12:59.388Z",
+  "azurirano": "2026-04-10T14:42:51.517Z",
   "dokumenti": [
     {
       "naziv": "MSI 2287-101",
@@ -216,5 +216,8 @@
         }
       ]
     }
-  ]
+  ],
+  "_sha": "c11d084aab3cd941c719bfa84d78d8bfa63b4478",
+  "_path": "data/prijemi/split-cco/prijem-1775808779388.json",
+  "zavrseno": "2026-04-10T14:42:51.517Z"
 }
