@@ -32,12 +32,45 @@ const Scanner = {
   _beep(type) {
     try {
       if (!this._audioCtx) this._audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-      const c = this._audioCtx, o = c.createOscillator(), g = c.createGain(); o.connect(g); g.connect(c.destination);
-      if (type === 'ok') { o.frequency.value = 880; o.type = 'sine'; g.gain.value = .25; o.start(); o.stop(c.currentTime + .1); }
-      else if (type === 'complete') { o.frequency.value = 1000; o.type = 'sine'; g.gain.value = .25; o.start(); o.stop(c.currentTime + .1); setTimeout(() => { const o2 = c.createOscillator(), g2 = c.createGain(); o2.connect(g2); g2.connect(c.destination); o2.frequency.value = 1300; o2.type = 'sine'; g2.gain.value = .25; o2.start(); o2.stop(c.currentTime + .15); }, 150); }
-      else if (type === 'warning') { o.frequency.value = 600; o.type = 'triangle'; g.gain.value = .3; o.start(); o.stop(c.currentTime + .3); }
-      else if (type === 'error') { o.frequency.value = 300; o.type = 'square'; g.gain.value = .15; o.start(); o.stop(c.currentTime + .4); }
-    } catch {}
+      const c = this._audioCtx;
+      if (c.state === 'suspended') c.resume();
+      const t = c.currentTime;
+
+      if (type === 'ok') {
+        // Single short high beep
+        const o = c.createOscillator(), g = c.createGain();
+        o.connect(g); g.connect(c.destination);
+        o.frequency.value = 1200; o.type = 'sine'; g.gain.value = 0.3;
+        o.start(t); o.stop(t + 0.08);
+      }
+      else if (type === 'complete') {
+        // Three ascending tones - celebratory
+        [1000, 1300, 1600].forEach(function(freq, i) {
+          var o = c.createOscillator(), g = c.createGain();
+          o.connect(g); g.connect(c.destination);
+          o.frequency.value = freq; o.type = 'sine'; g.gain.value = 0.3;
+          o.start(t + i * 0.12); o.stop(t + i * 0.12 + 0.1);
+        });
+      }
+      else if (type === 'warning') {
+        // Two medium tones - attention
+        [800, 800].forEach(function(freq, i) {
+          var o = c.createOscillator(), g = c.createGain();
+          o.connect(g); g.connect(c.destination);
+          o.frequency.value = freq; o.type = 'triangle'; g.gain.value = 0.35;
+          o.start(t + i * 0.2); o.stop(t + i * 0.2 + 0.15);
+        });
+      }
+      else if (type === 'error') {
+        // Three fast descending harsh tones - clearly bad
+        [900, 700, 500].forEach(function(freq, i) {
+          var o = c.createOscillator(), g = c.createGain();
+          o.connect(g); g.connect(c.destination);
+          o.frequency.value = freq; o.type = 'square'; g.gain.value = 0.2;
+          o.start(t + i * 0.12); o.stop(t + i * 0.12 + 0.1);
+        });
+      }
+    } catch(e) {}
   },
 
   refocus() { if (this._inputEl) { this._inputEl.value = ''; this._inputEl.focus(); } }
