@@ -5,7 +5,7 @@
   "datum": "2026-04-09",
   "status": "aktivan",
   "kreirano": "2026-04-09T21:33:49.931Z",
-  "azurirano": "2026-04-10T05:59:36.848Z",
+  "azurirano": "2026-04-10T05:59:43.250Z",
   "dokumenti": [
     {
       "naziv": "MSI 2201-101",
@@ -484,7 +484,7 @@
           "naziv": "Usisavac robot Dyson Spot+Scrub Ai Black/Blue",
           "barkod": "5025155121962",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson PencilWash",
@@ -496,13 +496,13 @@
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Velvet Red/Gold Straight+Wavy",
           "barkod": "5025155127179",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Dyson Supersonic Nural HD16 Velvet Red/Gold Straight+Wavy",
           "barkod": "5025155133064",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
