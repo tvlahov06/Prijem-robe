@@ -2,10 +2,10 @@
   "id": "prijem-1775808779388",
   "poslovnica": "split-cco",
   "naziv": "",
-  "datum": "2026-04-13",
+  "datum": "2026-04-14",
   "status": "aktivan",
-  "kreirano": "2026-04-13T14:25:08.829Z",
-  "azurirano": "2026-04-14T06:57:17.149Z",
+  "kreirano": "2026-04-14T15:44:49.117Z",
+  "azurirano": "2026-04-14T15:44:49.117Z",
   "dokumenti": [
     {
       "naziv": "MSI 2342-101",
@@ -431,6 +431,172 @@
         {
           "naziv": "Assassins Creed Shadows Standard Edition PS5",
           "barkod": "3307216292661",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2367-101",
+      "stavke": [
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
+          "barkod": "5025155117187",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Velvet Red/Gold Limited edition",
+          "barkod": "5025155112397",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V15 Detect Absolute",
+          "barkod": "5025155081754",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Prussian Blue/Rich Copper",
+          "barkod": "5025155070710",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
+          "barkod": "5025155112656",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
+          "barkod": "5025155127759",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V16 Piston Animal + komplet za detaljno ciscenje (495948)",
+          "barkod": "5025155114858",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V16 Piston Animal",
+          "barkod": "5025155114834",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
+          "barkod": "5025155131992",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V8 Total Clean",
+          "barkod": "5025155080306",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V16 Piston Animal Submarine",
+          "barkod": "5025155114841",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Prussian Blue/Rich Copper Straight+Wavy",
+          "barkod": "5025155117378",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907CP 900W",
+          "barkod": "8006447000087",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB505DG 500W",
+          "barkod": "8006447000070",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
+          "barkod": "8006447002166",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206S 1200W",
+          "barkod": "8006447003323",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907MAJD 900W",
+          "barkod": "8006447003033",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907MASN 900W",
+          "barkod": "8006447003019",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206GO-MC 1200W McLaren F1 Team Ultra",
+          "barkod": "8006447003965",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003MA Portable magenta",
+          "barkod": "8006447002128",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907S 900W",
+          "barkod": "8006447002487",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2387-101",
+      "stavke": [
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Cobalt Blue",
+          "barkod": "711719577676",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Sterling Silver",
+          "barkod": "711719577652",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Volcanic Red",
+          "barkod": "711719577317",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Chroma Indigo v2",
+          "barkod": "711719023616",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Grey Camo za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023708",
           "ocekivano": 2,
           "skenirano": 0
         }
