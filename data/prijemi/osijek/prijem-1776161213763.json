@@ -5,7 +5,7 @@
   "datum": "2026-04-14",
   "status": "aktivan",
   "kreirano": "2026-04-14T10:06:53.763Z",
-  "azurirano": "2026-04-14T10:25:55.872Z",
+  "azurirano": "2026-04-14T10:30:12.063Z",
   "dokumenti": [
     {
       "naziv": "MSI 2289-101",
@@ -259,7 +259,7 @@
           "naziv": "Aparat za kavu DeLonghi EC 685.BK Dedica Style",
           "barkod": "8004399331181",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 685.M Dedica Style",
@@ -277,37 +277,37 @@
           "naziv": "Aparat za kavu Nespresso VERTUO Pop Yellow S GDV2-EUYENE-S",
           "barkod": "8606112020152",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP3347/90 espresso",
           "barkod": "8720389030222",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
           "barkod": "8720389032370",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6903/22 filter za vodu 2 kom",
           "barkod": "8720389000720",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Aparat za rezanje Gorenje R402W",
           "barkod": "3838782820403",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Elektricni lonac Tefal CY754830 multi cook Turbo Cuisine",
           "barkod": "3045387245153",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Filter za vodu za aparat za kavu DeLonghi DLSC002",
@@ -319,31 +319,31 @@
           "naziv": "Friteza na vruci zrak Philips NA332/00 Airfryer",
           "barkod": "8720389034503",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips oprema HD9920/00 Airfryer dodatak - dvoslojna resetka",
           "barkod": "8720389033544",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Xiaomi 6L",
           "barkod": "6941812785218",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Xiaomi Smart Air Fryer Pro 6,5L Bijela",
           "barkod": "6941812729311",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST8040/30",
           "barkod": "8720389004599",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kava DELONGHI zrno Classico 1kg",
@@ -355,7 +355,7 @@
           "naziv": "Kava DELONGHI zrno Crema 1kg",
           "barkod": "8004399020450",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Kuhinjski asistent Gorenje MMC1500PS",
@@ -367,19 +367,19 @@
           "naziv": "Kuhinjski asistent Kenwood KMX750RD crveni",
           "barkod": "5011423190198",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Kenwood KMX754APB pastelno plavi",
           "barkod": "5011423007441",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Kenwood KMX754APP pastelno rozi",
           "barkod": "5011423007458",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -639,7 +639,7 @@
           "naziv": "Mikser rucni Bosch MFQ40301 Styline Colour vanilija/srebrna",
           "barkod": "4242002777290",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mikser rucni Gorenje M500DCBK",
