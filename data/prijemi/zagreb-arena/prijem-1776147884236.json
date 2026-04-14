@@ -5,7 +5,7 @@
   "datum": "2026-04-14",
   "status": "aktivan",
   "kreirano": "2026-04-14T06:24:44.236Z",
-  "azurirano": "2026-04-14T06:34:35.271Z",
+  "azurirano": "2026-04-14T06:35:20.306Z",
   "dokumenti": [
     {
       "naziv": "MSI 2293-101",
@@ -320,41 +320,6 @@
           "barkod": "193905429288",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2305-101",
-      "stavke": [
-        {
-          "naziv": "Printer HP DeskJet 2910 All-in-One - Instant Ink",
-          "barkod": "198828789556",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Printer HP DeskJet 2920 All-in-One Color Printer, 89F97B",
-          "barkod": "198701680109",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Printer HP DeskJet 2922 All-in-One - Instant Ink",
-          "barkod": "198828789792",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP DeskJet 2921 All-in-One Color Printer 7.5/5.5 ppm",
-          "barkod": "0198828789822",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP DeskJet 2923 All-in-One Color Printer 7.5/5.5 ppm",
-          "barkod": "0198828789587",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
