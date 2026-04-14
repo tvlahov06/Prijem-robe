@@ -5,7 +5,7 @@
   "datum": "2026-04-14",
   "status": "aktivan",
   "kreirano": "2026-04-14T15:44:49.117Z",
-  "azurirano": "2026-04-14T22:22:39.102Z",
+  "azurirano": "2026-04-14T22:29:08.957Z",
   "dokumenti": [
     {
       "naziv": "MSI 2342-101",
@@ -566,6 +566,43 @@
           "skenirano": 0
         }
       ]
+    },
+    {
+      "naziv": "MSI 2387-101",
+      "stavke": [
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Cobalt Blue",
+          "barkod": "711719577676",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Sterling Silver",
+          "barkod": "711719577652",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Volcanic Red",
+          "barkod": "711719577317",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Chroma Indigo v2",
+          "barkod": "711719023616",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Grey Camo za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023708",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
     }
-  ]
+  ],
+  "_sha": "4ab27b8299dec84b8a7de0caf69044c658006593",
+  "_path": "data/prijemi/split-cco/prijem-1775808779388.json"
 }
