@@ -5,7 +5,7 @@
   "datum": "2026-04-13",
   "status": "aktivan",
   "kreirano": "2026-04-13T14:25:08.829Z",
-  "azurirano": "2026-04-14T06:03:31.667Z",
+  "azurirano": "2026-04-14T06:03:34.427Z",
   "dokumenti": [
     {
       "naziv": "MSI 2287-101",
@@ -569,7 +569,7 @@
           "naziv": "Mikser stapni Bosch MSM6M810 ErgoMaster",
           "barkod": "4242005340583",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Braun MQ7045X Multiquick 7",
