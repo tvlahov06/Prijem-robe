@@ -5,7 +5,7 @@
   "datum": "2026-04-14",
   "status": "aktivan",
   "kreirano": "2026-04-14T06:24:44.236Z",
-  "azurirano": "2026-04-14T08:47:24.402Z",
+  "azurirano": "2026-04-14T08:47:29.518Z",
   "dokumenti": [
     {
       "naziv": "MSI 2293-101",
@@ -642,101 +642,6 @@
           "barkod": "4242005346622",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2351-101",
-      "stavke": [
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
-          "barkod": "5025155117187",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Dyson V15 Detect Absolute",
-          "barkod": "5025155081754",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Dyson V8 Absolute",
-          "barkod": "5025155090152",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Prussian Blue/Rich Copper",
-          "barkod": "5025155070710",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Origin Bright Nickel/Bright Copper",
-          "barkod": "5025155117729",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
-          "barkod": "5025155112656",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
-          "barkod": "5025155127759",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Dyson V16 Piston Animal + komplet za detaljno ciscenje (495948)",
-          "barkod": "5025155114858",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Dyson V10 Absolute",
-          "barkod": "5025155088081",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Dyson V8 Total Clean",
-          "barkod": "5025155080306",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Prussian Blue/Rich Copper Straight+Wavy",
-          "barkod": "5025155117378",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB907CP 900W",
-          "barkod": "8006447000087",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB1206S 1200W",
-          "barkod": "8006447003323",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
-          "barkod": "8006447002135",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB907S 900W",
-          "barkod": "8006447002487",
-          "ocekivano": 4,
-          "skenirano": 0
         }
       ]
     }
