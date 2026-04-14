@@ -5,7 +5,7 @@
   "datum": "2026-04-14",
   "status": "aktivan",
   "kreirano": "2026-04-14T10:06:53.763Z",
-  "azurirano": "2026-04-14T10:40:15.013Z",
+  "azurirano": "2026-04-14T10:40:22.824Z",
   "dokumenti": [
     {
       "naziv": "MSI 2289-101",
@@ -705,7 +705,7 @@
           "naziv": "Sjeckalica Philips HR1502/00",
           "barkod": "8720389066573",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sokovnik Bosch MESM731M VitaExtract hladna presa",
