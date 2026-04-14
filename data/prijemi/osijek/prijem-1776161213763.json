@@ -5,7 +5,7 @@
   "datum": "2026-04-14",
   "status": "aktivan",
   "kreirano": "2026-04-14T10:06:53.763Z",
-  "azurirano": "2026-04-14T10:30:12.063Z",
+  "azurirano": "2026-04-14T10:37:47.203Z",
   "dokumenti": [
     {
       "naziv": "MSI 2289-101",
@@ -753,7 +753,7 @@
           "naziv": "Usisavac Philips XC3133/01",
           "barkod": "8720389029868",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XD6142/12",
