@@ -5,7 +5,7 @@
   "datum": "2026-04-14",
   "status": "aktivan",
   "kreirano": "2026-04-14T06:24:44.236Z",
-  "azurirano": "2026-04-14T06:55:01.739Z",
+  "azurirano": "2026-04-14T07:26:45.855Z",
   "dokumenti": [
     {
       "naziv": "MSI 2293-101",
@@ -438,7 +438,7 @@
           "naziv": "Usisavac Philips FC9729/09",
           "barkod": "8710103810308",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
