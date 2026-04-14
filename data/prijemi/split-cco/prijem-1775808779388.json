@@ -5,7 +5,7 @@
   "datum": "2026-04-13",
   "status": "aktivan",
   "kreirano": "2026-04-13T14:25:08.829Z",
-  "azurirano": "2026-04-14T06:02:48.666Z",
+  "azurirano": "2026-04-14T06:02:57.733Z",
   "dokumenti": [
     {
       "naziv": "MSI 2287-101",
@@ -521,7 +521,7 @@
           "naziv": "Usisavac Philips XB2122/09",
           "barkod": "8710103925279",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
@@ -539,7 +539,7 @@
           "naziv": "Usisavac Philips XD5123/10",
           "barkod": "8720389038334",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot iRobot Roomba Combo 105 Smoke O-105-SMOKE",
