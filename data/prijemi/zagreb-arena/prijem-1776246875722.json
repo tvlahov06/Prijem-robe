@@ -5,7 +5,7 @@
   "datum": "2026-04-15",
   "status": "aktivan",
   "kreirano": "2026-04-15T09:54:35.722Z",
-  "azurirano": "2026-04-15T10:08:42.148Z",
+  "azurirano": "2026-04-15T10:09:00.939Z",
   "dokumenti": [
     {
       "naziv": "MSI 2352-101",
@@ -44,7 +44,7 @@
           "naziv": "Sisac za tijelo/kosu/bradu Braun 6u1 3410*",
           "barkod": "4210201446613",
           "ocekivano": 6,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
@@ -134,7 +134,7 @@
           "naziv": "Brijac za glavu Remington XR1600",
           "barkod": "5038061144017",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7108/02 Sonicare Series 5300 White",
@@ -188,7 +188,7 @@
           "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
           "barkod": "8720689045360",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "iO6 DUOPACK",
@@ -200,7 +200,7 @@
           "naziv": "iO2 STITCH+PUTNA TORBICA",
           "barkod": "8700216932479",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Xiaomi H101 Bijela",
@@ -284,7 +284,7 @@
           "naziv": "iO2 WHITE+PUTNA TORBICA",
           "barkod": "8006530017121",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
