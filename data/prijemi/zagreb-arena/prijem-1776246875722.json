@@ -5,7 +5,7 @@
   "datum": "2026-04-15",
   "status": "aktivan",
   "kreirano": "2026-04-15T09:54:35.722Z",
-  "azurirano": "2026-04-15T11:23:53.570Z",
+  "azurirano": "2026-04-15T11:23:59.690Z",
   "dokumenti": [
     {
       "naziv": "MSI 2352-101",
@@ -432,7 +432,7 @@
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
           "barkod": "8806097651000",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB srebrni",
