@@ -5,7 +5,7 @@
   "datum": "2026-04-15",
   "status": "aktivan",
   "kreirano": "2026-04-15T09:54:35.722Z",
-  "azurirano": "2026-04-15T10:39:17.431Z",
+  "azurirano": "2026-04-15T10:39:33.324Z",
   "dokumenti": [
     {
       "naziv": "MSI 2352-101",
@@ -740,7 +740,7 @@
           "naziv": "Usisavac Dyson V15 Detect Absolute",
           "barkod": "5025155081754",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V8 Absolute",
@@ -782,13 +782,13 @@
           "naziv": "Usisavac Dyson V10 Absolute",
           "barkod": "5025155088081",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Usisavac Dyson V8 Total Clean",
           "barkod": "5025155080306",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Prussian Blue/Rich Copper Straight+Wavy",
