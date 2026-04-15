@@ -5,7 +5,7 @@
   "datum": "2026-04-15",
   "status": "aktivan",
   "kreirano": "2026-04-15T09:54:35.722Z",
-  "azurirano": "2026-04-15T09:58:57.114Z",
+  "azurirano": "2026-04-15T09:59:01.323Z",
   "dokumenti": [
     {
       "naziv": "MSI 2352-101",
@@ -44,7 +44,7 @@
           "naziv": "Sisac za tijelo/kosu/bradu Braun 6u1 3410*",
           "barkod": "4210201446613",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
@@ -152,7 +152,7 @@
           "naziv": "Sisac za kosu Braun HC 5310 9 duljina*",
           "barkod": "4210201448679",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube OralB iO10 COSMIC BLACK",
