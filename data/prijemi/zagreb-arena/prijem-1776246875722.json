@@ -5,7 +5,7 @@
   "datum": "2026-04-15",
   "status": "aktivan",
   "kreirano": "2026-04-15T09:54:35.722Z",
-  "azurirano": "2026-04-15T09:59:19.370Z",
+  "azurirano": "2026-04-15T09:59:25.501Z",
   "dokumenti": [
     {
       "naziv": "MSI 2352-101",
@@ -110,7 +110,7 @@
           "naziv": "Epilator Philips BRE708/00",
           "barkod": "8720689032704",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epilator Philips BRE719/00",
@@ -224,7 +224,7 @@
           "naziv": "Brijaci aparat BRAUN 3 3000",
           "barkod": "8700216735896",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "ORAL-B iO10 BLACK SPECIAL EDITION + TC",
