@@ -5,7 +5,7 @@
   "datum": "2026-04-16",
   "status": "aktivan",
   "kreirano": "2026-04-16T10:12:04.817Z",
-  "azurirano": "2026-04-16T10:13:16.125Z",
+  "azurirano": "2026-04-16T10:13:22.478Z",
   "dokumenti": [
     {
       "naziv": "MSI 71-139",
@@ -20,7 +20,7 @@
           "naziv": "Laptop LENOVO LOQ Essential 83JE014KSC, 39.6cm (15.6\") IPS FHD 144Hz, Intel Core i7-13650HX, 32 GB",
           "barkod": "199273769834",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 5, 83HW000VSC, 40.6 cm (16\") 2.8K OLED, AMD Ryzen 7 8845HS, 32 GB RAM, 1 TB",
@@ -32,7 +32,7 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ01D0SC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 3 30, 16 GB RAM, 512 GB",
           "barkod": "199274826802",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop HP VICTUS Gaming 15-fb3702nm, BA2L4EA, cm (15.6\") IPS FHD 144Hz, AMD Ryzen 5 8645HS, 16",
@@ -56,7 +56,7 @@
           "naziv": "Laptop ACER Nitro V 16 AI, NH.U1HEX.00C, 40.6cm (16\") IPS WUXGA 180Hz, AMD Ryzen 5 240, 16 GB RAM, 1 TB",
           "barkod": "4711474768087",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Go 15, NX.JW6EX.00K, 39.6cm (15,6\") IPS Full HD, Intel Core i3-1315H, 16 GB RAM, 512 GB SSD,",
