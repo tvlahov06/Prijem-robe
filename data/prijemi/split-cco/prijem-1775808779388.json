@@ -5,7 +5,7 @@
   "datum": "2026-04-15",
   "status": "aktivan",
   "kreirano": "2026-04-15T14:38:31.961Z",
-  "azurirano": "2026-04-16T05:47:00.032Z",
+  "azurirano": "2026-04-16T05:47:09.552Z",
   "dokumenti": [
     {
       "naziv": "MSI 2342-101",
@@ -139,7 +139,7 @@
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
           "barkod": "8806097651079",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
@@ -235,7 +235,7 @@
           "naziv": "Sat Samsung Galaxy Watch8 44mm srebrni",
           "barkod": "8806097415602",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Zastitna Rugged maska za Samsung Galaxy A57 5G crna",
@@ -259,7 +259,7 @@
           "naziv": "Sat Samsung Galaxy Watch8 40mm tamno sivi",
           "barkod": "8806097415817",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Flip7 5G 12GB/256GB koraljno crveni",
