@@ -5,7 +5,7 @@
   "datum": "2026-04-15",
   "status": "aktivan",
   "kreirano": "2026-04-15T14:38:31.961Z",
-  "azurirano": "2026-04-16T05:34:27.950Z",
+  "azurirano": "2026-04-16T05:34:32.304Z",
   "dokumenti": [
     {
       "naziv": "MSI 2342-101",
@@ -521,7 +521,7 @@
           "naziv": "Blender Nutribullet NB505DG 500W",
           "barkod": "8006447000070",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
@@ -545,7 +545,7 @@
           "naziv": "Blender Nutribullet NB907MASN 900W",
           "barkod": "8006447003019",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB1206GO-MC 1200W McLaren F1 Team Ultra",
