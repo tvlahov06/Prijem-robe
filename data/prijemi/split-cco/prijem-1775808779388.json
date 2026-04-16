@@ -5,7 +5,7 @@
   "datum": "2026-04-15",
   "status": "aktivan",
   "kreirano": "2026-04-15T14:38:31.961Z",
-  "azurirano": "2026-04-16T05:52:07.932Z",
+  "azurirano": "2026-04-16T05:52:28.571Z",
   "dokumenti": [
     {
       "naziv": "MSI 2342-101",
@@ -639,7 +639,7 @@
           "naziv": "Printer HP Smart Tank 720 All-in-One",
           "barkod": "195908302995",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP HP Envy 6110e All-in-One Printer - Instant Ink",
