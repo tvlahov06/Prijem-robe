@@ -5,7 +5,7 @@
   "datum": "2026-04-15",
   "status": "aktivan",
   "kreirano": "2026-04-15T14:38:31.961Z",
-  "azurirano": "2026-04-16T05:44:33.692Z",
+  "azurirano": "2026-04-16T05:44:42.383Z",
   "dokumenti": [
     {
       "naziv": "MSI 2342-101",
@@ -408,13 +408,13 @@
           "naziv": "F1 25 PS5",
           "barkod": "5030937125380",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mafia The Old Country PS5",
           "barkod": "5026555439053",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 4
         },
         {
           "naziv": "NBA 2K26 Standard Edition PS5",
@@ -432,7 +432,7 @@
           "naziv": "Assassins Creed Shadows Standard Edition PS5",
           "barkod": "3307216292661",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
