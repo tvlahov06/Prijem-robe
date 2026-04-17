@@ -5,7 +5,7 @@
   "datum": "2026-04-17",
   "status": "aktivan",
   "kreirano": "2026-04-17T08:29:02.787Z",
-  "azurirano": "2026-04-17T11:03:09.637Z",
+  "azurirano": "2026-04-17T11:03:16.727Z",
   "dokumenti": [
     {
       "naziv": "logista 2",
@@ -289,7 +289,7 @@
           "naziv": "TRUST PC MIS WLESS PRIMO BLACK",
           "barkod": "8713439247947",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "TRUST PC MIS WLESS PRIMO WHITE",
@@ -301,7 +301,7 @@
           "naziv": "TRUST PC MIS WLESS SILENT CLICK YVI+ RED",
           "barkod": "8713439245509",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST PC PODLOGA ZA MIS M BOYE BLUE",
@@ -385,7 +385,7 @@
           "naziv": "TRUST PC MIS WLESS PUNJIVI PUCK PINK",
           "barkod": "8713439241259",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST GM MIS RGB,FELOX,BLACK,GXT109",
