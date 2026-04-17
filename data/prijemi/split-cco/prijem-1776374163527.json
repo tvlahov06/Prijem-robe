@@ -5,7 +5,7 @@
   "datum": "2026-04-16",
   "status": "aktivan",
   "kreirano": "2026-04-16T21:16:03.527Z",
-  "azurirano": "2026-04-17T11:46:52.408Z",
+  "azurirano": "2026-04-17T11:46:58.365Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -97,13 +97,13 @@
           "naziv": "Dron DJI Neo",
           "barkod": "6941565988362",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dron DJI Neo 2 (samo dron)",
           "barkod": "6937224131767",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Dron DJI Osmo Nano (128GB)",
