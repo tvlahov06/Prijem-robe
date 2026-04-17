@@ -5,7 +5,7 @@
   "datum": "2026-04-16",
   "status": "aktivan",
   "kreirano": "2026-04-16T14:02:34.640Z",
-  "azurirano": "2026-04-17T06:46:35.675Z",
+  "azurirano": "2026-04-17T06:46:39.835Z",
   "dokumenti": [
     {
       "naziv": "MSI 2415-101",
@@ -412,7 +412,7 @@
           "naziv": "Apple iPhone 17 Pro Max TechWoven Case with MagSafe - Blue",
           "barkod": "195950663839",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Laptop Apple Macbook Air Midnight, mdhe4cr/a, /M5/16GB/512GB-CRO",
@@ -568,7 +568,7 @@
           "naziv": "Apple iPhone 17 Pro Silicone Case with MagSafe - Bright Guava",
           "barkod": "195951037110",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
