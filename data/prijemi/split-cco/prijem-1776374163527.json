@@ -5,7 +5,7 @@
   "datum": "2026-04-16",
   "status": "aktivan",
   "kreirano": "2026-04-16T21:16:03.527Z",
-  "azurirano": "2026-04-17T11:46:28.062Z",
+  "azurirano": "2026-04-17T11:46:34.669Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -139,7 +139,7 @@
           "naziv": "Gopro HERO",
           "barkod": "810116381869",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Gopro Hero 13 Accessory Bundle",
@@ -163,7 +163,7 @@
           "naziv": "GoPro pribor Enduro Battery (Hero 9/10/11/12)",
           "barkod": "818279027969",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "GoPro pribor Helmet Front and Side Mount",
@@ -175,13 +175,13 @@
           "naziv": "Nosac GoPro Head Strap 2.0 ACHOM-002-VN",
           "barkod": "0810116383849",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Punjac GoPro Dual Battery Charger+Enduro (Hero 9/10/11/12) ADDBD-211-VE",
           "barkod": "810116382361",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
