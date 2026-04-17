@@ -5,7 +5,7 @@
   "datum": "2026-04-17",
   "status": "aktivan",
   "kreirano": "2026-04-17T12:10:33.165Z",
-  "azurirano": "2026-04-17T12:16:24.116Z",
+  "azurirano": "2026-04-17T12:16:28.333Z",
   "dokumenti": [
     {
       "naziv": "MSI 2464-101",
@@ -553,13 +553,13 @@
           "naziv": "Sat Samsung Galaxy Watch8 Classic 46mm crni",
           "barkod": "8806097415527",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Sat Samsung Galaxy Watch8 Classic 46mm bijeli",
           "barkod": "8806097415459",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
