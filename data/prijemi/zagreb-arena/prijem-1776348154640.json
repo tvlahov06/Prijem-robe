@@ -5,7 +5,7 @@
   "datum": "2026-04-16",
   "status": "aktivan",
   "kreirano": "2026-04-16T14:02:34.640Z",
-  "azurirano": "2026-04-17T06:45:08.672Z",
+  "azurirano": "2026-04-17T06:45:29.690Z",
   "dokumenti": [
     {
       "naziv": "MSI 2415-101",
@@ -579,13 +579,13 @@
           "naziv": "Rucni usisavac Electrolux EP72UB21SW",
           "barkod": "7333394097381",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Rucni usisavac Electrolux EP72AB21UG",
           "barkod": "7333394087788",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     }
