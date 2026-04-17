@@ -5,7 +5,7 @@
   "datum": "2026-04-17",
   "status": "aktivan",
   "kreirano": "2026-04-17T12:10:33.165Z",
-  "azurirano": "2026-04-17T12:14:03.397Z",
+  "azurirano": "2026-04-17T12:14:23.203Z",
   "dokumenti": [
     {
       "naziv": "MSI 2464-101",
@@ -605,7 +605,7 @@
           "naziv": "IPL depilator Philips BRI977/00 Lumea",
           "barkod": "8720689005944",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Braun PL5152",
@@ -653,7 +653,7 @@
           "naziv": "IPL depilator Philips SC1998/00 Lumea",
           "barkod": "8720689016995",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epilator Philips BRE748/00",
