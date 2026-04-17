@@ -5,7 +5,7 @@
   "datum": "2026-04-17",
   "status": "aktivan",
   "kreirano": "2026-04-17T12:10:33.165Z",
-  "azurirano": "2026-04-17T12:26:19.319Z",
+  "azurirano": "2026-04-17T12:26:24.203Z",
   "dokumenti": [
     {
       "naziv": "MSI 2464-101",
@@ -683,7 +683,7 @@
           "naziv": "Susilo za kosu Philips BHD829/00 SenseIQ",
           "barkod": "8720689000178",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mini trimer za tijelo Braun BS1000 unisex",
@@ -707,7 +707,7 @@
           "naziv": "Stilizator za kosu Babyliss Air Wand AS6555E Limited edition",
           "barkod": "3030050197273",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
