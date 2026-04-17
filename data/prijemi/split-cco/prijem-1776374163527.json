@@ -5,7 +5,7 @@
   "datum": "2026-04-16",
   "status": "aktivan",
   "kreirano": "2026-04-16T21:16:03.527Z",
-  "azurirano": "2026-04-17T11:46:34.669Z",
+  "azurirano": "2026-04-17T11:46:43.535Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -85,13 +85,13 @@
           "naziv": "Dron DJI Mini 3 Fly More Combo (DJI RC)(EU)",
           "barkod": "6941565979667",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dron DJI MIni 4K",
           "barkod": "6941565980359",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dron DJI Neo",
@@ -103,13 +103,13 @@
           "naziv": "Dron DJI Neo 2 (samo dron)",
           "barkod": "6937224131767",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dron DJI Osmo Nano (128GB)",
           "barkod": "6937224115453",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Drzac GoPro Adventure Kit 3.0 (w/ Head Strap 2.0) AKTES-003-VN",
@@ -175,7 +175,7 @@
           "naziv": "Nosac GoPro Head Strap 2.0 ACHOM-002-VN",
           "barkod": "0810116383849",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Punjac GoPro Dual Battery Charger+Enduro (Hero 9/10/11/12) ADDBD-211-VE",
