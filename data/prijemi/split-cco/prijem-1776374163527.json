@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "Komisija u dolasku",
   "datum": "2026-04-16",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-04-16T21:16:03.527Z",
-  "azurirano": "2026-04-17T12:35:11.792Z",
+  "azurirano": "2026-04-17T12:35:14.254Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -72,5 +72,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-04-17T12:35:14.254Z"
 }
