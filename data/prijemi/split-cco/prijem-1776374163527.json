@@ -5,7 +5,7 @@
   "datum": "2026-04-16",
   "status": "aktivan",
   "kreirano": "2026-04-16T21:16:03.527Z",
-  "azurirano": "2026-04-17T11:47:38.275Z",
+  "azurirano": "2026-04-17T12:35:11.792Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -69,119 +69,6 @@
           "barkod": "8713439241358",
           "ocekivano": 3,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "Spinnaker",
-      "stavke": [
-        {
-          "naziv": "DJI Mini 5 Pro Fly More Combo (DJI RC2)",
-          "barkod": "6937224123212",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Dron DJI Mini 3 Fly More Combo (DJI RC)(EU)",
-          "barkod": "6941565979667",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dron DJI MIni 4K",
-          "barkod": "6941565980359",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dron DJI Neo",
-          "barkod": "6941565988362",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dron DJI Neo 2 (samo dron)",
-          "barkod": "6937224131767",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Dron DJI Osmo Nano (128GB)",
-          "barkod": "6937224115453",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Drzac GoPro Adventure Kit 3.0 (w/ Head Strap 2.0) AKTES-003-VN",
-          "barkod": "0810116383900",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Gimbal DJI Osmo Mobile 7",
-          "barkod": "6941565997586",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Gimbal stabilizator za mobitele DJI Osmo Mobile 8",
-          "barkod": "6937224126817",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "GoPro Chesty (Performance Chest Mount) AGCHM-001-VN",
-          "barkod": "0810116383832",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Gopro HERO",
-          "barkod": "810116381869",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Gopro Hero 13 Accessory Bundle",
-          "barkod": "810116381630",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "GoPro Hero13 Black Extended Power Bundle",
-          "barkod": "0810116383931",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "GoPro LIT HERO Black",
-          "barkod": "810116384136",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "GoPro pribor Enduro Battery (Hero 9/10/11/12)",
-          "barkod": "818279027969",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "GoPro pribor Helmet Front and Side Mount",
-          "barkod": "818279017441",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Nosac GoPro Head Strap 2.0 ACHOM-002-VN",
-          "barkod": "0810116383849",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Punjac GoPro Dual Battery Charger+Enduro (Hero 9/10/11/12) ADDBD-211-VE",
-          "barkod": "810116382361",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     }
