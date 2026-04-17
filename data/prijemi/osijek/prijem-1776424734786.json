@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "",
   "datum": "2026-04-17",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-04-17T11:18:54.786Z",
-  "azurirano": "2026-04-17T11:33:50.528Z",
+  "azurirano": "2026-04-17T11:34:31.162Z",
   "dokumenti": [
     {
       "naziv": "spinaker1",
@@ -179,5 +179,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-04-17T11:34:31.162Z"
 }
