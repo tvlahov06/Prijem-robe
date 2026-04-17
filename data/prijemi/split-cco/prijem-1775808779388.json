@@ -5,7 +5,7 @@
   "datum": "2026-04-16",
   "status": "aktivan",
   "kreirano": "2026-04-16T06:55:09.557Z",
-  "azurirano": "2026-04-17T06:08:49.657Z",
+  "azurirano": "2026-04-17T06:16:58.327Z",
   "dokumenti": [
     {
       "naziv": "MSI 2432-101",
@@ -14,43 +14,43 @@
           "naziv": "PRO TV HISENSE 43E7QPRO, 109.2cm (43\"), QLED, 4K UHD 144Hz, Smart TV, VIDAA OS",
           "barkod": "6942351424330",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 58E7Q, 147.3cm (58\"), QLED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351418810",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 55E77Q, 139.7cm (55\"), QLED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351418711",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 32A5Q, 81.3cm (32\"), QLED, FHD Smart TV, VIDAA OS",
           "barkod": "6942351418179",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG OLED55C51LA 139.7cm (55\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096381885",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG OLED42C51LA 106.7cm (42\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096368763",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 55PUS9010, 139.7cm (55\"), QLED, UHD 4K 144Hz, Smart TV, Titan OS",
           "barkod": "8718863046340",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -96,7 +96,7 @@
           "naziv": "Powerbank Samsung Magnetic 5.000 mAh sivi",
           "barkod": "8806097918448",
           "ocekivano": 10,
-          "skenirano": 9
+          "skenirano": 10
         },
         {
           "naziv": "Punjac Samsung T4511 45W Fast Charge USB-C crni bez kabla",
