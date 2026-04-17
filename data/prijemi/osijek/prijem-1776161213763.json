@@ -5,7 +5,7 @@
   "datum": "2026-04-14",
   "status": "aktivan",
   "kreirano": "2026-04-14T10:06:53.763Z",
-  "azurirano": "2026-04-17T08:27:16.993Z",
+  "azurirano": "2026-04-17T08:27:20.232Z",
   "dokumenti": [
     {
       "naziv": "MSI 2289-101",
@@ -378,17 +378,6 @@
         {
           "naziv": "Kuhinjski asistent Kenwood KMX754APP pastelno rozi",
           "barkod": "5011423007458",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2313-101",
-      "stavke": [
-        {
-          "naziv": "Susilica rublja Hisense DH3S802BW2",
-          "barkod": "6901101829634",
           "ocekivano": 1,
           "skenirano": 1
         }
