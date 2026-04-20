@@ -63,11 +63,23 @@ var GitHubStorage = {
 
   _getOwner: function() {
     if (this._owner) return Promise.resolve(this._owner);
+    if (this._token) {
+      var self = this;
+      return this._request("GET", "user").then(function(data) {
+        self._owner = data.login;
+        localStorage.setItem("github_owner", data.login);
+        return data.login;
+      });
+    }
+    // Via proxy - detect owner
     var self = this;
     return this._request("GET", "user").then(function(data) {
-      self._owner = data.login;
-      localStorage.setItem("github_owner", data.login);
-      return data.login;
+      if (data && data.login) {
+        self._owner = data.login;
+        localStorage.setItem("github_owner", data.login);
+        return data.login;
+      }
+      throw new Error("Cannot detect owner");
     });
   },
 
