@@ -5,7 +5,7 @@
   "datum": "2026-04-20",
   "status": "aktivan",
   "kreirano": "2026-04-20T18:56:50.773Z",
-  "azurirano": "2026-04-20T19:06:48.983Z",
+  "azurirano": "2026-04-20T19:06:58.236Z",
   "dokumenti": [
     {
       "naziv": "MSI 2477-101",
@@ -168,7 +168,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
           "barkod": "740617326260",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta HP 305XL Cartridge Ink 3YM62AE, Boja Black - Instant Ink",
@@ -186,7 +186,7 @@
           "naziv": "Tinta HP 650 CZ101AE Black Ink Cartridge",
           "barkod": "886112545987",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta Epson 103 za L11xx/L12xx/L31xx/L32xx/L51xx/L52xx, 65ml",
@@ -246,7 +246,7 @@
           "naziv": "SanDisk USB SDCZ74-032G-G46 Ultra Luxe USB 3.1 Flash G46 Drive 32GB",
           "barkod": "619659172510",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica ADATA microSDHC, Class10, 10A1-RA1 100/20MBs, 32GB",
