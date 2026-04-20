@@ -5,7 +5,7 @@
   "datum": "2026-04-20",
   "status": "aktivan",
   "kreirano": "2026-04-20T18:56:50.773Z",
-  "azurirano": "2026-04-20T19:07:07.511Z",
+  "azurirano": "2026-04-20T19:07:19.571Z",
   "dokumenti": [
     {
       "naziv": "MSI 2477-101",
@@ -228,7 +228,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 6,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Tinta HP 304 Tri-color Ink Cartridge, N9K05AE - Instant Ink",
@@ -246,13 +246,13 @@
           "naziv": "SanDisk USB SDCZ74-032G-G46 Ultra Luxe USB 3.1 Flash G46 Drive 32GB",
           "barkod": "619659172510",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Memorijska kartica ADATA microSDHC, Class10, 10A1-RA1 100/20MBs, 32GB",
           "barkod": "4713218461926",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
@@ -300,7 +300,7 @@
           "naziv": "Tinta HP GT52 M0H55AE, Magenta",
           "barkod": "190780132531",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta HP GT52 M0H56AE, Yellow",
