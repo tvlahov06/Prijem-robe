@@ -5,7 +5,7 @@
   "datum": "2026-04-21",
   "status": "aktivan",
   "kreirano": "2026-04-21T10:42:39.554Z",
-  "azurirano": "2026-04-21T10:46:13.537Z",
+  "azurirano": "2026-04-21T10:46:22.458Z",
   "dokumenti": [
     {
       "naziv": "MSI 2489-101",
@@ -38,7 +38,7 @@
           "naziv": "Parna postaja Philips PSG8200/70",
           "barkod": "8720389066511",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Philips HR3020/20",
@@ -170,7 +170,7 @@
           "naziv": "Pekac kruha Tefal PF611838",
           "barkod": "3045385782988",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Toster grill Tefal GC728D10 rostilj OptiGrill + XL Tefal hvataljke",
