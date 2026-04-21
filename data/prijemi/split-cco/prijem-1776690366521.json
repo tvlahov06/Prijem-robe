@@ -5,7 +5,7 @@
   "datum": "2026-04-20",
   "status": "aktivan",
   "kreirano": "2026-04-20T13:06:06.521Z",
-  "azurirano": "2026-04-21T05:42:12.260Z",
+  "azurirano": "2026-04-21T05:42:26.477Z",
   "dokumenti": [
     {
       "naziv": "MSI 2515-101",
@@ -38,7 +38,7 @@
           "naziv": "Toster Russell Hobbs 26760-56 Bronte Black",
           "barkod": "5038061169430",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP3347/90 espresso",
@@ -128,7 +128,7 @@
           "naziv": "Toster grill Gorenje GCG2000M",
           "barkod": "3838782867712",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Philips PSG7200/20",
@@ -182,7 +182,7 @@
           "naziv": "Mikser rucni Russell Hobbs 27151-56 Matte Charcoal",
           "barkod": "5038061162981",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECAM 450.86.T Eletta Explore",
@@ -212,7 +212,7 @@
           "naziv": "Citruseta Philips HR2738/00",
           "barkod": "8710103641315",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Braun MQ10.001MWH Multiquick 1",
