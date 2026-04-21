@@ -5,7 +5,7 @@
   "datum": "2026-04-21",
   "status": "aktivan",
   "kreirano": "2026-04-21T06:08:34.698Z",
-  "azurirano": "2026-04-21T07:42:43.494Z",
+  "azurirano": "2026-04-21T07:43:26.359Z",
   "dokumenti": [
     {
       "naziv": "MSI 2484-101",
@@ -122,7 +122,7 @@
           "naziv": "Parna postaja Tefal GV9221E0",
           "barkod": "3121040077238",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Tefal GC272D10",
@@ -140,7 +140,7 @@
           "naziv": "Parna postaja Tefal SV8130E0",
           "barkod": "3121040086193",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pekac kruha Tefal PF240E38",
@@ -164,7 +164,7 @@
           "naziv": "Parna postaja Tefal SV6140E0",
           "barkod": "3121040079096",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Philips PSG8200/70",
