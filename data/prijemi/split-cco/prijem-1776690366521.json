@@ -5,7 +5,7 @@
   "datum": "2026-04-20",
   "status": "aktivan",
   "kreirano": "2026-04-20T13:06:06.521Z",
-  "azurirano": "2026-04-21T05:50:00.537Z",
+  "azurirano": "2026-04-21T05:50:05.049Z",
   "dokumenti": [
     {
       "naziv": "MSI 2515-101",
@@ -265,7 +265,7 @@
           "naziv": "Eksterni disk ADATA Ex HDD HV300, 1TB, usb3.0, bijeli -CWH",
           "barkod": "4713218464989",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "D-Link USB-C HUB, DUBM810, 8-in-1 USB-C Hub",
