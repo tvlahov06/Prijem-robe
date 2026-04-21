@@ -5,7 +5,7 @@
   "datum": "2026-04-20",
   "status": "aktivan",
   "kreirano": "2026-04-20T13:06:06.521Z",
-  "azurirano": "2026-04-21T05:48:39.451Z",
+  "azurirano": "2026-04-21T05:48:42.448Z",
   "dokumenti": [
     {
       "naziv": "MSI 2515-101",
@@ -367,7 +367,7 @@
           "naziv": "Tinta HP GT53XL 1VV21AE, Black",
           "barkod": "192545270656",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP USB-C G5 Essential Dock, 9X3V1UT",
