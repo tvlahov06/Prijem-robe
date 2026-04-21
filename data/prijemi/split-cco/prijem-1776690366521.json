@@ -5,7 +5,7 @@
   "datum": "2026-04-20",
   "status": "aktivan",
   "kreirano": "2026-04-20T13:06:06.521Z",
-  "azurirano": "2026-04-21T06:01:35.416Z",
+  "azurirano": "2026-04-21T06:01:49.428Z",
   "dokumenti": [
     {
       "naziv": "MSI 2515-101",
@@ -478,7 +478,7 @@
           "naziv": "Aparat za kavu Krups KP243B10 Genio S anthracite PF",
           "barkod": "3045380024335",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za dubinsko ciscenje Rowenta IN3020F0",
@@ -586,7 +586,7 @@
           "naziv": "Mikser stapni Philips HR2685/00",
           "barkod": "8720389033933",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mikser stapni Tefal HB533138",
@@ -604,7 +604,7 @@
           "naziv": "Parna postaja Tefal GV9221E0",
           "barkod": "3121040077238",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Philips HR3781/20 crni 500W, 3u1",
@@ -616,7 +616,7 @@
           "naziv": "Parna postaja Tefal SV8130E0",
           "barkod": "3121040086193",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pekac kruha Tefal PF240E38",
@@ -628,7 +628,7 @@
           "naziv": "Toster grill Tefal GC270D10",
           "barkod": "3045380026377",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vrecice za usisavac Philips FC8022/04 sinteticke, S-BAG, 4kom, antialergijska filtracija",
