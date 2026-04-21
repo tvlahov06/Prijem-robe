@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "",
   "datum": "2026-04-20",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-04-20T13:06:06.521Z",
-  "azurirano": "2026-04-21T06:08:42.812Z",
+  "azurirano": "2026-04-21T06:09:19.894Z",
   "dokumenti": [
     {
       "naziv": "MSI 2515-101",
@@ -508,7 +508,7 @@
           "naziv": "Toster preklopni Gorenje SM701SB",
           "barkod": "3838782767197",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
@@ -805,5 +805,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-04-21T06:09:19.860Z"
 }
