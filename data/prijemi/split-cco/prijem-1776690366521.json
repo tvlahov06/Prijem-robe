@@ -5,7 +5,7 @@
   "datum": "2026-04-20",
   "status": "aktivan",
   "kreirano": "2026-04-20T13:06:06.521Z",
-  "azurirano": "2026-04-21T05:54:54.403Z",
+  "azurirano": "2026-04-21T05:54:57.041Z",
   "dokumenti": [
     {
       "naziv": "MSI 2515-101",
@@ -176,7 +176,7 @@
           "naziv": "Usisavac Philips XB2122/09",
           "barkod": "8710103925279",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Russell Hobbs 27151-56 Matte Charcoal",
