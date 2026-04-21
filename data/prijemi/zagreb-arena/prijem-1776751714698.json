@@ -5,7 +5,7 @@
   "datum": "2026-04-21",
   "status": "aktivan",
   "kreirano": "2026-04-21T06:08:34.698Z",
-  "azurirano": "2026-04-21T07:07:21.355Z",
+  "azurirano": "2026-04-21T07:07:23.884Z",
   "dokumenti": [
     {
       "naziv": "MSI 2484-101",
@@ -301,7 +301,7 @@
           "naziv": "Usisavac Rowenta RO3985EA",
           "barkod": "3221614001154",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BBS1041GQC Unlimited 10, grafit",
