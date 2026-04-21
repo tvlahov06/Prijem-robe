@@ -5,7 +5,7 @@
   "datum": "2026-04-21",
   "status": "aktivan",
   "kreirano": "2026-04-21T10:20:04.329Z",
-  "azurirano": "2026-04-21T10:27:17.379Z",
+  "azurirano": "2026-04-21T10:27:26.482Z",
   "dokumenti": [
     {
       "naziv": "MSI 2512-101",
@@ -257,7 +257,7 @@
           "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5021F0",
           "barkod": "3121040095003",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC500 dekalcifikator",
@@ -359,7 +359,7 @@
           "naziv": "Usisavac Philips XD8152/12",
           "barkod": "8720389037955",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac stapni Gorenje SVC216GFW",
