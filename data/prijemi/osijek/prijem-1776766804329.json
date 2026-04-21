@@ -5,7 +5,7 @@
   "datum": "2026-04-21",
   "status": "aktivan",
   "kreirano": "2026-04-21T10:20:04.329Z",
-  "azurirano": "2026-04-21T10:25:44.193Z",
+  "azurirano": "2026-04-21T10:25:47.420Z",
   "dokumenti": [
     {
       "naziv": "MSI 2512-101",
@@ -305,7 +305,7 @@
           "naziv": "Osvjezivac odjece Philips STH5020/40",
           "barkod": "8720389050084",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP4449/70 espresso",
