@@ -5,7 +5,7 @@
   "datum": "2026-04-21",
   "status": "aktivan",
   "kreirano": "2026-04-21T06:08:34.698Z",
-  "azurirano": "2026-04-21T07:37:16.348Z",
+  "azurirano": "2026-04-21T07:37:42.388Z",
   "dokumenti": [
     {
       "naziv": "MSI 2484-101",
@@ -98,7 +98,7 @@
           "naziv": "Kuhalo za vodu Philips HD9411/00",
           "barkod": "8720389041259",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Philips HR2685/00",
@@ -152,7 +152,7 @@
           "naziv": "Toster Philips HD2510/90",
           "barkod": "8720389031540",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vrecice za usisavac Philips FC8022/04 sinteticke, S-BAG, 4kom, antialergijska filtracija",
