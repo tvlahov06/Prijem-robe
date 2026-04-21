@@ -5,7 +5,7 @@
   "datum": "2026-04-20",
   "status": "aktivan",
   "kreirano": "2026-04-20T13:06:06.521Z",
-  "azurirano": "2026-04-21T05:54:48.928Z",
+  "azurirano": "2026-04-21T05:54:51.981Z",
   "dokumenti": [
     {
       "naziv": "MSI 2515-101",
@@ -146,7 +146,7 @@
           "naziv": "Usisavac Philips XD6142/12",
           "barkod": "8720389038303",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pekac kruha Tefal PF611838",
