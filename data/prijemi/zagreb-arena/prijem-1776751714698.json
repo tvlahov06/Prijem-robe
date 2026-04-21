@@ -5,7 +5,7 @@
   "datum": "2026-04-21",
   "status": "aktivan",
   "kreirano": "2026-04-21T06:08:34.698Z",
-  "azurirano": "2026-04-21T07:10:01.953Z",
+  "azurirano": "2026-04-21T07:10:36.751Z",
   "dokumenti": [
     {
       "naziv": "MSI 2484-101",
@@ -181,7 +181,7 @@
           "naziv": "Parna postaja Tefal SV8151E0",
           "barkod": "3121040086414",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9331/09",
@@ -193,7 +193,7 @@
           "naziv": "Usisavac Rowenta RH2098WO X-Force Flex 9.60 Complete*",
           "barkod": "3221616135260",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za izradu tjestenine Philips HR2665/96",
@@ -247,7 +247,7 @@
           "naziv": "Usisavac Rowenta RO3721EA",
           "barkod": "3221616129719",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pekac kruha Tefal PF610138",
