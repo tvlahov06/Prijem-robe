@@ -5,7 +5,7 @@
   "datum": "2026-04-20",
   "status": "aktivan",
   "kreirano": "2026-04-20T13:06:06.521Z",
-  "azurirano": "2026-04-21T05:50:11.393Z",
+  "azurirano": "2026-04-21T05:50:25.587Z",
   "dokumenti": [
     {
       "naziv": "MSI 2515-101",
@@ -50,7 +50,7 @@
           "naziv": "Blender Philips HR3020/20",
           "barkod": "8720389032615",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/20",
