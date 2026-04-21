@@ -5,7 +5,7 @@
   "datum": "2026-04-21",
   "status": "aktivan",
   "kreirano": "2026-04-21T10:20:04.329Z",
-  "azurirano": "2026-04-21T11:42:47.509Z",
+  "azurirano": "2026-04-21T11:42:54.025Z",
   "dokumenti": [
     {
       "naziv": "MSI 2512-101",
@@ -44,7 +44,7 @@
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
           "barkod": "4897098683446",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "SBOX K-33 HR | Zicna tipkovnica",
@@ -74,7 +74,7 @@
           "naziv": "SanDisk USB Stick SDCZ430-128G-G46 SanDisk Ultra Fit -G46 USB 3.1 128GB",
           "barkod": "619659163761",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
