@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "Test",
   "datum": "2026-04-22",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-04-22T15:40:27.127Z",
-  "azurirano": "2026-04-22T15:41:07.389Z",
+  "azurirano": "2026-04-22T15:41:15.413Z",
   "dokumenti": [
     {
       "naziv": "Sasmung mobiteli",
@@ -288,5 +288,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-04-22T15:41:15.413Z"
 }
