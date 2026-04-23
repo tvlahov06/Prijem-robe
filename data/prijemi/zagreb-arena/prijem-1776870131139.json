@@ -5,7 +5,7 @@
   "datum": "2026-04-22",
   "status": "aktivan",
   "kreirano": "2026-04-22T15:25:18.592Z",
-  "azurirano": "2026-04-23T11:51:36.339Z",
+  "azurirano": "2026-04-23T11:54:28.176Z",
   "dokumenti": [
     {
       "naziv": "MSI 2597-101",
@@ -272,131 +272,6 @@
           "barkod": "8006447003965",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2634-101",
-      "stavke": [
-        {
-          "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
-          "barkod": "8004399329485",
-          "ocekivano": 7,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Filter za vodu za aparat za kavu DeLonghi DLSC002",
-          "barkod": "8004399327252",
-          "ocekivano": 7,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Vrecice za usisavac Philips FC8021/03 sinteticke, S-BAG, 4kom",
-          "barkod": "8710103291381",
-          "ocekivano": 7,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
-          "barkod": "8720389023026",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za dubinsko ciscenje Rowenta IN3020F0",
-          "barkod": "3121040095812",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC500 dekalcifikator",
-          "barkod": "8004399329492",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
-          "barkod": "8720389032998",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Kava LAVAZZA zrno Crema E Gusto Classico 1kg",
-          "barkod": "8000070051003",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
-          "barkod": "8720389040733",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Parna postaja Philips PSG7200/30",
-          "barkod": "8720389065187",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Parna postaja Philips PSG8050/30",
-          "barkod": "8720389001086",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Philips FC9330/09",
-          "barkod": "8720389036088",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Philips XC3133/01",
-          "barkod": "8720389029868",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Toster preklopni Gorenje SM701SB",
-          "barkod": "3838782767197",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Friteza na vruci zrak Philips NA231/00 Airfryer",
-          "barkod": "8720389035074",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Aparat za kavu Philips oprema CA6700/91 dekalcifikator za uklanjanje kamenca",
-          "barkod": "8720389000416",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Aparat za kavu Philips oprema CA6704/10 tablete za uklanjanje ulja od kave",
-          "barkod": "8720389000430",
-          "ocekivano": 6,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac robot iRobot Roomba Combo 105 Smoke O-105-SMOKE",
-          "barkod": "5061042264459",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Friteza na vruci zrak Philips NA552/00 Airfryer Dual Basket, para",
-          "barkod": "8720389049286",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za uklanjanje vlakana Philips GC026/80 Black",
-          "barkod": "8720389024962",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     },
