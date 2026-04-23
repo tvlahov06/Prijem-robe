@@ -5,7 +5,7 @@
   "datum": "2026-04-22",
   "status": "aktivan",
   "kreirano": "2026-04-22T15:25:18.592Z",
-  "azurirano": "2026-04-23T07:05:31.132Z",
+  "azurirano": "2026-04-23T07:05:40.842Z",
   "dokumenti": [
     {
       "naziv": "MSI 2597-101",
@@ -1533,7 +1533,7 @@
           "naziv": "Pametni sat Huawei Watch GT 5 41mm Blue (Jana-B19FC)",
           "barkod": "6942103131998",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch Fit 3 crni (Solo-B09S)",
@@ -1551,13 +1551,13 @@
           "naziv": "Pametni sat Huawei Watch GT 5 41mm White Leather Strap (Jana-B19L)",
           "barkod": "6942103131967",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch Fit 4 crni (Seiya-B19F)",
           "barkod": "6942103155000",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
