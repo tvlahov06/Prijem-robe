@@ -5,7 +5,7 @@
   "datum": "2026-04-22",
   "status": "aktivan",
   "kreirano": "2026-04-22T15:25:18.592Z",
-  "azurirano": "2026-04-23T07:35:08.862Z",
+  "azurirano": "2026-04-23T10:40:55.363Z",
   "dokumenti": [
     {
       "naziv": "MSI 2597-101",
@@ -128,19 +128,19 @@
           "naziv": "HP DeskJet 2921 All-in-One Color Printer 7.5/5.5 ppm",
           "barkod": "0198828789822",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Printer HP DeskJet 4310 All-in-One - Instant Ink",
           "barkod": "198828789730",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP DeskJet 4320 All-in-One - Instant Ink",
           "barkod": "198701680277",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet M140w MFP",
