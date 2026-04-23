@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T04:36:54.933Z",
-  "azurirano": "2026-04-23T06:49:00.835Z",
+  "azurirano": "2026-04-23T06:49:10.297Z",
   "dokumenti": [
     {
       "naziv": "MSI 2657-101",
@@ -549,13 +549,13 @@
           "naziv": "TV SAMSUNG QE50QN90FATXXH, 127.0cm (50\"), QLED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806095995816",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE48S90FAEXXH, 121.9cm (48\"), OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097079422",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
