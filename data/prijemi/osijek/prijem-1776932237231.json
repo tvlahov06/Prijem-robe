@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T08:17:17.231Z",
-  "azurirano": "2026-04-23T11:10:41.842Z",
+  "azurirano": "2026-04-23T11:10:49.868Z",
   "dokumenti": [
     {
       "naziv": "MSI 2529-101",
@@ -366,7 +366,7 @@
           "naziv": "TV HISENSE 50E8Q, 127.0cm (50\"), ULED Mini LED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351423333",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 65E7Q, 165.1cm (65\"), QLED, 4K UHD Smart TV, VIDAA OS",
@@ -378,19 +378,19 @@
           "naziv": "TV HISENSE 43A6Q, 109.2cm (43\"), LED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351415628",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE43Q8FAAUXXH, 109.2cm (43\"), QLED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097120193",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG UE43U8072FUXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097067665",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE48S90FAEXXH, 121.9cm (48\"), OLED, 4K H UHD Smart TV, Tizen OS",
