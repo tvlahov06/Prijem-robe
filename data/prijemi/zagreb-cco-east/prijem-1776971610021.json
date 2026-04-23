@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T19:13:30.021Z",
-  "azurirano": "2026-04-23T19:42:53.479Z",
+  "azurirano": "2026-04-23T19:42:58.455Z",
   "dokumenti": [
     {
       "naziv": "MSI 2665-101",
@@ -1193,7 +1193,7 @@
           "naziv": "Printer HP DeskJet 2920 All-in-One Color Printer, 89F97B",
           "barkod": "198701680109",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "HP DeskJet 2923 All-in-One Color Printer 7.5/5.5 ppm",
@@ -1205,13 +1205,13 @@
           "naziv": "Printer HP Smart Tank 720 All-in-One",
           "barkod": "195908302995",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP OfficeJet Pro 8122e All-in-One Printer, 405U3B - Instant Ink",
           "barkod": "196337163881",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15, NX.DJWEX.001, 39.6cm (15.6\") IPS FHD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB",
