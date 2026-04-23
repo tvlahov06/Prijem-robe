@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T04:36:54.933Z",
-  "azurirano": "2026-04-23T07:51:14.539Z",
+  "azurirano": "2026-04-23T07:51:28.452Z",
   "dokumenti": [
     {
       "naziv": "MSI 2657-101",
@@ -312,29 +312,6 @@
           "barkod": "8720389061387",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2575-101",
-      "stavke": [
-        {
-          "naziv": "Aparat za kavu Nespresso CITIZ White D113-EUWHN2-S",
-          "barkod": "7640156779899",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
-          "barkod": "8606112020473",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Aparat za kavu Nespresso INISSIA Black D40-EUBKNE5-S",
-          "barkod": "8606112020367",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
