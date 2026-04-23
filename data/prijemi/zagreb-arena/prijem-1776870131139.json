@@ -5,7 +5,7 @@
   "datum": "2026-04-22",
   "status": "aktivan",
   "kreirano": "2026-04-22T15:25:18.592Z",
-  "azurirano": "2026-04-23T11:55:03.564Z",
+  "azurirano": "2026-04-23T11:55:19.373Z",
   "dokumenti": [
     {
       "naziv": "MSI 2597-101",
@@ -1307,17 +1307,6 @@
           "barkod": "8720389058707",
           "ocekivano": 5,
           "skenirano": 5
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2645-101",
-      "stavke": [
-        {
-          "naziv": "Laptop ACER Aspire Lite 15, NX.DMVEX.001, 39.6cm (15.6\") IPS FHD, AMD Ryzen 7 5825U, 32 GB RAM, 1 TB",
-          "barkod": "4711474830173",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     }
