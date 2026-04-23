@@ -1,0 +1,82 @@
+{
+  "id": "prijem-1776951988765",
+  "poslovnica": "split-cco",
+  "naziv": "Roba komisija",
+  "datum": "2026-04-23",
+  "status": "aktivan",
+  "kreirano": "2026-04-23T13:46:28.765Z",
+  "azurirano": "2026-04-23T13:46:28.765Z",
+  "dokumenti": [
+    {
+      "naziv": "Carrier",
+      "stavke": [
+        {
+          "naziv": "Jolly Line, univerzalni daljinski za Samsung TV, BN59-01330B, IR + BT",
+          "barkod": "8023389764860",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Unitronic, univerzalni daljinski upravljac za LG TV",
+          "barkod": "8023389779987",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Unitronic, univerzalni programabilni daljinski upravljac za 2 uredaja",
+          "barkod": "8023389739264",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Unitronic, univerzalni programabilni daljinski upravljac za 4 uredaja",
+          "barkod": "8023389739271",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vogel's MA3010 zidni stalak za ekrane od 32\"-65\" sa nagibom",
+          "barkod": "8712285331343",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vogel's TVM3405SP, zidni nosac za OLED ekrane od 32\"-77\", fiksni, do 50kg",
+          "barkod": "8712285360749",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vogel's TVM3603 zidni nosac za ekrane od 40\"-100\" fiksni do 75kg",
+          "barkod": "8712285350023",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vogel's TVM5705, ELITE zidni nosac za TV od 40\"-110\", fiksni, max 100kg",
+          "barkod": "8712285413629",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zidni stalak Vogel's MA3000 za ekrane od 32\"-55\"",
+          "barkod": "8712285331329",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zidni stalak Vogel's MA4000 za ekrane od 40\"-80\"",
+          "barkod": "8712285331404",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zidni stalak Vogel's MA4010 za ekrane od 40\"-65\" sa nagibom",
+          "barkod": "8712285331428",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
