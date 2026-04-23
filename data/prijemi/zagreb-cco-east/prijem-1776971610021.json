@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T19:13:30.021Z",
-  "azurirano": "2026-04-23T19:48:30.812Z",
+  "azurirano": "2026-04-23T19:48:42.417Z",
   "dokumenti": [
     {
       "naziv": "MSI 2665-101",
@@ -675,7 +675,7 @@
           "naziv": "Mis Logitech B100, zicani",
           "barkod": "5099206041271",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M171, crni",
@@ -729,7 +729,7 @@
           "naziv": "Mis logitech M500s, zicani",
           "barkod": "5099206088702",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M196, bijeli",
@@ -879,7 +879,7 @@
           "naziv": "Mis Logitech POP Universal, bijeli",
           "barkod": "5099206126398",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M650, crni",
