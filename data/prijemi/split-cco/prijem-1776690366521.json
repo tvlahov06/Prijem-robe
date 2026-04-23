@@ -5,7 +5,7 @@
   "datum": "2026-04-22",
   "status": "aktivan",
   "kreirano": "2026-04-22T13:22:53.976Z",
-  "azurirano": "2026-04-23T06:34:43.618Z",
+  "azurirano": "2026-04-23T06:34:51.324Z",
   "dokumenti": [
     {
       "naziv": "MSI 2528-101",
@@ -621,7 +621,7 @@
           "naziv": "HUAWEI MatePad 11,5\" 8GB/256GB Siva (Taoxingzhi-W09FK)",
           "barkod": "6942103165740",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 Pro 46mm Titanium (Vili-B29M)",
@@ -746,13 +746,13 @@
           "naziv": "Blender Nutribullet NBP003W Portable bijeli",
           "barkod": "8006447002098",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NBP003NBL Portable plavi",
           "barkod": "8006447002111",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907MASN 900W",
