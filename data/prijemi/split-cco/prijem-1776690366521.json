@@ -4,8 +4,8 @@
   "naziv": "Roba u dolasku",
   "datum": "2026-04-23",
   "status": "aktivan",
-  "kreirano": "2026-04-23T07:01:03.387Z",
-  "azurirano": "2026-04-23T07:01:19.513Z",
+  "kreirano": "2026-04-23T07:02:37.654Z",
+  "azurirano": "2026-04-23T07:02:37.654Z",
   "dokumenti": [
     {
       "naziv": "MSI 2528-101",
@@ -157,119 +157,6 @@
         {
           "naziv": "Web kamera Logitech BRIO 300 roza",
           "barkod": "5099206104952",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2584-101",
-      "stavke": [
-        {
-          "naziv": "Laptop ACER Aspire Lite 15, NX.DJWEX.001, 39.6cm (15.6\") IPS FHD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB",
-          "barkod": "4711474693945",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Laptop ACER Aspire Lite 15, NX.DLPEX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711474830203",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ00U1SC, 39.6cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB",
-          "barkod": "199272265351",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop HP 15-fc0277nm, CZ9C6EA, 39.6 cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD",
-          "barkod": "0199764771070",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop LENOVO ThinkBook 16 G7 ARP 21MW0087SC, cm (16\") IPS WUXGA, AMD Ryzen 7 7735HS, 32 GB",
-          "barkod": "198158576499",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ011PSC, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512",
-          "barkod": "199273478859",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Laptop ACER Aspire Go 15, NX.JW6EX.00J, 39.6cm (15.6\") IPS Full HD, Intel Core 7 150U, 16 GB RAM, 1 TB SSD, Intel",
-          "barkod": "4711474892423",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ACER Aspire Go 15, NX.JW6EX.00H, 39.6cm (15.6\") IPS Full HD, Intel Core 5 120U, 16 GB RAM, 1 TB SSD, Intel",
-          "barkod": "4711474892416",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ACER Nitro V 15, NH.QZAEX.009, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 9 270H, 16 GB RAM, 1 TB",
-          "barkod": "4711474900760",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop LENOVO IdeaPad Flex 5 82XX00HJSC, 35.6cm (14\") IPS Touch 60Hz, AMD Ryzen 7 5825U, 16 GB RAM, 512 GB",
-          "barkod": "198158565363",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS ProArt P16, H7606WP-RJ083X, 40.6cm (16\") B90 OLED 3K 120Hz Touch, AMD Ryzen AI 9 HX 370, 64 GB",
-          "barkod": "4711636237383",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop HP EliteBook 6 G1i 14, AD4G1ET, 35.6cm (14\") IPS WUXGA, Intel Core Ultra 7 255U, 16 GB RAM, 512 GB SSD,",
-          "barkod": "0199251827273",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Citrus, mhfe4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
-          "barkod": "195950852103",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Blush, mhfj4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
-          "barkod": "195950853988",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "MP243X MSI 23.8\" PRO Monitor MP243X, IPS Full HD, 100Hz, 1ms, Adaptive Sync, DisplayPort, HDMI, Zvucnici",
-          "barkod": "4711377035279",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "DELL 27\" Plus monitor S2725DC, IPS 2K/QHD, 144Hz, 4ms, AMD FreeSync, ComfortView Plus, DisplayPort, HDMI,",
-          "barkod": "5397184963005",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer HP LaserJet M140w MFP",
-          "barkod": "194850677267",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
-          "barkod": "194850664199",
           "ocekivano": 1,
           "skenirano": 1
         }
