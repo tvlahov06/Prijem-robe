@@ -5,7 +5,7 @@
   "datum": "2026-04-22",
   "status": "aktivan",
   "kreirano": "2026-04-22T15:25:18.592Z",
-  "azurirano": "2026-04-23T07:14:28.967Z",
+  "azurirano": "2026-04-23T07:15:35.089Z",
   "dokumenti": [
     {
       "naziv": "MSI 2597-101",
@@ -1683,7 +1683,7 @@
           "naziv": "Dron DJI Neo 2 (samo dron)",
           "barkod": "6937224131767",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dron DJI Neo Fly More Combo",
