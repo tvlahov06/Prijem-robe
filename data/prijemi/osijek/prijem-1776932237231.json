@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T08:17:17.231Z",
-  "azurirano": "2026-04-23T08:34:55.439Z",
+  "azurirano": "2026-04-23T08:36:54.764Z",
   "dokumenti": [
     {
       "naziv": "MSI 2529-101",
@@ -764,7 +764,7 @@
           "naziv": "Zastitna folija za Samsung Galaxy A37 5G prozirna",
           "barkod": "8806099052799",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
@@ -788,7 +788,7 @@
           "naziv": "Silikonska magnetna maska za Samsung Galaxy S26+ svijetlo plava",
           "barkod": "8806097934684",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM E tamno zeleni",
@@ -829,7 +829,7 @@
           "naziv": "Pametni sat Huawei Watch Fit 3 crni (Solo-B09S)",
           "barkod": "6942103118517",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Pametni sat Huawei Watch Fit 4 crni (Seiya-B19F)",
