@@ -4,8 +4,8 @@
   "naziv": "Roba u dolasku",
   "datum": "2026-04-23",
   "status": "aktivan",
-  "kreirano": "2026-04-23T09:57:10.490Z",
-  "azurirano": "2026-04-23T12:21:46.256Z",
+  "kreirano": "2026-04-23T13:29:46.216Z",
+  "azurirano": "2026-04-23T13:29:46.216Z",
   "dokumenti": [
     {
       "naziv": "MSI 2641-101",
@@ -216,6 +216,256 @@
           "naziv": "Aparat za kavu Philips oprema CA6708/20 Latte go sustav za mlijeko",
           "barkod": "8720389061387",
           "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2667-101",
+      "stavke": [
+        {
+          "naziv": "SBOX EB-TWS-101, bijela boja | True Wireless slusalice",
+          "barkod": "3858894502547",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds SE 3 Black (ULC-CT020)",
+          "barkod": "6942103140112",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Philips TAB4000 2.0 Bluetooth",
+          "barkod": "8718863700198",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 4 (USB-C)",
+          "barkod": "195949688591",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds 7i Black",
+          "barkod": "6942103164781",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX EB-TWS-05, bez boja | Bezicne slusalice",
+          "barkod": "3858894504602",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods Pro3 with MagSafe Case (USB-C)",
+          "barkod": "195950543742",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
+          "barkod": "8806097984795",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX EB-TWS-115, roza boja | True Wireless slusalice",
+          "barkod": "3858894502615",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vogel's TVM3223 zidni nosac za ekrane od 19\"-43\" nagib do 20° pomak 120° 15kg",
+          "barkod": "8712285349669",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "STALAK SBOX PLB-2546T-2 (37-80\"/45kg/600x400)",
+          "barkod": "3858894502967",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "B/G Bluetooth zvucnik WHITE SHARK GHATAM, GBT-3007, crna/siva",
+          "barkod": "3858894508754",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Panasonic",
+          "barkod": "5025232924578",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "STALAK SBOX PLB-1948 (43-100\"/75kg/800x600)",
+          "barkod": "3858894503148",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2650-101",
+      "stavke": [
+        {
+          "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5021F0",
+          "barkod": "3121040095003",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Filter za vodu za aparat za kavu DeLonghi DLSC002",
+          "barkod": "8004399327252",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vrecice za usisavac Philips FC8021/03 sinteticke, S-BAG, 4kom",
+          "barkod": "8710103291381",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
+          "barkod": "8720389023026",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za dubinsko ciscenje Rowenta IN3020F0",
+          "barkod": "3121040095812",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC500 dekalcifikator",
+          "barkod": "8004399329492",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP5549/70 espresso",
+          "barkod": "8720389032271",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
+          "barkod": "8720389032998",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kava LAVAZZA zrno Crema E Gusto Classico 1kg",
+          "barkod": "8000070051003",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
+          "barkod": "8720389040733",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP5547/90 espresso",
+          "barkod": "8720389032370",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Gorenje M500DCBK",
+          "barkod": "3838782541605",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST8040/30",
+          "barkod": "8720389004599",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG7200/30",
+          "barkod": "8720389065187",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8050/30",
+          "barkod": "8720389001086",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XC3133/01",
+          "barkod": "8720389029868",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster preklopni Gorenje SM701SB",
+          "barkod": "3838782767197",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Gorenje K15DWW",
+          "barkod": "3838782473739",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6704/10 tablete za uklanjanje ulja od kave",
+          "barkod": "8720389000430",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster Philips HD2330/90 preklopni",
+          "barkod": "8720389032806",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA552/00 Airfryer Dual Basket, para",
+          "barkod": "8720389049286",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips FC9729/09",
+          "barkod": "8710103810308",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Philips HD9396/90",
+          "barkod": "8720389031700",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8030/20",
+          "barkod": "8720389001024",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG7300/80",
+          "barkod": "8720389058332",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XD8152/12",
+          "barkod": "8720389037955",
+          "ocekivano": 1,
           "skenirano": 0
         }
       ]
