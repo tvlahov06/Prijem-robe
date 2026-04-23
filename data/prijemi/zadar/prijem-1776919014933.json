@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T04:36:54.933Z",
-  "azurirano": "2026-04-23T07:17:57.774Z",
+  "azurirano": "2026-04-23T07:18:32.487Z",
   "dokumenti": [
     {
       "naziv": "MSI 2657-101",
@@ -376,7 +376,7 @@
           "naziv": "Podloga za mis Logitech Desk Mat Studio, roza",
           "barkod": "5099206099517",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK470 Slim, bezicna, siva",
@@ -388,7 +388,7 @@
           "naziv": "Shifter Logitech Driving Force",
           "barkod": "5099206057661",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mis logitech M500s, zicani",
