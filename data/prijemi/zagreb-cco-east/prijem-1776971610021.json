@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T19:13:30.021Z",
-  "azurirano": "2026-04-23T19:21:52.656Z",
+  "azurirano": "2026-04-23T19:22:00.050Z",
   "dokumenti": [
     {
       "naziv": "MSI 2665-101",
@@ -2213,7 +2213,7 @@
           "naziv": "Usisavac Philips XC3133/01",
           "barkod": "8720389029868",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA231/00 Airfryer",
