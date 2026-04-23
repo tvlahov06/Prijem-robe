@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T19:13:30.021Z",
-  "azurirano": "2026-04-23T19:44:41.897Z",
+  "azurirano": "2026-04-23T19:45:13.660Z",
   "dokumenti": [
     {
       "naziv": "MSI 2665-101",
@@ -26,13 +26,13 @@
           "naziv": "TV SAMSUNG UE32H5002FKXXH, 81.3cm (32\"), LED, HD XH Smart TV, Tizen OS",
           "barkod": "8806095969893",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 43PUS8510, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
           "barkod": "8718863045770",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 50E8Q, 127.0cm (50\"), ULED Mini LED, 4K UHD Smart TV, VIDAA OS",
@@ -56,19 +56,19 @@
           "naziv": "TV SAMSUNG QE43Q8FAAUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097120193",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG UE43U8072FUXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097067665",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE48S90FAEXXH, 121.9cm (48\"), OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097079422",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
@@ -104,13 +104,13 @@
           "naziv": "TV SAMSUNG UE43U8092FUXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097068556",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 40PFS6000, 101.6cm (40\"), LED, FHD Smart TV, Titan OS",
           "barkod": "8718863045992",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -2290,7 +2290,7 @@
           "naziv": "PRO TV HISENSE 50E7QPRO, 127.0cm (50\"), QLED, 4K UHD 144Hz, Smart TV, VIDAA OS",
           "barkod": "6942351424248",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
