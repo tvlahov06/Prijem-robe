@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T19:13:30.021Z",
-  "azurirano": "2026-04-23T20:08:37.809Z",
+  "azurirano": "2026-04-23T20:08:48.705Z",
   "dokumenti": [
     {
       "naziv": "MSI 2665-101",
@@ -1407,7 +1407,7 @@
           "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
           "barkod": "8806097638551",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB crni",
@@ -1527,13 +1527,13 @@
           "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB 5G sivi",
           "barkod": "8806097638254",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Samsung SM-X730 Galaxy Tab S11 12GB/256GB WiFi sivi",
           "barkod": "8806097712268",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
