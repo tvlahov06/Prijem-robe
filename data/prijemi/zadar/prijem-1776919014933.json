@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T04:36:54.933Z",
-  "azurirano": "2026-04-23T07:21:37.550Z",
+  "azurirano": "2026-04-23T07:21:43.500Z",
   "dokumenti": [
     {
       "naziv": "MSI 2657-101",
@@ -816,7 +816,7 @@
           "naziv": "Usisavac Dyson V8 Car & Boat",
           "barkod": "5025155118696",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907CP 900W",
