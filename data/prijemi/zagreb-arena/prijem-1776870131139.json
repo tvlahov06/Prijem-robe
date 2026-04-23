@@ -5,7 +5,7 @@
   "datum": "2026-04-22",
   "status": "aktivan",
   "kreirano": "2026-04-22T15:25:18.592Z",
-  "azurirano": "2026-04-23T10:41:06.650Z",
+  "azurirano": "2026-04-23T10:41:14.372Z",
   "dokumenti": [
     {
       "naziv": "MSI 2597-101",
@@ -146,7 +146,7 @@
           "naziv": "Printer HP LaserJet M140w MFP",
           "barkod": "194850677267",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
