@@ -2,10 +2,10 @@
   "id": "prijem-1776690366521",
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
-  "datum": "2026-04-22",
+  "datum": "2026-04-23",
   "status": "aktivan",
-  "kreirano": "2026-04-22T13:22:53.976Z",
-  "azurirano": "2026-04-23T06:42:31.395Z",
+  "kreirano": "2026-04-23T06:51:53.023Z",
+  "azurirano": "2026-04-23T06:51:53.023Z",
   "dokumenti": [
     {
       "naziv": "MSI 2528-101",
@@ -1128,65 +1128,6 @@
           "barkod": "8720389070044",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2610-101",
-      "stavke": [
-        {
-          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 Ultra crna",
-          "barkod": "8806097887225",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sat Samsung Galaxy Watch8 Classic 46mm crni",
-          "barkod": "8806097415527",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Samsung SmartTag2 crni",
-          "barkod": "8806095039893",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Book Cover za Samsung Galaxy Tab S9 Smart",
-          "barkod": "8806095110493",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Book Cover s tipkovnicom za Samsung Galaxy Tab S11 crni",
-          "barkod": "8806097734956",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Tablet Samsung SM-X520 Galaxy Tab S10 FE 10,9\" 128 GB WiFi sivi",
-          "barkod": "8806097195733",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Flip7 5G 12GB/256GB crni",
-          "barkod": "8806097492139",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S25 FE 5G 8GB/128GB dual SIM crni",
-          "barkod": "8806097644699",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy A36 5G 6GB/128GB dual SIM lavanda ljubicasti",
-          "barkod": "8806095984414",
-          "ocekivano": 3,
-          "skenirano": 3
         }
       ]
     },
