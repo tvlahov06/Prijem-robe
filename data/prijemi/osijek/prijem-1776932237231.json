@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T08:17:17.231Z",
-  "azurirano": "2026-04-23T08:34:25.300Z",
+  "azurirano": "2026-04-23T08:34:38.287Z",
   "dokumenti": [
     {
       "naziv": "MSI 2529-101",
@@ -699,7 +699,7 @@
           "naziv": "Printer HP DeskJet 4310 All-in-One - Instant Ink",
           "barkod": "198828789730",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet M140w MFP",
