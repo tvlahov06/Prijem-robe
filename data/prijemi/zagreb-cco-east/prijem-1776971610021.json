@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T19:13:30.021Z",
-  "azurirano": "2026-04-23T20:02:49.272Z",
+  "azurirano": "2026-04-23T20:02:54.350Z",
   "dokumenti": [
     {
       "naziv": "MSI 2665-101",
@@ -1675,7 +1675,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
           "barkod": "195950627190",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 16e 128GB Black",
@@ -1693,7 +1693,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
           "barkod": "195950627596",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch Ultimate 2 Black 48.5mm (March-B19)",
