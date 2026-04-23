@@ -5,7 +5,7 @@
   "datum": "2026-04-22",
   "status": "aktivan",
   "kreirano": "2026-04-22T15:25:18.592Z",
-  "azurirano": "2026-04-23T11:54:28.176Z",
+  "azurirano": "2026-04-23T11:54:32.064Z",
   "dokumenti": [
     {
       "naziv": "MSI 2597-101",
@@ -272,23 +272,6 @@
           "barkod": "8006447003965",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2635-101",
-      "stavke": [
-        {
-          "naziv": "Kuhinjski asistent Ankarsrum AN-10-2300118 sjajno bijeli",
-          "barkod": "7350061085793",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Kuhinjski asistent Ankarsrum AN-10-2300127 rozi",
-          "barkod": "7350061089876",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     },
