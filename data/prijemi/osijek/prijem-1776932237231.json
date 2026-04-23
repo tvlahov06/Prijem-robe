@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T08:17:17.231Z",
-  "azurirano": "2026-04-23T08:31:25.045Z",
+  "azurirano": "2026-04-23T08:31:30.268Z",
   "dokumenti": [
     {
       "naziv": "MSI 2529-101",
@@ -758,7 +758,7 @@
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM svijetlo plavi",
           "barkod": "8806097651147",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitna folija za Samsung Galaxy A37 5G prozirna",
@@ -770,7 +770,7 @@
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
           "barkod": "8806097651000",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
