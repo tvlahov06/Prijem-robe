@@ -5,7 +5,7 @@
   "datum": "2026-04-22",
   "status": "aktivan",
   "kreirano": "2026-04-22T13:22:53.976Z",
-  "azurirano": "2026-04-23T05:47:05.123Z",
+  "azurirano": "2026-04-23T05:47:12.855Z",
   "dokumenti": [
     {
       "naziv": "MSI 2528-101",
@@ -793,13 +793,13 @@
           "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525934",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 55E8Q, 139.7cm (55\"), ULED MiniLED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351419862",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 50E8Q, 127.0cm (50\"), ULED Mini LED, 4K UHD Smart TV, VIDAA OS",
@@ -811,7 +811,7 @@
           "naziv": "TV HISENSE 65E7Q, 165.1cm (65\"), QLED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351418902",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 43A6Q, 109.2cm (43\"), LED, 4K UHD Smart TV, VIDAA OS",
@@ -913,7 +913,7 @@
           "naziv": "TV SONY K50S35B.CEI, 127cm (50\"), Direct LED, 4K UHD SMART TV, Android TV",
           "barkod": "4548736167995",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 65U7Q, 165.1cm (65\"), ULED Mini LED, 4K UHD Smart TV, VIDAA OS",
