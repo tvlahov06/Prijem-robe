@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T19:13:30.021Z",
-  "azurirano": "2026-04-23T19:47:30.455Z",
+  "azurirano": "2026-04-23T19:47:42.035Z",
   "dokumenti": [
     {
       "naziv": "MSI 2665-101",
@@ -849,13 +849,13 @@
           "naziv": "Mis Logitech G403 HERO, LIGHTSYNC RGB, zicani, crni",
           "barkod": "5099206083387",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech G502 X, LIGHTSPEED, bijeli",
           "barkod": "5099206096394",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech Lift Vertical Ergonomic , rozi",
