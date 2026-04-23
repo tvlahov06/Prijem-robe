@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
   "datum": "2026-04-23",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-04-23T09:57:10.490Z",
-  "azurirano": "2026-04-23T09:57:10.490Z",
+  "azurirano": "2026-04-23T12:04:38.858Z",
   "dokumenti": [
     {
       "naziv": "MSI 2641-101",
@@ -220,5 +220,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-04-23T12:04:38.858Z"
 }
