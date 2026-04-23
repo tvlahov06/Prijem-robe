@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T19:13:30.021Z",
-  "azurirano": "2026-04-23T19:38:40.129Z",
+  "azurirano": "2026-04-23T19:38:58.932Z",
   "dokumenti": [
     {
       "naziv": "MSI 2665-101",
@@ -1247,7 +1247,7 @@
           "naziv": "Laptop HP 15-fc0277nm, CZ9C6EA, 39.6 cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD",
           "barkod": "0199764771070",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO V15 G4, 82YY001DSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 7730U, 16 GB RAM, 512 GB SSD,",
@@ -1265,7 +1265,7 @@
           "naziv": "Laptop ACER Nitro V 15, NH.QV2EX.006, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 7 240H, 16 GB RAM, 1 TB",
           "barkod": "4711474444752",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Go 15, NX.JW6EX.00J, 39.6cm (15.6\") IPS Full HD, Intel Core 7 150U, 16 GB RAM, 1 TB SSD, Intel",
@@ -1289,7 +1289,7 @@
           "naziv": "Laptop LENOVO IdeaPad Flex 5 82XX00HJSC, 35.6cm (14\") IPS Touch 60Hz, AMD Ryzen 7 5825U, 16 GB RAM, 512 GB",
           "barkod": "198158565363",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO LOQ Essential 83JE014KSC, 39.6cm (15.6\") IPS FHD 144Hz, Intel Core i7-13650HX, 32 GB",
