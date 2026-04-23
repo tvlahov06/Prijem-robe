@@ -5,7 +5,7 @@
   "datum": "2026-04-22",
   "status": "aktivan",
   "kreirano": "2026-04-22T13:22:53.976Z",
-  "azurirano": "2026-04-23T05:49:16.571Z",
+  "azurirano": "2026-04-23T05:51:14.274Z",
   "dokumenti": [
     {
       "naziv": "MSI 2528-101",
@@ -877,19 +877,19 @@
           "naziv": "TV SAMSUNG QE55S85FAUXXH, 139.7cm (55\"), OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806095995205",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55Q8FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097120452",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097118565",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG UE43U8092FUXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
@@ -925,7 +925,7 @@
           "naziv": "TV HISENSE 55E7QPRO, 139.7cm (55\"), QLED, 4K UHD 144Hz, Smart TV, VIDAA OS",
           "barkod": "6942351416212",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "TV LG OLED65C51LA 165.1cm (65\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
