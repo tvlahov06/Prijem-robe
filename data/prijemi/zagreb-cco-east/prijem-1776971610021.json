@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T19:13:30.021Z",
-  "azurirano": "2026-04-23T19:50:11.401Z",
+  "azurirano": "2026-04-23T19:50:25.401Z",
   "dokumenti": [
     {
       "naziv": "MSI 2665-101",
@@ -807,7 +807,7 @@
           "naziv": "Mis Logitech G309 LIGHTSPEED, crni",
           "barkod": "5099206117860",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M196, rozi",
@@ -921,7 +921,7 @@
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, plavi",
           "barkod": "5099206089211",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis LOGITECH G502 X, zicani, bijeli",
