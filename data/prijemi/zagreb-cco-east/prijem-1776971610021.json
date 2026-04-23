@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T19:13:30.021Z",
-  "azurirano": "2026-04-23T19:54:02.506Z",
+  "azurirano": "2026-04-23T19:54:06.057Z",
   "dokumenti": [
     {
       "naziv": "MSI 2665-101",
@@ -789,7 +789,7 @@
           "naziv": "Mis Logitech M705 Marathon, srebrni",
           "barkod": "5099206023901",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M650 L, crni",
@@ -939,7 +939,7 @@
           "naziv": "Mis Logitech M330 Silent Plus, crni",
           "barkod": "5099206066670",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
