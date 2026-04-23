@@ -5,7 +5,7 @@
   "datum": "2026-04-22",
   "status": "aktivan",
   "kreirano": "2026-04-22T13:22:53.976Z",
-  "azurirano": "2026-04-23T06:29:13.071Z",
+  "azurirano": "2026-04-23T06:29:17.102Z",
   "dokumenti": [
     {
       "naziv": "MSI 2528-101",
@@ -32,7 +32,7 @@
           "naziv": "Web kamera Logitech C270 HD",
           "barkod": "5099206064201",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK470 Slim, bezicna, siva",
@@ -128,7 +128,7 @@
           "naziv": "Mis Logitech M650, rozi",
           "barkod": "5099206097230",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Logitech bezicni prezenter R400",
