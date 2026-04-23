@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T04:36:54.933Z",
-  "azurirano": "2026-04-23T07:19:33.701Z",
+  "azurirano": "2026-04-23T07:19:44.435Z",
   "dokumenti": [
     {
       "naziv": "MSI 2657-101",
@@ -406,7 +406,7 @@
           "naziv": "Tipkovnica + mis Logitech MK270, bezicna, crna",
           "barkod": "5099206039384",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Web kamera Logitech BRIO 500 bijela",
@@ -430,7 +430,7 @@
           "naziv": "Tipkovnica + mis Logitech MK120, zicana, crna",
           "barkod": "5099206020573",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M705 Marathon, srebrni",
