@@ -4,8 +4,8 @@
   "naziv": "Roba u dolasku",
   "datum": "2026-04-23",
   "status": "aktivan",
-  "kreirano": "2026-04-23T07:02:37.654Z",
-  "azurirano": "2026-04-23T07:08:37.656Z",
+  "kreirano": "2026-04-23T07:12:56.242Z",
+  "azurirano": "2026-04-23T07:12:56.242Z",
   "dokumenti": [
     {
       "naziv": "MSI 2528-101",
@@ -159,29 +159,6 @@
           "barkod": "5099206104952",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2544-101",
-      "stavke": [
-        {
-          "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
-          "barkod": "8606112020473",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Aparat za kavu Nespresso INISSIA Black D40-EUBKNE5-S",
-          "barkod": "8606112020367",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za kavu Nespresso INISSIA Red C40-EURENE5-S",
-          "barkod": "8606112020374",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
