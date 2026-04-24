@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T18:34:27.414Z",
-  "azurirano": "2026-04-24T05:42:47.743Z",
+  "azurirano": "2026-04-24T05:43:04.144Z",
   "dokumenti": [
     {
       "naziv": "MSI 2641-101",
@@ -102,7 +102,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac rucni Gorenje MVC72FW",
