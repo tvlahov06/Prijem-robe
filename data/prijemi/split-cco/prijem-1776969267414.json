@@ -4,8 +4,8 @@
   "naziv": "",
   "datum": "2026-04-24",
   "status": "aktivan",
-  "kreirano": "2026-04-24T06:41:34.283Z",
-  "azurirano": "2026-04-24T06:41:34.283Z",
+  "kreirano": "2026-04-24T15:09:19.667Z",
+  "azurirano": "2026-04-24T15:09:19.667Z",
   "dokumenti": [
     {
       "naziv": "MSI 2695-101",
@@ -461,6 +461,17 @@
           "naziv": "Slusalice Sony",
           "barkod": "4548736170544",
           "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2720-101",
+      "stavke": [
+        {
+          "naziv": "Monitor ACER XV270UF3BMIIPRX, UM.HX0EE.323, 68,58 cm (27\") IPS QHD, 320Hz 16:9 250nits 0.5ms",
+          "barkod": "4711474371355",
+          "ocekivano": 1,
           "skenirano": 0
         }
       ]
