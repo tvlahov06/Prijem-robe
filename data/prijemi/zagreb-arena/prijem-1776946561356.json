@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T12:17:22.360Z",
-  "azurirano": "2026-04-24T08:06:07.835Z",
+  "azurirano": "2026-04-24T08:06:24.435Z",
   "dokumenti": [
     {
       "naziv": "MSI 2634-101",
@@ -284,7 +284,7 @@
           "naziv": "Usisavac rucni Gorenje MVC72HGA",
           "barkod": "3838782481208",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Philips HD9396/90",
@@ -326,7 +326,7 @@
           "naziv": "Usisavac rucni Gorenje MVC72FW",
           "barkod": "3838782040542",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac stapni Gorenje SVC216GFW",
