@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T12:17:22.360Z",
-  "azurirano": "2026-04-24T06:55:47.363Z",
+  "azurirano": "2026-04-24T06:55:51.900Z",
   "dokumenti": [
     {
       "naziv": "MSI 2634-101",
@@ -623,7 +623,7 @@
           "naziv": "Eksterni disk ADATA Ex HDD HV300, 1TB, usb3.0, bijeli -CWH",
           "barkod": "4713218464989",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB Hub ACER 7in1 Type C Dongle, Srebrna",
