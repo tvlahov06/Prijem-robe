@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T12:17:22.360Z",
-  "azurirano": "2026-04-24T06:50:50.087Z",
+  "azurirano": "2026-04-24T06:51:15.720Z",
   "dokumenti": [
     {
       "naziv": "MSI 2634-101",
@@ -553,23 +553,6 @@
           "barkod": "4711474830173",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2647-101",
-      "stavke": [
-        {
-          "naziv": "TV HISENSE 58E7Q, 147.3cm (58\"), QLED, 4K UHD Smart TV, VIDAA OS",
-          "barkod": "6942351418810",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV HISENSE 75U7QPRO, 190.5cm (75\"), ULED Mini LED, 4K UHD 165Hz, Smart TV, VIDAA OS",
-          "barkod": "6942351417462",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
