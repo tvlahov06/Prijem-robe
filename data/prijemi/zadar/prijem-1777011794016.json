@@ -5,7 +5,7 @@
   "datum": "2026-04-24",
   "status": "aktivan",
   "kreirano": "2026-04-24T06:23:14.016Z",
-  "azurirano": "2026-04-24T08:33:41.973Z",
+  "azurirano": "2026-04-24T09:20:00.311Z",
   "dokumenti": [
     {
       "naziv": "MSI 2653-101",
@@ -599,13 +599,13 @@
           "naziv": "Baterije Duracell Basic AAA K4",
           "barkod": "5000394077164",
           "ocekivano": 10,
-          "skenirano": 11
+          "skenirano": 10
         },
         {
           "naziv": "Baterije Duracell Basic AAA K8",
           "barkod": "5000394203358",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Baterije Duracell Lithium CR2025 B2",
