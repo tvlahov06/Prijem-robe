@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T12:17:22.360Z",
-  "azurirano": "2026-04-24T06:57:47.413Z",
+  "azurirano": "2026-04-24T06:57:59.908Z",
   "dokumenti": [
     {
       "naziv": "MSI 2634-101",
@@ -611,7 +611,7 @@
           "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
           "barkod": "740617348453",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 4
         },
         {
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
@@ -683,7 +683,7 @@
           "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
           "barkod": "740617305302",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Kingston FD Kyson 256GB USB 3.2",
@@ -695,7 +695,7 @@
           "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
           "barkod": "740617347999",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Torba za laptop Lenovo T210 siva 15,6\"",
@@ -755,7 +755,7 @@
           "naziv": "USB STICK Kingston DataTraveler microDuo 3C 64GB, USB GB 3.2, USB-A+C",
           "barkod": "740617328219",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "MIS SBOX WM-993 Crni / Bezicni",
