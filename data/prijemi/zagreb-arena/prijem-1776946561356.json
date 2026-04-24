@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T12:17:22.360Z",
-  "azurirano": "2026-04-24T07:17:45.898Z",
+  "azurirano": "2026-04-24T07:17:56.183Z",
   "dokumenti": [
     {
       "naziv": "MSI 2634-101",
@@ -110,7 +110,7 @@
           "naziv": "Aparat za kavu Philips oprema CA6704/10 tablete za uklanjanje ulja od kave",
           "barkod": "8720389000430",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "Usisavac robot iRobot Roomba Combo 105 Smoke O-105-SMOKE",
@@ -128,7 +128,7 @@
           "naziv": "Uredaj za uklanjanje vlakana Philips GC026/80 Black",
           "barkod": "8720389024962",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
