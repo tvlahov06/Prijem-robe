@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T18:34:27.414Z",
-  "azurirano": "2026-04-24T05:38:02.885Z",
+  "azurirano": "2026-04-24T05:39:06.798Z",
   "dokumenti": [
     {
       "naziv": "MSI 2641-101",
@@ -192,7 +192,7 @@
           "naziv": "Usisavac Gorenje VCE28G6ALLGO",
           "barkod": "3838782951794",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XB2122/09",
