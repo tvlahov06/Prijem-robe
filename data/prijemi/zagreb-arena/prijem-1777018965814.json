@@ -5,7 +5,7 @@
   "datum": "2026-04-24",
   "status": "aktivan",
   "kreirano": "2026-04-24T08:22:45.814Z",
-  "azurirano": "2026-04-24T10:30:29.770Z",
+  "azurirano": "2026-04-24T10:30:38.221Z",
   "dokumenti": [
     {
       "naziv": "MSI 93-151",
@@ -212,7 +212,7 @@
           "naziv": "MAXMOBILE DRZAC ZA MOBITEL GRAVITY FLEXY do 6.8˝ SK1206",
           "barkod": "3858895083007",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PD MAXMOBILE BEZICNI PUNJAC YM-T8 PD MagSafe, SET 3U1 bijeli",
@@ -224,13 +224,13 @@
           "naziv": "GRAVITY MAXMOBILE DRZAC ZA MOBITEL GRAVITY VENT G260 do VENT G260 6.7˝",
           "barkod": "3858893495352",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MAXMOBILE DATA KABEL USB/TYPE C - DUAL TYPE C RDD3199 BLACK 2.4A 60W 1.2m",
           "barkod": "3858895085957",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MAXMOBILE DATA KABEL USB/TYPE C - DUAL TYPE C RDD3199 BLACK 2.4A 60W 1.2m",
@@ -314,7 +314,7 @@
           "naziv": "Data kabel MM Data kabel USB TYPE C USB TYPE C",
           "barkod": "3858891601526",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Drzac 089B MM Drzac za mobitel/PDA 089B VENT crni VENT crni",
