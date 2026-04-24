@@ -5,7 +5,7 @@
   "datum": "2026-04-24",
   "status": "aktivan",
   "kreirano": "2026-04-24T06:23:14.016Z",
-  "azurirano": "2026-04-24T08:30:10.138Z",
+  "azurirano": "2026-04-24T08:30:15.931Z",
   "dokumenti": [
     {
       "naziv": "MSI 2653-101",
@@ -504,7 +504,7 @@
           "naziv": "SBOX EB-TWS-101, bijela boja | True Wireless slusalice",
           "barkod": "3858894502547",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Huawei FreeBuds SE 3 Black (ULC-CT020)",
@@ -516,7 +516,7 @@
           "naziv": "SBOX EB-TWS-12, crna boja | Bezicne slusalice",
           "barkod": "3858894504510",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Huawei FreeBuds 7i Black",
@@ -546,7 +546,7 @@
           "naziv": "Stalak SBOX",
           "barkod": "3858894509508",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "STALAK SBOX LCD-221-2 (13-43\"/20kg/200x200)",
