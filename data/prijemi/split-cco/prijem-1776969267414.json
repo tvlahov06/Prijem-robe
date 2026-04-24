@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T18:34:27.414Z",
-  "azurirano": "2026-04-24T05:50:16.404Z",
+  "azurirano": "2026-04-24T05:50:32.151Z",
   "dokumenti": [
     {
       "naziv": "MSI 2641-101",
@@ -371,7 +371,7 @@
           "naziv": "Parna postaja Philips PSG7300/80",
           "barkod": "8720389058332",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XD8152/12",
