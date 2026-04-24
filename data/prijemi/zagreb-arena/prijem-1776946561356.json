@@ -5,7 +5,7 @@
   "datum": "2026-04-23",
   "status": "aktivan",
   "kreirano": "2026-04-23T12:17:22.360Z",
-  "azurirano": "2026-04-24T06:53:33.109Z",
+  "azurirano": "2026-04-24T06:54:40.331Z",
   "dokumenti": [
     {
       "naziv": "MSI 2634-101",
@@ -780,41 +780,6 @@
           "barkod": "3858894503605",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2646-101",
-      "stavke": [
-        {
-          "naziv": "Baterije Duracell Basic AAA K8",
-          "barkod": "5000394203358",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Baterije Duracell Lithium CR2032 B2",
-          "barkod": "5000394054967",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Baterije Duracell Optimum AA K4",
-          "barkod": "5000394158696",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "Baterije DURACELL Optimum AAA K4",
-          "barkod": "5000394158726",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "Baterije punjive Duracell AA K2 2500 mAh",
-          "barkod": "5000394056978",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     }
