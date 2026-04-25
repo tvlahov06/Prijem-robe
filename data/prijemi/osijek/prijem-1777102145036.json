@@ -5,7 +5,7 @@
   "datum": "2026-04-25",
   "status": "aktivan",
   "kreirano": "2026-04-25T07:29:05.036Z",
-  "azurirano": "2026-04-25T08:18:57.220Z",
+  "azurirano": "2026-04-25T08:19:18.276Z",
   "dokumenti": [
     {
       "naziv": "MSI 2615-101",
@@ -402,17 +402,6 @@
           "barkod": "3168437252106",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2625-101",
-      "stavke": [
-        {
-          "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
-          "barkod": "8606112020473",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
