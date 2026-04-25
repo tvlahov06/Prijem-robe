@@ -5,7 +5,7 @@
   "datum": "2026-04-25",
   "status": "aktivan",
   "kreirano": "2026-04-25T07:29:05.036Z",
-  "azurirano": "2026-04-25T08:29:26.069Z",
+  "azurirano": "2026-04-25T08:29:29.598Z",
   "dokumenti": [
     {
       "naziv": "MSI 2615-101",
@@ -402,131 +402,6 @@
           "barkod": "3168437252106",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2624-101",
-      "stavke": [
-        {
-          "naziv": "SBOX EB-TWS-101, bijela boja | True Wireless slusalice",
-          "barkod": "3858894502547",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE 3 Black (ULC-CT020)",
-          "barkod": "6942103140112",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Apple AirPods 4 (USB-C)",
-          "barkod": "195949688591",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds 7i Black",
-          "barkod": "6942103164781",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "SBOX EB-TWS-05, bez boja | Bezicne slusalice",
-          "barkod": "3858894504602",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Logitech Zone 300, bezicne, roze",
-          "barkod": "5099206120044",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE4 ANC crne (Fuji-T010)",
-          "barkod": "6942103165450",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
-          "barkod": "197029008220",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
-          "barkod": "8806097984795",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
-          "barkod": "195949689673",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Razer Barracuda X (2022) Wireless, crne 0-R3M1",
-          "barkod": "8886419379850",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "White Shark ZVUCNICI 2.0 GSP-619 BEAT",
-          "barkod": "0736373269040",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BLACK Slusalice WHITE SHARK FALCON, WGH-2441, Crne, bezicne",
-          "barkod": "3858894505050",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Razer Blackshark V2 Pro (2023) 0-R3M1",
-          "barkod": "8887910060117",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HDMI 1.4 SBOX kabel HDMI-HDMI 1.4 M/M 15m 15m",
-          "barkod": "616320530518",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Logitech H390, zicane, USB, roze",
-          "barkod": "5099206107298",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Logitech G522 LIGHTSPEED, gaming, bezicne, bijele",
-          "barkod": "5099206131675",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Soundbar Philips TAB5309",
-          "barkod": "4895229136779",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Soundbar Sony",
-          "barkod": "4548736121737",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Soundbar Sony",
-          "barkod": "4548736067325",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
