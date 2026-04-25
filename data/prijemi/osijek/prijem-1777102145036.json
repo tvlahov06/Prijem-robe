@@ -5,7 +5,7 @@
   "datum": "2026-04-25",
   "status": "aktivan",
   "kreirano": "2026-04-25T07:29:05.036Z",
-  "azurirano": "2026-04-25T08:35:13.531Z",
+  "azurirano": "2026-04-25T08:35:35.392Z",
   "dokumenti": [
     {
       "naziv": "MSI 2615-101",
@@ -269,7 +269,7 @@
           "naziv": "Mikser stapni Philips HR2685/00",
           "barkod": "8720389033933",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC8057/01 Aqua Plus",
