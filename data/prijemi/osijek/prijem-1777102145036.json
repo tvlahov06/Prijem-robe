@@ -5,7 +5,7 @@
   "datum": "2026-04-25",
   "status": "aktivan",
   "kreirano": "2026-04-25T07:29:05.036Z",
-  "azurirano": "2026-04-25T07:49:29.083Z",
+  "azurirano": "2026-04-25T07:49:32.764Z",
   "dokumenti": [
     {
       "naziv": "MSI 2615-101",
@@ -329,7 +329,7 @@
           "naziv": "Kuhalo za vodu Bosch TWK1M124, MyMoment, crveno",
           "barkod": "4242005397662",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9331/09",
@@ -365,7 +365,7 @@
           "naziv": "Kuhalo za vodu Philips HD9411/00",
           "barkod": "8720389041259",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sredstvo za ciscenje mrlja PHILIPS XV1732/01",
