@@ -5,7 +5,7 @@
   "datum": "2026-04-27",
   "status": "aktivan",
   "kreirano": "2026-04-27T14:52:38.944Z",
-  "azurirano": "2026-04-27T14:52:38.944Z",
+  "azurirano": "2026-04-27T14:55:29.896Z",
   "dokumenti": [
     {
       "naziv": "Osobna njega",
@@ -200,7 +200,7 @@
           "naziv": "Brijaci aparat Philips S5885/35",
           "barkod": "8720689008037",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips S7885/50",
@@ -212,7 +212,7 @@
           "naziv": "Brijaci aparat Philips S7886/58",
           "barkod": "8720689010931",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips X3051/00",
@@ -446,7 +446,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/09 DiamondClean, Black",
           "barkod": "8710103935957",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9911/19 DiamondClean, White",
@@ -470,7 +470,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/88 DiamondClean, Blue",
           "barkod": "8720689001007",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9914/57 DiamondClean, DUO Rose gold & Black",
