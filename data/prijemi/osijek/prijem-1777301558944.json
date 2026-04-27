@@ -5,7 +5,7 @@
   "datum": "2026-04-27",
   "status": "aktivan",
   "kreirano": "2026-04-27T14:52:38.944Z",
-  "azurirano": "2026-04-27T14:57:48.461Z",
+  "azurirano": "2026-04-27T14:58:51.672Z",
   "dokumenti": [
     {
       "naziv": "Osobna njega",
@@ -194,7 +194,7 @@
           "naziv": "Brijaci aparat Philips S5885/10",
           "barkod": "8720689008440",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips S5885/35",
@@ -224,7 +224,7 @@
           "naziv": "Brijaci aparat Philips XP9204/30",
           "barkod": "8720689030199",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Remington Omniblade HG3000 Face & Body",
@@ -242,7 +242,7 @@
           "naziv": "Brijaci aparat Remington R4002 Style",
           "barkod": "5038061155631",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetka za kosu Philips BHH885/00",
@@ -452,7 +452,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/19 DiamondClean, White",
           "barkod": "8720689023207",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9911/27 DiamondClean, White",
@@ -1004,7 +1004,7 @@
           "naziv": "Sisac za bradu Philips BT5780/15",
           "barkod": "8720689034203",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za bradu Philips BT7670/15",
@@ -1046,7 +1046,7 @@
           "naziv": "Sisac za kosu Philips HC5612/15",
           "barkod": "8710103897835",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu Remington HC3000GP",
@@ -1094,7 +1094,7 @@
           "naziv": "Sisac za kosu/bradu Philips HC3530/15",
           "barkod": "8710103859734",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za kosu/bradu Philips HC5650/15",
@@ -1160,7 +1160,7 @@
           "naziv": "Sisac za tijelo 9u1 Remington PG5000 Graphite G5",
           "barkod": "5038061100921",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo/kosu/bradu BRAUN 11u1 7540",
