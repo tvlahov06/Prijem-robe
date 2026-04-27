@@ -5,7 +5,7 @@
   "datum": "2026-04-27",
   "status": "aktivan",
   "kreirano": "2026-04-27T14:52:38.944Z",
-  "azurirano": "2026-04-27T17:04:19.142Z",
+  "azurirano": "2026-04-27T17:04:23.362Z",
   "dokumenti": [
     {
       "naziv": "Osobna njega",
@@ -500,7 +500,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/88 Optimal White 4/1 black",
           "barkod": "8720689035064",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/88 Premium Plaque Defence Standard 2/1 Black",
@@ -548,7 +548,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6032/90 djecja Soft 3+ 2/1",
           "barkod": "8720689037402",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Epilator Braun SE1-000",
