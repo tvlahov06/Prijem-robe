@@ -1,0 +1,508 @@
+{
+  "id": "prijem-1777295562098",
+  "poslovnica": "osijek",
+  "naziv": "",
+  "datum": "2026-04-27",
+  "status": "aktivan",
+  "kreirano": "2026-04-27T13:12:42.098Z",
+  "azurirano": "2026-04-27T13:12:42.098Z",
+  "dokumenti": [
+    {
+      "naziv": "PS konzole i dodaci",
+      "stavke": [
+        {
+          "naziv": "Backbone One Carrying Case, crni",
+          "barkod": "0850041963129",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Backbone One Carrying Case, PlayStation Edition",
+          "barkod": "0850041963112",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Backbone One Controller Lightning port, bijeli, PlayStation Edition",
+          "barkod": "0850041963198",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben charging dock za PS5 kontrolere (USB-C)",
+          "barkod": "3665962025224",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben charging station za 2 x PS5 Dualsense kontrolere USB A - USB c kabel",
+          "barkod": "3665962006414",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Dual Charging Station V3 (2 x Dualsense PS5 Controller)",
+          "barkod": "3665962021141",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Dual charging station za 2xPS4 Dualshock kontrolera USB",
+          "barkod": "3499550331400",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "BigBen PS4 Flat USB kabel USB - Micro USB crni 3m",
+          "barkod": "3499550320763",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS4 Nacon Compact Light Wired Controller prozirno-crveni",
+          "barkod": "3499550360837",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS4 Nacon Compact Light Wired Controller prozirno-plavi",
+          "barkod": "3499550360806",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS4 Nacon Compact Light Wired Controller prozirno-zeleni",
+          "barkod": "3499550360868",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS5 Thumb Grips (6 kom. silikonskih thumb gripova za PS5 Dualsense kontroler)",
+          "barkod": "3665962006438",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben stalak za PS5 konzolu i punjac za Dualsense kontrolere (PS5 Standard Edition ili PS5 Slim",
+          "barkod": "3665962024975",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Tempered zastitno staklo za PS Portal",
+          "barkod": "3665962024661",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben USB hub za PS5 Slim (4 x USB-a porta + 1 x USB-C port)",
+          "barkod": "3665962025002",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC compatible) Cammo Green",
+          "barkod": "3499550382556",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC compatible) crni",
+          "barkod": "3499550360653",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC compatible) crveni",
+          "barkod": "3499550360714",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC compatible) narancasti",
+          "barkod": "3499550360745",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC compatible) plavi",
+          "barkod": "3499550360684",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC compatible) sivi",
+          "barkod": "3499550360776",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben zastitna silikonska navlaka Cammo za Dualsense kontroler PS5",
+          "barkod": "3665962006445",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming volan LOGITECH G923 Trueforce, PC/PS4/PS5, USB, crna boja , Sim Racing volan",
+          "barkod": "5099206082793",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kontroler Logitech F310, zicani",
+          "barkod": "5099206041868",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kontroler Logitech F710, bezicni",
+          "barkod": "5099206041905",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LOGITECH G29 za PS3, PS4, PS5 i PC, igraci volan",
+          "barkod": "5099206057302",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon Dual Charging Station V4 (2 x Dualsense PS5 Controller)",
+          "barkod": "3665962026719",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon eksterna baterija za Dualsense Edge Controller PS5",
+          "barkod": "3665962024944",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon eksterna baterija za Dualsense i Dualsense Edge kontrolere",
+          "barkod": "3665962026993",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon licencirani PlayStation 5 ruksak",
+          "barkod": "3665962029918",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon Pro Gaming Pack za Dualsense/Portal PS5 kontroler Trigger pack",
+          "barkod": "3665962025200",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon Revolution Pro 5 Controller bijeli PS5 / PS4 / PC",
+          "barkod": "3665962023558",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon Revolution Pro 5 Controller crni PS5 / PS4 / PC",
+          "barkod": "3665962023541",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon Tempered zastitno staklo ekrana za Playstation Portal (officially licensed)",
+          "barkod": "3665962027808",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon USB C Charging kabel za PS5 kontroler 3m",
+          "barkod": "3665962004786",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon USB C Charging kabel za PS5 kontroler 5m",
+          "barkod": "3665962004809",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon zastitna prijenosna kutija za PS Portal (officially licensed)",
+          "barkod": "3665962028072",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch OLED Console - White Joy-Con",
+          "barkod": "045496453435",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Astrobot LED Neon zidna svjetiljka",
+          "barkod": "5056577768633",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Astrobot podloga za mis",
+          "barkod": "5056577751499",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Playstation LED Neon Bulb stolna svjetiljka",
+          "barkod": "5056577745559",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Playstation sat sa alarmom u obliku PS5 Dualsense kontrolera V3",
+          "barkod": "5055964783617",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim D chassis",
+          "barkod": "711719577188",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim Digital Edition E chassis",
+          "barkod": "711719020844",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim Digital Edition E chassis + EA Sports FC 26 VCH",
+          "barkod": "711719021933",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim Digital Edition E chassis + Fortnite Flowering Chaos VCH",
+          "barkod": "711719021742",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim E chassis",
+          "barkod": "711719020172",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim E chassis + EA Sports FC 26 VCH",
+          "barkod": "711719021827",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation Link USB Adapter",
+          "barkod": "711719574392",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation VR2",
+          "barkod": "711719453994",
+          "ocekivano": 24,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation VR2 PC adapter",
+          "barkod": "711719582915",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation VR2 Sense Controller Charging Station",
+          "barkod": "711719480693",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Poklopac za PlayStation 5 (Slim Edition) konzolu Ghost of Yotei Gold Limited Edition",
+          "barkod": "711719599357",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Access Controller",
+          "barkod": "711719567943",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 DualSense Charging Station",
+          "barkod": "711719374107",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 DualSense Edge Wireless Controller Midnight Black",
+          "barkod": "711719593263",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Edge Wireless Controller v2",
+          "barkod": "711719586654",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Edge Wireless Stick Module",
+          "barkod": "711719444497",
+          "ocekivano": 11,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Chroma Indigo v2",
+          "barkod": "711719023616",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Chroma Pearl v2",
+          "barkod": "711719023722",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Cobalt Blue",
+          "barkod": "711719577676",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Marathon Limited Edition",
+          "barkod": "711719024668",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Remix Green",
+          "barkod": "711719020912",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Sterling Silver",
+          "barkod": "711719577652",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Volcanic Red",
+          "barkod": "711719577317",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller White za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022350",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Media Remote",
+          "barkod": "711719801122",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Elite wireless headset Midnight Black",
+          "barkod": "711719590101",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Explore wireless earbuds",
+          "barkod": "711719573005",
+          "ocekivano": 13,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Explore wireless earbuds Midnight Black",
+          "barkod": "711719590064",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Explore wireless earbuds+",
+          "barkod": "711719598503",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Vertical Stand",
+          "barkod": "711719579540",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Shifter Logitech Driving Force",
+          "barkod": "5099206057661",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB hub WHITE SHARK PS5-0576 Cross, 4-portni | PS5 dodatak",
+          "barkod": "736373269453",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "VOLAN HURRICANE FLASHFIRE F106 za PS5, PS4, PS3 i PC 2 pedale + mjenjac",
+          "barkod": "4718091316134",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan Hurricane Flashfire WH-3103V -NL za PS4,PS3,PC i SWITCH 2 pedale + mjenjac",
+          "barkod": "4718091316103",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan Imola Flashfire F107 za PS4/PS3/PC/Switch s 3 pedale + mjenjac",
+          "barkod": "4718091316189",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan LOGITECH G G29 + mjenjac",
+          "barkod": "5099206132467",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan Logitech G923 Driving force + Shifter Logitech Driving Force",
+          "barkod": "5099206124745",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan Suzuka Flashfire 900A PS4, PS3, XBOX, SWITCH, PC S 2 PEDALE + MJENJAC",
+          "barkod": "4718091316066",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan Suzuka Flashfire F111 za PS5/PS4/PS3/PC s 3 pedale + mjenjac",
+          "barkod": "4718091316172",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan Trust Movi GXT289",
+          "barkod": "8713439251227",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
