@@ -5,7 +5,7 @@
   "datum": "2026-04-27",
   "status": "aktivan",
   "kreirano": "2026-04-27T14:52:38.944Z",
-  "azurirano": "2026-04-27T14:58:53.942Z",
+  "azurirano": "2026-04-27T14:59:48.765Z",
   "dokumenti": [
     {
       "naziv": "Osobna njega",
@@ -134,19 +134,19 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
           "barkod": "8720689027137",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6552/15 Face & Body",
           "barkod": "8720689027199",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6652/61 Face & Body",
           "barkod": "8720689027298",
           "ocekivano": 13,
-          "skenirano": 0
+          "skenirano": 10
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP225/50 nastavci Face",
@@ -1106,13 +1106,13 @@
           "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
           "barkod": "8720689045360",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 15U1 Philips MG7940/15",
           "barkod": "8720689002264",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 17U1 Philips MG7941/15",
@@ -1130,7 +1130,7 @@
           "naziv": "Sisac za tijelo 17U1 Philips MG9535/15",
           "barkod": "8720689045131",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Sisac za tijelo 18u1 Remington PG780 One",
@@ -1142,7 +1142,7 @@
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
           "barkod": "8720689045094",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Sisac za tijelo 8U1 Philips MG3730/15",
@@ -1154,7 +1154,7 @@
           "naziv": "Sisac za tijelo 8U1 Philips MG3940/15",
           "barkod": "8720689026611",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 9u1 Remington PG5000 Graphite G5",
