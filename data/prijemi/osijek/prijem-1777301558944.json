@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "Osobna njega",
   "datum": "2026-04-27",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-04-27T14:52:38.944Z",
-  "azurirano": "2026-04-27T18:03:40.085Z",
+  "azurirano": "2026-04-27T18:04:14.384Z",
   "dokumenti": [
     {
       "naziv": "Osobna njega",
@@ -1488,5 +1488,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-04-27T18:04:14.384Z"
 }
