@@ -232,10 +232,16 @@
           xml += '<Cell ss:StyleID="def"><Data ss:Type="String">' + it.barkod + '</Data></Cell>';
           xml += '<Cell ss:StyleID="def"><Data ss:Type="Number">' + it.ocekivano + '</Data></Cell>';
           for (var pi = 0; pi < partNames.length; pi++) xml += '<Cell ss:StyleID="def"><Data ss:Type="Number">' + (it.parts[partNames[pi]] || 0) + '</Data></Cell>';
-          xml += '<Cell ss:StyleID="bold" ss:Formula="=SUM(' + colL(fc) + row + ':' + colL(lc) + row + ')"><Data ss:Type="Number">0</Data></Cell>';
-          xml += '<Cell ss:StyleID="def" ss:Formula="=' + colL(totC) + row + '-C' + row + '"><Data ss:Type="Number">0</Data></Cell>';
+          // Ukupno skenirano = SUM of part columns (R1C1: RC[-N] to RC[-1] relative to totC)
+          var partsCount = partNames.length;
+          xml += '<Cell ss:StyleID="bold" ss:Formula="=SUM(RC[-' + partsCount + ']:RC[-1])"><Data ss:Type="Number">0</Data></Cell>';
+          // Razlika = Ukupno - Ocekivano (RC[-1] = ukupno, RC[-N] = ocekivano)
+          var stepsToOcek = partsCount + 1;
+          xml += '<Cell ss:StyleID="def" ss:Formula="=RC[-1]-RC[-' + (stepsToOcek) + ']"><Data ss:Type="Number">0</Data></Cell>';
+          // Rucni unos - empty
           xml += '<Cell ss:StyleID="def"></Cell>';
-          xml += '<Cell ss:StyleID="def" ss:Formula="=' + colL(diffC) + row + '+' + colL(manC) + row + '"><Data ss:Type="Number">0</Data></Cell>';
+          // Konacna razlika = Razlika + Rucni unos
+          xml += '<Cell ss:StyleID="def" ss:Formula="=RC[-2]+RC[-1]"><Data ss:Type="Number">0</Data></Cell>';
           xml += '</Row>\n';
         }
         xml += '</Table>\n</Worksheet>\n</Workbook>';
