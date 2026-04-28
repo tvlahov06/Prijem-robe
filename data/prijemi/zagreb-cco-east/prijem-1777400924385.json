@@ -1,0 +1,242 @@
+{
+  "id": "prijem-1777400924385",
+  "poslovnica": "zagreb-cco-east",
+  "naziv": "",
+  "datum": "2026-04-28",
+  "status": "aktivan",
+  "kreirano": "2026-04-28T18:28:44.385Z",
+  "azurirano": "2026-04-28T18:28:44.385Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 2749-101",
+      "stavke": [
+        {
+          "naziv": "Saros PS5",
+          "barkod": "711719027041",
+          "ocekivano": 8,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2781-101",
+      "stavke": [
+        {
+          "naziv": "Apple Watch SE 3 GPS 40mm Midnight Aluminium Case with Midnight Sport Band - M/L",
+          "barkod": "195950645842",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE 3 GPS 40mm Midnight Aluminium Case with Midnight Sport Band - S/M",
+          "barkod": "195950645798",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE 3 GPS 40mm Starlight Aluminium Case with Starlight Sport Band - M/L",
+          "barkod": "195950645699",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE 3 GPS 40mm Starlight Aluminium Case with Starlight Sport Band - S/M",
+          "barkod": "195950645644",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE 3 GPS 44mm Starlight Aluminium Case with Starlight Sport Band - M/L",
+          "barkod": "195950645996",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE 3 GPS 44mm Starlight Aluminium Case with Starlight Sport Band - S/M",
+          "barkod": "195950645941",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 42mm Jet Black Aluminium Case with Black Sport Band - S/M",
+          "barkod": "195950631371",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 42mm Rose Gold Aluminium Case with Light Blush Sport Band - S/M",
+          "barkod": "195950619126",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 46mm Jet Black Aluminium Case with Black Sport Band - M/L",
+          "barkod": "195950631821",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 17 Pro Max TechWoven Case with MagSafe - Sienna",
+          "barkod": "195950663877",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2738-101",
+      "stavke": [
+        {
+          "naziv": "The Crew 2 Standard Edition PS4 B25",
+          "barkod": "3307216024590",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Spyro Reignited Trilogy Switch A23",
+          "barkod": "5030917284540",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assassins's Creed Valhalla Standard Edition PS4 B30",
+          "barkod": "3307216168300",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS5 Thumb Grips (6 kom. silikonskih thumb gripova za PS5 Dualsense kontroler)",
+          "barkod": "3665962006438",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assassins Creed Mirage PS5 F38",
+          "barkod": "3307216258315",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Star Wars Jedi: Survivor PS5 D15",
+          "barkod": "5030948124303",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Sterling Silver",
+          "barkod": "711719577652",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation Portal remote player",
+          "barkod": "711719582267",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Disc Drive (Slim D chassis)",
+          "barkod": "711719580584",
+          "ocekivano": 12,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Crew Motorfest PS4 D13",
+          "barkod": "3307216269731",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation Portal remote player Midnight Black",
+          "barkod": "711719593171",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Anno 117 Pax Romana PS5",
+          "barkod": "3307216304043",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Elite wireless headset+",
+          "barkod": "711719598275",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Pro B chassis",
+          "barkod": "711719024125",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Midnight Black za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022381",
+          "ocekivano": 40,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Cosmic Red za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023012",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Grey Camo za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023708",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Rhythm Blue",
+          "barkod": "711719020943",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Techno Red",
+          "barkod": "711719020677",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Remix Green",
+          "barkod": "711719020912",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller White za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022350",
+          "ocekivano": 40,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Chroma Pearl v2",
+          "barkod": "711719023722",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Starlight Blue za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022473",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Chroma Teal v2",
+          "barkod": "711719023838",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim Digital Edition E chassis + PS5 Dualsense Wireless Controller",
+          "barkod": "711719022329",
+          "ocekivano": 20,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
