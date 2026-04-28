@@ -17,9 +17,6 @@
       .prijem-card{padding:12px 14px;flex-wrap:wrap;gap:8px}
       .prijem-card .prijem-meta{font-size:12px}
     }
-    .mode-toggle{display:flex;background:var(--bg-input);border-radius:10px;padding:3px;margin-bottom:16px}
-    .mode-toggle button{flex:1;padding:10px;border:none;border-radius:8px;font-size:14px;font-weight:600;font-family:var(--font);cursor:pointer;background:transparent;color:var(--text-muted);transition:all .2s}
-    .mode-toggle button.active{background:var(--bg-white);color:var(--text);box-shadow:0 1px 3px rgba(0,0,0,.1)}
   </style>
 </head>
 <body>
@@ -27,7 +24,7 @@
   <div class="app">
     <div class="page-header">
       <div class="title-group">
-        <h1 id="page-title">&#128230; Prijemi robe</h1>
+        <h1>&#128230; Prijemi robe</h1>
         <div class="poslovnica-name" id="pn"></div>
       </div>
       <div class="header-action" style="display:flex;gap:8px;align-items:center">
@@ -35,10 +32,6 @@
         <button id="new-btn" class="btn btn-primary btn-sm">+ Novi prijem</button>
         <button onclick="Auth.logout()" class="btn-icon" title="Odjava">&#9211;</button>
       </div>
-    </div>
-    <div class="mode-toggle">
-      <button id="mode-prijem" class="active" onclick="switchMode('prijem')">&#128230; Prijem robe</button>
-      <button id="mode-inventura" onclick="switchMode('inventura')">&#128203; Inventura</button>
     </div>
     <div class="stats-row">
       <div class="stat-card" style="border-left:4px solid #007aff"><div class="value" id="st">-</div><div class="label">Ukupno</div></div>
@@ -52,56 +45,38 @@
   <script>
     if (!Auth.requireAuth()) throw 0;
     document.getElementById("pn").textContent = Auth.getPoslovnica();
+    document.getElementById("new-btn").addEventListener("click", function() { window.location.href = "priprema.html"; });
     var list = document.getElementById("list");
-    var currentMode = localStorage.getItem("dashboard_mode") || "prijem";
-
-    function switchMode(mode) {
-      currentMode = mode;
-      localStorage.setItem("dashboard_mode", mode);
-      document.getElementById("mode-prijem").className = mode === "prijem" ? "active" : "";
-      document.getElementById("mode-inventura").className = mode === "inventura" ? "active" : "";
-      document.getElementById("page-title").innerHTML = mode === "prijem" ? "&#128230; Prijemi robe" : "&#128203; Inventura";
-      document.getElementById("new-btn").textContent = mode === "prijem" ? "+ Novi prijem" : "+ Nova inventura";
-      load();
-    }
-
-    document.getElementById("new-btn").addEventListener("click", function() {
-      window.location.href = currentMode === "prijem" ? "priprema.html" : "inventura-priprema.html";
-    });
 
     function load() {
       var pid = Auth.getPoslovnicaId();
-      var folder = currentMode === "prijem" ? "data/prijemi/" + pid : "data/inventure/" + pid;
-      GitHubStorage.listFiles(folder).then(function(files) {
+      GitHubStorage.listFiles("data/prijemi/" + pid).then(function(files) {
         var validFiles = [];
         for (var i = 0; i < (files||[]).length; i++) {
-          if (files[i].name.indexOf(".json") > -1 && files[i].name.indexOf(".") !== 0 && files[i].name.indexOf("-dio-") < 0) validFiles.push(files[i]);
+          if (files[i].name.indexOf(".json") > -1 && files[i].name.indexOf(".") !== 0) validFiles.push(files[i]);
         }
-        var items = [];
+        var prijemi = [];
         var chain = Promise.resolve();
         for (var i = 0; i < validFiles.length; i++) {
           (function(f) {
             chain = chain.then(function() {
               return GitHubStorage.readFile(f.path).then(function(d) {
-                if (d) { d.content._sha = d.sha; d.content._path = f.path; items.push(d.content); }
+                if (d) { d.content._sha = d.sha; d.content._path = f.path; prijemi.push(d.content); }
               }).catch(function(){});
             });
           })(validFiles[i]);
         }
         return chain.then(function() {
-          items.sort(function(a, b) { return new Date(b.datum) - new Date(a.datum); });
-          document.getElementById("st").textContent = items.length;
+          prijemi.sort(function(a, b) { return new Date(b.datum) - new Date(a.datum); });
+          document.getElementById("st").textContent = prijemi.length;
           var active = 0, done = 0;
-          for (var i = 0; i < items.length; i++) { if (items[i].status === "zavrsen") done++; else active++; }
+          for (var i = 0; i < prijemi.length; i++) { if (prijemi[i].status === "zavrsen") done++; else active++; }
           document.getElementById("sa").textContent = active;
           document.getElementById("sd").textContent = done;
 
-          var emptyMsg = currentMode === "prijem" ? "Nema prijema" : "Nema inventura";
-          var emptyBtn = currentMode === "prijem" ? "+ Novi prijem" : "+ Nova inventura";
-          if (!items.length) { list.innerHTML = '<div class="empty-state"><div class="empty-icon">&#128203;</div><h3>' + emptyMsg + '</h3><p>Klikni "' + emptyBtn + '" za pocetak.</p></div>'; return; }
+          if (!prijemi.length) { list.innerHTML = '<div class="empty-state"><div class="empty-icon">&#128203;</div><h3>Nema prijema</h3><p>Klikni "+ Novi prijem" za pocetak.</p></div>'; return; }
           list.innerHTML = "";
-
-          for (var i = 0; i < items.length; i++) {
+          for (var i = 0; i < prijemi.length; i++) {
             (function(p) {
               var totO = 0, totS = 0, totA = 0;
               for (var d = 0; d < p.dokumenti.length; d++) {
@@ -111,145 +86,29 @@
               var date = new Date(p.datum).toLocaleDateString("hr-HR", { day:"numeric", month:"short", year:"numeric" });
               var card = document.createElement("div");
               card.className = "prijem-card"; card.style.cursor = "pointer";
-              var statusText = p.status === "aktivan" ? "Aktivan" : "Zavrsen";
+              var statusText = p.status === "priprema" ? "Priprema" : p.status === "aktivan" ? "Aktivan" : "Zavrsen";
               var displayName = p.naziv ? p.naziv : date;
               var subInfo = p.naziv ? date + ' &middot; ' : '';
-              var partInfo = currentMode === "inventura" && p.dijelovi ? p.dijelovi.length + " dio(ova) &middot; " : "";
-
-              card.innerHTML = '<div class="prijem-info" style="flex:1"><div class="prijem-date">' + displayName + '</div><div class="prijem-meta">' + subInfo + partInfo + totA + " artikala &middot; " + totS + "/" + totO + ' sken.</div></div><span class="status-badge ' + p.status + '">' + statusText + '</span>';
-
-              var btnWrap = document.createElement("div");
-              btnWrap.style.cssText = "display:flex;gap:4px;margin-left:8px";
-
-              if (currentMode === "inventura") {
-                var mergeBtn = document.createElement("button");
-                mergeBtn.className = "btn-icon";
-                mergeBtn.title = "Spoji i eksportiraj";
-                mergeBtn.innerHTML = "&#128202;";
-                mergeBtn.style.cssText = "width:32px;height:32px;font-size:14px;color:var(--accent);border-color:var(--accent)";
-                mergeBtn.addEventListener("click", (function(pp) { return function(e) { e.stopPropagation(); mergeExport(pp); }; })(p));
-                btnWrap.appendChild(mergeBtn);
-              }
-
-              var delBtn = document.createElement("button");
-              delBtn.className = "btn-icon delete-btn";
-              delBtn.title = "Obrisi";
-              delBtn.innerHTML = "&#10005;";
-              delBtn.style.cssText = "width:32px;height:32px;font-size:14px;color:var(--danger);border-color:var(--danger-border)";
-              btnWrap.appendChild(delBtn);
-              card.appendChild(btnWrap);
-
+              card.innerHTML = '<div class="prijem-info" style="flex:1"><div class="prijem-date">' + displayName + '</div><div class="prijem-meta">' + subInfo + p.dokumenti.length + " dok. &middot; " + totA + " artikala &middot; " + totS + "/" + totO + ' sken.</div></div><span class="status-badge ' + p.status + '">' + statusText + '</span><button class="btn-icon delete-btn" title="Obrisi" style="margin-left:8px;width:32px;height:32px;font-size:14px;color:var(--danger);border-color:var(--danger-border)">&#10005;</button>';
               card.addEventListener("click", function(e) {
-                if (e.target.closest(".btn-icon")) return;
-                window.location.href = currentMode === "prijem" ? "skeniranje.html?id=" + p.id : "inventura-skeniranje.html?id=" + p.id;
+                if (e.target.closest(".delete-btn")) return;
+                window.location.href = "skeniranje.html?id=" + p.id;
               });
-              delBtn.addEventListener("click", (function(pp, dt) { return function(e) {
+              card.querySelector(".delete-btn").addEventListener("click", function(e) {
                 e.stopPropagation();
-                if (!confirm("Obrisati?")) return;
-                GitHubStorage.deleteFile(pp._path, pp._sha, "Brisanje").then(function() { toast("Obrisano", "success"); load(); }).catch(function(err) { toast("Greska: " + err.message, "error"); });
-              }; })(p, date));
+                if (!confirm("Obrisati prijem od " + date + "?")) return;
+                GitHubStorage.deleteFile(p._path, p._sha, "Brisanje").then(function() { toast("Obrisano", "success"); load(); }).catch(function(err) { toast("Greska: " + err.message, "error"); });
+              });
               list.appendChild(card);
-            })(items[i]);
+            })(prijemi[i]);
           }
         });
       }).catch(function(e) { list.innerHTML = '<div class="empty-state"><div class="empty-icon">&#9888;</div><h3>Greska</h3><p>' + e.message + "</p></div>"; });
     }
 
-    // ===== MERGE & EXPORT =====
-    function mergeExport(inv) {
-      toast("Ucitavam dijelove...", "success");
-      var pid = Auth.getPoslovnicaId();
-      var folder = "data/inventure/" + pid;
-      var parts = [];
-      var chain = Promise.resolve();
-      for (var i = 0; i < (inv.dijelovi || []).length; i++) {
-        (function(dio) {
-          chain = chain.then(function() {
-            return GitHubStorage.readFile(folder + "/" + inv.id + "-dio-" + dio.id + ".json").then(function(d) {
-              if (d) parts.push({ naziv: dio.naziv, data: d.content });
-            }).catch(function(){});
-          });
-        })(inv.dijelovi[i]);
-      }
-      chain.then(function() {
-        var merged = {};
-        var partNames = [];
-        for (var d = 0; d < inv.dokumenti.length; d++) {
-          for (var s = 0; s < inv.dokumenti[d].stavke.length; s++) {
-            var st = inv.dokumenti[d].stavke[s];
-            if (!merged[st.barkod]) merged[st.barkod] = { naziv: st.naziv, barkod: st.barkod, ocekivano: st.ocekivano, parts: {} };
-          }
-        }
-        for (var pi = 0; pi < parts.length; pi++) {
-          partNames.push(parts[pi].naziv);
-          if (parts[pi].data.dokumenti) {
-            for (var d = 0; d < parts[pi].data.dokumenti.length; d++) {
-              for (var s = 0; s < parts[pi].data.dokumenti[d].stavke.length; s++) {
-                var st = parts[pi].data.dokumenti[d].stavke[s];
-                if (!merged[st.barkod]) merged[st.barkod] = { naziv: st.naziv, barkod: st.barkod, ocekivano: st.ocekivano, parts: {} };
-                merged[st.barkod].parts[parts[pi].naziv] = (merged[st.barkod].parts[parts[pi].naziv] || 0) + (st.skenirano || 0);
-              }
-            }
-          }
-        }
-
-        var itemsList = [];
-        for (var bc in merged) itemsList.push(merged[bc]);
-        itemsList.sort(function(a, b) { return a.naziv.localeCompare(b.naziv); });
-
-        function colL(c) { return c < 26 ? String.fromCharCode(65+c) : String.fromCharCode(64+Math.floor(c/26)) + String.fromCharCode(65+(c%26)); }
-
-        var xml = '<?xml version="1.0" encoding="UTF-8"?>\n<?mso-application progid="Excel.Sheet"?>\n';
-        xml += '<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">\n<Styles>\n';
-        xml += '<Style ss:ID="header"><Interior ss:Color="#DBEAFE" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#1E3A5F"/><Alignment ss:Horizontal="Center"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/></Borders></Style>\n';
-        xml += '<Style ss:ID="def"></Style>\n<Style ss:ID="bold"><Font ss:Bold="1"/></Style>\n';
-        xml += '<Style ss:ID="ok"><Interior ss:Color="#D1FAE5" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#166534"/></Style>\n';
-        xml += '<Style ss:ID="minus"><Interior ss:Color="#FEE2E2" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#DC2626"/></Style>\n';
-        xml += '<Style ss:ID="plus"><Interior ss:Color="#FEF3C7" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#D97706"/></Style>\n';
-        xml += '</Styles>\n<Worksheet ss:Name="Inventura">\n<Table>\n';
-        xml += '<Column ss:Width="280"/><Column ss:Width="110"/><Column ss:Width="85"/>';
-        for (var pi = 0; pi < partNames.length; pi++) xml += '<Column ss:Width="85"/>';
-        xml += '<Column ss:Width="100"/><Column ss:Width="80"/>\n';
-
-        xml += '<Row>';
-        xml += '<Cell ss:StyleID="header"><Data ss:Type="String">Naziv</Data></Cell>';
-        xml += '<Cell ss:StyleID="header"><Data ss:Type="String">Barkod</Data></Cell>';
-        xml += '<Cell ss:StyleID="header"><Data ss:Type="String">Ocekivano</Data></Cell>';
-        for (var pi = 0; pi < partNames.length; pi++) xml += '<Cell ss:StyleID="header"><Data ss:Type="String">' + esc(partNames[pi]) + '</Data></Cell>';
-        xml += '<Cell ss:StyleID="header"><Data ss:Type="String">Ukupno sken.</Data></Cell>';
-        xml += '<Cell ss:StyleID="header"><Data ss:Type="String">Razlika</Data></Cell>';
-        xml += '</Row>\n';
-
-        for (var i = 0; i < itemsList.length; i++) {
-          var it = itemsList[i], row = i + 2;
-          xml += '<Row>';
-          xml += '<Cell ss:StyleID="def"><Data ss:Type="String">' + esc(it.naziv) + '</Data></Cell>';
-          xml += '<Cell ss:StyleID="def"><Data ss:Type="String">' + it.barkod + '</Data></Cell>';
-          xml += '<Cell ss:StyleID="def"><Data ss:Type="Number">' + it.ocekivano + '</Data></Cell>';
-          var totalSken = 0;
-          for (var pi = 0; pi < partNames.length; pi++) {
-            var val = it.parts[partNames[pi]] || 0;
-            totalSken += val;
-            xml += '<Cell ss:StyleID="def"><Data ss:Type="Number">' + val + '</Data></Cell>';
-          }
-          xml += '<Cell ss:StyleID="bold"><Data ss:Type="Number">' + totalSken + '</Data></Cell>';
-          var diff = totalSken - it.ocekivano;
-          var diffStyle = diff === 0 ? "ok" : diff < 0 ? "minus" : "plus";
-          xml += '<Cell ss:StyleID="' + diffStyle + '"><Data ss:Type="Number">' + diff + '</Data></Cell>';
-          xml += '</Row>\n';
-        }
-        xml += '</Table>\n</Worksheet>\n</Workbook>';
-
-        var fn = "inventura-" + (inv.naziv || inv.datum) + ".xls";
-        fn = fn.replace(/[^a-zA-Z0-9\-_.]/g, "_");
-        var a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([xml], { type: "application/vnd.ms-excel;charset=utf-8" })); a.download = fn; a.click();
-        toast("Exportirano!", "success");
-      });
-    }
-
-    function esc(s) { return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
     function toast(m, t) { var old = document.querySelectorAll(".toast"); for(var i=0;i<old.length;i++) old[i].remove(); var el = document.createElement("div"); el.className = "toast " + t; el.textContent = m; document.body.appendChild(el); setTimeout(function() { el.remove(); }, 3000); }
 
+    // Dark mode toggle
     var toggle = document.getElementById("theme-toggle");
     if (localStorage.getItem("theme") === "dark") { document.documentElement.setAttribute("data-theme", "dark"); toggle.classList.add("dark"); }
     toggle.addEventListener("click", function() {
@@ -258,7 +117,7 @@
       else { document.documentElement.setAttribute("data-theme", "dark"); toggle.classList.add("dark"); localStorage.setItem("theme", "dark"); }
     });
 
-    switchMode(currentMode);
+    load();
   </script>
 </body>
 </html>
