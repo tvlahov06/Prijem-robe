@@ -268,7 +268,7 @@ var PDFParser = {
           var val = String(row[c] || "").toLowerCase().trim();
           if (val === "barcode" || val === "barkod" || val === "ean" || val === "bar code") colBarcode = c;
           if (val === "naziv" || val === "naziv artikla" || val === "opis" || val === "description" || val === "artikl naziv") colNaziv = c;
-          if (val === "kolicina" || val === "količina" || val === "kol" || val === "qty" || val === "kom") colKol = c;
+          if (val === "kolicina" || val === "količina" || val === "kol" || val === "qty" || val === "kom" || val === "stanje") colKol = c;
         }
         if (colBarcode >= 0) { headerRow = r; break; }
       }
