@@ -5,7 +5,7 @@
   "datum": "2026-04-28",
   "status": "aktivan",
   "kreirano": "2026-04-28T08:45:44.316Z",
-  "azurirano": "2026-04-28T09:45:27.379Z",
+  "azurirano": "2026-04-28T09:45:38.764Z",
   "dokumenti": [
     {
       "naziv": "MSI 2715-101",
@@ -230,7 +230,7 @@
           "naziv": "HP USB-C G5 Essential Dock, 9X3V1UT",
           "barkod": "198415314048",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
