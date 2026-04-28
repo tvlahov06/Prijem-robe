@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "",
   "datum": "2026-04-28",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-04-28T18:28:44.385Z",
-  "azurirano": "2026-04-28T18:29:22.709Z",
+  "azurirano": "2026-04-28T18:29:50.274Z",
   "dokumenti": [
     {
       "naziv": "MSI 2749-101",
@@ -238,6 +238,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-04-28T18:29:22.709Z"
+  ]
 }
