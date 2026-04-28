@@ -5,7 +5,7 @@
   "datum": "2026-04-27",
   "status": "aktivan",
   "kreirano": "2026-04-27T13:29:43.279Z",
-  "azurirano": "2026-04-28T06:45:21.280Z",
+  "azurirano": "2026-04-28T06:45:30.092Z",
   "dokumenti": [
     {
       "naziv": "MSI 2695-101",
@@ -437,7 +437,7 @@
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WF-1000XM5/B",
           "barkod": "4548736143487",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice bluetooth Sony WH-CH520/W",
@@ -461,7 +461,7 @@
           "naziv": "Slusalice Sony",
           "barkod": "4548736170544",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
