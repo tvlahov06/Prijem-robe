@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "Roba 28.04.2026.",
   "datum": "2026-04-28",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-04-28T08:45:44.316Z",
-  "azurirano": "2026-04-28T09:56:23.225Z",
+  "azurirano": "2026-04-28T10:00:15.919Z",
   "dokumenti": [
     {
       "naziv": "MSI 2715-101",
@@ -751,5 +751,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-04-28T10:00:15.919Z"
 }
