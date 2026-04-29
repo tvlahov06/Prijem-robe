@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T07:23:50.039Z",
-  "azurirano": "2026-04-29T07:39:34.991Z",
+  "azurirano": "2026-04-29T07:39:41.878Z",
   "dokumenti": [
     {
       "naziv": "Mobiteli - svi",
@@ -152,13 +152,13 @@
           "naziv": "Mobitel Honor 400 Pro 12GB/512GB Lunar Grey",
           "barkod": "6936520867530",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Honor 400 Pro 12GB/512GB Midnight Black",
           "barkod": "6936520867523",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Honor 600 Lite 5G DS 8GB/256GB Sprout Green",
@@ -182,7 +182,7 @@
           "naziv": "Mobitel HONOR Magic8 Lite 8GB/256GB Midnight Black",
           "barkod": "6936520884216",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel HONOR Magic8 Lite 8GB/512GB Forest Green",
