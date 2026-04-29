@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T07:23:50.039Z",
-  "azurirano": "2026-04-29T07:40:38.248Z",
+  "azurirano": "2026-04-29T07:40:46.567Z",
   "dokumenti": [
     {
       "naziv": "Mobiteli - svi",
@@ -212,7 +212,7 @@
           "naziv": "Mobitel HONOR X5c Plus 4GB/128GB Midnight Black",
           "barkod": "6936520876136",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel HONOR X5c Plus 4GB/128GB Ocean Cyan",
@@ -230,7 +230,7 @@
           "naziv": "Mobitel HONOR X5c Plus 4GB/64GB Ocean Cyan",
           "barkod": "6936520876105",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Honor X6c 6GB/256GB Midnight Black",
