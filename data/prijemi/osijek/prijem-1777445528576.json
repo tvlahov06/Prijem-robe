@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T07:23:50.039Z",
-  "azurirano": "2026-04-29T07:42:27.631Z",
+  "azurirano": "2026-04-29T07:42:31.196Z",
   "dokumenti": [
     {
       "naziv": "Mobiteli - svi",
@@ -776,7 +776,7 @@
           "naziv": "Mobitel Xiaomi Redmi 15C 4GB/128GB Midnight Black",
           "barkod": "6932554444860",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Xiaomi Redmi 15C 4GB/128GB Mint Green",
@@ -800,13 +800,13 @@
           "naziv": "Mobitel Xiaomi Redmi 15C 8GB/256GB Midnight Black",
           "barkod": "6932554444884",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Xiaomi Redmi 15C 8GB/256GB Moonlight Blue",
           "barkod": "6932554455361",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Xiaomi Redmi A3 3GB/64GB crni - DEMO",
