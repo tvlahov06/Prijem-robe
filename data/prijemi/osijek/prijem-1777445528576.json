@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T07:23:50.039Z",
-  "azurirano": "2026-04-29T07:35:19.982Z",
+  "azurirano": "2026-04-29T07:35:40.331Z",
   "dokumenti": [
     {
       "naziv": "Mobiteli - svi",
@@ -500,7 +500,7 @@
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi SM-A576B",
           "barkod": "8806099028114",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM svijetlo plavi SM-A576B",
@@ -512,7 +512,7 @@
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi SM-A576B",
           "barkod": "8806099028282",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/256GB dual SIM tamnoplavi SM-A576B",
