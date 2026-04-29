@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T07:23:50.039Z",
-  "azurirano": "2026-04-29T07:28:45.119Z",
+  "azurirano": "2026-04-29T07:29:01.199Z",
   "dokumenti": [
     {
       "naziv": "Mobiteli - svi",
@@ -668,19 +668,19 @@
           "naziv": "Mobitel Samsung Galaxy Z Fold7 5G 12GB/256GB crni SM-F966B",
           "barkod": "8806097425106",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Fold7 5G 12GB/256GB plavi SM-F966B",
           "barkod": "8806097424413",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Fold7 5G 12GB/256GB srebrni SM-F966B",
           "barkod": "8806097423720",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Xiaomi 13T 8GB/256GB crna - DEMO",
