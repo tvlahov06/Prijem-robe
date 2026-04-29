@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T07:23:50.039Z",
-  "azurirano": "2026-04-29T07:35:11.576Z",
+  "azurirano": "2026-04-29T07:35:19.982Z",
   "dokumenti": [
     {
       "naziv": "Mobiteli - svi",
@@ -470,7 +470,7 @@
           "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM sivi SM-A376B",
           "barkod": "8806099035259",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM tamno zeleni SM-A376B",
@@ -482,7 +482,7 @@
           "naziv": "Mobitel Samsung Galaxy A37 5G 8GB/256GB dual SIM sivi SM-A376B",
           "barkod": "8806099035181",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy A56 5G 8GB/256GB dual SIM grafitno sivi SM-A566B",
