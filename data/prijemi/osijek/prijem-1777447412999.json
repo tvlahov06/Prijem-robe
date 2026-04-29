@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T07:23:32.999Z",
-  "azurirano": "2026-04-29T17:41:33.217Z",
+  "azurirano": "2026-04-29T17:42:00.446Z",
   "dokumenti": [
     {
       "naziv": "JBL",
@@ -38,13 +38,13 @@
           "naziv": "Radio JBL TUNER 3 bijeli",
           "barkod": "1200130024054",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Radio JBL TUNER 3 crni",
           "barkod": "1200130024047",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Radio JBL TUNER XL crni",
