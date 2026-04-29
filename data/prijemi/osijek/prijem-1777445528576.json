@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T07:23:50.039Z",
-  "azurirano": "2026-04-29T07:41:47.966Z",
+  "azurirano": "2026-04-29T07:41:56.296Z",
   "dokumenti": [
     {
       "naziv": "Mobiteli - svi",
@@ -986,13 +986,13 @@
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro+ 5G 12GB/512GB Black",
           "barkod": "6932554468040",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro+ 5G 12GB/512GB Glacier Blue",
           "barkod": "6932554481971",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel XIAOMI REDMI NOTE 15 PRO+ 5G 8/256GB:SMEDI DEMO",
