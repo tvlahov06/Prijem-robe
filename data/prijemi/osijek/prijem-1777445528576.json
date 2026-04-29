@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T07:23:50.039Z",
-  "azurirano": "2026-04-29T07:42:39.628Z",
+  "azurirano": "2026-04-29T07:42:45.609Z",
   "dokumenti": [
     {
       "naziv": "Mobiteli - svi",
@@ -776,13 +776,13 @@
           "naziv": "Mobitel Xiaomi Redmi 15C 4GB/128GB Midnight Black",
           "barkod": "6932554444860",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Xiaomi Redmi 15C 4GB/128GB Mint Green",
           "barkod": "6932554455484",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Xiaomi Redmi 15C 4GB/128GB Moonlight Blue",
