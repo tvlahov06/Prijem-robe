@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T07:23:50.039Z",
-  "azurirano": "2026-04-29T07:30:36.830Z",
+  "azurirano": "2026-04-29T07:30:47.081Z",
   "dokumenti": [
     {
       "naziv": "Mobiteli - svi",
@@ -602,13 +602,13 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB nebesko plavi SM-S931B",
           "barkod": "8806097826781",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni SM-S948B",
           "barkod": "8806097827177",
           "ocekivano": 9,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB kobalt ljubicasti SM-S948B",
@@ -650,7 +650,7 @@
           "naziv": "Mobitel Samsung Galaxy S26+ 5G 12/512GB kobalt ljubicasti SM-S947B",
           "barkod": "8806097828211",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy Xcover 7 crni SM-G556B",
