@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T07:23:50.039Z",
-  "azurirano": "2026-04-29T07:40:18.203Z",
+  "azurirano": "2026-04-29T07:40:30.082Z",
   "dokumenti": [
     {
       "naziv": "Mobiteli - svi",
@@ -314,19 +314,19 @@
           "naziv": "Mobitel Motorola Edge 50 Fusion 8GB/256GB Forest Blue",
           "barkod": "0840023273889",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Motorola Edge 50 Fusion 8GB/256GB Marshmallow Blue",
           "barkod": "0840023273902",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Motorola Edge 60 Fusion 8GB/256GB Pantone Slipstream",
           "barkod": "840023295898",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Motorola edge 60 Pro 8GB/256GB Pantone Shadow Green",
@@ -356,13 +356,13 @@
           "naziv": "Mobitel Motorola G15 DS 8GB/512Gb Gravity Grey",
           "barkod": "840023290312",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Motorola G15 DS 8GB/512Gb Iguana Green",
           "barkod": "840023290404",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Motorola G54 5G Power Edition XT2343-6 RO 12+256 OS DS eSIM Mint Green",
@@ -386,7 +386,7 @@
           "naziv": "Mobitel Motorola G84 8GB/256GB DS Marshmallow Blue",
           "barkod": "0840023274497",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Motorola G84 8GB/256GB DS Midnight Blue",
@@ -1016,7 +1016,7 @@
           "naziv": "Mobitel Motorola edge 50 fusion 8GB/256GB PANTONE Forest Green",
           "barkod": "840493605784",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "OUT Mobitel Honor X7a 4GB/128GB Midnight Black - IZLOZBENI ARTIKL",
