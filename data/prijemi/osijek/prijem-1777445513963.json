@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T06:51:53.963Z",
-  "azurirano": "2026-04-29T07:06:22.183Z",
+  "azurirano": "2026-04-29T07:06:34.644Z",
   "dokumenti": [
     {
       "naziv": "Dradar",
@@ -56,13 +56,13 @@
           "naziv": "LOCTEK LCD NOSAC PSW-862M 32\"-60\"",
           "barkod": "6948530115679",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "LOCTEK LCD NOSAC PSW-955L-A 42\"-70\"",
           "barkod": "6948530122806",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "LOCTEK LCD NOSAC WLB061 10\"-24\"",
