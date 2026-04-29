@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T06:51:53.963Z",
-  "azurirano": "2026-04-29T06:59:28.368Z",
+  "azurirano": "2026-04-29T06:59:33.678Z",
   "dokumenti": [
     {
       "naziv": "Dradar",
@@ -182,13 +182,13 @@
           "naziv": "MAXPOWER KABEL HDMI-HDMI 1.4 M/M GOLD PLATED 3 M",
           "barkod": "3858892510940",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MAXPOWER KABEL HDMI-HDMI 1.4 M/M GOLD PLATED 5 M",
           "barkod": "3858892510957",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Maxpower prod.kabel HS-DB 03K 1,5m",
