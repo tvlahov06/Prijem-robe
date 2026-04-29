@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T07:23:50.039Z",
-  "azurirano": "2026-04-29T07:40:30.082Z",
+  "azurirano": "2026-04-29T07:40:38.248Z",
   "dokumenti": [
     {
       "naziv": "Mobiteli - svi",
@@ -344,13 +344,13 @@
           "naziv": "Mobitel Motorola G06 4GB/256GB Green",
           "barkod": "840493605289",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Motorola G06 4GB/256GB plavi",
           "barkod": "840493605265",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Motorola G15 DS 8GB/512Gb Gravity Grey",
@@ -374,7 +374,7 @@
           "naziv": "Mobitel Motorola G54 8GB/256GB DS Glacier Blue",
           "barkod": "0840023252624",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Motorola G54 8GB/256GB DS Midnight Blue",
@@ -1010,7 +1010,7 @@
           "naziv": "Mobitel  HONOR X7d 8GB/256GB LTE Velvet Black",
           "barkod": "6936520875498",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Motorola edge 50 fusion 8GB/256GB PANTONE Forest Green",
