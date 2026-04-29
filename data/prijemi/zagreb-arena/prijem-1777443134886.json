@@ -4,8 +4,8 @@
   "naziv": "29.4.2026.",
   "datum": "2026-04-29",
   "status": "aktivan",
-  "kreirano": "2026-04-29T06:12:14.886Z",
-  "azurirano": "2026-04-29T10:36:12.020Z",
+  "kreirano": "2026-04-29T12:11:27.972Z",
+  "azurirano": "2026-04-29T12:11:27.972Z",
   "dokumenti": [
     {
       "naziv": "MSI 2740-101",
@@ -1006,6 +1006,35 @@
           "naziv": "Apple iPhone 17 Pro Max TechWoven Case with MagSafe - Sienna",
           "barkod": "195950663877",
           "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2812-101",
+      "stavke": [
+        {
+          "naziv": "Laptop Apple Macbook Air Starlight, mdvd4cr/a, /M5/16GB/512GB-CRO",
+          "barkod": "195950695502",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Neo Blush, mhfh4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
+          "barkod": "195950853513",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Neo Indigo, mhff4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
+          "barkod": "195950852578",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Neo Silver, mhfa4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
+          "barkod": "195950850697",
+          "ocekivano": 4,
           "skenirano": 0
         }
       ]
