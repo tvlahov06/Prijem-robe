@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T07:23:50.039Z",
-  "azurirano": "2026-04-29T07:41:28.250Z",
+  "azurirano": "2026-04-29T07:41:33.532Z",
   "dokumenti": [
     {
       "naziv": "Mobiteli - svi",
@@ -890,13 +890,13 @@
           "naziv": "Mobitel Xiaomi REDMI Note 15 5G 8GB/256GB Black",
           "barkod": "6932554469252",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 5G 8GB/256GB Mist Purple",
           "barkod": "6932554469672",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 5G Glacier 8GB/256GB Blue",
