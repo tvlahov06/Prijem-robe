@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "Mobiteli",
   "datum": "2026-04-29",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-04-29T07:23:50.039Z",
-  "azurirano": "2026-04-29T08:15:35.174Z",
+  "azurirano": "2026-04-29T08:17:19.215Z",
   "dokumenti": [
     {
       "naziv": "Mobiteli - svi",
@@ -1038,5 +1038,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-04-29T08:17:19.215Z"
 }
