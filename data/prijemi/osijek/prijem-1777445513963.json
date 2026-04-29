@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T06:51:53.963Z",
-  "azurirano": "2026-04-29T07:02:30.387Z",
+  "azurirano": "2026-04-29T07:02:33.059Z",
   "dokumenti": [
     {
       "naziv": "Dradar",
@@ -338,7 +338,7 @@
           "naziv": "Radio Alarm Blaupunkt CR5WH FM",
           "barkod": "5901750500251",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Radio Blaupunkt Boombox BB7BK CD/MP3/USB/AUX/FM",
