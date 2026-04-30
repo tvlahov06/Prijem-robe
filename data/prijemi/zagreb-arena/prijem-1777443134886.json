@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T12:11:27.972Z",
-  "azurirano": "2026-04-30T07:44:36.428Z",
+  "azurirano": "2026-04-30T07:45:24.667Z",
   "dokumenti": [
     {
       "naziv": "MSI 2740-101",
@@ -359,7 +359,7 @@
           "naziv": "Pegla za kosu Philips BHS838/00 SenseIQ",
           "barkod": "8720689002134",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Sisac za kosu Philips HC9420/15",
@@ -401,7 +401,7 @@
           "naziv": "Susilo za kosu Philips BHD501/00",
           "barkod": "8710103976776",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD538/30",
