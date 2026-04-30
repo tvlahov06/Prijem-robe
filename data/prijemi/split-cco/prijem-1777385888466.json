@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T14:01:52.389Z",
-  "azurirano": "2026-04-30T06:05:50.524Z",
+  "azurirano": "2026-04-30T06:05:59.034Z",
   "dokumenti": [
     {
       "naziv": "MSI 2746-101",
@@ -392,7 +392,7 @@
           "naziv": "Brijaci aparat BRAUN 3 3040",
           "barkod": "8700216735865",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
