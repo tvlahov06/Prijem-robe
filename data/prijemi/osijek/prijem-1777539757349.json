@@ -5,7 +5,7 @@
   "datum": "2026-04-30",
   "status": "aktivan",
   "kreirano": "2026-04-30T09:02:37.349Z",
-  "azurirano": "2026-04-30T09:08:52.852Z",
+  "azurirano": "2026-04-30T09:24:30.211Z",
   "dokumenti": [
     {
       "naziv": "MSI 2765-101",
@@ -228,7 +228,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7429/01 Sonicare Series 7100 DUO, Blue & White",
           "barkod": "8720689021432",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za kosu Philips HC9420/15",
@@ -282,7 +282,7 @@
           "naziv": "Tus za zube Philips Sonicare HX3333/24 Compact Flosser 1000, Blue",
           "barkod": "8720689046831",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
