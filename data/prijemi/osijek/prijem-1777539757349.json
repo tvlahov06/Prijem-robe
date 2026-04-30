@@ -5,7 +5,7 @@
   "datum": "2026-04-30",
   "status": "aktivan",
   "kreirano": "2026-04-30T09:02:37.349Z",
-  "azurirano": "2026-04-30T11:27:38.929Z",
+  "azurirano": "2026-04-30T11:27:52.393Z",
   "dokumenti": [
     {
       "naziv": "MSI 2765-101",
@@ -31,13 +31,13 @@
           "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
           "barkod": "198828789556",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP DeskJet 4322 All-in-One (A24HNB) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Wi-Fi, USB, A4 - Instant",
           "barkod": "198828789709",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet M209d, 8J9L0F",
