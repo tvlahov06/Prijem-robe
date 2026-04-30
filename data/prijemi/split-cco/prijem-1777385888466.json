@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T14:01:52.389Z",
-  "azurirano": "2026-04-30T06:00:52.253Z",
+  "azurirano": "2026-04-30T06:00:55.695Z",
   "dokumenti": [
     {
       "naziv": "MSI 2746-101",
@@ -524,7 +524,7 @@
           "naziv": "Uvijac za kosu Philips BHB887/00 tulip SenseIQ",
           "barkod": "8720689002141",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips S7885/50",
