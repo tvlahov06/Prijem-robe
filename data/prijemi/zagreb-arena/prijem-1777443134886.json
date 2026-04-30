@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T12:11:27.972Z",
-  "azurirano": "2026-04-30T07:51:33.785Z",
+  "azurirano": "2026-04-30T07:51:50.749Z",
   "dokumenti": [
     {
       "naziv": "MSI 2740-101",
@@ -269,7 +269,7 @@
           "naziv": "Uvijac za kosu Revlon 2U1 SALON",
           "barkod": "761318352228",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3826/33 Power Flosser Cordless black",
@@ -329,7 +329,7 @@
           "naziv": "Brijaci aparat Philips S7885/50",
           "barkod": "8720689009041",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7420/01 Sonicare Series 7100 White",
@@ -365,7 +365,7 @@
           "naziv": "Sisac za kosu Philips HC9420/15",
           "barkod": "8710103977926",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/88 Optimal White 4/1 black",
@@ -377,7 +377,7 @@
           "naziv": "Brijaci aparat Philips XP9404/46",
           "barkod": "8720689037112",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9911/84 DiamondClean, Pink",
@@ -431,7 +431,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/27 DiamondClean, White",
           "barkod": "8710103935971",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX6352/42 Kids, Pink",
