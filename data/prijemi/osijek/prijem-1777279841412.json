@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "Igre PS5 i PS4",
   "datum": "2026-04-29",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-04-29T08:17:23.322Z",
-  "azurirano": "2026-04-29T08:17:23.322Z",
+  "azurirano": "2026-04-30T07:44:15.007Z",
   "dokumenti": [
     {
       "naziv": "Igre",
@@ -110,7 +110,7 @@
           "naziv": "Call of Duty: Black Ops 7 PS5",
           "barkod": "196388607761",
           "ocekivano": 17,
-          "skenirano": 16
+          "skenirano": 17
         },
         {
           "naziv": "Call of Duty: Black Ops Cold War PS4",
@@ -518,7 +518,7 @@
           "naziv": "Mafia The Old Country PS5",
           "barkod": "5026555439053",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mafia Trilogy PS4",
@@ -912,5 +912,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-04-30T07:44:15.007Z"
 }
