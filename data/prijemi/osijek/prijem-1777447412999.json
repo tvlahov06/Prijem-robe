@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "JBL",
   "datum": "2026-04-29",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-04-29T07:23:32.999Z",
-  "azurirano": "2026-04-30T07:10:30.280Z",
+  "azurirano": "2026-04-30T08:58:52.947Z",
   "dokumenti": [
     {
       "naziv": "JBL",
@@ -648,5 +648,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-04-30T08:58:52.947Z"
 }
