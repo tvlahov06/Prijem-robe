@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T12:11:27.972Z",
-  "azurirano": "2026-04-30T07:37:33.339Z",
+  "azurirano": "2026-04-30T07:37:45.054Z",
   "dokumenti": [
     {
       "naziv": "MSI 2740-101",
@@ -245,7 +245,7 @@
           "naziv": "IPL depilator Philips BRI977/00 Lumea",
           "barkod": "8720689005944",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
@@ -686,7 +686,7 @@
           "naziv": "Mop elektricni Philips dodaci XV1882/10 zamjenski podni brisac",
           "barkod": "8720389070044",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mop elektricni Philips XV3101/11",
