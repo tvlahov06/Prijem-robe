@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "Gaming oprema PS",
   "datum": "2026-04-29",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-04-29T08:17:44.114Z",
-  "azurirano": "2026-04-30T07:44:43.896Z",
+  "azurirano": "2026-04-30T07:44:46.515Z",
   "dokumenti": [
     {
       "naziv": "PS konzole i dodaci",
@@ -504,5 +504,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-04-30T07:44:46.515Z"
 }
