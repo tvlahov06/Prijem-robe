@@ -5,7 +5,7 @@
   "datum": "2026-04-30",
   "status": "aktivan",
   "kreirano": "2026-04-30T09:02:37.349Z",
-  "azurirano": "2026-04-30T09:26:45.437Z",
+  "azurirano": "2026-04-30T09:27:21.682Z",
   "dokumenti": [
     {
       "naziv": "MSI 2765-101",
@@ -126,7 +126,7 @@
           "naziv": "Pegla za kosu Philips BHS742/00",
           "barkod": "8720689023146",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
@@ -138,7 +138,7 @@
           "naziv": "Brijaci aparat BRAUN 5 52-N1200S",
           "barkod": "8700216645522",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Remington AC9096 Silk",
@@ -258,7 +258,7 @@
           "naziv": "Cetkica za zube OralB iO3 BLUSH PINK",
           "barkod": "8006540731222",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips XP9204/30",
@@ -412,7 +412,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
           "barkod": "6942103168239",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A26 5G 6GB/128GB dual SIM crni",
