@@ -5,7 +5,7 @@
   "datum": "2026-04-30",
   "status": "zavrsen",
   "kreirano": "2026-04-30T07:32:08.209Z",
-  "azurirano": "2026-04-30T08:57:27.811Z",
+  "azurirano": "2026-04-30T08:57:51.446Z",
   "dokumenti": [
     {
       "naziv": "MSI 2804-101",
@@ -87,17 +87,6 @@
           "barkod": "4250058311771",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2767-101",
-      "stavke": [
-        {
-          "naziv": "Perilica susilica rublja Hisense WD5I8043BWF",
-          "barkod": "6901101832498",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     }
