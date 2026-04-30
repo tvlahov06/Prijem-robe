@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T14:01:52.389Z",
-  "azurirano": "2026-04-30T06:01:24.296Z",
+  "azurirano": "2026-04-30T06:01:38.791Z",
   "dokumenti": [
     {
       "naziv": "MSI 2746-101",
@@ -416,7 +416,7 @@
           "naziv": "Brijaci aparat BRAUN 3 300BLK",
           "barkod": "4210201163305",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Remington AC9096 Silk",
@@ -458,7 +458,7 @@
           "naziv": "Tus za zube Philips Sonicare HX3826/33 Power Flosser Cordless black",
           "barkod": "8720689011044",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips BRI976/00 Lumea",
@@ -608,7 +608,7 @@
           "naziv": "Sisac za kosu/bradu Panasonic ER-GC71-S503",
           "barkod": "5025232838363",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Philips BHS752/00",
