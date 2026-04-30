@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T14:01:52.389Z",
-  "azurirano": "2026-04-30T06:07:38.744Z",
+  "azurirano": "2026-04-30T06:07:49.926Z",
   "dokumenti": [
     {
       "naziv": "MSI 2746-101",
@@ -351,13 +351,13 @@
           "naziv": "Mop elektricni Philips dodaci XV1882/20 zamjenski podni brisac",
           "barkod": "8720389057540",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mop elektricni Philips dodaci XV1892/02 sredstvo za ciscenje poda",
           "barkod": "8720389035937",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mop elektricni Philips XV5113/01",
@@ -590,7 +590,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/84 DiamondClean, Pink",
           "barkod": "8720689000963",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7110/01 Sonicare Series 5500 White",
