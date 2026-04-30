@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T18:56:41.511Z",
-  "azurirano": "2026-04-30T05:28:44.119Z",
+  "azurirano": "2026-04-30T05:28:49.139Z",
   "dokumenti": [
     {
       "naziv": "MSI 2781-101",
@@ -591,13 +591,13 @@
           "naziv": "Mobitel Apple iPhone 17 256GB Sage",
           "barkod": "195950644333",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 256GB Mist Blue",
           "barkod": "195950643930",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple AirPods 4 (USB-C)",
