@@ -5,7 +5,7 @@
   "datum": "2026-04-30",
   "status": "aktivan",
   "kreirano": "2026-04-30T07:32:08.209Z",
-  "azurirano": "2026-04-30T07:39:33.436Z",
+  "azurirano": "2026-04-30T07:39:36.368Z",
   "dokumenti": [
     {
       "naziv": "MSI 2775-101",
@@ -661,7 +661,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP225/50 nastavci Face",
           "barkod": "8720689003087",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips S7885/50",
