@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T14:01:52.389Z",
-  "azurirano": "2026-04-30T06:02:40.275Z",
+  "azurirano": "2026-04-30T06:02:49.735Z",
   "dokumenti": [
     {
       "naziv": "MSI 2746-101",
@@ -386,7 +386,7 @@
           "naziv": "Sisac za bradu Philips BT7670/15",
           "barkod": "8720689029421",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat BRAUN 3 3040",
@@ -434,7 +434,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
           "barkod": "8720689027137",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3826/31 Power Flosser Cordless white",
@@ -596,7 +596,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7110/01 Sonicare Series 5500 White",
           "barkod": "8720689021562",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube OralB iO3 BLUSH PINK",
