@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T12:11:27.972Z",
-  "azurirano": "2026-04-30T07:41:25.337Z",
+  "azurirano": "2026-04-30T07:41:37.257Z",
   "dokumenti": [
     {
       "naziv": "MSI 2740-101",
@@ -227,7 +227,7 @@
           "naziv": "ZAMJENSKE GLAVE SPECIALISED CLEAN 2ct",
           "barkod": "8700216375399",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Remington AC9096 Silk",
@@ -257,7 +257,7 @@
           "naziv": "Tus za zube Philips Sonicare HX3826/31 Power Flosser Cordless white",
           "barkod": "8720689011037",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP2724/31 Face",
@@ -299,7 +299,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/88 Premium Plaque Defence Standard 2/1 Black",
           "barkod": "8720689036924",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "IPL depilator Philips BRI947/00 Lumea",
@@ -347,7 +347,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/88 DiamondClean, Blue",
           "barkod": "8720689001007",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Pegla za kosu Philips BHS520/00",
@@ -383,7 +383,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/84 DiamondClean, Pink",
           "barkod": "8720689000963",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za kosu/bradu Philips HC5650/15",
