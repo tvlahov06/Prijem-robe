@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T12:11:27.972Z",
-  "azurirano": "2026-04-30T07:07:28.063Z",
+  "azurirano": "2026-04-30T07:07:38.427Z",
   "dokumenti": [
     {
       "naziv": "MSI 2740-101",
@@ -43,7 +43,7 @@
           "naziv": "Laptop ACER Aspire Lite 15, NX.DK1EX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB",
           "barkod": "4711474852366",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Laptop ASUS TUF Gaming A15, FA506NCG-HN185, 39.6cm V0 (15,6\") FHD 144Hz, AMD Ryzen 7 7445HS, 16 GB RAM,",
@@ -97,7 +97,7 @@
           "naziv": "Laptop HP OmniBook 7 16-az0003nm, BU5Y3EA, 40.6cm (16\") IPS 2K, Intel Core 5 210H, 16 GB RAM, 512 GB SSD,",
           "barkod": "0199251591822",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ACER Nitro V 16 AI, NH.U1GEX.00G, 40.6cm (16\") IPS WUXGA 180Hz, AMD Ryzen 7 260, 32 GB RAM, 1 TB",
@@ -133,7 +133,7 @@
           "naziv": "Laptop Apple Macbook Pro Silver, mge64cr/a, 16/M5 Pro/48GB/1TB-CRO",
           "barkod": "195950713169",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MP243X MSI 23.8\" PRO Monitor MP243X, IPS Full HD, 100Hz, 1ms, Adaptive Sync, DisplayPort, HDMI, Zvucnici",
