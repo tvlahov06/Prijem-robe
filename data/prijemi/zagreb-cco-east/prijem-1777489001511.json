@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T18:56:41.511Z",
-  "azurirano": "2026-04-30T05:27:13.945Z",
+  "azurirano": "2026-04-30T05:27:29.251Z",
   "dokumenti": [
     {
       "naziv": "MSI 2781-101",
@@ -460,13 +460,13 @@
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB nebesko plavi",
           "barkod": "8806097827610",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB crni",
           "barkod": "8806097827221",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 bijela",
