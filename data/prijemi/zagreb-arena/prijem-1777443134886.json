@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T12:11:27.972Z",
-  "azurirano": "2026-04-30T08:05:34.665Z",
+  "azurirano": "2026-04-30T08:05:53.897Z",
   "dokumenti": [
     {
       "naziv": "MSI 2740-101",
@@ -495,7 +495,7 @@
           "naziv": "Mobitel Samsung Galaxy A16 4GB/128GB dual SIM tamnoplavi",
           "barkod": "8806095822334",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Kabel Samsung USB Type-C na USB Type-C (1,8m, 5A) crni",
@@ -834,7 +834,7 @@
           "naziv": "Pametni sat Huawei Band 11 Pro Aluminum (Candy-B49F) Black",
           "barkod": "6942103182624",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
@@ -846,19 +846,19 @@
           "naziv": "Pametni sat Huawei Band 11 Aluminum (Candy-B29F) Purple",
           "barkod": "6942103182594",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Band 11 Aluminum (Candy-B29F) Green",
           "barkod": "6942103182617",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Band 11 Aluminum (Candy-B29F) Beige",
           "barkod": "6942103182600",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Apple iPhone 17 256GB Black",
@@ -870,13 +870,13 @@
           "naziv": "Pametni sat Huawei Band 11 Aluminum (Candy-B29F) Black",
           "barkod": "6942103182570",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Band 11 Polymer (Candy-B19F) Black",
           "barkod": "6942103182556",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Gimbal stabilizator za mobitele DJI Osmo Mobile 8",
