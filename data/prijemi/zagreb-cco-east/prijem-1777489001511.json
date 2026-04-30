@@ -5,7 +5,7 @@
   "datum": "2026-04-29",
   "status": "aktivan",
   "kreirano": "2026-04-29T18:56:41.511Z",
-  "azurirano": "2026-04-30T05:19:37.252Z",
+  "azurirano": "2026-04-30T05:20:01.139Z",
   "dokumenti": [
     {
       "naziv": "MSI 2781-101",
@@ -79,13 +79,13 @@
           "naziv": "Laptop Apple Macbook Neo Blush, mhfh4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
           "barkod": "195950853513",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Laptop Apple Macbook Neo Silver, mhfa4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
           "barkod": "195950850697",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
