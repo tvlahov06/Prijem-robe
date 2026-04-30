@@ -5,7 +5,7 @@
   "datum": "2026-04-30",
   "status": "aktivan",
   "kreirano": "2026-04-30T09:02:37.349Z",
-  "azurirano": "2026-04-30T11:24:17.586Z",
+  "azurirano": "2026-04-30T11:24:25.683Z",
   "dokumenti": [
     {
       "naziv": "MSI 2765-101",
@@ -55,13 +55,13 @@
           "naziv": "Laptop ACER Aspire Lite 15, NX.DK1EX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB",
           "barkod": "4711474852366",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ00U1SC, 39.6cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB",
           "barkod": "199272265351",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP 15-fc0277nm, CZ9C6EA, 39.6 cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD",
@@ -103,7 +103,7 @@
           "naziv": "Laptop LENOVO V15 G4, 83GW004KSC, 39.6cm (15.6\") IPS Full HD, Intel Core 5 210H, 32 GB RAM, 1 TB SSD, Intel",
           "barkod": "199271082409",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
