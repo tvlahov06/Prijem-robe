@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T11:43:57.391Z",
+  "azurirano": "2026-05-04T11:44:03.584Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -650,7 +650,7 @@
           "naziv": "Glacalo Philips DST7030/20",
           "barkod": "8720389015632",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Electrolux EL61C3DB",
@@ -1340,7 +1340,7 @@
           "naziv": "Glacalo Philips DST8020/20",
           "barkod": "8720389004773",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Glacalo Philips DST7051/30",
