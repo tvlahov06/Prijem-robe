@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T11:42:50.169Z",
+  "azurirano": "2026-05-04T11:43:02.353Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -1058,7 +1058,7 @@
           "naziv": "Glacalo Philips DST7040/80",
           "barkod": "8720389015724",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
@@ -1262,7 +1262,7 @@
           "naziv": "Glacalo Philips DST7061/30",
           "barkod": "8720389016158",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9747/09",
@@ -1340,13 +1340,13 @@
           "naziv": "Glacalo Philips DST8020/20",
           "barkod": "8720389004773",
           "ocekivano": 5,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Glacalo Philips DST7051/30",
           "barkod": "8720389016073",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST7041/20",
@@ -1388,7 +1388,7 @@
           "naziv": "Glacalo Philips DST7511/80",
           "barkod": "8720389014352",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mop elektricni Philips dodaci XV1882/10 zamjenski podni brisac",
