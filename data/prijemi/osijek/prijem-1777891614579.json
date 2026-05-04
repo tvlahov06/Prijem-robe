@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T11:08:53.923Z",
+  "azurirano": "2026-05-04T11:09:13.258Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -728,7 +728,7 @@
           "naziv": "Aparat za kavu Nespresso PIXIE Titan C62-EUTINE-S",
           "barkod": "8606112020305",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Rowenta RO2957EA, Swift Power Classic, White",
@@ -1046,7 +1046,7 @@
           "naziv": "Aparat za kavu Nespresso VERTUO Pop White GCV2-EUWHNE-S",
           "barkod": "8606112020121",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Philips DST7020/20",
