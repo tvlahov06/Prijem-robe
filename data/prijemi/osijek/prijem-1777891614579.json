@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T10:53:26.769Z",
+  "azurirano": "2026-05-04T10:53:41.230Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -632,7 +632,7 @@
           "naziv": "Aparat za kavu DeLonghi ECAM 450.86.T Eletta Explore",
           "barkod": "8004399026186",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso VERTUO Pop Red GCV2-EURENE-S",
@@ -680,7 +680,7 @@
           "naziv": "Aparat za kavu Philips EP2224/10 espresso",
           "barkod": "8710103894742",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP243B10 Genio S anthracite PF",
@@ -992,7 +992,7 @@
           "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
           "barkod": "8004399021396",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black C30-EUBKNE2-S",
@@ -1100,7 +1100,7 @@
           "naziv": "Aparat za kavu Philips EP5549/70 espresso",
           "barkod": "8720389032271",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5010/70",
@@ -1172,7 +1172,7 @@
           "naziv": "Aparat za kavu Philips EP4449/70 espresso",
           "barkod": "8720389032196",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Philips PSG7200/30",
