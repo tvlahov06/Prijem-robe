@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T11:42:12.301Z",
+  "azurirano": "2026-05-04T11:42:39.893Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -116,7 +116,7 @@
           "naziv": "Parna postaja Philips PSG6042/20",
           "barkod": "8720389004865",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH7020/20",
@@ -584,7 +584,7 @@
           "naziv": "Parna postaja Philips GC7844/20",
           "barkod": "8710103951049",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECAM 290.21.B Magnifica Evo",
@@ -824,7 +824,7 @@
           "naziv": "Parna postaja Philips PSG6020/30",
           "barkod": "8720389015267",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Philips PSG7200/20",
