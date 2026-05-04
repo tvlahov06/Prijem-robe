@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T11:35:16.274Z",
+  "azurirano": "2026-05-04T11:35:35.065Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -446,7 +446,7 @@
           "naziv": "Usisavac Dyson V16 Piston Animal Submarine",
           "barkod": "5025155114841",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za dubinsko ciscenje Philips XW3193/11",
@@ -914,7 +914,7 @@
           "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
           "barkod": "5025155131992",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V8 Cyclone",
