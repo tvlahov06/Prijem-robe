@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T11:13:59.459Z",
+  "azurirano": "2026-05-04T11:14:15.543Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -308,7 +308,7 @@
           "naziv": "Usisavac robot Dyson 360 Vis Nav Vinca Blue/Nickel",
           "barkod": "5025155047859",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BCS1041PET Unlimited 10 ProAnimal, crveni",
@@ -932,7 +932,7 @@
           "naziv": "Usisavac robot Dyson Spot+Scrub Ai Black/Blue",
           "barkod": "5025155121962",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dyson PencilWash",
