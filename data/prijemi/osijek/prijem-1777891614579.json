@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T10:57:25.929Z",
+  "azurirano": "2026-05-04T10:57:31.211Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -434,7 +434,7 @@
           "naziv": "Usisavac stapni Elit ZoomX 250W",
           "barkod": "3875001742474",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot iRobot Roomba Combo Plus 405 + AutoWash dock White",
@@ -500,7 +500,7 @@
           "naziv": "Usisavac Rowenta GZ5736E0 X-Clean 7, 2u1",
           "barkod": "3221616163355",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac stapni Rowenta RH6545WH Air Force Light, Black",
@@ -1082,7 +1082,7 @@
           "naziv": "Usisavac Philips XC8055/01 Aqua Plus",
           "barkod": "8720389022425",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V10 Absolute",
