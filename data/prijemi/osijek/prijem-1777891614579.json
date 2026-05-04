@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T10:52:31.543Z",
+  "azurirano": "2026-05-04T10:52:39.558Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -92,7 +92,7 @@
           "naziv": "Aparat za kavu DeLonghi ECO 311.W Metal Icona White",
           "barkod": "8004399326767",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECAM 350.50.B Dinamica",
@@ -566,7 +566,7 @@
           "naziv": "Aparat za kavu DeLonghi ECOV 311.BG Icona Vintage",
           "barkod": "8004399327375",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Bosch BGL6HYG1 ProHygienic, bijeli",
@@ -590,7 +590,7 @@
           "naziv": "Aparat za kavu DeLonghi ECAM 290.21.B Magnifica Evo",
           "barkod": "8004399021358",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8050/30",
@@ -1004,7 +1004,7 @@
           "naziv": "Parna postaja Philips PSG8030/20",
           "barkod": "8720389001024",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH7030/10",
