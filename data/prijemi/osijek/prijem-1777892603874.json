@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T11:03:23.874Z",
-  "azurirano": "2026-05-04T11:20:29.529Z",
+  "azurirano": "2026-05-04T11:20:39.868Z",
   "dokumenti": [
     {
       "naziv": "sony audio",
@@ -98,7 +98,7 @@
           "naziv": "Slusalice s mikrofonom Sony MDR-EX15AP/W",
           "barkod": "4905524937305",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke WF-1000XM5/B",
@@ -254,7 +254,7 @@
           "naziv": "Slusalice Sony MDR-E9LPP",
           "barkod": "4905524731897",
           "ocekivano": 7,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Slusalice Sony MDR-EX15LPB",
@@ -266,7 +266,7 @@
           "naziv": "Slusalice Sony MDR-EX15LPW",
           "barkod": "4905524937213",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony MDR-ZX110/B",
