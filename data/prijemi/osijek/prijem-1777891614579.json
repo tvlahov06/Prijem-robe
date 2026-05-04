@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T10:52:25.429Z",
+  "azurirano": "2026-05-04T10:51:33.459Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -266,7 +266,7 @@
           "naziv": "Usisavac Miele Duoflex HX1",
           "barkod": "4002516714576",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Usisavac Philips XC5141/01",
@@ -434,7 +434,7 @@
           "naziv": "Usisavac stapni Elit ZoomX 250W",
           "barkod": "3875001742474",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Usisavac robot iRobot Roomba Combo Plus 405 + AutoWash dock White",
@@ -524,7 +524,7 @@
           "naziv": "Usisavac Dyson V16 Piston Animal  + komplet za detaljno ciscenje (495948)",
           "barkod": "5025155114858",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Usisavac Philips FC9729/09",
@@ -554,7 +554,7 @@
           "naziv": "Aparat za kavu DeLonghi EC 685.R Dedica Style",
           "barkod": "8004399331204",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECOV 311.BK Icona Vintage",
@@ -608,7 +608,7 @@
           "naziv": "Usisavac Miele Triflex HX2 Cat&Dog",
           "barkod": "4002516445593",
           "ocekivano": 2,
-          "skenirano": 2
+          "skenirano": 0
         },
         {
           "naziv": "Usisavac stapni Hisense HVC6264BK",
@@ -770,7 +770,7 @@
           "naziv": "Usisavac Philips XW7264/11 bezicni AquaTrio",
           "barkod": "8720389042119",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Vintage set Vivax",
@@ -794,13 +794,13 @@
           "naziv": "Usisavac stapni Gorenje SVC216210FFIIW*",
           "barkod": "3838782919459",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Usisavac Philips XC5244/10",
           "barkod": "8720389062681",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Usisavac Gorenje VCE22G6HCO",
@@ -914,7 +914,7 @@
           "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
           "barkod": "5025155131992",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Usisavac Dyson V8 Cyclone",
@@ -1100,7 +1100,7 @@
           "naziv": "Aparat za kavu Philips EP5549/70 espresso",
           "barkod": "8720389032271",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5010/70",
@@ -1244,7 +1244,7 @@
           "naziv": "Parna postaja Tefal GV9812E0",
           "barkod": "3121040082331",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3B10 Piccolo XS black/anthracite PF",
