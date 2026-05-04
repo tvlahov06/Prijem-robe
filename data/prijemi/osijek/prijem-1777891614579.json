@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "Aparati za kavu, usisavači, glačala i parne postaje (i dodaci)",
   "datum": "2026-05-04",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T11:32:10.608Z",
+  "azurirano": "2026-05-04T11:35:16.274Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -1446,6 +1446,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-05-04T11:32:10.608Z"
+  ]
 }
