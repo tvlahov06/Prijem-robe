@@ -1,0 +1,52 @@
+{
+  "id": "prijem-1777875634540",
+  "poslovnica": "split-cco",
+  "naziv": "Orbico",
+  "datum": "2026-05-04",
+  "status": "aktivan",
+  "kreirano": "2026-05-04T06:20:34.540Z",
+  "azurirano": "2026-05-04T06:20:34.540Z",
+  "dokumenti": [
+    {
+      "naziv": "orbico",
+      "stavke": [
+        {
+          "naziv": "Cetkica za zube OralB iO2 BLACK + Travel case",
+          "barkod": "8700216611923",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO2 STITCH + PUTNA TORBICA",
+          "barkod": "8700216932479",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO3 BLUSH PINK",
+          "barkod": "8006540731222",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO6 BLACK ONYX",
+          "barkod": "4210201409199",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO6 DUO",
+          "barkod": "8006530021746",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO6 GREY OPAL",
+          "barkod": "4210201381686",
+          "ocekivano": 8,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
