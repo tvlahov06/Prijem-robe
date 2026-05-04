@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T10:56:34.158Z",
+  "azurirano": "2026-05-04T10:56:42.759Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -734,7 +734,7 @@
           "naziv": "Usisavac Rowenta RO2957EA, Swift Power Classic, White",
           "barkod": "3221614006418",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V11 Advanced",
@@ -968,7 +968,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vrecice za usisavac Philips FC8027/01 sinteticke, S-BAG, 3kom, 5L",
@@ -1178,7 +1178,7 @@
           "naziv": "Parna postaja Philips PSG7200/30",
           "barkod": "8720389065187",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Uredaj za dubinsko ciscenje Rowenta IN3020F0",
@@ -1298,7 +1298,7 @@
           "naziv": "Usisavac Philips XD8152/12",
           "barkod": "8720389037955",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/20",
