@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T10:48:58.223Z",
+  "azurirano": "2026-05-04T10:52:25.429Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -44,7 +44,7 @@
           "naziv": "Aparat za kavu DeLonghi EC 685.BK Dedica Style",
           "barkod": "8004399331181",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Grey C30-EUGRNE2-S",
@@ -92,7 +92,7 @@
           "naziv": "Aparat za kavu DeLonghi ECO 311.W Metal Icona White",
           "barkod": "8004399326767",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECAM 350.50.B Dinamica",
@@ -266,7 +266,7 @@
           "naziv": "Usisavac Miele Duoflex HX1",
           "barkod": "4002516714576",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC5141/01",
@@ -524,7 +524,7 @@
           "naziv": "Usisavac Dyson V16 Piston Animal  + komplet za detaljno ciscenje (495948)",
           "barkod": "5025155114858",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9729/09",
@@ -554,19 +554,19 @@
           "naziv": "Aparat za kavu DeLonghi EC 685.R Dedica Style",
           "barkod": "8004399331204",
           "ocekivano": 2,
-          "skenirano": 2
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECOV 311.BK Icona Vintage",
           "barkod": "8004399327368",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECOV 311.BG Icona Vintage",
           "barkod": "8004399327375",
           "ocekivano": 2,
-          "skenirano": 2
+          "skenirano": 0
         },
         {
           "naziv": "Usisavac Bosch BGL6HYG1 ProHygienic, bijeli",
@@ -590,7 +590,7 @@
           "naziv": "Aparat za kavu DeLonghi ECAM 290.21.B Magnifica Evo",
           "barkod": "8004399021358",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Parna postaja Philips PSG8050/30",
@@ -608,7 +608,7 @@
           "naziv": "Usisavac Miele Triflex HX2 Cat&Dog",
           "barkod": "4002516445593",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac stapni Hisense HVC6264BK",
@@ -716,7 +716,7 @@
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
           "barkod": "8720389032370",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Glacalo Braun SI5225PU New Texstyle 5",
@@ -770,7 +770,7 @@
           "naziv": "Usisavac Philips XW7264/11 bezicni AquaTrio",
           "barkod": "8720389042119",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vintage set Vivax",
@@ -794,13 +794,13 @@
           "naziv": "Usisavac stapni Gorenje SVC216210FFIIW*",
           "barkod": "3838782919459",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC5244/10",
           "barkod": "8720389062681",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Gorenje VCE22G6HCO",
@@ -914,7 +914,7 @@
           "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
           "barkod": "5025155131992",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V8 Cyclone",
@@ -956,13 +956,13 @@
           "naziv": "Usisavac Philips FC9330/09",
           "barkod": "8720389036088",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Usisavac Philips FC9331/09",
           "barkod": "8720389036552",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Usisavac Philips FC9744/09",
@@ -992,7 +992,7 @@
           "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
           "barkod": "8004399021396",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black C30-EUBKNE2-S",
@@ -1004,7 +1004,7 @@
           "naziv": "Parna postaja Philips PSG8030/20",
           "barkod": "8720389001024",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Osvjezivac odjece Philips STH7030/10",
@@ -1064,7 +1064,7 @@
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
           "barkod": "8720389030307",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 0
         },
         {
           "naziv": "Aparat za kavu Philips EP3347/90 espresso",
@@ -1094,7 +1094,7 @@
           "naziv": "Aparat za kavu Philips EP4441/50 espresso",
           "barkod": "8720389031588",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 0
         },
         {
           "naziv": "Aparat za kavu Philips EP5549/70 espresso",
@@ -1172,7 +1172,7 @@
           "naziv": "Aparat za kavu Philips EP4449/70 espresso",
           "barkod": "8720389032196",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Parna postaja Philips PSG7200/30",
