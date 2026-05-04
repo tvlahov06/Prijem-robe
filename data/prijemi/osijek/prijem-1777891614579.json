@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T11:04:19.691Z",
+  "azurirano": "2026-05-04T11:04:26.947Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -26,7 +26,7 @@
           "naziv": "Vrecice za usisavac Bosch BBZ41FGALL",
           "barkod": "4242002830414",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Vivax VC-700R REO",
@@ -38,7 +38,7 @@
           "naziv": "Vrecice za usisavac Bosch BBZWD4BAG",
           "barkod": "4242005174423",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 685.BK Dedica Style",
@@ -578,7 +578,7 @@
           "naziv": "Vrecice za usisavac Bosch BBZAFGALL AirFresh 4kom",
           "barkod": "4242005135790",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Philips GC7844/20",
