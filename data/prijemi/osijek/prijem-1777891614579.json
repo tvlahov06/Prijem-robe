@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T10:55:21.405Z",
+  "azurirano": "2026-05-04T10:55:40.005Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -392,7 +392,7 @@
           "naziv": "Usisavac Rowenta RO2981EA, Swift Power Home & Car, Blue",
           "barkod": "3221614006425",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips PSA3228/01 espresso Barista Brew",
@@ -956,7 +956,7 @@
           "naziv": "Usisavac Philips FC9330/09",
           "barkod": "8720389036088",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9331/09",
