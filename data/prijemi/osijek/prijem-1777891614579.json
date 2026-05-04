@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T11:36:01.693Z",
+  "azurirano": "2026-05-04T11:36:11.672Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -488,7 +488,7 @@
           "naziv": "Dyson PencilVac Fluffycones",
           "barkod": "5025155108963",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal GV9823E1, 9 bara, Gold Black",
@@ -920,7 +920,7 @@
           "naziv": "Usisavac Dyson V8 Cyclone",
           "barkod": "5025155122594",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Tefal FV9852E0, 3200W",
@@ -938,7 +938,7 @@
           "naziv": "Dyson PencilWash",
           "barkod": "5025155139257",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Krups KP143GF0 Mini Me 2 arctic grey",
@@ -1088,7 +1088,7 @@
           "naziv": "Usisavac Dyson V10 Absolute",
           "barkod": "5025155088081",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Philips EP4441/50 espresso",
