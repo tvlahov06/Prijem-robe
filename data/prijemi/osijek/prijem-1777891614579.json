@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T10:54:39.144Z",
+  "azurirano": "2026-05-04T10:54:56.824Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -416,7 +416,7 @@
           "naziv": "Usisavac ELECTROLUX EB61C4DB",
           "barkod": "7332543823031",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Electrolux EPF61RR",
@@ -656,7 +656,7 @@
           "naziv": "Usisavac Electrolux EL61C3DB",
           "barkod": "7332543774906",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Tefal DT2020E1 Pure Pop blue",
