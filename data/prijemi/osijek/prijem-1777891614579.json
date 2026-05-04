@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T11:10:41.160Z",
+  "azurirano": "2026-05-04T11:10:54.143Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -1016,7 +1016,7 @@
           "naziv": "Osvjezivac odjece Philips STH7060/80",
           "barkod": "8720389007484",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal GV9711E0",
@@ -1106,7 +1106,7 @@
           "naziv": "Osvjezivac odjece Philips STH5010/70",
           "barkod": "8720389043819",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Usisavac Philips XD6122/12",
@@ -1304,7 +1304,7 @@
           "naziv": "Osvjezivac odjece Philips STH5020/20",
           "barkod": "8720389043772",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC500 dekalcifikator",
@@ -1322,7 +1322,7 @@
           "naziv": "Osvjezivac odjece Philips STH5030/20",
           "barkod": "8720389050091",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/40",
