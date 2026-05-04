@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T11:08:30.908Z",
+  "azurirano": "2026-05-04T11:08:37.088Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -626,7 +626,7 @@
           "naziv": "Aparat za kavu Krups KP440E10 Genio S touch silver",
           "barkod": "3016661158773",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECAM 450.86.T Eletta Explore",
@@ -950,7 +950,7 @@
           "naziv": "Aparat za kavu Krups KP1438F0 Mini Me 2 piano black",
           "barkod": "3045380404144",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9330/09",
@@ -1334,7 +1334,7 @@
           "naziv": "Aparat za kavu Krups KP243AF0 Genio S taupe",
           "barkod": "3045380028241",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Philips DST8020/20",
