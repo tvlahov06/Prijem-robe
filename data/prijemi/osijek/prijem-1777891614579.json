@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T10:56:42.759Z",
+  "azurirano": "2026-05-04T10:56:52.790Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -74,7 +74,7 @@
           "naziv": "Usisavac Philips FC9557/09",
           "barkod": "8720389036637",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Tefal FV6812E0",
@@ -596,7 +596,7 @@
           "naziv": "Parna postaja Philips PSG8050/30",
           "barkod": "8720389001086",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECO 311.R Metal Icona Red",
@@ -806,7 +806,7 @@
           "naziv": "Usisavac Gorenje VCE22G6HCO",
           "barkod": "3838782951770",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3AF0 Piccolo XS taupe",
@@ -836,7 +836,7 @@
           "naziv": "Parna postaja Philips PSG8200/70",
           "barkod": "8720389066511",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V16 Piston Animal",
@@ -1004,7 +1004,7 @@
           "naziv": "Parna postaja Philips PSG8030/20",
           "barkod": "8720389001024",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Osvjezivac odjece Philips STH7030/10",
@@ -1142,7 +1142,7 @@
           "naziv": "Parna postaja Philips PSG7300/80",
           "barkod": "8720389058332",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Gorenje VCE28G6ALLGO",
