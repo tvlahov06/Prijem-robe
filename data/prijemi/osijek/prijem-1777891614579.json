@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T10:46:54.579Z",
-  "azurirano": "2026-05-04T11:11:01.043Z",
+  "azurirano": "2026-05-04T11:11:07.689Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu, usisavači, glačala i parne postaje",
@@ -710,7 +710,7 @@
           "naziv": "Osvjezivac odjece Philips STH3020/70",
           "barkod": "8720389037542",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
@@ -1010,7 +1010,7 @@
           "naziv": "Osvjezivac odjece Philips STH7030/10",
           "barkod": "8720389007453",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH7060/80",
