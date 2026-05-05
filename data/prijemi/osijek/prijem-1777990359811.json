@@ -1,0 +1,340 @@
+{
+  "id": "prijem-1777990359811",
+  "poslovnica": "osijek",
+  "naziv": "",
+  "datum": "2026-05-05",
+  "status": "aktivan",
+  "kreirano": "2026-05-05T14:12:39.811Z",
+  "azurirano": "2026-05-05T14:12:39.811Z",
+  "dokumenti": [
+    {
+      "naziv": "Parne postaje, glačala i ostalo",
+      "stavke": [
+        {
+          "naziv": "Glacalo Braun SI5225PU New Texstyle 5",
+          "barkod": "8021098003850",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST3011/20",
+          "barkod": "8720389003035",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST3031/20",
+          "barkod": "8720389003066",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST5030/20",
+          "barkod": "8710103968160",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST7020/20",
+          "barkod": "8720389015564",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST7030/20",
+          "barkod": "8720389015632",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST7040/80",
+          "barkod": "8720389015724",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST7041/20",
+          "barkod": "8720389015762",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST7051/30",
+          "barkod": "8720389016073",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST7061/30",
+          "barkod": "8720389016158",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST7511/80",
+          "barkod": "8720389014352",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST8020/20",
+          "barkod": "8720389004773",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST8040/30",
+          "barkod": "8720389004599",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Russell Hobbs 25400-56 Color Control, 3100W",
+          "barkod": "5038061111019",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Russell Hobbs 27280-56 Colour Control Pro, 2400W",
+          "barkod": "5038061162486",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Russell Hobbs 27281-56 Colour Control Pro Ultra, 2800W",
+          "barkod": "5038061162530",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Russell Hobbs 28630-56 Blue, Powersteam Ultra Pro",
+          "barkod": "5038061171433",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV6812E0",
+          "barkod": "3121040077184",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV8062E0",
+          "barkod": "3121040086476",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV9852E0, 3200W",
+          "barkod": "3121040095737",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
+          "barkod": "8720389023026",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH3010/30",
+          "barkod": "8720389037535",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH3020/70",
+          "barkod": "8720389037542",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH5010/70",
+          "barkod": "8720389043819",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH5020/20",
+          "barkod": "8720389043772",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH5020/40",
+          "barkod": "8720389050084",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH5030/20",
+          "barkod": "8720389050091",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH7020/20",
+          "barkod": "8720389007446",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH7030/10",
+          "barkod": "8720389007453",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH7060/80",
+          "barkod": "8720389007484",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Russell Hobbs 25592-56 Steam Genie Essentials",
+          "barkod": "5038061137644",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Russell Hobbs 27600-56 Blue, Steam Genie Maestro, 2u1",
+          "barkod": "5038061168686",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Russell Hobbs 28370-56 Steam Genie 2u1",
+          "barkod": "5038061136302",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Russell Hobbs 28550-56 Blue, Steam Genie VacuSteam",
+          "barkod": "5038061176247",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Tefal DT2020E1 Pure Pop blue",
+          "barkod": "3121040088494",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips GC7842/40",
+          "barkod": "8710103951032",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips GC7844/20",
+          "barkod": "8710103951049",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG6020/30",
+          "barkod": "8720389015267",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG6042/20",
+          "barkod": "8720389004865",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG7200/20",
+          "barkod": "8720389065170",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG7200/30",
+          "barkod": "8720389065187",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG7300/80",
+          "barkod": "8720389058332",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8030/20",
+          "barkod": "8720389001024",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8050/30",
+          "barkod": "8720389001086",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8140/80",
+          "barkod": "8710103970279",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8200/70",
+          "barkod": "8720389066511",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9221E0",
+          "barkod": "3121040077238",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9711E0",
+          "barkod": "3121040085110",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9812E0",
+          "barkod": "3121040082331",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9823E1, 9 bara, Gold Black",
+          "barkod": "3121040091005",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za uklanjanje vlakana Philips GC026/00 Blue",
+          "barkod": "8720389024955",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za uklanjanje vlakana Philips GC026/80 Black",
+          "barkod": "8720389024962",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za uklanjanje vlakana Philips GCA2100/20",
+          "barkod": "8720389030857",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za uklanjanje vlakana Tefal JB1011E0",
+          "barkod": "3121040070314",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
