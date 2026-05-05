@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T14:30:45.661Z",
-  "azurirano": "2026-05-05T04:57:12.433Z",
+  "azurirano": "2026-05-05T04:57:20.240Z",
   "dokumenti": [
     {
       "naziv": "MSI 2892-101",
@@ -168,7 +168,7 @@
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
           "barkod": "8720389032370",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/40",
