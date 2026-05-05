@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T07:27:25.671Z",
-  "azurirano": "2026-05-05T07:42:48.496Z",
+  "azurirano": "2026-05-05T07:42:50.519Z",
   "dokumenti": [
     {
       "naziv": "MSI 2873-101",
@@ -260,7 +260,7 @@
           "naziv": "Parna postaja Philips PSG8130/80",
           "barkod": "8710103970262",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vaga kuhinjska Tefal BC50D6V0 Mozaic",
