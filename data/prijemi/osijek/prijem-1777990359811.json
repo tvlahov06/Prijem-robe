@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T14:17:09.302Z",
-  "azurirano": "2026-05-05T14:19:58.347Z",
+  "azurirano": "2026-05-05T14:20:54.547Z",
   "dokumenti": [
     {
       "naziv": "Parne postaje, glačala i ostalo",
@@ -20,13 +20,13 @@
           "naziv": "Glacalo Philips DST3011/20",
           "barkod": "8720389003035",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST3031/20",
           "barkod": "8720389003066",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Philips DST5030/20",
@@ -140,7 +140,7 @@
           "naziv": "Osvjezivac odjece Philips STH3010/30",
           "barkod": "8720389037535",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3020/70",
@@ -152,25 +152,25 @@
           "naziv": "Osvjezivac odjece Philips STH5010/70",
           "barkod": "8720389043819",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/20",
           "barkod": "8720389043772",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/40",
           "barkod": "8720389050084",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5030/20",
           "barkod": "8720389050091",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Osvjezivac odjece Philips STH7020/20",
