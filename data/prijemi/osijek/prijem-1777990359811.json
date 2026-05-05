@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T14:17:09.302Z",
-  "azurirano": "2026-05-05T14:25:46.736Z",
+  "azurirano": "2026-05-05T14:25:50.717Z",
   "dokumenti": [
     {
       "naziv": "Parne postaje, glačala i ostalo",
@@ -14,7 +14,7 @@
           "naziv": "Glacalo Braun SI5225PU New Texstyle 5",
           "barkod": "8021098003850",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST3011/20",
@@ -194,7 +194,7 @@
           "naziv": "Osvjezivac odjece Russell Hobbs 25592-56 Steam Genie Essentials",
           "barkod": "5038061137644",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Russell Hobbs 27600-56 Blue, Steam Genie Maestro, 2u1",
@@ -212,7 +212,7 @@
           "naziv": "Osvjezivac odjece Russell Hobbs 28550-56 Blue, Steam Genie VacuSteam",
           "barkod": "5038061176247",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Tefal DT2020E1 Pure Pop blue",
