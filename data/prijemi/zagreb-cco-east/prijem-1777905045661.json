@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T14:30:45.661Z",
-  "azurirano": "2026-05-05T04:55:49.546Z",
+  "azurirano": "2026-05-05T04:55:53.836Z",
   "dokumenti": [
     {
       "naziv": "MSI 2892-101",
@@ -204,7 +204,7 @@
           "naziv": "Parna postaja Philips PSG8030/20",
           "barkod": "8720389001024",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Bosch MFQ40304 Styline Colour crvena/srebrna",
