@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "Aparati za kavu i dodaci",
   "datum": "2026-05-05",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-05-05T13:04:06.607Z",
-  "azurirano": "2026-05-05T14:24:46.831Z",
+  "azurirano": "2026-05-05T15:39:39.974Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu i dodaci",
@@ -420,6 +420,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-05-05T14:24:46.830Z"
+  ]
 }
