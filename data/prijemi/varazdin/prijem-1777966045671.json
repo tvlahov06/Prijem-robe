@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T07:27:25.671Z",
-  "azurirano": "2026-05-05T07:31:44.734Z",
+  "azurirano": "2026-05-05T07:32:06.980Z",
   "dokumenti": [
     {
       "naziv": "MSI 2873-101",
@@ -105,7 +105,7 @@
           "naziv": "Susilica rublja Hisense DH5S102BB",
           "barkod": "6901101827135",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Hisense WF5S1045BB",
@@ -117,7 +117,7 @@
           "naziv": "Perilica rublja slim Hisense WF3S7021BW",
           "barkod": "6901101826602",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Hisense WF5S9045BW",
