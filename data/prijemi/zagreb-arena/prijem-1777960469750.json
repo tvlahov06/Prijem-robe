@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T05:54:29.750Z",
-  "azurirano": "2026-05-05T07:01:19.203Z",
+  "azurirano": "2026-05-05T07:02:30.556Z",
   "dokumenti": [
     {
       "naziv": "MSI 2853-101",
@@ -300,71 +300,6 @@
           "barkod": "4242002688879",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2896-101",
-      "stavke": [
-        {
-          "naziv": "It Takes Two PS4 D27",
-          "barkod": "5030945124696",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Sonic Forces PS4 D38",
-          "barkod": "5055277029389",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Sonic Mania Plus PS4 G39",
-          "barkod": "5055277031726",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sniper Elite 5 PS5",
-          "barkod": "5056208813817",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "Sniper Elite 4: Italia PS4 E15",
-          "barkod": "5060236966100",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Sniper Elite V2 Remastered PS4 E14",
-          "barkod": "5056208803214",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "Sonic Origins Plus - Limited Edition PS5",
-          "barkod": "5055277050406",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "WRC 10 PS5 A26",
-          "barkod": "3665962009637",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "Assetto Corsa Competizione PS5 A34",
-          "barkod": "8023171045986",
-          "ocekivano": 8,
-          "skenirano": 8
-        },
-        {
-          "naziv": "WRC Generations PS5 G15",
-          "barkod": "3665962018301",
-          "ocekivano": 10,
-          "skenirano": 10
         }
       ]
     }
