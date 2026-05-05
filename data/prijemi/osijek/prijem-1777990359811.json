@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T14:17:09.302Z",
-  "azurirano": "2026-05-05T14:28:16.373Z",
+  "azurirano": "2026-05-05T14:28:20.682Z",
   "dokumenti": [
     {
       "naziv": "Parne postaje, glačala i ostalo",
@@ -50,7 +50,7 @@
           "naziv": "Glacalo Philips DST7040/80",
           "barkod": "8720389015724",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Philips DST7041/20",
@@ -62,7 +62,7 @@
           "naziv": "Glacalo Philips DST7051/30",
           "barkod": "8720389016073",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Glacalo Philips DST7061/30",
