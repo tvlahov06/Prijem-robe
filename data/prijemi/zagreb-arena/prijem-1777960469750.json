@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T05:54:29.750Z",
-  "azurirano": "2026-05-05T07:03:49.446Z",
+  "azurirano": "2026-05-05T07:04:05.676Z",
   "dokumenti": [
     {
       "naziv": "MSI 2853-101",
@@ -152,17 +152,6 @@
           "barkod": "3661276163355",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2857-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac stapni Rowenta RH6545WH Air Force Light, Black",
-          "barkod": "3221614001819",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     }
