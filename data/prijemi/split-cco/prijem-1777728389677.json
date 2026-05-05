@@ -5,7 +5,7 @@
   "datum": "2026-05-02",
   "status": "aktivan",
   "kreirano": "2026-05-02T13:26:29.677Z",
-  "azurirano": "2026-05-05T05:57:10.726Z",
+  "azurirano": "2026-05-05T05:57:23.745Z",
   "dokumenti": [
     {
       "naziv": "MSI 2848-101",
@@ -436,7 +436,7 @@
           "naziv": "WRC 10 PS5 A26",
           "barkod": "3665962009637",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Assetto Corsa Competizione PS5 A34",
@@ -448,7 +448,7 @@
           "naziv": "WRC Generations PS5 G15",
           "barkod": "3665962018301",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 7
         }
       ]
     }
