@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "Parne postaje, glačala i ostalo",
   "datum": "2026-05-05",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-05-05T14:17:09.302Z",
-  "azurirano": "2026-05-05T14:29:13.223Z",
+  "azurirano": "2026-05-05T14:29:54.713Z",
   "dokumenti": [
     {
       "naziv": "Parne postaje, glačala i ostalo",
@@ -336,6 +336,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-05-05T14:29:13.222Z"
+  ]
 }
