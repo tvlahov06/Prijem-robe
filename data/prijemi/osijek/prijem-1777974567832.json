@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T09:49:27.832Z",
-  "azurirano": "2026-05-05T11:57:46.138Z",
+  "azurirano": "2026-05-05T11:58:06.583Z",
   "dokumenti": [
     {
       "naziv": "MSI 2869-101",
@@ -20,7 +20,7 @@
           "naziv": "Parna postaja Philips PSG8140/80",
           "barkod": "8710103970279",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Filter za vodu za aparat za kavu DeLonghi DLSC002",
@@ -62,7 +62,7 @@
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
           "barkod": "8720389032370",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST8040/30",
