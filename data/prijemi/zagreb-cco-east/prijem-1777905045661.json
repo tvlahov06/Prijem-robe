@@ -2,10 +2,10 @@
   "id": "prijem-1777905045661",
   "poslovnica": "zagreb-cco-east",
   "naziv": "ROBA 05-05-2026",
-  "datum": "2026-05-04",
+  "datum": "2026-05-05",
   "status": "aktivan",
-  "kreirano": "2026-05-04T14:30:45.661Z",
-  "azurirano": "2026-05-05T05:09:45.533Z",
+  "kreirano": "2026-05-05T05:10:43.468Z",
+  "azurirano": "2026-05-05T05:10:43.468Z",
   "dokumenti": [
     {
       "naziv": "MSI 2892-101",
@@ -313,6 +313,77 @@
           "barkod": "8720389043819",
           "ocekivano": 1,
           "skenirano": 1
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2872-101",
+      "stavke": [
+        {
+          "naziv": "TV HISENSE 32A5Q, 81.3cm (32\"), QLED, FHD Smart TV, VIDAA OS",
+          "barkod": "6942351418179",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE43Q7FAAUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097118527",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE50Q7FAAUXXH, 127.0cm (50\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097118541",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 50PUS7000, 127.0cm (50\"), LED, UHD 4K Smart TV",
+          "barkod": "8718863046029",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 55E8Q, 139.7cm (55\"), ULED MiniLED, 4K UHD Smart TV, VIDAA OS",
+          "barkod": "6942351419862",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PRO TV HISENSE 43E7QPRO, 109.2cm (43\"), QLED, 4K UHD 144Hz, Smart TV, VIDAA OS",
+          "barkod": "6942351424330",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 43UA73003LA 109.2cm (43\"), LED, 4K UHD Smart Q TV, webOS",
+          "barkod": "8806096340066",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097118565",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 40PFS6000, 101.6cm (40\"), LED, FHD Smart TV, Titan OS",
+          "barkod": "8718863045992",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525958",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY K43S35BP.CEI, 109.2cm (43\"), Direct LED, 4K UHD SMART TV, Android TV",
+          "barkod": "4548736168121",
+          "ocekivano": 1,
+          "skenirano": 0
         }
       ]
     }
