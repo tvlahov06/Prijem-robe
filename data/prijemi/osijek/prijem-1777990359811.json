@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T14:17:09.302Z",
-  "azurirano": "2026-05-05T14:26:48.181Z",
+  "azurirano": "2026-05-05T14:26:59.151Z",
   "dokumenti": [
     {
       "naziv": "Parne postaje, glačala i ostalo",
@@ -230,19 +230,19 @@
           "naziv": "Parna postaja Philips GC7844/20",
           "barkod": "8710103951049",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG6020/30",
           "barkod": "8720389015267",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Philips PSG6042/20",
           "barkod": "8720389004865",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG7200/20",
