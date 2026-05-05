@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T13:04:06.607Z",
-  "azurirano": "2026-05-05T13:19:45.585Z",
+  "azurirano": "2026-05-05T13:19:52.120Z",
   "dokumenti": [
     {
       "naziv": "Aparati za kavu i dodaci",
@@ -62,7 +62,7 @@
           "naziv": "Aparat za kavu DeLonghi ECAM 290.21.B Magnifica Evo",
           "barkod": "8004399021358",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
@@ -116,7 +116,7 @@
           "naziv": "Aparat za kavu DeLonghi EXAM440.55.G Rivelia",
           "barkod": "8004399026636",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups EA201BE0 espresso My coffee+",
