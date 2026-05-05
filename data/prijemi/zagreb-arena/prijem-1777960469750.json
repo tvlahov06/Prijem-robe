@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T05:54:29.750Z",
-  "azurirano": "2026-05-05T06:11:28.393Z",
+  "azurirano": "2026-05-05T06:11:33.844Z",
   "dokumenti": [
     {
       "naziv": "MSI 2847-101",
@@ -14,7 +14,7 @@
           "naziv": "TV HISENSE 58E7Q, 147.3cm (58\"), QLED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351418810",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 32A5Q, 81.3cm (32\"), QLED, FHD Smart TV, VIDAA OS",
@@ -56,7 +56,7 @@
           "naziv": "TV LG OLED55C51LA 139.7cm (55\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096381885",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TV LG OLED42C51LA 106.7cm (42\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
@@ -104,7 +104,7 @@
           "naziv": "TV HISENSE 55E7QPRO, 139.7cm (55\"), QLED, 4K UHD 144Hz, Smart TV, VIDAA OS",
           "barkod": "6942351416212",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PRO TV HISENSE 50E7QPRO, 127.0cm (50\"), QLED, 4K UHD 144Hz, Smart TV, VIDAA OS",
