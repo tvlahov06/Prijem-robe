@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T14:30:45.661Z",
-  "azurirano": "2026-05-05T05:03:38.831Z",
+  "azurirano": "2026-05-05T05:03:46.123Z",
   "dokumenti": [
     {
       "naziv": "MSI 2892-101",
@@ -258,7 +258,7 @@
           "naziv": "Usisavac Philips XD3110/09",
           "barkod": "8710103939115",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Philips XU5000/10",
