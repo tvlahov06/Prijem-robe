@@ -5,7 +5,7 @@
   "datum": "2026-05-02",
   "status": "aktivan",
   "kreirano": "2026-05-02T13:26:29.677Z",
-  "azurirano": "2026-05-05T05:58:06.677Z",
+  "azurirano": "2026-05-05T05:58:10.866Z",
   "dokumenti": [
     {
       "naziv": "MSI 2848-101",
@@ -74,7 +74,7 @@
           "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097067672",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
@@ -92,7 +92,7 @@
           "naziv": "TV HISENSE 55U7SE, 139.7cm (55\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351433677",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG OLED65C51LA 165.1cm (65\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
