@@ -5,7 +5,7 @@
   "datum": "2026-05-04",
   "status": "aktivan",
   "kreirano": "2026-05-04T14:30:45.661Z",
-  "azurirano": "2026-05-05T04:56:37.722Z",
+  "azurirano": "2026-05-05T04:56:46.012Z",
   "dokumenti": [
     {
       "naziv": "MSI 2892-101",
@@ -73,7 +73,7 @@
           "naziv": "Usisavac Vivax VCC-700B NEO",
           "barkod": "3856005164905",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Rowenta RO2957EA, Swift Power Classic, White",
