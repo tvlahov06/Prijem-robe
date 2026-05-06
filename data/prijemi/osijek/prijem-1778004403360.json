@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "Airfryeri i dodaci",
   "datum": "2026-05-05",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-05-05T18:06:43.360Z",
-  "azurirano": "2026-05-05T18:31:36.830Z",
+  "azurirano": "2026-05-06T12:50:32.543Z",
   "dokumenti": [
     {
       "naziv": "Airfryeri i friteze",
@@ -186,6 +186,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-05-05T18:31:36.830Z"
+  ]
 }
