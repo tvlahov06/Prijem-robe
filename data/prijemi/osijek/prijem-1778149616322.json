@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T10:26:56.322Z",
-  "azurirano": "2026-05-07T10:27:43.368Z",
+  "azurirano": "2026-05-07T10:27:47.507Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -272,7 +272,7 @@
           "naziv": "Kabel MANHATTAN HDMI 4K@60Hz Certified Premium High Speed with Ethernet, 1m",
           "barkod": "766623394925",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 4K@60Hz Certified Premium High Speed with Ethernet, 2m",
@@ -314,7 +314,7 @@
           "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 2m",
           "barkod": "766623395069",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 2m",
