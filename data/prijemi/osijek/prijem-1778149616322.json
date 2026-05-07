@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T10:26:56.322Z",
-  "azurirano": "2026-05-07T10:37:44.402Z",
+  "azurirano": "2026-05-07T10:37:49.372Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -38,7 +38,7 @@
           "naziv": "CELLULARLINE BOOK ESSENTIAL GALAXY A36/A56 5G",
           "barkod": "8018080492808",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE CLEAR STRONG MASKICA GALAXY A36/A56",
@@ -50,7 +50,7 @@
           "naziv": "CELLULARLINE DRZAC HANDY WING",
           "barkod": "8018080251252",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE FINE PROZIRNA MASKICA IPHONE 16 PRO",
@@ -428,7 +428,7 @@
           "naziv": "Zastita Preklopna CELLULARLINE, Book Essential, Samsung Galaxy A37, Crna",
           "barkod": "8018080514739",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Zastitna Maska CELLULARLINE, Fine, Samsung Galaxy A37, Prozirna",
