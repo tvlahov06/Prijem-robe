@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T10:26:56.322Z",
-  "azurirano": "2026-05-07T10:38:03.162Z",
+  "azurirano": "2026-05-07T10:38:08.666Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -146,7 +146,7 @@
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 20.000 BLUE",
           "barkod": "8018080484629",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 10.000 BLACK",
@@ -158,7 +158,7 @@
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
           "barkod": "8018080481963",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE SOFT GALAXY A26",
