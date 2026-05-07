@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T06:55:04.023Z",
-  "azurirano": "2026-05-07T07:11:02.379Z",
+  "azurirano": "2026-05-07T07:11:11.082Z",
   "dokumenti": [
     {
       "naziv": "1819",
@@ -224,7 +224,7 @@
           "naziv": "Kabel MANHATTAN HDMI 4K@60Hz Certified Premium High Speed with Ethernet, 1m",
           "barkod": "766623394925",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 4K@60Hz Certified Premium High Speed with Ethernet, 2m",
@@ -248,7 +248,7 @@
           "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 2m",
           "barkod": "766623394963",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 3m",
