@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T07:42:18.447Z",
-  "azurirano": "2026-05-07T07:53:41.408Z",
+  "azurirano": "2026-05-07T07:53:53.302Z",
   "dokumenti": [
     {
       "naziv": "111-07001819-26",
@@ -44,19 +44,19 @@
           "naziv": "Mobitel XIAOMI Redmi A7 Pro 4GB/128GB crna",
           "barkod": "6932554493257",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "Mobitel XIAOMI Redmi A7 Pro 4GB/128GB plava",
           "barkod": "6932554493318",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Mobitel XIAOMI Redmi A7 Pro 4GB/128GB zelena",
           "barkod": "6932554493288",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel XIAOMI Redmi A7 Pro 4GB/64GB crna",
