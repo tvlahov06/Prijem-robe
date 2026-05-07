@@ -1,0 +1,244 @@
+{
+  "id": "prijem-1778143605127",
+  "poslovnica": "osijek",
+  "naziv": "TV",
+  "datum": "2026-05-07",
+  "status": "aktivan",
+  "kreirano": "2026-05-07T08:46:45.127Z",
+  "azurirano": "2026-05-07T08:46:45.127Z",
+  "dokumenti": [
+    {
+      "naziv": "TV",
+      "stavke": [
+        {
+          "naziv": "Demo - TV 55\" Sony Bravia 3 K-55S39B",
+          "barkod": "2010030086491",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Demo - TV 55\" Sony Bravia KD-55X75WL",
+          "barkod": "2010030086705",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Demo - TV 55\" Sony Master OLED 55A95L",
+          "barkod": "2010030086484",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Demo - TV HISENSE 50E7Q, 127.0cm (50\"), QLED, 4K UHD Smart TV, VIDAA OS",
+          "barkod": "2010030094076",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Demo - TV SONY K65XR70PAEP, 165.1cm (65\"), Mini LED, 4K UHD SMART TV, Android TV",
+          "barkod": "2010030086910",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Otvorena ambalaza - TV PHILIPS 65PUS8959, 165.1cm (65\"), LED, UHD 4K 144Hz, Smart TV, Titan OS - Ambilight",
+          "barkod": "2010030072838",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Popravljen artikl - TV LG 55QNED86A3A 139.7cm (55\"), QNED, 4K UHD Smart TV, webOS",
+          "barkod": "2010030082288",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV 43\" VIVAX 43UHD10K + VIVAX VOX soundbar SP-7080H",
+          "barkod": "2010030086729",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 43E7QPRO, 109.2cm (43\"), QLED, 4K UHD 144Hz, Smart TV, VIDAA OS",
+          "barkod": "6942351424330",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 50E8Q, 127.0cm (50\"), ULED Mini LED, 4K UHD Smart TV, VIDAA OS",
+          "barkod": "6942351423333",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 55E8Q, 139.7cm (55\"), ULED MiniLED, 4K UHD Smart TV, VIDAA OS",
+          "barkod": "6942351419862",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 65E7Q, 165.1cm (65\"), QLED, 4K UHD Smart TV, VIDAA OS",
+          "barkod": "6942351418902",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG OLED42C51LA 106.7cm (42\"), OLED, 4K UHD 120Hz, Smart TV, webOS",
+          "barkod": "8806096368763",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG OLED48C51LA 121.9cm (48\"), OLED, 4K UHD 120Hz, Smart TV, webOS",
+          "barkod": "8806096353837",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG OLED55C51LA 139.7cm (55\"), OLED, 4K UHD 120Hz, Smart TV, webOS",
+          "barkod": "8806096381885",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 32PHS6000, 81.3cm (32\"), LED, HD Smart TV, Titan OS",
+          "barkod": "8718863045978",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 40PFS6000, 101.6cm (40\"), LED, FHD Smart TV, Titan OS",
+          "barkod": "8718863045992",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 43PUS8510, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
+          "barkod": "8718863045770",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 50PUS7000, 127.0cm (50\"), LED, UHD 4K Smart TV",
+          "barkod": "8718863046029",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 55PUS9010, 139.7cm (55\"), QLED, UHD 4K 144Hz, Smart TV, Titan OS",
+          "barkod": "8718863046340",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE43Q7FAAUXXH, 109.2cm (43\"), QLED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806097118527",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE43Q8FAAUXXH, 109.2cm (43\"), QLED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806097120193",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE48S90FAEXXH, 121.9cm (48\"), OLED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806097079422",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE50Q7FAAUXXH, 127.0cm (50\"), QLED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806097118541",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806097118565",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55Q8FAAUXXH, 139.7cm (55\"), QLED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806097120452",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55QN70FAUXXH, 139.7cm (55\"), Neo QLED Mini LED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806095916934",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55QN80FAUXXH, 139.7cm (55\"), Neo QLED Mini LED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806095995540",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55S85FAUXXH, 139.7cm (55\"), OLED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806095995205",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG UE32H5002FKXXH, 81.3cm (32\"), LED, HD Smart TV, Tizen OS",
+          "barkod": "8806095969893",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG UE43U8092FUXXH, 109.2cm (43\"), LED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806097068556",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806097067672",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG UE55U8072FUXXH, 139.7cm (55\"), LED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806097067603",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY K43S35BP.CEI, 109.2cm (43\"), Direct LED, 4K UHD SMART TV, Android TV",
+          "barkod": "4548736168121",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY K50S35B.CEI, 127cm (50\"), Direct LED, 4K UHD SMART TV, Android TV",
+          "barkod": "4548736167995",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525958",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525804",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525934",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
