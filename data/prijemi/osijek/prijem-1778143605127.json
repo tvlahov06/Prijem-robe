@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T08:46:45.127Z",
-  "azurirano": "2026-05-07T08:46:45.127Z",
+  "azurirano": "2026-05-07T08:51:51.573Z",
   "dokumenti": [
     {
       "naziv": "TV",
@@ -62,7 +62,7 @@
           "naziv": "TV HISENSE 43E7QPRO, 109.2cm (43\"), QLED, 4K UHD 144Hz, Smart TV, VIDAA OS",
           "barkod": "6942351424330",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 50E8Q, 127.0cm (50\"), ULED Mini LED, 4K UHD Smart TV, VIDAA OS",
@@ -86,13 +86,13 @@
           "naziv": "TV LG OLED42C51LA 106.7cm (42\"), OLED, 4K UHD 120Hz, Smart TV, webOS",
           "barkod": "8806096368763",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG OLED48C51LA 121.9cm (48\"), OLED, 4K UHD 120Hz, Smart TV, webOS",
           "barkod": "8806096353837",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG OLED55C51LA 139.7cm (55\"), OLED, 4K UHD 120Hz, Smart TV, webOS",
@@ -110,7 +110,7 @@
           "naziv": "TV PHILIPS 40PFS6000, 101.6cm (40\"), LED, FHD Smart TV, Titan OS",
           "barkod": "8718863045992",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 43PUS8510, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
@@ -146,7 +146,7 @@
           "naziv": "TV SAMSUNG QE48S90FAEXXH, 121.9cm (48\"), OLED, 4K UHD Smart TV, Tizen OS",
           "barkod": "8806097079422",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE50Q7FAAUXXH, 127.0cm (50\"), QLED, 4K UHD Smart TV, Tizen OS",
@@ -170,7 +170,7 @@
           "naziv": "TV SAMSUNG QE55QN70FAUXXH, 139.7cm (55\"), Neo QLED Mini LED, 4K UHD Smart TV, Tizen OS",
           "barkod": "8806095916934",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE55QN80FAUXXH, 139.7cm (55\"), Neo QLED Mini LED, 4K UHD Smart TV, Tizen OS",
@@ -230,7 +230,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
