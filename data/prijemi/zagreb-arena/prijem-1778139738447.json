@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T07:42:18.447Z",
-  "azurirano": "2026-05-07T07:54:08.082Z",
+  "azurirano": "2026-05-07T07:55:34.685Z",
   "dokumenti": [
     {
       "naziv": "111-07001819-26",
@@ -68,7 +68,7 @@
           "naziv": "Mobitel XIAOMI Redmi A7 Pro 4GB/64GB plava",
           "barkod": "6932554493295",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel XIAOMI Redmi A7 Pro 4GB/64GB zelena",
@@ -104,19 +104,19 @@
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 8GB/256GB Black",
           "barkod": "6932554469825",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 8GB/256GB Glacier Blue",
           "barkod": "6932554480516",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 8GB/256GB Titanium",
           "barkod": "6932554480509",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro+ 5G 12GB/512GB Mocha Brown",
