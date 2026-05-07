@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T10:26:56.322Z",
-  "azurirano": "2026-05-07T10:31:42.916Z",
+  "azurirano": "2026-05-07T10:31:49.489Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -32,7 +32,7 @@
           "naziv": "CELLULARLINE BOOK ESSENTIAL GALAXY A26 5G",
           "barkod": "8018080493720",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE BOOK ESSENTIAL GALAXY A36/A56 5G",
@@ -176,13 +176,13 @@
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO",
           "barkod": "8018080499609",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO MAX",
           "barkod": "8018080499586",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA FINE IPHONE 17",
@@ -434,7 +434,7 @@
           "naziv": "Zastitna Maska CELLULARLINE, Fine, Samsung Galaxy A37, Prozirna",
           "barkod": "8018080514463",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitno staklo Cellularline Samsung Galaxy S26 Ultra",
