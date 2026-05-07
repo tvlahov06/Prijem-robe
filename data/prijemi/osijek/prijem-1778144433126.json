@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T09:00:33.126Z",
-  "azurirano": "2026-05-07T09:08:46.774Z",
+  "azurirano": "2026-05-07T09:08:55.629Z",
   "dokumenti": [
     {
       "naziv": "Logitech",
@@ -170,7 +170,7 @@
           "naziv": "Mis Logitech M196, bijeli",
           "barkod": "5099206128323",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M196, crni",
@@ -182,7 +182,7 @@
           "naziv": "Mis Logitech M196, rozi",
           "barkod": "5099206128316",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis logitech M500s, zicani",
@@ -206,7 +206,7 @@
           "naziv": "Mis Logitech M650, rozi",
           "barkod": "5099206097230",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M705 Marathon, srebrni",
