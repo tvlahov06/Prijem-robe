@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T09:00:33.126Z",
-  "azurirano": "2026-05-07T09:13:33.085Z",
+  "azurirano": "2026-05-07T09:13:42.898Z",
   "dokumenti": [
     {
       "naziv": "Logitech",
@@ -20,13 +20,13 @@
           "naziv": "Kontroler Logitech F310, zicani",
           "barkod": "5099206041868",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kontroler Logitech F710, bezicni",
           "barkod": "5099206041905",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "LOGITECH G29 za PS3, PS4, PS5 i PC, igraci volan",
@@ -74,7 +74,7 @@
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
           "barkod": "5099206089235",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech G309 LIGHTSPEED, crni",
@@ -248,7 +248,7 @@
           "naziv": "Podloga za mis Logitech G640 EWR",
           "barkod": "5099206104358",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Shifter Logitech Driving Force",
@@ -308,7 +308,7 @@
           "naziv": "Slusalice Logitech G432, 7.1 gaming, zicane, crno-plave",
           "barkod": "5099206082410",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Logitech G522 LIGHTSPEED, gaming, bezicne, bijele",
@@ -338,7 +338,7 @@
           "naziv": "Slusalice Logitech H390, zicane, USB, bijele",
           "barkod": "5099206107304",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Slusalice Logitech H390, zicane, USB, crne",
@@ -482,7 +482,7 @@
           "naziv": "Unifying Receiver Logitech USB",
           "barkod": "5099206091627",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Volan LOGITECH G G29 + mjenjac",
