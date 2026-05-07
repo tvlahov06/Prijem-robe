@@ -2,10 +2,10 @@
   "id": "prijem-1778104285711",
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
-  "datum": "2026-05-06",
+  "datum": "2026-05-07",
   "status": "aktivan",
-  "kreirano": "2026-05-06T21:51:25.711Z",
-  "azurirano": "2026-05-06T21:51:25.711Z",
+  "kreirano": "2026-05-07T14:13:35.861Z",
+  "azurirano": "2026-05-07T14:13:35.861Z",
   "dokumenti": [
     {
       "naziv": "MSI 2986-101",
@@ -915,6 +915,131 @@
           "naziv": "PRO TV HISENSE 50E7QPRO, 127.0cm (50\"), QLED, 4K UHD 144Hz, Smart TV, VIDAA OS",
           "barkod": "6942351424248",
           "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 2997-101",
+      "stavke": [
+        {
+          "naziv": "Hladnjak ugradbeni Bosch KIV87NSE0",
+          "barkod": "4242005431830",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "T573 Hladnjak ugradbeni Whirlpool WHC18 T573",
+          "barkod": "8003437048159",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak Side by Side Bosch KAG93AIEP",
+          "barkod": "4242005192571",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani LG GBF3102EEV",
+          "barkod": "8806084803047",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja LG F2WR508SBM",
+          "barkod": "8806084510266",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Beko BM3WFSU38213WPBB 3WPBB",
+          "barkod": "8690842655920",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica-susilica rublja Samsung WD90DB7B85GWU4 WU4",
+          "barkod": "8806095589268",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja SAMSUNG WW90CGC0EDABLE BLE",
+          "barkod": "8806097784920",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Beko B1WFM2821WBEE",
+          "barkod": "8690842807503",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Samsung WW90DG6U8FLBU4 BU4",
+          "barkod": "8806095582948",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja SAMSUNG WW80FG3M05AWLE WLE",
+          "barkod": "8806097004745",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Samsung WW90DG6U2FLKU4 KU4",
+          "barkod": "8806095582924",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja SAMSUNG WW80FG5L32TELE ELE",
+          "barkod": "8806097907817",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilica rublja Bosch WTH83255BY",
+          "barkod": "4242005471256",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilica rublja Electrolux EW8D394M",
+          "barkod": "7333394042664",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda ugradbena Bosch SMV4HVX00E",
+          "barkod": "4242005382330",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "3T133 PLE Perilica posuda ugradbena 60 cm Whirlpool WIO 3T133 PLE",
+          "barkod": "8003437611087",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrovalna pecnica ugradbena Bosch BFL523MS0",
+          "barkod": "4242005038855",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrovalna pecnica ugradbena Electrolux LMS2203EMX",
+          "barkod": "7332543673575",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrovalna pecnica ugradbena Samsung MG23A7318CK/E2 E2",
+          "barkod": "8806094305135",
+          "ocekivano": 1,
           "skenirano": 0
         }
       ]
