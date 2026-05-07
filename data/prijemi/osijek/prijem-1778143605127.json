@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T08:46:45.127Z",
-  "azurirano": "2026-05-07T08:52:06.615Z",
+  "azurirano": "2026-05-07T08:52:13.626Z",
   "dokumenti": [
     {
       "naziv": "TV",
@@ -164,7 +164,7 @@
           "naziv": "TV SAMSUNG QE55Q8FAAUXXH, 139.7cm (55\"), QLED, 4K UHD Smart TV, Tizen OS",
           "barkod": "8806097120452",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE55QN70FAUXXH, 139.7cm (55\"), Neo QLED Mini LED, 4K UHD Smart TV, Tizen OS",
@@ -176,13 +176,13 @@
           "naziv": "TV SAMSUNG QE55QN80FAUXXH, 139.7cm (55\"), Neo QLED Mini LED, 4K UHD Smart TV, Tizen OS",
           "barkod": "8806095995540",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55S85FAUXXH, 139.7cm (55\"), OLED, 4K UHD Smart TV, Tizen OS",
           "barkod": "8806095995205",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG UE32H5002FKXXH, 81.3cm (32\"), LED, HD Smart TV, Tizen OS",
@@ -212,7 +212,7 @@
           "naziv": "TV SONY K43S35BP.CEI, 109.2cm (43\"), Direct LED, 4K UHD SMART TV, Android TV",
           "barkod": "4548736168121",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TV SONY K50S35B.CEI, 127cm (50\"), Direct LED, 4K UHD SMART TV, Android TV",
