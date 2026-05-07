@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T08:46:45.127Z",
-  "azurirano": "2026-05-07T08:52:51.015Z",
+  "azurirano": "2026-05-07T08:53:11.050Z",
   "dokumenti": [
     {
       "naziv": "TV",
@@ -62,7 +62,7 @@
           "naziv": "TV HISENSE 43E7QPRO, 109.2cm (43\"), QLED, 4K UHD 144Hz, Smart TV, VIDAA OS",
           "barkod": "6942351424330",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "TV HISENSE 50E8Q, 127.0cm (50\"), ULED Mini LED, 4K UHD Smart TV, VIDAA OS",
@@ -80,7 +80,7 @@
           "naziv": "TV HISENSE 65E7Q, 165.1cm (65\"), QLED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351418902",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG OLED42C51LA 106.7cm (42\"), OLED, 4K UHD 120Hz, Smart TV, webOS",
@@ -98,7 +98,7 @@
           "naziv": "TV LG OLED55C51LA 139.7cm (55\"), OLED, 4K UHD 120Hz, Smart TV, webOS",
           "barkod": "8806096381885",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 32PHS6000, 81.3cm (32\"), LED, HD Smart TV, Titan OS",
@@ -110,13 +110,13 @@
           "naziv": "TV PHILIPS 40PFS6000, 101.6cm (40\"), LED, FHD Smart TV, Titan OS",
           "barkod": "8718863045992",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 43PUS8510, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
           "barkod": "8718863045770",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 50PUS7000, 127.0cm (50\"), LED, UHD 4K Smart TV",
@@ -128,7 +128,7 @@
           "naziv": "TV PHILIPS 55PUS9010, 139.7cm (55\"), QLED, UHD 4K 144Hz, Smart TV, Titan OS",
           "barkod": "8718863046340",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE43Q7FAAUXXH, 109.2cm (43\"), QLED, 4K UHD Smart TV, Tizen OS",
@@ -194,19 +194,19 @@
           "naziv": "TV SAMSUNG UE43U8092FUXXH, 109.2cm (43\"), LED, 4K UHD Smart TV, Tizen OS",
           "barkod": "8806097068556",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K UHD Smart TV, Tizen OS",
           "barkod": "8806097067672",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG UE55U8072FUXXH, 139.7cm (55\"), LED, 4K UHD Smart TV, Tizen OS",
           "barkod": "8806097067603",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SONY K43S35BP.CEI, 109.2cm (43\"), Direct LED, 4K UHD SMART TV, Android TV",
