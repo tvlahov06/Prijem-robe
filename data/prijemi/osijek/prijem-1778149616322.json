@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T10:26:56.322Z",
-  "azurirano": "2026-05-07T10:30:53.638Z",
+  "azurirano": "2026-05-07T10:31:18.765Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -290,7 +290,7 @@
           "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 1m",
           "barkod": "766623394956",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 2m",
@@ -308,13 +308,13 @@
           "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 1m",
           "barkod": "766623395052",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 2m",
           "barkod": "766623395069",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 2m",
@@ -356,7 +356,7 @@
           "naziv": "Kabel MANHATTAN USB 3.2 Type-C to Type-C, 60W, 1m",
           "barkod": "766623394918",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Kabel MANHATTAN USB-C to DisplayPort (DP) 8K@60Hz, 2m",
