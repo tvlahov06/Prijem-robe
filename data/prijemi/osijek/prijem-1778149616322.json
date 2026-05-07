@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T10:26:56.322Z",
-  "azurirano": "2026-05-07T10:29:43.185Z",
+  "azurirano": "2026-05-07T10:29:49.290Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -254,13 +254,13 @@
           "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 1m",
           "barkod": "766623356763",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 2m",
           "barkod": "766623356770",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 3m",
@@ -332,7 +332,7 @@
           "naziv": "Kabel Manhattan USB 2.0 Type-C to Type-B Cable, 2 m",
           "barkod": "766623394895",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN USB 3.0 Type-A to Type-C, 2m",
