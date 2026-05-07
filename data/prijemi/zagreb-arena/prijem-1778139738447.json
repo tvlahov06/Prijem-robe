@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T07:42:18.447Z",
-  "azurirano": "2026-05-07T07:55:46.925Z",
+  "azurirano": "2026-05-07T07:56:02.709Z",
   "dokumenti": [
     {
       "naziv": "111-07001819-26",
@@ -32,13 +32,13 @@
           "naziv": "Mobitel Xiaomi Redmi A5 3GB/64GB plavi",
           "barkod": "6932554425814",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Xiaomi Redmi A5 4GB/128GB crni",
           "barkod": "6932554424978",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Mobitel XIAOMI Redmi A7 Pro 4GB/128GB crna",
@@ -68,7 +68,7 @@
           "naziv": "Mobitel XIAOMI Redmi A7 Pro 4GB/64GB plava",
           "barkod": "6932554493295",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "Mobitel XIAOMI Redmi A7 Pro 4GB/64GB zelena",
