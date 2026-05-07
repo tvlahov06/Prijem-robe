@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T06:55:04.023Z",
-  "azurirano": "2026-05-07T07:11:39.399Z",
+  "azurirano": "2026-05-07T07:11:46.586Z",
   "dokumenti": [
     {
       "naziv": "1819",
@@ -200,7 +200,7 @@
           "naziv": "Kabel MANHATTAN DisplayPort 8K@60Hz (DP), 2m",
           "barkod": "766623356824",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 1m",
@@ -212,7 +212,7 @@
           "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 2m",
           "barkod": "766623356770",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 3m",
@@ -230,7 +230,7 @@
           "naziv": "Kabel MANHATTAN HDMI 4K@60Hz Certified Premium High Speed with Ethernet, 2m",
           "barkod": "766623394932",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 4K@60Hz Certified Premium High Speed with Ethernet, 3m",
@@ -320,7 +320,7 @@
           "naziv": "Kabel MANHATTAN USB-C to DisplayPort (DP) 8K@60Hz, 3m",
           "barkod": "766623394994",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kucni Punjac ANKER Nano USB-C 45W Crna",
