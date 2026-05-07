@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T06:55:04.023Z",
-  "azurirano": "2026-05-07T07:17:14.690Z",
+  "azurirano": "2026-05-07T07:17:21.380Z",
   "dokumenti": [
     {
       "naziv": "1819",
@@ -188,7 +188,7 @@
           "naziv": "Kabel MANHATTAN DisplayPort 4K@60Hz (DP), 2m",
           "barkod": "766623356800",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Kabel MANHATTAN DisplayPort 8K@60Hz (DP), 1m",
@@ -254,7 +254,7 @@
           "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 3m",
           "barkod": "766623394970",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 1m",
