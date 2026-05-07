@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T06:55:04.023Z",
-  "azurirano": "2026-05-07T07:13:54.116Z",
+  "azurirano": "2026-05-07T07:16:30.853Z",
   "dokumenti": [
     {
       "naziv": "1819",
@@ -170,13 +170,13 @@
           "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 1m",
           "barkod": "766623395007",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 2m",
           "barkod": "766623395014",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN DisplayPort 4K@60Hz (DP), 1m",
@@ -260,7 +260,7 @@
           "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 1m",
           "barkod": "766623395052",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 2m",
@@ -272,19 +272,19 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 2m",
           "barkod": "766623356831",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 3m",
           "barkod": "766623356848",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kabel Manhattan USB 2.0 Type-C to Type-B Cable, 2 m",
           "barkod": "766623394895",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN USB 3.0 Type-A to Type-C, 2m",
@@ -302,13 +302,13 @@
           "naziv": "Kabel MANHATTAN USB 3.2 Type-C to Type-C, 100W, 1m",
           "barkod": "766623394901",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN USB 3.2 Type-C to Type-C, 60W, 1m",
           "barkod": "766623394918",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Kabel MANHATTAN USB-C to DisplayPort (DP) 8K@60Hz, 2m",
@@ -332,7 +332,7 @@
           "naziv": "MANHATTAN CITAC SMART CARD",
           "barkod": "766623102049",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MANHATTAN CITAC SMART CARD SIM",
