@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T22:08:13.543Z",
-  "azurirano": "2026-05-08T07:05:16.872Z",
+  "azurirano": "2026-05-08T07:05:26.779Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -116,7 +116,7 @@
           "naziv": "CELLULARLINE KABEL MFI 200CM",
           "barkod": "8018080201912",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KABEL SPIRAL C-C",
@@ -170,7 +170,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL MFI 120 CM",
           "barkod": "8018080175466",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 5
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
