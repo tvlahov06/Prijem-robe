@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:31:15.616Z",
-  "azurirano": "2026-05-08T07:31:25.515Z",
+  "azurirano": "2026-05-08T07:31:42.174Z",
   "dokumenti": [
     {
       "naziv": "MSI 2907-101",
@@ -792,7 +792,7 @@
           "naziv": "IPL depilator Philips BRI977/00 Lumea",
           "barkod": "8720689005944",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
@@ -804,7 +804,7 @@
           "naziv": "Uvijac za kosu Revlon 2U1 SALON",
           "barkod": "761318352228",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6552/15 Face & Body",
@@ -822,7 +822,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP225/50 nastavci Face",
           "barkod": "8720689003087",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD839/00",
