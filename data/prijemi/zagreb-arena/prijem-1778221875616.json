@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:31:15.616Z",
-  "azurirano": "2026-05-08T08:33:09.165Z",
+  "azurirano": "2026-05-08T08:33:26.497Z",
   "dokumenti": [
     {
       "naziv": "MSI 2907-101",
@@ -745,7 +745,7 @@
           "naziv": "HP Smart Tank 720 All-in-One (6UU46A) Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
           "barkod": "195908302995",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CANON Pixma MG2551S Color Inkjet MF pisac - Print, Copy, Scan, A4",
@@ -757,13 +757,13 @@
           "naziv": "Printer HP LaserJet M209dw A4 mono 29ppm USB",
           "barkod": "0194850664267",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP Envy 6120e All-in-One (714L8B) Color Inkjet MF pisac - Print, Scan, Copy, Mobile Fax, Duplex, Wi-Fi, USB, A4 -",
           "barkod": "0197029817518",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
