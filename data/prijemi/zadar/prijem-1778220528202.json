@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:17:22.592Z",
-  "azurirano": "2026-05-08T08:21:56.171Z",
+  "azurirano": "2026-05-08T08:22:12.514Z",
   "dokumenti": [
     {
       "naziv": "MSI 2968-101",
@@ -145,53 +145,6 @@
         {
           "naziv": "Mobitel Apple iPhone 17 256GB Mist Blue",
           "barkod": "195950643930",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2969-101",
-      "stavke": [
-        {
-          "naziv": "Susilo za kosu Remington EC8930E51 AIRviveTM",
-          "barkod": "5038061174762",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "IPL depilator Philips BRI977/00 Lumea",
-          "barkod": "8720689005944",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
-          "barkod": "8720689027137",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uvijac za kosu Revlon 2U1 SALON",
-          "barkod": "761318352228",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sisac za tijelo/kosu/bradu Braun 6u1 3410*",
-          "barkod": "4210201446613",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sisac za kosu/bradu Panasonic ER-GC71-S503",
-          "barkod": "5025232838363",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/88 Optimal White 4/1 black",
-          "barkod": "8720689035064",
           "ocekivano": 1,
           "skenirano": 1
         }
