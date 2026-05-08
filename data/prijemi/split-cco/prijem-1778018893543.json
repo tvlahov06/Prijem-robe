@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T22:08:13.543Z",
-  "azurirano": "2026-05-08T07:29:46.786Z",
+  "azurirano": "2026-05-08T07:29:51.897Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -50,7 +50,7 @@
           "naziv": "Auto Punjac PLOOS, 20W, 1xUSB-A, Kabel, Crni",
           "barkod": "8018080497438",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Auto Punjac PLOOS, 2A, 1xUSB-A, USB-C Kabel 100cm, Crni",
@@ -128,7 +128,7 @@
           "naziv": "CELLULARLINE KABEL SPIRAL USB-C",
           "barkod": "8018080493782",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC HUAWEI I KABEL USB-C 3A/18W",
