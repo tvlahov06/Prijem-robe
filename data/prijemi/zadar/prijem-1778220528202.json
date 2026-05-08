@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:17:22.592Z",
-  "azurirano": "2026-05-08T08:18:03.286Z",
+  "azurirano": "2026-05-08T08:21:26.504Z",
   "dokumenti": [
     {
       "naziv": "MSI 2968-101",
@@ -158,17 +158,6 @@
           "barkod": "8690842575297",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2902-101",
-      "stavke": [
-        {
-          "naziv": "Perilica rublja LG F4WR510SBW",
-          "barkod": "8806084392190",
-          "ocekivano": 4,
-          "skenirano": 4
         }
       ]
     },
