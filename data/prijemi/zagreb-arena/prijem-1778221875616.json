@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:31:15.616Z",
-  "azurirano": "2026-05-08T07:34:00.665Z",
+  "azurirano": "2026-05-08T07:34:09.626Z",
   "dokumenti": [
     {
       "naziv": "MSI 2907-101",
@@ -256,7 +256,7 @@
           "naziv": "Luigi's Mansion 2 HD Switch DSW",
           "barkod": "045496512149",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Donkey Kong Country Returns HD Switch",
@@ -310,7 +310,7 @@
           "naziv": "The Legend of Zelda: Tears of the Kingdom Switch 2",
           "barkod": "0045496312572",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "The Legend of Zelda: Breath Of The Wild Switch 2",
@@ -352,7 +352,7 @@
           "naziv": "Super Mario Galaxy 1 + 2 Switch",
           "barkod": "045496513085",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hyrule Warriors: Age of Imprisonment Switch 2",
@@ -364,7 +364,7 @@
           "naziv": "Metroid Prime 4 Beyond Switch",
           "barkod": "045496513191",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Metroid Prime 4 Beyond Up Switch 2",
@@ -382,7 +382,7 @@
           "naziv": "Xenoblade Chronicles X UP UKV Switch 2",
           "barkod": "0045496314019",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
