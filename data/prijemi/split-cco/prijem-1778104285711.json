@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T14:13:35.861Z",
-  "azurirano": "2026-05-08T06:41:23.609Z",
+  "azurirano": "2026-05-08T06:41:35.919Z",
   "dokumenti": [
     {
       "naziv": "MSI 2986-101",
@@ -14,13 +14,13 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
           "barkod": "8806097827177",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S25 FE 5G 8GB/256GB dual SIM crni",
           "barkod": "8806097644651",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bezicni punjac Samsung 25W magnetic crni",
