@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:31:15.616Z",
-  "azurirano": "2026-05-08T07:34:17.882Z",
+  "azurirano": "2026-05-08T07:34:32.310Z",
   "dokumenti": [
     {
       "naziv": "MSI 2907-101",
@@ -214,13 +214,13 @@
           "naziv": "Super Mario Odyssey Switch A3",
           "barkod": "045496420864",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "The Legend of Zelda: Breath of the Wild Switch EC7",
           "barkod": "045496420055",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Luigi's Mansion 3 Switch",
@@ -232,13 +232,13 @@
           "naziv": "Pokemon Legends Arceus Switch",
           "barkod": "045496428273",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Splatoon 3 Switch",
           "barkod": "045496510619",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "The Legend of Zelda: Tears of the Kingdom Switch E13",
@@ -316,19 +316,19 @@
           "naziv": "The Legend of Zelda: Breath Of The Wild Switch 2",
           "barkod": "0045496312664",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Donkey Kong Bananza Switch 2",
           "barkod": "0045496312763",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Super Mario Jamboree Switch 2",
           "barkod": "0045496312855",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kirby and the Forgotten Land Switch 2",
@@ -340,13 +340,13 @@
           "naziv": "Pokemon Legends Z-A Nintendo Switch 2",
           "barkod": "0045496313043",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pokemon Legends Z-A Nintendo Switch",
           "barkod": "045496512989",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Super Mario Galaxy 1 + 2 Switch",
@@ -358,7 +358,7 @@
           "naziv": "Hyrule Warriors: Age of Imprisonment Switch 2",
           "barkod": "0045496313500",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Metroid Prime 4 Beyond Switch",
