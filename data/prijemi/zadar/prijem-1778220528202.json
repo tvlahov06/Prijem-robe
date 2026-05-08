@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:17:22.592Z",
-  "azurirano": "2026-05-08T07:34:46.053Z",
+  "azurirano": "2026-05-08T07:34:53.927Z",
   "dokumenti": [
     {
       "naziv": "MSI 2968-101",
@@ -278,13 +278,13 @@
           "naziv": "Sisac za kosu/bradu Panasonic ER-GC71-S503",
           "barkod": "5025232838363",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/88 Optimal White 4/1 black",
           "barkod": "8720689035064",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
