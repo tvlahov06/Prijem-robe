@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "roba123",
   "datum": "2026-05-08",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-05-08T06:58:00.614Z",
-  "azurirano": "2026-05-08T07:26:37.674Z",
+  "azurirano": "2026-05-08T07:29:02.367Z",
   "dokumenti": [
     {
       "naziv": "MSI 91-181",
@@ -186,7 +186,7 @@
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
           "barkod": "5901292525798",
           "ocekivano": 2,
-          "skenirano": 2.6942351418179694e+35
+          "skenirano": 2
         }
       ]
     },
@@ -1221,5 +1221,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-05-08T07:29:02.367Z"
 }
