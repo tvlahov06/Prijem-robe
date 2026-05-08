@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:31:15.616Z",
-  "azurirano": "2026-05-08T06:35:55.495Z",
+  "azurirano": "2026-05-08T06:36:01.334Z",
   "dokumenti": [
     {
       "naziv": "MSI 2907-101",
@@ -857,13 +857,13 @@
           "naziv": "TV HISENSE 65E7Q, 165.1cm (65\"), QLED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351418902",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
           "barkod": "5901292525798",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 55PUS9010, 139.7cm (55\"), QLED, UHD 4K 144Hz, Smart TV, Titan OS",
@@ -899,7 +899,7 @@
           "naziv": "TV SONY K65XR8M25BP.CEI, 165.1cm (65\"), OLED, 4K CEI UHD SMART TV, Android TV",
           "barkod": "4548736170254",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
