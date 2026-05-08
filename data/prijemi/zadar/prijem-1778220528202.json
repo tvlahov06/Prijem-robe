@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:17:22.592Z",
-  "azurirano": "2026-05-08T08:21:43.254Z",
+  "azurirano": "2026-05-08T08:21:56.171Z",
   "dokumenti": [
     {
       "naziv": "MSI 2968-101",
@@ -145,35 +145,6 @@
         {
           "naziv": "Mobitel Apple iPhone 17 256GB Mist Blue",
           "barkod": "195950643930",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2901-101",
-      "stavke": [
-        {
-          "naziv": "Apple AirPods 4 (USB-C)",
-          "barkod": "195949688591",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 15 128GB Blue",
-          "barkod": "195949036576",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
-          "barkod": "195950627190",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Silver",
-          "barkod": "195950638844",
           "ocekivano": 1,
           "skenirano": 1
         }
