@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T22:08:13.543Z",
-  "azurirano": "2026-05-08T07:27:56.062Z",
+  "azurirano": "2026-05-08T07:28:14.804Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -32,7 +32,7 @@
           "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni crni",
           "barkod": "194644125806",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "ANKER Kucni bezicni punjac sa magnetskim drzacem 15W, 3u1, crni",
@@ -44,7 +44,7 @@
           "naziv": "ANKER Nano Pro 512, 20W, USB-C, bijeli",
           "barkod": "0194644125646",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Auto Punjac PLOOS, 20W, 1xUSB-A, Kabel, Crni",
@@ -410,7 +410,7 @@
           "naziv": "Kucni Punjac ANKER Nano USB-C 45W Crna",
           "barkod": "194644225728",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kucni Punjac PLOOS, 1A, 1xUSB-A, Crni",
@@ -470,7 +470,7 @@
           "naziv": "Punjac ANKER 511 CHARGER NANO 3, 30W: BIJELA-PUNJAC",
           "barkod": "194644103538",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Slusalice CELLULARLINE, AUDIO MUSIC SOUND, Bluetooth, In-Ear, TWS, Swag, Black",
