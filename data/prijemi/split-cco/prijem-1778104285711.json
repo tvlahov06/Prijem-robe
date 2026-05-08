@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T14:13:35.861Z",
-  "azurirano": "2026-05-08T07:02:55.440Z",
+  "azurirano": "2026-05-08T07:12:06.406Z",
   "dokumenti": [
     {
       "naziv": "MSI 2986-101",
@@ -926,7 +926,7 @@
           "naziv": "Hladnjak ugradbeni Bosch KIV87NSE0",
           "barkod": "4242005431830",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "T573 Hladnjak ugradbeni Whirlpool WHC18 T573",
@@ -938,7 +938,7 @@
           "naziv": "Hladnjak Side by Side Bosch KAG93AIEP",
           "barkod": "4242005192571",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hladnjak kombinirani LG GBF3102EEV",
@@ -950,13 +950,13 @@
           "naziv": "Perilica rublja LG F2WR508SBM",
           "barkod": "8806084510266",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Beko BM3WFSU38213WPBB 3WPBB",
           "barkod": "8690842655920",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica-susilica rublja Samsung WD90DB7B85GWU4 WU4",
@@ -986,13 +986,13 @@
           "naziv": "Perilica rublja SAMSUNG WW80FG3M05AWLE WLE",
           "barkod": "8806097004745",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Samsung WW90DG6U2FLKU4 KU4",
           "barkod": "8806095582924",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja SAMSUNG WW80FG5L32TELE ELE",
@@ -1004,7 +1004,7 @@
           "naziv": "Susilica rublja Bosch WTH83255BY",
           "barkod": "4242005471256",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilica rublja Electrolux EW8D394M",
@@ -1016,7 +1016,7 @@
           "naziv": "Perilica posuda ugradbena Bosch SMV4HVX00E",
           "barkod": "4242005382330",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "3T133 PLE Perilica posuda ugradbena 60 cm Whirlpool WIO 3T133 PLE",
@@ -1028,7 +1028,7 @@
           "naziv": "Mikrovalna pecnica ugradbena Bosch BFL523MS0",
           "barkod": "4242005038855",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrovalna pecnica ugradbena Electrolux LMS2203EMX",
