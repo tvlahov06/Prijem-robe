@@ -5,85 +5,8 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:31:15.616Z",
-  "azurirano": "2026-05-08T09:37:30.005Z",
+  "azurirano": "2026-05-08T09:37:49.398Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 2921-101",
-      "stavke": [
-        {
-          "naziv": "Brijac za glavu Philips HS5980/15",
-          "barkod": "8720689044264",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Susilo za kosu Babyliss D251PE",
-          "barkod": "3030050192964",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pegla za kosu Revlon EASY HEAT",
-          "barkod": "7630127500737",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "IPL depilator Philips BRI977/00 Lumea",
-          "barkod": "8720689005944",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
-          "barkod": "8720689027137",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uvijac za kosu Revlon 2U1 SALON",
-          "barkod": "761318352228",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Brijaci aparat Philips OneBlade Pro QP6552/15 Face & Body",
-          "barkod": "8720689027199",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Brijac za glavu Philips HS5980/15",
-          "barkod": "8720689044264",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Brijaci aparat Philips OneBlade QP225/50 nastavci Face",
-          "barkod": "8720689003087",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Susilo za kosu Philips BHD839/00",
-          "barkod": "8720689032384",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Cetkica za zube OralB iO2 GREEN",
-          "barkod": "8700216611848",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Cetkica za zube OralB iO3 BLUSH PINK",
-          "barkod": "8006540731222",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
     {
       "naziv": "MSI 2993-101",
       "stavke": [
