@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T17:25:01.438Z",
-  "azurirano": "2026-05-08T05:06:48.544Z",
+  "azurirano": "2026-05-08T05:07:15.100Z",
   "dokumenti": [
     {
       "naziv": "MSI 2967-101",
@@ -897,7 +897,7 @@
           "naziv": "Mis Logitech M171, crni",
           "barkod": "5099206062856",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech MX Anywhere 3S Graphite",
@@ -909,7 +909,7 @@
           "naziv": "Mis Logitech M196, crni",
           "barkod": "5099206128330",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "za mis Logitech G640 EWR",
