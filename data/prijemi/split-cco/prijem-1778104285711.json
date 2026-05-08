@@ -5,7 +5,7 @@
   "datum": "2026-05-07",
   "status": "aktivan",
   "kreirano": "2026-05-07T14:13:35.861Z",
-  "azurirano": "2026-05-08T05:59:54.086Z",
+  "azurirano": "2026-05-08T06:02:01.392Z",
   "dokumenti": [
     {
       "naziv": "MSI 2986-101",
@@ -944,7 +944,7 @@
           "naziv": "Hladnjak kombinirani LG GBF3102EEV",
           "barkod": "8806084803047",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja LG F2WR508SBM",
@@ -998,7 +998,7 @@
           "naziv": "Perilica rublja SAMSUNG WW80FG5L32TELE ELE",
           "barkod": "8806097907817",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilica rublja Bosch WTH83255BY",
@@ -1022,7 +1022,7 @@
           "naziv": "3T133 PLE Perilica posuda ugradbena 60 cm Whirlpool WIO 3T133 PLE",
           "barkod": "8003437611087",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mikrovalna pecnica ugradbena Bosch BFL523MS0",
@@ -1040,7 +1040,7 @@
           "naziv": "Mikrovalna pecnica ugradbena Samsung MG23A7318CK/E2 E2",
           "barkod": "8806094305135",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
