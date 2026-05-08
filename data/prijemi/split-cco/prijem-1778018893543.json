@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T22:08:13.543Z",
-  "azurirano": "2026-05-08T07:30:40.103Z",
+  "azurirano": "2026-05-08T07:30:45.539Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -380,7 +380,7 @@
           "naziv": "Kabel PLOOS, USB-A na Lightning, MFI, 100cm, Bijeli",
           "barkod": "8018080367854",
           "ocekivano": 8,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
@@ -434,7 +434,7 @@
           "naziv": "Kucni Punjac PLOOS, 2A, 1xUSB-A, Kabel USB-C 100cm, Crni",
           "barkod": "8018080367663",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Kucni Punjac PLOOS, Dual, 20W, 1xUSB-A, 1xUSB-C, Crni",
@@ -506,7 +506,7 @@
           "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Capsule, In-Ear, 3,5mm, Crne",
           "barkod": "8018080371394",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Capsule, In-Ear, 3,5mm, Crvene",
