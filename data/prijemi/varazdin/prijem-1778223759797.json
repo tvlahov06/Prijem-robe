@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T07:02:39.797Z",
-  "azurirano": "2026-05-08T13:04:11.967Z",
+  "azurirano": "2026-05-08T13:04:56.282Z",
   "dokumenti": [
     {
       "naziv": "MSI 2918-101",
@@ -109,13 +109,13 @@
           "naziv": "Nintendo Switch 2 Console - Light Blue & Light Red Joy-Con",
           "barkod": "5949106280914",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Nintendo Switch 2 Console - Mario Kart World Bundle",
           "barkod": "5949106280921",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Nintendo Switch 2 Carrying Case And Screen Protector",
