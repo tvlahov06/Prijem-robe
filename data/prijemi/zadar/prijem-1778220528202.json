@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:17:22.592Z",
-  "azurirano": "2026-05-08T06:51:46.274Z",
+  "azurirano": "2026-05-08T06:51:55.720Z",
   "dokumenti": [
     {
       "naziv": "MSI 2905-101",
@@ -632,13 +632,13 @@
           "naziv": "TV HISENSE 50U7Q, 127.0cm (50\"), ULED Mini LED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351420899",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
           "barkod": "5901292525798",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 32PHS5500, 81.3cm (32\"), LED, HD",
@@ -650,7 +650,7 @@
           "naziv": "TV PHILIPS 50PUS8510, 127.0cm (50\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
           "barkod": "8718863045817",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55S90FAEXXH, 139.7cm (55\"), OLED, 4K H UHD Smart TV, Tizen OS",
@@ -662,7 +662,7 @@
           "naziv": "TV SAMSUNG UE43U7022FKXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097253211",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         }
       ]
     },
