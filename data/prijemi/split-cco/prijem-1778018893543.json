@@ -5,7 +5,7 @@
   "datum": "2026-05-05",
   "status": "aktivan",
   "kreirano": "2026-05-05T22:08:13.543Z",
-  "azurirano": "2026-05-08T07:30:45.539Z",
+  "azurirano": "2026-05-08T07:30:56.403Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -134,7 +134,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC HUAWEI I KABEL USB-C 3A/18W",
           "barkod": "8018080303869",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC I KABEL USB-C 3A/15W",
@@ -182,7 +182,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
           "barkod": "8018080270413",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 20.000 BLUE",
@@ -392,7 +392,7 @@
           "naziv": "Kabel PLOOS, USB-A na USB-C, 100cm, Bijeli",
           "barkod": "8018080369780",
           "ocekivano": 8,
-          "skenirano": 5
+          "skenirano": 8
         },
         {
           "naziv": "Kabel PLOOS, USB-C na Lightning, MFI, 100cm, Bijeli",
@@ -404,7 +404,7 @@
           "naziv": "Kabel PLOOS, USB-C na USB-C, 100cm, Bijeli",
           "barkod": "8018080371509",
           "ocekivano": 8,
-          "skenirano": 6
+          "skenirano": 8
         },
         {
           "naziv": "Kucni Punjac ANKER Nano USB-C 45W Crna",
