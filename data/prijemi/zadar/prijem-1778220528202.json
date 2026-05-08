@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:17:22.592Z",
-  "azurirano": "2026-05-08T07:36:25.170Z",
+  "azurirano": "2026-05-08T07:36:30.965Z",
   "dokumenti": [
     {
       "naziv": "MSI 2968-101",
@@ -383,7 +383,7 @@
           "naziv": "Mis Logitech M190, crni",
           "barkod": "5099206091825",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         }
       ]
     },
@@ -631,7 +631,7 @@
           "naziv": "Silikonska maska za Samsung Galaxy Z Fold7 crna",
           "barkod": "8806097469230",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Slim magnetna maska za Samsung Galaxy S26 Ultra crna",
@@ -643,7 +643,7 @@
           "naziv": "Zastitna folija za Samsung Galaxy Z Fold7 2 komada",
           "barkod": "8806097469193",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
