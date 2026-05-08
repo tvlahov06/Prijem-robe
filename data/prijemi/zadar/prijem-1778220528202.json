@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:17:22.592Z",
-  "azurirano": "2026-05-08T07:28:44.241Z",
+  "azurirano": "2026-05-08T07:28:50.116Z",
   "dokumenti": [
     {
       "naziv": "MSI 2905-101",
@@ -277,7 +277,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB crni",
           "barkod": "8806097827467",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Watch SE 3 GPS 44mm Midnight Aluminium Case with Midnight Sport Band - M/L",
@@ -295,7 +295,7 @@
           "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM tamno zeleni",
           "barkod": "8806099035426",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 8GB/256GB WiFi sivi",
