@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:58:00.614Z",
-  "azurirano": "2026-05-11T09:29:26.618Z",
+  "azurirano": "2026-05-11T09:29:51.687Z",
   "dokumenti": [
     {
       "naziv": "MSI 91-181",
@@ -39,29 +39,6 @@
           "barkod": "3838782889004",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2946-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Apple iPhone 15 128GB Blue",
-          "barkod": "195949036576",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
-          "barkod": "195950627190",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Silver",
-          "barkod": "195950638844",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
