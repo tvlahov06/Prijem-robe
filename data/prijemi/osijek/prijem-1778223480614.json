@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:58:00.614Z",
-  "azurirano": "2026-05-11T09:41:57.839Z",
+  "azurirano": "2026-05-11T09:42:14.562Z",
   "dokumenti": [
     {
       "naziv": "MSI 91-181",
@@ -39,71 +39,6 @@
           "barkod": "3838782889004",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2951-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac Dyson V15 Detect Absolute",
-          "barkod": "5025155081754",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Amber Silk/Pink Champagne Limited Edition",
-          "barkod": "5025155120095",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Amber Silk/Pink Champagne Straight+Wavy Limited Edition",
-          "barkod": "5025155119693",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
-          "barkod": "5025155127759",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac Dyson V11 Advanced",
-          "barkod": "5025155096093",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB907CP 900W",
-          "barkod": "8006447000087",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NB907S 900W",
-          "barkod": "8006447002487",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NB505DG 500W",
-          "barkod": "8006447000070",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB907MASL 900W",
-          "barkod": "8006447003026",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NBP003W Portable bijeli",
-          "barkod": "8006447002098",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
