@@ -5,7 +5,7 @@
   "datum": "2026-05-08",
   "status": "aktivan",
   "kreirano": "2026-05-08T06:58:00.614Z",
-  "azurirano": "2026-05-11T09:40:34.657Z",
+  "azurirano": "2026-05-11T09:41:57.839Z",
   "dokumenti": [
     {
       "naziv": "MSI 91-181",
@@ -39,71 +39,6 @@
           "barkod": "3838782889004",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 2947-101",
-      "stavke": [
-        {
-          "naziv": "Pegla za kosu + susilo Remington 2u1 AS8930E51 AIRviveTM Air Styler",
-          "barkod": "5038061174700",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Brijac za glavu Philips HS5980/15",
-          "barkod": "8720689044264",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
-          "barkod": "8720689045094",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Susilo za kosu Rowenta HY9430E0, Maestria 4 You Ultimate Experience",
-          "barkod": "3121040096017",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sisac za tijelo 8U1 Philips MG3730/15",
-          "barkod": "8710103794578",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sisac za tijelo/kosu/bradu Braun 6u1 3410*",
-          "barkod": "4210201446613",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Brijaci aparat Philips OneBlade Pro QP4631/65 Face & Body",
-          "barkod": "8720689020558",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Brijac za glavu Philips HS5980/15",
-          "barkod": "8720689044264",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uvijac za kosu Philips BHB887/00 tulip SenseIQ",
-          "barkod": "8720689002141",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sisac za tijelo 15U1 Philips MG7940/15",
-          "barkod": "8720689002264",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
