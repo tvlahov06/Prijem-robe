@@ -1,0 +1,34 @@
+{
+  "id": "prijem-1778492458672",
+  "poslovnica": "osijek",
+  "naziv": "robaaa",
+  "datum": "2026-05-11",
+  "status": "aktivan",
+  "kreirano": "2026-05-11T09:40:58.672Z",
+  "azurirano": "2026-05-11T09:40:58.672Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 2942-101",
+      "stavke": [
+        {
+          "naziv": "Friteza na vruci zrak Xiaomi Smart Dual Stack Air Fryer 12L",
+          "barkod": "6932554444709",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Xiaomi Smart Air Fryer Pro 6,5L Crna",
+          "barkod": "6941812729304",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA462/70 Airfryer vertikalni",
+          "barkod": "8720389072239",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
