@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "roba123",
   "datum": "2026-05-08",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-05-08T06:58:00.614Z",
-  "azurirano": "2026-05-11T08:33:09.108Z",
+  "azurirano": "2026-05-11T09:16:52.525Z",
   "dokumenti": [
     {
       "naziv": "MSI 91-181",
@@ -1032,6 +1032,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-05-08T07:29:02.367Z"
+  ]
 }
