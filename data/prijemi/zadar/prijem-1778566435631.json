@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T06:13:55.631Z",
-  "azurirano": "2026-05-12T07:23:31.454Z",
+  "azurirano": "2026-05-12T07:23:38.688Z",
   "dokumenti": [
     {
       "naziv": "MSI 3081-101",
@@ -795,7 +795,7 @@
           "naziv": "Osvjezivac odjece Philips STH3010/30",
           "barkod": "8720389037535",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8050/30",
