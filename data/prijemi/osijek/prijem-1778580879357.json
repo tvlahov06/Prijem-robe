@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T10:14:39.357Z",
-  "azurirano": "2026-05-12T10:30:48.371Z",
+  "azurirano": "2026-05-12T10:31:53.949Z",
   "dokumenti": [
     {
       "naziv": "MSI 3022-101",
@@ -805,31 +805,31 @@
           "naziv": "Pametni sat Huawei Watch Fit 5 bijeli (Niki-B19F)",
           "barkod": "6942103189692",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 Pro 46mm Black (Vili-B29F)",
           "barkod": "6942103132032",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
           "barkod": "6942103168246",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei GT Runner 2 (Chitu-B19F) 43,5mm O Dusk Blue - DEMO",
           "barkod": "2010030078533",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei GT Runner 2 (Chitu-B19FB) 43,5mm O Midnight Black - DEMO",
           "barkod": "2010030078526",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
