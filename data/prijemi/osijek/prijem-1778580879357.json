@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T10:14:39.357Z",
-  "azurirano": "2026-05-12T11:21:14.004Z",
+  "azurirano": "2026-05-12T11:21:18.540Z",
   "dokumenti": [
     {
       "naziv": "MSI 3022-101",
@@ -144,7 +144,7 @@
           "naziv": "MIS SBOX M-958 Crni",
           "barkod": "0616320538309",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "White Shark MIS GM-5018 CARADOC RGB/7200 dpi/Crni",
@@ -216,7 +216,7 @@
           "naziv": "Eksterni disk ADATA Ex HDD HD330, 2TB, usb3.0, plavi -CBL",
           "barkod": "4713218465504",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-051 300x250X2mm",
