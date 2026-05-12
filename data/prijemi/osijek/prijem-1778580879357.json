@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T10:14:39.357Z",
-  "azurirano": "2026-05-12T11:19:31.183Z",
+  "azurirano": "2026-05-12T11:19:35.960Z",
   "dokumenti": [
     {
       "naziv": "MSI 3022-101",
@@ -108,7 +108,7 @@
           "naziv": "Micro SD Samsung memorijska kartica 64GB EVO Plus + adapter MB-MC64SA/EU",
           "barkod": "8806095420134",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
@@ -240,7 +240,7 @@
           "naziv": "USB STICK KINGSTON FD 128GB USB3.2 Exodia",
           "barkod": "740617314359",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Torba Lenovo Topload 16'' ECO, 4X41C12469",
