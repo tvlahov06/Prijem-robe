@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T06:13:55.631Z",
-  "azurirano": "2026-05-12T07:58:32.806Z",
+  "azurirano": "2026-05-12T08:00:38.365Z",
   "dokumenti": [
     {
       "naziv": "MSI 3081-101",
@@ -461,7 +461,7 @@
           "naziv": "Aparat za kavu Krups KP143BF0 Mini Me 2 cosmic grey",
           "barkod": "3045380404151",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP2224/10 espresso",
@@ -521,7 +521,7 @@
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
           "barkod": "8720389030307",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups SA403BE0 espresso Coffee Crush Experience Lioness",
@@ -617,7 +617,7 @@
           "naziv": "Aparat za kavu Krups KP143BF0 Mini Me 2 cosmic grey",
           "barkod": "3045380404151",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Philips XU2100/15",
