@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T06:48:44.434Z",
-  "azurirano": "2026-05-12T08:06:08.786Z",
+  "azurirano": "2026-05-12T08:06:15.361Z",
   "dokumenti": [
     {
       "naziv": "MSI 3031-101",
@@ -252,7 +252,7 @@
           "naziv": "USB STICK KINGSTON FD Exodia 256GB USB 3.2 KC-U2G256-5R",
           "barkod": "740617314366",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 64GB, USB3.2 BE",
