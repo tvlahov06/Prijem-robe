@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T06:13:55.631Z",
-  "azurirano": "2026-05-12T07:29:25.490Z",
+  "azurirano": "2026-05-12T07:29:53.536Z",
   "dokumenti": [
     {
       "naziv": "MSI 3081-101",
@@ -735,7 +735,7 @@
           "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
           "barkod": "8720389023026",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8140/80",
