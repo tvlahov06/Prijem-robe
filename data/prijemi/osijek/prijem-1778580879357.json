@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T10:14:39.357Z",
-  "azurirano": "2026-05-12T10:44:26.365Z",
+  "azurirano": "2026-05-12T10:51:51.704Z",
   "dokumenti": [
     {
       "naziv": "MSI 3022-101",
@@ -31,7 +31,7 @@
           "naziv": "Laptop ACER Aspire Lite 15, NX.DJWEX.001, 39.6cm (15.6\") IPS FHD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB",
           "barkod": "4711474693945",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS TUF Gaming F16, FX608JMR-RV024, 40.6cm",
@@ -79,19 +79,19 @@
           "naziv": "Laptop Apple Macbook Neo Indigo, mhff4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
           "barkod": "195950852578",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Apple Macbook Neo Citrus, mhfe4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
           "barkod": "195950852103",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Apple Macbook Neo Silver, mhfc4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
           "barkod": "195950851168",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
