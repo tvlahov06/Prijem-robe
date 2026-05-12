@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T10:14:39.357Z",
-  "azurirano": "2026-05-12T11:07:40.881Z",
+  "azurirano": "2026-05-12T11:07:51.352Z",
   "dokumenti": [
     {
       "naziv": "MSI 3022-101",
@@ -674,7 +674,7 @@
           "naziv": "Osvjezivac odjece Russell Hobbs 27600-56 Blue, Steam Genie Maestro, 2u1",
           "barkod": "5038061168686",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kava LAVAZZA zrno Crema E Gusto Classico 1kg",
@@ -752,7 +752,7 @@
           "naziv": "Glacalo Tefal FV9848E0",
           "barkod": "3121040071526",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal SV6140E0",
