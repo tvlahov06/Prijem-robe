@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T10:14:39.357Z",
-  "azurirano": "2026-05-12T11:20:12.345Z",
+  "azurirano": "2026-05-12T11:20:19.926Z",
   "dokumenti": [
     {
       "naziv": "MSI 3022-101",
@@ -192,7 +192,7 @@
           "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
           "barkod": "8715946701271",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-011 WALRUS Crna/narancasta 800x400 XL",
@@ -270,7 +270,7 @@
           "naziv": "Tinta HP 305 Tri-colour Original Ink Cartridge, 3YM60AE - Instant Ink",
           "barkod": "194441597318",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "MicroSD memorijska kartica Samsung 128GB EVO Plus + U adapter MB-MC128SA/EU",
@@ -288,7 +288,7 @@
           "naziv": "Tinta HP 652 Tri-Colour Original Ink Advantage Cartridge, F6V24AE",
           "barkod": "889296160892",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PODLOGA ZA MIS SBOX MP-01 ERGO Crna",
