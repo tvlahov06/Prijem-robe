@@ -5,42 +5,6 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T06:48:44.434Z",
-  "azurirano": "2026-05-12T08:41:31.355Z",
-  "dokumenti": [
-    {
-      "naziv": "MSI 3067-101",
-      "stavke": [
-        {
-          "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
-          "barkod": "6926597761725",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Klima uredaj 3,5kW Bosch Climate CL3000i-Set 35 WE",
-          "barkod": "4062321296087",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za pripremu sladoleda Ninja NC502EU Creami Deluxe",
-          "barkod": "622356350907",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Aparat za pripremu sladoleda Ninja NC701EU Creami Swirl",
-          "barkod": "0622356292306",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za pripremu sladoleda Ninja NC302EU Creami",
-          "barkod": "0622356350884",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    }
-  ]
+  "azurirano": "2026-05-12T08:41:51.180Z",
+  "dokumenti": []
 }
