@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T10:14:39.357Z",
-  "azurirano": "2026-05-12T10:28:35.975Z",
+  "azurirano": "2026-05-12T10:30:21.675Z",
   "dokumenti": [
     {
       "naziv": "MSI 3022-101",
@@ -740,7 +740,7 @@
           "naziv": "Parna postaja Philips PSG8050/30",
           "barkod": "8720389001086",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Bosch MFQ4930B crna/tamno srebrna",
