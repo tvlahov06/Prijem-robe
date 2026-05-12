@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T10:14:39.357Z",
-  "azurirano": "2026-05-12T11:12:52.994Z",
+  "azurirano": "2026-05-12T11:12:57.840Z",
   "dokumenti": [
     {
       "naziv": "MSI 3022-101",
@@ -692,7 +692,7 @@
           "naziv": "Usisavac Philips FC9330/09",
           "barkod": "8720389036088",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/40",
@@ -704,7 +704,7 @@
           "naziv": "Friteza na vruci zrak Philips HD9285/00 Airfryer XXL",
           "barkod": "8720389033452",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
