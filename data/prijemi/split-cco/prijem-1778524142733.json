@@ -5,7 +5,7 @@
   "datum": "2026-05-11",
   "status": "aktivan",
   "kreirano": "2026-05-11T18:29:02.733Z",
-  "azurirano": "2026-05-12T06:33:45.129Z",
+  "azurirano": "2026-05-12T06:33:55.568Z",
   "dokumenti": [
     {
       "naziv": "MSI 3056-101",
@@ -460,7 +460,7 @@
           "naziv": "Osvjezivac odjece Philips STH5020/20",
           "barkod": "8720389043772",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal SV8130E0",
