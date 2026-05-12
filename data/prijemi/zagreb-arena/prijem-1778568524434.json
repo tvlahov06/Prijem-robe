@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T06:48:44.434Z",
-  "azurirano": "2026-05-12T07:37:34.685Z",
+  "azurirano": "2026-05-12T07:37:51.722Z",
   "dokumenti": [
     {
       "naziv": "MSI 3031-101",
@@ -889,7 +889,7 @@
           "naziv": "Parna postaja Tefal SV8130E0",
           "barkod": "3121040086193",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST8020/20",
@@ -937,7 +937,7 @@
           "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5011F0",
           "barkod": "3121040091609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mlinac za kavu Bosch TSM6A011W bijeli",
