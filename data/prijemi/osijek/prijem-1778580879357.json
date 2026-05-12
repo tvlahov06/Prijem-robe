@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T10:14:39.357Z",
-  "azurirano": "2026-05-12T10:33:05.130Z",
+  "azurirano": "2026-05-12T10:33:59.259Z",
   "dokumenti": [
     {
       "naziv": "MSI 3022-101",
@@ -698,7 +698,7 @@
           "naziv": "Osvjezivac odjece Philips STH5020/40",
           "barkod": "8720389050084",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips HD9285/00 Airfryer XXL",
@@ -728,7 +728,7 @@
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC500 dekalcifikator",
           "barkod": "8004399329492",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3010/30",
@@ -746,7 +746,7 @@
           "naziv": "Mikser rucni Bosch MFQ4930B crna/tamno srebrna",
           "barkod": "4242005297054",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Tefal FV9848E0",
