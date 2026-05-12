@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T06:48:44.434Z",
-  "azurirano": "2026-05-12T07:43:34.035Z",
+  "azurirano": "2026-05-12T07:43:41.026Z",
   "dokumenti": [
     {
       "naziv": "MSI 3031-101",
@@ -859,13 +859,13 @@
           "naziv": "Blender Philips HR3020/20",
           "barkod": "8720389032615",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Philips HD2510/90",
           "barkod": "8720389031540",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Rowenta RH2098WO X-Force Flex 9.60 Complete*",
