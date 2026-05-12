@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T06:48:44.434Z",
-  "azurirano": "2026-05-12T08:10:32.727Z",
+  "azurirano": "2026-05-12T08:10:38.499Z",
   "dokumenti": [
     {
       "naziv": "MSI 3031-101",
@@ -134,13 +134,13 @@
           "naziv": "Soundbar Sony",
           "barkod": "4548736121737",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
           "barkod": "4548736161436",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/D",
