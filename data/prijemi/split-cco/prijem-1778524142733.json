@@ -5,7 +5,7 @@
   "datum": "2026-05-11",
   "status": "aktivan",
   "kreirano": "2026-05-11T18:29:02.733Z",
-  "azurirano": "2026-05-12T06:57:25.859Z",
+  "azurirano": "2026-05-12T06:57:33.041Z",
   "dokumenti": [
     {
       "naziv": "MSI 3056-101",
@@ -608,7 +608,7 @@
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
           "barkod": "8004399329485",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3B10 Piccolo XS black/anthracite PF",
@@ -644,7 +644,7 @@
           "naziv": "Filter za vodu za aparat za kavu DeLonghi DLSC002",
           "barkod": "8004399327252",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
@@ -710,7 +710,7 @@
           "naziv": "Uredaj za uklanjanje vlakana Philips GC026/80 Black",
           "barkod": "8720389024962",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mikser rucni Bosch MFQ4930B crna/tamno srebrna",
