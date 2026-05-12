@@ -5,7 +5,7 @@
   "datum": "2026-05-11",
   "status": "aktivan",
   "kreirano": "2026-05-11T18:29:02.733Z",
-  "azurirano": "2026-05-12T06:28:31.789Z",
+  "azurirano": "2026-05-12T06:28:41.621Z",
   "dokumenti": [
     {
       "naziv": "MSI 3056-101",
@@ -668,7 +668,7 @@
           "naziv": "Glacalo Philips DST8040/30",
           "barkod": "8720389004599",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
@@ -764,7 +764,7 @@
           "naziv": "Glacalo Gorenje SIH3200DB",
           "barkod": "3838782829925",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac robot iRobot Roomba Combo 105 + Baza AutoEmptyTM White",
