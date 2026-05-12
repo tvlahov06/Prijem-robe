@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T06:48:44.434Z",
-  "azurirano": "2026-05-12T07:09:39.413Z",
+  "azurirano": "2026-05-12T07:19:34.487Z",
   "dokumenti": [
     {
       "naziv": "MSI 3031-101",
@@ -740,7 +740,7 @@
           "naziv": "TV SONY K43S35BP.CEI, 109.2cm (43\"), Direct LED, 4K UHD SMART TV, Android TV",
           "barkod": "4548736168121",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SONY K50S35B.CEI, 127cm (50\"), Direct LED, 4K UHD SMART TV, Android TV",
@@ -752,7 +752,7 @@
           "naziv": "TV SONY K55S35B.CEI, 139.7cm (55\"), Direct LED, 4K UHD SMART TV, Android TV",
           "barkod": "4548736167902",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TV SONY KD55X85LAEP, 139.7cm (55\"), LED, 4K UHD SMART TV, Android TV",
