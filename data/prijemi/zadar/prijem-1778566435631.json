@@ -5,7 +5,7 @@
   "datum": "2026-05-12",
   "status": "aktivan",
   "kreirano": "2026-05-12T06:13:55.631Z",
-  "azurirano": "2026-05-12T07:39:02.195Z",
+  "azurirano": "2026-05-12T07:39:12.881Z",
   "dokumenti": [
     {
       "naziv": "MSI 3081-101",
@@ -150,7 +150,7 @@
           "naziv": "TP-Link bezicni N USB Nano Adapter TL-WN725N, 150Mbps (2.4GHz), 802.11n/g/b",
           "barkod": "6935364050719",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link bezicni pojacivac dometa (Universal Range Extender) 300Mbps, (2.4GHz), 802.11b/g/n, 1×RJ45",
@@ -186,7 +186,7 @@
           "naziv": "Eksterni disk ADATA Ex HDD HD330, 2TB, usb3.0, plavi -CBL",
           "barkod": "4713218465504",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SanDisk USB Stick SDCZ430-128G-G46 SanDisk Ultra Fit -G46 USB 3.1 128GB",
