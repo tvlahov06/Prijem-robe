@@ -5,7 +5,7 @@
   "datum": "2026-05-13",
   "status": "aktivan",
   "kreirano": "2026-05-13T07:03:31.947Z",
-  "azurirano": "2026-05-13T08:00:59.620Z",
+  "azurirano": "2026-05-13T08:01:01.772Z",
   "dokumenti": [
     {
       "naziv": "MSI 3026-101",
@@ -837,47 +837,6 @@
         {
           "naziv": "Perilica rublja Hisense WF5S1045BB",
           "barkod": "6901101828699",
-          "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3122-101",
-      "stavke": [
-        {
-          "naziv": "TV HISENSE 32A5Q, 81.3cm (32\"), QLED, FHD Smart TV, VIDAA OS",
-          "barkod": "6942351418179",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV PHILIPS 50PUS7000, 127.0cm (50\"), LED, UHD 4K Smart TV",
-          "barkod": "8718863046029",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV SAMSUNG UE43U8072FUXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
-          "barkod": "8806097067665",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
-          "barkod": "8806097067672",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
-          "barkod": "8806097118565",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
-          "barkod": "5901292525958",
           "ocekivano": 1,
           "skenirano": 0
         }
