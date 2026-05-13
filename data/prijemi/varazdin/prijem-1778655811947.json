@@ -5,7 +5,7 @@
   "datum": "2026-05-13",
   "status": "aktivan",
   "kreirano": "2026-05-13T07:03:31.947Z",
-  "azurirano": "2026-05-13T08:00:56.931Z",
+  "azurirano": "2026-05-13T08:00:59.620Z",
   "dokumenti": [
     {
       "naziv": "MSI 3026-101",
@@ -879,77 +879,6 @@
           "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525958",
           "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3138-101",
-      "stavke": [
-        {
-          "naziv": "Bigben PS4 Nacon Compact Light Wired Controller REEN prozirno-zeleni",
-          "barkod": "3499550360868",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Bigben PS5 Thumb Grips (6 kom. silikonskih thumb gripova za PS5 Dualsense kontroler)",
-          "barkod": "3665962006438",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Assassins Creed Mirage PS5 F38",
-          "barkod": "3307216258315",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Sniper Elite V2 Remastered PS4 E14",
-          "barkod": "5056208803214",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Bigben stalak za PS5 konzolu i punjac za Dualsense AND kontrolere (PS5 Standard Edition ili PS5 Slim",
-          "barkod": "3665962024975",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "WRC 10 PS5 A26",
-          "barkod": "3665962009637",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Assetto Corsa Competizione PS5 A34",
-          "barkod": "8023171045986",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "WRC Generations PS5 G15",
-          "barkod": "3665962018301",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Techno Red",
-          "barkod": "711719020677",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Chroma Pearl v2",
-          "barkod": "711719023722",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PlayStation 5 Slim E chassis + PS5 Dualsense Wireless Controller",
-          "barkod": "711719022602",
-          "ocekivano": 6,
           "skenirano": 0
         }
       ]
