@@ -5,7 +5,7 @@
   "datum": "2026-05-13",
   "status": "aktivan",
   "kreirano": "2026-05-13T07:03:31.947Z",
-  "azurirano": "2026-05-13T08:01:01.772Z",
+  "azurirano": "2026-05-13T08:01:03.638Z",
   "dokumenti": [
     {
       "naziv": "MSI 3026-101",
@@ -802,41 +802,6 @@
         {
           "naziv": "Laptop HP VICTUS Gaming 15-fb3702nm, BA2L4EA, cm (15.6\") IPS FHD 144Hz, AMD Ryzen 5 8645HS, 16",
           "barkod": "198990793795",
-          "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3113-101",
-      "stavke": [
-        {
-          "naziv": "Prijenosna indukcijska ploca Gorenje ICY3500DGP",
-          "barkod": "3838782924057",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Perilica rublja Gorenje WPNA84A2TSWIFI IFI",
-          "barkod": "3838782858611",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Susilica rublja Hisense DH3S802BW2",
-          "barkod": "6901101829634",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Perilica rublja HISENSE WF3I9043BWFS2",
-          "barkod": "6901101834461",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Perilica rublja Hisense WF5S1045BB",
-          "barkod": "6901101828699",
           "ocekivano": 1,
           "skenirano": 0
         }
