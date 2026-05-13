@@ -5,7 +5,7 @@
   "datum": "2026-05-13",
   "status": "aktivan",
   "kreirano": "2026-05-13T07:03:31.947Z",
-  "azurirano": "2026-05-13T08:01:06.321Z",
+  "azurirano": "2026-05-13T08:01:08.656Z",
   "dokumenti": [
     {
       "naziv": "MSI 3026-101",
@@ -668,53 +668,6 @@
           "barkod": "3875001742382",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3110-101",
-      "stavke": [
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Jasper Plum Straight+Wavy",
-          "barkod": "5025155112816",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
-          "barkod": "5025155112656",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic Apricot/Topaz Straight+Wavy",
-          "barkod": "5025155127964",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Dyson PencilVac Fluffycones",
-          "barkod": "5025155108963",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB907S 900W",
-          "barkod": "8006447002487",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB1206S PRO 1200W",
-          "barkod": "8006447003323",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
-          "barkod": "8006447002135",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     }
