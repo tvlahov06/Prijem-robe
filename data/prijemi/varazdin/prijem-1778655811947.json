@@ -5,7 +5,7 @@
   "datum": "2026-05-13",
   "status": "aktivan",
   "kreirano": "2026-05-13T07:03:31.947Z",
-  "azurirano": "2026-05-13T07:31:08.561Z",
+  "azurirano": "2026-05-13T07:31:12.800Z",
   "dokumenti": [
     {
       "naziv": "MSI 3026-101",
@@ -226,7 +226,7 @@
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-071 300x250X2mm",
           "barkod": "3858894507931",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrofon HP HyperX SoloCast 2, AR0A0AA, crni",
@@ -250,7 +250,7 @@
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-051 300x250X2mm",
           "barkod": "3858894507917",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Port torba Liberty III 17.3\", crna",
