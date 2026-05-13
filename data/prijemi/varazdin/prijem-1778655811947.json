@@ -5,7 +5,7 @@
   "datum": "2026-05-13",
   "status": "aktivan",
   "kreirano": "2026-05-13T07:03:31.947Z",
-  "azurirano": "2026-05-13T07:48:26.386Z",
+  "azurirano": "2026-05-13T07:48:32.442Z",
   "dokumenti": [
     {
       "naziv": "MSI 3026-101",
@@ -374,7 +374,7 @@
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
           "barkod": "8004399329485",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3B10 Piccolo XS black/anthracite PF",
@@ -398,7 +398,7 @@
           "naziv": "Filter za vodu za aparat za kavu DeLonghi DLSC002",
           "barkod": "8004399327252",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
