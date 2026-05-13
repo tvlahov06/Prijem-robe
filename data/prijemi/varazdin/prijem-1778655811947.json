@@ -3,9 +3,9 @@
   "poslovnica": "varazdin",
   "naziv": "Roba 13.5. - 2 palete",
   "datum": "2026-05-13",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-05-13T07:03:31.947Z",
-  "azurirano": "2026-05-13T08:01:08.656Z",
+  "azurirano": "2026-05-13T08:07:15.662Z",
   "dokumenti": [
     {
       "naziv": "MSI 3026-101",
@@ -671,5 +671,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-05-13T08:07:15.659Z"
 }
