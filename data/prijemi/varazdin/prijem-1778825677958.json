@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T06:15:32.613Z",
-  "azurirano": "2026-05-15T07:57:05.411Z",
+  "azurirano": "2026-05-15T07:57:15.238Z",
   "dokumenti": [
     {
       "naziv": "MSI 3156-101",
@@ -395,7 +395,7 @@
           "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
           "barkod": "4242005306978",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Usisavac Bosch BBS711ANM Unlimited 7 ProAnimal, crveni",
@@ -413,7 +413,7 @@
           "naziv": "Usisavac Bosch BBS711W Unlimited 7, bijeli",
           "barkod": "4242005306657",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907S 900W",
