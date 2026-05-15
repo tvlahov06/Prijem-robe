@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T10:18:16.348Z",
-  "azurirano": "2026-05-15T13:41:53.623Z",
+  "azurirano": "2026-05-15T13:41:57.000Z",
   "dokumenti": [
     {
       "naziv": "MSI 3139-101",
@@ -517,7 +517,7 @@
           "naziv": "Sisac za bradu Philips BT3665/15",
           "barkod": "8720689029438",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Philips BHS742/00",
