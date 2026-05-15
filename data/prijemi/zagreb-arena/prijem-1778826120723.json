@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T06:22:00.723Z",
-  "azurirano": "2026-05-15T07:14:15.762Z",
+  "azurirano": "2026-05-15T07:14:30.847Z",
   "dokumenti": [
     {
       "naziv": "MSI 3115-101",
@@ -645,7 +645,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Green 46mm (Atum-B19W)",
           "barkod": "6942103168178",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM ljubicasti",
@@ -825,7 +825,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
           "barkod": "6942103168185",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Band 11 Aluminum (Candy-B29F) Purple",
