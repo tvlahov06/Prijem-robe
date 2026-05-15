@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T10:18:16.348Z",
-  "azurirano": "2026-05-15T14:13:52.732Z",
+  "azurirano": "2026-05-15T14:14:29.423Z",
   "dokumenti": [
     {
       "naziv": "MSI 3139-101",
@@ -337,7 +337,7 @@
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
           "barkod": "8710103932482",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu Philips HC7650/15",
@@ -535,7 +535,7 @@
           "naziv": "za zube OralB iO2 STITCH + PUTNA TORBICA",
           "barkod": "8700216932479",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
