@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T06:22:00.723Z",
-  "azurirano": "2026-05-15T06:41:42.995Z",
+  "azurirano": "2026-05-15T06:58:19.344Z",
   "dokumenti": [
     {
       "naziv": "MSI 3115-101",
@@ -145,7 +145,7 @@
           "naziv": "TV HISENSE 32A5Q, 81.3cm (32\"), QLED, FHD Smart TV, VIDAA OS",
           "barkod": "6942351418179",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TV SAMSUNG QE43Q7FAAUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
@@ -175,7 +175,7 @@
           "naziv": "TV LG OLED48C51LA 121.9cm (48\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096353837",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE43Q8FAAUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
@@ -187,13 +187,13 @@
           "naziv": "TV SAMSUNG UE43U8072FUXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097067665",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE48S90FAEXXH, 121.9cm (48\"), OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097079422",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55QN70FAUXXH, 139.7cm (55\"), Neo XH QLED Mini LED, 4K UHD Smart TV, Tizen OS",
@@ -205,7 +205,7 @@
           "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097118565",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
