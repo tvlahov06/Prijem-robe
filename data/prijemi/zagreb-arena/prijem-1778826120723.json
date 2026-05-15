@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T06:22:00.723Z",
-  "azurirano": "2026-05-15T06:41:24.268Z",
+  "azurirano": "2026-05-15T06:41:36.353Z",
   "dokumenti": [
     {
       "naziv": "MSI 3115-101",
@@ -181,7 +181,7 @@
           "naziv": "TV SAMSUNG QE43Q8FAAUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097120193",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG UE43U8072FUXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
@@ -211,7 +211,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 55E7QPRO, 139.7cm (55\"), QLED, 4K UHD 144Hz, Smart TV, VIDAA OS",
@@ -223,13 +223,13 @@
           "naziv": "TV SAMSUNG QE55S90FAEXXH, 139.7cm (55\"), OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097090953",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE65S90FATXXH, 165.1cm (65\"), OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097090960",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SONY K55XR80PAEP, 139.7cm (55\"), OLED, 4K UHD SMART TV, Android TV",
@@ -241,7 +241,7 @@
           "naziv": "TV SAMSUNG QE65S85FAEXXH, 165.1cm (65\"), OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806095995281",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
