@@ -5,7 +5,7 @@
   "datum": "2026-05-14",
   "status": "aktivan",
   "kreirano": "2026-05-14T11:58:51.059Z",
-  "azurirano": "2026-05-15T05:16:15.362Z",
+  "azurirano": "2026-05-15T05:16:34.944Z",
   "dokumenti": [
     {
       "naziv": "MSI 3099-101",
@@ -843,7 +843,7 @@
           "naziv": "Brijac za glavu Philips HS7980/15",
           "barkod": "8720689044257",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
@@ -933,7 +933,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/27 DiamondClean, White",
           "barkod": "8710103935971",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9992/12 Prestige, Midnight Blue",
@@ -1053,7 +1053,7 @@
           "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
           "barkod": "8720689045360",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 8U1 Philips MG3940/15",
@@ -1077,7 +1077,7 @@
           "naziv": "Sisac za bradu Philips BT7670/15",
           "barkod": "8720689029421",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac za tijelo Philips BG5480/15",
