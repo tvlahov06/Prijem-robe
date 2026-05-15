@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T10:18:16.348Z",
-  "azurirano": "2026-05-15T13:13:14.156Z",
+  "azurirano": "2026-05-15T13:13:42.641Z",
   "dokumenti": [
     {
       "naziv": "MSI 3131-101",
@@ -408,7 +408,7 @@
           "naziv": "IPL depilator Philips BRI973/00 Lumea",
           "barkod": "8720689005708",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
@@ -462,7 +462,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/09 DiamondClean, Black",
           "barkod": "8710103935957",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9911/27 DiamondClean, White",
