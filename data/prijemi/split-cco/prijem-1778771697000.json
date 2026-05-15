@@ -5,7 +5,7 @@
   "datum": "2026-05-14",
   "status": "aktivan",
   "kreirano": "2026-05-14T15:14:57.000Z",
-  "azurirano": "2026-05-15T06:14:33.441Z",
+  "azurirano": "2026-05-15T06:14:37.739Z",
   "dokumenti": [
     {
       "naziv": "MSI 3101-101",
@@ -664,13 +664,13 @@
           "naziv": "Pametni sat Huawei Watch GT 5 41mm Gold Milanese Strap (Jana-B19M)",
           "barkod": "6942103131981",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
           "barkod": "6942103168239",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Sat Samsung Galaxy Watch Ultra LTE plavi (2025)",
@@ -700,7 +700,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
           "barkod": "6942103168246",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 Pro 42mm Ceramic White (Jana-B29C)",
