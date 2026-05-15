@@ -5,7 +5,7 @@
   "datum": "2026-05-14",
   "status": "aktivan",
   "kreirano": "2026-05-14T15:14:57.000Z",
-  "azurirano": "2026-05-15T06:14:03.064Z",
+  "azurirano": "2026-05-15T06:14:14.928Z",
   "dokumenti": [
     {
       "naziv": "MSI 3101-101",
@@ -490,7 +490,7 @@
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
           "barkod": "8806099028282",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM sivi",
@@ -604,7 +604,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB crni",
           "barkod": "8806097827221",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB srebrni",
@@ -658,7 +658,7 @@
           "naziv": "Book Cover s tipkovnicom za Samsung Galaxy Tab S11 crni",
           "barkod": "8806097734956",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 41mm Gold Milanese Strap (Jana-B19M)",
@@ -742,7 +742,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB nebesko plavi",
           "barkod": "8806097826781",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Band 11 Pro Aluminum (Candy-B49F) Black",
