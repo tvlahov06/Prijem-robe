@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T06:22:00.723Z",
-  "azurirano": "2026-05-15T09:33:46.677Z",
+  "azurirano": "2026-05-15T09:34:45.168Z",
   "dokumenti": [
     {
       "naziv": "MSI 3115-101",
@@ -936,7 +936,7 @@
           "naziv": "Brijac za glavu Philips HS7980/15",
           "barkod": "8720689044257",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
@@ -972,7 +972,7 @@
           "naziv": "Sisac za tijelo/kosu/bradu Braun 6u1 3410*",
           "barkod": "4210201446613",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijac za glavu Philips HS5980/15",
@@ -1188,7 +1188,7 @@
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
           "barkod": "8720689045094",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Remington EC8930E51 AIRviveTM",
@@ -1224,7 +1224,7 @@
           "naziv": "Sisac za bradu Philips BT7670/15",
           "barkod": "8720689029421",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Xiaomi H101 Bijela",
