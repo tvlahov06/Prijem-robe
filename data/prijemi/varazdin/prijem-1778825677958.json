@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T06:15:32.613Z",
-  "azurirano": "2026-05-15T07:33:07.515Z",
+  "azurirano": "2026-05-15T07:33:11.475Z",
   "dokumenti": [
     {
       "naziv": "MSI 3156-101",
@@ -128,7 +128,7 @@
           "naziv": "Epilator Philips BRE237/00",
           "barkod": "8720689030915",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips SC1997/00 Lumea",
