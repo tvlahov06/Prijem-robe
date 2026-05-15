@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T06:22:00.723Z",
-  "azurirano": "2026-05-15T09:41:59.203Z",
+  "azurirano": "2026-05-15T09:43:04.817Z",
   "dokumenti": [
     {
       "naziv": "MSI 3115-101",
@@ -1276,13 +1276,13 @@
           "naziv": "Mop elektricni Philips XV3101/11",
           "barkod": "8720389058707",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mop elektricni Philips XV5113/01",
           "barkod": "8720389035975",
           "ocekivano": 20,
-          "skenirano": 9
+          "skenirano": 16
         }
       ]
     },
