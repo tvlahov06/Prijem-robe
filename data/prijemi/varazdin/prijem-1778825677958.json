@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T06:15:32.613Z",
-  "azurirano": "2026-05-15T07:22:16.771Z",
+  "azurirano": "2026-05-15T07:22:38.570Z",
   "dokumenti": [
     {
       "naziv": "MSI 3156-101",
@@ -32,7 +32,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
           "barkod": "8720689027137",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube OralB PRO Kids 3+ FROZEN+putna torb.",
@@ -68,7 +68,7 @@
           "naziv": "Sisac za kosu Philips HC7650/15",
           "barkod": "8710103897903",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6552/15 Face & Body",
@@ -200,7 +200,7 @@
           "naziv": "Sisac za kosu/bradu Philips HC5650/15",
           "barkod": "8710103897866",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Stilizator za kosu Babyliss Air Wand AS6555E Limited edition",
