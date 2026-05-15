@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T10:18:16.348Z",
-  "azurirano": "2026-05-15T12:14:00.661Z",
+  "azurirano": "2026-05-15T12:14:22.004Z",
   "dokumenti": [
     {
       "naziv": "MSI 3109-101",
@@ -169,7 +169,7 @@
           "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
           "barkod": "8006447002135",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
@@ -187,7 +187,7 @@
           "naziv": "Blender Nutribullet NBP003MA Portable magenta",
           "barkod": "8006447002128",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
