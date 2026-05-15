@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T06:15:32.613Z",
-  "azurirano": "2026-05-15T07:23:02.345Z",
+  "azurirano": "2026-05-15T07:23:09.565Z",
   "dokumenti": [
     {
       "naziv": "MSI 3156-101",
@@ -182,13 +182,13 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7419/01 Sonicare Series 6500 DUO, Black & White",
           "barkod": "8720689021609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7420/01 Sonicare Series 7100 White",
           "barkod": "8720689021494",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD720/10",
@@ -230,7 +230,7 @@
           "naziv": "Brijaci aparat Braun 3000s Series 3+",
           "barkod": "8700216735896",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
