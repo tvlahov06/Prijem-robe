@@ -5,7 +5,7 @@
   "datum": "2026-05-15",
   "status": "aktivan",
   "kreirano": "2026-05-15T06:22:00.723Z",
-  "azurirano": "2026-05-15T09:23:48.178Z",
+  "azurirano": "2026-05-15T09:25:45.326Z",
   "dokumenti": [
     {
       "naziv": "MSI 3115-101",
@@ -990,7 +990,7 @@
           "naziv": "Sisac za kosu Philips HC7650/15",
           "barkod": "8710103897903",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Philips BHA710/00",
@@ -1140,7 +1140,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7410/02 Sonicare Series 6500 White",
           "barkod": "8720689021630",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9092/88 Premium All-In-One Black 2/1",
@@ -1170,13 +1170,13 @@
           "naziv": "Sisac za kosu Philips HC9420/15",
           "barkod": "8710103977926",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube OralB iO5 MATT BLACK",
           "barkod": "4210201415367",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube CURAPROX Hydrosonic PRO",
@@ -1200,7 +1200,7 @@
           "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
           "barkod": "8720689045360",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 17U1 Philips MG9535/15",
