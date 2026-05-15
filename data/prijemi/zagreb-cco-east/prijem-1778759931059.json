@@ -5,7 +5,7 @@
   "datum": "2026-05-14",
   "status": "aktivan",
   "kreirano": "2026-05-14T11:58:51.059Z",
-  "azurirano": "2026-05-15T05:06:26.489Z",
+  "azurirano": "2026-05-15T05:06:30.223Z",
   "dokumenti": [
     {
       "naziv": "MSI 3099-101",
@@ -347,7 +347,7 @@
           "naziv": "TV HISENSE 58E7Q, 147.3cm (58\"), QLED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351418810",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 32A5Q, 81.3cm (32\"), QLED, FHD Smart TV, VIDAA OS",
@@ -377,7 +377,7 @@
           "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097118565",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TV SONY K50S35B.CEI, 127cm (50\"), Direct LED, 4K UHD SMART TV, Android TV",
