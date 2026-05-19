@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:08:36.685Z",
-  "azurirano": "2026-05-19T07:21:29.006Z",
+  "azurirano": "2026-05-19T07:21:32.344Z",
   "dokumenti": [
     {
       "naziv": "MSI 3190-101",
@@ -611,7 +611,7 @@
           "naziv": "Usisavac Philips XD5123/10",
           "barkod": "8720389038334",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP143BF0 Mini Me 2 cosmic grey",
