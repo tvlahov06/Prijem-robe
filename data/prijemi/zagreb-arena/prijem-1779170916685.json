@@ -5,42 +5,6 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:08:36.685Z",
-  "azurirano": "2026-05-19T10:27:18.075Z",
-  "dokumenti": [
-    {
-      "naziv": "MSI 3189-101",
-      "stavke": [
-        {
-          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 plavi",
-          "barkod": "4547410489064",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 zeleni",
-          "barkod": "4547410489088",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 rozi",
-          "barkod": "4547410489071",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Film za Fujifilm Instax Mini - 2 paketa",
-          "barkod": "4547410364866",
-          "ocekivano": 100,
-          "skenirano": 100
-        },
-        {
-          "naziv": "Instant fotoaparat Fujifilm Instax Mini 41",
-          "barkod": "4547410545180",
-          "ocekivano": 2,
-          "skenirano": 2
-        }
-      ]
-    }
-  ]
+  "azurirano": "2026-05-19T10:27:30.406Z",
+  "dokumenti": []
 }
