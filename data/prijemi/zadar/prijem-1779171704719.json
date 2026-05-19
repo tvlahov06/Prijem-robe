@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:21:44.719Z",
-  "azurirano": "2026-05-19T08:51:07.238Z",
+  "azurirano": "2026-05-19T08:57:24.018Z",
   "dokumenti": [
     {
       "naziv": "MSI 3227-101",
@@ -1330,7 +1330,7 @@
           "naziv": "Parna postaja Philips PSG6020/30",
           "barkod": "8720389015267",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Gorenje GCG2000M",
