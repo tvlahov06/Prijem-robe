@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T09:31:51.701Z",
-  "azurirano": "2026-05-19T09:47:16.304Z",
+  "azurirano": "2026-05-19T09:47:23.102Z",
   "dokumenti": [
     {
       "naziv": "MSI 3187-101",
@@ -544,7 +544,7 @@
           "naziv": "SSD Samsung 2TB 9100 PRO NVMe Pcle 5.0 x2",
           "barkod": "8806095811710",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
@@ -682,7 +682,7 @@
           "naziv": "SSD Samsung M.2 9100 PRO HEATSINK, 2TB, PCIe(R) 5.0 x4, NVMeTM 2.0,",
           "barkod": "8806095811666",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis White Shark GM-5010 BAGDEMAGUS 7200dpi bijeli",
