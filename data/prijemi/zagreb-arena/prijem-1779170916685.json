@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:08:36.685Z",
-  "azurirano": "2026-05-19T10:04:06.311Z",
+  "azurirano": "2026-05-19T10:04:39.803Z",
   "dokumenti": [
     {
       "naziv": "MSI 3190-101",
@@ -545,7 +545,7 @@
           "naziv": "Citruseta Gorenje CJ30E",
           "barkod": "3838782560545",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Gorenje K15DWBK",
@@ -569,7 +569,7 @@
           "naziv": "Osvjezivac odjece Philips STH3010/30",
           "barkod": "8720389037535",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sjeckalica Philips HR1501/00",
@@ -605,7 +605,7 @@
           "naziv": "Mikser rucni Bosch MFQ40304 Styline Colour crvena/srebrna",
           "barkod": "4242002688879",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XD5123/10",
