@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T05:36:35.458Z",
-  "azurirano": "2026-05-19T05:47:57.198Z",
+  "azurirano": "2026-05-19T05:48:22.357Z",
   "dokumenti": [
     {
       "naziv": "MSI 3219-101",
@@ -784,7 +784,7 @@
           "naziv": "Parna postaja Philips PSG8050/30",
           "barkod": "8720389001086",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XD8152/12",
@@ -802,7 +802,7 @@
           "naziv": "Parna postaja Tefal SV9201E0*",
           "barkod": "3121040077634",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Tefal GC270D10",
