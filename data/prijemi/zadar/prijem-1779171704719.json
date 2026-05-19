@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:21:44.719Z",
-  "azurirano": "2026-05-19T08:25:59.691Z",
+  "azurirano": "2026-05-19T08:26:15.190Z",
   "dokumenti": [
     {
       "naziv": "MSI 3227-101",
@@ -1390,7 +1390,7 @@
           "naziv": "Usisavac Philips XC3031/01",
           "barkod": "8720389049071",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Bosch MMB6762M VitaPower Serie 6",
