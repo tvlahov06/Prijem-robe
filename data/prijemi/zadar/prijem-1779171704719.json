@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:21:44.719Z",
-  "azurirano": "2026-05-19T09:04:39.228Z",
+  "azurirano": "2026-05-19T09:04:56.550Z",
   "dokumenti": [
     {
       "naziv": "MSI 3227-101",
@@ -888,7 +888,7 @@
           "naziv": "SSD Samsung 1TB 990 EVO Plus NVMe M.2",
           "barkod": "8806095575674",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "SSD Samsung 2TB 990 EVO Plus NVMe M.2",
