@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T09:31:51.701Z",
-  "azurirano": "2026-05-19T09:50:52.165Z",
+  "azurirano": "2026-05-19T09:51:03.247Z",
   "dokumenti": [
     {
       "naziv": "MSI 3187-101",
@@ -424,7 +424,7 @@
           "naziv": "MicroSD memorijska kartica Samsung 256GB EVO Plus U MB-MC256SA/EU",
           "barkod": "8806095420127",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "SSD Samsung 2.5\" 1TB USB 3.2 T7 Portable plavi W MU-PC1T0H/WW",
@@ -556,7 +556,7 @@
           "naziv": "USB STICK KINGSTON 64GB DT50 3.2 KC-U2G64-5R",
           "barkod": "740617314342",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
