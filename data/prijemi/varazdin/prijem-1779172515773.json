@@ -1,0 +1,869 @@
+{
+  "id": "prijem-1779172515773",
+  "poslovnica": "varazdin",
+  "naziv": "Roba 19.5.2026.",
+  "datum": "2026-05-19",
+  "status": "aktivan",
+  "kreirano": "2026-05-19T06:35:15.773Z",
+  "azurirano": "2026-05-19T06:35:15.773Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 3213-101",
+      "stavke": [
+        {
+          "naziv": "Tinta HP 305XL Cartridge Ink 3YM62AE, Boja Black - Instant Ink",
+          "barkod": "193905429288",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305 Tri-colour Original Ink Cartridge, 3YM60AE - Instant Ink",
+          "barkod": "194441597318",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
+          "barkod": "740617326376",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON FD Exodia 64GB USB 3.2",
+          "barkod": "740617309829",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305 Black Original Ink Cartridge, 3YM61AE - Instant Ink",
+          "barkod": "194441597332",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305XL Ink Cartridge 3YM63AE, Boja Tri-colour - Instant Ink",
+          "barkod": "0194441597370",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 2.5\" 1TB USB 3.2 T7 Portable plavi W MU-PC1T0H/WW",
+          "barkod": "8806090312410",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 650 CZ101AE Black Ink Cartridge",
+          "barkod": "886112545987",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 103 za L11xx/L12xx/L31xx/L32xx/L51xx/L52xx, 65ml",
+          "barkod": "8715946655840",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-004212 SHINOBI-2 Bijela- -RED.SW Mehanicka / HR- RED SW.",
+          "barkod": "3858894506002",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
+          "barkod": "4718050609604",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348453",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 1TB 990 PRO M.2 NVMe PCle 4.0 x4",
+          "barkod": "8806094215021",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Micro SD Samsung memorijska kartica 64GB EVO Plus + adapter MB-MC64SA/EU",
+          "barkod": "8806095420134",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 1TB 990 EVO Plus NVMe M.2",
+          "barkod": "8806095575674",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 2TB 990 EVO Plus NVMe M.2",
+          "barkod": "8806095575650",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347890",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347944",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 2TB 9100 PRO NVMe Pcle 5.0 x2",
+          "barkod": "8806095811710",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER Easy Fit Mouse, Crna",
+          "barkod": "4712842946748",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON 64GB DT50 3.2 KC-U2G64-5R",
+          "barkod": "740617314342",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
+          "barkod": "740617305302",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
+          "barkod": "8715946701271",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 2TB 990 PRO M.2 NVMe PCle 4.0 x4",
+          "barkod": "8806094215038",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung M.2 990 EVO PLUS, 4TB, PCIe(R) 4.0 x4 / 5.0 x2 NVMe TM 2.0,",
+          "barkod": "8806095575667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer Cobra, zicani, gaming, 8500DPI, RGB, crni 0-R3M1",
+          "barkod": "8886419334095",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON FD 128GB USB3.2 Exodia",
+          "barkod": "740617314359",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB Hub ACER HP.DSCAB.022, Srebrna",
+          "barkod": "4712842946779",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk WD My Passport 1TB, Black, USB 3.2",
+          "barkod": "718037869469",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta EPSON 103 T00S4 L3150 yellow ecotank C13T00S44A 65ml",
+          "barkod": "8715946655871",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark MIS GM-5018 CARADOC RGB/7200 dpi/Bijeli",
+          "barkod": "3858894507245",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis WHITE SHARK KARUTA XL, ESL-MP1, 90x40cm",
+          "barkod": "0616320538897",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD ADATA Gammix S70 Blade, R7400/W5500,1TB, NVMe 1T-CS",
+          "barkod": "4711085933065",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
+          "barkod": "740617305371",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Keychron B6P-K1-UK Space Gray",
+          "barkod": "4895248876557",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Keychron K2H-F1-UK Black RGB",
+          "barkod": "4894979017628",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON FD Exodia 256GB USB 3.2 KC-U2G256-5R",
+          "barkod": "740617314366",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Keychron K2H-Q1 White wooden RGB",
+          "barkod": "4895248889205",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torba za laptop Lenovo T210 siva 15,6\"",
+          "barkod": "193386076902",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kit za ciscenje ekrana CS-5005 Purple",
+          "barkod": "0616320533038",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port torba Liberty III 17.3\", crna",
+          "barkod": "3567042023239",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torba za laptop Lenovo T210 crna 15,6\"",
+          "barkod": "193386076919",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA UV128, 128GB, USB3.2 RBE",
+          "barkod": "4713435799444",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3214-101",
+      "stavke": [
+        {
+          "naziv": "Samsung Galaxy Buds4 slusalice bijele",
+          "barkod": "8806097998174",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
+          "barkod": "6942103101359",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung Galaxy Buds3 FE slusalice crne UC",
+          "barkod": "8806097621034",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds SE 3 Black (ULC-CT020)",
+          "barkod": "6942103140112",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
+          "barkod": "8806097984795",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DVB-T2/T prijemnik E-STAR",
+          "barkod": "5292618761540",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
+          "barkod": "195949689673",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds 7i White",
+          "barkod": "6942103164774",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 4 (USB-C)",
+          "barkod": "195949688591",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vogel's TVM1603 zidni nosac za ekrane od 40\"-100\" fiksni do 75kg",
+          "barkod": "8712285356223",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Philips TAB6100 2.1, 400W, Dolby Atmos",
+          "barkod": "8718863700204",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Jolly Line univerzalni daljinski upravljac za LG TV",
+          "barkod": "8028626017181",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/B",
+          "barkod": "4548736162617",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth Sony WH-CH520/B",
+          "barkod": "4548736142374",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/W",
+          "barkod": "4548736161481",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/L",
+          "barkod": "4548736161733",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/B",
+          "barkod": "4548736164161",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Sony",
+          "barkod": "4548736143272",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Samsung",
+          "barkod": "8806097071907",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Music frame Samsung",
+          "barkod": "8806095479590",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Micro linija Panasonic SC-HC200EG-W",
+          "barkod": "5025232878406",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3215-101",
+      "stavke": [
+        {
+          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 zeleni",
+          "barkod": "4547410489088",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 rozi",
+          "barkod": "4547410489071",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Film za Fujifilm Instax Mini - 2 paketa",
+          "barkod": "4547410364866",
+          "ocekivano": 40,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Instant fotoaparat Fujifilm Instax Mini 41",
+          "barkod": "4547410545180",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3216-101",
+      "stavke": [
+        {
+          "naziv": "Mikser stapni Tefal HB672B30",
+          "barkod": "3016667291740",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock Saros 20 Sonic Complete crna",
+          "barkod": "6936905905765",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Rowenta RH6545WH Air Force Light, Black",
+          "barkod": "3221614001819",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1438F0 Mini Me 2 piano black",
+          "barkod": "3045380404144",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9823E1, 9 bara, Gold Black",
+          "barkod": "3121040091005",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Rowenta RH6753WO Cordless Handstick 2in1, Red",
+          "barkod": "3221614007088",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock QR 798 sa stanicom za samopraznjenje crna",
+          "barkod": "6936905901699",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baterije Duracell Basic AA K4",
+          "barkod": "5000394076952",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baterije Duracell Basic AA K8",
+          "barkod": "5000394058019",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3217-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu Philips EP5547/90 espresso",
+          "barkod": "8720389032370",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6700/91 dekalcifikator za uklanjanje kamenca",
+          "barkod": "8720389000416",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6707/10 komplet za odrzavanje",
+          "barkod": "8720389000461",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8140/80",
+          "barkod": "8710103970279",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6903/22 filter za vodu 2 kom",
+          "barkod": "8720389000720",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
+          "barkod": "8720389032998",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster preklopni Gorenje SM701SB",
+          "barkod": "3838782767197",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sjeckalica Gorenje S501GW",
+          "barkod": "3838782606762",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Gorenje GCG2000M",
+          "barkod": "3838782867712",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XC8057/01 Aqua Plus",
+          "barkod": "8720389022449",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Filter za vodu za aparat za kavu DeLonghi DLSC002",
+          "barkod": "8004399327252",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XB2122/09",
+          "barkod": "8710103925279",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BHN24L",
+          "barkod": "4242005190898",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC272D10",
+          "barkod": "3045380026230",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Gorenje SVC180FW",
+          "barkod": "3838782386978",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Philips HD6301/90 preklopni",
+          "barkod": "8720389035654",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Bosch MMB6762M VitaPower Serie 6",
+          "barkod": "4242005395170",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac rucni Gorenje MVC72FW",
+          "barkod": "3838782040542",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV6812E0",
+          "barkod": "3121040077184",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Gorenje SVC216210FFIIW*",
+          "barkod": "3838782919459",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kava LAVAZZA zrno Crema E Gusto Classico 1kg",
+          "barkod": "8000070051003",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1438F0 Mini Me 2 piano black",
+          "barkod": "3045380404144",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dehidrator hrane Gorenje FDK500DE",
+          "barkod": "3838782820373",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhinjski asistent Gorenje MMC1500PS",
+          "barkod": "3838782687129",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BHN20L",
+          "barkod": "4242005190881",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Citruseta Gorenje CJ30E",
+          "barkod": "3838782560545",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Gorenje K15DWBK",
+          "barkod": "3838782483240",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Gorenje M360CW",
+          "barkod": "3838782178726",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal SV6140E0",
+          "barkod": "3121040079096",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Rowenta RH2098WO X-Force Flex 9.60 Complete*",
+          "barkod": "3221616135260",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Russell Hobbs 28641-70 Hanley Blue",
+          "barkod": "5038061179507",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi EC 890.GR Dedica Duo",
+          "barkod": "8004399032538",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Hisense HAF1900D",
+          "barkod": "3838782822063",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Philips HR3781/00 crni 500W",
+          "barkod": "8720389024627",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3212-101",
+      "stavke": [
+        {
+          "naziv": "Mis Logitech M185, sivi",
+          "barkod": "5099206027275",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech MX Anywhere 3S Graphite",
+          "barkod": "5099206111721",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan LOGITECH G G29 + mjenjac",
+          "barkod": "5099206132467",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica LOGITECH K250 graphite",
+          "barkod": "5099206130524",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G PRO X Superlight 2, crni",
+          "barkod": "5099206104525",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "volan LOGITECH G923 Trueforce, PC/PS4/PS5, USB, crna boja , Sim Racing volan",
+          "barkod": "5099206082793",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M196, bijeli",
+          "barkod": "5099206128323",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH Gaming G502 X, opticki, 25600dpi, USB, crni",
+          "barkod": "5099206096295",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, bijeli",
+          "barkod": "5099206089242",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M196, rozi",
+          "barkod": "5099206128316",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G535 LIGHTSPEED, gaming, bezicne, crno-plave",
+          "barkod": "5099206125513",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M171, crveni",
+          "barkod": "5099206062870",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G PRO X Superlight 2, bijeli",
+          "barkod": "5099206104549",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice LOGITECH G325 - Ljubicaste",
+          "barkod": "5099206129863",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M90, zicani, sivi",
+          "barkod": "5099206021860",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH MX Master 4 grafit",
+          "barkod": "5099206133082",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech Studio, crna",
+          "barkod": "5099206099470",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Shifter Logitech Driving Force",
+          "barkod": "5099206057661",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M650 L, crni",
+          "barkod": "5099206097179",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech Desk Mat Studio, roza",
+          "barkod": "5099206099517",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G335, gaming, zicane, crno-plave",
+          "barkod": "5099206094789",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G305 LIGHTSPEED, crni",
+          "barkod": "5099206077829",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech Desk Mat Studio, siva",
+          "barkod": "5099206099500",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech BRIO 500 bijela",
+          "barkod": "5099206104921",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK120, zicana, crna",
+          "barkod": "5099206020573",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH MX Master 4 bijeli",
+          "barkod": "5099206133099",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M705 Marathon, srebrni",
+          "barkod": "5099206023901",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
