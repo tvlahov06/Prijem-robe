@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T09:31:51.701Z",
-  "azurirano": "2026-05-19T09:51:46.201Z",
+  "azurirano": "2026-05-19T09:51:49.035Z",
   "dokumenti": [
     {
       "naziv": "MSI 3187-101",
@@ -724,7 +724,7 @@
           "naziv": "TP-Link USB3.0 na Gigabit mrezni adapter",
           "barkod": "6935364091743",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link bezicni USB mini adapter TL-WN823N, 300Mbps (2.4GHz), 802.11n/g/b, QSS tipka",
