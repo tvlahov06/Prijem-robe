@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T05:36:35.458Z",
-  "azurirano": "2026-05-19T05:48:22.357Z",
+  "azurirano": "2026-05-19T05:48:37.457Z",
   "dokumenti": [
     {
       "naziv": "MSI 3219-101",
@@ -754,7 +754,7 @@
           "naziv": "Friteza na vruci zrak Philips NA552/00 Airfryer Dual Basket, para",
           "barkod": "8720389049286",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Bosch TCG4104, crveni",
@@ -784,7 +784,7 @@
           "naziv": "Parna postaja Philips PSG8050/30",
           "barkod": "8720389001086",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Usisavac Philips XD8152/12",
