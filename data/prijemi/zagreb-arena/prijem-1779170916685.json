@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:08:36.685Z",
-  "azurirano": "2026-05-19T07:59:51.933Z",
+  "azurirano": "2026-05-19T08:00:08.451Z",
   "dokumenti": [
     {
       "naziv": "MSI 3190-101",
@@ -712,7 +712,7 @@
           "naziv": "SSD Samsung 1TB 990 PRO M.2 NVMe PCle 4.0 x4",
           "barkod": "8806094215021",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Micro SD Samsung memorijska kartica 64GB EVO Plus + adapter MB-MC64SA/EU",
@@ -760,7 +760,7 @@
           "naziv": "SSD Samsung 2TB 9100 PRO NVMe Pcle 5.0 x2",
           "barkod": "8806095811710",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
@@ -856,7 +856,7 @@
           "naziv": "SSD Samsung M.2 9100 PRO HEATSINK, 2TB, PCIe(R) 5.0 x4, NVMeTM 2.0,",
           "barkod": "8806095811666",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD ADATA Gammix S70 Blade, R7400/W5500,1TB, NVMe 1T-CS",
