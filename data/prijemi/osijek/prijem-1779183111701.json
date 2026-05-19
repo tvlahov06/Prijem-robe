@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T09:31:51.701Z",
-  "azurirano": "2026-05-19T09:57:20.232Z",
+  "azurirano": "2026-05-19T09:57:22.705Z",
   "dokumenti": [
     {
       "naziv": "MSI 3187-101",
@@ -819,7 +819,7 @@
           "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
           "barkod": "195949689673",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple AirPods Pro3 with MagSafe Case (USB-C)",
