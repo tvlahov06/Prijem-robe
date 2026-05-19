@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:21:44.719Z",
-  "azurirano": "2026-05-19T08:48:58.470Z",
+  "azurirano": "2026-05-19T08:49:05.844Z",
   "dokumenti": [
     {
       "naziv": "MSI 3227-101",
@@ -128,7 +128,7 @@
           "naziv": "Glacalo Philips DST5030/20",
           "barkod": "8710103968160",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser Stapni Bosch MSM4B621 ErgoMaster",
