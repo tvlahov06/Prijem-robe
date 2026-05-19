@@ -3,9 +3,9 @@
   "poslovnica": "varazdin",
   "naziv": "Roba 19.5.2026.",
   "datum": "2026-05-19",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-05-19T06:35:15.773Z",
-  "azurirano": "2026-05-19T07:26:55.314Z",
+  "azurirano": "2026-05-19T07:27:00.947Z",
   "dokumenti": [
     {
       "naziv": "MSI 3213-101",
@@ -865,5 +865,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-05-19T07:27:00.947Z"
 }
