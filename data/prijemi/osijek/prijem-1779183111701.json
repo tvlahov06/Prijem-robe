@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T09:31:51.701Z",
-  "azurirano": "2026-05-19T09:53:22.919Z",
+  "azurirano": "2026-05-19T09:53:27.975Z",
   "dokumenti": [
     {
       "naziv": "MSI 3187-101",
@@ -520,7 +520,7 @@
           "naziv": "SBOX WM-852, bijela boja, bezicni | Wireless mis",
           "barkod": "3858894506118",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
@@ -700,7 +700,7 @@
           "naziv": "MIS SBOX M-958 Crni",
           "barkod": "0616320538309",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD Samsung 2TB 990 PRO Heatsink M.2 NVMe PCle 4.0 x4",
