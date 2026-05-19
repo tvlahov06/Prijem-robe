@@ -5,7 +5,7 @@
   "datum": "2026-05-18",
   "status": "aktivan",
   "kreirano": "2026-05-18T19:53:04.416Z",
-  "azurirano": "2026-05-19T05:11:47.931Z",
+  "azurirano": "2026-05-19T05:11:54.991Z",
   "dokumenti": [
     {
       "naziv": "MSI 3223-101",
@@ -300,7 +300,7 @@
           "naziv": "Usisavac Bosch BHN20L",
           "barkod": "4242005190881",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP4441/50 espresso",
