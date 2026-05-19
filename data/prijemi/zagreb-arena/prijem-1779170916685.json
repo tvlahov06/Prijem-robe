@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:08:36.685Z",
-  "azurirano": "2026-05-19T06:56:19.896Z",
+  "azurirano": "2026-05-19T06:56:36.834Z",
   "dokumenti": [
     {
       "naziv": "MSI 3190-101",
@@ -306,7 +306,7 @@
           "naziv": "Aparat za kavu Philips oprema CA6707/10 komplet za odrzavanje",
           "barkod": "8720389000461",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "Parna postaja Philips PSG8140/80",
@@ -336,7 +336,7 @@
           "naziv": "Aparat za kavu Philips oprema CA6903/10 filter za vodu",
           "barkod": "8720389000508",
           "ocekivano": 10,
-          "skenirano": 8
+          "skenirano": 10
         },
         {
           "naziv": "Friteza na vruci zrak Philips HD9285/00 Airfryer XXL",
@@ -467,7 +467,7 @@
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC500 dekalcifikator",
           "barkod": "8004399329492",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA332/00 Airfryer",
