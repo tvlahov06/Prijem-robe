@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:21:44.719Z",
-  "azurirano": "2026-05-19T09:30:34.904Z",
+  "azurirano": "2026-05-19T09:31:00.641Z",
   "dokumenti": [
     {
       "naziv": "MSI 105-181",
@@ -174,125 +174,6 @@
           "barkod": "6974805075805",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3222-101",
-      "stavke": [
-        {
-          "naziv": "Friteza na vruci zrak Philips NA565/02 Airfryer Dual Basket, para",
-          "barkod": "8720389077661",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mikser stapni Tefal HB672B30",
-          "barkod": "3016667291740",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Friteza na vruci zrak Philips NA547/07 Airfryer, para",
-          "barkod": "8720389067068",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Friteza na vruci zrak Philips NA555/00 Airfryer Dual Basket, para",
-          "barkod": "8720389047558",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
-          "barkod": "4242005306978",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac Bosch BBS711ANM Unlimited 7 ProAnimal, crveni",
-          "barkod": "4242005306640",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac stapni Rowenta RH6545WH Air Force Light, Black",
-          "barkod": "3221614001819",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Friteza na vruci zrak Philips NA462/70 Airfryer vertikalni",
-          "barkod": "8720389072239",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Aparat za kavu Krups KP1438F0 Mini Me 2 piano black",
-          "barkod": "3045380404144",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac robot Roborock Saros 10R sa stanicom za samociscenje crna",
-          "barkod": "6970995783445",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Toster Philips HD2510/90",
-          "barkod": "8720389031540",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sjeckalica Tefal MQ740HF0 Moulinette Easypress",
-          "barkod": "3045380403536",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Glacalo Philips DST5030/20",
-          "barkod": "8710103968160",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Aparat za kavu Krups KP243110 Genio S white PF",
-          "barkod": "3045380024328",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac robot Roborock QR 798 sa stanicom za samopraznjenje crna",
-          "barkod": "6936905901699",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Baterije Duracell Basic AA K4",
-          "barkod": "5000394076952",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Baterije Duracell Basic AA K8",
-          "barkod": "5000394058019",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Baterije Duracell Basic AAA K4",
-          "barkod": "5000394077164",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Baterije Duracell Basic AAA K8",
-          "barkod": "5000394203358",
-          "ocekivano": 4,
-          "skenirano": 4
         }
       ]
     },
