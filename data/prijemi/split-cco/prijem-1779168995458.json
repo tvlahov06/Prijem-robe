@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T05:36:35.458Z",
-  "azurirano": "2026-05-19T05:56:08.930Z",
+  "azurirano": "2026-05-19T05:56:16.090Z",
   "dokumenti": [
     {
       "naziv": "MSI 3219-101",
@@ -682,7 +682,7 @@
           "naziv": "Usisavac Philips XC3031/01",
           "barkod": "8720389049071",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Bosch MMB6762M VitaPower Serie 6",
@@ -706,7 +706,7 @@
           "naziv": "Usisavac Philips XC3133/01",
           "barkod": "8720389029868",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Vrecice za usisavac Philips FC8021/03 sinteticke, S-BAG, 4kom",
