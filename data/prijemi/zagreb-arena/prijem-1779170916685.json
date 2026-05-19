@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:08:36.685Z",
-  "azurirano": "2026-05-19T07:52:24.553Z",
+  "azurirano": "2026-05-19T07:55:58.953Z",
   "dokumenti": [
     {
       "naziv": "MSI 3190-101",
@@ -814,7 +814,7 @@
           "naziv": "HDD WD Elements Portable 4TB, USB 3.0",
           "barkod": "718037855981",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk WD My Passport 1TB, Black, USB 3.2",
@@ -826,7 +826,7 @@
           "naziv": "HDD WD Elements Portable 2TB, USB 3.0",
           "barkod": "718037855363",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD Samsung 2TB USB 3.2 T7 Portable crni MU-PE2T0S/EU",
