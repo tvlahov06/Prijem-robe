@@ -5,7 +5,7 @@
   "datum": "2026-05-18",
   "status": "aktivan",
   "kreirano": "2026-05-18T19:53:04.416Z",
-  "azurirano": "2026-05-19T05:45:40.718Z",
+  "azurirano": "2026-05-19T05:46:00.475Z",
   "dokumenti": [
     {
       "naziv": "MSI 3223-101",
@@ -56,7 +56,7 @@
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
           "barkod": "8720389040733",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG7200/30",
