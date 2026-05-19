@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:21:44.719Z",
-  "azurirano": "2026-05-19T09:28:26.944Z",
+  "azurirano": "2026-05-19T09:29:08.156Z",
   "dokumenti": [
     {
       "naziv": "MSI 105-181",
@@ -174,119 +174,6 @@
           "barkod": "6974805075805",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3221-101",
-      "stavke": [
-        {
-          "naziv": "Samsung Galaxy Buds4 slusalice crne UC",
-          "barkod": "8806097998570",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
-          "barkod": "6942103101359",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "Samsung Galaxy Buds4 Pro slusalice bijele",
-          "barkod": "8806097985310",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony",
-          "barkod": "4548736170544",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "DVB-T2/T prijemnik E-STAR",
-          "barkod": "5292618761540",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
-          "barkod": "195949689673",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds 7i White",
-          "barkod": "6942103164774",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
-          "barkod": "197029008220",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "SBOX Zidni stalak",
-          "barkod": "0616320533816",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Jolly Line univerzalni daljinski upravljac za LG TV",
-          "barkod": "8028626017181",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Skullcandy RIFF WIRELESS 2",
-          "barkod": "0810045686677",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "SBOX EB-TWS-115, roza boja | True Wireless slusalice",
-          "barkod": "3858894502615",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "SBOX Zidni stalak",
-          "barkod": "3858894509508",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C510/W",
-          "barkod": "4548736161481",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C510/L",
-          "barkod": "4548736161733",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/W",
-          "barkod": "4548736164215",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Soundbar Sony",
-          "barkod": "4548736143272",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Radio budilica Sony ICF-C1/B",
-          "barkod": "4905524962031",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
