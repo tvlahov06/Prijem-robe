@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:08:36.685Z",
-  "azurirano": "2026-05-19T07:25:53.471Z",
+  "azurirano": "2026-05-19T07:42:40.531Z",
   "dokumenti": [
     {
       "naziv": "MSI 3190-101",
@@ -74,7 +74,7 @@
           "naziv": "rucni Elit 4u1 ZoomGO",
           "barkod": "3875001742504",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "252426 Usisavac stapni Gorenje SVC252426FFCA FFCA",
@@ -957,7 +957,7 @@
           "naziv": "Film za Fujifilm Instax Mini - 2 paketa",
           "barkod": "4547410364866",
           "ocekivano": 100,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Instant fotoaparat Fujifilm Instax Mini 41",
