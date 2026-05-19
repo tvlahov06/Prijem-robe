@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:08:36.685Z",
-  "azurirano": "2026-05-19T07:45:47.435Z",
+  "azurirano": "2026-05-19T07:47:43.663Z",
   "dokumenti": [
     {
       "naziv": "MSI 3190-101",
@@ -62,7 +62,7 @@
           "naziv": "Glacalo Philips DST7040/80",
           "barkod": "8720389015724",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za sladoled Gorenje ICM10W",
@@ -86,7 +86,7 @@
           "naziv": "Glacalo Gorenje SIK2800BKV",
           "barkod": "3838783002846",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Baterije Duracell Basic AA K8",
@@ -128,7 +128,7 @@
           "naziv": "Izdajalica elektricna Philips Avent SCF396/31",
           "barkod": "8720689021807",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
