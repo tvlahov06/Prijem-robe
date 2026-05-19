@@ -5,7 +5,7 @@
   "datum": "2026-05-18",
   "status": "aktivan",
   "kreirano": "2026-05-18T19:53:04.416Z",
-  "azurirano": "2026-05-19T05:46:00.475Z",
+  "azurirano": "2026-05-19T05:46:46.891Z",
   "dokumenti": [
     {
       "naziv": "MSI 3223-101",
@@ -735,7 +735,7 @@
           "naziv": "Mis Logitech M190, crveni",
           "barkod": "5099206091856",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech Lift Vertical Ergonomic, graphite",
@@ -807,7 +807,7 @@
           "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
           "barkod": "5099206092525",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Slusalice Logitech G G321 crne",
@@ -885,7 +885,7 @@
           "naziv": "Mis Logitech M705 Marathon, srebrni",
           "barkod": "5099206023901",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
