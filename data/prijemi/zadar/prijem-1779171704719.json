@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:21:44.719Z",
-  "azurirano": "2026-05-19T08:45:41.065Z",
+  "azurirano": "2026-05-19T08:45:49.063Z",
   "dokumenti": [
     {
       "naziv": "MSI 3227-101",
@@ -792,7 +792,7 @@
           "naziv": "USB STICK KINGSTON FD Exodia 64GB USB 3.2",
           "barkod": "740617309829",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Tinta HP 305 Black Original Ink Cartridge, 3YM61AE - Instant Ink",
@@ -906,7 +906,7 @@
           "naziv": "Memorijska kartica Kingston 64GB microSDXC Canvas Go Plus Gen4 + ADP",
           "barkod": "740617347890",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "SBOX WM-852, bijela boja, bezicni | Wireless mis",
@@ -948,7 +948,7 @@
           "naziv": "USB STICK KINGSTON 64GB DT50 3.2 KC-U2G64-5R",
           "barkod": "740617314342",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
