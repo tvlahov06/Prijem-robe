@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:21:44.719Z",
-  "azurirano": "2026-05-19T09:13:30.157Z",
+  "azurirano": "2026-05-19T09:13:36.955Z",
   "dokumenti": [
     {
       "naziv": "MSI 3227-101",
@@ -566,7 +566,7 @@
           "naziv": "DVB-T2/T prijemnik E-STAR",
           "barkod": "5292618761540",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
