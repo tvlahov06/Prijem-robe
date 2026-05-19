@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:21:44.719Z",
-  "azurirano": "2026-05-19T09:32:08.570Z",
+  "azurirano": "2026-05-19T09:32:26.470Z",
   "dokumenti": [
     {
       "naziv": "MSI 105-181",
@@ -647,23 +647,6 @@
           "barkod": "619659145897",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3225-101",
-      "stavke": [
-        {
-          "naziv": "Film za Fujifilm Instax Mini - 2 paketa",
-          "barkod": "4547410364866",
-          "ocekivano": 60,
-          "skenirano": 60
-        },
-        {
-          "naziv": "Instant fotoaparat Fujifilm Instax Mini 41",
-          "barkod": "4547410545180",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
