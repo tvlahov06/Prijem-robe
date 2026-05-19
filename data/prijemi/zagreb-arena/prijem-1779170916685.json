@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:08:36.685Z",
-  "azurirano": "2026-05-19T07:16:10.953Z",
+  "azurirano": "2026-05-19T07:17:48.214Z",
   "dokumenti": [
     {
       "naziv": "MSI 3190-101",
@@ -599,7 +599,7 @@
           "naziv": "Blender Philips HR3020/20",
           "barkod": "8720389032615",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Bosch MFQ40304 Styline Colour crvena/srebrna",
@@ -623,7 +623,7 @@
           "naziv": "Glacalo Philips DST8020/20",
           "barkod": "8720389004773",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips HD9880/90 Airfryer XXL",
