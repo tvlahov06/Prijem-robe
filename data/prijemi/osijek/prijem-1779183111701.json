@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T09:31:51.701Z",
-  "azurirano": "2026-05-19T09:53:18.819Z",
+  "azurirano": "2026-05-19T09:53:22.919Z",
   "dokumenti": [
     {
       "naziv": "MSI 3187-101",
@@ -598,7 +598,7 @@
           "naziv": "SSD Samsung M.2 990 EVO PLUS, 4TB, PCIe(R) 4.0 x4 / 5.0 x2 NVMe TM 2.0,",
           "barkod": "8806095575667",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB stick ADATA UV128, 64GB, USB3.2 BE",
@@ -676,7 +676,7 @@
           "naziv": "SSD Samsung M.2 9100 PRO, 4TB, PCIe(R) 5.0 x4, NVMeTM",
           "barkod": "8806095811703",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD Samsung M.2 9100 PRO HEATSINK, 2TB, PCIe(R) 5.0 x4, NVMeTM 2.0,",
