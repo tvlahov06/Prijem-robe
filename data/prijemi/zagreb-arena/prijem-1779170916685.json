@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:08:36.685Z",
-  "azurirano": "2026-05-19T07:57:57.518Z",
+  "azurirano": "2026-05-19T07:58:14.874Z",
   "dokumenti": [
     {
       "naziv": "MSI 3190-101",
@@ -664,7 +664,7 @@
           "naziv": "SSD Samsung 2.5\" 1TB USB 3.2 T7 Portable plavi W MU-PC1T0H/WW",
           "barkod": "8806090312410",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "White Shark TIPKOVNICA GK-002722V2 WAKIZASHI-2 / -G-B-BLUE Sivo-crna HR-BLUE.SW",
@@ -832,7 +832,7 @@
           "naziv": "SSD Samsung 2TB USB 3.2 T7 Portable crni MU-PE2T0S/EU",
           "barkod": "8806092968431",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD Samsung 1TB 990 PRO Heatsink M.2 NVMe PCle 4.0 x4",
@@ -844,7 +844,7 @@
           "naziv": "SSD Samsung 2TB USB 3.2 T9 Portable crni MU-PG2T0B/EU",
           "barkod": "8806094914689",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD Samsung M.2 9100 PRO, 4TB, PCIe(R) 5.0 x4, NVMeTM",
