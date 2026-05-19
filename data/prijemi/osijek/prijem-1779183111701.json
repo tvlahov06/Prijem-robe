@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T09:31:51.701Z",
-  "azurirano": "2026-05-19T09:50:35.185Z",
+  "azurirano": "2026-05-19T09:50:43.508Z",
   "dokumenti": [
     {
       "naziv": "MSI 3187-101",
@@ -592,7 +592,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
           "barkod": "4718050609642",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "SSD Samsung M.2 990 EVO PLUS, 4TB, PCIe(R) 4.0 x4 / 5.0 x2 NVMe TM 2.0,",
@@ -670,7 +670,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD Samsung M.2 9100 PRO, 4TB, PCIe(R) 5.0 x4, NVMeTM",
