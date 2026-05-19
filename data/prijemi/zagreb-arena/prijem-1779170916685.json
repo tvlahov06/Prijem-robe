@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:08:36.685Z",
-  "azurirano": "2026-05-19T08:14:12.297Z",
+  "azurirano": "2026-05-19T08:34:38.512Z",
   "dokumenti": [
     {
       "naziv": "MSI 3190-101",
@@ -324,7 +324,7 @@
           "naziv": "Toster preklopni Gorenje SM701SB",
           "barkod": "3838782767197",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sjeckalica Gorenje S501GW",
@@ -366,7 +366,7 @@
           "naziv": "Mikser stapni Gorenje HBX1500VS",
           "barkod": "3838782994227",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Filter za vodu za aparat za kavu DeLonghi DLSC002",
@@ -479,7 +479,7 @@
           "naziv": "Glacalo Tefal FV6812E0",
           "barkod": "3121040077184",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sjeckalica Philips HR1502/00",
@@ -503,7 +503,7 @@
           "naziv": "Dehidrator hrane Gorenje FDK500DE",
           "barkod": "3838782820373",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Gorenje MMC1500PS",
@@ -563,7 +563,7 @@
           "naziv": "Mikser rucni Gorenje M360CW",
           "barkod": "3838782178726",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3010/30",
@@ -575,7 +575,7 @@
           "naziv": "Sjeckalica Philips HR1501/00",
           "barkod": "8720389066535",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Bosch MUM5XW20 MUM5 CreationLine",
@@ -587,7 +587,7 @@
           "naziv": "Aparat za vakumiranje Gorenje VS120E PRO",
           "barkod": "3838782820335",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP2224/10 espresso",
