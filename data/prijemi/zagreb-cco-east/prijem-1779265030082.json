@@ -5,7 +5,7 @@
   "datum": "2026-05-20",
   "status": "aktivan",
   "kreirano": "2026-05-20T08:17:10.082Z",
-  "azurirano": "2026-05-20T08:33:25.361Z",
+  "azurirano": "2026-05-20T08:33:31.619Z",
   "dokumenti": [
     {
       "naziv": "MSI 3251-101",
@@ -314,7 +314,7 @@
           "naziv": "SSD Samsung M.2 9100 PRO, 4TB, PCIe(R) 5.0 x4, NVMeTM",
           "barkod": "8806095811703",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD Samsung M.2 9100 PRO HEATSINK, 2TB, PCIe(R) 5.0 x4, NVMeTM 2.0,",
