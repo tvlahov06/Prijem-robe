@@ -5,7 +5,7 @@
   "datum": "2026-05-19",
   "status": "aktivan",
   "kreirano": "2026-05-19T06:21:44.719Z",
-  "azurirano": "2026-05-21T08:26:28.925Z",
+  "azurirano": "2026-05-21T08:26:35.599Z",
   "dokumenti": [
     {
       "naziv": "MSI 105-181",
@@ -84,7 +84,7 @@
           "naziv": "TV SAMSUNG QE43Q8FAAUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097120193",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
@@ -120,13 +120,13 @@
           "naziv": "TV SAMSUNG UE50U7022FKXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097251910",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097067672",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG UE55U8072FUXXH, 139.7cm (55\"), LED, 4K XH UHD Smart TV, Tizen OS",
