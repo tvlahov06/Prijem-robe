@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T14:09:16.273Z",
-  "azurirano": "2026-05-22T08:01:42.729Z",
+  "azurirano": "2026-05-22T08:01:52.460Z",
   "dokumenti": [
     {
       "naziv": "MSI 3284-101",
@@ -14,7 +14,7 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ01CTSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
           "barkod": "199274826741",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15 NX.DTBEX.003, 39.6cm (15.6\") IPS FHD, AMD Ryzen 7 5825U, 8 GB RAM, 512 GB SSD,",
@@ -86,7 +86,7 @@
           "naziv": "Laptop HP OMEN 16-am0136nn, D32JWEA, 40.6 cm (16\"), IPS 2K 60-144 Hz, Intel Core Ultra 7 255H, 16 GB RAM, 1",
           "barkod": "199896426671",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP EliteBook 8 Flip G1i 13, AD4G9ET, 33.8cm (13.3\") IPS WUXGA Touch, Intel Core Ultra 5 225U, 16 GB",
@@ -98,13 +98,13 @@
           "naziv": "Laptop ACER Aspire Go 15, NX.JW6EX.00K, 39.6cm (15,6\") IPS Full HD, Intel Core i3-1315H, 16 GB RAM, 512 GB SSD,",
           "barkod": "4711474892430",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS TUF Gaming F16 FA608UM-RV005, 40,6 cm 2H0 (16'') WUXGA, AMD Ryzen 7 260, 32GB RAM, 1TB SSD,",
           "barkod": "4711636276665",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS ROG Strix G18, G815LR-S9043W, 45.7cm 8A0 (18\") 2.5K WQXGA 240Hz, Intel Core Ultra 9 275HX, 32 GB",
