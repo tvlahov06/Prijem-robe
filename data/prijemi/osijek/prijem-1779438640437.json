@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T08:30:40.437Z",
-  "azurirano": "2026-05-22T10:23:57.476Z",
+  "azurirano": "2026-05-22T10:24:14.889Z",
   "dokumenti": [
     {
       "naziv": "MSI 3291-101",
@@ -120,13 +120,13 @@
           "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange (Demo)",
           "barkod": "195950742695",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue (Demo)",
           "barkod": "195950732276",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -143,7 +143,7 @@
           "naziv": "Sat Samsung Galaxy Fit3 sivi",
           "barkod": "8806095362175",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
