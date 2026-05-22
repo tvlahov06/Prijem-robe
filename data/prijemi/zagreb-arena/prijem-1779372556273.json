@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T14:09:16.273Z",
-  "azurirano": "2026-05-22T07:46:37.820Z",
+  "azurirano": "2026-05-22T07:53:37.256Z",
   "dokumenti": [
     {
       "naziv": "MSI 3284-101",
@@ -247,13 +247,13 @@
           "naziv": "Blender Nutribullet NB907CP 900W",
           "barkod": "8006447000087",
           "ocekivano": 5,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Blender Nutribullet NB907MAJD 900W",
           "barkod": "8006447003033",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -312,7 +312,7 @@
           "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
           "barkod": "622356350907",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
