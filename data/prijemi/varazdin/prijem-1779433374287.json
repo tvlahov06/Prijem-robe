@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T07:02:54.287Z",
-  "azurirano": "2026-05-22T07:24:32.931Z",
+  "azurirano": "2026-05-22T07:24:51.372Z",
   "dokumenti": [
     {
       "naziv": "MSI 3304-101",
@@ -732,7 +732,7 @@
           "naziv": "Pisac MFP Epson EcoTank L3271",
           "barkod": "8715946729701",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer Epson L3270 EcoTank",
