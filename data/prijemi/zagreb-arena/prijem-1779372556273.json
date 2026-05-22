@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T14:09:16.273Z",
-  "azurirano": "2026-05-22T08:56:56.940Z",
+  "azurirano": "2026-05-22T08:57:01.180Z",
   "dokumenti": [
     {
       "naziv": "MSI 3284-101",
@@ -925,7 +925,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7429/01 Sonicare Series 7100 DUO, Blue & White",
           "barkod": "8720689021432",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9911/88 DiamondClean, Blue",
@@ -967,7 +967,7 @@
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
           "barkod": "8720689045094",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "IPL depilator Braun PL5221",
