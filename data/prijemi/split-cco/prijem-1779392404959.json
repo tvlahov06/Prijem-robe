@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T19:40:04.959Z",
-  "azurirano": "2026-05-21T19:40:04.959Z",
+  "azurirano": "2026-05-22T05:49:19.211Z",
   "dokumenti": [
     {
       "naziv": "MSI 3290-101",
@@ -716,7 +716,7 @@
           "naziv": "TV HISENSE 32A5Q, 81.3cm (32\"), QLED, FHD Smart TV, VIDAA OS",
           "barkod": "6942351418179",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 43PUS8510, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
@@ -794,7 +794,7 @@
           "naziv": "TV SAMSUNG UE43U7022FKXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097253211",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
