@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T08:30:40.437Z",
-  "azurirano": "2026-05-22T08:51:55.786Z",
+  "azurirano": "2026-05-22T08:52:46.435Z",
   "dokumenti": [
     {
       "naziv": "MSI 3291-101",
@@ -553,19 +553,19 @@
           "naziv": "Printer Epson L3276 EcoTank, bijeli",
           "barkod": "8715946727271",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pisac MFP Epson EcoTank L3271",
           "barkod": "8715946729701",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer Epson L3270 EcoTank",
           "barkod": "8715946727097",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
