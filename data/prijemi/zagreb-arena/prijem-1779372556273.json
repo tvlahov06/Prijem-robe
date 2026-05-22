@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T14:09:16.273Z",
-  "azurirano": "2026-05-22T08:02:26.942Z",
+  "azurirano": "2026-05-22T08:02:40.849Z",
   "dokumenti": [
     {
       "naziv": "MSI 3284-101",
@@ -26,7 +26,7 @@
           "naziv": "Laptop HP 250R G10, C9WX1AT, 39.6 cm (15.6\") FHD, Intel Core 3-100U, 16 GB RAM, 512 GB SSD, Intel",
           "barkod": "199642594043",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Laptop LENOVO ThinkBook 16 G7 ARP 21MW0087SC, cm (16\") IPS WUXGA, AMD Ryzen 7 7735HS, 32 GB",
@@ -80,7 +80,7 @@
           "naziv": "Laptop ASUS Zenbook Duo UX8407AA-SN094X, 35,56 cm 9K0 (14\") OLED, 144Hz, Intel Core Ultra X9 Processor 388H, 32",
           "barkod": "4711636373135",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP OMEN 16-am0136nn, D32JWEA, 40.6 cm (16\"), IPS 2K 60-144 Hz, Intel Core Ultra 7 255H, 16 GB RAM, 1",
@@ -92,7 +92,7 @@
           "naziv": "Laptop HP EliteBook 8 Flip G1i 13, AD4G9ET, 33.8cm (13.3\") IPS WUXGA Touch, Intel Core Ultra 5 225U, 16 GB",
           "barkod": "0199251827983",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Go 15, NX.JW6EX.00K, 39.6cm (15,6\") IPS Full HD, Intel Core i3-1315H, 16 GB RAM, 512 GB SSD,",
