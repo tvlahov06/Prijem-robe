@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "",
   "datum": "2026-05-22",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-05-22T07:18:31.981Z",
-  "azurirano": "2026-05-22T07:18:31.981Z",
+  "azurirano": "2026-05-22T07:19:57.862Z",
   "dokumenti": [
     {
       "naziv": "MSI 3309-101",
@@ -186,5 +186,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-05-22T07:19:57.862Z"
 }
