@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "logista2105",
   "datum": "2026-05-22",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-05-22T15:21:42.429Z",
-  "azurirano": "2026-05-22T15:25:33.016Z",
+  "azurirano": "2026-05-22T15:27:41.345Z",
   "dokumenti": [
     {
       "naziv": "logista2105",
@@ -456,5 +456,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-05-22T15:27:41.345Z"
 }
