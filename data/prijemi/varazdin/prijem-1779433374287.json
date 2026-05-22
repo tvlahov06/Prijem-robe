@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T07:02:54.287Z",
-  "azurirano": "2026-05-22T07:44:36.390Z",
+  "azurirano": "2026-05-22T07:44:40.356Z",
   "dokumenti": [
     {
       "naziv": "MSI 3304-101",
@@ -625,13 +625,13 @@
           "naziv": "Pametni sat Huawei Band 11 Aluminum (Candy-B29F) Green",
           "barkod": "6942103182617",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Band 11 Aluminum (Candy-B29F) Beige",
           "barkod": "6942103182600",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
