@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T14:41:56.037Z",
-  "azurirano": "2026-05-22T05:14:03.091Z",
+  "azurirano": "2026-05-22T05:14:07.359Z",
   "dokumenti": [
     {
       "naziv": "MSI 3281-101",
@@ -711,7 +711,7 @@
           "naziv": "Susilo za kosu Remington AC9096 Silk",
           "barkod": "4008496789078",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips BRI977/00 Lumea",
@@ -843,7 +843,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7429/01 Sonicare Series 7100 DUO, Blue & White",
           "barkod": "8720689021432",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac za glavu Philips HS5980/15",
@@ -897,7 +897,7 @@
           "naziv": "Sisac za tijelo 8U1 Philips MG3940/15",
           "barkod": "8720689026611",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
