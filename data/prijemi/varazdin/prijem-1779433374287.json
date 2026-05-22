@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T07:02:54.287Z",
-  "azurirano": "2026-05-22T07:44:54.765Z",
+  "azurirano": "2026-05-22T07:45:03.165Z",
   "dokumenti": [
     {
       "naziv": "MSI 3304-101",
@@ -345,7 +345,7 @@
           "naziv": "Brijaci aparat Philips X3001/00",
           "barkod": "8720689018920",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7406/02 Sonicare Series 6100 Blue",
@@ -399,7 +399,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/88 DiamondClean, Blue",
           "barkod": "8720689001007",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac Philips BRL147/00, lady shaver",
