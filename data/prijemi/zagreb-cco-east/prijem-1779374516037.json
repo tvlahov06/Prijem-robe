@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T14:41:56.037Z",
-  "azurirano": "2026-05-22T05:08:18.321Z",
+  "azurirano": "2026-05-22T05:08:55.010Z",
   "dokumenti": [
     {
       "naziv": "MSI 3281-101",
@@ -807,7 +807,7 @@
           "naziv": "Uvijac za kosu Philips BHB968/00 WavePro Styler SenseIQ",
           "barkod": "8720689025485",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6054/87 Sensitive Standard 4/1",
@@ -861,13 +861,13 @@
           "naziv": "Epilator Philips BRE257/00",
           "barkod": "8720689030977",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD530/00",
           "barkod": "8710103977209",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Stilizator za kosu Babyliss Air Wand AS6550E",
