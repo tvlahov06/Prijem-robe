@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T07:02:54.287Z",
-  "azurirano": "2026-05-22T07:43:41.408Z",
+  "azurirano": "2026-05-22T07:43:46.854Z",
   "dokumenti": [
     {
       "naziv": "MSI 3304-101",
@@ -589,13 +589,13 @@
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB nebesko plavi",
           "barkod": "8806097827610",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Flip7 5G 12GB/256GB crni",
           "barkod": "8806097492139",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S25 Ultra 5G 12/256GB titan sivi",
