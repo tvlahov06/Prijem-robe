@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T14:41:56.037Z",
-  "azurirano": "2026-05-22T06:04:26.098Z",
+  "azurirano": "2026-05-22T06:04:30.229Z",
   "dokumenti": [
     {
       "naziv": "MSI 3281-101",
@@ -198,13 +198,13 @@
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
           "barkod": "8806097651000",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
           "barkod": "8806097651079",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
