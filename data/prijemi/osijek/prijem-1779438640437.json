@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T08:30:40.437Z",
-  "azurirano": "2026-05-22T10:55:40.457Z",
+  "azurirano": "2026-05-22T10:55:47.320Z",
   "dokumenti": [
     {
       "naziv": "MSI 3297-101",
@@ -81,23 +81,6 @@
           "barkod": "195949036934",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3300-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange (Demo)",
-          "barkod": "195950742695",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue (Demo)",
-          "barkod": "195950732276",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
