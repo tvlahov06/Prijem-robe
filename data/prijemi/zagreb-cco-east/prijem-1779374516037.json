@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T14:41:56.037Z",
-  "azurirano": "2026-05-22T05:09:22.428Z",
+  "azurirano": "2026-05-22T05:09:28.239Z",
   "dokumenti": [
     {
       "naziv": "MSI 3281-101",
@@ -759,7 +759,7 @@
           "naziv": "Uvijac za kosu Philips BHA710/00",
           "barkod": "8720689003872",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Babyliss AS95E Air Power Volume",
@@ -879,7 +879,7 @@
           "naziv": "Pegla za kosu Remington S8901 Hydraluxe",
           "barkod": "5038061110524",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Braun PL5221",
