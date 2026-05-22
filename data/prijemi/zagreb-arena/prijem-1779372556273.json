@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T14:09:16.273Z",
-  "azurirano": "2026-05-22T08:56:35.758Z",
+  "azurirano": "2026-05-22T08:56:50.741Z",
   "dokumenti": [
     {
       "naziv": "MSI 3284-101",
@@ -769,7 +769,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
           "barkod": "8720689027137",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Philips BHD839/00",
@@ -787,7 +787,7 @@
           "naziv": "Uvijac za kosu Philips BHB887/00 tulip SenseIQ",
           "barkod": "8720689002141",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo/kosu/bradu Braun 6u1 3410*",
@@ -799,7 +799,7 @@
           "naziv": "Tus za zube Philips Sonicare HX3911/40 Power Flosser",
           "barkod": "8710103947257",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7108/01 Sonicare Series 5300 White",
@@ -811,7 +811,7 @@
           "naziv": "Brijaci aparat Philips S7886/58",
           "barkod": "8720689010931",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "IPL depilator Philips BRI945/00 Lumea",
@@ -829,7 +829,7 @@
           "naziv": "Uvijac za kosu Philips BHA710/00",
           "barkod": "8720689003872",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips BRI947/00 Lumea",
@@ -841,7 +841,7 @@
           "naziv": "Uvijac za kosu Babyliss AS95E Air Power Volume",
           "barkod": "3030050190915",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips X3001/00",
@@ -877,7 +877,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9992/11 Prestige, Champagne",
           "barkod": "8710103962878",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6054/87 Sensitive Standard 4/1",
@@ -985,13 +985,13 @@
           "naziv": "Sisac za tijelo 17U1 Philips MG9535/15",
           "barkod": "8720689045131",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Remington EC8930E51 AIRviveTM",
           "barkod": "5038061174762",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
@@ -1009,7 +1009,7 @@
           "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
           "barkod": "8720689045360",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za tijelo 17U1 Philips MG7951/15",
@@ -1021,7 +1021,7 @@
           "naziv": "Epilator Braun SE3-000",
           "barkod": "8700216962988",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za bradu Philips BT7670/15",
