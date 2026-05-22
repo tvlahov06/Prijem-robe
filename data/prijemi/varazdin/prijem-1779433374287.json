@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T07:02:54.287Z",
-  "azurirano": "2026-05-22T07:24:56.231Z",
+  "azurirano": "2026-05-22T07:25:12.480Z",
   "dokumenti": [
     {
       "naziv": "MSI 3304-101",
@@ -720,7 +720,7 @@
           "naziv": "Printer HP LaserJet M110w",
           "barkod": "194850676970",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer Epson L3276 EcoTank, bijeli",
