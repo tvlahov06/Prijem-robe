@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T14:41:56.037Z",
-  "azurirano": "2026-05-22T05:19:10.497Z",
+  "azurirano": "2026-05-22T05:19:13.442Z",
   "dokumenti": [
     {
       "naziv": "MSI 3281-101",
@@ -676,7 +676,7 @@
           "naziv": "Printer HP LaserJet M110w",
           "barkod": "194850676970",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pisac MFP Epson EcoTank L3271",
