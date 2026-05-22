@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T08:30:40.437Z",
-  "azurirano": "2026-05-22T08:54:27.739Z",
+  "azurirano": "2026-05-22T08:55:37.474Z",
   "dokumenti": [
     {
       "naziv": "MSI 3291-101",
@@ -672,13 +672,13 @@
           "naziv": "Brijaci aparat Philips X3051/00",
           "barkod": "8720689019019",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
           "barkod": "8710103932482",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP225/50 nastavci Face",
