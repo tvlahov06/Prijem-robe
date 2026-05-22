@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T07:02:54.287Z",
-  "azurirano": "2026-05-22T07:51:06.522Z",
+  "azurirano": "2026-05-22T07:51:14.641Z",
   "dokumenti": [
     {
       "naziv": "MSI 3304-101",
@@ -240,41 +240,6 @@
           "barkod": "6942351431420",
           "ocekivano": 10,
           "skenirano": 10
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3335-101",
-      "stavke": [
-        {
-          "naziv": "TV HISENSE 58E7Q, 147.3cm (58\"), QLED, 4K UHD Smart TV, VIDAA OS",
-          "barkod": "6942351418810",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV LG OLED42C51LA 106.7cm (42\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
-          "barkod": "8806096368763",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV SAMSUNG QE43Q8FAAUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
-          "barkod": "8806097120193",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV HISENSE 50U7Q, 127.0cm (50\"), ULED Mini LED, 4K UHD Smart TV, VIDAA OS",
-          "barkod": "6942351420899",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV PHILIPS 50PUS8510, 127.0cm (50\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
-          "barkod": "8718863045817",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     },
