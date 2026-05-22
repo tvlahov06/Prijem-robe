@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T08:30:40.437Z",
-  "azurirano": "2026-05-22T09:52:08.082Z",
+  "azurirano": "2026-05-22T09:52:45.427Z",
   "dokumenti": [
     {
       "naziv": "MSI 3291-101",
@@ -690,13 +690,13 @@
           "naziv": "Brijaci aparat Philips XP9403/31",
           "barkod": "8720689030250",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7119/01 Sonicare Series 5500 DUO, Blue & White",
           "barkod": "8720689021708",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijac za glavu Philips nastavak HS740/15 zamjenske glave",
