@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T14:09:16.273Z",
-  "azurirano": "2026-05-22T08:29:14.302Z",
+  "azurirano": "2026-05-22T08:32:41.942Z",
   "dokumenti": [
     {
       "naziv": "MSI 3284-101",
@@ -805,7 +805,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7108/01 Sonicare Series 5300 White",
           "barkod": "8720689022835",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Brijaci aparat Philips S7886/58",
@@ -823,7 +823,7 @@
           "naziv": "Brijac za glavu Philips HS7980/15",
           "barkod": "8720689044257",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Philips BHA710/00",
@@ -859,7 +859,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7406/02 Sonicare Series 6100 Blue",
           "barkod": "8720689021784",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9911/84 DiamondClean, Pink",
@@ -901,7 +901,7 @@
           "naziv": "Brijaci aparat Philips X3051/00",
           "barkod": "8720689019019",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Brijaci aparat Philips XP9403/31",
@@ -937,7 +937,7 @@
           "naziv": "Brijac za glavu Philips HS5980/15",
           "barkod": "8720689044264",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9092/88 Premium All-In-One Black 2/1",
@@ -1021,7 +1021,7 @@
           "naziv": "Epilator Braun SE3-000",
           "barkod": "8700216962988",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za bradu Philips BT7670/15",
