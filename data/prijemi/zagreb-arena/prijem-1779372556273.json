@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T14:09:16.273Z",
-  "azurirano": "2026-05-22T08:42:58.731Z",
+  "azurirano": "2026-05-22T08:43:37.650Z",
   "dokumenti": [
     {
       "naziv": "MSI 3284-101",
@@ -728,7 +728,7 @@
           "naziv": "Mop elektricni Philips dodaci XV1892/02 sredstvo za ciscenje poda",
           "barkod": "8720389035937",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mop elektricni Philips dodaci XV1882/10 zamjenski podni brisac",
@@ -740,7 +740,7 @@
           "naziv": "Mop elektricni Philips dodaci XV1882/20 zamjenski podni brisac",
           "barkod": "8720389057540",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         }
       ]
     },
