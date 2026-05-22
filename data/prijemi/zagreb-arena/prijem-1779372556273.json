@@ -5,7 +5,7 @@
   "datum": "2026-05-21",
   "status": "aktivan",
   "kreirano": "2026-05-21T14:09:16.273Z",
-  "azurirano": "2026-05-22T08:56:26.680Z",
+  "azurirano": "2026-05-22T08:56:35.758Z",
   "dokumenti": [
     {
       "naziv": "MSI 3284-101",
@@ -775,7 +775,7 @@
           "naziv": "Susilo za kosu Philips BHD839/00",
           "barkod": "8720689032384",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6652/61 Face & Body",
@@ -835,7 +835,7 @@
           "naziv": "IPL depilator Philips BRI947/00 Lumea",
           "barkod": "8720689016438",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Babyliss AS95E Air Power Volume",
