@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T08:30:40.437Z",
-  "azurirano": "2026-05-22T09:56:35.316Z",
+  "azurirano": "2026-05-22T09:56:45.866Z",
   "dokumenti": [
     {
       "naziv": "MSI 3291-101",
@@ -630,7 +630,7 @@
           "naziv": "Brijaci aparat Philips X3001/00",
           "barkod": "8720689018920",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7109/01 Sonicare Series 5300 DUO, Black & White",
@@ -702,7 +702,7 @@
           "naziv": "Brijac za glavu Philips nastavak HS740/15 zamjenske glave",
           "barkod": "8720689044493",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips SC1997/00 Lumea",
