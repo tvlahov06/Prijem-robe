@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T12:46:00.889Z",
-  "azurirano": "2026-05-23T08:15:29.893Z",
+  "azurirano": "2026-05-23T08:15:43.870Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -320,7 +320,7 @@
           "naziv": "Artikl 8713439253894",
           "barkod": "8713439253894",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Artikl 8018080514326",
@@ -494,7 +494,7 @@
           "naziv": "Artikl 8713439250411",
           "barkod": "8713439250411",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Artikl 8713439247435",
