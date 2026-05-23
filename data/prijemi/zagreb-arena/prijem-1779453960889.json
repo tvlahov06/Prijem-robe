@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T12:46:00.889Z",
-  "azurirano": "2026-05-23T08:10:57.091Z",
+  "azurirano": "2026-05-23T08:11:07.116Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -68,7 +68,7 @@
           "naziv": "Artikl 8018080425844",
           "barkod": "8018080425844",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Artikl 8018080399534",
@@ -92,19 +92,19 @@
           "naziv": "Artikl 8018080251238",
           "barkod": "8018080251238",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Artikl 8018080373633",
           "barkod": "8018080373633",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Artikl 8018080295737",
           "barkod": "8018080295737",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "Artikl 8018080438264",
@@ -128,7 +128,7 @@
           "naziv": "Artikl 8018080367182",
           "barkod": "8018080367182",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Artikl 8018080434778",
