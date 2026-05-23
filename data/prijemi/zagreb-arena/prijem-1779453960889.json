@@ -5,7 +5,7 @@
   "datum": "2026-05-22",
   "status": "aktivan",
   "kreirano": "2026-05-22T12:46:00.889Z",
-  "azurirano": "2026-05-23T08:08:05.111Z",
+  "azurirano": "2026-05-23T08:08:46.342Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -14,19 +14,19 @@
           "naziv": "Artikl 8018080426124",
           "barkod": "8018080426124",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Artikl 0194644125806",
           "barkod": "0194644125806",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Artikl 0194644170868",
           "barkod": "0194644170868",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Artikl 0194644125646",
@@ -74,7 +74,7 @@
           "naziv": "Artikl 8018080399534",
           "barkod": "8018080399534",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Artikl 8018080420719",
@@ -122,7 +122,7 @@
           "naziv": "Artikl 8018080434730",
           "barkod": "8018080434730",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Artikl 8018080367182",
@@ -134,7 +134,7 @@
           "naziv": "Artikl 8018080434778",
           "barkod": "8018080434778",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Artikl 8018080367199",
@@ -152,13 +152,13 @@
           "naziv": "Artikl 8018080270420",
           "barkod": "8018080270420",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Artikl 8018080347849",
           "barkod": "8018080347849",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Artikl 8018080481963",
@@ -170,13 +170,13 @@
           "naziv": "Artikl 8018080423260",
           "barkod": "8018080423260",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Artikl 8018080489587",
           "barkod": "8018080489587",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Artikl 8018080505454",
@@ -188,7 +188,7 @@
           "naziv": "Artikl 8018080505508",
           "barkod": "8018080505508",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Artikl 8018080489808",
@@ -326,7 +326,7 @@
           "naziv": "Artikl 8018080514326",
           "barkod": "8018080514326",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Artikl 8713439212518",
