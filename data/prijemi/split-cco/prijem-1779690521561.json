@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "",
   "datum": "2026-05-25",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-05-25T06:28:41.561Z",
-  "azurirano": "2026-05-25T06:31:34.499Z",
+  "azurirano": "2026-05-25T06:32:15.549Z",
   "dokumenti": [
     {
       "naziv": "Logista 4703",
@@ -552,6 +552,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-05-25T06:31:34.498Z"
+  ]
 }
