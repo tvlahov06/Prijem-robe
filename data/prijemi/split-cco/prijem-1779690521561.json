@@ -5,7 +5,7 @@
   "datum": "2026-05-25",
   "status": "aktivan",
   "kreirano": "2026-05-25T06:28:41.561Z",
-  "azurirano": "2026-05-25T06:33:38.105Z",
+  "azurirano": "2026-05-25T06:33:42.446Z",
   "dokumenti": [
     {
       "naziv": "Logista 4703",
@@ -248,7 +248,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 25W",
           "barkod": "8018080367182",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Auto Punjac CELLULARLINE GaN+ 67W 2x USB-C/USB-A + USB-C Kabel",
@@ -398,7 +398,7 @@
           "naziv": "CELLULARLINE FINE MASKICA IPHONE 16 PRO MAX",
           "barkod": "8018080482472",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Drzac za Mobitel CELLULARLINE Slide Fit",
