@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T10:15:30.423Z",
-  "azurirano": "2026-05-26T19:24:20.155Z",
+  "azurirano": "2026-05-26T19:24:28.325Z",
   "dokumenti": [
     {
       "naziv": "MSI 3339-101",
@@ -204,7 +204,7 @@
           "naziv": "Parna postaja Philips PSG6020/30",
           "barkod": "8720389015267",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8140/80",
