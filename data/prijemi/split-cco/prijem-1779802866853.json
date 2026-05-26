@@ -4,8 +4,8 @@
   "naziv": "Roba u dolasku",
   "datum": "2026-05-26",
   "status": "aktivan",
-  "kreirano": "2026-05-26T13:41:06.853Z",
-  "azurirano": "2026-05-26T13:41:06.853Z",
+  "kreirano": "2026-05-26T14:51:07.078Z",
+  "azurirano": "2026-05-26T14:51:07.078Z",
   "dokumenti": [
     {
       "naziv": "MSI 3356-101",
@@ -963,6 +963,17 @@
           "naziv": "PS5 DualSense Charging Station",
           "barkod": "711719374107",
           "ocekivano": 30,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3450-101",
+      "stavke": [
+        {
+          "naziv": "007 First Light PS5",
+          "barkod": "884095225308",
+          "ocekivano": 15,
           "skenirano": 0
         }
       ]
