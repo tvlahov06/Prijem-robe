@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T10:15:30.423Z",
-  "azurirano": "2026-05-26T10:15:30.423Z",
+  "azurirano": "2026-05-26T18:59:36.958Z",
   "dokumenti": [
     {
       "naziv": "MSI 3339-101",
@@ -791,13 +791,13 @@
           "naziv": "TP-Link RE500X, AX1500, Wi-Fi pojacivac signala, gigabit",
           "barkod": "6935364010324",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link RE700X, AX3000 Mesh WiFi 6 Extender",
           "barkod": "4897098683330",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "C200 TP-Link Tapo C200 Pan/Tilt Home Security Wi-Fi",
