@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T10:15:30.423Z",
-  "azurirano": "2026-05-26T19:41:15.250Z",
+  "azurirano": "2026-05-26T19:41:24.278Z",
   "dokumenti": [
     {
       "naziv": "MSI 3339-101",
@@ -43,7 +43,7 @@
           "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
           "barkod": "5025155131992",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sokovnik Gorenje JC400BE",
@@ -55,13 +55,13 @@
           "naziv": "Usisavac Dyson V8 Cyclone",
           "barkod": "5025155122594",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Miele Boost CX1 Blue Pulse",
           "barkod": "4002516897026",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MieleGuard L1 Red Pulse",
