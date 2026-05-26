@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T10:15:30.423Z",
-  "azurirano": "2026-05-26T19:20:50.744Z",
+  "azurirano": "2026-05-26T19:20:52.973Z",
   "dokumenti": [
     {
       "naziv": "MSI 3339-101",
@@ -222,7 +222,7 @@
           "naziv": "Uredaj za uklanjanje vlakana Philips GCA2100/20",
           "barkod": "8720389030857",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3031/01",
