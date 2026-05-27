@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T14:51:07.078Z",
-  "azurirano": "2026-05-27T06:11:14.789Z",
+  "azurirano": "2026-05-27T06:11:27.349Z",
   "dokumenti": [
     {
       "naziv": "MSI 3356-101",
@@ -719,7 +719,7 @@
           "naziv": "USB 3.0 hub, TP-Link UH700",
           "barkod": "1210002607049",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HDD WD Elements Portable 2TB, USB 3.0",
