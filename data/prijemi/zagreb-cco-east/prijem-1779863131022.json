@@ -5,7 +5,7 @@
   "datum": "2026-05-27",
   "status": "aktivan",
   "kreirano": "2026-05-27T06:25:31.022Z",
-  "azurirano": "2026-05-27T06:30:17.647Z",
+  "azurirano": "2026-05-27T06:30:35.576Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center1",
@@ -50,7 +50,7 @@
           "naziv": "Fotoaparat POLAROID Now+ Generation 3, crna boja + Color Film Bundle (8 fotografija), instant kamera set",
           "barkod": "9120134283146",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Fotoaparat POLAROID Now+ Generation 3, bijela boja + Color Film Bundle (8 fotografija), instant kamera set",
@@ -86,13 +86,13 @@
           "naziv": "Foto printer Polaroid Originals Hi-Print Gen2 Everything Box Black",
           "barkod": "9120096778094",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Everything Box Hi Print foto pisac 4x6 Photo Printer EU",
           "barkod": "9120134280398",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Foto papir Polaroid Originals Color Film for i-Type",
@@ -128,7 +128,7 @@
           "naziv": "Film POLAROID Color Film for 600 Double Pack, instant film",
           "barkod": "9120096770753",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Foto papir Polaroid Originals Color Film GO - Double Pack",
