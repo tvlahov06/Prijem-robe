@@ -5,7 +5,7 @@
   "datum": "2026-05-27",
   "status": "aktivan",
   "kreirano": "2026-05-27T06:25:11.438Z",
-  "azurirano": "2026-05-27T06:35:07.043Z",
+  "azurirano": "2026-05-27T06:35:12.076Z",
   "dokumenti": [
     {
       "naziv": "MSI 3401-101",
@@ -533,7 +533,7 @@
           "naziv": "TP-Link LS1005, 5-port 10/100 switch,plasticno",
           "barkod": "6935364089061",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link UH400, 4-ports USB 3.0 hub",
@@ -563,7 +563,7 @@
           "naziv": "HP HyperX PF Has 2 Core Wireless - Gaming Mouse Black",
           "barkod": "197498115382",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Podloga za mis White Shark ESL-MP7 ASHIKAGA L 45x40x0,3cm",
