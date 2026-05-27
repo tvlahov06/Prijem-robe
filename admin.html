@@ -510,64 +510,45 @@
       for (var i = 0; i < prijemi.length; i++) { if (prijemi[i].id === prijemId) { p = prijemi[i]; break; } }
       if (!p) return;
 
-      // Build items list
-      var items = [];
-      for (var d = 0; d < p.dokumenti.length; d++) {
-        for (var s = 0; s < p.dokumenti[d].stavke.length; s++) {
-          var st = p.dokumenti[d].stavke[s];
-          items.push({ dn: p.dokumenti[d].naziv, naziv: st.naziv, barkod: st.barkod, ocekivano: st.ocekivano, skenirano: st.skenirano || 0 });
+      function doExport() {
+        var data = [["Dokument","Naziv","Barkod","Ocekivano","Skenirano","Razlika"]];
+        var items = [];
+        for (var d = 0; d < p.dokumenti.length; d++) {
+          for (var s = 0; s < p.dokumenti[d].stavke.length; s++) {
+            var st = p.dokumenti[d].stavke[s];
+            items.push({ dn: p.dokumenti[d].naziv, naziv: st.naziv, barkod: st.barkod, ocekivano: st.ocekivano, skenirano: st.skenirano || 0 });
+          }
         }
+        for (var i = 0; i < items.length; i++) {
+          var it = items[i];
+          data.push([it.dn, it.naziv, it.barkod, it.ocekivano, it.skenirano, null]);
+        }
+        var ws = XLSX.utils.aoa_to_sheet(data);
+        ws["!cols"] = [{ wch: 20 }, { wch: 45 }, { wch: 15 }, { wch: 12 }, { wch: 12 }, { wch: 10 }];
+        // Add Razlika formulas
+        for (var i = 0; i < items.length; i++) {
+          var cellRef = XLSX.utils.encode_cell({ r: i + 1, c: 5 });
+          var rowNum = i + 2;
+          ws[cellRef] = { t: 'n', f: 'E' + rowNum + '-D' + rowNum };
+        }
+        var wb = XLSX.utils.book_new();
+        XLSX.utils.book_append_sheet(wb, ws, "Prijem");
+
+        var poslNaziv = "";
+        for (var pi = 0; pi < poslovnice.length; pi++) { if (poslovnice[pi].id === pid) { poslNaziv = poslovnice[pi].naziv; break; } }
+        var fileName = "prijem-" + (p.naziv || p.datum) + "-" + poslNaziv + ".xlsx";
+        fileName = fileName.replace(/[^a-zA-Z0-9\-_.]/g, "_");
+        XLSX.writeFile(wb, fileName);
+        toast("Exportirano!", "success");
       }
 
-      var xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
-      xml += '<?mso-application progid="Excel.Sheet"?>\n';
-      xml += '<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">\n';
-      xml += '<Styles>\n';
-      xml += '<Style ss:ID="header"><Interior ss:Color="#DBEAFE" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#1E3A5F"/><Alignment ss:Horizontal="Center"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/></Borders></Style>\n';
-      xml += '<Style ss:ID="def"></Style>\n';
-      xml += '<Style ss:ID="defSep"><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/></Borders></Style>\n';
-      xml += '<Style ss:ID="ok"><Interior ss:Color="#D1FAE5" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#166534"/></Style>\n';
-      xml += '<Style ss:ID="okSep"><Interior ss:Color="#D1FAE5" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#166534"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/></Borders></Style>\n';
-      xml += '<Style ss:ID="minus"><Interior ss:Color="#FEE2E2" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#DC2626"/></Style>\n';
-      xml += '<Style ss:ID="minusSep"><Interior ss:Color="#FEE2E2" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#DC2626"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/></Borders></Style>\n';
-      xml += '<Style ss:ID="plus"><Interior ss:Color="#FEF3C7" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#D97706"/></Style>\n';
-      xml += '<Style ss:ID="plusSep"><Interior ss:Color="#FEF3C7" ss:Pattern="Solid"/><Font ss:Bold="1" ss:Color="#D97706"/><Borders><Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/></Borders></Style>\n';
-      xml += '</Styles>\n';
-      xml += '<Worksheet ss:Name="Prijem">\n<Table>\n';
-      xml += '<Column ss:Width="140"/><Column ss:Width="300"/><Column ss:Width="110"/><Column ss:Width="80"/><Column ss:Width="80"/><Column ss:Width="70"/>\n';
-      xml += '<Row>';
-      var headers = ["Dokument","Naziv","Barkod","Ocekivano","Skenirano","Razlika"];
-      for (var h = 0; h < headers.length; h++) xml += '<Cell ss:StyleID="header"><Data ss:Type="String">' + headers[h] + '</Data></Cell>';
-      xml += '</Row>\n';
-      for (var i = 0; i < items.length; i++) {
-        var it = items[i];
-        var diff = it.skenirano - it.ocekivano;
-        var isLastInDoc = (i === items.length - 1) || (items[i + 1].dn !== it.dn);
-        var rowStyle = isLastInDoc ? "defSep" : "def";
-        var diffStyle;
-        if (diff === 0 && it.skenirano > 0) diffStyle = isLastInDoc ? "okSep" : "ok";
-        else if (diff < 0) diffStyle = isLastInDoc ? "minusSep" : "minus";
-        else if (diff > 0) diffStyle = isLastInDoc ? "plusSep" : "plus";
-        else diffStyle = rowStyle;
-        xml += '<Row>';
-        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="String">' + escXml(it.dn) + '</Data></Cell>';
-        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="String">' + escXml(it.naziv) + '</Data></Cell>';
-        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="String">' + it.barkod + '</Data></Cell>';
-        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="Number">' + it.ocekivano + '</Data></Cell>';
-        xml += '<Cell ss:StyleID="' + rowStyle + '"><Data ss:Type="Number">' + it.skenirano + '</Data></Cell>';
-        xml += '<Cell ss:StyleID="' + diffStyle + '"><Data ss:Type="Number">' + diff + '</Data></Cell>';
-        xml += '</Row>\n';
+      if (window.XLSX) { doExport(); }
+      else {
+        var s = document.createElement("script");
+        s.src = "https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js";
+        s.onload = doExport;
+        document.head.appendChild(s);
       }
-      xml += '</Table>\n</Worksheet>\n</Workbook>';
-
-      var poslNaziv = "";
-      for (var pi = 0; pi < poslovnice.length; pi++) { if (poslovnice[pi].id === pid) { poslNaziv = poslovnice[pi].naziv; break; } }
-      var fileName = "prijem-" + (p.naziv || p.datum) + "-" + poslNaziv + ".xls";
-      fileName = fileName.replace(/[^a-zA-Z0-9\-_.]/g, "_");
-      var a = document.createElement("a");
-      a.href = URL.createObjectURL(new Blob([xml], { type: "application/vnd.ms-excel;charset=utf-8" }));
-      a.download = fileName; a.click();
-      toast("Exportirano!", "success");
     };
 
     window.renamePrijem = function(pid, prijemId) {
