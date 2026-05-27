@@ -5,7 +5,7 @@
   "datum": "2026-05-27",
   "status": "aktivan",
   "kreirano": "2026-05-27T06:25:31.022Z",
-  "azurirano": "2026-05-27T06:27:41.423Z",
+  "azurirano": "2026-05-27T06:27:45.857Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center1",
@@ -56,7 +56,7 @@
           "naziv": "Fotoaparat POLAROID Now+ Generation 3, bijela boja + Color Film Bundle (8 fotografija), instant kamera set",
           "barkod": "9120134283153",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Instant fotoaparat Polaroid Originals GO2 White",
@@ -134,7 +134,7 @@
           "naziv": "Foto papir Polaroid Originals Color Film GO - Double Pack",
           "barkod": "9120096770807",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Foto papir Polaroid Originals Color Film GO 48kom",
