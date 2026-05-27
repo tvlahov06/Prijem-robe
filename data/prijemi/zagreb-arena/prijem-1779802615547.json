@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T13:36:55.547Z",
-  "azurirano": "2026-05-27T09:10:30.229Z",
+  "azurirano": "2026-05-27T09:15:19.686Z",
   "dokumenti": [
     {
       "naziv": "MSI 3336-101",
@@ -226,7 +226,7 @@
           "naziv": "Blender Philips HR3020/20",
           "barkod": "8720389032615",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA150/00 Airfryer Dual Basket",
@@ -364,7 +364,7 @@
           "naziv": "Osvjezivac odjece Russell Hobbs 28550-56 Blue, Steam Genie VacuSteam",
           "barkod": "5038061176247",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Russell Hobbs 27374-56 Eden 2S Pistachio",
@@ -382,7 +382,7 @@
           "naziv": "Glacalo Tefal FV8062E0",
           "barkod": "3121040086476",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Tefal SV9201E0*",
