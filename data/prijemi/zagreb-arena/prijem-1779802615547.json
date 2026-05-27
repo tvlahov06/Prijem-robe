@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T13:36:55.547Z",
-  "azurirano": "2026-05-27T09:24:07.205Z",
+  "azurirano": "2026-05-27T09:24:25.930Z",
   "dokumenti": [
     {
       "naziv": "MSI 3336-101",
@@ -268,7 +268,7 @@
           "naziv": "Parna postaja Philips PSG7200/30",
           "barkod": "8720389065187",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG7300/80",
@@ -292,7 +292,7 @@
           "naziv": "Usisavac Philips FC9330/09",
           "barkod": "8720389036088",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9334/09",
@@ -304,7 +304,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
