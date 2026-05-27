@@ -5,7 +5,7 @@
   "datum": "2026-05-27",
   "status": "aktivan",
   "kreirano": "2026-05-27T06:25:31.022Z",
-  "azurirano": "2026-05-27T06:27:15.105Z",
+  "azurirano": "2026-05-27T06:27:29.041Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center1",
@@ -26,7 +26,7 @@
           "naziv": "Fotoaparat POLAROID Now Generation 3, koraljna boja, instant kamera",
           "barkod": "9120134280206",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Fotoaparat POLAROID Now Generation 3, zuta boja, instant kamera",
@@ -140,7 +140,7 @@
           "naziv": "Foto papir Polaroid Originals Color Film GO 48kom",
           "barkod": "9120096773709",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Foto album Polaroid S Black",
