@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T13:36:55.547Z",
-  "azurirano": "2026-05-27T09:32:55.873Z",
+  "azurirano": "2026-05-27T09:32:58.076Z",
   "dokumenti": [
     {
       "naziv": "MSI 3336-101",
@@ -614,7 +614,7 @@
           "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
           "barkod": "740617305302",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB 3.0 hub + 2 power, TP-Link UH720",
