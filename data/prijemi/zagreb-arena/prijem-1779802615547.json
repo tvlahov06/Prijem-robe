@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T13:36:55.547Z",
-  "azurirano": "2026-05-27T07:50:35.791Z",
+  "azurirano": "2026-05-27T07:50:44.662Z",
   "dokumenti": [
     {
       "naziv": "MSI 3336-101",
@@ -1012,7 +1012,7 @@
           "naziv": "TV LG OLED55C51LA 139.7cm (55\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096381885",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE65S85FAEXXH, 165.1cm (65\"), OLED, 4K H UHD Smart TV, Tizen OS",
@@ -1048,13 +1048,13 @@
           "naziv": "TV SAMSUNG QE55QN80FAUXXH, 139.7cm (55\"), Neo XH QLED Mini LED, 4K UHD Smart TV, Tizen OS",
           "barkod": "8806095995540",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "TV SAMSUNG QE55S90FAEXXH, 139.7cm (55\"), OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097090953",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
