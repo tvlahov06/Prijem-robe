@@ -5,7 +5,7 @@
   "datum": "2026-05-27",
   "status": "aktivan",
   "kreirano": "2026-05-27T06:25:11.438Z",
-  "azurirano": "2026-05-27T06:34:19.481Z",
+  "azurirano": "2026-05-27T06:34:22.275Z",
   "dokumenti": [
     {
       "naziv": "MSI 3401-101",
@@ -653,7 +653,7 @@
           "naziv": "HR TIPKOVNICA SBOX K-103 HR",
           "barkod": "3858894503988",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
