@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T14:51:07.078Z",
-  "azurirano": "2026-05-27T05:58:02.639Z",
+  "azurirano": "2026-05-27T05:58:24.344Z",
   "dokumenti": [
     {
       "naziv": "MSI 3356-101",
@@ -362,7 +362,7 @@
           "naziv": "Mikser stapni Philips HR2534/00 Daily Collection ProMix",
           "barkod": "8710103914457",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG7200/20",
