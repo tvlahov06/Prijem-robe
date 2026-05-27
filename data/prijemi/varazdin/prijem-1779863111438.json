@@ -5,7 +5,7 @@
   "datum": "2026-05-27",
   "status": "aktivan",
   "kreirano": "2026-05-27T06:25:11.438Z",
-  "azurirano": "2026-05-27T06:35:29.799Z",
+  "azurirano": "2026-05-27T06:36:07.638Z",
   "dokumenti": [
     {
       "naziv": "MSI 3401-101",
@@ -521,7 +521,7 @@
           "naziv": "USB 3.0 hub + 2 power, TP-Link UH720",
           "barkod": "1210002607063",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "USB 3.0 hub, TP-Link UH700",
