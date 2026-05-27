@@ -395,12 +395,7 @@
         var it = items[i], r = i + 2;
         var isLast = (i === items.length - 1) || (items[i + 1].dn !== it.dn);
         var sN = isLast ? "3" : "0";
-        var diff = it.skenirano - it.ocekivano;
-        var sD;
-        if (diff === 0 && it.skenirano > 0) sD = isLast ? "6" : "5";       // ok green
-        else if (diff < 0) sD = isLast ? "8" : "7";   // minus red
-        else if (diff > 0) sD = isLast ? "10" : "9";  // plus yellow
-        else sD = isLast ? "4" : "2";                  // neutral bold
+        var sD = isLast ? "4" : "2"; // bold + optional border, colors via conditional formatting
         var rw = '';
         rw += '<c r="A' + r + '" t="s" s="' + sN + '"><v>' + si(it.dn) + '</v></c>';
         rw += '<c r="B' + r + '" t="s" s="' + sN + '"><v>' + si(it.naziv) + '</v></c>';
@@ -411,34 +406,40 @@
         rows.push('<row r="' + r + '">' + rw + '</row>');
       }
 
-      var sheetXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"><cols><col min="1" max="1" width="22" customWidth="1"/><col min="2" max="2" width="48" customWidth="1"/><col min="3" max="3" width="16" customWidth="1"/><col min="4" max="4" width="13" customWidth="1"/><col min="5" max="5" width="13" customWidth="1"/><col min="6" max="6" width="11" customWidth="1"/></cols><sheetData>' + rows.join('') + '</sheetData></worksheet>';
+      var lastRow = items.length + 1;
+      var cfRange = 'F2:F' + lastRow;
+      var condFmt = '<conditionalFormatting sqref="' + cfRange + '">'
+        + '<cfRule type="cellIs" dxfId="0" priority="1" operator="equal"><formula>0</formula></cfRule>'
+        + '<cfRule type="cellIs" dxfId="1" priority="2" operator="lessThan"><formula>0</formula></cfRule>'
+        + '<cfRule type="cellIs" dxfId="2" priority="3" operator="greaterThan"><formula>0</formula></cfRule>'
+        + '</conditionalFormatting>';
+
+      var sheetXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"><cols><col min="1" max="1" width="22" customWidth="1"/><col min="2" max="2" width="48" customWidth="1"/><col min="3" max="3" width="16" customWidth="1"/><col min="4" max="4" width="13" customWidth="1"/><col min="5" max="5" width="13" customWidth="1"/><col min="6" max="6" width="11" customWidth="1"/></cols><sheetData>' + rows.join('') + '</sheetData>' + condFmt + '</worksheet>';
 
       var ssXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="' + ss.length + '" uniqueCount="' + ss.length + '">';
       for (var i = 0; i < ss.length; i++) ssXml += '<si><t>' + eX(ss[i]) + '</t></si>';
       ssXml += '</sst>';
 
-      // Fonts: 0=normal, 1=header(bold+blue), 2=bold, 3=bold+green, 4=bold+red, 5=bold+orange
-      // Fills: 0=none, 1=gray125, 2=blue(header), 3=green, 4=red, 5=yellow
-      // Borders: 0=none, 1=thick bottom
-      // CellXfs: 0=def, 1=header, 2=bold, 3=defSep, 4=boldSep, 5=okGreen, 6=okGreenSep, 7=minusRed, 8=minusRedSep, 9=plusYellow, 10=plusYellowSep
+      // Styles with dxfs for conditional formatting
+      // dxfId 0 = equal 0 (green), dxfId 1 = less than 0 (red), dxfId 2 = greater than 0 (yellow)
       var stylesXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><styleSheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">'
-        + '<fonts count="6"><font><sz val="11"/><name val="Calibri"/></font><font><b/><sz val="11"/><color rgb="FF1E3A5F"/><name val="Calibri"/></font><font><b/><sz val="11"/><name val="Calibri"/></font><font><b/><sz val="11"/><color rgb="FF166534"/><name val="Calibri"/></font><font><b/><sz val="11"/><color rgb="FFDC2626"/><name val="Calibri"/></font><font><b/><sz val="11"/><color rgb="FFD97706"/><name val="Calibri"/></font></fonts>'
-        + '<fills count="6"><fill><patternFill patternType="none"/></fill><fill><patternFill patternType="gray125"/></fill><fill><patternFill patternType="solid"><fgColor rgb="FFDBEAFE"/></patternFill></fill><fill><patternFill patternType="solid"><fgColor rgb="FFD1FAE5"/></patternFill></fill><fill><patternFill patternType="solid"><fgColor rgb="FFFEE2E2"/></patternFill></fill><fill><patternFill patternType="solid"><fgColor rgb="FFFEF3C7"/></patternFill></fill></fills>'
+        + '<fonts count="3"><font><sz val="11"/><name val="Calibri"/></font><font><b/><sz val="11"/><color rgb="FF1E3A5F"/><name val="Calibri"/></font><font><b/><sz val="11"/><name val="Calibri"/></font></fonts>'
+        + '<fills count="3"><fill><patternFill patternType="none"/></fill><fill><patternFill patternType="gray125"/></fill><fill><patternFill patternType="solid"><fgColor rgb="FFDBEAFE"/></patternFill></fill></fills>'
         + '<borders count="2"><border><left/><right/><top/><bottom/></border><border><left/><right/><top/><bottom style="thick"><color auto="1"/></bottom></border></borders>'
         + '<cellStyleXfs count="1"><xf numFmtId="0" fontId="0" fillId="0" borderId="0"/></cellStyleXfs>'
-        + '<cellXfs count="11">'
+        + '<cellXfs count="5">'
         + '<xf numFmtId="0" fontId="0" fillId="0" borderId="0"/>'
         + '<xf numFmtId="0" fontId="1" fillId="2" borderId="1" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"><alignment horizontal="center"/></xf>'
         + '<xf numFmtId="0" fontId="2" fillId="0" borderId="0" applyFont="1"/>'
         + '<xf numFmtId="0" fontId="0" fillId="0" borderId="1" applyBorder="1"/>'
         + '<xf numFmtId="0" fontId="2" fillId="0" borderId="1" applyFont="1" applyBorder="1"/>'
-        + '<xf numFmtId="0" fontId="3" fillId="3" borderId="0" applyFont="1" applyFill="1"/>'
-        + '<xf numFmtId="0" fontId="3" fillId="3" borderId="1" applyFont="1" applyFill="1" applyBorder="1"/>'
-        + '<xf numFmtId="0" fontId="4" fillId="4" borderId="0" applyFont="1" applyFill="1"/>'
-        + '<xf numFmtId="0" fontId="4" fillId="4" borderId="1" applyFont="1" applyFill="1" applyBorder="1"/>'
-        + '<xf numFmtId="0" fontId="5" fillId="5" borderId="0" applyFont="1" applyFill="1"/>'
-        + '<xf numFmtId="0" fontId="5" fillId="5" borderId="1" applyFont="1" applyFill="1" applyBorder="1"/>'
-        + '</cellXfs></styleSheet>';
+        + '</cellXfs>'
+        + '<dxfs count="3">'
+        + '<dxf><font><b/><color rgb="FF166534"/></font><fill><patternFill><bgColor rgb="FFD1FAE5"/></patternFill></fill></dxf>'
+        + '<dxf><font><b/><color rgb="FFDC2626"/></font><fill><patternFill><bgColor rgb="FFFEE2E2"/></patternFill></fill></dxf>'
+        + '<dxf><font><b/><color rgb="FFD97706"/></font><fill><patternFill><bgColor rgb="FFFEF3C7"/></patternFill></fill></dxf>'
+        + '</dxfs>'
+        + '</styleSheet>';
 
       zip.file("[Content_Types].xml", '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types"><Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/><Default Extension="xml" ContentType="application/xml"/><Override PartName="/xl/workbook.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml"/><Override PartName="/xl/worksheets/sheet1.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml"/><Override PartName="/xl/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml"/><Override PartName="/xl/sharedStrings.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml"/></Types>');
       zip.file("_rels/.rels", '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships"><Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="xl/workbook.xml"/></Relationships>');
