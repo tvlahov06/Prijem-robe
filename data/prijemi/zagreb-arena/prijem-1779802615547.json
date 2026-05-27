@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T13:36:55.547Z",
-  "azurirano": "2026-05-27T08:49:15.411Z",
+  "azurirano": "2026-05-27T08:49:50.342Z",
   "dokumenti": [
     {
       "naziv": "MSI 3336-101",
@@ -888,7 +888,7 @@
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
           "barkod": "5099206089235",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Logitech G G321 crne",
@@ -900,13 +900,13 @@
           "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
           "barkod": "5099206092525",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Mis LOGITECH MX Master 3S \"SE\" grafit",
           "barkod": "5099206129382",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK270, bezicna, crna",
