@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T13:36:55.547Z",
-  "azurirano": "2026-05-27T08:55:56.325Z",
+  "azurirano": "2026-05-27T08:57:10.981Z",
   "dokumenti": [
     {
       "naziv": "MSI 3336-101",
@@ -834,7 +834,7 @@
           "naziv": "Tipkovnica LOGITECH MK250 graphite",
           "barkod": "5099206130982",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M650, crni",
@@ -852,7 +852,7 @@
           "naziv": "LOGITECH G213 Prodigy, gaming tipkovnica",
           "barkod": "5099206125469",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M650, bijeli",
@@ -912,13 +912,13 @@
           "naziv": "Tipkovnica + mis Logitech MK270, bezicna, crna",
           "barkod": "5099206039384",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK470 Slim, bezicna, siva",
           "barkod": "5099206086661",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
