@@ -3,9 +3,9 @@
   "poslovnica": "varazdin",
   "naziv": "",
   "datum": "2026-05-27",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-05-27T06:25:11.438Z",
-  "azurirano": "2026-05-27T20:28:59.409Z",
+  "azurirano": "2026-05-27T20:29:05.779Z",
   "dokumenti": [
     {
       "naziv": "MSI 3401-101",
@@ -14,7 +14,7 @@
           "naziv": "Slusalice Philips potpuno bezicne TAT1209BK in-ear, crne",
           "barkod": "4895229138056",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Philips potpuno bezicne TAT1209WT in-ear, bijele",
@@ -824,5 +824,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-05-27T20:29:05.779Z"
 }
