@@ -5,7 +5,7 @@
   "datum": "2026-05-27",
   "status": "aktivan",
   "kreirano": "2026-05-27T11:21:02.506Z",
-  "azurirano": "2026-05-27T12:51:03.261Z",
+  "azurirano": "2026-05-27T12:52:21.948Z",
   "dokumenti": [
     {
       "naziv": "MSI 3334-101",
@@ -127,13 +127,13 @@
           "naziv": "Toster preklopni Gorenje SM701SB",
           "barkod": "3838782767197",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac rucni Gorenje MVC72FW",
           "barkod": "3838782040542",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac stapni Gorenje SVC216210FFIIW*",
@@ -205,7 +205,7 @@
           "naziv": "Mikser sa posudom Philips HR3745/00 bijelo-sivi 450W",
           "barkod": "8710103795599",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8140/80",
@@ -265,7 +265,7 @@
           "naziv": "Glacalo Russell Hobbs 28630-56 Blue, Powersteam Ultra Pro",
           "barkod": "5038061171433",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Tefal FV8062E0",
@@ -277,7 +277,7 @@
           "naziv": "Mikser stapni Tefal HB533138",
           "barkod": "3016667242728",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Q10 VF+ crna",
