@@ -168,7 +168,7 @@ var PDFParser = {
           var line = lines[i];
 
           // Match: starts with RB number, contains 12-13 digit barcode, contains "kom" and quantity
-          var match = line.match(/^(\d{1,3})\s+\S+\s+(.*?)\s+(\d{12,13})\s+kom\s+(\d+)[,\.]\d+/);
+          var match = line.match(/^(\d{1,3})\s+\S+\s+(.*?)\s+(\d{12,13})\s+k[o]?m\s+(\d+)[,\.]\d+/);
 
           if (!match) continue;
 
