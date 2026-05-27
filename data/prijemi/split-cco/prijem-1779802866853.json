@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T14:51:07.078Z",
-  "azurirano": "2026-05-27T06:01:42.690Z",
+  "azurirano": "2026-05-27T06:01:56.698Z",
   "dokumenti": [
     {
       "naziv": "MSI 3356-101",
@@ -410,7 +410,7 @@
           "naziv": "Usisavac Philips XD8142/12",
           "barkod": "8720389037948",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
