@@ -5,7 +5,7 @@
   "datum": "2026-05-27",
   "status": "aktivan",
   "kreirano": "2026-05-27T11:21:02.506Z",
-  "azurirano": "2026-05-27T12:05:21.409Z",
+  "azurirano": "2026-05-27T12:06:32.665Z",
   "dokumenti": [
     {
       "naziv": "MSI 3334-101",
@@ -283,7 +283,7 @@
           "naziv": "Usisavac robot Roborock Q10 VF+ crna",
           "barkod": "6936905902368",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Xiaomi 6L",
@@ -334,13 +334,13 @@
           "naziv": "The Crew Motorfest PS5 D35",
           "barkod": "3307216270096",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Nacon Tempered zastitno staklo ekrana za Playstation EGLASS Portal (officially licensed)",
           "barkod": "3665962027808",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Paladone Playstation sat sa alarmom u obliku PS5 Dualsense kontrolera V3",
@@ -352,13 +352,13 @@
           "naziv": "PS5 Dualsense Wireless Controller Rhythm Blue",
           "barkod": "711719020943",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "PS5 Dualsense Wireless Controller Remix Green",
           "barkod": "711719020912",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         }
       ]
     },
