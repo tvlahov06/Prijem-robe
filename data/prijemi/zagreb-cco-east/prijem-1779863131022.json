@@ -5,7 +5,7 @@
   "datum": "2026-05-27",
   "status": "aktivan",
   "kreirano": "2026-05-27T06:25:31.022Z",
-  "azurirano": "2026-05-27T06:26:02.133Z",
+  "azurirano": "2026-05-27T06:26:13.845Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center1",
@@ -116,7 +116,7 @@
           "naziv": "Foto papir Polaroid Originals Color 600 film",
           "barkod": "9120096770654",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Foto papir Polaroid Originals B&W 600 film",
