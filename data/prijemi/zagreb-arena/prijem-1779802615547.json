@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T13:36:55.547Z",
-  "azurirano": "2026-05-27T09:36:39.256Z",
+  "azurirano": "2026-05-27T09:36:56.113Z",
   "dokumenti": [
     {
       "naziv": "MSI 3336-101",
@@ -626,7 +626,7 @@
           "naziv": "USB 3.0 hub, TP-Link UH700",
           "barkod": "1210002607049",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link UH400, 4-ports USB 3.0 hub",
