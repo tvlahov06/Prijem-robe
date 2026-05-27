@@ -5,7 +5,7 @@
   "datum": "2026-05-27",
   "status": "aktivan",
   "kreirano": "2026-05-27T06:25:31.022Z",
-  "azurirano": "2026-05-27T06:33:35.992Z",
+  "azurirano": "2026-05-27T06:41:37.196Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center1",
@@ -62,13 +62,13 @@
           "naziv": "Instant fotoaparat Polaroid Originals GO2 White",
           "barkod": "9120096774362",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Instant fotoaparat Polaroid Originals GO2 Black Everything Box",
           "barkod": "9120096775550",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Instant fotoaparat Polaroid Originals GO2 White Everything Box",
