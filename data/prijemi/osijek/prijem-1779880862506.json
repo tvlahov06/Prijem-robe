@@ -5,7 +5,7 @@
   "datum": "2026-05-27",
   "status": "aktivan",
   "kreirano": "2026-05-27T11:21:02.506Z",
-  "azurirano": "2026-05-27T12:03:51.113Z",
+  "azurirano": "2026-05-27T12:03:57.038Z",
   "dokumenti": [
     {
       "naziv": "MSI 3334-101",
@@ -445,7 +445,7 @@
           "naziv": "Slusalice Philips potpuno bezicne TAT1209PK in-ear, roze",
           "barkod": "4895229138070",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice bluetooth Sony WH-CH520/C",
@@ -499,7 +499,7 @@
           "naziv": "White Shark ZVUCNICI 2.0 GSP-619 BEAT",
           "barkod": "0736373269040",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Corsair VOID RGB ELITE, Carbon",
@@ -511,7 +511,7 @@
           "naziv": "B/G Bluetooth zvucnik WHITE SHARK GHATAM, GBT-3007, crna/siva",
           "barkod": "3858894508754",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
