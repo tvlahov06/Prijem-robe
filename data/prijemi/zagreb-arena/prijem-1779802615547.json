@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T13:36:55.547Z",
-  "azurirano": "2026-05-27T09:31:47.806Z",
+  "azurirano": "2026-05-27T09:31:51.466Z",
   "dokumenti": [
     {
       "naziv": "MSI 3336-101",
@@ -638,7 +638,7 @@
           "naziv": "TP-Link USB 3.0 Gbit Ethernet Adapter & 3x USB hub",
           "barkod": "6935364094553",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link USB3.0 na Gigabit mrezni adapter",
