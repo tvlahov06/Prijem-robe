@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T14:51:07.078Z",
-  "azurirano": "2026-05-27T05:46:17.090Z",
+  "azurirano": "2026-05-27T05:46:20.070Z",
   "dokumenti": [
     {
       "naziv": "MSI 3356-101",
@@ -458,7 +458,7 @@
           "naziv": "Parna postaja Tefal SV8151E0",
           "barkod": "3121040086414",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal SV9201E0*",
