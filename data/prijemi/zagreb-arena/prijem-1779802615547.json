@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T13:36:55.547Z",
-  "azurirano": "2026-05-27T09:40:48.482Z",
+  "azurirano": "2026-05-27T09:40:52.878Z",
   "dokumenti": [
     {
       "naziv": "MSI 3336-101",
@@ -543,7 +543,7 @@
           "naziv": "Sobna antena PHILIPS SDV6222/12",
           "barkod": "8712581622282",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vogel's TVM1603 zidni nosac za ekrane od 40\"-100\" fiksni do 75kg",
