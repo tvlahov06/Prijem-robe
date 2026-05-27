@@ -5,7 +5,7 @@
   "datum": "2026-05-27",
   "status": "aktivan",
   "kreirano": "2026-05-27T11:21:02.506Z",
-  "azurirano": "2026-05-27T12:06:32.665Z",
+  "azurirano": "2026-05-27T12:50:02.351Z",
   "dokumenti": [
     {
       "naziv": "MSI 3334-101",
@@ -79,13 +79,13 @@
           "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
           "barkod": "8006447002135",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Nespresso VERTUO Pop Black S GDV2-EUBKNE-S",
           "barkod": "8606112020138",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3110 Piccolo XS white/burgundy PF",
@@ -97,7 +97,7 @@
           "naziv": "Aparat za kavu Krups KP1A3B10 Piccolo XS black/anthracite PF",
           "barkod": "3016661159121",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Krups KP440E10 Genio S touch silver",
@@ -109,7 +109,7 @@
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
           "barkod": "8004399329485",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Sjeckalica Gorenje S501GW",
@@ -163,25 +163,25 @@
           "naziv": "Aparat za kavu Philips oprema CA6700/91 dekalcifikator za uklanjanje kamenca",
           "barkod": "8720389000416",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6704/10 tablete za uklanjanje ulja od kave",
           "barkod": "8720389000430",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6903/10 filter za vodu",
           "barkod": "8720389000508",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6903/22 filter za vodu 2 kom",
           "barkod": "8720389000720",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA150/00 Airfryer Dual Basket",
@@ -217,7 +217,7 @@
           "naziv": "Sjeckalica Philips HR1501/00",
           "barkod": "8720389066535",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9557/09",
@@ -259,7 +259,7 @@
           "naziv": "Mikser rucni Bosch MFQ4930B crna/tamno srebrna",
           "barkod": "4242005297054",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Russell Hobbs 28630-56 Blue, Powersteam Ultra Pro",
@@ -295,7 +295,7 @@
           "naziv": "Aparat za kavu Krups EA201BE0 espresso My coffee+",
           "barkod": "3016661181443",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         }
       ]
     },
@@ -323,7 +323,7 @@
           "naziv": "Perilica-susilica Whirlpool FFWDD 1076258 SV EE 1076258 SV EE",
           "barkod": "8003437636042",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -369,7 +369,7 @@
           "naziv": "Aparat za sladoled Tefal IG602AE0 Ice Cream maker Dolci, 10u1",
           "barkod": "3016661180446",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         }
       ]
     },
@@ -398,7 +398,7 @@
           "naziv": "Kuhinjski asistent Gorenje MMC1000CA",
           "barkod": "3838782686696",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac robot Roborock Q10 VF+ crna",
@@ -434,7 +434,7 @@
           "naziv": "Usisavac Dyson V16 Piston Animal + komplet za detaljno ciscenje (495948)",
           "barkod": "5025155114858",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
