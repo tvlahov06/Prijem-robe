@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T13:36:55.547Z",
-  "azurirano": "2026-05-27T10:14:26.451Z",
+  "azurirano": "2026-05-27T10:14:29.540Z",
   "dokumenti": [
     {
       "naziv": "MSI 3336-101",
@@ -1065,7 +1065,7 @@
           "naziv": "Ploca ugradbena indukcija GORENJE GI6442BSCWF",
           "barkod": "3838782900259",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -1111,7 +1111,7 @@
           "naziv": "Ploca ugradbena Hisense HI6431BFZ",
           "barkod": "3838783052391",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
