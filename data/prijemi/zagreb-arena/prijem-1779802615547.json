@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T13:36:55.547Z",
-  "azurirano": "2026-05-27T09:03:05.932Z",
+  "azurirano": "2026-05-27T09:10:11.911Z",
   "dokumenti": [
     {
       "naziv": "MSI 3336-101",
@@ -124,7 +124,7 @@
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black & Aeroccino",
           "barkod": "7630039627959",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso VERTUO Pop Black S GDV2-EUBKNE-S",
@@ -184,19 +184,19 @@
           "naziv": "Aparat za rezanje Gorenje R402W",
           "barkod": "3838782820403",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za vakumiranje Gorenje VS120W",
           "barkod": "3838782060854",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster preklopni Gorenje SM701SB",
           "barkod": "3838782767197",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Philips EP2224/10 espresso",
@@ -340,7 +340,7 @@
           "naziv": "Glacalo Russell Hobbs 28630-56 Blue, Powersteam Ultra Pro",
           "barkod": "5038061171433",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Russell Hobbs 28510-70 Colours Plus Jasmine",
@@ -352,13 +352,13 @@
           "naziv": "Kuhalo za vodu Russell Hobbs 28640-70 Hanley Jasmine",
           "barkod": "5038061179477",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Russell Hobbs 27151-56 Matte Charcoal",
           "barkod": "5038061162981",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Russell Hobbs 28550-56 Blue, Steam Genie VacuSteam",
