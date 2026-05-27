@@ -5,7 +5,7 @@
   "datum": "2026-05-26",
   "status": "aktivan",
   "kreirano": "2026-05-26T14:51:07.078Z",
-  "azurirano": "2026-05-27T06:14:39.096Z",
+  "azurirano": "2026-05-27T06:14:43.200Z",
   "dokumenti": [
     {
       "naziv": "MSI 3356-101",
@@ -785,7 +785,7 @@
           "naziv": "TP-Link RE500X, AX1500, Wi-Fi pojacivac signala, gigabit",
           "barkod": "6935364010324",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link RE700X, AX3000 Mesh WiFi 6 Extender",
