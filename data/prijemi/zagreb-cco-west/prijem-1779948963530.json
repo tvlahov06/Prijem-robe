@@ -1,0 +1,124 @@
+{
+  "id": "prijem-1779948963530",
+  "poslovnica": "zagreb-cco-west",
+  "naziv": "Logista_21_05_26",
+  "datum": "2026-05-28",
+  "status": "aktivan",
+  "kreirano": "2026-05-28T06:16:03.530Z",
+  "azurirano": "2026-05-28T06:16:03.530Z",
+  "dokumenti": [
+    {
+      "naziv": "mobis28052026",
+      "stavke": [
+        {
+          "naziv": "Mobitel Xiaomi Redmi 15 8GB/256GB Midnight Black",
+          "barkod": "6932554445126",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi REDMI Note 15 Pro+ 5G 12GB/512GB Black",
+          "barkod": "6932554468040",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi REDMI Note 15 Pro+ 5G 12GB/512GB Glacier Blue",
+          "barkod": "6932554481971",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi REDMI Note 15 Pro+ 5G 12GB/512GB Mocha Brown",
+          "barkod": "6932554481841",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 5G 8GB/256GB Glacier Blue",
+          "barkod": "6932554470500",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 5G 8GB/256GB Black",
+          "barkod": "6932554471521",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 5G 8GB/256GB Titanium",
+          "barkod": "6932554470401",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 8GB/256GB Black",
+          "barkod": "6932554469825",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 8GB/256GB Glacier Blue",
+          "barkod": "6932554480516",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi REDMI Note 15 5G Glacier 8GB/256GB Blue",
+          "barkod": "6932554469238",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi REDMI Note 15 5G 8GB/256GB Black",
+          "barkod": "6932554469252",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi REDMI Note 15 8GB/256GB Glacier Blue",
+          "barkod": "6932554482688",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi REDMI Note 15 8GB/256GB Purple",
+          "barkod": "6932554482770",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Xiaomi Pad 8 8/256 sivi",
+          "barkod": "6932554473068",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI 17T 12GB/512GB Crna",
+          "barkod": "6932554447939",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI 17T 12GB/512GB Ljubicasta",
+          "barkod": "6932554447991",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI 17T Pro 12GB/512GB Crna",
+          "barkod": "6932554405373",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI 17T Pro 12GB/512GB Plava",
+          "barkod": "6932554469498",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
