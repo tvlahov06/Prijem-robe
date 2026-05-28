@@ -5,7 +5,7 @@
   "datum": "2026-05-28",
   "status": "aktivan",
   "kreirano": "2026-05-28T06:16:03.530Z",
-  "azurirano": "2026-05-28T06:18:44.940Z",
+  "azurirano": "2026-05-28T06:19:11.906Z",
   "dokumenti": [
     {
       "naziv": "mobis28052026",
@@ -38,7 +38,7 @@
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 5G 8GB/256GB Glacier Blue",
           "barkod": "6932554470500",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 5G 8GB/256GB Black",
@@ -50,19 +50,19 @@
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 5G 8GB/256GB Titanium",
           "barkod": "6932554470401",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 8GB/256GB Black",
           "barkod": "6932554469825",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 Pro 8GB/256GB Glacier Blue",
           "barkod": "6932554480516",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Xiaomi REDMI Note 15 5G Glacier 8GB/256GB Blue",
