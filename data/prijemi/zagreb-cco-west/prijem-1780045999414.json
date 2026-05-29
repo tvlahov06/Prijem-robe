@@ -5,7 +5,7 @@
   "datum": "2026-05-29",
   "status": "aktivan",
   "kreirano": "2026-05-29T09:13:19.414Z",
-  "azurirano": "2026-05-29T09:13:45.840Z",
+  "azurirano": "2026-05-29T09:13:49.468Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_260529111017",
@@ -20,7 +20,7 @@
           "naziv": "ADATA C906, 32GB, USB 2.0 plavi",
           "barkod": "4711085945075",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ADATA C906, 64GB, USB 2.0 plavi",
@@ -32,7 +32,7 @@
           "naziv": "ADATA UV320, 32GB, USB3.2 bijelo-zeleni",
           "barkod": "4713218462817",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ADATA UV320, 64GB, USB3.2 crno-plavi",
@@ -44,7 +44,7 @@
           "naziv": "ADATA UV320, 64GB, USB3.2 bijelo-zeleni",
           "barkod": "4713218462831",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
