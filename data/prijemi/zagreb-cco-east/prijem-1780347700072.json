@@ -5,7 +5,7 @@
   "datum": "2026-06-01",
   "status": "aktivan",
   "kreirano": "2026-06-01T21:01:40.072Z",
-  "azurirano": "2026-06-02T05:06:23.817Z",
+  "azurirano": "2026-06-02T05:06:32.016Z",
   "dokumenti": [
     {
       "naziv": "MSI 3461-101",
@@ -450,7 +450,7 @@
           "naziv": "Usisavac Bosch BHN20L",
           "barkod": "4242005190881",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XB2122/09",
