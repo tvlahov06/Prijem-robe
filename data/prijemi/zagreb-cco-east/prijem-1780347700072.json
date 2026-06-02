@@ -5,7 +5,7 @@
   "datum": "2026-06-01",
   "status": "aktivan",
   "kreirano": "2026-06-01T21:01:40.072Z",
-  "azurirano": "2026-06-02T05:08:58.092Z",
+  "azurirano": "2026-06-02T05:09:31.527Z",
   "dokumenti": [
     {
       "naziv": "MSI 3461-101",
@@ -378,7 +378,7 @@
           "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5021F0",
           "barkod": "3121040095003",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8300/80",
