@@ -5,7 +5,7 @@
   "datum": "2026-06-01",
   "status": "aktivan",
   "kreirano": "2026-06-01T19:02:11.241Z",
-  "azurirano": "2026-06-02T05:38:14.112Z",
+  "azurirano": "2026-06-02T05:38:35.340Z",
   "dokumenti": [
     {
       "naziv": "MSI 3462-101",
@@ -222,7 +222,7 @@
           "naziv": "Silikonska maska za Samsung Galaxy A57 5G siva",
           "barkod": "8806099037765",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Silikonska maska za Samsung Galaxy Z Fold7 siva",
@@ -252,7 +252,7 @@
           "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 Ultra crna",
           "barkod": "8806097887225",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/512GB crni",
@@ -264,7 +264,7 @@
           "naziv": "Silikonska maska za Samsung Galaxy Z Fold7 crna",
           "barkod": "8806097469230",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Book Cover za Samsung Galaxy Tab S11 crni",
