@@ -5,7 +5,7 @@
   "datum": "2026-06-01",
   "status": "aktivan",
   "kreirano": "2026-06-01T19:02:11.241Z",
-  "azurirano": "2026-06-02T05:40:37.670Z",
+  "azurirano": "2026-06-02T05:41:08.020Z",
   "dokumenti": [
     {
       "naziv": "MSI 3462-101",
@@ -186,19 +186,19 @@
           "naziv": "Mobitel Samsung Galaxy A16 4GB/128GB dual SIM tamnoplavi",
           "barkod": "8806095822334",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Mobitel Samsung Galaxy A26 5G 6GB/128GB dual SIM crni",
           "barkod": "8806097072812",
           "ocekivano": 10,
-          "skenirano": 8
+          "skenirano": 10
         },
         {
           "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM sivi",
           "barkod": "8806099035259",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
@@ -210,7 +210,7 @@
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
           "barkod": "8806099028282",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Powerbank Samsung Magnetic 5.000 mAh sivi",
@@ -240,7 +240,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
           "barkod": "8806097827177",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB sivi",
@@ -258,7 +258,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/512GB crni",
           "barkod": "8806097827405",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Silikonska maska za Samsung Galaxy Z Fold7 crna",
