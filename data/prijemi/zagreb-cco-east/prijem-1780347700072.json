@@ -4,8 +4,8 @@
   "naziv": "Roba 02-06-2026",
   "datum": "2026-06-02",
   "status": "aktivan",
-  "kreirano": "2026-06-02T05:17:57.074Z",
-  "azurirano": "2026-06-02T05:19:11.962Z",
+  "kreirano": "2026-06-02T05:19:20.746Z",
+  "azurirano": "2026-06-02T05:19:20.746Z",
   "dokumenti": [
     {
       "naziv": "MSI 3461-101",
@@ -788,6 +788,161 @@
         {
           "naziv": "Artikl 5025155121962",
           "barkod": "5025155121962",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "roba 0001",
+      "stavke": [
+        {
+          "naziv": "Artikl 8004399331198",
+          "barkod": "8004399331198",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8004399032569",
+          "barkod": "8004399032569",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 3016661158773",
+          "barkod": "3016661158773",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8000070073531",
+          "barkod": "8000070073531",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8606112020305",
+          "barkod": "8606112020305",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 0622356350884",
+          "barkod": "0622356350884",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 3016661148910",
+          "barkod": "3016661148910",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 4242005393107",
+          "barkod": "4242005393107",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8720389032622",
+          "barkod": "8720389032622",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 0622356307741",
+          "barkod": "0622356307741",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 0622356317634",
+          "barkod": "0622356317634",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8720389035074",
+          "barkod": "8720389035074",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8021098003874",
+          "barkod": "8021098003874",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 4242005185207",
+          "barkod": "4242005185207",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 4242005346639",
+          "barkod": "4242005346639",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 4242002853314",
+          "barkod": "4242002853314",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8720389001024",
+          "barkod": "8720389001024",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 4002516897026",
+          "barkod": "4002516897026",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8720389029868",
+          "barkod": "8720389029868",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8720389037948",
+          "barkod": "8720389037948",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 6970995783445",
+          "barkod": "6970995783445",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 6941812701867",
+          "barkod": "6941812701867",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 3221614006418",
+          "barkod": "3221614006418",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 3221614001154",
+          "barkod": "3221614001154",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 4242005076581",
+          "barkod": "4242005076581",
           "ocekivano": 1,
           "skenirano": 0
         }
