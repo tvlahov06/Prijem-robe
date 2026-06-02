@@ -5,7 +5,7 @@
   "datum": "2026-06-01",
   "status": "aktivan",
   "kreirano": "2026-06-01T21:01:40.072Z",
-  "azurirano": "2026-06-02T05:08:22.493Z",
+  "azurirano": "2026-06-02T05:08:32.975Z",
   "dokumenti": [
     {
       "naziv": "MSI 3461-101",
@@ -396,7 +396,7 @@
           "naziv": "Aparat za kavu Krups SA401LE0 espresso Coffee Crush Lichen",
           "barkod": "3016661181597",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG7200/20",
