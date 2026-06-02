@@ -1,0 +1,680 @@
+{
+  "id": "prijem-1780384081352",
+  "poslovnica": "zagreb-arena",
+  "naziv": "2.6.2026.",
+  "datum": "2026-06-02",
+  "status": "aktivan",
+  "kreirano": "2026-06-02T07:08:01.352Z",
+  "azurirano": "2026-06-02T07:08:01.352Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 3466-101",
+      "stavke": [
+        {
+          "naziv": "Mop elektricni Philips XV5113/01",
+          "barkod": "8720389035975",
+          "ocekivano": 10,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3467-101",
+      "stavke": [
+        {
+          "naziv": "Usisavac Dyson V15 Detect Absolute",
+          "barkod": "5025155081754",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
+          "barkod": "5025155117187",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Amber Silk/Pink Champagne Limited Edition",
+          "barkod": "5025155120095",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
+          "barkod": "5025155127759",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907CP 900W",
+          "barkod": "8006447000087",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3474-101",
+      "stavke": [
+        {
+          "naziv": "Slusalice bezicne Sony s funkcijom blokade buke E7 WF-1000XM6/B",
+          "barkod": "4548736171770",
+          "ocekivano": 6,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3476-101",
+      "stavke": [
+        {
+          "naziv": "Susilo za kosu Remington AC9096 Silk",
+          "barkod": "4008496789078",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Remington S8540 Keratin Protect",
+          "barkod": "4008496938438",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Remington AS8810 Keratin Therapy",
+          "barkod": "4008496938384",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijaci - vikleri za kosu Remington H9100 Proluxe",
+          "barkod": "4008496877515",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za glavu Remington XR1500",
+          "barkod": "5038061106022",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Philips BRI977/00 Lumea",
+          "barkod": "8720689005944",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za glavu Remington XR1600",
+          "barkod": "5038061144017",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips OneBlade Pro QP6552/15 Face & Body",
+          "barkod": "8720689027199",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Remington AS5901 Coconut Airstyler",
+          "barkod": "5038061138290",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
+          "barkod": "8720689027137",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Remington S5901 Coconut",
+          "barkod": "5038061112917",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Remington cik cak S3580 Ceramic Crimp",
+          "barkod": "4008496975563",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Remington figaro CI5901 Coconut konusni 13-25 mm",
+          "barkod": "5038061112825",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Philips BHD839/00",
+          "barkod": "8720689032384",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Remington D5901 Coconut",
+          "barkod": "5038061112795",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Remington AS8901 Hydraluxe Air Styler",
+          "barkod": "5038061110401",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Remington figaro CI83V6 konusni 19-28 mm, Keratin Protect",
+          "barkod": "4008496938636",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac za tijelo/kosu/bradu Braun 6u1 3410*",
+          "barkod": "4210201446613",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Remington D5710",
+          "barkod": "4008496985326",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Remington D5720",
+          "barkod": "4008496985388",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Philips BRI973/00 Lumea",
+          "barkod": "8720689005708",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Remington D5715",
+          "barkod": "4008496985357",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Remington EC9001 Hydraluxe Pro",
+          "barkod": "5038061109771",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac za kosu Remington HC5035 Colour",
+          "barkod": "4008496867387",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Remington figaro CI6X10 Pro Tight 10 mm",
+          "barkod": "5038061136029",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO3 MATT BLACK",
+          "barkod": "8006540731277",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Remington S9001 Hydraluxe Pro",
+          "barkod": "5038061110456",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3477-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu Philips EP5549/70 espresso",
+          "barkod": "8720389032271",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3490-101",
+      "stavke": [
+        {
+          "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C crni bez kabela",
+          "barkod": "8806094912128",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi",
+          "barkod": "8806099028114",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A16 4GB/128GB dual SIM tamnoplavi",
+          "barkod": "8806095822334",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A26 5G 6GB/128GB dual SIM crni",
+          "barkod": "8806097072812",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
+          "barkod": "8806097638551",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska za Samsung Galaxy A57 5G ljubicasta",
+          "barkod": "8806099037734",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
+          "barkod": "8806097651079",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB crni",
+          "barkod": "8806097827221",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB kobalt ljubicasti",
+          "barkod": "8806097827313",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB sivi",
+          "barkod": "8806097855019",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB crni",
+          "barkod": "8806097827467",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung EP-T6010 60W Fast Charge USB-C crni bez kabela",
+          "barkod": "8806097735618",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Fit3 rozi",
+          "barkod": "8806095362151",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 Ultra crna",
+          "barkod": "8806097887225",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Rugged maska za Samsung Galaxy S26 Ultra crna",
+          "barkod": "8806097880080",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM ljubicasti",
+          "barkod": "8806099035341",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Autopunjac Samsung L4020 Duo 25W i 15W Fast Charge USB-C i USB A crni i bez kabela",
+          "barkod": "8806094000795",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB srebrni",
+          "barkod": "8806097854920",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11 WiFi 64GB sivi",
+          "barkod": "8806097781943",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB 5G sivi",
+          "barkod": "8806097638254",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S25 Ultra 5G 12/256GB titan sivi",
+          "barkod": "8806095860107",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3492-101",
+      "stavke": [
+        {
+          "naziv": "Apple USB-C Power Adapter 20W",
+          "barkod": "195950084658",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 41mm Gold Milanese Strap (Jana-B19M)",
+          "barkod": "6942103131981",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
+          "barkod": "6942103168154",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
+          "barkod": "6942103168185",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 Pro 46mm Black (Vili-B29F)",
+          "barkod": "6942103132032",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 41mm Blue (Jana-B19FC)",
+          "barkod": "6942103131998",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
+          "barkod": "6942103168239",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 15 128GB Black",
+          "barkod": "195949036033",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
+          "barkod": "6942103168246",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F)",
+          "barkod": "6942103189739",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 zeleni",
+          "barkod": "4547410489088",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Huawei MatePad 12X 12GB/256GB (Laurent-W09DK) bijeli",
+          "barkod": "6942103169014",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple 60W USB-C Charge Cable (1m)",
+          "barkod": "195949371905",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Blue",
+          "barkod": "195950086409",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Fit 4 Pro crni (Seiya-B29F)",
+          "barkod": "6942103155048",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F) DEMO",
+          "barkod": "2010030701899",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 42mm Rose Gold Aluminium Case with Light Blush Sport Band - S/M",
+          "barkod": "195950619126",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Cosmic Orange",
+          "barkod": "195950627398",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Deep Blue",
+          "barkod": "195950639247",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB Black",
+          "barkod": "195950643534",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 46mm Space Grey Aluminium Case with Black Sport Band - M/L",
+          "barkod": "195950631975",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB Sage",
+          "barkod": "195950644333",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PUNJAC ZA APPLE SBOX MAGSAFE2 AP-85W / 85W",
+          "barkod": "0736373267336",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 17 Pro Max Silicone Case with MagSafe - Terra Cotta",
+          "barkod": "195950664119",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3507-101",
+      "stavke": [
+        {
+          "naziv": "TV SAMSUNG UE50M70HAUXXH, 127 cm (50\") Mini LED, XH 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806097977667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG UE50U8072HUXXH, 127 cm (50\") UHD Smart XH TV, Tizen OS",
+          "barkod": "8806097978244",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG UE75U8072HUXXH, 190 cm (75\") UHD, 4K XH UHD Smart TV, Tizen OS",
+          "barkod": "8806097969037",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG MRE75R95HATXXH, 190.5 cm (75\"), Micro XH RGB 4K Ultra HD, Smart TV, Tizen OS",
+          "barkod": "8806097974390",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Hisense HS2000",
+          "barkod": "6942351411514",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hisense Soundbar AX3120Q",
+          "barkod": "6942351423432",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SATURN Hisense Soundbar HT SATURN",
+          "barkod": "6942351412641",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3508-101",
+      "stavke": [
+        {
+          "naziv": "TV HISENSE 32A5Q, 81.3cm (32\"), QLED, FHD Smart TV, VIDAA OS",
+          "barkod": "6942351418179",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE50Q7FAAUXXH, 127.0cm (50\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097118541",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 50PUS7000, 127.0cm (50\"), LED, UHD 4K Smart TV",
+          "barkod": "8718863046029",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 43PUS8510, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
+          "barkod": "8718863045770",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 65E7Q, 165.1cm (65\"), QLED, 4K UHD Smart TV, VIDAA OS",
+          "barkod": "6942351418902",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG OLED55C51LA 139.7cm (55\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
+          "barkod": "8806096381885",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG OLED48C51LA 121.9cm (48\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
+          "barkod": "8806096353837",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE43Q8FAAUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097120193",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG UE50U8092FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
+          "barkod": "8806097068563",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
+          "barkod": "8806097067672",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097118565",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525958",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525804",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY K43S35BP.CEI, 109.2cm (43\"), Direct LED, 4K UHD SMART TV, Android TV",
+          "barkod": "4548736168121",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG OLED65C51LA 165.1cm (65\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
+          "barkod": "8806096363560",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55S90FAEXXH, 139.7cm (55\"), OLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097090953",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE65S90FATXXH, 165.1cm (65\"), OLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097090960",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
