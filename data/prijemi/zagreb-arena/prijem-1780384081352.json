@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T07:08:01.352Z",
-  "azurirano": "2026-06-02T08:18:57.992Z",
+  "azurirano": "2026-06-02T08:19:03.118Z",
   "dokumenti": [
     {
       "naziv": "MSI 3466-101",
@@ -291,13 +291,13 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB crni",
           "barkod": "8806097827221",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB kobalt ljubicasti",
           "barkod": "8806097827313",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB sivi",
