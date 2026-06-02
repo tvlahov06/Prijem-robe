@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "JBL0206",
   "datum": "2026-06-02",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-06-02T07:49:14.688Z",
-  "azurirano": "2026-06-02T08:03:41.237Z",
+  "azurirano": "2026-06-02T08:03:44.950Z",
   "dokumenti": [
     {
       "naziv": "jbl_roba_tablica",
@@ -168,5 +168,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-06-02T08:03:44.950Z"
 }
