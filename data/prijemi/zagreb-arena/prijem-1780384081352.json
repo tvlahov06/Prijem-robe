@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T07:08:01.352Z",
-  "azurirano": "2026-06-02T08:09:09.590Z",
+  "azurirano": "2026-06-02T08:09:27.755Z",
   "dokumenti": [
     {
       "naziv": "MSI 3466-101",
@@ -404,7 +404,7 @@
           "naziv": "Pametni sat Huawei Watch GT 5 Pro 46mm Black (Vili-B29F)",
           "barkod": "6942103132032",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 41mm Blue (Jana-B19FC)",
@@ -428,13 +428,13 @@
           "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
           "barkod": "6942103168246",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F)",
           "barkod": "6942103189739",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 zeleni",
@@ -470,7 +470,7 @@
           "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F) DEMO",
           "barkod": "2010030701899",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Watch Series 11 GPS 42mm Rose Gold Aluminium Case with Light Blush Sport Band - S/M",
