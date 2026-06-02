@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T05:27:04.095Z",
-  "azurirano": "2026-06-02T05:37:29.052Z",
+  "azurirano": "2026-06-02T06:18:01.026Z",
   "dokumenti": [
     {
       "naziv": "roba 0002",
@@ -212,125 +212,6 @@
           "barkod": "4242005076581",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "roba 0000",
-      "stavke": [
-        {
-          "naziv": "Artikl 8006447002166",
-          "barkod": "8006447002166",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 8006447003002",
-          "barkod": "8006447003002",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 8006447003033",
-          "barkod": "8006447003033",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 8006447003026",
-          "barkod": "8006447003026",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 8006447003019",
-          "barkod": "8006447003019",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 8006447002135",
-          "barkod": "8006447002135",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 8006447002128",
-          "barkod": "8006447002128",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 8006447002111",
-          "barkod": "8006447002111",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 8006447002142",
-          "barkod": "8006447002142",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 8006447002098",
-          "barkod": "8006447002098",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 5025155112656",
-          "barkod": "5025155112656",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 5025155127759",
-          "barkod": "5025155127759",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 5025155117187",
-          "barkod": "5025155117187",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 5025155117729",
-          "barkod": "5025155117729",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 5025155112397",
-          "barkod": "5025155112397",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 5025155074398",
-          "barkod": "5025155074398",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 5025155088081",
-          "barkod": "5025155088081",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 5025155088180",
-          "barkod": "5025155088180",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Artikl 5025155121962",
-          "barkod": "5025155121962",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     }
