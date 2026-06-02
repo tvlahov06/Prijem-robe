@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T07:49:14.688Z",
-  "azurirano": "2026-06-02T07:53:58.676Z",
+  "azurirano": "2026-06-02T07:54:01.541Z",
   "dokumenti": [
     {
       "naziv": "jbl_roba_tablica",
@@ -110,7 +110,7 @@
           "naziv": "GO 4 RDECA JBL zvucna pos",
           "barkod": "1200130009440",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 0
         },
         {
           "naziv": "GO 4 SQUAD JBL zvucna pos",
@@ -134,7 +134,7 @@
           "naziv": "T310C USB-C BELA JBL slus",
           "barkod": "1200130011153",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 0
         },
         {
           "naziv": "VIBE BEAM 2 CRNA BLACK",
