@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T07:49:14.688Z",
-  "azurirano": "2026-06-02T08:00:59.995Z",
+  "azurirano": "2026-06-02T08:01:36.010Z",
   "dokumenti": [
     {
       "naziv": "jbl_roba_tablica",
@@ -56,7 +56,7 @@
           "naziv": "XTREME 4 BLACK EUNA JBL",
           "barkod": "1200130025709",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TOUR ONE M3 BLACK JBL",
@@ -74,7 +74,7 @@
           "naziv": "Grip White JBL",
           "barkod": "1200130024870",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Sense Pro White JBL",
