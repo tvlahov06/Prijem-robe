@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T07:49:14.688Z",
-  "azurirano": "2026-06-02T07:58:41.835Z",
+  "azurirano": "2026-06-02T07:58:58.006Z",
   "dokumenti": [
     {
       "naziv": "jbl_roba_tablica",
@@ -38,7 +38,7 @@
           "naziv": "FLIP 7 SQUAD JBL",
           "barkod": "1200130019340",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CHARGE 6 BLACK JBL",
