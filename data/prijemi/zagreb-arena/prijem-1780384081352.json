@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T07:08:01.352Z",
-  "azurirano": "2026-06-02T08:14:22.010Z",
+  "azurirano": "2026-06-02T08:14:43.617Z",
   "dokumenti": [
     {
       "naziv": "MSI 3466-101",
@@ -422,7 +422,7 @@
           "naziv": "Mobitel Apple iPhone 15 128GB Black",
           "barkod": "195949036033",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
@@ -482,19 +482,19 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Cosmic Orange",
           "barkod": "195950627398",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Deep Blue",
           "barkod": "195950639247",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 256GB Black",
           "barkod": "195950643534",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Watch Series 11 GPS 46mm Space Grey Aluminium Case with Black Sport Band - M/L",
