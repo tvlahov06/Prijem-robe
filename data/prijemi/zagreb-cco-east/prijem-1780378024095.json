@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T05:27:04.095Z",
-  "azurirano": "2026-06-02T05:29:56.527Z",
+  "azurirano": "2026-06-02T05:30:07.574Z",
   "dokumenti": [
     {
       "naziv": "roba 0002",
@@ -211,7 +211,7 @@
           "naziv": "Artikl 4242005076581",
           "barkod": "4242005076581",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
