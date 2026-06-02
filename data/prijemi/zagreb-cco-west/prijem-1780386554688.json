@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T07:49:14.688Z",
-  "azurirano": "2026-06-02T07:54:15.712Z",
+  "azurirano": "2026-06-02T07:54:23.270Z",
   "dokumenti": [
     {
       "naziv": "jbl_roba_tablica",
@@ -128,7 +128,7 @@
           "naziv": "QUANTUM STREAM USB-C JBL",
           "barkod": "1200130008856",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "T310C USB-C BELA JBL slus",
