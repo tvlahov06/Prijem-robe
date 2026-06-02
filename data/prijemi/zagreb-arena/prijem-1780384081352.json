@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T07:08:01.352Z",
-  "azurirano": "2026-06-02T07:14:46.781Z",
+  "azurirano": "2026-06-02T07:14:54.169Z",
   "dokumenti": [
     {
       "naziv": "MSI 3466-101",
@@ -600,13 +600,13 @@
           "naziv": "TV HISENSE 65E7Q, 165.1cm (65\"), QLED, 4K UHD Smart TV, VIDAA OS",
           "barkod": "6942351418902",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG OLED55C51LA 139.7cm (55\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096381885",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG OLED48C51LA 121.9cm (48\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
@@ -660,7 +660,7 @@
           "naziv": "TV LG OLED65C51LA 165.1cm (65\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096363560",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55S90FAEXXH, 139.7cm (55\"), OLED, 4K H UHD Smart TV, Tizen OS",
