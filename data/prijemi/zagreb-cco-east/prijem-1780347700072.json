@@ -5,7 +5,7 @@
   "datum": "2026-06-01",
   "status": "aktivan",
   "kreirano": "2026-06-01T21:01:40.072Z",
-  "azurirano": "2026-06-02T05:06:58.078Z",
+  "azurirano": "2026-06-02T05:07:05.082Z",
   "dokumenti": [
     {
       "naziv": "MSI 3461-101",
@@ -414,7 +414,7 @@
           "naziv": "Usisavac Philips FC9330/09",
           "barkod": "8720389036088",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kava DELONGHI zrno Classico 1kg",
