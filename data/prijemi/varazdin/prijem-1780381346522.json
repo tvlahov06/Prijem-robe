@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T06:22:26.522Z",
-  "azurirano": "2026-06-02T06:58:01.300Z",
+  "azurirano": "2026-06-02T06:58:30.100Z",
   "dokumenti": [
     {
       "naziv": "MSI 3485-101",
@@ -38,19 +38,19 @@
           "naziv": "Pametni sat Huawei Watch GT 5 Pro 46mm Black (Vili-B29F)",
           "barkod": "6942103132032",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 41mm Blue (Jana-B19FC)",
           "barkod": "6942103131998",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
           "barkod": "6942103168239",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Apple iPhone 15 128GB Black",
@@ -68,7 +68,7 @@
           "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F)",
           "barkod": "6942103189739",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 zeleni",
@@ -104,7 +104,7 @@
           "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F) DEMO",
           "barkod": "2010030701899",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "RASHLADNI STALAK SBOX",
