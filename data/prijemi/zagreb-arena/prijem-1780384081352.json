@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T07:08:01.352Z",
-  "azurirano": "2026-06-02T08:19:11.251Z",
+  "azurirano": "2026-06-02T08:19:16.636Z",
   "dokumenti": [
     {
       "naziv": "MSI 3466-101",
@@ -309,7 +309,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB crni",
           "barkod": "8806097827467",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Punjac Samsung EP-T6010 60W Fast Charge USB-C crni bez kabela",
@@ -369,7 +369,7 @@
           "naziv": "Mobitel Samsung Galaxy S25 Ultra 5G 12/256GB titan sivi",
           "barkod": "8806095860107",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
