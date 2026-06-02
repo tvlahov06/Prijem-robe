@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "ROBA 02-06-2026 (OSTATAK)",
   "datum": "2026-06-02",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-06-02T05:27:04.095Z",
-  "azurirano": "2026-06-02T06:18:01.026Z",
+  "azurirano": "2026-06-02T06:18:04.780Z",
   "dokumenti": [
     {
       "naziv": "roba 0002",
@@ -215,5 +215,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-06-02T06:18:04.780Z"
 }
