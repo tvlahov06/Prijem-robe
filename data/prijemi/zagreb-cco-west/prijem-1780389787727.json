@@ -4,8 +4,8 @@
   "naziv": "Laptopi 0206",
   "datum": "2026-06-02",
   "status": "aktivan",
-  "kreirano": "2026-06-02T08:45:58.267Z",
-  "azurirano": "2026-06-02T08:45:58.267Z",
+  "kreirano": "2026-06-02T08:47:07.859Z",
+  "azurirano": "2026-06-02T08:47:07.859Z",
   "dokumenti": [
     {
       "naziv": "MSI 3519-101",
@@ -258,108 +258,138 @@
       ]
     },
     {
-      "naziv": "MSI 3496-101",
+      "naziv": "MSI 3495-101",
       "stavke": [
         {
-          "naziv": "Pametni sat Huawei Watch GT 5 41mm Gold Milanese Strap (Jana-B19M)",
-          "barkod": "6942103131981",
-          "ocekivano": 5,
+          "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C crni bez kabela",
+          "barkod": "8806094912128",
+          "ocekivano": 20,
           "skenirano": 0
         },
         {
-          "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
-          "barkod": "6942103168154",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT 5 46mm Black (Vili-B19F)",
-          "barkod": "6942103132001",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
-          "barkod": "6942103168185",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT 5 Pro 46mm Black (Vili-B29F)",
-          "barkod": "6942103132032",
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi",
+          "barkod": "8806099028114",
           "ocekivano": 4,
           "skenirano": 0
         },
         {
-          "naziv": "Pametni sat Huawei Watch GT 5 41mm Blue (Jana-B19FC)",
-          "barkod": "6942103131998",
-          "ocekivano": 2,
+          "naziv": "Mobitel Samsung Galaxy A16 4GB/128GB dual SIM tamnoplavi",
+          "barkod": "8806095822334",
+          "ocekivano": 1,
           "skenirano": 0
         },
         {
-          "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
-          "barkod": "6942103168239",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 15 128GB Black",
-          "barkod": "195949036033",
+          "naziv": "Mobitel Samsung Galaxy A26 5G 6GB/128GB dual SIM crni",
+          "barkod": "8806097072812",
           "ocekivano": 5,
           "skenirano": 0
         },
         {
-          "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
-          "barkod": "6942103168246",
+          "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM sivi",
+          "barkod": "8806099035259",
           "ocekivano": 1,
           "skenirano": 0
         },
         {
-          "naziv": "Mobitel Apple iPhone 17 256GB White",
-          "barkod": "195950643732",
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
+          "barkod": "8806097651000",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicni punjac Samsung Duo za mobitel ili sat crni",
+          "barkod": "8806092978539",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
+          "barkod": "8806099028282",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska za Samsung Galaxy A57 5G tamno plava",
+          "barkod": "8806099037758",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
+          "barkod": "8806097651079",
           "ocekivano": 3,
           "skenirano": 0
         },
         {
-          "naziv": "Pametni sat Huawei Watch GT 5 46mm Blue Woven Strap (Vili-B19W)",
-          "barkod": "6942103132025",
-          "ocekivano": 2,
+          "naziv": "Punjac Samsung T4511 45W Fast Charge USB-C crni bez kabla",
+          "barkod": "8806097039709",
+          "ocekivano": 5,
           "skenirano": 0
         },
         {
-          "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F)",
-          "barkod": "6942103189739",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 zeleni",
-          "barkod": "4547410489088",
+          "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB sivi",
+          "barkod": "8806097855019",
           "ocekivano": 1,
           "skenirano": 0
         },
         {
-          "naziv": "Tablet Huawei MatePad 12X 12GB/256GB (Laurent-W09DK) bijeli",
-          "barkod": "6942103169014",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F) DEMO",
-          "barkod": "2010030701899",
+          "naziv": "Sat Samsung Galaxy Fit3 rozi",
+          "barkod": "8806095362151",
           "ocekivano": 1,
           "skenirano": 0
         },
         {
-          "naziv": "Apple Watch Series 11 GPS 42mm Rose Gold Aluminium Case with Light Blush Sport Band - S/M",
-          "barkod": "195950619126",
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 Ultra crna",
+          "barkod": "8806097887225",
           "ocekivano": 1,
           "skenirano": 0
         },
         {
-          "naziv": "Dron DJI Neo",
-          "barkod": "6941565988362",
+          "naziv": "Mobitel Samsung Galaxy A37 5G 8GB/256GB dual SIM sivi",
+          "barkod": "8806099035181",
           "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB nebesko plavi",
+          "barkod": "8806097827610",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB 5G sivi",
+          "barkod": "8806097638254",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB kobalt ljubicasti",
+          "barkod": "8806097827078",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Book Cover s tipkovnicom za Samsung Galaxy Tab S11 crni",
+          "barkod": "8806097734956",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Rugged maska za Samsung Galaxy A57 5G crna",
+          "barkod": "8806099037819",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM svijetlo plavi",
+          "barkod": "8806097651147",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch8 Classic 46mm bijeli",
+          "barkod": "8806097415459",
+          "ocekivano": 1,
           "skenirano": 0
         }
       ]
