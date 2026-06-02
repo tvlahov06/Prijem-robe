@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T07:08:01.352Z",
-  "azurirano": "2026-06-02T08:09:44.858Z",
+  "azurirano": "2026-06-02T08:09:49.032Z",
   "dokumenti": [
     {
       "naziv": "MSI 3466-101",
@@ -500,7 +500,7 @@
           "naziv": "Apple Watch Series 11 GPS 46mm Space Grey Aluminium Case with Black Sport Band - M/L",
           "barkod": "195950631975",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 256GB Sage",
@@ -518,7 +518,7 @@
           "naziv": "Apple iPhone 17 Pro Max Silicone Case with MagSafe - Terra Cotta",
           "barkod": "195950664119",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
