@@ -2,10 +2,10 @@
   "id": "prijem-1780340531241",
   "poslovnica": "split-cco",
   "naziv": "",
-  "datum": "2026-06-01",
+  "datum": "2026-06-02",
   "status": "aktivan",
-  "kreirano": "2026-06-01T19:02:11.241Z",
-  "azurirano": "2026-06-02T06:50:52.519Z",
+  "kreirano": "2026-06-02T13:35:53.299Z",
+  "azurirano": "2026-06-02T13:35:53.299Z",
   "dokumenti": [
     {
       "naziv": "MSI 3509-101",
@@ -924,6 +924,101 @@
         {
           "naziv": "TV SAMSUNG UE75U8072HUXXH, 190 cm (75\") UHD, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097969037",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3563-101",
+      "stavke": [
+        {
+          "naziv": "Samsung Galaxy Buds3 FE slusalice sive UC",
+          "barkod": "8806097621249",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne Sony s funkcijom blokade buke E7 WF-1000XM6/B",
+          "barkod": "4548736171770",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Razer Kraken X Lite, zicane, gaming, 7.1, 0-R381 mikrofon, over-ear",
+          "barkod": "8886419378082",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple EarPods (Lightning Connector)",
+          "barkod": "195949506123",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-1000XM6/T",
+          "barkod": "4548736176850",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hisense Zvucnik PARTY ROCKET 160",
+          "barkod": "6942351411071",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX Fiksni zidni stalak PLB-2264F-2",
+          "barkod": "3858894502929",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicni set mikrofona Sony ULTMIC1 s 2 mikrofona i 7 prijemnikom",
+          "barkod": "4548736165502",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX Zidni stalak PLB-61486 (43-90\"/60kg/VESA 800x400)",
+          "barkod": "0736373267145",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
+          "barkod": "4548736161436",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-CH720N/B",
+          "barkod": "4548736142428",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Samsung",
+          "barkod": "8806097071952",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/B",
+          "barkod": "4548736162617",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Samsung",
+          "barkod": "8806097071907",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-1000XM6/L",
+          "barkod": "4548736162716",
           "ocekivano": 1,
           "skenirano": 0
         }
