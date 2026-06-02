@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T07:49:14.688Z",
-  "azurirano": "2026-06-02T07:55:29.682Z",
+  "azurirano": "2026-06-02T07:55:57.705Z",
   "dokumenti": [
     {
       "naziv": "jbl_roba_tablica",
@@ -98,13 +98,13 @@
           "naziv": "GO 4 MODRA JBL zvucna pos",
           "barkod": "1200130009457",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "GO 4 VIJOLICNA JBL zvucna",
           "barkod": "1200130009471",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "GO 4 RDECA JBL zvucna pos",
