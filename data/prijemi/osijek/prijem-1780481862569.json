@@ -5,7 +5,7 @@
   "datum": "2026-06-03",
   "status": "aktivan",
   "kreirano": "2026-06-03T10:17:42.569Z",
-  "azurirano": "2026-06-03T10:31:49.707Z",
+  "azurirano": "2026-06-03T10:32:00.999Z",
   "dokumenti": [
     {
       "naziv": "MSI 3459-101",
@@ -86,7 +86,7 @@
           "naziv": "Tablet Huawei MatePad 12X 12GB/256GB (Laurent-W09DK) bijeli",
           "barkod": "6942103169014",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Huawei MatePad SE 11'' 4/128GB (Agassi6-W19B) sivi",
@@ -110,7 +110,7 @@
           "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Pink",
           "barkod": "195950086867",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
