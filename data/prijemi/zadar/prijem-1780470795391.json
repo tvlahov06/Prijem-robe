@@ -5,7 +5,7 @@
   "datum": "2026-06-03",
   "status": "aktivan",
   "kreirano": "2026-06-03T07:25:45.545Z",
-  "azurirano": "2026-06-03T07:33:31.523Z",
+  "azurirano": "2026-06-03T07:33:34.974Z",
   "dokumenti": [
     {
       "naziv": "MSI 3489-101",
@@ -976,7 +976,7 @@
           "naziv": "Usisavac Bosch BHN20L",
           "barkod": "4242005190881",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST7511/80",
