@@ -5,7 +5,7 @@
   "datum": "2026-06-03",
   "status": "aktivan",
   "kreirano": "2026-06-03T07:25:45.545Z",
-  "azurirano": "2026-06-03T07:27:52.720Z",
+  "azurirano": "2026-06-03T07:28:02.041Z",
   "dokumenti": [
     {
       "naziv": "MSI 3489-101",
@@ -970,7 +970,7 @@
           "naziv": "Glacalo Philips DST8040/30",
           "barkod": "8720389004599",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BHN20L",
