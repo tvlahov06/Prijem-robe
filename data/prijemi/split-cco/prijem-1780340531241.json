@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T20:12:41.555Z",
-  "azurirano": "2026-06-03T06:43:57.214Z",
+  "azurirano": "2026-06-03T06:47:23.804Z",
   "dokumenti": [
     {
       "naziv": "MSI 3509-101",
@@ -193,7 +193,7 @@
           "naziv": "Aparat za kavu Lavazza A Modo Mio Jolie Evo bijela",
           "barkod": "8000070073593",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Lavazza A Modo Mio Jolie Evo crna",
@@ -396,7 +396,7 @@
           "naziv": "Cetkica za zube OralB PRO Kids 3+ LION KING+putna torb.",
           "barkod": "8700216297172",
           "ocekivano": 1,
-          "skenirano": 2
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Philips BHA710/00",
@@ -503,7 +503,7 @@
           "naziv": "Aparat za kavu DeLonghi EC 685.R Dedica Style",
           "barkod": "8004399331204",
           "ocekivano": 2,
-          "skenirano": 3
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac stapni Gorenje SVC216210FFIIW*",
@@ -533,7 +533,7 @@
           "naziv": "Usisavac Philips FC9729/09",
           "barkod": "8710103810308",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3031/01",
@@ -551,7 +551,7 @@
           "naziv": "Aparat za kavu Nespresso PIXIE Titan C62-EUTINE-S",
           "barkod": "8606112020305",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP440E10 Genio S touch silver",
@@ -563,13 +563,13 @@
           "naziv": "Kuhalo za vodu Philips HD9411/70",
           "barkod": "8720389037276",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sokovnik Hurom H320N mat zeleni",
           "barkod": "8809686401048",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA332/00 Airfryer",
@@ -587,7 +587,7 @@
           "naziv": "Friteza na vruci zrak Philips NA552/00 Airfryer Dual Basket, para",
           "barkod": "8720389049286",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Gorenje HBX1500VS",
@@ -611,7 +611,7 @@
           "naziv": "Aparat za sladoled Ninja NC302EU Creami",
           "barkod": "0622356350884",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Rostilj Philips HD6212/90 stolni",
@@ -623,7 +623,7 @@
           "naziv": "K16 Pekac za pizzu ZiiPa K16 elektricni",
           "barkod": "8052239094871",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Ninja AF180EU",
