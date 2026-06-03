@@ -5,7 +5,7 @@
   "datum": "2026-06-03",
   "status": "aktivan",
   "kreirano": "2026-06-03T06:13:41.356Z",
-  "azurirano": "2026-06-03T07:57:22.789Z",
+  "azurirano": "2026-06-03T07:57:33.704Z",
   "dokumenti": [
     {
       "naziv": "MSI 3541-101",
@@ -32,7 +32,7 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3 83K8007WSC, 40.6cm (16\") IPS WUXGA, AMD Ryzen 7 7735HS, 16 GB RAM, 1 TB",
           "barkod": "199273341863",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS VivoBook X1504VA-BQ2625, 39.62 cm YK0 (15.6\") FHD, Intel Core i3-1315U, 16GB RAM, 512GB SSD,",
@@ -122,13 +122,13 @@
           "naziv": "DELL 27\" Plus monitor S2725DC, IPS 2K/QHD, 144Hz, 4ms, AMD FreeSync, ComfortView Plus, DisplayPort, HDMI,",
           "barkod": "5397184963005",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
           "barkod": "198828789556",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP DeskJet 2923 All-in-One (89F99B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
@@ -146,13 +146,13 @@
           "naziv": "HP DeskJet 2921 All-in-One (A24HWB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
           "barkod": "0198828789822",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet M207dw, 8J9K9F",
           "barkod": "0197961893083",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP Envy 6110e All-in-One (714J3B) Color Inkjet MF pisac - Print, Scan, Copy, Mobile Fax, Duplex, Wi-Fi, USB, A4 -",
