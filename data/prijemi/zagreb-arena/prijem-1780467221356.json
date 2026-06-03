@@ -5,7 +5,7 @@
   "datum": "2026-06-03",
   "status": "aktivan",
   "kreirano": "2026-06-03T06:13:41.356Z",
-  "azurirano": "2026-06-03T07:57:38.989Z",
+  "azurirano": "2026-06-03T07:57:45.353Z",
   "dokumenti": [
     {
       "naziv": "MSI 3541-101",
@@ -104,13 +104,13 @@
           "naziv": "SAMSUNG 27\" ViewFinity S8 Monitor LS27D800UAUXEN, EN IPS 4K UHD, 60Hz, 5ms, HDR10, DisplayPort, HDMI,",
           "barkod": "8806095541945",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 24\" Samsung LS24D400GAUXEN, FHD, IPS,180Hz EN",
           "barkod": "8806095802992",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DELL 27\" Gaming monitor SE2725HG, IPS Full HD, 200Hz, 1ms, AMD FreeSync Premium, Display Port, 2x HDMI",
