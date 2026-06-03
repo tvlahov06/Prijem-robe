@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T12:52:08.345Z",
-  "azurirano": "2026-06-03T04:58:09.813Z",
+  "azurirano": "2026-06-03T04:58:33.277Z",
   "dokumenti": [
     {
       "naziv": "MSI 3461-101",
@@ -360,7 +360,7 @@
           "naziv": "Pecnica ugradbena Hisense BI64221PDBG",
           "barkod": "3838782861383",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena Hisense BFHSteamPyro",
