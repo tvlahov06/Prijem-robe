@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T12:52:08.345Z",
-  "azurirano": "2026-06-03T05:33:56.141Z",
+  "azurirano": "2026-06-03T05:34:04.013Z",
   "dokumenti": [
     {
       "naziv": "MSI 3461-101",
@@ -313,7 +313,7 @@
           "naziv": "Apple Pencil (USB-C)",
           "barkod": "195949133695",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Watch SE 3 GPS 44mm Starlight Aluminium Case with Starlight Sport Band - S/M",
