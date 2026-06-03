@@ -5,7 +5,7 @@
   "datum": "2026-06-03",
   "status": "aktivan",
   "kreirano": "2026-06-03T08:19:02.335Z",
-  "azurirano": "2026-06-03T09:03:32.510Z",
+  "azurirano": "2026-06-03T09:03:59.577Z",
   "dokumenti": [
     {
       "naziv": "MSI 3506-101",
@@ -797,13 +797,13 @@
           "naziv": "Aparat za kavu Nespresso INISSIA Black D40-EUBKNE5-S",
           "barkod": "8606112020367",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso INISSIA Red C40-EURENE5-S",
           "barkod": "8606112020374",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 685.M Dedica Style",
