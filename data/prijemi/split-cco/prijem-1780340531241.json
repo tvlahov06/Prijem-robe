@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T20:12:41.555Z",
-  "azurirano": "2026-06-03T06:37:27.357Z",
+  "azurirano": "2026-06-03T06:37:49.809Z",
   "dokumenti": [
     {
       "naziv": "MSI 3509-101",
@@ -426,7 +426,7 @@
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
           "barkod": "8720689045094",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "3-276 Epilator Braun SE3-276*",
@@ -444,7 +444,7 @@
           "naziv": "Epilator Braun SE7-041*",
           "barkod": "7500435225113",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
