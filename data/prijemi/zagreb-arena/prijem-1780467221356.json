@@ -5,7 +5,7 @@
   "datum": "2026-06-03",
   "status": "aktivan",
   "kreirano": "2026-06-03T06:13:41.356Z",
-  "azurirano": "2026-06-03T06:13:41.356Z",
+  "azurirano": "2026-06-03T07:14:41.588Z",
   "dokumenti": [
     {
       "naziv": "MSI 3541-101",
@@ -186,19 +186,19 @@
           "naziv": "TV HISENSE 58A6S, 147.3cm (58\"), DLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351430607",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 55E8S, 139.7cm (55\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351434582",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 75E7S, 190.5cm (75\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351431901",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
