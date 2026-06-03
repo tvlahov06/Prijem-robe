@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T12:52:08.345Z",
-  "azurirano": "2026-06-03T05:02:41.351Z",
+  "azurirano": "2026-06-03T05:02:47.336Z",
   "dokumenti": [
     {
       "naziv": "MSI 3461-101",
@@ -614,7 +614,7 @@
           "naziv": "TV PHILIPS 50PUS7000, 127.0cm (50\"), LED, UHD 4K Smart TV",
           "barkod": "8718863046029",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG OLED55C51LA 139.7cm (55\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
@@ -656,7 +656,7 @@
           "naziv": "TV SONY K50S35B.CEI, 127cm (50\"), Direct LED, 4K UHD SMART TV, Android TV",
           "barkod": "4548736167995",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG UE55U8072FUXXH, 139.7cm (55\"), LED, 4K XH UHD Smart TV, Tizen OS",
@@ -668,7 +668,7 @@
           "naziv": "TV HISENSE 55U7SE, 139.7cm (55\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351433677",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         }
       ]
     },
