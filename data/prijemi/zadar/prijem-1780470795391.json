@@ -5,7 +5,7 @@
   "datum": "2026-06-03",
   "status": "aktivan",
   "kreirano": "2026-06-03T07:25:45.545Z",
-  "azurirano": "2026-06-03T07:33:07.984Z",
+  "azurirano": "2026-06-03T07:33:12.883Z",
   "dokumenti": [
     {
       "naziv": "MSI 3489-101",
@@ -928,7 +928,7 @@
           "naziv": "Parna postaja Philips PSG8140/80",
           "barkod": "8710103970279",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups SA403BE0 espresso Coffee Crush Experience Lioness",
@@ -1000,7 +1000,7 @@
           "naziv": "Aparat za kavu Krups KP143BF0 Mini Me 2 cosmic grey",
           "barkod": "3045380404151",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XB2122/09",
