@@ -5,7 +5,7 @@
   "datum": "2026-06-03",
   "status": "aktivan",
   "kreirano": "2026-06-03T08:19:02.335Z",
-  "azurirano": "2026-06-03T08:51:55.310Z",
+  "azurirano": "2026-06-03T08:55:31.527Z",
   "dokumenti": [
     {
       "naziv": "MSI 3506-101",
@@ -743,7 +743,7 @@
           "naziv": "Filter za vodu za aparat za kavu DeLonghi DLSC002",
           "barkod": "8004399327252",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Parna postaja Philips PSG8300/80",
@@ -791,7 +791,7 @@
           "naziv": "Usisavac Bosch BHN20L",
           "barkod": "4242005190881",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso INISSIA Black D40-EUBKNE5-S",
