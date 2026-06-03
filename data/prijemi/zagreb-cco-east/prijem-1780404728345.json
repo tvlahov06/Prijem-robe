@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T12:52:08.345Z",
-  "azurirano": "2026-06-03T05:07:34.858Z",
+  "azurirano": "2026-06-03T05:07:47.634Z",
   "dokumenti": [
     {
       "naziv": "MSI 3461-101",
@@ -561,31 +561,31 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525934",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV TCL 50P7K, 127cm (50\"), QLED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525941",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 50A6S, 127cm (50\"), DLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351430263",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "PRO TV HISENSE 55E7S PRO, 139.7cm (55\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351432779",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PRO TV HISENSE 50E7S PRO, 127cm (50\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
@@ -650,7 +650,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SONY K50S35B.CEI, 127cm (50\"), Direct LED, 4K UHD SMART TV, Android TV",
