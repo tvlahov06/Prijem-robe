@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T20:12:41.555Z",
-  "azurirano": "2026-06-03T05:44:14.145Z",
+  "azurirano": "2026-06-03T06:00:44.262Z",
   "dokumenti": [
     {
       "naziv": "MSI 3509-101",
@@ -14,49 +14,49 @@
           "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
           "barkod": "6926597761725",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Klima uredaj 2,6 kW Hisense APH09QC mobilna",
           "barkod": "6926597739922",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Klima uredaj 3,5 kW Hisense APH12QC mobilna",
           "barkod": "6926597725123",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Klima uredaj 5,0 kW Hisense CF50XS1GG/AS50XS1GW 50XS1GW",
           "barkod": "6926597759593",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ventilator Philips CX2550/00",
           "barkod": "8720389036842",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Ventilator Philips CX3550/01",
           "barkod": "8720389036910",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Ventilator Philips CX3050/01",
           "barkod": "8720389036873",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Aparat za sladoled Ninja NC302EU Creami",
           "barkod": "0622356350884",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Ledomat Gorenje IMD1200SB",
@@ -68,13 +68,13 @@
           "naziv": "Aparat za sladoled Tefal IG602AE0 Ice Cream maker Dolci, 10u1",
           "barkod": "3016661180446",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Ledomat Gorenje IMDW1500B",
           "barkod": "3838782972515",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
@@ -646,7 +646,7 @@
           "naziv": "Soundbar Hisense HS2000",
           "barkod": "6942351411514",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Hisense Soundbar AX3120Q",
@@ -682,7 +682,7 @@
           "naziv": "TV HISENSE 32A5S, 81.3cm (32\"), Hi-QLED, FHD Smart TV, VIDAA OS",
           "barkod": "6942351429441",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
@@ -706,7 +706,7 @@
           "naziv": "TV SAMSUNG UE50U8092FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097068563",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "PRO TV HISENSE 43E7S PRO, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
@@ -724,19 +724,19 @@
           "naziv": "TV SAMSUNG UE50U8072HUXXH, 127 cm (50\") UHD Smart XH TV, Tizen OS",
           "barkod": "8806097978244",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG UE43U8092FUXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097068556",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV TCL 40S5K, 101.6cm (40\"), QLED, FHD SMART TV, GOOGLE TV",
           "barkod": "5901292526023",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE55S90FAEXXH, 139.7cm (55\"), OLED, 4K H UHD Smart TV, Tizen OS",
@@ -766,7 +766,7 @@
           "naziv": "Soundbar Samsung",
           "barkod": "8806097091929",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Soundbar Sony",
@@ -808,13 +808,13 @@
           "naziv": "TV PHILIPS 43PUS9010, 109.2cm (43\"), QLED, UHD 4K 144Hz, Smart TV, Titan OS - Ambilight",
           "barkod": "8718863045930",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG 32LQ63006LA 81.3cm (32\"), LED, FHD, webOS",
           "barkod": "8806091636959",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 55PUS8510, 139.7cm (55\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
@@ -826,7 +826,7 @@
           "naziv": "TV PHILIPS 48OLED770, 121.9cm (48\"), OLED, UHD 4K 120Hz, Smart TV - Ambilight",
           "barkod": "8718863046760",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -837,61 +837,61 @@
           "naziv": "TV HISENSE 32A5Q, 81.3cm (32\"), QLED, FHD Smart TV, VIDAA OS",
           "barkod": "6942351418179",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE50Q7FAAUXXH, 127.0cm (50\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097118541",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TV PHILIPS 50PUS7000, 127.0cm (50\"), LED, UHD 4K Smart TV",
           "barkod": "8718863046029",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 43PUS8510, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
           "barkod": "8718863045770",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG OLED42C51LA 106.7cm (42\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096368763",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE48S90FAEXXH, 121.9cm (48\"), OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097079422",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG UE50U8092FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097068563",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097067672",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG UE43U8092FUXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097068556",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE65S90FATXXH, 165.1cm (65\"), OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097090960",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -913,7 +913,7 @@
           "naziv": "TV SAMSUNG UE50M70HAUXXH, 127 cm (50\") Mini LED, XH 4K UHD Smart TV, Tizen OS",
           "barkod": "8806097977667",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG UE50U8072HUXXH, 127 cm (50\") UHD Smart XH TV, Tizen OS",
@@ -925,7 +925,7 @@
           "naziv": "TV SAMSUNG UE75U8072HUXXH, 190 cm (75\") UHD, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097969037",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
