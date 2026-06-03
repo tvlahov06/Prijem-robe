@@ -5,7 +5,7 @@
   "datum": "2026-06-02",
   "status": "aktivan",
   "kreirano": "2026-06-02T20:12:41.555Z",
-  "azurirano": "2026-06-03T06:40:51.345Z",
+  "azurirano": "2026-06-03T06:41:18.032Z",
   "dokumenti": [
     {
       "naziv": "MSI 3509-101",
@@ -539,7 +539,7 @@
           "naziv": "Usisavac Philips XC3031/01",
           "barkod": "8720389049071",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Bosch MSM4B620 ErgoMaster",
