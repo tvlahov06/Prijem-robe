@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T10:14:37.911Z",
-  "azurirano": "2026-06-05T12:35:29.900Z",
+  "azurirano": "2026-06-05T12:36:03.127Z",
   "dokumenti": [
     {
       "naziv": "MSI 3554-101",
@@ -1163,7 +1163,7 @@
           "naziv": "Usisavac Philips FC9330/09",
           "barkod": "8720389036088",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9334/09",
