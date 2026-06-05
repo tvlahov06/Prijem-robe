@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T10:14:37.911Z",
-  "azurirano": "2026-06-05T13:27:36.081Z",
+  "azurirano": "2026-06-05T13:27:38.524Z",
   "dokumenti": [
     {
       "naziv": "MSI 3560-101",
@@ -450,7 +450,7 @@
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
           "barkod": "4713435796641",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV210, 64GB, USB2.0 GD",
