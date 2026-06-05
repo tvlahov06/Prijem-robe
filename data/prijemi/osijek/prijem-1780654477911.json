@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T10:14:37.911Z",
-  "azurirano": "2026-06-05T10:22:33.475Z",
+  "azurirano": "2026-06-05T10:23:05.128Z",
   "dokumenti": [
     {
       "naziv": "MSI 3554-101",
@@ -199,7 +199,7 @@
           "naziv": "Laptop Apple Macbook Neo Indigo, mhff4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
           "barkod": "195950852578",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS Vivobook 16, X1605VA-SH2730, 40.6cm (16\") R60 OLED WUXGA, Intel Core 9 270H, 24 GB RAM, 1 TB SSD,",
@@ -217,13 +217,13 @@
           "naziv": "Laptop Apple Macbook Neo Indigo, mhfg4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
           "barkod": "195950853049",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Apple Macbook Neo Blush, mhfh4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
           "barkod": "195950853513",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP OmniBook 7 AI 17-dc0001nn, CV9Y4EA, 43.9cm (17.3\") IPS FHD Touch, Intel Core Ultra 7 258V, 32 GB",
