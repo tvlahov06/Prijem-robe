@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T08:18:38.879Z",
-  "azurirano": "2026-06-05T10:29:50.768Z",
+  "azurirano": "2026-06-05T10:29:57.508Z",
   "dokumenti": [
     {
       "naziv": "MSI 3565-101",
@@ -145,7 +145,7 @@
           "naziv": "Multishape Panasonic XSHAPE TRAVEL TRAVEL",
           "barkod": "4010869321891",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo/kosu/bradu BRAUN 7u1 5520",
@@ -163,7 +163,7 @@
           "naziv": "Cetkica za zube OralB iO9 BLACK ONYX",
           "barkod": "4210201449485",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9911/09 DiamondClean, Black",
@@ -175,7 +175,7 @@
           "naziv": "Sisac za kosu Philips HC7650/15",
           "barkod": "8710103897903",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube OralB iO2 GREEN",
@@ -289,7 +289,7 @@
           "naziv": "Pegla za kosu Remington S8930E51 AIRviveTM",
           "barkod": "5038061174670",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube OralB nastavak CROSS ACTION 6 WHITE*",
