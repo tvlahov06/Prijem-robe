@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T08:18:38.879Z",
-  "azurirano": "2026-06-05T09:08:45.006Z",
+  "azurirano": "2026-06-05T09:08:50.105Z",
   "dokumenti": [
     {
       "naziv": "MSI 3565-101",
@@ -348,7 +348,7 @@
           "naziv": "Super Mario Maker 2 Switch",
           "barkod": "045496424343",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Animal Crossing New Horizons Switch WHORSW",
@@ -360,7 +360,7 @@
           "naziv": "Mario Party Superstars Switch E13 TASW",
           "barkod": "045496428655",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bayonetta 3 Switch C25",
@@ -462,7 +462,7 @@
           "naziv": "Yoshi And The Mysterious Book Switch 2",
           "barkod": "0045496314118",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
