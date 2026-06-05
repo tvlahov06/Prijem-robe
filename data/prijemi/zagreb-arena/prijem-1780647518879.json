@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T08:18:38.879Z",
-  "azurirano": "2026-06-05T08:19:09.633Z",
+  "azurirano": "2026-06-05T08:19:21.544Z",
   "dokumenti": [
     {
       "naziv": "MSI 3565-101",
@@ -767,7 +767,7 @@
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
           "barkod": "8720389032370",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
@@ -785,7 +785,7 @@
           "naziv": "Aparat za kavu Philips EP5549/70 espresso",
           "barkod": "8720389032271",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8300/80",
@@ -851,7 +851,7 @@
           "naziv": "Aparat za kavu Philips EP4449/70 espresso",
           "barkod": "8720389032196",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
