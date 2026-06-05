@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T08:18:38.879Z",
-  "azurirano": "2026-06-05T09:52:12.162Z",
+  "azurirano": "2026-06-05T09:52:19.055Z",
   "dokumenti": [
     {
       "naziv": "MSI 3565-101",
@@ -584,7 +584,7 @@
           "naziv": "Mis LOGITECH MX Master 4 grafit",
           "barkod": "5099206133082",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
@@ -620,7 +620,7 @@
           "naziv": "Mis Logitech M171, crni",
           "barkod": "5099206062856",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Volan Logitech G923 Driving force + Shifter Logitech Driving Force",
@@ -662,7 +662,7 @@
           "naziv": "Mis Logitech G PRO X Superlight 2, crni",
           "barkod": "5099206104525",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Logitech K270 bezicna, USB, crna",
