@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T08:18:38.879Z",
-  "azurirano": "2026-06-05T10:45:05.242Z",
+  "azurirano": "2026-06-05T10:49:53.159Z",
   "dokumenti": [
     {
       "naziv": "MSI 3565-101",
@@ -235,7 +235,7 @@
           "naziv": "Epilator Braun SE7-041*",
           "barkod": "7500435225113",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Brijac Philips BRL147/00, lady shaver",
@@ -295,7 +295,7 @@
           "naziv": "Cetkica za zube OralB nastavak CROSS ACTION 6 WHITE*",
           "barkod": "4210201376040",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
