@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T08:18:38.879Z",
-  "azurirano": "2026-06-05T10:11:38.729Z",
+  "azurirano": "2026-06-05T10:11:56.074Z",
   "dokumenti": [
     {
       "naziv": "MSI 3565-101",
@@ -952,7 +952,7 @@
           "naziv": "Glacalo Braun SI5277GR New Texstyle 5",
           "barkod": "8021098003874",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot iRobot Roomba Combo Plus 505 + AutoWash dock black",
@@ -1138,7 +1138,7 @@
           "naziv": "Sjeckalica Tefal MQ740HF0 Moulinette Easypress",
           "barkod": "3045380403536",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
