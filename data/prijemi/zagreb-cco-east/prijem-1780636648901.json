@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T05:17:28.901Z",
-  "azurirano": "2026-06-05T05:19:52.399Z",
+  "azurirano": "2026-06-05T05:20:01.673Z",
   "dokumenti": [
     {
       "naziv": "MSI 3594-101",
@@ -548,13 +548,13 @@
           "naziv": "Brijac za glavu Philips HS5980/15",
           "barkod": "8720689044264",
           "ocekivano": 8,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijac za glavu Philips HS7980/15",
           "barkod": "8720689044257",
           "ocekivano": 12,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Brijac za tijelo Philips BG3480/15",
