@@ -5,7 +5,7 @@
   "datum": "2026-06-04",
   "status": "aktivan",
   "kreirano": "2026-06-04T20:17:18.091Z",
-  "azurirano": "2026-06-05T06:03:48.985Z",
+  "azurirano": "2026-06-05T06:04:02.914Z",
   "dokumenti": [
     {
       "naziv": "MSI 3563-101",
@@ -448,13 +448,13 @@
           "naziv": "Monitor 27\" Samsung LS27D600UAUXEN, IPS, UWQHD, EN 100Hz",
           "barkod": "8806095524658",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 24\" Samsung LS24D400GAUXEN, FHD, IPS,180Hz EN",
           "barkod": "8806095802992",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DELL 24\" Gaming monitor SE2425HG, IPS Full HD, 200Hz, 1ms, AMD FreeSync Premium, Display Port, 2x HDMI",
