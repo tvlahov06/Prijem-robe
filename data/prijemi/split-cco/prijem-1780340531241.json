@@ -5,7 +5,7 @@
   "datum": "2026-06-04",
   "status": "aktivan",
   "kreirano": "2026-06-04T20:17:18.091Z",
-  "azurirano": "2026-06-05T05:54:23.379Z",
+  "azurirano": "2026-06-05T05:54:49.236Z",
   "dokumenti": [
     {
       "naziv": "MSI 3563-101",
@@ -400,7 +400,7 @@
           "naziv": "Laptop ASUS VivoBook X1504VA-BQ2625, 39.62 cm YK0 (15.6\") FHD, Intel Core i3-1315U, 16GB RAM, 512GB SSD,",
           "barkod": "4711636097574",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop HP OmniBook 7 16-az0004nm, C1KP0EA, 40.6cm (16\") IPS 2K, Intel Core 7 240H, 32 GB RAM, 1 TB SSD,",
@@ -418,7 +418,7 @@
           "naziv": "Laptop ASUS Vivobook Go 15, E1504FA-BQ1867, 39.6cm 1D0 (15,6\") Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB",
           "barkod": "4711636060387",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop HP OmniBook 7 AI 17-dc0001nn, CV9Y4EA, 43.9cm (17.3\") IPS FHD Touch, Intel Core Ultra 7 258V, 32 GB",
@@ -436,7 +436,7 @@
           "naziv": "Laptop HP OmniBook 5 AI 16-af1000nm 40.6cm (16\") OLED 2K, Intel Core Ultra 7 255U, 32 GB RAM, 1 TB SSD,",
           "barkod": "199251537752",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15, NX.DMVEX.001, 39.6cm (15.6\") IPS FHD, AMD Ryzen 7 5825U, 32 GB RAM, 1 TB",
