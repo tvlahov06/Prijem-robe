@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T08:18:38.879Z",
-  "azurirano": "2026-06-05T11:01:17.291Z",
+  "azurirano": "2026-06-05T11:01:28.245Z",
   "dokumenti": [
     {
       "naziv": "MSI 3565-101",
@@ -797,7 +797,7 @@
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
           "barkod": "8720389040733",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups SA401LE0 espresso Coffee Crush Lichen",
@@ -827,7 +827,7 @@
           "naziv": "Aparat za kavu Philips EP2224/10 espresso",
           "barkod": "8710103894742",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9330/09",
@@ -857,7 +857,7 @@
           "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
           "barkod": "8004399021396",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
@@ -869,7 +869,7 @@
           "naziv": "Usisavac robot iRobot Roomba Combo 105 White",
           "barkod": "5061042263261",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kapsule za kavu Lavazza A Modo Mio Intenso 16/1",
@@ -917,7 +917,7 @@
           "naziv": "Aparat za kavu Lavazza A Modo Mio Jolie Evo bijela",
           "barkod": "8000070073593",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Lavazza A Modo Mio Jolie Evo crvena",
@@ -929,7 +929,7 @@
           "naziv": "Aparat za kavu DeLonghi EC 890.M Dedica Duo",
           "barkod": "8004399032569",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Bosch MMB6652B VitaPower Serie 6",
