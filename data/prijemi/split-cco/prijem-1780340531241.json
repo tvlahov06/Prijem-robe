@@ -5,7 +5,7 @@
   "datum": "2026-06-04",
   "status": "aktivan",
   "kreirano": "2026-06-04T20:17:18.091Z",
-  "azurirano": "2026-06-05T05:56:14.683Z",
+  "azurirano": "2026-06-05T05:56:28.467Z",
   "dokumenti": [
     {
       "naziv": "MSI 3563-101",
@@ -514,13 +514,13 @@
           "naziv": "EPSON EcoTank L6360 MFP Black 35/23ppm A4 Wi-fi Duplex All-In-One Ink Tank Print Scan Copy",
           "barkod": "8715946733296",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer Epson L3270 EcoTank",
           "barkod": "8715946727097",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
