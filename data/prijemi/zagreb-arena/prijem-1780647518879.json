@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T08:18:38.879Z",
-  "azurirano": "2026-06-05T10:41:35.871Z",
+  "azurirano": "2026-06-05T10:42:55.344Z",
   "dokumenti": [
     {
       "naziv": "MSI 3565-101",
@@ -241,7 +241,7 @@
           "naziv": "Brijac Philips BRL147/00, lady shaver",
           "barkod": "8720689039680",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
@@ -271,7 +271,7 @@
           "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
           "barkod": "8720689045360",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za tijelo/kosu/bradu Braun 8u1 3440*",
