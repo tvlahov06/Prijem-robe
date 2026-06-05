@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T10:14:37.911Z",
-  "azurirano": "2026-06-05T13:35:51.209Z",
+  "azurirano": "2026-06-05T13:36:18.131Z",
   "dokumenti": [
     {
       "naziv": "MSI 3560-101",
@@ -140,7 +140,7 @@
           "naziv": "Epilator Braun SE1-000*",
           "barkod": "7500435224949",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Remington D5715",
@@ -218,7 +218,7 @@
           "naziv": "Tus za zube Philips Sonicare HX3333/24 Compact Flosser 1000, Blue",
           "barkod": "8720689046831",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Revlon 2U1 SALON + Revlon Uniq One tretman za kosu",
@@ -242,7 +242,7 @@
           "naziv": "Epilator Braun SE7-041*",
           "barkod": "7500435225113",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
@@ -260,7 +260,7 @@
           "naziv": "Brijac za glavu Rowenta TN3110E0",
           "barkod": "3121040095584",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Babyliss Style Secret Air C6688E",
