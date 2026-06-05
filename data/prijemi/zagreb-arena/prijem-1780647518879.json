@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T08:18:38.879Z",
-  "azurirano": "2026-06-05T09:46:43.889Z",
+  "azurirano": "2026-06-05T09:46:54.533Z",
   "dokumenti": [
     {
       "naziv": "MSI 3565-101",
@@ -532,7 +532,7 @@
           "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
           "barkod": "4548736161436",
           "ocekivano": 6,
-          "skenirano": 3
+          "skenirano": 6
         },
         {
           "naziv": "SONY Bezicne slusalice WH1000XXB s funkcijom",
@@ -1227,7 +1227,7 @@
           "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
           "barkod": "4548736161436",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-CH720N/B",
@@ -1245,7 +1245,7 @@
           "naziv": "Slusalice Sony potpuno bezicne WF-C710N/P",
           "barkod": "4548736164314",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-1000XM6/L",
