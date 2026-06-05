@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T10:14:37.911Z",
-  "azurirano": "2026-06-05T12:46:44.603Z",
+  "azurirano": "2026-06-05T12:46:56.823Z",
   "dokumenti": [
     {
       "naziv": "MSI 3554-101",
@@ -1246,35 +1246,6 @@
         {
           "naziv": "Aparat za kavu DeLonghi EC 685.M Dedica Style",
           "barkod": "8004399331198",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3613-101",
-      "stavke": [
-        {
-          "naziv": "Brijac za glavu Philips HS5980/15",
-          "barkod": "8720689044264",
-          "ocekivano": 8,
-          "skenirano": 8
-        },
-        {
-          "naziv": "Brijac za glavu Philips HS7980/15",
-          "barkod": "8720689044257",
-          "ocekivano": 12,
-          "skenirano": 12
-        },
-        {
-          "naziv": "Brijac za tijelo Philips BG3480/15",
-          "barkod": "8720689026871",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Brijac za tijelo Philips BG5480/15",
-          "barkod": "8720689027076",
           "ocekivano": 1,
           "skenirano": 1
         }
