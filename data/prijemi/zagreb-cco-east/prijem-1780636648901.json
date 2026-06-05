@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T05:17:28.901Z",
-  "azurirano": "2026-06-05T05:32:05.613Z",
+  "azurirano": "2026-06-05T05:32:22.850Z",
   "dokumenti": [
     {
       "naziv": "MSI 3594-101",
@@ -324,19 +324,19 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ011PSC, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512",
           "barkod": "199273478859",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP 15-fc0277nm, CZ9C6EA, 39.6 cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD",
           "barkod": "0199764771070",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop HP 250R G10 D13J5ET, 39.6 cm (15.6\"), Intel Core 5-120U, 16 GB RAM, 512 GB SSD, Intel Graphics, Windows",
           "barkod": "199896044332",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS TUF Gaming A16, FA607NUG-RL142, 40.6cm A00 (16\") FHD+ WUXGA 144Hz, AMD Ryzen 7 7445HS, 16 GB",
