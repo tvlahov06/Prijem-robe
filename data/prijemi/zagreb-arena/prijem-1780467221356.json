@@ -5,7 +5,7 @@
   "datum": "2026-06-03",
   "status": "aktivan",
   "kreirano": "2026-06-03T06:13:41.356Z",
-  "azurirano": "2026-06-05T07:24:04.866Z",
+  "azurirano": "2026-06-05T07:24:11.695Z",
   "dokumenti": [
     {
       "naziv": "MSI 3542-101",
@@ -566,7 +566,7 @@
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
           "barkod": "8720389032370",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
@@ -590,7 +590,7 @@
           "naziv": "Parna postaja Philips PSG8300/80",
           "barkod": "8720389066504",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
