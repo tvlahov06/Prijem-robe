@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T08:18:38.879Z",
-  "azurirano": "2026-06-05T08:25:27.079Z",
+  "azurirano": "2026-06-05T08:29:55.089Z",
   "dokumenti": [
     {
       "naziv": "MSI 3565-101",
@@ -497,7 +497,7 @@
           "naziv": "Uvijac za kosu Philips BHA310/00",
           "barkod": "8720689002790",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
@@ -946,7 +946,7 @@
           "naziv": "Vrecice za usisavac Bosch BBZ16GALL 16 kom",
           "barkod": "4242005076581",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Braun SI5277GR New Texstyle 5",
@@ -1006,7 +1006,7 @@
           "naziv": "Aparat za kavu Krups KP440E10 Genio S touch silver",
           "barkod": "3016661158773",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "252420 Usisavac stapni Gorenje SVC252420FFA FFA",
@@ -1048,13 +1048,13 @@
           "naziv": "Aparat za kavu DeLonghi EC 235.CR",
           "barkod": "8004399025738",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Tefal HB643138",
           "barkod": "3016661150036",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Kenwood KVC65.001WH Titanium Chef Baker Lite",
@@ -1084,7 +1084,7 @@
           "naziv": "Mikser rucni Bosch MFQ40301 Styline Colour vanilija/srebrna",
           "barkod": "4242002777290",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BGC21POW1 ProPower, crni",
