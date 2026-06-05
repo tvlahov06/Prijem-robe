@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T10:14:37.911Z",
-  "azurirano": "2026-06-05T13:33:10.001Z",
+  "azurirano": "2026-06-05T13:33:43.162Z",
   "dokumenti": [
     {
       "naziv": "MSI 3560-101",
@@ -230,13 +230,13 @@
           "naziv": "3-276 Epilator Braun SE3-276*",
           "barkod": "4210201423461",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "5-516 Epilator Braun SE5-516*",
           "barkod": "4210201423584",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Epilator Braun SE7-041*",
