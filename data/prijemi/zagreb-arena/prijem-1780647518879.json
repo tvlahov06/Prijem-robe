@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T08:18:38.879Z",
-  "azurirano": "2026-06-05T09:39:45.876Z",
+  "azurirano": "2026-06-05T09:40:22.074Z",
   "dokumenti": [
     {
       "naziv": "MSI 3565-101",
@@ -720,7 +720,7 @@
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-1000XM6/L",
           "barkod": "4548736162716",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Volan Logitech G923 Driving force + Shifter Logitech Driving Force",
@@ -1251,7 +1251,7 @@
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-1000XM6/L",
           "barkod": "4548736162716",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
