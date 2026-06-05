@@ -5,43 +5,8 @@
   "datum": "2026-06-04",
   "status": "aktivan",
   "kreirano": "2026-06-04T20:17:18.091Z",
-  "azurirano": "2026-06-05T07:05:53.822Z",
+  "azurirano": "2026-06-05T07:05:55.854Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 3605-101",
-      "stavke": [
-        {
-          "naziv": "Brijac za glavu Philips HS5980/15",
-          "barkod": "8720689044264",
-          "ocekivano": 12,
-          "skenirano": 12
-        },
-        {
-          "naziv": "Brijac za glavu Philips HS7980/15",
-          "barkod": "8720689044257",
-          "ocekivano": 16,
-          "skenirano": 16
-        },
-        {
-          "naziv": "Brijac za tijelo Philips BG3480/15",
-          "barkod": "8720689026871",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Brijac za tijelo Philips BG5480/15",
-          "barkod": "8720689027076",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uvijac za kosu Philips BHA310/00",
-          "barkod": "8720689002790",
-          "ocekivano": 2,
-          "skenirano": 2
-        }
-      ]
-    },
     {
       "naziv": "MSI 3606-101",
       "stavke": [
