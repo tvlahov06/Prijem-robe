@@ -5,7 +5,7 @@
   "datum": "2026-06-03",
   "status": "aktivan",
   "kreirano": "2026-06-03T06:13:41.356Z",
-  "azurirano": "2026-06-05T07:22:25.254Z",
+  "azurirano": "2026-06-05T07:22:36.818Z",
   "dokumenti": [
     {
       "naziv": "MSI 3542-101",
@@ -1073,13 +1073,13 @@
           "naziv": "Samsung Galaxy Buds3 FE slusalice sive UC",
           "barkod": "8806097621249",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Samsung Galaxy Buds3 FE slusalice crne UC",
           "barkod": "8806097621034",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Apple EarPods (USB-C)",
