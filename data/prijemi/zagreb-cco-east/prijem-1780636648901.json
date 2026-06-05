@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T05:17:28.901Z",
-  "azurirano": "2026-06-05T05:38:16.258Z",
+  "azurirano": "2026-06-05T05:38:35.872Z",
   "dokumenti": [
     {
       "naziv": "MSI 3594-101",
@@ -396,25 +396,25 @@
           "naziv": "Monitor 23.8\" ACER SA242YH1, UM.QS2EE.109, VA Full HD, 100Hz, 4ms, ZeroFrame, VGA, HDMI",
           "barkod": "4711474688774",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor gaming Xiaomi Mi G27I",
           "barkod": "6941948701403",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 23.8\" Acer Nitro XF240YM3, UM.QX0EE.315, 180Hz, IPS, FHD",
           "barkod": "4711121692598",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP Envy 6110e All-in-One (714J3B) Color Inkjet MF pisac - Print, Scan, Copy, Mobile Fax, Duplex, Wi-Fi, USB, A4 -",
           "barkod": "197498438979",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "EPSON EcoTank L6360 MFP Black 35/23ppm A4 Wi-fi Duplex All-In-One Ink Tank Print Scan Copy",
@@ -508,7 +508,7 @@
           "naziv": "Multipraktik Kenwood FDM73.850SS MultiPro Onetouch",
           "barkod": "5011423007755",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
