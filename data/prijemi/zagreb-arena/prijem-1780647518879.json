@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T08:18:38.879Z",
-  "azurirano": "2026-06-05T11:01:13.356Z",
+  "azurirano": "2026-06-05T11:01:17.291Z",
   "dokumenti": [
     {
       "naziv": "MSI 3565-101",
@@ -857,7 +857,7 @@
           "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
           "barkod": "8004399021396",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
@@ -923,7 +923,7 @@
           "naziv": "Aparat za kavu Lavazza A Modo Mio Jolie Evo crvena",
           "barkod": "8000070073531",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 890.M Dedica Duo",
