@@ -5,7 +5,7 @@
   "datum": "2026-06-05",
   "status": "aktivan",
   "kreirano": "2026-06-05T08:18:38.879Z",
-  "azurirano": "2026-06-05T08:43:44.801Z",
+  "azurirano": "2026-06-05T08:53:46.461Z",
   "dokumenti": [
     {
       "naziv": "MSI 3565-101",
@@ -970,7 +970,7 @@
           "naziv": "Usisavac Philips FC9747/09",
           "barkod": "8710103977957",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Multipraktik Bosch MCM3100W MultiTalent 3",
