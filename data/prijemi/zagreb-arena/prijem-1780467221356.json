@@ -5,7 +5,7 @@
   "datum": "2026-06-03",
   "status": "aktivan",
   "kreirano": "2026-06-03T06:13:41.356Z",
-  "azurirano": "2026-06-05T07:22:57.068Z",
+  "azurirano": "2026-06-05T07:24:04.866Z",
   "dokumenti": [
     {
       "naziv": "MSI 3542-101",
@@ -584,7 +584,7 @@
           "naziv": "Aparat za kavu Philips EP5549/70 espresso",
           "barkod": "8720389032271",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8300/80",
@@ -650,7 +650,7 @@
           "naziv": "Aparat za kavu Philips EP4449/70 espresso",
           "barkod": "8720389032196",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
