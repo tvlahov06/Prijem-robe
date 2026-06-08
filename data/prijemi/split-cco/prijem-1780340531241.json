@@ -2,10 +2,10 @@
   "id": "prijem-1780340531241",
   "poslovnica": "split-cco",
   "naziv": "",
-  "datum": "2026-06-04",
+  "datum": "2026-06-08",
   "status": "aktivan",
-  "kreirano": "2026-06-04T20:17:18.091Z",
-  "azurirano": "2026-06-08T14:56:55.789Z",
+  "kreirano": "2026-06-08T14:57:07.310Z",
+  "azurirano": "2026-06-08T14:57:07.310Z",
   "dokumenti": [
     {
       "naziv": "MSI 3633-101",
@@ -14,6 +14,541 @@
           "naziv": "TV SAMSUNG QE50Q7FAAUXXH, 127.0cm (50\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097118541",
           "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3644-101",
+      "stavke": [
+        {
+          "naziv": "Punjac Samsung EP-T6010 60W Fast Charge USB-C crni bez kabela",
+          "barkod": "8806097735618",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi",
+          "barkod": "8806099028114",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 46mm Black (Vili-B19F)",
+          "barkod": "6942103132001",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch Ultra LTE srebrni (2025)",
+          "barkod": "8806097625377",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB crni",
+          "barkod": "8806097827221",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Autopunjac Samsung L4020 Duo 25W i 15W Fast Charge USB-C i USB A crni i bez kabela",
+          "barkod": "8806094000795",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM svijetlo plavi",
+          "barkod": "8806099025915",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM ljubicasti",
+          "barkod": "8806099025786",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Cosmic Orange",
+          "barkod": "195950627398",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Book Cover za Samsung Galaxy Tab A11+ crni",
+          "barkod": "8806097850359",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
+          "barkod": "195950627596",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
+          "barkod": "6942103168253",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
+          "barkod": "6942103168239",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
+          "barkod": "195950627190",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Blue",
+          "barkod": "195950086409",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE 3 GPS 40mm Starlight Aluminium Case with Starlight Sport Band - S/M",
+          "barkod": "195950645644",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Fit 5 crni (Niki-B19F)",
+          "barkod": "6942103189685",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11 WiFi 64GB sivi",
+          "barkod": "8806097781943",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/256GB dual SIM tamnoplavi",
+          "barkod": "8806099028244",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 42mm Rose Gold Aluminium Case with Light Blush Sport Band - S/M",
+          "barkod": "195950619126",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Pink",
+          "barkod": "195950086867",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Fit3 rozi",
+          "barkod": "8806095362151",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
+          "barkod": "6942103168246",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Rugged maska za Samsung Galaxy S26 Ultra crna",
+          "barkod": "8806097880080",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 42mm Jet Black Aluminium Case with Black Sport Band - S/M",
+          "barkod": "195950631371",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch8 44mm srebrni",
+          "barkod": "8806097415602",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung SM-X730 Galaxy Tab S11 12GB/256GB WiFi sivi",
+          "barkod": "8806097712268",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni Marine remen za Samsung Galaxy Watch Ultra zeleni",
+          "barkod": "8806095630786",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Fit 4 bijeli (Seiya-B19F)",
+          "barkod": "6942103155024",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple 60W USB-C Charge Cable (1m)",
+          "barkod": "195949371905",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch8 40mm tamno sivi",
+          "barkod": "8806097415817",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Book Cover s tipkovnicom za Samsung Galaxy Tab S11 crni",
+          "barkod": "8806097734956",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei GT Runner 2 (Chitu-B19FB) 43,5mm Midnight Black",
+          "barkod": "6942103185595",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3655-101",
+      "stavke": [
+        {
+          "naziv": "Usisavac Dyson V10 Absolute",
+          "barkod": "5025155088081",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V12 Detect Slim Absolute",
+          "barkod": "5025155088180",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson dodatak Pet Cleaning Kit",
+          "barkod": "5025155074398",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dyson ventilator AM12 Cool CF1 (602807) White/Silver",
+          "barkod": "5025155115398",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Dyson Supersonic Nural HD16 Velvet Red/Gold Straight+Wavy",
+          "barkod": "5025155133064",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dyson ventilator, grije i hladi, Hot + Cool HF1",
+          "barkod": "5025155111918",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
+          "barkod": "8006447002135",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003W Portable bijeli",
+          "barkod": "8006447002098",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003MA Portable magenta",
+          "barkod": "8006447002128",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003NBL Portable plavi",
+          "barkod": "8006447002111",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBF500DG Full Size Combo",
+          "barkod": "8006447000209",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
+          "barkod": "8006447002166",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907MACL 900W",
+          "barkod": "8006447003002",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907MAJD 900W",
+          "barkod": "8006447003033",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907MASL 900W",
+          "barkod": "8006447003026",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907MASN 900W",
+          "barkod": "8006447003019",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907S 900W",
+          "barkod": "8006447002487",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206GO-MC 1200W McLaren F1 Team Ultra",
+          "barkod": "8006447003965",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206S PRO 1200W",
+          "barkod": "8006447003323",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3656-101",
+      "stavke": [
+        {
+          "naziv": "Assassin's Creed Origins Standard Edition PS4 C27",
+          "barkod": "3307216025788",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Lego Ninjago Movie Videogame PS4 C36 S4",
+          "barkod": "5051892206624",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC Y compatible) sivi",
+          "barkod": "3499550360776",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Call of Duty: Modern Warfare PS4 B39",
+          "barkod": "5030917285318",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Last of Us 2 Standard Edition PS4 D25",
+          "barkod": "711719330004",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Far Cry 6 Standard Edition PS4 E38",
+          "barkod": "3307216170761",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Media Remote",
+          "barkod": "711719801122",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assassins's Creed Valhalla Standard Edition PS5 G38",
+          "barkod": "3307216174172",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation VR2",
+          "barkod": "711719453994",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hogwarts Legacy Switch A37",
+          "barkod": "5051895414910",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mortal Kombat 1 Switch C12",
+          "barkod": "5051895416716",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Vertical Stand",
+          "barkod": "711719579540",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Disc Drive (Slim D chassis)",
+          "barkod": "711719580584",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation Portal remote player Midnight Black",
+          "barkod": "711719593171",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MotoGP 25 Day1 Edition Switch",
+          "barkod": "8056216170350",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hogwarts Legacy Switch 2",
+          "barkod": "5051895418611",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EA SPORTS FC 26 Switch 2",
+          "barkod": "5035223125426",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Explore wireless earbuds+",
+          "barkod": "711719598503",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Resident Evil 9 Requiem Switch 2",
+          "barkod": "5055060993309",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lego Batman Legacy Of The Dark Knight PS5",
+          "barkod": "5051895419410",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Red Dead Redemption HD PS5",
+          "barkod": "5026555439435",
+          "ocekivano": 8,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3657-101",
+      "stavke": [
+        {
+          "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "198828789556",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer HP LaserJet M110w",
+          "barkod": "194850676970",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer Epson L3270 EcoTank",
+          "barkod": "8715946727097",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Vivobook 15, M1502NAQ-BQ049, 39.6 cm 7V0 (15,6\") Full HD, AMD Ryzen 7 170, 16 GB RAM, 512 GB",
+          "barkod": "4711636350457",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA2786, 39.6cm FB0 (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
+          "barkod": "4711636470988",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming A16 FA607NUQ-RL014, 40.6cm 4L0 (16\") IPS, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, AMD",
+          "barkod": "4711636446716",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Zenbook 14 UX3405CA-ST1439W, 35.6cm 3M0 (14\") OLED 3K, Intel Core Ultra 7-255H, 32GB RAM, 1TB",
+          "barkod": "4711636496483",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming A16 FA608UMI-TU167W, 40.6cm L40 (16\") IPS, AMD Ryzen 7 260, 16GB RAM, 512GB SSD, AMD",
+          "barkod": "4711636546690",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Neo Blush, mhfj4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
+          "barkod": "195950853988",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Neo Silver, mhfc4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
+          "barkod": "195950851168",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3698-101",
+      "stavke": [
+        {
+          "naziv": "Laptop HP 255 G10, AL0A9AT, 39,6 cm (15.6\") Full HD, 1P AMD Ryzen 5 7530U, 16 GB RAM, 512GB SSD, AMD",
+          "barkod": "2010030201313",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop LENOVO V15 G5, 83GW00AJSC, 39.6cm (15.6\") IPS W11P Full HD, Intel Core i7-13620H, 32 GB RAM, 1 TB SSD, Intel",
+          "barkod": "2010031308073",
+          "ocekivano": 2,
           "skenirano": 0
         }
       ]
