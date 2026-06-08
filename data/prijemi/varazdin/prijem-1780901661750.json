@@ -5,7 +5,7 @@
   "datum": "2026-06-08",
   "status": "aktivan",
   "kreirano": "2026-06-08T06:54:21.750Z",
-  "azurirano": "2026-06-08T07:26:24.842Z",
+  "azurirano": "2026-06-08T07:26:44.242Z",
   "dokumenti": [
     {
       "naziv": "MSI 3597-101",
@@ -601,7 +601,7 @@
           "naziv": "SBOX kabel HDMI - 1,4, 5m",
           "barkod": "3880000161492",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
