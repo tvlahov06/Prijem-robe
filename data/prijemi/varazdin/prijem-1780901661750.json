@@ -5,7 +5,7 @@
   "datum": "2026-06-08",
   "status": "aktivan",
   "kreirano": "2026-06-08T06:54:21.750Z",
-  "azurirano": "2026-06-08T07:05:48.214Z",
+  "azurirano": "2026-06-08T07:05:58.570Z",
   "dokumenti": [
     {
       "naziv": "MSI 3597-101",
@@ -38,7 +38,7 @@
           "naziv": "Logitech, gaming G733, bijele",
           "barkod": "5099206089532",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Volan Logitech G923 Driving force + Shifter Logitech Driving Force",
@@ -50,7 +50,7 @@
           "naziv": "Slusalice Logitech G733, gaming, RGB, bezicne, crne",
           "barkod": "5099206088719",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Volan LOGITECH G G29 + mjenjac",
@@ -92,7 +92,7 @@
           "naziv": "Mis LOGITECH Gaming G502 X, opticki, 25600dpi, USB, crni",
           "barkod": "5099206096295",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech G PRO X Superlight 2, bijeli",
