@@ -5,7 +5,7 @@
   "datum": "2026-06-09",
   "status": "aktivan",
   "kreirano": "2026-06-09T06:48:22.207Z",
-  "azurirano": "2026-06-09T08:07:10.868Z",
+  "azurirano": "2026-06-09T08:07:20.232Z",
   "dokumenti": [
     {
       "naziv": "MSI 3699-101",
@@ -196,13 +196,13 @@
           "naziv": "Blender Nutribullet NBP003W Portable bijeli",
           "barkod": "8006447002098",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NBP003NBL Portable plavi",
           "barkod": "8006447002111",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Blender Nutribullet NBF500DG Full Size Combo",
