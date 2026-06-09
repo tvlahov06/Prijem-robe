@@ -5,7 +5,7 @@
   "datum": "2026-06-09",
   "status": "aktivan",
   "kreirano": "2026-06-09T06:48:22.207Z",
-  "azurirano": "2026-06-09T08:41:59.186Z",
+  "azurirano": "2026-06-09T08:42:25.898Z",
   "dokumenti": [
     {
       "naziv": "MSI 3699-101",
@@ -678,53 +678,6 @@
           "barkod": "2010031308073",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3686-101",
-      "stavke": [
-        {
-          "naziv": "Lego City Undercover PS4 B35",
-          "barkod": "5051892203937",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Assassin's Creed Odyssey Standard Edition PS4 G26",
-          "barkod": "3307216063834",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uncharted Collection HITS PS4 B37",
-          "barkod": "711719710516",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "PS5 Media Remote",
-          "barkod": "711719801122",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "PlayStation Portal remote player Midnight Black",
-          "barkod": "711719593171",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "Lego Batman Legacy Of The Dark Knight PS5",
-          "barkod": "5051895419410",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Red Dead Redemption HD PS5",
-          "barkod": "5026555439435",
-          "ocekivano": 4,
-          "skenirano": 4
         }
       ]
     }
