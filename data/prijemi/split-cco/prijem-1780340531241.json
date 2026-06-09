@@ -5,7 +5,7 @@
   "datum": "2026-06-08",
   "status": "aktivan",
   "kreirano": "2026-06-08T14:57:07.310Z",
-  "azurirano": "2026-06-09T05:56:45.066Z",
+  "azurirano": "2026-06-09T05:56:56.624Z",
   "dokumenti": [
     {
       "naziv": "MSI 3633-101",
@@ -484,7 +484,7 @@
           "naziv": "Printer HP LaserJet M110w",
           "barkod": "194850676970",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer Epson L3270 EcoTank",
