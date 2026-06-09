@@ -5,7 +5,7 @@
   "datum": "2026-06-08",
   "status": "aktivan",
   "kreirano": "2026-06-08T14:34:02.719Z",
-  "azurirano": "2026-06-09T05:24:28.848Z",
+  "azurirano": "2026-06-09T05:24:39.483Z",
   "dokumenti": [
     {
       "naziv": "MSI 3631-101",
@@ -507,7 +507,7 @@
           "naziv": "Usisavac robot Dyson Spot+Scrub Ai Black/Blue",
           "barkod": "5025155121962",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V12 Detect Slim Absolute",
