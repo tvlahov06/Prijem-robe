@@ -5,7 +5,7 @@
   "datum": "2026-06-08",
   "status": "aktivan",
   "kreirano": "2026-06-08T14:34:02.719Z",
-  "azurirano": "2026-06-09T05:27:03.795Z",
+  "azurirano": "2026-06-09T05:27:17.904Z",
   "dokumenti": [
     {
       "naziv": "MSI 3631-101",
@@ -555,7 +555,7 @@
           "naziv": "Blender Nutribullet NB907MACL 900W",
           "barkod": "8006447003002",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Blender Nutribullet NB907MAJD 900W",
@@ -567,13 +567,13 @@
           "naziv": "Blender Nutribullet NB907MASL 900W",
           "barkod": "8006447003026",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907MASN 900W",
           "barkod": "8006447003019",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NBP003PU Portable ljubicasti",
