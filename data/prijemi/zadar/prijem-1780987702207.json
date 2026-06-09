@@ -5,7 +5,7 @@
   "datum": "2026-06-09",
   "status": "aktivan",
   "kreirano": "2026-06-09T06:48:22.207Z",
-  "azurirano": "2026-06-09T07:06:24.555Z",
+  "azurirano": "2026-06-09T07:06:26.907Z",
   "dokumenti": [
     {
       "naziv": "MSI 3699-101",
@@ -624,7 +624,7 @@
           "naziv": "Ploca ugradbena Bosch PIX631HC1E",
           "barkod": "4242005394111",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena indukcija Gorenje GI6421BSC",
