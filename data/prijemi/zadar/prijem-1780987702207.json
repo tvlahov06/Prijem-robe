@@ -5,7 +5,7 @@
   "datum": "2026-06-09",
   "status": "aktivan",
   "kreirano": "2026-06-09T06:48:22.207Z",
-  "azurirano": "2026-06-09T07:34:41.307Z",
+  "azurirano": "2026-06-09T07:34:46.659Z",
   "dokumenti": [
     {
       "naziv": "MSI 3699-101",
@@ -404,7 +404,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
           "barkod": "6942103168239",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
@@ -428,7 +428,7 @@
           "naziv": "Pametni sat Huawei Watch Fit 5 crni (Niki-B19F)",
           "barkod": "6942103189685",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametna narukvica Huawei Band 10 (Nora-B19F) Black",
