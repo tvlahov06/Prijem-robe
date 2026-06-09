@@ -5,7 +5,7 @@
   "datum": "2026-06-09",
   "status": "aktivan",
   "kreirano": "2026-06-09T06:48:22.207Z",
-  "azurirano": "2026-06-09T08:45:08.360Z",
+  "azurirano": "2026-06-09T08:45:11.976Z",
   "dokumenti": [
     {
       "naziv": "MSI 3700-101",
@@ -145,89 +145,6 @@
           "barkod": "8006447003019",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3638-101",
-      "stavke": [
-        {
-          "naziv": "TV SAMSUNG QE50Q7FAAUXXH, 127.0cm (50\"), QLED, 4K H UHD Smart TV, Tizen OS",
-          "barkod": "8806097118541",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV PHILIPS 50PUS7000, 127.0cm (50\"), LED, UHD 4K Smart TV",
-          "barkod": "8718863046029",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV LG OLED48C51LA 121.9cm (48\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
-          "barkod": "8806096353837",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV SAMSUNG UE50U8092FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
-          "barkod": "8806097068563",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
-          "barkod": "8806097067672",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
-          "barkod": "8806097118565",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV SAMSUNG UE43U8092FUXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
-          "barkod": "8806097068556",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV SONY K50S35B.CEI, 127cm (50\"), Direct LED, 4K UHD SMART TV, Android TV",
-          "barkod": "4548736167995",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV PHILIPS 65PUS9010, 165.1cm (65\"), QLED, UHD 4K 120Hz, Smart TV, Titan OS - Ambilight",
-          "barkod": "8718863046432",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV HISENSE 40A5S, 101.6cm (40\"), Hi-QLED, FHD Smart TV, VIDAA OS",
-          "barkod": "6942351429632",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV HISENSE 32A5S, 81.3cm (32\"), Hi-QLED, FHD Smart TV, VIDAA OS",
-          "barkod": "6942351429441",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV HISENSE 65E8S, 165.1cm (65\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351434773",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Soundbar Hisense HS2100",
-          "barkod": "6942147497937",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     },
