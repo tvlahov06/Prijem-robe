@@ -5,7 +5,7 @@
   "datum": "2026-06-08",
   "status": "aktivan",
   "kreirano": "2026-06-08T14:57:07.310Z",
-  "azurirano": "2026-06-09T06:01:35.890Z",
+  "azurirano": "2026-06-09T06:06:53.595Z",
   "dokumenti": [
     {
       "naziv": "MSI 3633-101",
@@ -533,23 +533,6 @@
           "barkod": "195950851168",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3698-101",
-      "stavke": [
-        {
-          "naziv": "Laptop HP 255 G10, AL0A9AT, 39,6 cm (15.6\") Full HD, 1P AMD Ryzen 5 7530U, 16 GB RAM, 512GB SSD, AMD",
-          "barkod": "2010030201313",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop LENOVO V15 G5, 83GW00AJSC, 39.6cm (15.6\") IPS W11P Full HD, Intel Core i7-13620H, 32 GB RAM, 1 TB SSD, Intel",
-          "barkod": "2010031308073",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     }
