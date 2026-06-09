@@ -5,7 +5,7 @@
   "datum": "2026-06-09",
   "status": "aktivan",
   "kreirano": "2026-06-09T06:48:22.207Z",
-  "azurirano": "2026-06-09T07:10:19.195Z",
+  "azurirano": "2026-06-09T07:10:23.253Z",
   "dokumenti": [
     {
       "naziv": "MSI 3699-101",
@@ -126,7 +126,7 @@
           "naziv": "Pecnica ugradbena Gorenje BPS6737E04DBG",
           "barkod": "3838782755217",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -630,7 +630,7 @@
           "naziv": "Ploca ugradbena indukcija Gorenje GI6421BSC",
           "barkod": "3838782779992",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena indukcija GORENJE GI6442BSCWF",
