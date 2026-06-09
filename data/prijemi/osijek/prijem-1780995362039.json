@@ -5,7 +5,7 @@
   "datum": "2026-06-09",
   "status": "aktivan",
   "kreirano": "2026-06-09T08:56:02.039Z",
-  "azurirano": "2026-06-09T09:23:20.285Z",
+  "azurirano": "2026-06-09T09:25:04.085Z",
   "dokumenti": [
     {
       "naziv": "MSI 3648-101",
@@ -80,13 +80,13 @@
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM svijetlo plavi",
           "barkod": "8806099025915",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Cosmic Orange",
           "barkod": "195950627398",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Book Cover za Samsung Galaxy Tab A11+ crni",
@@ -98,7 +98,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
           "barkod": "195950627596",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
@@ -116,7 +116,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
           "barkod": "195950627190",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Blue",
@@ -206,7 +206,7 @@
           "naziv": "Mobitel Apple iPhone 17 256GB White",
           "barkod": "195950643732",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB srebrni",
