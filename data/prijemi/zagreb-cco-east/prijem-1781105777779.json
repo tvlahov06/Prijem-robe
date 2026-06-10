@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T15:36:17.779Z",
-  "azurirano": "2026-06-10T15:38:14.791Z",
+  "azurirano": "2026-06-10T15:38:35.075Z",
   "dokumenti": [
     {
       "naziv": "Knjiga1",
@@ -14,13 +14,13 @@
           "naziv": "SBOX kabel DP-Mini DP M/M 2m 4K/60Hz",
           "barkod": "0616320535315",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX kabel HDMI - Mini DP M/M 2M",
           "barkod": "0616320535155",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Organizator kablova SBOX CC-1113 Crni",
@@ -62,7 +62,7 @@
           "naziv": "SBOX audio kabel 2 x RCA Muski -> 2 x RCA Muski, 1,5 M",
           "barkod": "8697671414285",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "SBOX kabel HDMI-DISPLAY PORT M/M 2m",
