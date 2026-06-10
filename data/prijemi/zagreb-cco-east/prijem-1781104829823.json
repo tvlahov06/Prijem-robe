@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T15:20:29.823Z",
-  "azurirano": "2026-06-10T15:27:27.543Z",
+  "azurirano": "2026-06-10T15:27:53.669Z",
   "dokumenti": [
     {
       "naziv": "SBOX - ažurirano",
@@ -80,7 +80,7 @@
           "naziv": "KABEL SBOX 3,5mm M.-3,5mm M. 0.5M",
           "barkod": "3858894502028",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "DALJINSKI SBOX RC-01402 za Sony televizore",
@@ -98,7 +98,7 @@
           "naziv": "Kabel HDMI Muski - MICRO HDMI Muski 1.4, 2 m",
           "barkod": "3880000360611",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "SBOX kabel HDMI- DVI (24+1) M/M 2m",
@@ -290,7 +290,7 @@
           "naziv": "SBOX KABEL USB 3.0 -> USB 3.0 TYPE C M/M 1M",
           "barkod": "0616320534691",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX HDMI SPLITTER HDMI-1.4 8 Ulaza",
