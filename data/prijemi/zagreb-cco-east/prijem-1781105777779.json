@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T15:36:17.779Z",
-  "azurirano": "2026-06-10T15:40:39.775Z",
+  "azurirano": "2026-06-10T15:41:07.385Z",
   "dokumenti": [
     {
       "naziv": "Knjiga1",
@@ -56,7 +56,7 @@
           "naziv": "SBOX kabel RF M/F 10m",
           "barkod": "616320537272",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX audio kabel 2 x RCA Muski -> 2 x RCA Muski, 1,5 M",
