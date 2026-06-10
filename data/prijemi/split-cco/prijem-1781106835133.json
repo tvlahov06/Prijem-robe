@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T15:53:55.133Z",
-  "azurirano": "2026-06-10T18:43:55.208Z",
+  "azurirano": "2026-06-10T18:44:17.160Z",
   "dokumenti": [
     {
       "naziv": "MSI 3715-101",
@@ -120,43 +120,43 @@
           "naziv": "TV PHILIPS 32PHS5500, 81.3cm (32\"), LED, HD",
           "barkod": "8718863048160",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 40A5S, 101.6cm (40\"), Hi-QLED, FHD Smart TV, VIDAA OS",
           "barkod": "6942351429632",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 50A6S, 127cm (50\"), DLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351430263",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "PRO TV HISENSE 43E7S PRO, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351432410",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 43A6S, 109.2cm (43\"), DLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351430102",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 43PUS7810, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS",
           "barkod": "8718863046159",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "PRO TV HISENSE 50E7S PRO, 127cm (50\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351432977",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE50QN80FAUXXH, 127.0cm (50\"), QLED, XH 4K UHD Smart TV, Tizen OS",
@@ -168,7 +168,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
@@ -186,7 +186,7 @@
           "naziv": "TV LG 43UA75003LA 109.2cm (43\"), LED, 4K UHD Smart TV, webOS",
           "barkod": "8806096352793",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 55MLED820, 139.7cm (55\"), LED, UHD 4K Smart TV, Titan OS",
