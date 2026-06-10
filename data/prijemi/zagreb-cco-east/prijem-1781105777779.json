@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T15:36:17.779Z",
-  "azurirano": "2026-06-10T15:41:51.796Z",
+  "azurirano": "2026-06-10T15:41:58.930Z",
   "dokumenti": [
     {
       "naziv": "Knjiga1",
@@ -56,7 +56,7 @@
           "naziv": "SBOX kabel RF M/F 10m",
           "barkod": "616320537272",
           "ocekivano": 6,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "SBOX audio kabel 2 x RCA Muski -> 2 x RCA Muski, 1,5 M",
@@ -110,7 +110,7 @@
           "naziv": "ADAPTER SBOX F F - RF M",
           "barkod": "0616320536503",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX MIKROFON PM-402",
