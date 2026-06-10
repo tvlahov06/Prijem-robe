@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T15:36:17.779Z",
-  "azurirano": "2026-06-10T15:42:49.727Z",
+  "azurirano": "2026-06-10T15:43:17.614Z",
   "dokumenti": [
     {
       "naziv": "Knjiga1",
@@ -38,7 +38,7 @@
           "naziv": "SBOX kabel HDMI-HDMI 1.4 M/M 15m",
           "barkod": "616320530518",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "SBOX kabel HDMI - 1,4, 10m",
@@ -104,7 +104,7 @@
           "naziv": "DALJINSKI SBOX RC-01405 za Hisense televizore",
           "barkod": "3858894502233",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ADAPTER SBOX F F - RF M",
