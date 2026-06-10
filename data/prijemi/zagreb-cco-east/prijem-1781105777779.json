@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T15:36:17.779Z",
-  "azurirano": "2026-06-10T15:40:19.989Z",
+  "azurirano": "2026-06-10T15:40:27.077Z",
   "dokumenti": [
     {
       "naziv": "Knjiga1",
@@ -14,7 +14,7 @@
           "naziv": "SBOX kabel DP-Mini DP M/M 2m 4K/60Hz",
           "barkod": "0616320535315",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "SBOX kabel HDMI - Mini DP M/M 2M",
@@ -74,7 +74,7 @@
           "naziv": "KABEL SBOX 3,5mm M.-3,5mm M. 0.5M",
           "barkod": "3858894502028",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "DALJINSKI SBOX RC-01402 za Sony televizore",
