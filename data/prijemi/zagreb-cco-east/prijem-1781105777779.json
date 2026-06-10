@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T15:36:17.779Z",
-  "azurirano": "2026-06-10T15:41:42.989Z",
+  "azurirano": "2026-06-10T15:41:51.796Z",
   "dokumenti": [
     {
       "naziv": "Knjiga1",
@@ -38,13 +38,13 @@
           "naziv": "SBOX kabel HDMI-HDMI 1.4 M/M 15m",
           "barkod": "616320530518",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX kabel HDMI - 1,4, 10m",
           "barkod": "3880000160518",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "SBOX kabel HDMI-HDMI 2.0 M/M 10m 4K",
