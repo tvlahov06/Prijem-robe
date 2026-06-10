@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T07:00:34.855Z",
-  "azurirano": "2026-06-10T08:28:39.187Z",
+  "azurirano": "2026-06-10T08:28:53.266Z",
   "dokumenti": [
     {
       "naziv": "MSI 3706-101",
@@ -226,17 +226,6 @@
           "barkod": "4711636350457",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3673-101",
-      "stavke": [
-        {
-          "naziv": "Brijac za glavu Remington XR1600",
-          "barkod": "5038061144017",
-          "ocekivano": 4,
-          "skenirano": 4
         }
       ]
     },
