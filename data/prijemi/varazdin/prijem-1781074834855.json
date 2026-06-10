@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T07:00:34.855Z",
-  "azurirano": "2026-06-10T08:27:27.292Z",
+  "azurirano": "2026-06-10T08:27:45.012Z",
   "dokumenti": [
     {
       "naziv": "MSI 3706-101",
@@ -226,83 +226,6 @@
           "barkod": "4711636350457",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3670-101",
-      "stavke": [
-        {
-          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC E compatible) plavi",
-          "barkod": "3499550360684",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC ANGE compatible) narancasti",
-          "barkod": "3499550360745",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Assassin's Creed Odyssey Standard Edition PS4 G26",
-          "barkod": "3307216063834",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "PS5 Media Remote",
-          "barkod": "711719801122",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "PlayStation VR2",
-          "barkod": "711719453994",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "PlayStation Portal remote player",
-          "barkod": "711719582267",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PS5 Disc Drive (Slim D chassis)",
-          "barkod": "711719580584",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "PlayStation VR2 PC adapter",
-          "barkod": "711719582915",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "PlayStation Portal remote player Midnight Black",
-          "barkod": "711719593171",
-          "ocekivano": 8,
-          "skenirano": 8
-        },
-        {
-          "naziv": "Nacon zastitna prijenosna kutija za PS Portal (officially UCH licensed)",
-          "barkod": "3665962028072",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Lego Batman Legacy Of The Dark Knight PS5",
-          "barkod": "5051895419410",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Red Dead Redemption HD PS5",
-          "barkod": "5026555439435",
-          "ocekivano": 4,
-          "skenirano": 4
         }
       ]
     },
