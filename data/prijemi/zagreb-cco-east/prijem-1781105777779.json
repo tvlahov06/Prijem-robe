@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T15:36:17.779Z",
-  "azurirano": "2026-06-10T15:38:01.925Z",
+  "azurirano": "2026-06-10T15:38:07.890Z",
   "dokumenti": [
     {
       "naziv": "Knjiga1",
@@ -158,7 +158,7 @@
           "naziv": "SBOX kabel HDMI 1.4 M/M 20m",
           "barkod": "616320530525",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX adapter 3,5 -> 3,5 F/F",
