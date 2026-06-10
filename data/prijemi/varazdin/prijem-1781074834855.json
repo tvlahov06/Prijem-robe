@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T07:00:34.855Z",
-  "azurirano": "2026-06-10T08:30:54.483Z",
+  "azurirano": "2026-06-10T08:31:08.144Z",
   "dokumenti": [
     {
       "naziv": "MSI 3706-101",
@@ -204,59 +204,6 @@
           "barkod": "8718863046661",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3674-101",
-      "stavke": [
-        {
-          "naziv": "TV HISENSE 32A4S, 81.3cm (32\"), DLED, HD Smart TV, VIDAA OS",
-          "barkod": "6942351429205",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV HISENSE 43A6S, 109.2cm (43\"), DLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351430102",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV HISENSE 32A5S, 81.3cm (32\"), Hi-QLED, FHD Smart TV, VIDAA OS",
-          "barkod": "6942351429441",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV HISENSE 43E7S, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351430973",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV HISENSE 40A5S, 101.6cm (40\"), Hi-QLED, FHD Smart TV, VIDAA OS",
-          "barkod": "6942351429632",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PRO TV HISENSE 43E7S PRO, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351432410",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PRO TV HISENSE 55E7S PRO, 139.7cm (55\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351432779",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV HISENSE 55U7SE, 139.7cm (55\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351433677",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     }
