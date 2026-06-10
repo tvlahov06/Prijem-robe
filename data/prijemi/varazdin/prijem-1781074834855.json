@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T07:00:34.855Z",
-  "azurirano": "2026-06-10T07:54:54.823Z",
+  "azurirano": "2026-06-10T07:55:06.813Z",
   "dokumenti": [
     {
       "naziv": "MSI 3675-101",
@@ -656,13 +656,13 @@
           "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA2786, 39.6cm FB0 (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
           "barkod": "4711636470988",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15, NX.DJWEX.001, 39.6cm (15.6\") IPS FHD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB",
           "barkod": "4711474693945",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ00U1SC, 39.6cm (15.6\") IPS FHD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB",
@@ -674,7 +674,7 @@
           "naziv": "Laptop ASUS TUF Gaming A16 FA607NUQ-RL014, 40.6cm 4L0 (16\") IPS, AMD Ryzen 7 170, 16GB RAM, 512GB SSD, AMD",
           "barkod": "4711636446716",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3 83K8007WSC, 40.6cm (16\") IPS WUXGA, AMD Ryzen 7 7735HS, 16 GB RAM, 1 TB",
