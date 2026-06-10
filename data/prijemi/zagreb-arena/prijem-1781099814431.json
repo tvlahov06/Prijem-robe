@@ -1,0 +1,445 @@
+{
+  "id": "prijem-1781099814431",
+  "poslovnica": "zagreb-arena",
+  "naziv": "11.06.2026.",
+  "datum": "2026-06-10",
+  "status": "aktivan",
+  "kreirano": "2026-06-10T13:56:54.431Z",
+  "azurirano": "2026-06-10T13:56:54.431Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 3733-101",
+      "stavke": [
+        {
+          "naziv": "TV PHILIPS 50PUS7000, 127.0cm (50\"), LED, UHD 4K Smart TV",
+          "barkod": "8718863046029",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 43PUS8510, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
+          "barkod": "8718863045770",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG OLED48C51LA 121.9cm (48\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
+          "barkod": "8806096353837",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 55QNED86A3A 139.7cm (55\"), QNED, 4K UHD AEU Smart TV, webOS",
+          "barkod": "8806096309650",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG UE43U8072FUXXH, 109.2cm (43\"), LED, 4K XH UHD Smart TV, Tizen OS",
+          "barkod": "8806097067665",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 55U7SE, 139.7cm (55\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351433677",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 43E7S, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351430973",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 32PHS5500, 81.3cm (32\"), LED, HD",
+          "barkod": "8718863048160",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 55E8S, 139.7cm (55\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351434582",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 40A5S, 101.6cm (40\"), Hi-QLED, FHD Smart TV, VIDAA OS",
+          "barkod": "6942351429632",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 50A6S, 127cm (50\"), DLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351430263",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PRO TV HISENSE 43E7S PRO, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351432410",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 43A6S, 109.2cm (43\"), DLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351430102",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 43PUS7810, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS",
+          "barkod": "8718863046159",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PRO TV HISENSE 55E7S PRO, 139.7cm (55\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351432779",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PRO TV HISENSE 50E7S PRO, 127cm (50\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351432977",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE50QN80FAUXXH, 127.0cm (50\"), QLED, XH 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806095995533",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097118565",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525934",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
+          "barkod": "5901292525798",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351431420",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 43UA75003LA 109.2cm (43\"), LED, 4K UHD Smart TV, webOS",
+          "barkod": "8806096352793",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 55MLED820, 139.7cm (55\"), LED, UHD 4K Smart TV, Titan OS",
+          "barkod": "8718863046661",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3748-101",
+      "stavke": [
+        {
+          "naziv": "Klima uredaj 3,4 kW Hisense CA35LR03G/AS35LR03W 35LR03W",
+          "barkod": "6926597761732",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
+          "barkod": "6926597761725",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups SA403BE0 espresso Coffee Crush Experience Lioness",
+          "barkod": "3016661181603",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ventilator Philips CX2550/00",
+          "barkod": "8720389036842",
+          "ocekivano": 10,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3749-101",
+      "stavke": [
+        {
+          "naziv": "Sackboy A Big Adventure! PS5 B36",
+          "barkod": "711719824121",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ratchet & Clank: Rift Apart PS5 C35",
+          "barkod": "711719826699",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Minecraft Starter Collection Refresh PS4 F33",
+          "barkod": "711719704096",
+          "ocekivano": 30,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Horizon - Forbidden West Standard Edition PS5 B31",
+          "barkod": "711719720799",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gran Turismo 7 Standard Edition PS5 C31",
+          "barkod": "711719766391",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gran Turismo 7 Standard Edition PS4 G37",
+          "barkod": "711719764595",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uncharted: Legacy of Thieves Collection PS5 C24",
+          "barkod": "711719791997",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Marvel's Spider-Man 2 Standard Edition PS5 D35",
+          "barkod": "711719571698",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Last of Us Part II Remastered PS5 D28",
+          "barkod": "711719570271",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Horizon Zero Dawn Remastered PS5",
+          "barkod": "711719592761",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "007 First Light PS5",
+          "barkod": "884095225308",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Saros PS5",
+          "barkod": "711719027041",
+          "ocekivano": 8,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3750-101",
+      "stavke": [
+        {
+          "naziv": "Mop elektricni Philips XV5113/01",
+          "barkod": "8720389035975",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips XV3101/11",
+          "barkod": "8720389058707",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips dodaci XV1892/02 sredstvo za ciscenje poda",
+          "barkod": "8720389035937",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3445-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za sladoled Ninja NC302EU Creami",
+          "barkod": "0622356350884",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3677-101",
+      "stavke": [
+        {
+          "naziv": "TV SAMSUNG QE65LS03HAUXXH, 164 cm (65\") QLED, 4K XH UHD Smart TV, Tizen TV",
+          "barkod": "8806099027384",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3681-101",
+      "stavke": [
+        {
+          "naziv": "Laptop HP 255 G10, 39,6 cm (15.6\") Full HD, AMD Ryzen 5 1P 7530U, 16 GB RAM, 512GB SSD, AMD Radeon",
+          "barkod": "2010030201313",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop LENOVO V15 G5, 39.6cm (15.6\") IPS Full HD, Intel W11P Core i7-13620H, 32 GB RAM, 1 TB SSD, Intel UHD",
+          "barkod": "2010031308073",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3704-101",
+      "stavke": [
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Velvet Red/Gold Limited edition",
+          "barkod": "5025155112397",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Ceramic Pink/Rose Gold",
+          "barkod": "5025155113080",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
+          "barkod": "5025155117187",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V8 Absolute",
+          "barkod": "5025155090152",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Jasper Plum Straight+Wavy",
+          "barkod": "5025155112816",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Prussian Blue/Rich Copper",
+          "barkod": "5025155070710",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
+          "barkod": "5025155112656",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Origin Bright Nickel/Bright Copper",
+          "barkod": "5025155117729",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V15 Detect Absolute",
+          "barkod": "5025155081754",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907CP 900W",
+          "barkod": "8006447000087",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
+          "barkod": "8006447002135",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907MAW 900W",
+          "barkod": "8006447002500",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907MAB 900W",
+          "barkod": "8006447002494",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3727-101",
+      "stavke": [
+        {
+          "naziv": "Paladone Astrobot metalna boca za vodu",
+          "barkod": "5056577756821",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Astrobot Icon sat sa alarmom",
+          "barkod": "5056577751482",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Astrobot svjetiljka - Astrobot Icons",
+          "barkod": "5056577751697",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paldaone Astrobot kasica prasica",
+          "barkod": "5056577754568",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3728-101",
+      "stavke": [
+        {
+          "naziv": "Perilica rublja Gorenje WNS84A2TWIFI",
+          "barkod": "3838782858628",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
