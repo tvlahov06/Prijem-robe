@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
   "datum": "2026-06-10",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-06-10T15:53:55.133Z",
-  "azurirano": "2026-06-10T19:00:40.084Z",
+  "azurirano": "2026-06-10T19:09:07.232Z",
   "dokumenti": [
     {
       "naziv": "MSI 3715-101",
@@ -209,7 +209,7 @@
           "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB sivi",
           "barkod": "8806097855019",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A16 4GB/128GB dual SIM tamnoplavi",
@@ -221,31 +221,31 @@
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
           "barkod": "8806097651000",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
           "barkod": "6942103168185",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 Pro 46mm Black (Vili-B29F)",
           "barkod": "6942103132032",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
           "barkod": "8806097651079",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Silver",
           "barkod": "195950638844",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Carbon magnetna maska za Samsung Galaxy S26 Ultra tamno plava",
@@ -257,7 +257,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
           "barkod": "6942103168253",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zastitna Rugged maska za Samsung Galaxy S26 Ultra crna",
@@ -269,69 +269,70 @@
           "naziv": "Tablet Samsung Galaxy Tab A11+ 5G 6GB/128GB sivi",
           "barkod": "8806097859963",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange",
           "barkod": "195950639049",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
           "barkod": "6942103168239",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Dodatni Marine remen za Samsung Galaxy Watch Ultra zeleni",
           "barkod": "8806095630786",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitna Flipsuit Rugged maska za Samsung Galaxy S25 crna",
           "barkod": "8806095970608",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kozna maska za Samsung Galaxy Z Flip7 bez",
           "barkod": "8806097466499",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple 60W USB-C Charge Cable (1m)",
           "barkod": "195949371905",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 15 128GB Blue",
           "barkod": "195949036576",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Green 46mm (Atum-B19W)",
           "barkod": "6942103168178",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Watch Series 11 GPS 42mm Space Grey Aluminium Case with Black Sport Band - S/M",
           "barkod": "195950631470",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB kobalt ljubicasti",
           "barkod": "8806097827016",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-06-10T19:09:07.232Z"
 }
