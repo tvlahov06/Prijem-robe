@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T15:36:17.779Z",
-  "azurirano": "2026-06-10T15:42:01.972Z",
+  "azurirano": "2026-06-10T15:42:04.944Z",
   "dokumenti": [
     {
       "naziv": "Knjiga1",
@@ -146,7 +146,7 @@
           "naziv": "ADAPTER SBOX F F - F F Spojnica",
           "barkod": "0616320536497",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX adapter HDMI M/F 90 kutni 1,4",
