@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "",
   "datum": "2026-06-10",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-06-10T15:36:17.779Z",
-  "azurirano": "2026-06-10T15:50:32.394Z",
+  "azurirano": "2026-06-10T16:02:18.550Z",
   "dokumenti": [
     {
       "naziv": "Knjiga1",
@@ -122,7 +122,7 @@
           "naziv": "SBOX DRZAC KABLOVA CH-44",
           "barkod": "736373265509",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Punjac za HP laptope SBOX HP-65W/ 19.5V-65W",
@@ -180,5 +180,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-06-10T16:02:18.549Z"
 }
