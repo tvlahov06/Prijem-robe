@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T15:53:55.133Z",
-  "azurirano": "2026-06-10T18:43:48.015Z",
+  "azurirano": "2026-06-10T18:43:55.208Z",
   "dokumenti": [
     {
       "naziv": "MSI 3715-101",
@@ -108,7 +108,7 @@
           "naziv": "TV SONY K55XR80PAEP, 139.7cm (55\"), OLED, 4K UHD SMART TV, Android TV",
           "barkod": "4548736159778",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 43E7S, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
@@ -174,13 +174,13 @@
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
           "barkod": "5901292525798",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG OLED55C51LA 139.7cm (55\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096381885",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG 43UA75003LA 109.2cm (43\"), LED, 4K UHD Smart TV, webOS",
