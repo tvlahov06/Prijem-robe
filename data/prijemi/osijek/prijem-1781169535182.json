@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T09:18:55.182Z",
-  "azurirano": "2026-06-11T09:30:25.133Z",
+  "azurirano": "2026-06-11T09:30:32.810Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_260611112139",
@@ -32,7 +32,7 @@
           "naziv": "Logitech tipkovnica i mis Signature Slim Combo MK950 - OFF WHITE - US INT",
           "barkod": "5099206119338",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech G Pro X Superlight 2 SE",
@@ -194,7 +194,7 @@
           "naziv": "Tipkovnica Logitech G515 Lightspeed TKL white US",
           "barkod": "5099206119796",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Logitech G515 TKL black US",
@@ -212,7 +212,7 @@
           "naziv": "Tipkovnica Logitech G915 X LIGHTSPEED, gaming, LIGHTSYNC RGB, mehanicka-tactile, bezicna",
           "barkod": "5099206121669",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tipkovnica Logitech K270 bezicna, USB, crna",
