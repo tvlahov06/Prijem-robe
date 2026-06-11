@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T06:37:05.039Z",
-  "azurirano": "2026-06-11T06:40:35.152Z",
+  "azurirano": "2026-06-11T06:40:44.909Z",
   "dokumenti": [
     {
       "naziv": "MSI 3706-101",
@@ -137,7 +137,7 @@
           "naziv": "TV HISENSE 55E8S, 139.7cm (55\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351434582",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 40A5S, 101.6cm (40\"), Hi-QLED, FHD Smart TV, VIDAA OS",
@@ -173,7 +173,7 @@
           "naziv": "TV SAMSUNG QE50QN80FAUXXH, 127.0cm (50\"), QLED, XH 4K UHD Smart TV, Tizen OS",
           "barkod": "8806095995533",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
@@ -197,7 +197,7 @@
           "naziv": "TV LG 43UA75003LA 109.2cm (43\"), LED, 4K UHD Smart TV, webOS",
           "barkod": "8806096352793",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TV PHILIPS 55MLED820, 139.7cm (55\"), LED, UHD 4K Smart TV, Titan OS",
