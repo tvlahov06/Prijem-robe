@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T18:34:42.905Z",
-  "azurirano": "2026-06-11T14:57:14.374Z",
+  "azurirano": "2026-06-11T14:57:16.181Z",
   "dokumenti": [
     {
       "naziv": "MSI 3738-101",
@@ -205,71 +205,6 @@
           "barkod": "8006447002494",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "4841",
-      "stavke": [
-        {
-          "naziv": "Marvel's Spider-Man: Miles Morales PS5",
-          "barkod": "711719836025",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Sackboy A Big Adventure! PS5",
-          "barkod": "711719824121",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Minecraft Starter Collection Refresh PS4",
-          "barkod": "711719704096",
-          "ocekivano": 30,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Gran Turismo 7 Standard Edition PS5",
-          "barkod": "711719766391",
-          "ocekivano": 15,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Gran Turismo 7 Standard Edition PS4",
-          "barkod": "711719764595",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "God of War: Ragnarok PS4",
-          "barkod": "711719407492",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Marvel's Spider-Man 2 Standard Edition PS5",
-          "barkod": "711719571698",
-          "ocekivano": 15,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Horizon Zero Dawn Remastered PS5",
-          "barkod": "711719592761",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "007 First Light PS5",
-          "barkod": "884095225308",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Saros PS5",
-          "barkod": "711719027041",
-          "ocekivano": 15,
-          "skenirano": 0
         }
       ]
     },
