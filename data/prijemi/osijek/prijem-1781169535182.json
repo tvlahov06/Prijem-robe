@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T09:18:55.182Z",
-  "azurirano": "2026-06-11T09:31:29.311Z",
+  "azurirano": "2026-06-11T09:31:37.265Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_260611112139",
@@ -86,7 +86,7 @@
           "naziv": "Mis Logitech M100, zicani, crni",
           "barkod": "5099206104242",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Mis Logitech M190, crni",
@@ -242,7 +242,7 @@
           "naziv": "Web kamera Logitech BRIO 500 crna",
           "barkod": "5099206104914",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     }
