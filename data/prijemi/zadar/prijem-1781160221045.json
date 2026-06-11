@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T06:43:41.045Z",
-  "azurirano": "2026-06-11T07:47:48.260Z",
+  "azurirano": "2026-06-11T07:47:57.502Z",
   "dokumenti": [
     {
       "naziv": "MSI 3702-101",
@@ -88,19 +88,19 @@
           "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525934",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
           "barkod": "5901292525798",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351431420",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 50U7Q, 127.0cm (50\"), ULED Mini LED, 4K UHD Smart TV, VIDAA OS",
