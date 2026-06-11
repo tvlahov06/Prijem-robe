@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T06:37:05.039Z",
-  "azurirano": "2026-06-11T06:56:04.804Z",
+  "azurirano": "2026-06-11T06:56:08.955Z",
   "dokumenti": [
     {
       "naziv": "MSI 3706-101",
@@ -191,7 +191,7 @@
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
           "barkod": "5901292525798",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG 43UA75003LA 109.2cm (43\"), LED, 4K UHD Smart TV, webOS",
@@ -203,7 +203,7 @@
           "naziv": "TV PHILIPS 55MLED820, 139.7cm (55\"), LED, UHD 4K Smart TV, Titan OS",
           "barkod": "8718863046661",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
