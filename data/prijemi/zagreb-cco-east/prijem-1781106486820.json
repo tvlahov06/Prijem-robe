@@ -5,7 +5,7 @@
   "datum": "2026-06-10",
   "status": "aktivan",
   "kreirano": "2026-06-10T18:34:42.905Z",
-  "azurirano": "2026-06-11T14:57:16.181Z",
+  "azurirano": "2026-06-11T14:57:18.783Z",
   "dokumenti": [
     {
       "naziv": "MSI 3738-101",
@@ -205,23 +205,6 @@
           "barkod": "8006447002494",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "4830",
-      "stavke": [
-        {
-          "naziv": "Mop elektricni Philips XV5113/01",
-          "barkod": "8720389035975",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mop elektricni Philips XV3101/11",
-          "barkod": "8720389058707",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     }
