@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T09:18:55.182Z",
-  "azurirano": "2026-06-11T09:30:18.014Z",
+  "azurirano": "2026-06-11T09:30:25.133Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_260611112139",
@@ -218,7 +218,7 @@
           "naziv": "Tipkovnica Logitech K270 bezicna, USB, crna",
           "barkod": "5099206032842",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Tipkovnica Logitech MX Keys Mini, bezicna, roza",
@@ -230,7 +230,7 @@
           "naziv": "Tipkovnica Logitech POP ICON Keys, White - US INTL - BT",
           "barkod": "5099206127579",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Web kamera LOGITECH BRIO 4K, grafit",
