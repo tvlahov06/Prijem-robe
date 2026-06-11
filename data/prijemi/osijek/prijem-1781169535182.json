@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T09:18:55.182Z",
-  "azurirano": "2026-06-11T09:29:06.419Z",
+  "azurirano": "2026-06-11T09:29:18.481Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_260611112139",
@@ -44,7 +44,7 @@
           "naziv": "Mis Logitech G PRO X Superlight 2, bijeli",
           "barkod": "5099206104549",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech G305 LIGHTSPEED, bijeli",
@@ -92,7 +92,7 @@
           "naziv": "Mis Logitech M190, crni",
           "barkod": "5099206091825",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mis Logitech M190, crveni",
@@ -110,7 +110,7 @@
           "naziv": "Mis Logitech M330 Silent Plus, crni",
           "barkod": "5099206066670",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Mis LOGITECH MX Master 3S \"SE\" grafit",
@@ -122,7 +122,7 @@
           "naziv": "Mis Logitech MX Vertical Ergonomic",
           "barkod": "5099206081901",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Podloga za mis Logitech Desk Mat Studio, Lila",
@@ -158,7 +158,7 @@
           "naziv": "Slusalice Logitech G535 LIGHTSPEED, gaming, bezicne, crne",
           "barkod": "5099206094772",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Logitech H340, zicane, USB, crne",
@@ -236,7 +236,7 @@
           "naziv": "Web kamera LOGITECH BRIO 4K, grafit",
           "barkod": "5099206129719",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Web kamera Logitech BRIO 500 crna",
