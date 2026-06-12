@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T09:31:00.381Z",
-  "azurirano": "2026-06-12T13:36:53.719Z",
+  "azurirano": "2026-06-12T13:47:38.945Z",
   "dokumenti": [
     {
       "naziv": "MSI 3756-101",
@@ -384,7 +384,7 @@
           "naziv": "Uredaj za dubinsko ciscenje Rowenta IN3020F0",
           "barkod": "3121040095812",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Bosch MFQ40301 Styline Colour vanilija/srebrna",
@@ -546,7 +546,7 @@
           "naziv": "Toster grill Bosch TCG4215, silver",
           "barkod": "4242005238699",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Blender Bosch MMB6141S VitaPower Serie 4",
