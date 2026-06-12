@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T09:31:00.381Z",
-  "azurirano": "2026-06-12T13:53:09.542Z",
+  "azurirano": "2026-06-12T13:53:28.404Z",
   "dokumenti": [
     {
       "naziv": "MSI 3756-101",
@@ -193,7 +193,7 @@
           "naziv": "Usisavac Bosch BGC21POW1 ProPower, crni",
           "barkod": "4242005284566",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC5141/01",
