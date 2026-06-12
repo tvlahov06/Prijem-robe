@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T09:31:00.381Z",
-  "azurirano": "2026-06-12T14:07:13.877Z",
+  "azurirano": "2026-06-12T14:07:19.301Z",
   "dokumenti": [
     {
       "naziv": "MSI 3756-101",
@@ -211,7 +211,7 @@
           "naziv": "Aparat za kavu DeLonghi EXAM440.55.B Rivelia",
           "barkod": "8004399026612",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Gorenje VCE01G4AHGR",
@@ -283,7 +283,7 @@
           "naziv": "Aparat za sladoled Tefal IG602AE0 Ice Cream maker Dolci, 10u1",
           "barkod": "3016661180446",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za sladoled Ninja NC302EU Creami",
