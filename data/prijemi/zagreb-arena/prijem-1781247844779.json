@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:04:04.779Z",
-  "azurirano": "2026-06-12T08:02:55.744Z",
+  "azurirano": "2026-06-12T08:23:26.917Z",
   "dokumenti": [
     {
       "naziv": "MSI 3748-101",
@@ -453,13 +453,13 @@
           "naziv": "Mlinac za kavu Bosch TSM6A011W bijeli",
           "barkod": "4242005108770",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mlinac za kavu Bosch TSM6A013B crni",
           "barkod": "4242005108787",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sjeckalica Bosch MMR08R2 800 ml, crvena/antracit",
