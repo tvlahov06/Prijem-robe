@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T14:34:35.919Z",
-  "azurirano": "2026-06-12T05:49:19.618Z",
+  "azurirano": "2026-06-12T05:49:36.647Z",
   "dokumenti": [
     {
       "naziv": "MSI 3768-101",
@@ -461,7 +461,7 @@
           "naziv": "Usisavac stapni Gorenje SVC180FW",
           "barkod": "3838782386978",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sokovnik Bosch MESM731M VitaExtract hladna presa",
