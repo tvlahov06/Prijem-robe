@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T15:01:30.541Z",
-  "azurirano": "2026-06-12T05:43:58.901Z",
+  "azurirano": "2026-06-12T05:44:10.392Z",
   "dokumenti": [
     {
       "naziv": "MSI 3783-101",
@@ -526,7 +526,7 @@
           "naziv": "Mikser rucni Bosch MFQ4030K Styline Colour roza/siva",
           "barkod": "4242002880792",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mikser rucni Gorenje M500DCBK",
@@ -754,7 +754,7 @@
           "naziv": "Sjeckalica Bosch MMR08A1 800 ml, bijela/antracit",
           "barkod": "4242002742816",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
