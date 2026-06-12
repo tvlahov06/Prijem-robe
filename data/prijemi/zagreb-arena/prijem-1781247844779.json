@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:04:04.779Z",
-  "azurirano": "2026-06-12T09:17:48.703Z",
+  "azurirano": "2026-06-12T09:35:59.098Z",
   "dokumenti": [
     {
       "naziv": "MSI 3748-101",
@@ -847,7 +847,7 @@
           "naziv": "Mikser rucni Bosch MFQ36400S ErgoMixx bijela/siva",
           "barkod": "4242002762678",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Gorenje VCE01G4AHGR",
@@ -859,13 +859,13 @@
           "naziv": "Glacalo Philips DST8040/30",
           "barkod": "8720389004599",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/40",
           "barkod": "8720389050084",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9729/09",
@@ -913,19 +913,19 @@
           "naziv": "Friteza na vruci zrak Philips oprema HD9946/00 Airfryer dodatak - set za grillanje XL",
           "barkod": "8720389055393",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Bosch MSM4B620 ErgoMaster",
           "barkod": "4242005346639",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kuhalo za vodu Russell Hobbs 27364-70 Eden Pistachio",
           "barkod": "5038061165395",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 685.M Dedica Style",
@@ -949,7 +949,7 @@
           "naziv": "Toster Philips HD2581/00",
           "barkod": "8710103800347",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BCS61113 Unlimited 6, bijeli",
@@ -961,13 +961,13 @@
           "naziv": "Toster Russell Hobbs 27370-56 Eden 2S White",
           "barkod": "5038061163124",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Russell Hobbs 27374-56 Eden 2S Pistachio",
           "barkod": "5038061165456",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Bosch MMB6652B VitaPower Serie 6",
