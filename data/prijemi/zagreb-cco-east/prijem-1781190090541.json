@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T15:01:30.541Z",
-  "azurirano": "2026-06-12T05:15:40.071Z",
+  "azurirano": "2026-06-12T05:16:00.215Z",
   "dokumenti": [
     {
       "naziv": "MSI 3783-101",
@@ -98,7 +98,7 @@
           "naziv": "Blender Bosch MMB6382M VitaPower Serie 4",
           "barkod": "4242005216000",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Bosch TAT2M123, MyMoment, crni",
