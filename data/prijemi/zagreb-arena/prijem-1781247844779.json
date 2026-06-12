@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:04:04.779Z",
-  "azurirano": "2026-06-12T11:11:56.514Z",
+  "azurirano": "2026-06-12T11:17:43.781Z",
   "dokumenti": [
     {
       "naziv": "MSI 3748-101",
@@ -537,7 +537,7 @@
           "naziv": "Toster Bosch TAT2M124, MyMoment, crveni",
           "barkod": "4242005402991",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso VERTUO Pop White S GCV2-EUWHNE-S",
@@ -650,7 +650,7 @@
           "naziv": "Mikser rucni Gorenje M500DCBK",
           "barkod": "3838782541605",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
