@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:04:04.779Z",
-  "azurirano": "2026-06-12T10:00:39.037Z",
+  "azurirano": "2026-06-12T10:01:29.604Z",
   "dokumenti": [
     {
       "naziv": "MSI 3748-101",
@@ -1021,13 +1021,13 @@
           "naziv": "Usisavac Bosch BBS711W Unlimited 7, bijeli",
           "barkod": "4242005306657",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Friteza na vruci zrak Tefal EY922DE0, Dual Easy Fry Flex",
           "barkod": "3045380028753",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
