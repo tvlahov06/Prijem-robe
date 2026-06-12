@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:04:04.779Z",
-  "azurirano": "2026-06-12T08:49:42.042Z",
+  "azurirano": "2026-06-12T08:50:36.045Z",
   "dokumenti": [
     {
       "naziv": "MSI 3748-101",
@@ -441,13 +441,13 @@
           "naziv": "Mikser rucni Bosch MFQ4030S Styline bijela/srebrna",
           "barkod": "4242002641454",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mikser stapni Gorenje HBX1500VS",
           "barkod": "3838782994227",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mlinac za kavu Bosch TSM6A011W bijeli",
@@ -531,7 +531,7 @@
           "naziv": "Mikser stapni Bosch MSM6M810 ErgoMaster",
           "barkod": "4242005340583",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Bosch TAT2M124, MyMoment, crveni",
@@ -555,7 +555,7 @@
           "naziv": "Mikser rucni Gorenje M360CW",
           "barkod": "3838782178726",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "222480 AA Usisavac stapni Gorenje SVC222480AA",
@@ -579,7 +579,7 @@
           "naziv": "Usisavac Bosch BHN20L",
           "barkod": "4242005190881",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot iRobot Roomba Combo Plus 505 + AutoWash dock black",
