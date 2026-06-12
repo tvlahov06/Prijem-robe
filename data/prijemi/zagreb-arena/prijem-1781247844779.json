@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:04:04.779Z",
-  "azurirano": "2026-06-12T09:57:26.560Z",
+  "azurirano": "2026-06-12T09:58:03.986Z",
   "dokumenti": [
     {
       "naziv": "MSI 3748-101",
@@ -841,7 +841,7 @@
           "naziv": "Toster Bosch TAT2M123, MyMoment, crni",
           "barkod": "4242005402977",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Bosch MFQ36400S ErgoMixx bijela/siva",
@@ -955,7 +955,7 @@
           "naziv": "Usisavac Bosch BCS61113 Unlimited 6, bijeli",
           "barkod": "4242005183203",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Russell Hobbs 27370-56 Eden 2S White",
@@ -973,7 +973,7 @@
           "naziv": "Blender Bosch MMB6652B VitaPower Serie 6",
           "barkod": "4242005393107",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot iRobot Roomba Combo 105 + Baza AutoEmptyTM White",
@@ -1021,7 +1021,7 @@
           "naziv": "Usisavac Bosch BBS711W Unlimited 7, bijeli",
           "barkod": "4242005306657",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Tefal EY922DE0, Dual Easy Fry Flex",
