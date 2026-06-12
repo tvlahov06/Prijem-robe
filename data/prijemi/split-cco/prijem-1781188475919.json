@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T14:34:35.919Z",
-  "azurirano": "2026-06-12T05:47:45.103Z",
+  "azurirano": "2026-06-12T05:47:49.066Z",
   "dokumenti": [
     {
       "naziv": "MSI 3768-101",
@@ -419,7 +419,7 @@
           "naziv": "Usisavac Philips XB2122/09",
           "barkod": "8710103925279",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XD5123/10",
