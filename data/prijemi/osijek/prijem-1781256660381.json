@@ -5,31 +5,8 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T09:31:00.381Z",
-  "azurirano": "2026-06-12T12:12:46.818Z",
+  "azurirano": "2026-06-12T13:32:51.808Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 3754-101",
-      "stavke": [
-        {
-          "naziv": "Mop elektricni Philips XV5113/01",
-          "barkod": "8720389035975",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Mop elektricni Philips XV3101/11",
-          "barkod": "8720389058707",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mop elektricni Philips dodaci XV1892/02 sredstvo za ciscenje poda",
-          "barkod": "8720389035937",
-          "ocekivano": 2,
-          "skenirano": 2
-        }
-      ]
-    },
     {
       "naziv": "MSI 3755-101",
       "stavke": [
@@ -490,7 +467,7 @@
           "naziv": "Mikser rucni Bosch MFQ4030K Styline Colour roza/siva",
           "barkod": "4242002880792",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Mikser rucni Gorenje M500DCBK",
@@ -598,7 +575,7 @@
           "naziv": "Vaga kuhinjska Gorenje KT10LBW",
           "barkod": "3838782552151",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9744/09",
@@ -628,7 +605,7 @@
           "naziv": "Parna postaja Philips GC7844/20",
           "barkod": "8710103951049",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kuhalo za vodu Bosch TWK2M163, MyMoment, crno",
@@ -640,7 +617,7 @@
           "naziv": "Sjeckalica Gorenje S501GBK",
           "barkod": "3838782386398",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XW7264/11 bezicni AquaTrio",
@@ -652,7 +629,7 @@
           "naziv": "Mikser rucni Bosch MFQ4030S Styline bijela/srebrna",
           "barkod": "4242002641454",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mlinac za kavu Bosch TSM6A011W bijeli",
@@ -664,13 +641,13 @@
           "naziv": "Mlinac za kavu Bosch TSM6A013B crni",
           "barkod": "4242005108787",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sjeckalica Bosch MMR08R2 800 ml, crvena/antracit",
           "barkod": "4242002742274",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Bosch TCG4215, silver",
