@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:21:57.519Z",
-  "azurirano": "2026-06-12T07:51:56.604Z",
+  "azurirano": "2026-06-12T07:51:59.445Z",
   "dokumenti": [
     {
       "naziv": "MSI 3654-101",
@@ -419,7 +419,7 @@
           "naziv": "Usisavac stapni Hisense HVC6234W",
           "barkod": "3838782606793",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 685.M Dedica Style",
