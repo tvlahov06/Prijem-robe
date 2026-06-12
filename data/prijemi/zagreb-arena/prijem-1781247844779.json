@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:04:04.779Z",
-  "azurirano": "2026-06-12T10:30:57.503Z",
+  "azurirano": "2026-06-12T11:04:43.811Z",
   "dokumenti": [
     {
       "naziv": "MSI 3748-101",
@@ -483,13 +483,13 @@
           "naziv": "Sjeckalica Bosch MMR08A1 800 ml, bijela/antracit",
           "barkod": "4242002742816",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Toster Russell Hobbs 26761-56 Bronte Stone",
           "barkod": "5038061169485",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso CITIZ White D113-EUWHN2-S",
@@ -507,7 +507,7 @@
           "naziv": "Kuhalo za vodu Gorenje K15DWBK",
           "barkod": "3838782483240",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Gorenje VCE01G4AEBK",
@@ -644,7 +644,7 @@
           "naziv": "Mikser rucni Bosch MFQ4030K Styline Colour roza/siva",
           "barkod": "4242002880792",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mikser rucni Gorenje M500DCBK",
@@ -782,7 +782,7 @@
           "naziv": "Vaga kuhinjska Gorenje KT10LBW",
           "barkod": "3838782552151",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9744/09",
