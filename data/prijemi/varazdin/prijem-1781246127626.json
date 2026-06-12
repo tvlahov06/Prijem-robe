@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T11:59:30.122Z",
-  "azurirano": "2026-06-12T12:32:59.165Z",
+  "azurirano": "2026-06-12T12:33:42.821Z",
   "dokumenti": [
     {
       "naziv": "MSI 3757-101",
@@ -1140,89 +1140,6 @@
         {
           "naziv": "Sjeckalica Bosch MMR08R2 800 ml, crvena/antracit",
           "barkod": "4242002742274",
-          "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3802-101",
-      "stavke": [
-        {
-          "naziv": "Samsung Galaxy Buds3 FE slusalice sive UC",
-          "barkod": "8806097621249",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
-          "barkod": "8806097984795",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Apple AirPods 4 (USB-C)",
-          "barkod": "195949688591",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "SBOX kabel RF M/F 2m",
-          "barkod": "0616320532932",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Apple EarPods (USB-C)",
-          "barkod": "195949776274",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "HP HyperX Cloud Jet Wireless Gaming Headset",
-          "barkod": "198701202189",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "SBOX EB-TWS-101, crna boja | True Wireless slusalice",
-          "barkod": "3858894502530",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "HP HyperX Cloud III S Wireless Headset Black",
-          "barkod": "198415435590",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "SBOX EB-TWS-12, crna boja | Bezicne slusalice",
-          "barkod": "3858894504510",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "White Shark BLUETOOTH ZVUCNIK GBT-619 IDAKKA bijeli IDAKKA WHITE",
-          "barkod": "3858894504060",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "White Shark HEADSET GH-2140 OX / RGB",
-          "barkod": "0736373269279",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "SBOX Zidni stalak PLB-7486 (43-100\"/120kg/VESA 800x400)",
-          "barkod": "3858894503155",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Vogel's MA3010 zidni stalak za ekrane od 32\"-65\" sa nagibom",
-          "barkod": "8712285331343",
           "ocekivano": 1,
           "skenirano": 0
         }
