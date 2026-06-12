@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:21:57.519Z",
-  "azurirano": "2026-06-12T07:49:01.054Z",
+  "azurirano": "2026-06-12T07:49:09.325Z",
   "dokumenti": [
     {
       "naziv": "MSI 3654-101",
@@ -305,7 +305,7 @@
           "naziv": "Mikser stapni Bosch MSM14200 CleverMIxx",
           "barkod": "4242002917290",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Bosch MSM6M810 ErgoMaster",
