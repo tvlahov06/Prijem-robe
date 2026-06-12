@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T11:59:30.122Z",
-  "azurirano": "2026-06-12T12:09:46.838Z",
+  "azurirano": "2026-06-12T12:09:49.690Z",
   "dokumenti": [
     {
       "naziv": "MSI 3757-101",
@@ -216,7 +216,7 @@
           "naziv": "Osvjezivac odjece Philips STH5020/40",
           "barkod": "8720389050084",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Gorenje VCE01G2AW",
