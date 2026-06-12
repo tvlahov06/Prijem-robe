@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T11:59:30.122Z",
-  "azurirano": "2026-06-12T12:04:20.805Z",
+  "azurirano": "2026-06-12T12:04:32.805Z",
   "dokumenti": [
     {
       "naziv": "MSI 3757-101",
@@ -449,7 +449,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Bosch MFQ40304 Styline Colour crvena/srebrna",
