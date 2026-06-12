@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T09:31:00.381Z",
-  "azurirano": "2026-06-12T13:53:28.404Z",
+  "azurirano": "2026-06-12T13:53:44.773Z",
   "dokumenti": [
     {
       "naziv": "MSI 3756-101",
@@ -187,7 +187,7 @@
           "naziv": "Toster Bosch TAT2M123, MyMoment, crni",
           "barkod": "4242005402977",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BGC21POW1 ProPower, crni",
@@ -247,7 +247,7 @@
           "naziv": "Aparat za rezanje Gorenje R402W",
           "barkod": "3838782820403",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Philips HR3781/10 crni 500W, 2u1",
