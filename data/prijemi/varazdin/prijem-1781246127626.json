@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T11:59:30.122Z",
-  "azurirano": "2026-06-12T12:17:33.896Z",
+  "azurirano": "2026-06-12T12:17:43.040Z",
   "dokumenti": [
     {
       "naziv": "MSI 3757-101",
@@ -210,7 +210,7 @@
           "naziv": "Usisavac Bosch BGC21POW1 ProPower, crni",
           "barkod": "4242005284566",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/40",
