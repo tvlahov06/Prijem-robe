@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:04:04.779Z",
-  "azurirano": "2026-06-12T08:23:29.153Z",
+  "azurirano": "2026-06-12T08:29:45.250Z",
   "dokumenti": [
     {
       "naziv": "MSI 3748-101",
@@ -441,7 +441,7 @@
           "naziv": "Mikser rucni Bosch MFQ4030S Styline bijela/srebrna",
           "barkod": "4242002641454",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Gorenje HBX1500VS",
@@ -543,7 +543,7 @@
           "naziv": "Aparat za kavu Nespresso VERTUO Pop White S GCV2-EUWHNE-S",
           "barkod": "8606112020121",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi EXAM440.55.BG Rivelia",
