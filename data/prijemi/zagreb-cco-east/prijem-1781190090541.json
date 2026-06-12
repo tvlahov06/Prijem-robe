@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T15:01:30.541Z",
-  "azurirano": "2026-06-12T05:07:00.589Z",
+  "azurirano": "2026-06-12T05:07:16.143Z",
   "dokumenti": [
     {
       "naziv": "MSI 3783-101",
@@ -777,7 +777,7 @@
           "naziv": "IPL depilator Philips BRI977/00 Lumea",
           "barkod": "8720689005944",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6552/15 Face & Body",
@@ -819,7 +819,7 @@
           "naziv": "Sisac za tijelo 8U1 Philips MG3730/15",
           "barkod": "8710103794578",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Philips BHA310/00",
