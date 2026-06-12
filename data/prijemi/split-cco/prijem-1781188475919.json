@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T14:34:35.919Z",
-  "azurirano": "2026-06-12T06:06:37.991Z",
+  "azurirano": "2026-06-12T06:06:52.414Z",
   "dokumenti": [
     {
       "naziv": "MSI 3768-101",
@@ -180,7 +180,7 @@
           "naziv": "Usisavac Gorenje VCE01G2AW",
           "barkod": "3838782951589",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za vakumiranje Tefal VT254070",
