@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T11:59:30.122Z",
-  "azurirano": "2026-06-12T12:13:16.702Z",
+  "azurirano": "2026-06-12T12:13:42.531Z",
   "dokumenti": [
     {
       "naziv": "MSI 3757-101",
@@ -222,7 +222,7 @@
           "naziv": "Usisavac Gorenje VCE01G2AW",
           "barkod": "3838782951589",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
