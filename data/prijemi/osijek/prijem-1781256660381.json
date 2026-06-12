@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T09:31:00.381Z",
-  "azurirano": "2026-06-12T14:07:51.895Z",
+  "azurirano": "2026-06-12T14:07:55.840Z",
   "dokumenti": [
     {
       "naziv": "MSI 3756-101",
@@ -199,7 +199,7 @@
           "naziv": "Usisavac Philips XC5141/01",
           "barkod": "8720389035715",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Bosch MFQ36400S ErgoMixx bijela/siva",
