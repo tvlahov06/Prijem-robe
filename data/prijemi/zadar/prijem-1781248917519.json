@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:21:57.519Z",
-  "azurirano": "2026-06-12T07:52:10.754Z",
+  "azurirano": "2026-06-12T07:52:17.145Z",
   "dokumenti": [
     {
       "naziv": "MSI 3654-101",
@@ -401,7 +401,7 @@
           "naziv": "Usisavac Philips XC3133/01",
           "barkod": "8720389029868",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Q10 VF crna",
