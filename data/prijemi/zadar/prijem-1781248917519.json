@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:21:57.519Z",
-  "azurirano": "2026-06-12T07:56:58.353Z",
+  "azurirano": "2026-06-12T07:57:04.867Z",
   "dokumenti": [
     {
       "naziv": "MSI 3654-101",
@@ -657,7 +657,7 @@
           "naziv": "Pametni sat Huawei Watch GT 5 Pro 46mm Black (Vili-B29F)",
           "barkod": "6942103132032",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
@@ -747,7 +747,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Pro Brown 46mm (Atum-B29W)",
           "barkod": "6942103168208",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
