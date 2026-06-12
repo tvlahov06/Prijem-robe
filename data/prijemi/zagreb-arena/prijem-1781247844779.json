@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:04:04.779Z",
-  "azurirano": "2026-06-12T10:08:27.164Z",
+  "azurirano": "2026-06-12T10:10:02.346Z",
   "dokumenti": [
     {
       "naziv": "MSI 3748-101",
@@ -877,7 +877,7 @@
           "naziv": "Usisavac Philips FC9747/09",
           "barkod": "8710103977957",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Electrolux EB61C1OG",
