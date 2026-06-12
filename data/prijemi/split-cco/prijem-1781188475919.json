@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T14:34:35.919Z",
-  "azurirano": "2026-06-12T06:10:49.995Z",
+  "azurirano": "2026-06-12T06:10:59.306Z",
   "dokumenti": [
     {
       "naziv": "MSI 3768-101",
@@ -544,7 +544,7 @@
           "naziv": "Parna postaja Philips PSG8300/80",
           "barkod": "8720389066504",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za dubinsko ciscenje Rowenta IN3020F0",
