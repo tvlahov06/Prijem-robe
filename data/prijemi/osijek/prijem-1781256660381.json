@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T09:31:00.381Z",
-  "azurirano": "2026-06-12T14:08:00.357Z",
+  "azurirano": "2026-06-12T14:08:12.119Z",
   "dokumenti": [
     {
       "naziv": "MSI 3756-101",
@@ -289,7 +289,7 @@
           "naziv": "Aparat za sladoled Ninja NC302EU Creami",
           "barkod": "0622356350884",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kuhalo za vodu Bosch TWK1M124, MyMoment, crveno",
@@ -343,7 +343,7 @@
           "naziv": "Usisavac robot Roborock Q7 BF+ sa stanicom za samopraznjenje bijela",
           "barkod": "6936905901934",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
