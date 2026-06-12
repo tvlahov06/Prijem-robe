@@ -5,7 +5,7 @@
   "datum": "2026-06-11",
   "status": "aktivan",
   "kreirano": "2026-06-11T14:34:35.919Z",
-  "azurirano": "2026-06-12T05:53:34.867Z",
+  "azurirano": "2026-06-12T05:53:59.475Z",
   "dokumenti": [
     {
       "naziv": "MSI 3768-101",
@@ -341,7 +341,7 @@
           "naziv": "Aparat za kavu Philips EP2224/10 espresso",
           "barkod": "8710103894742",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG7200/20",
