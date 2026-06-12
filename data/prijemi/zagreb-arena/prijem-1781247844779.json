@@ -5,7 +5,7 @@
   "datum": "2026-06-12",
   "status": "aktivan",
   "kreirano": "2026-06-12T07:04:04.779Z",
-  "azurirano": "2026-06-12T09:02:58.432Z",
+  "azurirano": "2026-06-12T09:03:09.891Z",
   "dokumenti": [
     {
       "naziv": "MSI 3748-101",
@@ -519,7 +519,7 @@
           "naziv": "Usisavac Philips XB2122/09",
           "barkod": "8710103925279",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Bosch MUM5XC4E",
@@ -609,7 +609,7 @@
           "naziv": "Usisavac Miele Guard L1",
           "barkod": "4002516794448",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "252420 Usisavac stapni Gorenje SVC252420FFA FFA",
