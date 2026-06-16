@@ -5,7 +5,7 @@
   "datum": "2026-06-16",
   "status": "aktivan",
   "kreirano": "2026-06-16T15:01:25.385Z",
-  "azurirano": "2026-06-16T21:25:02.761Z",
+  "azurirano": "2026-06-16T21:25:08.182Z",
   "dokumenti": [
     {
       "naziv": "MSI 3820-101",
@@ -422,101 +422,6 @@
           "barkod": "711719025979",
           "ocekivano": 8,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3833-101",
-      "stavke": [
-        {
-          "naziv": "Ventilator stojeci Midea MFZ402R0BPW",
-          "barkod": "4048164119752",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Ventilator stojeci Midea FZ10-21ARBW",
-          "barkod": "6939924844220",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Ventilator Elit F-16N",
-          "barkod": "3875001741293",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "SV-RC Ventilator Suntec CoolBreeze 4000 SV-RC",
-          "barkod": "4250058311771",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
-          "barkod": "6926597761725",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Ventilator Xiaomi MI smart Fan 2 Pro",
-          "barkod": "6934177775376",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Klima uredaj 3,5kW Bosch Climate CL3000i-Set 35 WE",
-          "barkod": "4062321296087",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Klima uredaj 5,0 kW Hisense CF50XS1GG/AS50XS1GW 50XS1GW",
-          "barkod": "6926597759593",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Ventilator i prociscivac zraka Midea AMS150-PBW",
-          "barkod": "6939924843544",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Ventilator stojeci Midea MAC402R0BPK",
-          "barkod": "6939924856520",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Klima uredaj 2,6 kW Hisense APH09QC mobilna",
-          "barkod": "6926597739922",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Klima uredaj 3,5 kW Hisense APH12QC mobilna",
-          "barkod": "6926597725123",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Klima uredaj 5,3kW Bosch Climate CL3000i-Set 53 WE",
-          "barkod": "4062321345570",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Klima uredaj 3,5kW Mitsubishi Electric MSZ-DW",
-          "barkod": "8851492268131",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Klima uredaj 3,5 kW Hisense QH35XV4AG/AS35XV4EW 35XV4EW",
-          "barkod": "6926597759371",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
