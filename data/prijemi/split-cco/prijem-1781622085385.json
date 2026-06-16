@@ -5,7 +5,7 @@
   "datum": "2026-06-16",
   "status": "aktivan",
   "kreirano": "2026-06-16T15:01:25.385Z",
-  "azurirano": "2026-06-16T20:47:48.658Z",
+  "azurirano": "2026-06-16T20:55:23.485Z",
   "dokumenti": [
     {
       "naziv": "MSI 3820-101",
@@ -527,19 +527,19 @@
           "naziv": "SBOX EB-TWS-101, bijela boja | True Wireless slusalice",
           "barkod": "3858894502547",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Soundbar Samsung",
           "barkod": "8806097097068",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
           "barkod": "8806097984795",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hisense Soundbar AX3120Q",
@@ -551,61 +551,61 @@
           "naziv": "SBOX kabel RF M/F 2m",
           "barkod": "0616320532932",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "KABEL SBOX HDMI-HDMI 2.1 M/M 3M 8K@60Hz",
           "barkod": "3858894506354",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "SBOX EB-TWS-12, crna boja | Bezicne slusalice",
           "barkod": "3858894504510",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "SBOX kabel HDMI-DISPLAY PORT M/M 2m",
           "barkod": "0616320532871",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Razer Kraken X Lite, zicane, gaming, 7.1, 0-R381 mikrofon, over-ear",
           "barkod": "8886419378082",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zidni stalak Vogel's za ekrane od 19\"-43\" sa nagibom, MA2010",
           "barkod": "8712285331268",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SONY Bezicne slusalice WH1000XXW s funkcijom E7 ponistavanja buke 1000X THE COLLEXION bijele",
           "barkod": "4548736173330",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SONY Bezicne slusalice WH1000XXB s funkcijom",
           "barkod": "4548736171299",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vogel's MA3010 zidni stalak za ekrane od 32\"-65\" sa nagibom",
           "barkod": "8712285331343",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vogel's TVM1203 zidni nosac za ekrane od 19\"-50\" fiksni do 30kg",
           "barkod": "8712285348105",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Vogel's MA4040 zidni nosac za ekrane od 40-77\" sa pomakom 180° i nagibom 10°",
@@ -617,7 +617,7 @@
           "naziv": "SBOX EB-TWS-05, bez boja | Bezicne slusalice",
           "barkod": "3858894504602",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "SBOX Zidni stalak PLB-61486 (43-90\"/60kg/VESA 800x400)",
@@ -641,13 +641,13 @@
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM5/S",
           "barkod": "4548736132597",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/B",
           "barkod": "4548736162617",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Soundbar Sony HT-B600 BRAVIA Theatre Bar 6 Dolby Atmos",
@@ -659,7 +659,7 @@
           "naziv": "Slusalice Sony potpuno bezicne WF-C710N/P",
           "barkod": "4548736164314",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
@@ -670,13 +670,13 @@
           "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C crni bez kabela",
           "barkod": "8806094912128",
           "ocekivano": 20,
-          "skenirano": 21
+          "skenirano": 20
         },
         {
           "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C bijeli bez kabela",
           "barkod": "8806094912081",
           "ocekivano": 20,
-          "skenirano": 0
+          "skenirano": 20
         },
         {
           "naziv": "Sat Samsung Galaxy Fit3 sivi",
@@ -688,13 +688,13 @@
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
           "barkod": "8806099028282",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 10
         },
         {
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi",
           "barkod": "8806099028114",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Apple USB-C Power Adapter 20W",
@@ -706,37 +706,37 @@
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
           "barkod": "8806097651000",
           "ocekivano": 10,
-          "skenirano": 5
+          "skenirano": 10
         },
         {
           "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
           "barkod": "8806097638551",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Mobitel Samsung Galaxy A16 4GB/128GB dual SIM tamnoplavi",
           "barkod": "8806095822334",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 10
         },
         {
           "naziv": "Silikonska magnetna maska za Samsung Galaxy S26+ siva",
           "barkod": "8806097934691",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
           "barkod": "8806097651079",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 Ultra crna",
           "barkod": "8806097887225",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
@@ -748,67 +748,67 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
           "barkod": "8806097827177",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Bezicni punjac Samsung 25W magnetic crni",
           "barkod": "8806097912835",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 46mm Black (Vili-B19F)",
           "barkod": "6942103132001",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy S25 FE 5G 8GB/256GB dual SIM crni",
           "barkod": "8806097644651",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM ljubicasti",
           "barkod": "8806099035341",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zastitna folija za Samsung Galaxy S26 Ultra prozirna 2 komada",
           "barkod": "8806097880059",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB nebesko plavi",
           "barkod": "8806097827610",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sat Samsung Galaxy Watch Ultra LTE plavi (2025)",
           "barkod": "8806097625285",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM svijetlo plavi",
           "barkod": "8806097651147",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sat Samsung Galaxy Watch8 Classic 46mm crni",
           "barkod": "8806097415527",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sat Samsung Galaxy Watch8 40mm srebrni",
           "barkod": "8806097415756",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch Fit 4 Pro zeleni (Seiya-B29W)",
@@ -832,7 +832,7 @@
           "naziv": "Mobitel Samsung Galaxy Z Fold7 5G 12GB/256GB crni",
           "barkod": "8806097425106",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
