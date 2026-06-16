@@ -1,0 +1,946 @@
+{
+  "id": "prijem-1781622085385",
+  "poslovnica": "split-cco",
+  "naziv": "Roba u dolasku",
+  "datum": "2026-06-16",
+  "status": "aktivan",
+  "kreirano": "2026-06-16T15:01:25.385Z",
+  "azurirano": "2026-06-16T15:01:25.385Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 3820-101",
+      "stavke": [
+        {
+          "naziv": "Tinta HP 305 Tri-colour Original Ink Cartridge, 3YM60AE - Instant Ink",
+          "barkod": "194441597318",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305 Black Original Ink Cartridge, 3YM61AE - Instant Ink",
+          "barkod": "194441597332",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 652 Black Original Ink Advantage Cartridge, F6V25AE",
+          "barkod": "889296160939",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-031 REVENGE 750x350 Crna",
+          "barkod": "3858894503667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 103 za L11xx/L12xx/L31xx/L32xx/L51xx/L52xx, 65ml",
+          "barkod": "8715946655840",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
+          "barkod": "4897098683446",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 2.5\" 1TB USB 3.2 T7 Portable plavi W MU-PC1T0H/WW",
+          "barkod": "8806090312410",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer DeathAdder Essential, bijeli 0-R3M1",
+          "barkod": "8886419333326",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-2201 RONIN Crna / HR",
+          "barkod": "0736373271135",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer Basilisk V3 X HyperSpeed Wireless 0-R3G1",
+          "barkod": "8886419334316",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler microDuo 3C 64GB, USB GB 3.2, USB-A+C",
+          "barkod": "740617328219",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-004212 SHINOBI-2 Bijela- -RED.SW Mehanicka / HR- RED SW.",
+          "barkod": "3858894506002",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-001214 GLADIUS / HR",
+          "barkod": "3858894503605",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-2201 RONIN Bijela / HR",
+          "barkod": "0736373271159",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347890",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
+          "barkod": "4713218461933",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON 64GB DT50 3.2 KC-U2G64-5R",
+          "barkod": "740617314342",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347999",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
+          "barkod": "4718050609604",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ADATA Memorijska kartica 32GB UV150 USB 3.2 Black AD BK",
+          "barkod": "4713435797075",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 256GB USB 3.2 Black-Orange",
+          "barkod": "740617348736",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
+          "barkod": "8715946701271",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDHC, Class10, 10A1-RA1 100/20MBs, 32GB",
+          "barkod": "4713218461926",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX K-123 HR | Zicna tipkovnica",
+          "barkod": "3858894505463",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toner HP 135A crni",
+          "barkod": "194850587269",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX WM-852, bijela boja, bezicni | Wireless mis",
+          "barkod": "3858894506118",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CANON",
+          "barkod": "4960999974507",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
+          "barkod": "740617305371",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta CANON",
+          "barkod": "4549292192612",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link AV500 Nano Powerline Ethernet Adapter Starter Kit Ultra Com",
+          "barkod": "6935364031848",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-004122 SHINOBI-2 Crna - R-BLUE.SW Mehanicka / HR - BLUE SW.",
+          "barkod": "3858894506064",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 512GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348552",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Canon CL-576 color",
+          "barkod": "4549292192650",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Lenovo B210 Grey 15,6''",
+          "barkod": "193386076858",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB Hub ACER 7in1 Type C Dongle, Srebrna",
+          "barkod": "4712842946571",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda TIPKOVNICA BGK-01124 KRILL Bijela / US",
+          "barkod": "3858894503728",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark STALAK Desktop GMS-3205 Amenhotep II / 2 Monitora",
+          "barkod": "3858894502356",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Port Sydney ECO 15.6\"/16, crni",
+          "barkod": "3567041351739",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link LS1008, 8-port 10/100 switch,plasticno",
+          "barkod": "6935364089085",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA UV210, 32GB, USB2.0 GD",
+          "barkod": "4712366965843",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR100, Breskva",
+          "barkod": "4711474195555",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-041 300x250X2mm",
+          "barkod": "3858894507900",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3832-101",
+      "stavke": [
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC ANGE compatible) narancasti",
+          "barkod": "3499550360745",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS4 Stereo Gaming slusalice v3 V3",
+          "barkod": "3499550371093",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS4 Stereo Gaming slusalice v3 Blue V3BLUE",
+          "barkod": "3499550381412",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS4 Stereo Gaming slusalice v3 Camo Green V3GREEN",
+          "barkod": "3499550381443",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS4 Stereo Gaming slusalice v3 Titanium V3TITAN",
+          "barkod": "3499550381450",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Stereo Gaming slusalice PS5 crne PS5HEADSETV1",
+          "barkod": "3665962006339",
+          "ocekivano": 14,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Stereo Gaming slusalice PS5 bijele WHITE PS5HEADSETV1WHITE",
+          "barkod": "3665962006933",
+          "ocekivano": 14,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS5 Thumb Grips (6 kom. silikonskih thumb gripova za PS5 Dualsense kontroler)",
+          "barkod": "3665962006438",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "RIG 300 PRO HS gaming slusalice crne",
+          "barkod": "3665962009231",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "RIG 300 PRO HS gaming slusalice bijele",
+          "barkod": "3665962009262",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Dual charging station za 2xPS4 Dualshock GERV2 kontrolera USB",
+          "barkod": "3499550331400",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Dual Charging Station V3 (2 x Dualsense PS5 GERV3 Controller)",
+          "barkod": "3665962021141",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "RIG 300 PRO HS gaming slusalice Acid CID",
+          "barkod": "3665962026788",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "RIG 300 PRO HS gaming slusalice Cosmic OSMIC",
+          "barkod": "3665962026764",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC MGREEN compatible) Cammo Green",
+          "barkod": "3499550382556",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 HD Camera",
+          "barkod": "711719321101",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation VR2 Sense Controller Charging Station",
+          "barkod": "711719480693",
+          "ocekivano": 12,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation Link USB Adapter",
+          "barkod": "711719574392",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Edge Wireless Controller v2",
+          "barkod": "711719586654",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Elite wireless headset+",
+          "barkod": "711719598275",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Cosmic Red za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023012",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Grey Camo za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023708",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Remix Green",
+          "barkod": "711719020912",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Starlight Blue za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022473",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Chroma Teal v2",
+          "barkod": "711719023838",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Midnight Black + USB-C kabel za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719025979",
+          "ocekivano": 8,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3833-101",
+      "stavke": [
+        {
+          "naziv": "Ventilator stojeci Midea MFZ402R0BPW",
+          "barkod": "4048164119752",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ventilator stojeci Midea FZ10-21ARBW",
+          "barkod": "6939924844220",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ventilator Elit F-16N",
+          "barkod": "3875001741293",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SV-RC Ventilator Suntec CoolBreeze 4000 SV-RC",
+          "barkod": "4250058311771",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
+          "barkod": "6926597761725",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ventilator Xiaomi MI smart Fan 2 Pro",
+          "barkod": "6934177775376",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 3,5kW Bosch Climate CL3000i-Set 35 WE",
+          "barkod": "4062321296087",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 5,0 kW Hisense CF50XS1GG/AS50XS1GW 50XS1GW",
+          "barkod": "6926597759593",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ventilator i prociscivac zraka Midea AMS150-PBW",
+          "barkod": "6939924843544",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ventilator stojeci Midea MAC402R0BPK",
+          "barkod": "6939924856520",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 2,6 kW Hisense APH09QC mobilna",
+          "barkod": "6926597739922",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 3,5 kW Hisense APH12QC mobilna",
+          "barkod": "6926597725123",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 5,3kW Bosch Climate CL3000i-Set 53 WE",
+          "barkod": "4062321345570",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 3,5kW Mitsubishi Electric MSZ-DW",
+          "barkod": "8851492268131",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 3,5 kW Hisense QH35XV4AG/AS35XV4EW 35XV4EW",
+          "barkod": "6926597759371",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3834-101",
+      "stavke": [
+        {
+          "naziv": "SBOX EB-TWS-101, bijela boja | True Wireless slusalice",
+          "barkod": "3858894502547",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Samsung",
+          "barkod": "8806097097068",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
+          "barkod": "8806097984795",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hisense Soundbar AX3120Q",
+          "barkod": "6942351423432",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kabel RF M/F 2m",
+          "barkod": "0616320532932",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "KABEL SBOX HDMI-HDMI 2.1 M/M 3M 8K@60Hz",
+          "barkod": "3858894506354",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX EB-TWS-12, crna boja | Bezicne slusalice",
+          "barkod": "3858894504510",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kabel HDMI-DISPLAY PORT M/M 2m",
+          "barkod": "0616320532871",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Razer Kraken X Lite, zicane, gaming, 7.1, 0-R381 mikrofon, over-ear",
+          "barkod": "8886419378082",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zidni stalak Vogel's za ekrane od 19\"-43\" sa nagibom, MA2010",
+          "barkod": "8712285331268",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SONY Bezicne slusalice WH1000XXW s funkcijom E7 ponistavanja buke 1000X THE COLLEXION bijele",
+          "barkod": "4548736173330",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SONY Bezicne slusalice WH1000XXB s funkcijom",
+          "barkod": "4548736171299",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vogel's MA3010 zidni stalak za ekrane od 32\"-65\" sa nagibom",
+          "barkod": "8712285331343",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vogel's TVM1203 zidni nosac za ekrane od 19\"-50\" fiksni do 30kg",
+          "barkod": "8712285348105",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vogel's MA4040 zidni nosac za ekrane od 40-77\" sa pomakom 180° i nagibom 10°",
+          "barkod": "8712285360800",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX EB-TWS-05, bez boja | Bezicne slusalice",
+          "barkod": "3858894504602",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX Zidni stalak PLB-61486 (43-90\"/60kg/VESA 800x400)",
+          "barkod": "0736373267145",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vogel's TVM1443 zidni nosac za ekrane od 32\"-65\" nagib do 15° pomak 180° 25kg",
+          "barkod": "8712285349409",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX Fiksni zidni stalak PLB-2264F-2",
+          "barkod": "3858894502929",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM5/S",
+          "barkod": "4548736132597",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/B",
+          "barkod": "4548736162617",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Sony HT-B600 BRAVIA Theatre Bar 6 Dolby Atmos",
+          "barkod": "4548736165328",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/P",
+          "barkod": "4548736164314",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3845-101",
+      "stavke": [
+        {
+          "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C crni bez kabela",
+          "barkod": "8806094912128",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C bijeli bez kabela",
+          "barkod": "8806094912081",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Fit3 sivi",
+          "barkod": "8806095362175",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
+          "barkod": "8806099028282",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi",
+          "barkod": "8806099028114",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple USB-C Power Adapter 20W",
+          "barkod": "195950084658",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
+          "barkod": "8806097651000",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
+          "barkod": "8806097638551",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A16 4GB/128GB dual SIM tamnoplavi",
+          "barkod": "8806095822334",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26+ siva",
+          "barkod": "8806097934691",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
+          "barkod": "8806097651079",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 Ultra crna",
+          "barkod": "8806097887225",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
+          "barkod": "6942103168185",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
+          "barkod": "8806097827177",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicni punjac Samsung 25W magnetic crni",
+          "barkod": "8806097912835",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 46mm Black (Vili-B19F)",
+          "barkod": "6942103132001",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S25 FE 5G 8GB/256GB dual SIM crni",
+          "barkod": "8806097644651",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM ljubicasti",
+          "barkod": "8806099035341",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna folija za Samsung Galaxy S26 Ultra prozirna 2 komada",
+          "barkod": "8806097880059",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB nebesko plavi",
+          "barkod": "8806097827610",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch Ultra LTE plavi (2025)",
+          "barkod": "8806097625285",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM svijetlo plavi",
+          "barkod": "8806097651147",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch8 Classic 46mm crni",
+          "barkod": "8806097415527",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch8 40mm srebrni",
+          "barkod": "8806097415756",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Fit 4 Pro zeleni (Seiya-B29W)",
+          "barkod": "6942103155062",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
+          "barkod": "6942103168253",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 41mm White Leather Strap (Jana-B19L)",
+          "barkod": "6942103131967",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Fold7 5G 12GB/256GB crni",
+          "barkod": "8806097425106",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3872-101",
+      "stavke": [
+        {
+          "naziv": "EA Sports UFC 6 PS5",
+          "barkod": "5030943125466",
+          "ocekivano": 20,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3875-101",
+      "stavke": [
+        {
+          "naziv": "TV PHILIPS 43PUS8510, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
+          "barkod": "8718863045770",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525934",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG OLED42C51LA 106.7cm (42\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
+          "barkod": "8806096368763",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097118565",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525958",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525804",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY K43S35BP.CEI, 109.2cm (43\"), Direct LED, 4K UHD SMART TV, Android TV",
+          "barkod": "4548736168121",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG UE55U8072FUXXH, 139.7cm (55\"), LED, 4K XH UHD Smart TV, Tizen OS",
+          "barkod": "8806097067603",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE65S85FAEXXH, 165.1cm (65\"), OLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806095995281",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351431420",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 32PHS5500, 81.3cm (32\"), LED, HD",
+          "barkod": "8718863048160",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 40A5S, 101.6cm (40\"), Hi-QLED, FHD Smart TV, VIDAA OS",
+          "barkod": "6942351429632",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE50QN80FAUXXH, 127.0cm (50\"), QLED, XH 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806095995533",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 43UA75003LA 109.2cm (43\"), LED, 4K UHD Smart TV, webOS",
+          "barkod": "8806096352793",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 55MLED820, 139.7cm (55\"), LED, UHD 4K Smart TV, Titan OS",
+          "barkod": "8718863046661",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
