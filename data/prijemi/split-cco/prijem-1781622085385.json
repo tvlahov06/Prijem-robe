@@ -5,7 +5,7 @@
   "datum": "2026-06-16",
   "status": "aktivan",
   "kreirano": "2026-06-16T15:01:25.385Z",
-  "azurirano": "2026-06-16T20:16:56.135Z",
+  "azurirano": "2026-06-16T20:17:43.811Z",
   "dokumenti": [
     {
       "naziv": "MSI 3820-101",
@@ -432,7 +432,7 @@
           "naziv": "Ventilator stojeci Midea MFZ402R0BPW",
           "barkod": "4048164119752",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ventilator stojeci Midea FZ10-21ARBW",
@@ -486,7 +486,7 @@
           "naziv": "Ventilator stojeci Midea MAC402R0BPK",
           "barkod": "6939924856520",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Klima uredaj 2,6 kW Hisense APH09QC mobilna",
