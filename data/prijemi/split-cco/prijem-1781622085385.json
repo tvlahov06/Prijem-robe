@@ -5,7 +5,7 @@
   "datum": "2026-06-16",
   "status": "aktivan",
   "kreirano": "2026-06-16T15:01:25.385Z",
-  "azurirano": "2026-06-16T20:17:58.023Z",
+  "azurirano": "2026-06-16T20:18:44.690Z",
   "dokumenti": [
     {
       "naziv": "MSI 3820-101",
@@ -432,7 +432,7 @@
           "naziv": "Ventilator stojeci Midea MFZ402R0BPW",
           "barkod": "4048164119752",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Ventilator stojeci Midea FZ10-21ARBW",
@@ -444,7 +444,7 @@
           "naziv": "Ventilator Elit F-16N",
           "barkod": "3875001741293",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "SV-RC Ventilator Suntec CoolBreeze 4000 SV-RC",
@@ -462,7 +462,7 @@
           "naziv": "Ventilator Xiaomi MI smart Fan 2 Pro",
           "barkod": "6934177775376",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Klima uredaj 3,5kW Bosch Climate CL3000i-Set 35 WE",
@@ -492,7 +492,7 @@
           "naziv": "Klima uredaj 2,6 kW Hisense APH09QC mobilna",
           "barkod": "6926597739922",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Klima uredaj 3,5 kW Hisense APH12QC mobilna",
