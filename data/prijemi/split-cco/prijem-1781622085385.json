@@ -5,7 +5,7 @@
   "datum": "2026-06-16",
   "status": "aktivan",
   "kreirano": "2026-06-16T15:01:25.385Z",
-  "azurirano": "2026-06-16T20:42:44.773Z",
+  "azurirano": "2026-06-16T20:47:48.658Z",
   "dokumenti": [
     {
       "naziv": "MSI 3820-101",
@@ -545,7 +545,7 @@
           "naziv": "Hisense Soundbar AX3120Q",
           "barkod": "6942351423432",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX kabel RF M/F 2m",
@@ -611,7 +611,7 @@
           "naziv": "Vogel's MA4040 zidni nosac za ekrane od 40-77\" sa pomakom 180° i nagibom 10°",
           "barkod": "8712285360800",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX EB-TWS-05, bez boja | Bezicne slusalice",
@@ -623,19 +623,19 @@
           "naziv": "SBOX Zidni stalak PLB-61486 (43-90\"/60kg/VESA 800x400)",
           "barkod": "0736373267145",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vogel's TVM1443 zidni nosac za ekrane od 32\"-65\" nagib do 15° pomak 180° 25kg",
           "barkod": "8712285349409",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX Fiksni zidni stalak PLB-2264F-2",
           "barkod": "3858894502929",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM5/S",
@@ -653,7 +653,7 @@
           "naziv": "Soundbar Sony HT-B600 BRAVIA Theatre Bar 6 Dolby Atmos",
           "barkod": "4548736165328",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony potpuno bezicne WF-C710N/P",
@@ -670,7 +670,7 @@
           "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C crni bez kabela",
           "barkod": "8806094912128",
           "ocekivano": 20,
-          "skenirano": 0
+          "skenirano": 21
         },
         {
           "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C bijeli bez kabela",
@@ -682,7 +682,7 @@
           "naziv": "Sat Samsung Galaxy Fit3 sivi",
           "barkod": "8806095362175",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
@@ -700,13 +700,13 @@
           "naziv": "Apple USB-C Power Adapter 20W",
           "barkod": "195950084658",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 10
         },
         {
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
           "barkod": "8806097651000",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
@@ -742,7 +742,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
           "barkod": "6942103168185",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
@@ -814,19 +814,19 @@
           "naziv": "Pametni sat Huawei Watch Fit 4 Pro zeleni (Seiya-B29W)",
           "barkod": "6942103155062",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
           "barkod": "6942103168253",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 41mm White Leather Strap (Jana-B19L)",
           "barkod": "6942103131967",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Fold7 5G 12GB/256GB crni",
