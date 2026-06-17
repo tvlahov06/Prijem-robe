@@ -1,0 +1,440 @@
+{
+  "id": "prijem-1781713742291",
+  "poslovnica": "zagreb-cco-west",
+  "naziv": "vinko",
+  "datum": "2026-06-17",
+  "status": "aktivan",
+  "kreirano": "2026-06-17T16:29:02.291Z",
+  "azurirano": "2026-06-17T16:29:02.291Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 3858-101",
+      "stavke": [
+        {
+          "naziv": "PS5 HD Camera",
+          "barkod": "711719321101",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation VR2 Sense Controller Charging Station",
+          "barkod": "711719480693",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Elite wireless headset Midnight Black",
+          "barkod": "711719590101",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 DualSense Edge Wireless Controller Midnight Black",
+          "barkod": "711719593263",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Elite wireless headset+",
+          "barkod": "711719598275",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Midnight Black za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022381",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Cosmic Red za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023012",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Rhythm Blue",
+          "barkod": "711719020943",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Techno Red",
+          "barkod": "711719020677",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Remix Green",
+          "barkod": "711719020912",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Midnight Black + USB-C kabel za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719025979",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC ANGE compatible) narancasti",
+          "barkod": "3499550360745",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS4 Nacon Compact Light Wired Controller REEN prozirno-zeleni",
+          "barkod": "3499550360868",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS5 Thumb Grips (6 kom. silikonskih thumb gripova za PS5 Dualsense kontroler)",
+          "barkod": "3665962006438",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben stereo gaming slusalice PS5 40mm speakers, V1CAMO 3.5mm jack Cammo",
+          "barkod": "3665962006391",
+          "ocekivano": 14,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben stalak za PS5 konzolu i punjac za Dualsense AND kontrolere (PS5 Standard Edition ili PS5 Slim",
+          "barkod": "3665962024975",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Tempered zastitno staklo za PS Portal GLASS",
+          "barkod": "3665962024661",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nacon zastitna prijenosna kutija za PS Portal (officially UCH licensed)",
+          "barkod": "3665962028072",
+          "ocekivano": 8,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3857-101",
+      "stavke": [
+        {
+          "naziv": "Samsung Galaxy Buds3 FE slusalice crne UC",
+          "barkod": "8806097621034",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar LG S20A",
+          "barkod": "8806096469934",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
+          "barkod": "8806097984795",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 4 (USB-C)",
+          "barkod": "195949688591",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple EarPods (USB-C)",
+          "barkod": "195949776274",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "KABEL SBOX HDMI-HDMI 2.1 M/M 3M 8K@60Hz",
+          "barkod": "3858894506354",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
+          "barkod": "198415435569",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
+          "barkod": "197029008220",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
+          "barkod": "195949689673",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple EarPods (Lightning Connector)",
+          "barkod": "195949506123",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SONY Bezicne slusalice WH1000XXW s funkcijom E7 ponistavanja buke 1000X THE COLLEXION bijele",
+          "barkod": "4548736173330",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony",
+          "barkod": "4548736171497",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SONY Bezicne slusalice WH1000XXB s funkcijom",
+          "barkod": "4548736171299",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zidni stalak Vogel's MA3000 za ekrane od 32\"-55\"",
+          "barkod": "8712285331329",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vogel's TVM3603 zidni nosac za ekrane od 40\"-100\" fiksni do 75kg",
+          "barkod": "8712285350023",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zidni stalak Vogel's za ekrane od 32\"-55\" sa nagibom i pomakom 180st., MA3040",
+          "barkod": "8712285331381",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zidni stalak Vogel's MA4000 za ekrane od 40\"-80\"",
+          "barkod": "8712285331404",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vogel's TVM3643 zidni nosac za ekrane od 40\"-77\" nagib do 20° pomak 180° 35kg",
+          "barkod": "8712285350207",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/B",
+          "barkod": "4548736162617",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 3856-101",
+      "stavke": [
+        {
+          "naziv": "Tinta HP 305 Tri-colour Original Ink Cartridge, 3YM60AE - Instant Ink",
+          "barkod": "194441597318",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305 Black Original Ink Cartridge, 3YM61AE - Instant Ink",
+          "barkod": "194441597332",
+          "ocekivano": 9,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305XL Cartridge Ink 3YM62AE, Boja Black - Instant Ink",
+          "barkod": "193905429288",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 652 Black Original Ink Advantage Cartridge, F6V25AE",
+          "barkod": "889296160939",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305XL Ink Cartridge 3YM63AE, Boja Tri-colour - Instant Ink",
+          "barkod": "0194441597370",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 103 za L11xx/L12xx/L31xx/L32xx/L51xx/L52xx, 65ml",
+          "barkod": "8715946655840",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 650 CZ102AE Tri-color Ink Cartridge",
+          "barkod": "886112546052",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Kyson 64GB USB 3.2",
+          "barkod": "740617309102",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MIS SBOX WM-993 Crni / Bezicni",
+          "barkod": "3858894503445",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer Basilisk V3 X HyperSpeed Wireless 0-R3G1",
+          "barkod": "8886419334316",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348453",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347890",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
+          "barkod": "740617348699",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
+          "barkod": "4713218461940",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
+          "barkod": "4713218461933",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347999",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
+          "barkod": "4718050609642",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347944",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Micro SD Samsung memorijska kartica 64GB EVO Plus + adapter MB-MC64SA/EU",
+          "barkod": "8806095420134",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CANON",
+          "barkod": "4960999974507",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
+          "barkod": "740617305371",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV box XIAOMI 3. gen",
+          "barkod": "6941948704916",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348507",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX PF Has 2 Core Wireless - Gaming Mouse Black",
+          "barkod": "197498115382",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD ADATA Gammix S70 Blade, R7200/W2600,512G, 512G-CS NVMe",
+          "barkod": "4711085936219",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SHADOW Rashladni stalak WHITE SHARK SHADOW, GCP-10 ICE, 2 vent, RGB",
+          "barkod": "3858894506972",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "tinta GI-490BK, crna",
+          "barkod": "4549292041729",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB Hub ACER 7in1 Type C Dongle, Srebrna",
+          "barkod": "4712842946571",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TX20U TP-LinkArcher TX20U Plus, AX1800 High Gain Wi-Fi 6 Plus",
+          "barkod": "4897098687888",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Canon tinta GI-490Y, zuta",
+          "barkod": "4549292041781",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ASUS ROG BP2701, ruksak za prijenosnike do 17\"",
+          "barkod": "4711387027714",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer DeathAdder V3 HyperSpeed 0-R3G1",
+          "barkod": "8886419334552",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
