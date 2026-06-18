@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "",
   "datum": "2026-06-18",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-06-18T11:58:49.103Z",
-  "azurirano": "2026-06-18T12:21:43.574Z",
+  "azurirano": "2026-06-18T12:22:31.236Z",
   "dokumenti": [
     {
       "naziv": "MSI 3890-101",
@@ -500,5 +500,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-06-18T12:22:31.236Z"
 }
