@@ -5,7 +5,7 @@
   "datum": "2026-06-18",
   "status": "aktivan",
   "kreirano": "2026-06-18T11:58:49.103Z",
-  "azurirano": "2026-06-18T12:21:11.547Z",
+  "azurirano": "2026-06-18T12:21:27.837Z",
   "dokumenti": [
     {
       "naziv": "MSI 3890-101",
@@ -145,7 +145,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
           "barkod": "4718050609642",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
@@ -271,7 +271,7 @@
           "naziv": "Tinta EPSON 103 T00S3 L3150 magenta ecotank C13T00S34A 65ml",
           "barkod": "8715946655864",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link RE190, pojacivac signala AC750",
@@ -307,7 +307,7 @@
           "naziv": "Canon tinta",
           "barkod": "4549292144642",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Podloga za mis White Shark PL 45x40x0,3cm SHIKORO L",
