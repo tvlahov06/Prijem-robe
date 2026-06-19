@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T08:06:00.943Z",
-  "azurirano": "2026-06-19T08:15:39.417Z",
+  "azurirano": "2026-06-19T08:15:45.365Z",
   "dokumenti": [
     {
       "naziv": "MSI 3955-101",
@@ -1018,7 +1018,7 @@
           "naziv": "Tinta CANON",
           "barkod": "4549292192612",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link bezicni pojacivac dometa (Universal Range Extender) 300Mbps, (2.4GHz), 802.11b/g/n, 1×RJ45",
