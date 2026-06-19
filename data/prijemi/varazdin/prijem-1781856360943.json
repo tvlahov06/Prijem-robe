@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T08:06:00.943Z",
-  "azurirano": "2026-06-19T10:51:23.188Z",
+  "azurirano": "2026-06-19T11:02:16.546Z",
   "dokumenti": [
     {
       "naziv": "MSI 3981-101",
@@ -710,53 +710,6 @@
         {
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
           "barkod": "5901292525798",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3954-101",
-      "stavke": [
-        {
-          "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
-          "barkod": "5901292525798",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "TV SAMSUNG QE65Q8FAAUXXH, 165.1cm (65\"), QLED, 4K H UHD Smart TV, Tizen OS",
-          "barkod": "8806097120483",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV PHILIPS 65OLED820, 165.1cm (65\"), OLED, UHD 4K 144Hz, Smart TV, Google TV - Ambilight",
-          "barkod": "8718863046708",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV LG OLED65G51LW 165.1cm (65\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS - sa zidnim nosacem",
-          "barkod": "8806096409664",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV SONY K65S35B.CEI, 165.1cm (65\"), Direct LED, 4K UHD SMART TV, Android TV",
-          "barkod": "4548736167810",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV SONY K65XR80PAEP, 165.1cm (65\"), OLED, 4K UHD SMART TV, Android TV",
-          "barkod": "4548736159754",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV TCL 65C9K, 165.1cm (65\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
-          "barkod": "5901292525644",
           "ocekivano": 1,
           "skenirano": 1
         }
