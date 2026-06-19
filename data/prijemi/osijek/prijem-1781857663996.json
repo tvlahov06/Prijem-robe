@@ -5,49 +5,8 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T08:27:43.996Z",
-  "azurirano": "2026-06-19T11:46:00.886Z",
+  "azurirano": "2026-06-19T11:46:15.020Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 3890-101",
-      "stavke": [
-        {
-          "naziv": "H-300 TV nosac BOF TVM H-300",
-          "barkod": "2010030072623",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "H-200 TV nosac BOF TVM H-200",
-          "barkod": "2010030072616",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "H-100 TV nosac BOF TVM H-100",
-          "barkod": "2010030072609",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "X-100 TV nosac BOF TVM X-100",
-          "barkod": "2010030072654",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "V-200 TV nosac BOF TVM V-200",
-          "barkod": "2010030072647",
-          "ocekivano": 4,
-          "skenirano": 5
-        },
-        {
-          "naziv": "V-100 TV nosac BOF TVM V-100",
-          "barkod": "2010030072630",
-          "ocekivano": 4,
-          "skenirano": 4
-        }
-      ]
-    },
     {
       "naziv": "MSI 3891-101",
       "stavke": [
