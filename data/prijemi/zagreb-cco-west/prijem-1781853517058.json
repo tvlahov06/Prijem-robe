@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T07:18:37.058Z",
-  "azurirano": "2026-06-19T07:20:47.718Z",
+  "azurirano": "2026-06-19T07:21:03.378Z",
   "dokumenti": [
     {
       "naziv": "logista1906",
@@ -68,25 +68,25 @@
           "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni bijeli",
           "barkod": "0194644133108",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "ANKER Nano Pro 512, 20W, USB-C, bijeli",
           "barkod": "0194644125646",
           "ocekivano": 5,
-          "skenirano": 2
+          "skenirano": 5
         },
         {
           "naziv": "Punjac KP NANO USB-C 45W",
           "barkod": "0194644292188",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "ANKER kucni punjac 33W, 1xUSB-C/1xUSB-A, crni",
           "barkod": "0194644125639",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "ANKER kucni punjac 33W, 1xUSB-C/1xUSB-A, bijeli",
@@ -98,7 +98,7 @@
           "naziv": "Pleteni kabel ANKER USB-C na USB-C Kabel 240W 90 cm",
           "barkod": "0194644199593",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         }
       ]
     }
