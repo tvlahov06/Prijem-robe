@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T08:06:00.943Z",
-  "azurirano": "2026-06-19T11:03:09.205Z",
+  "azurirano": "2026-06-19T11:03:13.096Z",
   "dokumenti": [
     {
       "naziv": "MSI 3981-101",
@@ -675,41 +675,6 @@
         {
           "naziv": "Mis ACER AMR130, Crna",
           "barkod": "4711474799708",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3884-101",
-      "stavke": [
-        {
-          "naziv": "TV PHILIPS 43PUS8510, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
-          "barkod": "8718863045770",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "STORM Hisense Soundbar PARTY STORM",
-          "barkod": "6942351423142",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV PHILIPS 32PHS5500, 81.3cm (32\"), LED, HD",
-          "barkod": "8718863048160",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV HISENSE 50A6S, 127cm (50\"), DLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351430263",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
-          "barkod": "5901292525798",
           "ocekivano": 1,
           "skenirano": 1
         }
