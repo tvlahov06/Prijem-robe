@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T18:34:02.398Z",
-  "azurirano": "2026-06-19T20:01:57.610Z",
+  "azurirano": "2026-06-19T20:02:01.910Z",
   "dokumenti": [
     {
       "naziv": "MSI 3872-101",
@@ -192,7 +192,7 @@
           "naziv": "Perilica rublja Bosch WAN24266BY",
           "barkod": "4242005396788",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja slim Hisense WF3S7021BW",
