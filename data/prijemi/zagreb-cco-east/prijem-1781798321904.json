@@ -5,7 +5,7 @@
   "datum": "2026-06-18",
   "status": "aktivan",
   "kreirano": "2026-06-18T15:58:41.904Z",
-  "azurirano": "2026-06-19T05:08:54.994Z",
+  "azurirano": "2026-06-19T05:08:58.000Z",
   "dokumenti": [
     {
       "naziv": "MSI 3975-101",
@@ -120,7 +120,7 @@
           "naziv": "Mlinac za kavu Bosch TSM6A011W bijeli",
           "barkod": "4242005108770",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC8057/01 Aqua Plus",
