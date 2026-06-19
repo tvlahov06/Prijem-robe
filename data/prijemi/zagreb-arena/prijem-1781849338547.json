@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T06:08:58.547Z",
-  "azurirano": "2026-06-19T11:30:15.083Z",
+  "azurirano": "2026-06-19T11:30:20.316Z",
   "dokumenti": [
     {
       "naziv": "MSI 3826-101",
@@ -1478,7 +1478,7 @@
           "naziv": "Usisavac Philips XD6142/12",
           "barkod": "8720389038303",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XD8142/12",
