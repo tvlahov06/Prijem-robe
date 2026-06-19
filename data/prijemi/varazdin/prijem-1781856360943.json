@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T08:06:00.943Z",
-  "azurirano": "2026-06-19T09:47:10.258Z",
+  "azurirano": "2026-06-19T09:47:38.682Z",
   "dokumenti": [
     {
       "naziv": "MSI 3955-101",
@@ -249,7 +249,7 @@
           "naziv": "Mikser stapni Philips HR2534/00 Daily Collection ProMix",
           "barkod": "8710103914457",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
