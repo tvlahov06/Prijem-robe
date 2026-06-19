@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T18:34:02.398Z",
-  "azurirano": "2026-06-19T20:06:35.562Z",
+  "azurirano": "2026-06-19T20:06:39.622Z",
   "dokumenti": [
     {
       "naziv": "MSI 3872-101",
@@ -174,7 +174,7 @@
           "naziv": "Perilica rublja Gorenje WNHEI74SAS",
           "barkod": "3838782608865",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Gorenje WNHPI84AS",
@@ -234,7 +234,7 @@
           "naziv": "Perilica rublja SAMSUNG WW80FG3M05AWLE WLE",
           "barkod": "8806097004745",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica posuda ugradbena 60cm Gorenje GV16A",
