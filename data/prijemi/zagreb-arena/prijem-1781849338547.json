@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T06:08:58.547Z",
-  "azurirano": "2026-06-19T11:35:12.702Z",
+  "azurirano": "2026-06-19T11:35:19.901Z",
   "dokumenti": [
     {
       "naziv": "MSI 3826-101",
@@ -62,7 +62,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 256GB, USB3.2",
           "barkod": "740617326383",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Kyson 64GB USB 3.2",
