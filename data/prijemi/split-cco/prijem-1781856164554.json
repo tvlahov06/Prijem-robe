@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T18:34:02.398Z",
-  "azurirano": "2026-06-19T20:12:36.090Z",
+  "azurirano": "2026-06-19T20:47:32.498Z",
   "dokumenti": [
     {
       "naziv": "MSI 3872-101",
@@ -61,7 +61,7 @@
           "naziv": "TV SONY K43S35BP.CEI, 109.2cm (43\"), Direct LED, 4K UHD SMART TV, Android TV",
           "barkod": "4548736168121",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG UE55U8072FUXXH, 139.7cm (55\"), LED, 4K XH UHD Smart TV, Tizen OS",
@@ -216,7 +216,7 @@
           "naziv": "Perilica rublja Gorenje W1NGPI72SBS",
           "barkod": "3838782874574",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Gorenje WNGPI61SBS",
@@ -270,13 +270,13 @@
           "naziv": "Perilica posuda ugradbena 60 cm Gorenje GV16C",
           "barkod": "3838782988707",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena Bosch PUE64KBB5E",
           "barkod": "4242005285389",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena Hisense HI6431BFZ",
@@ -294,7 +294,7 @@
           "naziv": "Ploca ugradbena Bosch PIX631HC1E",
           "barkod": "4242005394111",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena indukcija Gorenje GI6431BFZ",
@@ -312,31 +312,31 @@
           "naziv": "Mikrovalna pecnica Samsung MS23K3614AK/E2 E2",
           "barkod": "8806095686158",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mikrovalna pecnica Toshiba",
           "barkod": "6944271668320",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mikrovalna pecnica Midea MG720C2AT",
           "barkod": "6944271657560",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mikrovalna pecnica SAMSUNG MG23K3515AK/OL OL",
           "barkod": "8801643398408",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mikrovalna pecnica Toshiba",
           "barkod": "6944271650455",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
@@ -347,25 +347,25 @@
           "naziv": "Slusalice bluetooth JBL TUNE 670NC crne",
           "barkod": "6925281973208",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice zicane JBL TUNE 305C USB-C crne",
           "barkod": "1200130013898",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 crni",
           "barkod": "1200130019272",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 320 bijeli 0SWEP",
           "barkod": "1200130018947",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -376,31 +376,31 @@
           "naziv": "Usisavac Dyson V10 Absolute",
           "barkod": "5025155088081",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
           "barkod": "5025155117187",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
           "barkod": "5025155131992",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
           "barkod": "5025155112656",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Uredaj za ravnanje kose Dyson Airstrait Prussian Blue/Rich Copper",
           "barkod": "5025155070710",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
@@ -411,25 +411,25 @@
           "naziv": "Mop elektricni Philips XV5113/01",
           "barkod": "8720389035975",
           "ocekivano": 20,
-          "skenirano": 0
+          "skenirano": 20
         },
         {
           "naziv": "Mop elektricni Philips XV3101/11",
           "barkod": "8720389058707",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mop elektricni Philips dodaci XV1892/02 sredstvo za ciscenje poda",
           "barkod": "8720389035937",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "Mop elektricni Philips dodaci XV1882/20 zamjenski podni brisac",
           "barkod": "8720389057540",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
