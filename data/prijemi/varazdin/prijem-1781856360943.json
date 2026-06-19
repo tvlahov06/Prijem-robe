@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T08:06:00.943Z",
-  "azurirano": "2026-06-19T10:50:03.005Z",
+  "azurirano": "2026-06-19T10:50:20.263Z",
   "dokumenti": [
     {
       "naziv": "MSI 3981-101",
@@ -675,41 +675,6 @@
         {
           "naziv": "Mis ACER AMR130, Crna",
           "barkod": "4711474799708",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3882-101",
-      "stavke": [
-        {
-          "naziv": "Slusalice bluetooth JBL LIVE 670 NC plave LU",
-          "barkod": "1200130004759",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice zicane JBL TUNE 305C USB-C crne",
-          "barkod": "1200130013898",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 plavi",
-          "barkod": "1200130019289",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 320 crni 0EP",
-          "barkod": "1200130008764",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
-          "barkod": "1200130026294",
           "ocekivano": 1,
           "skenirano": 1
         }
