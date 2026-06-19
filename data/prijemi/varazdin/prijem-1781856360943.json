@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T08:06:00.943Z",
-  "azurirano": "2026-06-19T10:12:50.980Z",
+  "azurirano": "2026-06-19T10:46:21.826Z",
   "dokumenti": [
     {
       "naziv": "MSI 3955-101",
@@ -44,77 +44,6 @@
           "barkod": "8720389032271",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3957-101",
-      "stavke": [
-        {
-          "naziv": "Klima uredaj 5,0 kW Hisense CA50XS1GG/AS50XS1GW 50XS1GW",
-          "barkod": "6926597759616",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Klima uredaj 2,6 kW Hisense APH09QC mobilna",
-          "barkod": "6926597739922",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Klima uredaj 3,5 kW Hisense APH12QC mobilna",
-          "barkod": "6926597725123",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
-          "barkod": "6926597761725",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Klima uredaj 3,4 kW Hisense CA35LR03G/AS35LR03W 35LR03W",
-          "barkod": "6926597761732",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Klima uredaj 5,0 kW Hisense CF50XS1GG/AS50XS1GW 50XS1GW",
-          "barkod": "6926597759593",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Klima uredaj 3,5kW Bosch Climate CL3000i-Set 35 WE",
-          "barkod": "4062321296087",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Klima uredaj 5,3kW Bosch Climate CL3000i-Set 53 WE",
-          "barkod": "4062321345570",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Ventilator stojeci Midea MFZ402R0BPW",
-          "barkod": "4048164119752",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Ventilator stojeci Midea FZ10-21ARBW",
-          "barkod": "6939924844220",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Ventilator Elit F-16N",
-          "barkod": "3875001741293",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
