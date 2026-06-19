@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T18:34:02.398Z",
-  "azurirano": "2026-06-19T20:12:21.880Z",
+  "azurirano": "2026-06-19T20:12:36.090Z",
   "dokumenti": [
     {
       "naziv": "MSI 3872-101",
@@ -150,7 +150,7 @@
           "naziv": "Pecnica ugradbena Gorenje BPS6737E04DBG",
           "barkod": "3838782755217",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena Hisense BI64221PDBG",
@@ -186,7 +186,7 @@
           "naziv": "Perilica rublja Gorenje WNS84A2TWIFI",
           "barkod": "3838782858628",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Bosch WAN24266BY",
@@ -228,7 +228,7 @@
           "naziv": "Perilica rublja Gorenje WPNA84A2TSWIFI IFI",
           "barkod": "3838782858611",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja SAMSUNG WW80FG3M05AWLE WLE",
