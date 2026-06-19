@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T08:06:00.943Z",
-  "azurirano": "2026-06-19T10:51:09.772Z",
+  "azurirano": "2026-06-19T10:51:23.188Z",
   "dokumenti": [
     {
       "naziv": "MSI 3981-101",
@@ -710,35 +710,6 @@
         {
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
           "barkod": "5901292525798",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3899-101",
-      "stavke": [
-        {
-          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Ceramic Pink/Rose Gold",
-          "barkod": "5025155113080",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac Dyson V8 Absolute",
-          "barkod": "5025155090152",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Jasper Plum Straight+Wavy",
-          "barkod": "5025155112816",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
-          "barkod": "5025155112656",
           "ocekivano": 1,
           "skenirano": 1
         }
