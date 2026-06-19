@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T18:34:02.398Z",
-  "azurirano": "2026-06-19T19:49:21.730Z",
+  "azurirano": "2026-06-19T19:53:05.669Z",
   "dokumenti": [
     {
       "naziv": "MSI 3872-101",
@@ -156,13 +156,13 @@
           "naziv": "Pecnica ugradbena Hisense BI64221PDBG",
           "barkod": "3838782861383",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena Gorenje BPSA6747A08X",
           "barkod": "3838782512933",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Bosch WGG242Z3BY",
@@ -180,7 +180,7 @@
           "naziv": "Perilica rublja Gorenje WNHPI84AS",
           "barkod": "3838782743474",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Gorenje WNS84A2TWIFI",
@@ -198,7 +198,7 @@
           "naziv": "Perilica rublja slim Hisense WF3S7021BW",
           "barkod": "6901101826602",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Hisense WF5S1045BW",
