@@ -5,7 +5,7 @@
   "datum": "2026-06-18",
   "status": "aktivan",
   "kreirano": "2026-06-18T15:58:41.904Z",
-  "azurirano": "2026-06-19T05:10:01.438Z",
+  "azurirano": "2026-06-19T05:10:15.210Z",
   "dokumenti": [
     {
       "naziv": "MSI 3975-101",
@@ -96,7 +96,7 @@
           "naziv": "Usisavac Vivax VCC-700B NEO",
           "barkod": "3856005164905",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
