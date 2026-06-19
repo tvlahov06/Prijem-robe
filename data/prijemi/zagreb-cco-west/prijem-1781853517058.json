@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T07:18:37.058Z",
-  "azurirano": "2026-06-19T07:19:52.972Z",
+  "azurirano": "2026-06-19T07:20:02.560Z",
   "dokumenti": [
     {
       "naziv": "logista1906",
@@ -26,7 +26,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C TO MFI 120 CM",
           "barkod": "8018080347849",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
@@ -50,7 +50,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL MFI 120 CM",
           "barkod": "8018080175466",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 25W",
