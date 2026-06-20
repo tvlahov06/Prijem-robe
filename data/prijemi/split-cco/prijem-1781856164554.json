@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T18:34:02.398Z",
-  "azurirano": "2026-06-20T05:33:43.360Z",
+  "azurirano": "2026-06-20T05:33:55.744Z",
   "dokumenti": [
     {
       "naziv": "MSI 3937-101",
@@ -312,7 +312,7 @@
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
           "barkod": "8720389032370",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Philips HD2330/90 preklopni",
@@ -342,7 +342,7 @@
           "naziv": "Usisavac Philips XB2122/09",
           "barkod": "8710103925279",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips HD9285/00 Airfryer XXL",
