@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T18:34:02.398Z",
-  "azurirano": "2026-06-20T05:23:41.511Z",
+  "azurirano": "2026-06-20T05:23:51.435Z",
   "dokumenti": [
     {
       "naziv": "MSI 3937-101",
@@ -175,7 +175,7 @@
           "naziv": "Sjeckalica Philips HR1502/00",
           "barkod": "8720389066573",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sjeckalica Philips HR1507/00",
