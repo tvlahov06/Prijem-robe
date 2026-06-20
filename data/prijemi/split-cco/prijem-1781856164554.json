@@ -5,7 +5,7 @@
   "datum": "2026-06-19",
   "status": "aktivan",
   "kreirano": "2026-06-19T18:34:02.398Z",
-  "azurirano": "2026-06-20T05:35:34.726Z",
+  "azurirano": "2026-06-20T05:35:48.341Z",
   "dokumenti": [
     {
       "naziv": "MSI 3937-101",
@@ -306,7 +306,7 @@
           "naziv": "Usisavac Philips XC8057/01 Aqua Plus",
           "barkod": "8720389022449",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
