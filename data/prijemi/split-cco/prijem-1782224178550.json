@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T14:16:18.550Z",
-  "azurirano": "2026-06-23T14:20:31.844Z",
+  "azurirano": "2026-06-23T14:20:35.257Z",
   "dokumenti": [
     {
       "naziv": "povrat_sbox",
@@ -158,7 +158,7 @@
           "naziv": "SBOX adapter DVI M - VGA F 15pin",
           "barkod": "616320530747",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX kabel RF M/F 5m",
