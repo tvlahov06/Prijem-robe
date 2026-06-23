@@ -1,0 +1,214 @@
+{
+  "id": "prijem-1782224178550",
+  "poslovnica": "split-cco",
+  "naziv": "sbox",
+  "datum": "2026-06-23",
+  "status": "aktivan",
+  "kreirano": "2026-06-23T14:16:18.550Z",
+  "azurirano": "2026-06-23T14:16:18.550Z",
+  "dokumenti": [
+    {
+      "naziv": "povrat_sbox",
+      "stavke": [
+        {
+          "naziv": "SBOX kabel DP-Mini DP M/M 2m 4K/60Hz",
+          "barkod": "0616320535315",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kabel HDMI - Mini DP M/M 2M",
+          "barkod": "0616320535155",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Organizator kablova SBOX CC-1113 Crni",
+          "barkod": "3858894509218",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kabel RF M/F 2m",
+          "barkod": "0616320532932",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kabel HDMI - 1,4, 10m",
+          "barkod": "3880000160518",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kabel RF M/F 10m",
+          "barkod": "616320537272",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "KABEL SBOX HDMI-HDMI 2.1 M/M 3M 8K@60Hz",
+          "barkod": "3858894506354",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX audio kabel 2 x RCA Muski -> 2 x RCA Muski, 1,5 M",
+          "barkod": "8697671414285",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kabel HDMI-DISPLAY PORT M/M 2m",
+          "barkod": "0616320532871",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "KABEL SBOX 3,5mm M.-3,5mm M. 0.5M",
+          "barkod": "3858894502028",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kabel audio 3,5mm M -> 3,5mm M 2m",
+          "barkod": "3880000900015",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel HDMI Muski - MICRO HDMI Muski 1.4, 2 m",
+          "barkod": "3880000360611",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kabel HDMI- DVI (24+1) M/M 2m",
+          "barkod": "0616320532864",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DALJINSKI SBOX RC-01405 za Hisense televizore",
+          "barkod": "3858894502233",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX ADAPTER MICRO USB 2.0 F. -> TYPE C M. Crni",
+          "barkod": "616320535599",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ADAPTER SBOX F F - RF M",
+          "barkod": "0616320536503",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX MIKROFON PM-402",
+          "barkod": "0736373267954",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CABLE MANAGEMENT SBOX CC-1016 crni",
+          "barkod": "3858894507030",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX DRZAC KABLOVA CH-44",
+          "barkod": "736373265509",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kabel HDMI - 1,4, 3 m",
+          "barkod": "3880000160501",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kabel HDMI - 1,4, 5m",
+          "barkod": "3880000161492",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "RASHLADNI STALAK SBOX CP-08",
+          "barkod": "3858894501908",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac za HP laptope SBOX HP-65W/ 19.5V-65W",
+          "barkod": "616320533960",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "KABEL SBOX DP-DVI M/M 2M",
+          "barkod": "0616320535179",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX adapter DVI M - VGA F 15pin",
+          "barkod": "616320530747",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kabel RF M/F 5m",
+          "barkod": "0616320537265",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PUNJAC ZA APPLE SBOX MAGSAFE2 AP-85W / 85W",
+          "barkod": "0736373267336",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ADAPTER SBOX F F - F F Spojnica",
+          "barkod": "0616320536497",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ADAPTER SBOX 2X RCA - 2X RCA F/F",
+          "barkod": "0616320531423",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ADAPTER SBOX MICRO USB 2.0 F - TYPE C M bijeli",
+          "barkod": "0616320535582",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "KABEL SBOX DVI-D (24+1) DUAL LINK M/M 2M",
+          "barkod": "0616320535322",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DALJINSKI SBOX RC-01406 za TCL televizore",
+          "barkod": "3858894502240",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX kabel TOSLINK-TOSLINK M/M 1,5m",
+          "barkod": "616320535643",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
