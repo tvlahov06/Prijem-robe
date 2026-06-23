@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T14:16:18.550Z",
-  "azurirano": "2026-06-23T14:22:40.450Z",
+  "azurirano": "2026-06-23T14:22:42.870Z",
   "dokumenti": [
     {
       "naziv": "povrat_sbox",
@@ -194,7 +194,7 @@
           "naziv": "KABEL SBOX DVI-D (24+1) DUAL LINK M/M 2M",
           "barkod": "0616320535322",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DALJINSKI SBOX RC-01406 za TCL televizore",
