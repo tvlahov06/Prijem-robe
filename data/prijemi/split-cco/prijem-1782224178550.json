@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T14:16:18.550Z",
-  "azurirano": "2026-06-23T14:23:25.785Z",
+  "azurirano": "2026-06-23T14:23:29.772Z",
   "dokumenti": [
     {
       "naziv": "povrat_sbox",
@@ -152,7 +152,7 @@
           "naziv": "KABEL SBOX DP-DVI M/M 2M",
           "barkod": "0616320535179",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX adapter DVI M - VGA F 15pin",
