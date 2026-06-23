@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "sbox",
   "datum": "2026-06-23",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-06-23T14:16:18.550Z",
-  "azurirano": "2026-06-23T14:27:35.599Z",
+  "azurirano": "2026-06-23T14:33:15.236Z",
   "dokumenti": [
     {
       "naziv": "povrat_sbox",
@@ -210,5 +210,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-06-23T14:33:15.236Z"
 }
