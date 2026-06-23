@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T14:16:18.550Z",
-  "azurirano": "2026-06-23T14:24:54.469Z",
+  "azurirano": "2026-06-23T14:25:22.014Z",
   "dokumenti": [
     {
       "naziv": "povrat_sbox",
@@ -92,7 +92,7 @@
           "naziv": "DALJINSKI SBOX RC-01405 za Hisense televizore",
           "barkod": "3858894502233",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX ADAPTER MICRO USB 2.0 F. -> TYPE C M. Crni",
@@ -200,7 +200,7 @@
           "naziv": "DALJINSKI SBOX RC-01406 za TCL televizore",
           "barkod": "3858894502240",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX kabel TOSLINK-TOSLINK M/M 1,5m",
