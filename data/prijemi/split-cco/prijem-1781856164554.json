@@ -2,10 +2,10 @@
   "id": "prijem-1781856164554",
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
-  "datum": "2026-06-19",
+  "datum": "2026-06-23",
   "status": "aktivan",
-  "kreirano": "2026-06-19T18:34:02.398Z",
-  "azurirano": "2026-06-20T06:56:27.237Z",
+  "kreirano": "2026-06-23T18:18:35.722Z",
+  "azurirano": "2026-06-23T18:18:35.722Z",
   "dokumenti": [
     {
       "naziv": "MSI 3963-101",
@@ -984,6 +984,260 @@
           "naziv": "PlayStation 5 Slim E chassis + PS5 Dualsense Wireless Controller",
           "barkod": "711719022602",
           "ocekivano": 20,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4045-101",
+      "stavke": [
+        {
+          "naziv": "Friteza na vruci zrak Bosch MAF671B1 Airfryer",
+          "barkod": "4242005525997",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser stapni Bosch MSM6M810 ErgoMaster",
+          "barkod": "4242005340583",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BCHF220B Readyy'y, crni",
+          "barkod": "4242005183302",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGB41POW1 ProPower Crna",
+          "barkod": "4242005483990",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGL6POW1 ProPower, crni",
+          "barkod": "4242005227853",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGLS2BA1",
+          "barkod": "4242005310982",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhinjski asistent Bosch MUM5XW20 MUM5 CreationLine",
+          "barkod": "4242005185207",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser stapni Bosch MSM4B620 ErgoMaster",
+          "barkod": "4242005346639",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser Stapni Bosch MSM4B621 ErgoMaster",
+          "barkod": "4242005346622",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sjeckalica Bosch MMR08R2 800 ml, crvena/antracit",
+          "barkod": "4242002742274",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Bosch TCG4215, silver",
+          "barkod": "4242005238699",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BCS711EXT Unlimited 7, crni",
+          "barkod": "4242005306985",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGS41K332",
+          "barkod": "4242005168392",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vrecice za usisavac Bosch BBZ16GALL 16 kom",
+          "barkod": "4242005076581",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vrecice za usisavac Bosch BBZ41FGALL",
+          "barkod": "4242002830414",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vrecice za usisavac Bosch BBZAFGALL AirFresh 4kom",
+          "barkod": "4242005135790",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vrecice za usisavac Bosch BBZWD4BAG",
+          "barkod": "4242005174423",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4058-101",
+      "stavke": [
+        {
+          "naziv": "TV SAMSUNG UE55U8072FUXXH, 139.7cm (55\"), LED, 4K XH UHD Smart TV, Tizen OS",
+          "barkod": "8806097067603",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 55U7SE, 139.7cm (55\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351433677",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY K55S35B.CEI, 139.7cm (55\"), Direct LED, 4K UHD SMART TV, Android TV",
+          "barkod": "4548736167902",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 40A5S, 101.6cm (40\"), Hi-QLED, FHD Smart TV, VIDAA OS",
+          "barkod": "6942351429632",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 43PUS7810, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS",
+          "barkod": "8718863046159",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE50QN80FAUXXH, 127.0cm (50\"), QLED, XH 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806095995533",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097118565",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525934",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351431420",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG OLED42C51LA 106.7cm (42\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
+          "barkod": "8806096368763",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 55MLED820, 139.7cm (55\"), LED, UHD 4K Smart TV, Titan OS",
+          "barkod": "8718863046661",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4063-101",
+      "stavke": [
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Ceramic Pink/Rose Gold",
+          "barkod": "5025155113080",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V10 Absolute",
+          "barkod": "5025155088081",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V8 Absolute",
+          "barkod": "5025155090152",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
+          "barkod": "5025155117187",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Jasper Plum Straight+Wavy",
+          "barkod": "5025155112816",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic Apricot/Topaz Straight+Wavy",
+          "barkod": "5025155127964",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
+          "barkod": "5025155127759",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dyson ventilator AM12 Cool CF1 (602807) White/Silver",
+          "barkod": "5025155115398",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4068-101",
+      "stavke": [
+        {
+          "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
+          "barkod": "6926597761725",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 5,0 kW Hisense CA50XS1GG/AS50XS1GW 50XS1GW",
+          "barkod": "6926597759616",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 3,5 kW Hisense APH12QC mobilna",
+          "barkod": "6926597725123",
+          "ocekivano": 2,
           "skenirano": 0
         }
       ]
