@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T17:56:32.319Z",
-  "azurirano": "2026-06-24T04:54:02.664Z",
+  "azurirano": "2026-06-24T04:54:12.283Z",
   "dokumenti": [
     {
       "naziv": "MSI 3998-101",
@@ -508,7 +508,7 @@
           "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
           "barkod": "194850664199",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP Smart Tank 675 All-in-On",
