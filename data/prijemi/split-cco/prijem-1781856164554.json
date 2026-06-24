@@ -5,7 +5,7 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T11:21:53.503Z",
-  "azurirano": "2026-06-24T19:55:11.078Z",
+  "azurirano": "2026-06-24T19:55:20.224Z",
   "dokumenti": [
     {
       "naziv": "MSI 4058-101",
@@ -20,7 +20,7 @@
           "naziv": "TV HISENSE 55U7SE, 139.7cm (55\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351433677",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SONY K55S35B.CEI, 139.7cm (55\"), Direct LED, 4K UHD SMART TV, Android TV",
@@ -38,13 +38,13 @@
           "naziv": "TV PHILIPS 43PUS7810, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS",
           "barkod": "8718863046159",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE50QN80FAUXXH, 127.0cm (50\"), QLED, XH 4K UHD Smart TV, Tizen OS",
           "barkod": "8806095995533",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
@@ -68,13 +68,13 @@
           "naziv": "TV LG OLED42C51LA 106.7cm (42\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096368763",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 55MLED820, 139.7cm (55\"), LED, UHD 4K Smart TV, Titan OS",
           "barkod": "8718863046661",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
