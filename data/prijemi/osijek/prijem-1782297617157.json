@@ -5,7 +5,7 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T10:40:17.157Z",
-  "azurirano": "2026-06-24T11:15:33.395Z",
+  "azurirano": "2026-06-24T11:15:39.044Z",
   "dokumenti": [
     {
       "naziv": "MSI 3967-101",
@@ -50,7 +50,7 @@
           "naziv": "Canon tinta GI490M",
           "barkod": "4549292041767",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Baracuda MIS BGM-047 MANTA SIVI / 12.800 dpi",
@@ -122,7 +122,7 @@
           "naziv": "USB Hub ACER 7in1 Type C Dongle, Srebrna",
           "barkod": "4712842946571",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis HyperX Pulsefire Haste 2 - Wireless Black",
@@ -236,7 +236,7 @@
           "naziv": "MIS SBOX WM-993 Roza / Bezicni",
           "barkod": "3858894503469",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TORBA SBOX NSE-2022 HONG KONG 15,6\"",
