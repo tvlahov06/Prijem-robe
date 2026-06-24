@@ -5,7 +5,7 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T10:40:17.157Z",
-  "azurirano": "2026-06-24T11:16:00.725Z",
+  "azurirano": "2026-06-24T11:16:05.819Z",
   "dokumenti": [
     {
       "naziv": "MSI 3967-101",
@@ -158,7 +158,7 @@
           "naziv": "USB STICK KINGSTON FD Exodia 64GB USB 3.2",
           "barkod": "740617309829",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
@@ -224,7 +224,7 @@
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
           "barkod": "4897098683446",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TP-Link RE450 bezicni pojacivac dometa, Dual Band GHz/5GHz, 10/100/1000 LAN prikljucak",
