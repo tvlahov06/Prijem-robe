@@ -5,7 +5,7 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T10:45:51.826Z",
-  "azurirano": "2026-06-24T11:49:58.557Z",
+  "azurirano": "2026-06-24T11:50:04.345Z",
   "dokumenti": [
     {
       "naziv": "MSI 3981-101",
@@ -551,95 +551,6 @@
           "barkod": "711719025979",
           "ocekivano": 6,
           "skenirano": 6
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4050-101",
-      "stavke": [
-        {
-          "naziv": "Friteza na vruci zrak Bosch MAF671B1 Airfryer",
-          "barkod": "4242005525997",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Bosch BGLS2BA1",
-          "barkod": "4242005310982",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Kuhinjski asistent Bosch MUM5XW20 MUM5 CreationLine",
-          "barkod": "4242005185207",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mikser stapni Bosch MSM4B620 ErgoMaster",
-          "barkod": "4242005346639",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mikser Stapni Bosch MSM4B621 ErgoMaster",
-          "barkod": "4242005346622",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Sjeckalica Bosch MMR08A1 800 ml, bijela/antracit",
-          "barkod": "4242002742816",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Sjeckalica Bosch MMR08R2 800 ml, crvena/antracit",
-          "barkod": "4242002742274",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Toster grill Bosch TCG4215, silver",
-          "barkod": "4242005238699",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Bosch BCS711EXT Unlimited 7, crni",
-          "barkod": "4242005306985",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Bosch BGS41K332",
-          "barkod": "4242005168392",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Vrecice za usisavac Bosch BBZ16GALL 16 kom",
-          "barkod": "4242005076581",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Vrecice za usisavac Bosch BBZ41FGALL",
-          "barkod": "4242002830414",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Vrecice za usisavac Bosch BBZAFGALL AirFresh 4kom",
-          "barkod": "4242005135790",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Vrecice za usisavac Bosch BBZWD4BAG",
-          "barkod": "4242005174423",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     },
