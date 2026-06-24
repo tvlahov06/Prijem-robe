@@ -5,7 +5,7 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T10:45:51.826Z",
-  "azurirano": "2026-06-24T10:55:15.713Z",
+  "azurirano": "2026-06-24T10:55:23.206Z",
   "dokumenti": [
     {
       "naziv": "MSI 3981-101",
@@ -20,7 +20,7 @@
           "naziv": "Baracuda TIPKOVNICA BGK-01124 KRILL Bijela / US",
           "barkod": "3858894503728",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis ACER AMR130, Zelena",
@@ -38,7 +38,7 @@
           "naziv": "za mis BARACUDA BGMP-01 Stormbringer, 750x350 mm | XXL gaming podloga",
           "barkod": "3858894505135",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Baracuda TIPKOVNICA BGK-03111 DOLPHIN Crna - D SW. Mehanicka / US-CRVENI.SW.",
@@ -50,7 +50,7 @@
           "naziv": "Baracuda TIPKOVNICA BGK-03211 DOLPHIN D SW. Bijela-Mehanicka / US - CRVENI.SW.",
           "barkod": "3858894507498",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD ADATA Gammix S70 Blade, R7400/W5500,1TB, NVMe 1T-CS",
@@ -152,7 +152,7 @@
           "naziv": "White Shark TIPKOVNICA GK-2201 RONIN Crna / HR",
           "barkod": "0736373271135",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Razer DeathAdder Essential, bijeli 0-R3M1",
