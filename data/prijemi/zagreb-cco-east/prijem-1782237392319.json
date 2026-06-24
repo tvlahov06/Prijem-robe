@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T17:56:32.319Z",
-  "azurirano": "2026-06-24T05:42:30.192Z",
+  "azurirano": "2026-06-24T05:42:34.391Z",
   "dokumenti": [
     {
       "naziv": "MSI 3998-101",
@@ -38,7 +38,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK KINGSTON 64GB DT50 3.2 KC-U2G64-5R",
@@ -50,7 +50,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
