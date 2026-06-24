@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T17:56:32.319Z",
-  "azurirano": "2026-06-24T05:41:42.106Z",
+  "azurirano": "2026-06-24T05:41:46.260Z",
   "dokumenti": [
     {
       "naziv": "MSI 3998-101",
@@ -50,7 +50,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
@@ -98,7 +98,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
           "barkod": "4718050609642",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
