@@ -5,7 +5,7 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T10:45:51.826Z",
-  "azurirano": "2026-06-24T11:01:58.471Z",
+  "azurirano": "2026-06-24T11:02:03.877Z",
   "dokumenti": [
     {
       "naziv": "MSI 3981-101",
@@ -32,7 +32,7 @@
           "naziv": "TP-Link RE190, pojacivac signala AC750",
           "barkod": "6935364089665",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "za mis BARACUDA BGMP-01 Stormbringer, 750x350 mm | XXL gaming podloga",
@@ -140,7 +140,7 @@
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
           "barkod": "4897098683446",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta HP 650 CZ102AE Tri-color Ink Cartridge",
