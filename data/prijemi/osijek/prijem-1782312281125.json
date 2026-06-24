@@ -1,0 +1,458 @@
+{
+  "id": "prijem-1782312281125",
+  "poslovnica": "osijek",
+  "naziv": "DODATAK 24.06. LOGITECH I ONA DRUGA PALETA",
+  "datum": "2026-06-24",
+  "status": "aktivan",
+  "kreirano": "2026-06-24T14:44:41.125Z",
+  "azurirano": "2026-06-24T14:44:41.125Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 4089-101",
+      "stavke": [
+        {
+          "naziv": "HP DeskJet 2920 All-in-One (89F97B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "198701680109",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP OfficeJet Pro 8122e All-in-One (405U3B) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Duplex, Wi-Fi, LAN, USB,",
+          "barkod": "196337163881",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
+          "barkod": "194850664199",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer HP Smart Tank 675 All-in-On",
+          "barkod": "195908302667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP Envy 6110e All-in-One (714J3B) Color Inkjet MF pisac - Print, Scan, Copy, Mobile Fax, Duplex, Wi-Fi, USB, A4 -",
+          "barkod": "197498438979",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pisac MFP Epson EcoTank L3271",
+          "barkod": "8715946729701",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 50PUS7810, 127.0cm (50\"), QLED, UHD 4K Smart TV, Titan OS",
+          "barkod": "8718863046166",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 34\" Samsung Odyssey G55T, LC34G55TWWPXEN, XEN VA, UWQHD, 165Hz, zakrivljen",
+          "barkod": "8806094796315",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SAMSUNG 27\" Essential Monitor S4 S43UF EN LS27F434UAUXEN, IPS Full HD, 100Hz, 5ms, DisplayPort,",
+          "barkod": "8806097199144",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SAMSUNG 27\" ViewFinity S8 Monitor LS27D800UAUXEN, EN IPS 4K UHD, 60Hz, 5ms, HDR10, DisplayPort, HDMI,",
+          "barkod": "8806095541945",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MSI 23.6\" MAG Gaming Monitor MAG 244C, VA Curved Full",
+          "barkod": "4711377259156",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MSI 27\" Modern Monitor MD272UPHW, IPS 4K UHD, 60Hz, MD272UPHW 4ms, Adaptive-Sync, DisplayPort, 2x HDMI, USB-C, USB",
+          "barkod": "4711377262248",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DELL 24\" Gaming monitor SE2425HG, IPS Full HD, 200Hz, 1ms, AMD FreeSync Premium, Display Port, 2x HDMI",
+          "barkod": "5397184962893",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4091-101",
+      "stavke": [
+        {
+          "naziv": "Uncharted Collection HITS PS4 B37",
+          "barkod": "711719710516",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Animal Crossing New Horizons Switch WHORSW",
+          "barkod": "045496425449",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Final Fantasy VII & Final Fantasy VIII Remastered Switch A33",
+          "barkod": "5021290087828",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Marvel's Spider-Man: Miles Morales PS4 D37",
+          "barkod": "711719818823",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "It Takes Two PS4 D27",
+          "barkod": "5030945124696",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bayonetta 3 Switch C25",
+          "barkod": "045496478445",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hogwarts Legacy Switch A37",
+          "barkod": "5051895414910",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mortal Kombat 1 Switch C12",
+          "barkod": "5051895416716",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prince Of Persia The Lost Crown PS4 B38",
+          "barkod": "3307216265399",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Crew Motorfest PS5 D35",
+          "barkod": "3307216270096",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Luigi's Mansion 2 HD Switch DSW",
+          "barkod": "045496512149",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 DualSense Edge Wireless Controller Midnight Black",
+          "barkod": "711719593263",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MotoGP 25 Day1 Edition Switch",
+          "barkod": "8056216170350",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "F1 25 PS5",
+          "barkod": "5030937125380",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch 2 Joy-Con Right Light Red",
+          "barkod": "0045496321406",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch 2 Joy-Con Pair Light Blue & Light Red",
+          "barkod": "0045496321413",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch 2 Carrying Case And Screen Protector",
+          "barkod": "045496321437",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch 2 Camera Black",
+          "barkod": "0045496321468",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch 2 Camera Piranha Plant",
+          "barkod": "4961818039773",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sid Meiers Civilization VII CIAB Switch 2",
+          "barkod": "5026555072052",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hogwarts Legacy Switch 2",
+          "barkod": "5051895418611",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EA SPORTS FC 26 PS4",
+          "barkod": "5030944125335",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mario and Rabbids Double Pack CIAB Switch",
+          "barkod": "3307216305644",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "007 First Light PS5",
+          "barkod": "884095225308",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Remix Green",
+          "barkod": "711719020912",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Indiana Jones and the Great Circle Switch 2",
+          "barkod": "196388816279",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Red Dead Redemption HD PS5",
+          "barkod": "5026555439435",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Super Mario Bros Wonder NS2 Edition UP",
+          "barkod": "0045496313913",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4092-101",
+      "stavke": [
+        {
+          "naziv": "Mis Logitech M185, sivi",
+          "barkod": "5099206027275",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan Logitech G923 Driving force + Shifter Logitech Driving Force",
+          "barkod": "5099206124745",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnici Logitech Z150, 2.0, bijeli",
+          "barkod": "5099206048799",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M190, crveni",
+          "barkod": "5099206091856",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M196, rozi",
+          "barkod": "5099206128316",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LOGITECH G213 Prodigy, gaming tipkovnica",
+          "barkod": "5099206125469",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech BRIO 300 bijela",
+          "barkod": "5099206104945",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech POP Universal, bijeli",
+          "barkod": "5099206126398",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan LOGITECH G G29 + mjenjac",
+          "barkod": "5099206132467",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M650 L, za ljevake, crni",
+          "barkod": "5099206097209",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech POP Universal, crni",
+          "barkod": "5099206126381",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech Desk Mat Studio, Lila",
+          "barkod": "5099206126572",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnici Logitech Z313, 2.1",
+          "barkod": "5099206022898",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech BRIO 500 roza",
+          "barkod": "5099206104907",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G309 LIGHTSPEED, crni",
+          "barkod": "5099206117860",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G515 Lightspeed TKL white US",
+          "barkod": "5099206119796",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnici Logitech Z407, 2.1 Bluetooth, crni",
+          "barkod": "5099206093263",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LOGITECH G29 za PS3, PS4, PS5 i PC, igraci volan",
+          "barkod": "5099206057302",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH MX Master 4 grafit",
+          "barkod": "5099206133082",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech Studio, crna",
+          "barkod": "5099206099470",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH MX Master 3S \"SE\" grafit",
+          "barkod": "5099206129382",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech Desk Mat Studio, siva",
+          "barkod": "5099206099500",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G G321 crne",
+          "barkod": "5099206133303",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
+          "barkod": "5099206089235",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech C270 HD",
+          "barkod": "5099206064201",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Shifter Logitech Driving Force",
+          "barkod": "5099206057661",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech Desk Mat Studio, roza",
+          "barkod": "5099206099517",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M650 L, crni",
+          "barkod": "5099206097179",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G515 Lightspeed TKL black US",
+          "barkod": "5099206119871",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH MX Master 4 bijeli",
+          "barkod": "5099206133099",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech BRIO 100 crna",
+          "barkod": "5099206113268",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
