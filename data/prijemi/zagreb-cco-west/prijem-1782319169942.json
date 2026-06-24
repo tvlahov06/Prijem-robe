@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "jbl jeboti pas mater",
   "datum": "2026-06-24",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-06-24T16:39:29.942Z",
-  "azurirano": "2026-06-24T16:45:34.398Z",
+  "azurirano": "2026-06-24T16:45:37.402Z",
   "dokumenti": [
     {
       "naziv": "jbl upitnik",
@@ -54,5 +54,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-06-24T16:45:37.402Z"
 }
