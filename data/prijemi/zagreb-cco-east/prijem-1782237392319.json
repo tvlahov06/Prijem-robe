@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T17:56:32.319Z",
-  "azurirano": "2026-06-24T05:54:07.610Z",
+  "azurirano": "2026-06-24T05:54:09.870Z",
   "dokumenti": [
     {
       "naziv": "MSI 3998-101",
@@ -205,7 +205,7 @@
           "naziv": "Mis Logitech M650, crni",
           "barkod": "5099206097223",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Volan Logitech G923 Driving force + Shifter Logitech Driving Force",
