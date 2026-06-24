@@ -5,7 +5,7 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T10:40:17.157Z",
-  "azurirano": "2026-06-24T11:15:55.168Z",
+  "azurirano": "2026-06-24T11:16:00.725Z",
   "dokumenti": [
     {
       "naziv": "MSI 3967-101",
@@ -224,7 +224,7 @@
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
           "barkod": "4897098683446",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link RE450 bezicni pojacivac dometa, Dual Band GHz/5GHz, 10/100/1000 LAN prikljucak",
@@ -391,7 +391,7 @@
           "naziv": "TP-link UC400 USB-C to USB 3.0 Adapter 1 USB-C connector 1 USB 3.0 port",
           "barkod": "6935364096151",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX WM-852, bijela boja, bezicni | Wireless mis",
