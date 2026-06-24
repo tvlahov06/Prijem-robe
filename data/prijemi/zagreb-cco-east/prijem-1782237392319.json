@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T17:56:32.319Z",
-  "azurirano": "2026-06-24T05:55:48.029Z",
+  "azurirano": "2026-06-24T05:55:52.267Z",
   "dokumenti": [
     {
       "naziv": "MSI 3998-101",
@@ -271,7 +271,7 @@
           "naziv": "Web kamera Logitech BRIO 300 bijela",
           "barkod": "5099206104945",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Volan LOGITECH G G29 + mjenjac",
@@ -307,7 +307,7 @@
           "naziv": "Web kamera Logitech BRIO 300 crna",
           "barkod": "5099206104938",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Podloga za mis Logitech Desk Mat Studio, Lila",
