@@ -5,7 +5,7 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T10:40:17.157Z",
-  "azurirano": "2026-06-24T12:13:43.752Z",
+  "azurirano": "2026-06-24T12:14:08.340Z",
   "dokumenti": [
     {
       "naziv": "MSI 3967-101",
@@ -493,125 +493,6 @@
           "barkod": "4547410364866",
           "ocekivano": 20,
           "skenirano": 20
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4024-101",
-      "stavke": [
-        {
-          "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ01CTSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
-          "barkod": "199274826741",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop HP 250R G10 D74XFET, 39.6cm (15.6\") Full HD, Intel Core 5 120U, 8 GB RAM, 512 GB SSD, Intel Graphics,",
-          "barkod": "821844233481",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA5337W, 39.6cm F90 (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
-          "barkod": "4711636496544",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Laptop ASUS VivoBook 15 X1504VA-BQ4102, 39.6cm EY0 (15.6\") IPS Full HD, Intel Core 5 120U, 16 GB RAM, 512 GB",
-          "barkod": "4711636317634",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 16 X1605VAPBF-SH223, 40.6cm X20 (16\") OLED Full HD, Intel Core 9 270H, 24 GB RAM, 1 TB",
-          "barkod": "4711636496513",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Laptop LENOVO V15 G5 83HF00CJSC, 39.6cm (15.6\") IPS Full HD, Intel Core i5-13420H, 16 GB RAM, 512 GB SSD,",
-          "barkod": "199272373445",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ACER Nitro V 15 NH.QV2EX.006, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 7 240H, 16 GB RAM, 1 TB",
-          "barkod": "4711474444752",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A16 FA607NUG-RL142, 40.6cm A00 (16\") FHD+ WUXGA 144Hz, AMD Ryzen 7 7445HS, 16 GB",
-          "barkod": "4711636145053",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS Zenbook 14 UX3405CA-ST1439W, 35.6cm 3M0 (14\") OLED 3K 120Hz, Intel Core Ultra 7 255H, 32 GB RAM,",
-          "barkod": "4711636496483",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Silver, mhfa4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
-          "barkod": "195950850697",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A16 FA608UMI-TU167W, 40.6cm L40 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 260, 16 GB RAM,",
-          "barkod": "4711636546690",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop LENOVO Yoga 7 2-in-1 83JR008ASC, 35.6cm (14\") OLED WUXGA Touch, AMD Ryzen AI 7 350, 32 GB RAM, 1",
-          "barkod": "199272023241",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming F16 FX608JMR-RV024, 40.6cm",
-          "barkod": "4711636037297",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS Zenbook 14 UM3406GA-QD028W, 35.6cm E10 (14\") OLED WUXGA, AMD Ryzen AI 7 445, 16 GB RAM, 1",
-          "barkod": "4711636496490",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Blush, mhfj4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
-          "barkod": "195950853988",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS ROG Strix G16 G614PM-RV160, 40.6cm (16\") 08L0 IPS WUXGA 165Hz, AMD Ryzen 9 8940HX, 32 GB RAM, 1",
-          "barkod": "4711636400831",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Citrus, mhfd4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
-          "barkod": "195950851632",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Citrus, mhfe4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
-          "barkod": "195950852103",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Indigo, mhfg4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
-          "barkod": "195950853049",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
