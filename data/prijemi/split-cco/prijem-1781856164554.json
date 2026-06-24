@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T18:18:35.722Z",
-  "azurirano": "2026-06-24T10:12:10.224Z",
+  "azurirano": "2026-06-24T10:12:40.738Z",
   "dokumenti": [
     {
       "naziv": "MSI 3963-101",
@@ -13,125 +13,6 @@
         {
           "naziv": "3C33 PFE Perilica posuda ugradbena 60 cm Whirlpool WIC 3C33 PFE",
           "barkod": "8003437612930",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4003-101",
-      "stavke": [
-        {
-          "naziv": "HP DeskJet 2920 All-in-One (89F97B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198701680109",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 2922 All-in-One (A24HVB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789792",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "HP DeskJet 2921 All-in-One (A24HWB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "0198828789822",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP Smart Tank 580 All-in-One (1F3Y2A) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
-          "barkod": "196188530313",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 4310 All-in-One (A24HPB) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789730",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP OfficeJet Pro 8122e All-in-One (405U3B) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Duplex, Wi-Fi, LAN, USB,",
-          "barkod": "196337163881",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP Smart Tank 720 All-in-One (6UU46A) Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
-          "barkod": "195908302995",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
-          "barkod": "194850664199",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer HP Smart Tank 675 All-in-On",
-          "barkod": "195908302667",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Canon Pixma TS4150i",
-          "barkod": "4549292248067",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP Envy 6110e All-in-One (714J3B) Color Inkjet MF pisac - Print, Scan, Copy, Mobile Fax, Duplex, Wi-Fi, USB, A4 -",
-          "barkod": "197498438979",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pisac MFP Epson EcoTank L3271",
-          "barkod": "8715946729701",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer Epson L3276 EcoTank, bijeli",
-          "barkod": "8715946727271",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV PHILIPS 50PUS7810, 127.0cm (50\"), QLED, UHD 4K Smart TV, Titan OS",
-          "barkod": "8718863046166",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV SAMSUNG QE50QN80FAUXXH, 127.0cm (50\"), QLED, XH 4K UHD Smart TV, Tizen OS",
-          "barkod": "8806095995533",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 34\" Samsung Odyssey G55T, LC34G55TWWPXEN, XEN VA, UWQHD, 165Hz, zakrivljen",
-          "barkod": "8806094796315",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 27\" Samsung LS27D600UAUXEN, IPS, UWQHD, EN 100Hz",
-          "barkod": "8806095524658",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "SAMSUNG 27\" ViewFinity S8 Monitor LS27D800UAUXEN, EN IPS 4K UHD, 60Hz, 5ms, HDR10, DisplayPort, HDMI,",
-          "barkod": "8806095541945",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "MSI 27\" Modern Monitor MD272UPHW, IPS 4K UHD, 60Hz, MD272UPHW 4ms, Adaptive-Sync, DisplayPort, 2x HDMI, USB-C, USB",
-          "barkod": "4711377262248",
           "ocekivano": 1,
           "skenirano": 1
         }
