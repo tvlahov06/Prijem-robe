@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T18:18:35.722Z",
-  "azurirano": "2026-06-24T06:29:42.141Z",
+  "azurirano": "2026-06-24T06:29:49.308Z",
   "dokumenti": [
     {
       "naziv": "MSI 3963-101",
@@ -1079,7 +1079,7 @@
           "naziv": "Vrecice za usisavac Bosch BBZ41FGALL",
           "barkod": "4242002830414",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vrecice za usisavac Bosch BBZAFGALL AirFresh 4kom",
@@ -1091,7 +1091,7 @@
           "naziv": "Vrecice za usisavac Bosch BBZWD4BAG",
           "barkod": "4242005174423",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
