@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "Vinko i Maja Šilobodec",
   "datum": "2026-06-24",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-06-24T13:44:53.697Z",
-  "azurirano": "2026-06-24T16:19:48.623Z",
+  "azurirano": "2026-06-24T16:20:06.751Z",
   "dokumenti": [
     {
       "naziv": "MSI 3976-101",
@@ -1220,5 +1220,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-06-24T16:20:06.728Z"
 }
