@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T18:18:35.722Z",
-  "azurirano": "2026-06-24T06:30:36.901Z",
+  "azurirano": "2026-06-24T06:30:48.600Z",
   "dokumenti": [
     {
       "naziv": "MSI 3963-101",
@@ -1037,7 +1037,7 @@
           "naziv": "Mikser stapni Bosch MSM4B620 ErgoMaster",
           "barkod": "4242005346639",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser Stapni Bosch MSM4B621 ErgoMaster",
@@ -1049,7 +1049,7 @@
           "naziv": "Sjeckalica Bosch MMR08R2 800 ml, crvena/antracit",
           "barkod": "4242002742274",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Bosch TCG4215, silver",
