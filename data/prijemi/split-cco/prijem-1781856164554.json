@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T18:18:35.722Z",
-  "azurirano": "2026-06-24T10:11:32.429Z",
+  "azurirano": "2026-06-24T10:12:10.224Z",
   "dokumenti": [
     {
       "naziv": "MSI 3963-101",
@@ -15,101 +15,6 @@
           "barkod": "8003437612930",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3989-101",
-      "stavke": [
-        {
-          "naziv": "Samsung Galaxy Buds3 FE slusalice crne UC",
-          "barkod": "8806097621034",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "SBOX EB-TWS-101, bijela boja | True Wireless slusalice",
-          "barkod": "3858894502547",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Soundbar Samsung",
-          "barkod": "8806097097068",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "SBOX EB-TWS-101, crna boja | True Wireless slusalice",
-          "barkod": "3858894502530",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Soundbar Philips TAB4000 2.0 Bluetooth",
-          "barkod": "8718863700198",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Hisense Soundbar AX3120Q",
-          "barkod": "6942351423432",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "SBOX EB-TWS-12, crna boja | Bezicne slusalice",
-          "barkod": "3858894504510",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
-          "barkod": "197029008220",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
-          "barkod": "198415435569",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zidni stalak Vogel's za ekrane od 19\"-43\" sa nagibom, MA2010",
-          "barkod": "8712285331268",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zidni stalak Vogel's MA2000, za ekrane od 19\"-43\"",
-          "barkod": "8712285331244",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Vogel's TVM1413 zidni nosac za ekrane od 32\"-65\" nagib do 15° do 25kg",
-          "barkod": "8712285349089",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM5/S",
-          "barkod": "4548736132597",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-1000XM5/L",
-          "barkod": "4548736134294",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM5/B",
-          "barkod": "4548736132580",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
