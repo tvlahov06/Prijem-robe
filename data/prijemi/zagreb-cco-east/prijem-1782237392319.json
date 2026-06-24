@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T17:56:32.319Z",
-  "azurirano": "2026-06-24T05:41:34.438Z",
+  "azurirano": "2026-06-24T05:41:39.876Z",
   "dokumenti": [
     {
       "naziv": "MSI 3998-101",
@@ -62,7 +62,7 @@
           "naziv": "ADATA Memorijska kartica 32GB UV150 USB 3.2 Black AD BK",
           "barkod": "4713435797075",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 256GB USB 3.2 Black-Orange",
@@ -92,7 +92,7 @@
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
           "barkod": "4713435796641",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
