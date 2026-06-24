@@ -5,7 +5,7 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T10:40:17.157Z",
-  "azurirano": "2026-06-24T11:18:54.432Z",
+  "azurirano": "2026-06-24T11:19:01.450Z",
   "dokumenti": [
     {
       "naziv": "MSI 3967-101",
@@ -271,7 +271,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
           "barkod": "740617348699",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
@@ -307,13 +307,13 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
           "barkod": "4713218461933",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "ADATA Memorijska kartica 32GB UV150 USB 3.2 Black AD BK",
           "barkod": "4713435797075",
           "ocekivano": 6,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "SBOX K-33 HR | Zicna tipkovnica",
