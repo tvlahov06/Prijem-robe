@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T18:18:35.722Z",
-  "azurirano": "2026-06-24T06:13:15.339Z",
+  "azurirano": "2026-06-24T06:13:21.253Z",
   "dokumenti": [
     {
       "naziv": "MSI 3963-101",
@@ -661,7 +661,7 @@
           "naziv": "Mis Logitech M196, bijeli",
           "barkod": "5099206128323",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M196, rozi",
@@ -745,7 +745,7 @@
           "naziv": "Slusalice Logitech G G321 crne",
           "barkod": "5099206133303",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Web kamera Logitech C270 HD",
