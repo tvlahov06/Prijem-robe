@@ -4,8 +4,8 @@
   "naziv": "",
   "datum": "2026-06-24",
   "status": "aktivan",
-  "kreirano": "2026-06-24T10:32:53.472Z",
-  "azurirano": "2026-06-24T10:39:03.097Z",
+  "kreirano": "2026-06-24T10:38:09.868Z",
+  "azurirano": "2026-06-24T10:38:09.868Z",
   "dokumenti": [
     {
       "naziv": "MSI 3981-101",
@@ -586,6 +586,291 @@
           "naziv": "Web kamera Logitech BRIO 100 crna",
           "barkod": "5099206113268",
           "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4044-101",
+      "stavke": [
+        {
+          "naziv": "The Crew 2 Standard Edition PS4 B25",
+          "barkod": "3307216024590",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lego Incredibles Standard Edition PS4 B24",
+          "barkod": "5051892215282",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GTA V PREMIUM ONLINE EDITION PS4 E32 S4",
+          "barkod": "5026555424264",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 DualSense Charging Station",
+          "barkod": "711719374107",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "It Takes Two PS4 D27",
+          "barkod": "5030945124696",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EA SPORTS WRC PS5 C30",
+          "barkod": "5030949125163",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan Suzuka Flashfire F111 za PS5/PS4/PS3/PC s 3 pedale + mjenjac",
+          "barkod": "4718091316172",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Dual charging station za 2xPS4 Dualshock GERV2 kontrolera USB",
+          "barkod": "3499550331400",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation Link USB Adapter",
+          "barkod": "711719574392",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation Portal remote player",
+          "barkod": "711719582267",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Vertical Stand",
+          "barkod": "711719579540",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Last of Us Part II Remastered PS5 D28",
+          "barkod": "711719570271",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan Imola Flashfire F107 za PS4/PS3/PC/Switch s 3 pedale + mjenjac",
+          "barkod": "4718091316189",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Crew Motorfest PS5 D35",
+          "barkod": "3307216270096",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Tempered zastitno staklo za PS Portal GLASS",
+          "barkod": "3665962024661",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assetto Corsa Competizione PS5 A34",
+          "barkod": "8023171045986",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WRC Generations PS5 G15",
+          "barkod": "3665962018301",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Split Fiction PS5",
+          "barkod": "5030949125385",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MotoGP 25 Day1 Edition Switch",
+          "barkod": "8056216170350",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "F1 25 PS5",
+          "barkod": "5030937125380",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EA SPORTS FC 26 PS5",
+          "barkod": "5030938125327",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Resident Evil 9 Requiem Switch 2",
+          "barkod": "5055060993309",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Cosmic Red za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023012",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Grey Camo za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023708",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Rhythm Blue",
+          "barkod": "711719020943",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Techno Red",
+          "barkod": "711719020677",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Remix Green",
+          "barkod": "711719020912",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Starlight Blue za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022473",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Chroma Teal v2",
+          "barkod": "711719023838",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Midnight Black + USB-C kabel za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719025979",
+          "ocekivano": 6,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4050-101",
+      "stavke": [
+        {
+          "naziv": "Friteza na vruci zrak Bosch MAF671B1 Airfryer",
+          "barkod": "4242005525997",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGLS2BA1",
+          "barkod": "4242005310982",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhinjski asistent Bosch MUM5XW20 MUM5 CreationLine",
+          "barkod": "4242005185207",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser stapni Bosch MSM4B620 ErgoMaster",
+          "barkod": "4242005346639",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser Stapni Bosch MSM4B621 ErgoMaster",
+          "barkod": "4242005346622",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sjeckalica Bosch MMR08A1 800 ml, bijela/antracit",
+          "barkod": "4242002742816",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sjeckalica Bosch MMR08R2 800 ml, crvena/antracit",
+          "barkod": "4242002742274",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Bosch TCG4215, silver",
+          "barkod": "4242005238699",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BCS711EXT Unlimited 7, crni",
+          "barkod": "4242005306985",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGS41K332",
+          "barkod": "4242005168392",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vrecice za usisavac Bosch BBZ16GALL 16 kom",
+          "barkod": "4242005076581",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vrecice za usisavac Bosch BBZ41FGALL",
+          "barkod": "4242002830414",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vrecice za usisavac Bosch BBZAFGALL AirFresh 4kom",
+          "barkod": "4242005135790",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vrecice za usisavac Bosch BBZWD4BAG",
+          "barkod": "4242005174423",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4051-101",
+      "stavke": [
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Velvet Red/Gold Limited edition",
+          "barkod": "5025155112397",
+          "ocekivano": 1,
           "skenirano": 0
         }
       ]
