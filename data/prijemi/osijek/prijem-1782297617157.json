@@ -5,7 +5,7 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T10:40:17.157Z",
-  "azurirano": "2026-06-24T11:18:31.892Z",
+  "azurirano": "2026-06-24T11:18:35.563Z",
   "dokumenti": [
     {
       "naziv": "MSI 3967-101",
@@ -325,7 +325,7 @@
           "naziv": "USB STICK KINGSTON FD 128GB USB3.2 Exodia",
           "barkod": "740617314359",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
@@ -385,7 +385,7 @@
           "naziv": "Memorijska kartica ADATA microSDHC, Class10, 10A1-RA1 100/20MBs, 32GB",
           "barkod": "4713218461926",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "TP-link UC400 USB-C to USB 3.0 Adapter 1 USB-C connector 1 USB 3.0 port",
