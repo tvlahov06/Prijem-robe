@@ -5,7 +5,7 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T11:21:53.503Z",
-  "azurirano": "2026-06-24T12:39:19.199Z",
+  "azurirano": "2026-06-24T12:39:26.054Z",
   "dokumenti": [
     {
       "naziv": "MSI 3963-101",
@@ -387,13 +387,13 @@
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
           "barkod": "740617348651",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 6,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK KINGSTON 64GB DT50 3.2 KC-U2G64-5R",
@@ -447,7 +447,7 @@
           "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
           "barkod": "740617347944",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "White Shark TIPKOVNICA GK-004132 SHINOBI-2 Crna - R-BROWN.SW Mehanicka / HR- BROWN SW.",
