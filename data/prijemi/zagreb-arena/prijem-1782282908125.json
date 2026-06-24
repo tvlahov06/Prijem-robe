@@ -5,7 +5,7 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T06:35:08.125Z",
-  "azurirano": "2026-06-24T08:50:06.302Z",
+  "azurirano": "2026-06-24T08:50:15.951Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -492,113 +492,6 @@
           "barkod": "8806095995533",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4027-101",
-      "stavke": [
-        {
-          "naziv": "Samsung Galaxy Buds3 FE slusalice crne UC",
-          "barkod": "8806097621034",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Samsung Galaxy Buds3 FE slusalice sive UC",
-          "barkod": "8806097621249",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Soundbar Samsung",
-          "barkod": "8806097097068",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Soundbar Samsung",
-          "barkod": "8806097091905",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
-          "barkod": "8806097984795",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Hisense Soundbar AX3120Q",
-          "barkod": "6942351423432",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Apple EarPods (USB-C)",
-          "barkod": "195949776274",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE4 ANC crne (Fuji-T010)",
-          "barkod": "6942103165450",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zidni stalak Vogel's za ekrane od 19\"-43\" sa nagibom, MA2010",
-          "barkod": "8712285331268",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Apple EarPods (Lightning Connector)",
-          "barkod": "195949506123",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "SBOX Fiksni zidni stalak PLB-5746F (37-70\")",
-          "barkod": "616320537401",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Soundbar Samsung",
-          "barkod": "8806097071877",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-1000XM6/P",
-          "barkod": "4548736175242",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM5/S",
-          "barkod": "4548736132597",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Soundbar Samsung",
-          "barkod": "8806097071952",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-1000XM5/L",
-          "barkod": "4548736134294",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM5/B",
-          "barkod": "4548736132580",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     },
