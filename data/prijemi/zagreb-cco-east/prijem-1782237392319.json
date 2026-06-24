@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T17:56:32.319Z",
-  "azurirano": "2026-06-24T05:58:40.398Z",
+  "azurirano": "2026-06-24T13:00:41.061Z",
   "dokumenti": [
     {
       "naziv": "MSI 3998-101",
@@ -919,47 +919,6 @@
           "barkod": "5025155127759",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4071-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac robot Roborock Saros 20 Sonic Complete crna",
-          "barkod": "6936905905765",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Ventilator stojeci Midea MFZ402R0BPW",
-          "barkod": "4048164119752",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Ventilator stojeci Midea FZ10-21ARBW",
-          "barkod": "6939924844220",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Ventilator i prociscivac zraka Midea AMS150-PBW",
-          "barkod": "6939924843544",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Ventilator stojeci Midea MAC402R0BPK",
-          "barkod": "6939924856520",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Klima uredaj 3,5 kW Hisense APH12QC mobilna",
-          "barkod": "6926597725123",
-          "ocekivano": 3,
-          "skenirano": 0
         }
       ]
     }
