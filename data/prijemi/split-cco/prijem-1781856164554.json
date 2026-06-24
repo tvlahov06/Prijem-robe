@@ -5,7 +5,7 @@
   "datum": "2026-06-23",
   "status": "aktivan",
   "kreirano": "2026-06-23T18:18:35.722Z",
-  "azurirano": "2026-06-24T10:09:19.342Z",
+  "azurirano": "2026-06-24T10:11:03.079Z",
   "dokumenti": [
     {
       "naziv": "MSI 3963-101",
@@ -13,107 +13,6 @@
         {
           "naziv": "3C33 PFE Perilica posuda ugradbena 60 cm Whirlpool WIC 3C33 PFE",
           "barkod": "8003437612930",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 3964-101",
-      "stavke": [
-        {
-          "naziv": "Blender Nutribullet NB907CP 900W",
-          "barkod": "8006447000087",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Blender Nutribullet NB505DG 500W",
-          "barkod": "8006447000070",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NB606R 600W",
-          "barkod": "8006447001190",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
-          "barkod": "8006447002135",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Blender Nutribullet NB907R 900W",
-          "barkod": "8006447000872",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Blender Nutribullet NBP003W Portable bijeli",
-          "barkod": "8006447002098",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Blender Nutribullet NBP003MA Portable magenta",
-          "barkod": "8006447002128",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NBF500DG Full Size Combo",
-          "barkod": "8006447000209",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB907MACL 900W",
-          "barkod": "8006447003002",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NB1206S PRO 1200W",
-          "barkod": "8006447003323",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
-          "barkod": "8006447002166",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NB1206GO-MC 1200W McLaren F1 Team Ultra",
-          "barkod": "8006447003965",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB907S 900W",
-          "barkod": "8006447002487",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NB907MAJD 900W",
-          "barkod": "8006447003033",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB907MAW 900W",
-          "barkod": "8006447002500",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB907MASN 900W",
-          "barkod": "8006447003019",
           "ocekivano": 1,
           "skenirano": 1
         }
