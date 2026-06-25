@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T09:26:58.078Z",
+  "azurirano": "2026-06-25T09:27:10.312Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -882,7 +882,7 @@
           "naziv": "Laptop ASUS Vivobook 15 M1502NAQ-BQ049, 39.6 cm 7V0 (15.6\") Full HD, AMD Ryzen 7 170, 16 GB RAM, 512 GB",
           "barkod": "4711636350457",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Laptop HP 255R G10 CV4Q5ET, 39.6cm (15.6\") IPS Full HD, AMD Ryzen7 7735U, 16 GB RAM, 1 TB SSD, AMD",
@@ -894,7 +894,7 @@
           "naziv": "Laptop HP 250R G10 D74XFET, 39.6cm (15.6\") Full HD, Intel Core 5 120U, 8 GB RAM, 512 GB SSD, Intel Graphics,",
           "barkod": "821844233481",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15 NX.DJWEX.001, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
@@ -912,7 +912,7 @@
           "naziv": "Laptop ASUS VivoBook 15 X1504VA-BQ4102, 39.6cm EY0 (15.6\") IPS Full HD, Intel Core 5 120U, 16 GB RAM, 512 GB",
           "barkod": "4711636317634",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Laptop LENOVO ThinkBook 16 G7 21MW0087SC, 40.6cm (16\") IPS WUXGA, AMD Ryzen 7 7735HS, 32 GB RAM, 1 TB",
