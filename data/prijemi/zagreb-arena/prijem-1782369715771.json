@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T07:42:40.715Z",
+  "azurirano": "2026-06-25T07:43:02.951Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -437,25 +437,25 @@
           "naziv": "The Legend of Zelda: Breath of the Wild Switch EC7",
           "barkod": "045496420055",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Yoshi's Crafted World Switch",
           "barkod": "045496422646",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mario Party Superstars Switch E13 TASW",
           "barkod": "045496428655",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mario and Luigi Brothership Switch",
           "barkod": "045496512507",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Nintendo Switch 2 Console - Light Blue & Light Red Joy-Con",
@@ -479,25 +479,25 @@
           "naziv": "Mario Kart World Switch 2",
           "barkod": "0045496312329",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "The Legend of Zelda: Breath Of The Wild Switch 2",
           "barkod": "0045496312664",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Super Mario Jamboree Switch 2",
           "barkod": "0045496312855",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Yoshi And The Mysterious Book Switch 2",
           "barkod": "0045496314118",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
