@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T07:35:16.691Z",
+  "azurirano": "2026-06-25T07:35:37.374Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -431,7 +431,7 @@
           "naziv": "Nintendo Switch Joy-Con Pair Neon Red & Neon Blue EQ0",
           "barkod": "045496430566",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "The Legend of Zelda: Breath of the Wild Switch EC7",
@@ -1316,7 +1316,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
           "barkod": "740617326260",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta HP 652 Black Original Ink Advantage Cartridge, F6V25AE",
@@ -1382,7 +1382,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 256GB, USB3.2",
           "barkod": "740617326383",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
