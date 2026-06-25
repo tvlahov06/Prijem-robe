@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T07:42:36.147Z",
+  "azurirano": "2026-06-25T07:42:40.715Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -1292,7 +1292,7 @@
           "naziv": "ADATA microSD U3, V30, 160/140MBs, 64GB 2SP-RA1",
           "barkod": "4711085949196",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta HP GT52 M0H56AE, Yellow",
@@ -1334,7 +1334,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
           "barkod": "740617326376",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Tinta HP 305XL Cartridge Ink 3YM62AE, Boja Black - Instant Ink",
