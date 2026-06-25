@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T08:20:59.064Z",
+  "azurirano": "2026-06-25T08:22:01.535Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -38,13 +38,13 @@
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, bijeli",
           "barkod": "5099206089242",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mis Logitech M196, crni",
           "barkod": "5099206128330",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 10
         },
         {
           "naziv": "Zvucnici Logitech Z150, 2.0, bijeli",
@@ -217,7 +217,7 @@
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
           "barkod": "5099206089235",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK270, bezicna, crna",
