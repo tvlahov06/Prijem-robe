@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T08:41:04.652Z",
+  "azurirano": "2026-06-25T08:50:37.235Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -50,7 +50,7 @@
           "naziv": "Zvucnici Logitech Z150, 2.0, bijeli",
           "barkod": "5099206048799",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M100, zicani, crni",
@@ -158,7 +158,7 @@
           "naziv": "Zvucnici Logitech Z150, 2.0, crni",
           "barkod": "5099206048782",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
