@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T07:50:59.807Z",
-  "azurirano": "2026-06-25T08:58:59.405Z",
+  "azurirano": "2026-06-25T08:59:10.347Z",
   "dokumenti": [
     {
       "naziv": "MSI 4051-101",
@@ -113,7 +113,7 @@
           "naziv": "Mikser stapni Bosch MSM4B620 ErgoMaster",
           "barkod": "4242005346639",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser Stapni Bosch MSM4B621 ErgoMaster",
