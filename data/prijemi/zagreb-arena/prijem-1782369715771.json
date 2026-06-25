@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T09:25:38.621Z",
+  "azurirano": "2026-06-25T09:25:51.853Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -876,7 +876,7 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ01CTSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
           "barkod": "199274826741",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Laptop ASUS Vivobook 15 M1502NAQ-BQ049, 39.6 cm 7V0 (15.6\") Full HD, AMD Ryzen 7 170, 16 GB RAM, 512 GB",
@@ -894,7 +894,7 @@
           "naziv": "Laptop HP 250R G10 D74XFET, 39.6cm (15.6\") Full HD, Intel Core 5 120U, 8 GB RAM, 512 GB SSD, Intel Graphics,",
           "barkod": "821844233481",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15 NX.DJWEX.001, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
@@ -960,13 +960,13 @@
           "naziv": "Laptop ASUS Zenbook 14 UX3405CA-ST1439W, 35.6cm 3M0 (14\") OLED 3K 120Hz, Intel Core Ultra 7 255H, 32 GB RAM,",
           "barkod": "4711636496483",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS Zenbook 14 UM3406GA-QD028W, 35.6cm E10 (14\") OLED WUXGA, AMD Ryzen AI 7 445, 16 GB RAM, 1",
           "barkod": "4711636496490",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP 250R G9 B3AG3AT, 39.6cm (15.6\") Full HD, Intel Core 7 150U, 16 GB RAM, 512 GB SSD, Intel",
