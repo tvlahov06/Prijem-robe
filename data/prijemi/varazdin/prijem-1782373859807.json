@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T07:50:59.807Z",
-  "azurirano": "2026-06-25T08:55:39.160Z",
+  "azurirano": "2026-06-25T08:55:48.549Z",
   "dokumenti": [
     {
       "naziv": "MSI 4051-101",
@@ -214,13 +214,13 @@
           "naziv": "Laptop ASUS VivoBook 15 X1504VA-BQ4102, 39.6cm EY0 (15.6\") IPS Full HD, Intel Core 5 120U, 16 GB RAM, 512 GB",
           "barkod": "4711636317634",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP 15-fc0277nm CZ9C6EA, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD",
           "barkod": "0199764771070",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop HP 250R G10 C9WX1AT, 39.6cm (15.6\") Full HD, Intel Core 3-100U, 16 GB RAM, 512 GB SSD, Intel",
