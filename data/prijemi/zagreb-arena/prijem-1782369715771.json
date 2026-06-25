@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T08:18:10.351Z",
+  "azurirano": "2026-06-25T08:19:15.947Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -20,7 +20,7 @@
           "naziv": "Mis Logitech M171, crni",
           "barkod": "5099206062856",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M650, crni",
@@ -62,7 +62,7 @@
           "naziv": "Mis Logitech M190, crni",
           "barkod": "5099206091825",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Mis Logitech M171, plavi",
@@ -152,7 +152,7 @@
           "naziv": "Mis Logitech Lift Vertical Ergonomic, bijeli",
           "barkod": "5099206099845",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zvucnici Logitech Z150, 2.0, crni",
@@ -301,7 +301,7 @@
           "naziv": "za mis Logitech G640 EWR",
           "barkod": "5099206104358",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK470 Slim, bezicna, siva",
@@ -313,7 +313,7 @@
           "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
           "barkod": "5099206092525",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
