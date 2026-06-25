@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T08:32:38.580Z",
+  "azurirano": "2026-06-25T08:39:01.486Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -56,7 +56,7 @@
           "naziv": "Mis Logitech M100, zicani, crni",
           "barkod": "5099206104242",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Mis Logitech M190, crni",
@@ -80,7 +80,7 @@
           "naziv": "Mis Logitech Lift Vertical Ergonomic, graphite",
           "barkod": "5099206099784",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mis Logitech M196, rozi",
@@ -122,13 +122,13 @@
           "naziv": "Slusalice Logitech H340, zicane, USB, crne",
           "barkod": "5099206038844",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Web kamera LOGITECH BRIO 4K, grafit",
           "barkod": "5099206129719",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tipkovnica Logitech MX Keys Mini, bezicna, roza",
@@ -187,7 +187,7 @@
           "naziv": "Podloga za mis Logitech Studio, crna",
           "barkod": "5099206099470",
           "ocekivano": 10,
-          "skenirano": 8
+          "skenirano": 10
         },
         {
           "naziv": "Mis LOGITECH MX Master 3S \"SE\" grafit",
