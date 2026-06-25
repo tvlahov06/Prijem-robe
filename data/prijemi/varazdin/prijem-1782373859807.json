@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T07:50:59.807Z",
-  "azurirano": "2026-06-25T08:32:08.495Z",
+  "azurirano": "2026-06-25T08:32:14.786Z",
   "dokumenti": [
     {
       "naziv": "MSI 4051-101",
@@ -291,7 +291,7 @@
           "naziv": "Mis Logitech M650, crni",
           "barkod": "5099206097223",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech MX Anywhere 3S Graphite",
@@ -303,7 +303,7 @@
           "naziv": "Mis Logitech M196, crni",
           "barkod": "5099206128330",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Zvucnici Logitech Z150, 2.0, bijeli",
@@ -339,7 +339,7 @@
           "naziv": "Mis Logitech M196, rozi",
           "barkod": "5099206128316",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech POP Universal, bijeli",
