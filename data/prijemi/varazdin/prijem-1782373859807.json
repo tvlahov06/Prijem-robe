@@ -3,9 +3,9 @@
   "poslovnica": "varazdin",
   "naziv": "",
   "datum": "2026-06-25",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-06-25T07:50:59.807Z",
-  "azurirano": "2026-06-25T09:01:40.336Z",
+  "azurirano": "2026-06-25T09:06:33.758Z",
   "dokumenti": [
     {
       "naziv": "MSI 4051-101",
@@ -493,5 +493,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-06-25T09:06:33.758Z"
 }
