@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T07:44:58.344Z",
+  "azurirano": "2026-06-25T07:45:08.093Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -574,7 +574,7 @@
           "naziv": "Toner HP 135A crni",
           "barkod": "194850587269",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk ADATA Ex HDD HD330, 1TB, usb3.2, plavi -CBL",
@@ -610,7 +610,7 @@
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-011 WALRUS Crna/narancasta 800x400 XL",
           "barkod": "3858894503643",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "WHITE SHARK GK-002422 Wakizashi, mehanicka, HR Blue Switch, roza boja | Gaming tipkovnica",
@@ -634,7 +634,7 @@
           "naziv": "Tipkovnica Keychron K5X-H1-UK Carbon Black RGB",
           "barkod": "4895248899235",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
