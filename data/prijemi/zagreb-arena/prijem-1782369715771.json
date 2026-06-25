@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T10:02:39.940Z",
+  "azurirano": "2026-06-25T10:02:59.754Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -336,13 +336,13 @@
           "naziv": "Soundbar Samsung",
           "barkod": "8806097097068",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Soundbar Samsung",
           "barkod": "8806097091905",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
@@ -408,7 +408,7 @@
           "naziv": "Soundbar Samsung",
           "barkod": "8806097071952",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-1000XM5/L",
