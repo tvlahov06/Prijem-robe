@@ -5,61 +5,8 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T11:21:53.503Z",
-  "azurirano": "2026-06-25T06:41:49.363Z",
+  "azurirano": "2026-06-25T06:41:53.904Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 4063-101",
-      "stavke": [
-        {
-          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Ceramic Pink/Rose Gold",
-          "barkod": "5025155113080",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac Dyson V10 Absolute",
-          "barkod": "5025155088081",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac Dyson V8 Absolute",
-          "barkod": "5025155090152",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
-          "barkod": "5025155117187",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Jasper Plum Straight+Wavy",
-          "barkod": "5025155112816",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic Apricot/Topaz Straight+Wavy",
-          "barkod": "5025155127964",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
-          "barkod": "5025155127759",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dyson ventilator AM12 Cool CF1 (602807) White/Silver",
-          "barkod": "5025155115398",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
     {
       "naziv": "MSI 4068-101",
       "stavke": [
@@ -84,6 +31,6 @@
       ]
     }
   ],
-  "_sha": "667a952f3ace618572393bb863fcd3f47bc97acb",
+  "_sha": "84ad98cf074d9fafb5a9bc1b0a853e851e885028",
   "_path": "data/prijemi/split-cco/prijem-1781856164554.json"
 }
