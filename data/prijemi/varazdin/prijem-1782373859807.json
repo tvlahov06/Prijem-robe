@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T07:50:59.807Z",
-  "azurirano": "2026-06-25T08:57:57.896Z",
+  "azurirano": "2026-06-25T08:58:03.434Z",
   "dokumenti": [
     {
       "naziv": "MSI 4051-101",
@@ -143,7 +143,7 @@
           "naziv": "Usisavac Bosch BCS711EXT Unlimited 7, crni",
           "barkod": "4242005306985",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BGS41K332",
@@ -161,7 +161,7 @@
           "naziv": "Vrecice za usisavac Bosch BBZ41FGALL",
           "barkod": "4242002830414",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vrecice za usisavac Bosch BBZAFGALL AirFresh 4kom",
