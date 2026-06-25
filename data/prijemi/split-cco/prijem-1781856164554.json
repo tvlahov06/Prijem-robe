@@ -5,32 +5,8 @@
   "datum": "2026-06-24",
   "status": "aktivan",
   "kreirano": "2026-06-24T11:21:53.503Z",
-  "azurirano": "2026-06-25T06:41:53.904Z",
-  "dokumenti": [
-    {
-      "naziv": "MSI 4068-101",
-      "stavke": [
-        {
-          "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
-          "barkod": "6926597761725",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Klima uredaj 5,0 kW Hisense CA50XS1GG/AS50XS1GW 50XS1GW",
-          "barkod": "6926597759616",
-          "ocekivano": 1,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Klima uredaj 3,5 kW Hisense APH12QC mobilna",
-          "barkod": "6926597725123",
-          "ocekivano": 2,
-          "skenirano": 2
-        }
-      ]
-    }
-  ],
-  "_sha": "84ad98cf074d9fafb5a9bc1b0a853e851e885028",
+  "azurirano": "2026-06-25T06:42:14.333Z",
+  "dokumenti": [],
+  "_sha": "8bca1a976ecabaee6fca137846b0385c62190678",
   "_path": "data/prijemi/split-cco/prijem-1781856164554.json"
 }
