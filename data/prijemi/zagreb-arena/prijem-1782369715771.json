@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T06:47:09.305Z",
+  "azurirano": "2026-06-25T06:47:19.497Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -1221,7 +1221,7 @@
           "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097067672",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE55Q7FAAUXXH, 139.7cm (55\"), QLED, 4K H UHD Smart TV, Tizen OS",
@@ -1239,7 +1239,7 @@
           "naziv": "TV LG OLED42C51LA 106.7cm (42\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096368763",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 50PUS8510, 127.0cm (50\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
@@ -1257,13 +1257,13 @@
           "naziv": "TV PHILIPS 43PUS8510, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
           "barkod": "8718863045770",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 43PUS7000, 109.2cm (43\"), LED, UHD 4K Smart TV, Titan OS",
           "barkod": "8718863046012",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Philips 32PHS6050/12 TV, 2K LED TV",
