@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T07:26:43.242Z",
+  "azurirano": "2026-06-25T07:28:16.622Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -984,13 +984,13 @@
           "naziv": "Laptop ASUS ROG Strix G16 G615LP-TS220W, 40.6cm A30 (16\") 2.5K WQXGA 300Hz, Intel Core Ultra 9 290HX, 32 GB",
           "barkod": "4711636543064",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS ROG Strix G16 G614PM-RV160, 40.6cm (16\") 08L0 IPS WUXGA 165Hz, AMD Ryzen 9 8940HX, 32 GB RAM, 1",
           "barkod": "4711636400831",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Apple Macbook Neo Citrus, mhfd4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
