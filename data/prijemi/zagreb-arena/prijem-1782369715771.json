@@ -5,7 +5,7 @@
   "datum": "2026-06-25",
   "status": "aktivan",
   "kreirano": "2026-06-25T06:41:55.771Z",
-  "azurirano": "2026-06-25T07:06:12.569Z",
+  "azurirano": "2026-06-25T07:06:29.832Z",
   "dokumenti": [
     {
       "naziv": "MSI 4015-101",
@@ -733,7 +733,7 @@
           "naziv": "PlayStation VR2 Sense Controller Charging Station",
           "barkod": "711719480693",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "PlayStation Link USB Adapter",
@@ -823,13 +823,13 @@
           "naziv": "PS5 Dualsense Wireless controller Cosmic Red za PS5, PC, Mac i mobilni uredaj",
           "barkod": "711719023012",
           "ocekivano": 10,
-          "skenirano": 3
+          "skenirano": 10
         },
         {
           "naziv": "PS5 Dualsense Wireless Controller Rhythm Blue",
           "barkod": "711719020943",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "PS5 Dualsense Wireless Controller Techno Red",
@@ -853,7 +853,7 @@
           "naziv": "PS5 Dualsense Wireless Controller Chroma Teal v2",
           "barkod": "711719023838",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "PlayStation 5 Slim E chassis + PS5 Dualsense Wireless Controller",
