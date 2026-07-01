@@ -5,7 +5,7 @@
   "datum": "2026-07-01",
   "status": "aktivan",
   "kreirano": "2026-07-01T06:45:41.682Z",
-  "azurirano": "2026-07-01T14:22:16.350Z",
+  "azurirano": "2026-07-01T14:22:21.750Z",
   "dokumenti": [
     {
       "naziv": "Mobile-tablet pribor 144 01072026",
@@ -1796,13 +1796,13 @@
           "naziv": "Zastitna maska sa remenom za Samsung Galaxy A33 crna EF-XA336CBEGWW",
           "barkod": "8806094237689",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitna maska sa remenom za Samsung Galaxy A33 prozirna EF-XA336CTEGWW",
           "barkod": "8806094237573",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 5
         },
         {
           "naziv": "Zastitna maska za Samsung Galaxy A36 5G s utorom za kartice plava EF-OA366TLEGWW",
