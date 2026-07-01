@@ -5,7 +5,7 @@
   "datum": "2026-07-01",
   "status": "aktivan",
   "kreirano": "2026-07-01T06:45:41.682Z",
-  "azurirano": "2026-07-01T14:56:57.880Z",
+  "azurirano": "2026-07-01T14:57:01.862Z",
   "dokumenti": [
     {
       "naziv": "Mobile-tablet pribor 144 01072026",
@@ -212,7 +212,7 @@
           "naziv": "Book Cover s tipkovnicom za Samsung Galaxy Tab S11 crni EF-DX730UBEGWW",
           "barkod": "8806097734956",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Book Cover s tipkovnicom za Samsung Galaxy Tab S11 Ultra crni EF-DX930UBEGWW",
@@ -242,7 +242,7 @@
           "naziv": "Book Cover za Samsung Galaxy Tab S9 Smart EF-BX710PBEGWW",
           "barkod": "8806095110493",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Carbon magnetna maska za Samsung Galaxy S26 crna EF-KS942SNEGWW",
