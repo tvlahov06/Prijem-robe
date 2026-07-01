@@ -5,7 +5,7 @@
   "datum": "2026-07-01",
   "status": "aktivan",
   "kreirano": "2026-07-01T06:45:41.682Z",
-  "azurirano": "2026-07-01T15:56:09.711Z",
+  "azurirano": "2026-07-01T15:56:16.252Z",
   "dokumenti": [
     {
       "naziv": "Mobile-tablet pribor 144 01072026",
@@ -884,7 +884,7 @@
           "naziv": "MM Drzac za mobitel/PDA Magnetni IPG1510",
           "barkod": "3858891307992",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "MM punjac set 2u1 kucni USB + micro data kabel 2.1A",
@@ -896,13 +896,13 @@
           "naziv": "MM TPU IPHONE 16 - MAGSAFE crna",
           "barkod": "3858895088675",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "MM TPU IPHONE 16 PLUS - DROP-PROOF PURE MAGSAFE Clear",
           "barkod": "3858895087562",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "MM TPU IPHONE 16 PRO - MAGSAFE crna",
