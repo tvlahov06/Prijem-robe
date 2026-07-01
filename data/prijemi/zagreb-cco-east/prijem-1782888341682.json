@@ -5,7 +5,7 @@
   "datum": "2026-07-01",
   "status": "aktivan",
   "kreirano": "2026-07-01T06:45:41.682Z",
-  "azurirano": "2026-07-01T15:51:48.430Z",
+  "azurirano": "2026-07-01T15:52:08.433Z",
   "dokumenti": [
     {
       "naziv": "Mobile-tablet pribor 144 01072026",
@@ -14,7 +14,7 @@
           "naziv": "ANKER GaN Prime stolni punjac 200W, 4xUSB-C/2xUSB-A, crni",
           "barkod": "0194644041007",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ANKER kucni punjac 33W, 1xUSB-C/1xUSB-A, bijeli",
@@ -44,7 +44,7 @@
           "naziv": "ANKER Power Core 737 GaN 2 Prijenosna baterija 24.000, 140W, crni",
           "barkod": "0194644098728",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "ANKER USB Hub A83800A1, USB-C/8u1",
