@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "Inventura | Mobile/Tablet Pribor | stanje zalihe 01-07-2026 (08:44)",
   "datum": "2026-07-01",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-01T06:45:41.682Z",
-  "azurirano": "2026-07-01T16:01:05.773Z",
+  "azurirano": "2026-07-01T16:01:08.771Z",
   "dokumenti": [
     {
       "naziv": "Mobile-tablet pribor 144 01072026",
@@ -1878,5 +1878,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-01T16:01:08.771Z"
 }
