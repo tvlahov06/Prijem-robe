@@ -5,7 +5,7 @@
   "datum": "2026-07-01",
   "status": "aktivan",
   "kreirano": "2026-07-01T06:45:41.682Z",
-  "azurirano": "2026-07-01T15:09:59.839Z",
+  "azurirano": "2026-07-01T15:37:32.384Z",
   "dokumenti": [
     {
       "naziv": "Mobile-tablet pribor 144 01072026",
@@ -56,43 +56,43 @@
           "naziv": "Apple AirTag (1. generacije), pakiranje 1 kom",
           "barkod": "190199320246",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple AirTag (1. generacije), pakiranje 4 kom",
           "barkod": "190199320338",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "APPLE DODACI 30W USB-C Power Adapter",
           "barkod": "195949376511",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Dual USB-C Power Adapter 35W",
           "barkod": "195949376733",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 16 Plus clear case with MagSafe",
           "barkod": "195949882623",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 16 Plus silicone case with MagSafe Black",
           "barkod": "195949885105",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 16 Plus silicone case with MagSafe Denim",
           "barkod": "195949885129",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 16e Silicone Case Black",
@@ -104,79 +104,79 @@
           "naziv": "Apple iPhone 16e Silicone Case Fuchsia",
           "barkod": "195950217322",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 16e Silicone Case Lake Green",
           "barkod": "195950217346",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 16e Silicone Case White",
           "barkod": "195950217285",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 16e Silicone Case Winter Blue",
           "barkod": "195950217308",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 17 Clear Case with MagSafe",
           "barkod": "195950663693",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 17e Silicone Case with MagSafe - Anchor Blue",
           "barkod": "195951037622",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 17e Silicone Case with MagSafe - Black",
           "barkod": "195951037479",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone Air Case with MagSafe - Frost",
           "barkod": "195950653656",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 17 Pro Max TechWoven Case with MagSafe - Sienna",
           "barkod": "195950663877",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 17 Pro TechWoven Case with MagSafe - Sienna",
           "barkod": "195950663778",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Smart Folio for iPad Air (5th gen) - Dark Cherry (Seasonal Spring 2022)",
           "barkod": "194253109334",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple USB-C Power Adapter 20W",
           "barkod": "195950084658",
           "ocekivano": 26,
-          "skenirano": 0
+          "skenirano": 25
         },
         {
           "naziv": "Apple Watch Magnetic Fast Charger to USB-C Cable (1 m)",
           "barkod": "194253939276",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Auto Punjac CELLULARLINE GaN+ 67W 2x USB-C/USB-A + USB-C Kabel",
@@ -284,7 +284,7 @@
           "naziv": "CELLULARLINE ACL AUDIO KABEL 3.5 MM NA MFI",
           "barkod": "8018080342370",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE AUTO ADAPTER USB-A TO USB-C",
@@ -356,7 +356,7 @@
           "naziv": "CELLULARLINE CLEAR STRONG MASKICA IPHONE 16 PRO",
           "barkod": "8018080482878",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE DRZAC HANDY DRIVE",
@@ -386,7 +386,7 @@
           "naziv": "CELLULARLINE FINE MASKICA IPHONE 16 PRO MAX",
           "barkod": "8018080482472",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE GLOSS MAG GALAXY S25+",
@@ -398,13 +398,13 @@
           "naziv": "CELLULARLINE KABEL MFI 200CM",
           "barkod": "8018080201912",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "CELLULARLINE KABEL MFI 60CM",
           "barkod": "8018080268830",
           "ocekivano": 8,
-          "skenirano": 0
+          "skenirano": 8
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
@@ -422,13 +422,13 @@
           "naziv": "CELLULARLINE KP IPHONE ADAPTER DUAL 2xUSB-C 35W",
           "barkod": "8018080453809",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC APPLE USB-C 30W",
           "barkod": "8018080433559",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC IPHONE USB-C I KABEL C TO LIGHTNING 20W",
@@ -458,7 +458,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL MFI 120 CM",
           "barkod": "8018080175466",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 10.000 BLUE",
@@ -488,7 +488,7 @@
           "naziv": "CELLULARLINE SENSATION ZASTITNA MASKA IPHONE 16 BLACK",
           "barkod": "8018080482588",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE SOFT GALAXY A26",
@@ -500,19 +500,19 @@
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17",
           "barkod": "8018080499623",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 AIR",
           "barkod": "8018080499616",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO MAX",
           "barkod": "8018080499586",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA FINE GALAXY S25 FE",
@@ -524,37 +524,37 @@
           "naziv": "CELLULARLINE ZASTITNA MASKA FINE IPHONE 17",
           "barkod": "8018080499579",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA FINE IPHONE 17 PRO",
           "barkod": "8018080499555",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA FINE IPHONE 17 PRO MAX",
           "barkod": "8018080499531",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA SENSATION IPHONE 17 PINK",
           "barkod": "8018080499715",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA SENSATION IPHONE 17 PRO BLACK",
           "barkod": "8018080499661",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA SENSATION IPHONE 17 PRO MAX BLACK",
           "barkod": "8018080499630",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA SOFT GALAXY A17",
@@ -596,19 +596,19 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16",
           "barkod": "8018080483011",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO MAX",
           "barkod": "8018080483042",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 17 AIR",
           "barkod": "8018080501784",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELULLARLINE AUTO ADAPTER TYPE-C 20W",
@@ -794,7 +794,7 @@
           "naziv": "MAXMOBILE ADAPTER IPHONE LIGHTNING -3.5mm (Z),bijeli",
           "barkod": "3858892515341",
           "ocekivano": 11,
-          "skenirano": 0
+          "skenirano": 11
         },
         {
           "naziv": "MAXMOBILE ADAPTER TYPE C - AUX -3.5mm, crni 1m",
@@ -1640,7 +1640,7 @@
           "naziv": "SMART PACK DATA KABEL I- PHONE 5/6/7/8/X/11/12 GC-46 bijeli",
           "barkod": "3858891945699",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "SMART PACK DATA KABEL TYPE-C 60W bijeli",
