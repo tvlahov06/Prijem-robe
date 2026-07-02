@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T12:52:23.670Z",
-  "azurirano": "2026-07-02T14:28:13.007Z",
+  "azurirano": "2026-07-02T14:28:30.473Z",
   "dokumenti": [
     {
       "naziv": "MSI 4076-101",
@@ -33,41 +33,6 @@
           "barkod": "5025155131992",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4215-101",
-      "stavke": [
-        {
-          "naziv": "Monitor 34\" Samsung Odyssey G55T, LC34G55TWWPXEN, XEN VA, UWQHD, 165Hz, zakrivljen",
-          "barkod": "8806094796315",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 23.8\" ACER SA242YH1, UM.QS2EE.109, VA Full HD, 100Hz, 4ms, ZeroFrame, VGA, HDMI",
-          "barkod": "4711474688774",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "CANON Pixma TS3750i Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Cloud, A4",
-          "barkod": "4549292234107",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "CANON Pixma G3416 Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Cloud, A4",
-          "barkod": "4549292219470",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer HP LaserJet M110w",
-          "barkod": "194850676970",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
