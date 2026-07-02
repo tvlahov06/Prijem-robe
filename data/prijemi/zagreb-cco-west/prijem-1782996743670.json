@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T12:52:23.670Z",
-  "azurirano": "2026-07-02T14:24:52.846Z",
+  "azurirano": "2026-07-02T14:27:49.989Z",
   "dokumenti": [
     {
       "naziv": "MSI 4076-101",
@@ -33,89 +33,6 @@
           "barkod": "5025155131992",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4172-101",
-      "stavke": [
-        {
-          "naziv": "Laptop ACER Aspire Lite 15 NX.DJWEX.001, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711474693945",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A15 FA506NCG-HN185, 39.6cm V0 (15.6\") Full HD 144Hz, AMD Ryzen 7 7445HS, 16 GB RAM,",
-          "barkod": "4711636163354",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ACER Aspire Go 15 NX.J7XEX.00S, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 32 GB RAM, 512 GB",
-          "barkod": "4711474403223",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A16 FA608UHI-TU657W, 40.6cm HK0 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 260, 16 GB RAM,",
-          "barkod": "4711636546782",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A16 FA608UP-RV018, 40.6cm 2J0 (16\") IPS WUXGA 165Hz, AMD Ryzen 7 260, 16 GB RAM, 1",
-          "barkod": "4711636527071",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS Zenbook S 14 UX5406SA-PZ615X, 35.6cm 1W0 (14\") OLED 3K 120Hz Touch, Intel Core Ultra 7 258V, 32",
-          "barkod": "4711636492409",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop LENOVO IdeaPad Slim 5i 83V7003SSC, 40.6cm (16\") IPS WUXGA, Intel Core Ultra 5 135H, 16 GB RAM,",
-          "barkod": "199274843823",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop LENOVO Legion 5a 83Q7001QSC, 38.9cm (15.3\") OLED WQXGA 165Hz, AMD Ryzen 7 250, 32 GB RAM, 1 TB",
-          "barkod": "0199274271183",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop HP OmniBook 7 AI 16-ay0001nm BU5Y1EA, 40.6cm (16\") IPS 2.5K WQXGA 240Hz, Intel Core Ultra 7 255H, 32",
-          "barkod": "199251591815",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS ROG Strix G16 G614PR-RV022W, 40.6cm 4J0 (16\") FHD+ WUXGA 165Hz, AMD Ryzen 9 8940HX, 32 GB",
-          "barkod": "4711387980767",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop LENOVO Legion Pro 5 83LT007XSC, 40.6cm (16\") IPS WQXGA 240Hz, AMD Ryzen 9 8940HX, 32 GB RAM, 1",
-          "barkod": "0199274270728",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop LENOVO LOQ 83JE0078SC, 39.6cm (15.6\") IPS Full HD 144Hz, Intel Core i7-13650HX, 32 GB RAM, 1 TB SSD,",
-          "barkod": "198158565486",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop LENOVO Legion 5a 83Q7000ASC, 38.9cm (15.3\") OLED WQXGA 165 Hz, AMD Ryzen 7 250, 32 GB RAM, 1 TB",
-          "barkod": "199273478880",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
