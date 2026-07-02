@@ -1,0 +1,81 @@
+{
+  "id": "prijem-1783002578150",
+  "poslovnica": "zagreb-cco-west",
+  "naziv": "123",
+  "datum": "2026-07-02",
+  "status": "aktivan",
+  "kreirano": "2026-07-02T14:29:38.150Z",
+  "azurirano": "2026-07-02T14:29:38.150Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 4171-101",
+      "stavke": [
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 crni",
+          "barkod": "1200130019272",
+          "ocekivano": 8,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4170-101",
+      "stavke": [
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Ceramic Pink/Rose Gold",
+          "barkod": "5025155113080",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V10 Absolute",
+          "barkod": "5025155088081",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V16 Piston Animal",
+          "barkod": "5025155114834",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V11 Advanced",
+          "barkod": "5025155096093",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V16 Piston Animal Submarine",
+          "barkod": "5025155114841",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V15 Detect Absolute",
+          "barkod": "5025155081754",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB606R 600W",
+          "barkod": "8006447001190",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
+          "barkod": "8006447002135",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206S PRO 1200W",
+          "barkod": "8006447003323",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
