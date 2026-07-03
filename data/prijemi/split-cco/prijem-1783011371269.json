@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T16:56:11.269Z",
-  "azurirano": "2026-07-03T06:22:05.036Z",
+  "azurirano": "2026-07-03T06:22:11.472Z",
   "dokumenti": [
     {
       "naziv": "MSI 4174-101",
@@ -32,7 +32,7 @@
           "naziv": "Susilo za kosu Philips BHD530/00",
           "barkod": "8710103977209",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
@@ -80,7 +80,7 @@
           "naziv": "Susilo za kosu Philips BHD274/00",
           "barkod": "8710103898122",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD510/00",
