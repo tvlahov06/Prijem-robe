@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-03T19:43:58.272Z",
+  "azurirano": "2026-07-03T19:44:04.323Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -247,13 +247,13 @@
           "naziv": "Tus za zube Philips Sonicare HX3333/24 Compact Flosser 1000, Blue",
           "barkod": "8720689046831",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Philips BHA310/00",
           "barkod": "8720689002790",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epilator Philips BRE719/00",
@@ -307,7 +307,7 @@
           "naziv": "Pegla za kosu Philips BHS520/00",
           "barkod": "8710103974147",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD538/30",
