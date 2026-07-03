@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T10:04:13.830Z",
-  "azurirano": "2026-07-03T10:16:01.779Z",
+  "azurirano": "2026-07-03T10:16:06.510Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -176,7 +176,7 @@
           "naziv": "CELLULARLINE FM TRANSMITTER",
           "barkod": "8018080476976",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "CELLULARLINE KABEL SPIRAL USB-C",
@@ -200,7 +200,7 @@
           "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
           "barkod": "8018080295751",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KP ADAPTER USB-C 45W",
