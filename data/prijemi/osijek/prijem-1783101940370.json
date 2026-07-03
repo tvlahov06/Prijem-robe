@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T18:05:40.370Z",
-  "azurirano": "2026-07-03T18:10:08.966Z",
+  "azurirano": "2026-07-03T18:10:15.035Z",
   "dokumenti": [
     {
       "naziv": "Monitori",
@@ -98,13 +98,13 @@
           "naziv": "Monitor 27\" ACER SA273P1bi, UM.HS3EE.101, FHD IPS 144Hz",
           "barkod": "4711474585431",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 27\" Samsung LS27D600UAUXEN, IPS, UWQHD, 100Hz",
           "barkod": "8806095524658",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Monitor 27\" Xiaomi G Pro 27I M0EJ",
@@ -158,7 +158,7 @@
           "naziv": "Monitor XIAOMI G27I 2026 OM4FF-EU, 68.58 cm (27\"), Fast IPS, 200 Hz, 1 ms, FreeSync Premium Gaming monitor",
           "barkod": "6941948708013",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "MSI 23.6\" MAG Gaming Monitor MAG 244C, VA Curved Full HD, 180Hz, 1ms, AMD FreeSync, DisplayPort, HDMI, HDR Ready",
