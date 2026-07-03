@@ -3,9 +3,9 @@
   "poslovnica": "varazdin",
   "naziv": "03.07.26. 8 paleta",
   "datum": "2026-07-03",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-03T06:46:48.875Z",
-  "azurirano": "2026-07-03T09:38:06.542Z",
+  "azurirano": "2026-07-03T09:48:46.209Z",
   "dokumenti": [
     {
       "naziv": "MSI 4136-101",
@@ -972,5 +972,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-03T09:48:46.209Z"
 }
