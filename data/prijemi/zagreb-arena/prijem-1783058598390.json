@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T08:03:07.572Z",
+  "azurirano": "2026-07-03T08:03:14.421Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -117,13 +117,13 @@
           "naziv": "Usisavac Dyson V11 Advanced",
           "barkod": "5025155096093",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V16 Piston Animal Submarine",
           "barkod": "5025155114841",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V15 Detect Absolute",
