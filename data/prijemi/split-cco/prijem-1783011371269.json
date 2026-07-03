@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T16:56:11.269Z",
-  "azurirano": "2026-07-03T06:16:59.397Z",
+  "azurirano": "2026-07-03T06:17:26.771Z",
   "dokumenti": [
     {
       "naziv": "MSI 4174-101",
@@ -26,7 +26,7 @@
           "naziv": "Susilo za kosu Philips BHC010/10 putno",
           "barkod": "8710103887119",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Susilo za kosu Philips BHD530/00",
@@ -68,7 +68,7 @@
           "naziv": "Epilator Philips BRE719/00",
           "barkod": "8720689032933",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP2724/31 Face",
@@ -152,7 +152,7 @@
           "naziv": "Brijaci aparat Philips XP9204/30",
           "barkod": "8720689030199",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7419/01 Sonicare Series 6500 DUO, Black & White",
