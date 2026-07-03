@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T09:21:05.317Z",
+  "azurirano": "2026-07-03T09:23:01.625Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -979,7 +979,7 @@
           "naziv": "Susilo za kosu Philips BHD530/00",
           "barkod": "8710103977209",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
@@ -1039,13 +1039,13 @@
           "naziv": "Sisac za kosu Philips HC9420/15",
           "barkod": "8710103977926",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3911/40 Power Flosser",
           "barkod": "8710103947257",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "IPL depilator Philips BRI973/00 Lumea",
@@ -1063,7 +1063,7 @@
           "naziv": "Sisac za kosu/bradu Philips HC3530/15",
           "barkod": "8710103859734",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Philips BHS520/00",
@@ -1081,7 +1081,7 @@
           "naziv": "Susilo za kosu Philips BHD538/30",
           "barkod": "8720689023276",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Philips HPS910/00 Prestige Pro",
