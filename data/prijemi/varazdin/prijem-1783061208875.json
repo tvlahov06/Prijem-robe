@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:46:48.875Z",
-  "azurirano": "2026-07-03T06:58:00.057Z",
+  "azurirano": "2026-07-03T06:58:35.381Z",
   "dokumenti": [
     {
       "naziv": "MSI 4136-101",
@@ -470,7 +470,7 @@
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
           "barkod": "4897098683446",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 64GB microSDXC Canvas Go Plus Gen4 + ADP",
@@ -512,7 +512,7 @@
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
           "barkod": "740617348408",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 64GB, USB3.2 BE",
@@ -548,7 +548,7 @@
           "naziv": "White Shark MIS GM-5018 CARADOC RGB/7200 dpi/Bijeli",
           "barkod": "3858894507245",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "White Shark TIPKOVNICA GK-004232 SHINOBI-2 Bijela- -BROWN.SW Mehanicka / HR- BROWN SW.",
@@ -898,7 +898,7 @@
           "naziv": "Web kamera Logitech BRIO 500 crna",
           "barkod": "5099206104914",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M650 L, za ljevake, crni",
@@ -927,7 +927,7 @@
           "naziv": "Samsung Galaxy Buds3 FE slusalice crne UC",
           "barkod": "8806097621034",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hisense Soundbar AX3120Q",
