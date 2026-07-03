@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T20:44:30.006Z",
-  "azurirano": "2026-07-03T20:49:56.690Z",
+  "azurirano": "2026-07-03T20:50:07.823Z",
   "dokumenti": [
     {
       "naziv": "MSI 4203-101",
@@ -110,7 +110,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ADATA Memorijska kartica 32GB UV150 USB 3.2 Black AD BK",
@@ -134,7 +134,7 @@
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
           "barkod": "740617348408",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "MIS SBOX M-958 Crni",
@@ -158,7 +158,7 @@
           "naziv": "Tinta EPSON 103 T00S4 L3150 yellow ecotank C13T00S44A 65ml",
           "barkod": "8715946655871",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 128GB, USB3.2 RBE",
