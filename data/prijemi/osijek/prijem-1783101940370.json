@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T18:05:40.370Z",
-  "azurirano": "2026-07-03T18:09:50.854Z",
+  "azurirano": "2026-07-03T18:09:55.000Z",
   "dokumenti": [
     {
       "naziv": "Monitori",
@@ -32,7 +32,7 @@
           "naziv": "LG 32\" UltraFine Monitor 32UR550K-B, VA 4K UHD, 60Hz, 4ms, Dynamic Action Sync, AMD FreeSync, DisplayPort, 2x HDMI, Pivot, Zvucnici",
           "barkod": "8806096228159",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "LG 32\" UltraGear AI Smart Monitor 32G810SA-W, IPS 4K UHD, 144Hz, 1ms, webOS, FreeSync Premium, nVidia G-Sync, DP, 2x HDMI, USB-C, Pivot, Zvucnici",
@@ -80,7 +80,7 @@
           "naziv": "Monitor 23.8\" LENOVO ThinkVision E24-40, 64BAMAT1EU, IPS Full HD, 100Hz, 4ms, VGA, HDMI, DisplayPort, Zvucnici, Pivot",
           "barkod": "198156755582",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 23.8\" LENOVO ThinkVision S24-4e, 64B5KAT1EU, IPS Full HD, 100Hz, 4ms, VGA, HDMI",
