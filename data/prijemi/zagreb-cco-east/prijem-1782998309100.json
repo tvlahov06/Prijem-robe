@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-03T19:41:44.208Z",
+  "azurirano": "2026-07-03T19:42:00.470Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -466,7 +466,7 @@
           "naziv": "Sisac za bradu Philips BT3665/15",
           "barkod": "8720689029438",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac za tijelo Philips BG3480/15",
