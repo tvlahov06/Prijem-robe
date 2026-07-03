@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T08:10:16.127Z",
-  "azurirano": "2026-07-03T07:06:49.130Z",
+  "azurirano": "2026-07-03T07:06:57.128Z",
   "dokumenti": [
     {
       "naziv": "Logista CCOE",
@@ -80,7 +80,7 @@
           "naziv": "Auto Punjac PLOOS, 2A, 1xUSB-A, USB-C Kabel 100cm, Crni",
           "barkod": "8018080367328",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Auto Punjac PLOOS, Dual, 2A, 2xUSB-A, Crni",
@@ -164,7 +164,7 @@
           "naziv": "CELLULARLINE AUTO ADAPTER USB-C TO USB-A",
           "barkod": "8018080399541",
           "ocekivano": 6,
-          "skenirano": 5
+          "skenirano": 6
         },
         {
           "naziv": "CELLULARLINE AUTO DRZAC BIG CRAB DUAL FIX",
@@ -362,7 +362,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C TO MFI 120 CM",
           "barkod": "8018080347849",
           "ocekivano": 10,
-          "skenirano": 9
+          "skenirano": 10
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 10.000 BLACK",
