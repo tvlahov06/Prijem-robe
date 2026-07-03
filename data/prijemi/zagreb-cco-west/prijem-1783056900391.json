@@ -1,0 +1,832 @@
+{
+  "id": "prijem-1783056900391",
+  "poslovnica": "zagreb-cco-west",
+  "naziv": "boze me prosti kolko sranja",
+  "datum": "2026-07-03",
+  "status": "aktivan",
+  "kreirano": "2026-07-03T05:35:00.391Z",
+  "azurirano": "2026-07-03T05:35:00.391Z",
+  "dokumenti": [
+    {
+      "naziv": "logista030726",
+      "stavke": [
+        {
+          "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
+          "barkod": "8018080270420",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni crni",
+          "barkod": "0194644125806",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pleteni kabel ANKER USB-C na Lightning Kabel 90 cm",
+          "barkod": "0194644125608",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac ANKER 511 CHARGER NANO 3, 30W: BIJELA-PUNJAC",
+          "barkod": "0194644103538",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUTO ADAPTER USB-C TO USB-A",
+          "barkod": "8018080399541",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pleteni kabel ANKER USB-C na USB-C 240W 180 cm",
+          "barkod": "0194644199760",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 15W BLACK",
+          "barkod": "8018080434730",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE SLEEK BLUETOOTH MONO HEADSET",
+          "barkod": "8018080453199",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Nano 545 Prijenosna baterija 10.000, 30W, crni",
+          "barkod": "0194644170868",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELULLARLINE AUTO ADAPTER TYPE-C 20W",
+          "barkod": "8018080468063",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne ANKER SOUNDCORE BT K20i crne",
+          "barkod": "0194644037635",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNO STAKLO GALAXY S24 FE/A36/A56",
+          "barkod": "8018080487897",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 10.000 BLACK",
+          "barkod": "8018080481956",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE FM TRANSMITTER",
+          "barkod": "8018080476976",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL C-C 3.1 150 CM WHITE",
+          "barkod": "8018080477218",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL SPIRAL C-C",
+          "barkod": "8018080493805",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac CELLULARLINE GaN+ Slim Dual 45W",
+          "barkod": "8018080514272",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac CELLULARLINE GaN+ Slim Dual 65W",
+          "barkod": "8018080514067",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 4K@60Hz Certified Premium High Speed with Ethernet, 1m",
+          "barkod": "766623394925",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 4K@60Hz Certified Premium High Speed with Ethernet, 2m",
+          "barkod": "766623394932",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC PODLOGA ZA MIS,ERGONOMSKA,BIGFOOT",
+          "barkod": "8713439169775",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUDIO ADAPTER AUX-TYPE-C",
+          "barkod": "8018080351518",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE SLUSALICE TYPE-C SPARROW BLACK",
+          "barkod": "8018080353970",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE SLUSALICE TYPE-C SPARROW WHITE",
+          "barkod": "8018080353987",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC USB 3.2 CITAC KARTICA BRZI",
+          "barkod": "8713439241358",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 15W BLACK",
+          "barkod": "8018080434778",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KP ADAPTER USB-C 45W",
+          "barkod": "8018080438264",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC ADAPTER USB-C/4x USB-A,HALYX",
+          "barkod": "8713439249484",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ACL AUDIO KABEL 3.5 MM NA TYPE-C",
+          "barkod": "8018080384097",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MANHATTAN CITAC SMART CARD",
+          "barkod": "766623102049",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC PUNJAC ZA LAPTOP UNIVERZALNI PRIMO 19V-45W",
+          "barkod": "8713439219043",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO",
+          "barkod": "8018080483035",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel PLOOS, USB-C na Lightning, MFI, 100cm, Bijeli",
+          "barkod": "8018080367762",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel PLOOS, USB-A na Lightning, MFI, 100cm, Bijeli",
+          "barkod": "8018080367854",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel PLOOS, USB-A na USB-C, 100cm, Bijeli",
+          "barkod": "8018080369780",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel PLOOS, USB-C na USB-C, 100cm, Bijeli",
+          "barkod": "8018080371509",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac PLOOS, 20W, 1xUSB-C, Kabel USB-C na MFI, Crni",
+          "barkod": "8018080399503",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 10.000 BLACK",
+          "barkod": "8018080484643",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 10.000 BLUE",
+          "barkod": "8018080484636",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 20.000 BLACK",
+          "barkod": "8018080484612",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PODATKOVNI KABEL MICRO USB 120 CM",
+          "barkod": "8018080131745",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUTO DRZAC BIG CRAB DUAL FIX",
+          "barkod": "8018080120411",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Prijenosna baterija 25.000, 165W, crni",
+          "barkod": "0194644288679",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Cellularline 40W PD USB-C",
+          "barkod": "8018080513237",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitno staklo Cellularline Samsung Galaxy S26 Ultra",
+          "barkod": "8018080511592",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitno staklo Cellularline Samsung Galaxy S26",
+          "barkod": "8018080511585",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrofon Bezicni CELLULARLINE Talk Pro",
+          "barkod": "8018080494383",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Auto Punjac CELLULARLINE GaN+ 67W 2x USB-C/USB-A + USB-C Kabel",
+          "barkod": "8018080513435",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice SOUNDCORE TWS Sleep A30 Bijele",
+          "barkod": "0194644266028",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 1m",
+          "barkod": "766623394956",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 2m",
+          "barkod": "766623394963",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN DisplayPort 8K@60Hz (DP), 2m",
+          "barkod": "766623356824",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac PLOOS, 1A, 1xUSB-A, Kabel Micro USB 100cm, Crni",
+          "barkod": "8018080367830",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac PLOOS, 2A, 1xUSB-A, Kabel USB-C 100cm, Crni",
+          "barkod": "8018080367663",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac PLOOS, 1A, 1xUSB-A, Crni",
+          "barkod": "8018080367755",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac PLOOS, Dual, 2A, 2xUSB-A, Crni",
+          "barkod": "8018080367809",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac PLOOS, Dual, 20W, 1xUSB-A, 1xUSB-C, Crni",
+          "barkod": "8018080415005",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mrezni Punjac CELLULARLINE GaN+ 100W 2x USB-C/USB-A",
+          "barkod": "8018080514326",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL MFI 200CM",
+          "barkod": "8018080201912",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE DRZAC HANDY WING",
+          "barkod": "8018080251252",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE DRZAC HANDY DRIVE",
+          "barkod": "8018080251238",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUTO DRZAC DRZAC HANDY WING PRO",
+          "barkod": "8018080308338",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
+          "barkod": "8018080367199",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC IPHONE DUAL USB-A I USB-C 20W",
+          "barkod": "8018080414091",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PRIJENOSNA BATERIJA THUNDER 10.000 RED",
+          "barkod": "8018080423260",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ACL SLUSALICE TYPE-C ORBIT WHITE",
+          "barkod": "8018080422379",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel INTELLINET 740616, Mrezni, Patch, CAT7/CAT6a , RJ45, 0.5, Sivi",
+          "barkod": "766623740616",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel INTELLINET 740678, Mrezni, CAT7/CAT6a, RJ45 (M), 1m, Sivi",
+          "barkod": "766623740678",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Intellinet UTP Cat7, Cat6A,CU,S/FTP, LSOH, 2m,sivi",
+          "barkod": "766623740807",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Intellinet UTP Cat7, Cat6A,CU,S/FTP, LSOH, 3m,sivi",
+          "barkod": "766623740869",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel INTELLINET 740920, Mrezni, Patch, CAT7/CAT6a , RJ45 (M), 5m, Sivi",
+          "barkod": "766623740920",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC TIPKOVNICA US WLESS BT BASICS",
+          "barkod": "8713439246513",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC MIS WLESS PRIMO BLACK",
+          "barkod": "8713439247947",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLACK",
+          "barkod": "8713439250848",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER MAG GO Prijenosna baterija 10.000, 15W, bijeli",
+          "barkod": "0194644173371",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Trust Bayo 2 bezicni ergonomski",
+          "barkod": "8713439251456",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC MIS WLESS SILENT CLICK YVI+ BLACK",
+          "barkod": "8713439245493",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Soundcore P40i TWS slusalice bez",
+          "barkod": "0194644186876",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC MIS WLESS SILENT CLICK YVI+ RED",
+          "barkod": "8713439245509",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica i mis Trust ODY II Wireless",
+          "barkod": "8713439253665",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST GM TIPKOVNICA US MEHANICKA MINI ACIRA GXT867",
+          "barkod": "8713439248821",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC MIS WLESS PRIMO BLUE",
+          "barkod": "8713439247961",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUDIO MUSIC SOUND SLUSALICE ON-EAR BLUETOOTH MAXI2 WHITE",
+          "barkod": "8018080453960",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16",
+          "barkod": "8018080483011",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO MAX",
+          "barkod": "8018080483042",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Anker Soundcore P40i TWS in-ear plave",
+          "barkod": "0194644186869",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE BOOK ESSENTIAL GALAXY A16 4G/5G BLACK",
+          "barkod": "8018080489716",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNO STAKLO GALAXY A16 4G/5G",
+          "barkod": "8018080489808",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
+          "barkod": "8018080481963",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE BOOK ESSENTIAL GALAXY A36/A56 5G",
+          "barkod": "8018080492808",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Drzac Za Mobitel PLOOS, Gravity, Crni",
+          "barkod": "8018080422287",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE BT MONO HEADSET BOLD UNIV. BLACK",
+          "barkod": "8018080386220",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PRIJENOSNA BATERIJA FAST PD 20.000 BLACK",
+          "barkod": "8018080484650",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLUARLINE SELFIE DRZAC BT MAX QUADRIPOD",
+          "barkod": "8018080491269",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA FINE IPHONE 17",
+          "barkod": "8018080499579",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA FINE IPHONE 17 PRO",
+          "barkod": "8018080499555",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17",
+          "barkod": "8018080499623",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA SENSATION IPHONE 17 BLACK",
+          "barkod": "8018080499708",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA SOFT GALAXY A17",
+          "barkod": "8018080505508",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Trust gaming tipkovnica US, TKL, THADO, GXT83, crna",
+          "barkod": "8713439258868",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Trust gaming tipkovnica, HR I MIS, WLESS, THADO, crna",
+          "barkod": "8713439260939",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice ANKER SoundCore AeroClip, A3388G11, TWS Open-Ear, crne",
+          "barkod": "0194644286330",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Trust bluetooth, HR layout",
+          "barkod": "8713439262100",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Putni adapter Skross Pro World",
+          "barkod": "7640166323556",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Putni adapter Skross World - SAD",
+          "barkod": "7640166320203",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna Baterija CELLULARLINE Roller 20.000 mAh 65W Crna",
+          "barkod": "8018080513404",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Maska CELLULARLINE, Fine, Samsung Galaxy A37, Prozirna",
+          "barkod": "8018080514463",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija GLAM 10.000 mAh Crna",
+          "barkod": "8018080491023",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija CELLULARLINE GLAM 10.000 mAh Crvena",
+          "barkod": "8018080491054",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Spark, In-Ear, Bluetooth, Black",
+          "barkod": "8018080488603",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice CELLULARLINE, AUDIO MUSIC SOUND, Bluetooth, In-Ear, TWS, Swag, Black",
+          "barkod": "8018080454776",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Swag, Bluetooth, In-Ear, TWS, Green",
+          "barkod": "8018080454820",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Capsule, In-Ear, 3,5mm, Crne",
+          "barkod": "8018080371394",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Capsule, In-Ear, 3,5mm, Plave",
+          "barkod": "8018080371370",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Capsule, In-Ear, 3,5mm, Crvene",
+          "barkod": "8018080371431",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Capsule, In-Ear, 3,5mm, Bijele",
+          "barkod": "8018080371448",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 1m",
+          "barkod": "766623356763",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 2m",
+          "barkod": "766623356770",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 4K@60Hz Certified Premium High Speed with Ethernet, 3m",
+          "barkod": "766623394949",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 3m",
+          "barkod": "766623356848",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN Audio 3.5 mm musko/zenski (produzni), 2m",
+          "barkod": "766623395038",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Drzac za Mobitel CELLULARLINE Slide Fit",
+          "barkod": "8018080443701",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUTO DRZAC HANDY FORCE DRIVE",
+          "barkod": "8018080280290",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Drzac Za Mobitel PLOOS, Air Vent, Crni",
+          "barkod": "8018080368240",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ACL SLUSALICE BT TWS WINK BLACK",
+          "barkod": "8018080425844",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST GM MIS WLESS,FELOX,BLACK,GXT110",
+          "barkod": "8713439250374",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST GM MIS WLESS,FELOX,WHITE,GXT110W",
+          "barkod": "8713439250695",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLUE",
+          "barkod": "8713439250411",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC MIS WLESS SILENT MULTI-DEVICE OZAA+ BLACK",
+          "barkod": "8713439248203",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MANHATTAN CITAC SMART CARD SIM",
+          "barkod": "766623102025",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUTO ADAPTER USB-A TO USB-C",
+          "barkod": "8018080399534",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne ANKER Soundcore K20i bijele",
+          "barkod": "0194644037611",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO",
+          "barkod": "8018080499609",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastita Preklopna CELLULARLINE, Book Essential, Samsung Galaxy A57, Crna",
+          "barkod": "8018080514715",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ACL AUDIO KABEL 3.5 MM NA MFI",
+          "barkod": "8018080342370",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Trust Primo HR/SI",
+          "barkod": "8713439241518",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
