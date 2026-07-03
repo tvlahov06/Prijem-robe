@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T07:47:50.628Z",
+  "azurirano": "2026-07-03T07:48:25.918Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -1230,7 +1230,7 @@
           "naziv": "Toster grill Philips HD6307/70 preklopni",
           "barkod": "8720389035678",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso CITIZ White D113-EUWHN2-S",
@@ -1308,7 +1308,7 @@
           "naziv": "Aparat za sladoled Ninja NC302EU Creami",
           "barkod": "0622356350884",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Blender Ninja BC151EUPR Blast Portable ljubicasti",
