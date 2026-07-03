@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T05:35:00.391Z",
-  "azurirano": "2026-07-03T05:48:52.887Z",
+  "azurirano": "2026-07-03T05:48:59.898Z",
   "dokumenti": [
     {
       "naziv": "logista030726",
@@ -68,7 +68,7 @@
           "naziv": "CELULLARLINE AUTO ADAPTER TYPE-C 20W",
           "barkod": "8018080468063",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Slusalice bezicne ANKER SOUNDCORE BT K20i crne",
@@ -146,7 +146,7 @@
           "naziv": "CELLULARLINE SLUSALICE TYPE-C SPARROW BLACK",
           "barkod": "8018080353970",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE SLUSALICE TYPE-C SPARROW WHITE",
@@ -758,7 +758,7 @@
           "naziv": "CELLULARLINE ACL SLUSALICE BT TWS WINK BLACK",
           "barkod": "8018080425844",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST GM MIS WLESS,FELOX,BLACK,GXT110",
