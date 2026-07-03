@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T16:56:11.269Z",
-  "azurirano": "2026-07-03T06:42:27.469Z",
+  "azurirano": "2026-07-03T06:42:33.906Z",
   "dokumenti": [
     {
       "naziv": "MSI 4174-101",
@@ -449,7 +449,7 @@
           "naziv": "Mis ACER AMR130, Zuta",
           "barkod": "4711474835543",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk ADATA Ex HDD HV300, 1TB, usb3.0, bijeli -CWH",
