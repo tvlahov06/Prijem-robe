@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T08:04:49.315Z",
+  "azurirano": "2026-07-03T08:04:54.933Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -812,7 +812,7 @@
           "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB sivi",
           "barkod": "8806097855019",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
@@ -944,7 +944,7 @@
           "naziv": "Tablet Huawei MatePad 12X 12GB/256GB (Laurent-W09DK) bijeli",
           "barkod": "6942103169014",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dron DJI Flip (DJI RC 2) (GL)",
