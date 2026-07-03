@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:46:48.875Z",
-  "azurirano": "2026-07-03T08:33:31.794Z",
+  "azurirano": "2026-07-03T08:33:45.824Z",
   "dokumenti": [
     {
       "naziv": "MSI 4136-101",
@@ -767,7 +767,7 @@
           "naziv": "Lego Marvel Super Heroes PS4 F36",
           "barkod": "5051892153348",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Red Dead Redemption 2 PS4 F37",
@@ -797,13 +797,13 @@
           "naziv": "Need for Speed Unbound PS5 E30",
           "barkod": "5030938123866",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mortal Kombat 1 PS5 A38",
           "barkod": "5051895416815",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Prince Of Persia The Lost Crown PS4 B38",
@@ -815,7 +815,7 @@
           "naziv": "Astro Bot PS5",
           "barkod": "711719591115",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 4
         },
         {
           "naziv": "Nintendo Switch 2 Carrying Case And Screen Protector",
