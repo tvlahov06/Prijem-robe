@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T09:42:21.494Z",
-  "azurirano": "2026-07-03T13:57:31.915Z",
+  "azurirano": "2026-07-03T13:57:36.400Z",
   "dokumenti": [
     {
       "naziv": "logista za prijem 03.07.2026.",
@@ -320,13 +320,13 @@
           "naziv": "Kabel PLOOS, USB-A na USB-C, 100cm, Bijeli",
           "barkod": "8018080369780",
           "ocekivano": 15,
-          "skenirano": 12
+          "skenirano": 13
         },
         {
           "naziv": "Kabel PLOOS, USB-C na USB-C, 100cm, Bijeli",
           "barkod": "8018080371509",
           "ocekivano": 20,
-          "skenirano": 6
+          "skenirano": 7
         },
         {
           "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
@@ -338,7 +338,7 @@
           "naziv": "Kucni Punjac PLOOS, 20W, 1xUSB-C, Kabel USB-C na MFI, Crni",
           "barkod": "8018080399503",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Volan Trust Movi GXT289",
