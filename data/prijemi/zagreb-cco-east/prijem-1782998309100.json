@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-03T19:15:36.297Z",
+  "azurirano": "2026-07-03T19:17:14.387Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -152,7 +152,7 @@
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
           "barkod": "4897098683446",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "White Shark TIPKOVNICA GK-002722V2 WAKIZASHI-2 / -G-B-BLUE Sivo-crna HR-BLUE.SW",
@@ -1002,7 +1002,7 @@
           "naziv": "HDD WD Elements Portable 2TB, USB 3.0",
           "barkod": "718037855363",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta EPSON 103 T00S4 L3150 yellow ecotank C13T00S44A 65ml",
