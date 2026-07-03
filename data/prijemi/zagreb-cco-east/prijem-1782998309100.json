@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-03T19:34:10.922Z",
+  "azurirano": "2026-07-03T19:34:16.076Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -1370,7 +1370,7 @@
           "naziv": "Usisavac Philips XD5123/10",
           "barkod": "8720389038334",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Saros 10R sa stanicom za samociscenje crna",
