@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T08:10:16.127Z",
-  "azurirano": "2026-07-03T07:01:34.870Z",
+  "azurirano": "2026-07-03T07:01:39.909Z",
   "dokumenti": [
     {
       "naziv": "Logista CCOE",
@@ -416,7 +416,7 @@
           "naziv": "CELLULARLINE SENSATION MASKICA IPHONE 16 PRO BLACK",
           "barkod": "8018080482557",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE SLUSALICE TYPE-C SPARROW BLACK",
@@ -434,7 +434,7 @@
           "naziv": "CELLULARLINE ZASTITNA MASKA BOOK ESSENTIAL GALAXY A17 BLACK",
           "barkod": "8018080505454",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17",
