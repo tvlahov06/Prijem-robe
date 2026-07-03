@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T09:42:21.494Z",
-  "azurirano": "2026-07-03T13:26:46.034Z",
+  "azurirano": "2026-07-03T13:26:51.029Z",
   "dokumenti": [
     {
       "naziv": "logista za prijem 03.07.2026.",
@@ -626,7 +626,7 @@
           "naziv": "Kabel MANHATTAN HDMI 4K@60Hz Certified Premium High Speed with Ethernet, 2m",
           "barkod": "766623394932",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 1m",
@@ -698,7 +698,7 @@
           "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 2m",
           "barkod": "766623395014",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kucni Punjac PLOOS, 2A, 1xUSB-A, Kabel USB-C 100cm, Crni",
