@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T09:42:21.494Z",
-  "azurirano": "2026-07-03T13:28:05.762Z",
+  "azurirano": "2026-07-03T13:28:13.358Z",
   "dokumenti": [
     {
       "naziv": "logista za prijem 03.07.2026.",
@@ -188,7 +188,7 @@
           "naziv": "MANHATTAN CITAC SMART CARD",
           "barkod": "766623102049",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Trust Torix GTX866 mehanicka",
