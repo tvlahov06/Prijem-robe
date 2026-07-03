@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T05:35:00.391Z",
-  "azurirano": "2026-07-03T05:54:15.359Z",
+  "azurirano": "2026-07-03T05:54:19.309Z",
   "dokumenti": [
     {
       "naziv": "logista030726",
@@ -638,7 +638,7 @@
           "naziv": "Putni adapter Skross World - SAD",
           "barkod": "7640166320203",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Prijenosna Baterija CELLULARLINE Roller 20.000 mAh 65W Crna",
@@ -818,7 +818,7 @@
           "naziv": "CELLULARLINE ACL AUDIO KABEL 3.5 MM NA MFI",
           "barkod": "8018080342370",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Trust Primo HR/SI",
