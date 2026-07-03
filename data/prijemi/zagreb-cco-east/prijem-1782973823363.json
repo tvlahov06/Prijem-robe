@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T08:10:16.127Z",
-  "azurirano": "2026-07-03T06:14:17.956Z",
+  "azurirano": "2026-07-03T06:14:26.410Z",
   "dokumenti": [
     {
       "naziv": "Logista CCOE",
@@ -32,7 +32,7 @@
           "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni crni",
           "barkod": "0194644125806",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "ANKER kucni punjac 33W, 1xUSB-C/1xUSB-A, bijeli",
@@ -764,7 +764,7 @@
           "naziv": "Pleteni kabel ANKER USB-C na USB-C 240W 180 cm",
           "barkod": "0194644199760",
           "ocekivano": 8,
-          "skenirano": 7
+          "skenirano": 8
         },
         {
           "naziv": "Pleteni kabel ANKER USB-C na USB-C Kabel 240W 90 cm",
