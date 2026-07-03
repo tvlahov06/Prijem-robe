@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T18:05:40.370Z",
-  "azurirano": "2026-07-03T18:09:55.000Z",
+  "azurirano": "2026-07-03T18:10:00.803Z",
   "dokumenti": [
     {
       "naziv": "Monitori",
@@ -62,7 +62,7 @@
           "naziv": "Monitor 23.8\" ACER SA242YH1, UM.QS2EE.109, VA Full HD, 100Hz, 4ms, ZeroFrame, VGA, HDMI",
           "barkod": "4711474688774",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 23.8\" ACER Vero B247YG, UM.QB7EE.G05, IPS Full HD, 120Hz, 4ms, VGA, HDMI, DisplayPort, USB Hub, Zvucnici, Pivot",
@@ -74,7 +74,7 @@
           "naziv": "Monitor 23.8\" ACER Vero RS2 RS242Y, UM.QR2EE.013, IPS Full HD, 100Hz, 4ms, VGA, HDMI",
           "barkod": "4711121673283",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 23.8\" LENOVO ThinkVision E24-40, 64BAMAT1EU, IPS Full HD, 100Hz, 4ms, VGA, HDMI, DisplayPort, Zvucnici, Pivot",
