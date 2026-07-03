@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T20:44:30.006Z",
-  "azurirano": "2026-07-03T20:49:39.272Z",
+  "azurirano": "2026-07-03T20:49:47.419Z",
   "dokumenti": [
     {
       "naziv": "MSI 4203-101",
@@ -56,7 +56,7 @@
           "naziv": "USB STICK KINGSTON FD Exodia 128GB USB 3.2",
           "barkod": "740617309928",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta Epson 103 za L11xx/L12xx/L31xx/L32xx/L51xx/L52xx, 65ml",
@@ -86,7 +86,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
           "barkod": "740617348699",
           "ocekivano": 6,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
@@ -128,7 +128,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
           "barkod": "4718050609642",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
