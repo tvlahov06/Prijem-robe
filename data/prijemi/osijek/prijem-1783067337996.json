@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T08:28:57.996Z",
-  "azurirano": "2026-07-03T09:50:55.953Z",
+  "azurirano": "2026-07-03T09:51:03.707Z",
   "dokumenti": [
     {
       "naziv": "MSI 4148-101",
@@ -941,13 +941,13 @@
           "naziv": "Mikrofon HP HyperX SoloCast 2, AR0A0AA, crni",
           "barkod": "198701525790",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MIS SBOX M-958 Crni",
           "barkod": "0616320538309",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB stick ADATA UV210, 64GB, USB2.0 GD",
@@ -1019,7 +1019,7 @@
           "naziv": "SBOX WM-852, ljubicasta boja, bezicni | Wireless mis",
           "barkod": "3858894506125",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk WD My Passport 5TB, Black, USB 3.2 K-WESN",
