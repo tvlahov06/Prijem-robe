@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T09:04:30.135Z",
+  "azurirano": "2026-07-03T09:06:01.460Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -413,7 +413,7 @@
           "naziv": "Pegla za kosu Remington S8540 Keratin Protect",
           "barkod": "4008496938438",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3826/31 Power Flosser Cordless white",
@@ -431,37 +431,37 @@
           "naziv": "Brijac za glavu Remington XR1500",
           "barkod": "5038061106022",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Uvijac za kosu Remington cik cak S3580 Ceramic Crimp",
           "barkod": "4008496975563",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo/kosu/bradu Braun 8u1 3440*",
           "barkod": "4210201446835",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6652/61 Face & Body",
           "barkod": "8720689027298",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za tijelo/kosu/bradu Braun 6u1 3410*",
           "barkod": "4210201446613",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za kosu Philips HC7650/15",
           "barkod": "8710103897903",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Stilizator za kosu Babyliss Air Wand AS6555E Limited edition",
@@ -473,13 +473,13 @@
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
           "barkod": "8720689045094",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 8U1 Philips MG3940/15",
           "barkod": "8720689026611",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za oblikovanje kose Shark HD440EU FlexStyle 5u1",
@@ -497,7 +497,7 @@
           "naziv": "Susilo za kosu Remington EC8930E51 AIRviveTM",
           "barkod": "5038061174762",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za oblikovanje kose Shark HD424SLEU FlexStyle 3u1",
@@ -509,13 +509,13 @@
           "naziv": "Pegla za kosu Remington S8930E51 AIRviveTM",
           "barkod": "5038061174670",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za tijelo 17U1 Philips MG7951/15",
           "barkod": "8720689044967",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
