@@ -1,0 +1,226 @@
+{
+  "id": "prijem-1783101940370",
+  "poslovnica": "osijek",
+  "naziv": "Monitori",
+  "datum": "2026-07-03",
+  "status": "aktivan",
+  "kreirano": "2026-07-03T18:05:40.370Z",
+  "azurirano": "2026-07-03T18:05:40.370Z",
+  "dokumenti": [
+    {
+      "naziv": "Monitori",
+      "stavke": [
+        {
+          "naziv": "DELL 24\" Gaming monitor SE2425HG, IPS Full HD, 200Hz, 1ms, AMD FreeSync Premium, Display Port, 2x HDMI",
+          "barkod": "5397184962893",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DELL 24\" Pro Plus monitor P2425DE, IPS 2K/QHD, 100Hz, 5ms, ComfortView Plus, 2x DisplayPort (Daisy Chain), HDMI, USB-C Hub, 3x USB, LAN, Pivot",
+          "barkod": "5397184962466",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DELL 24\" UltraSharp monitor U2424H, IPS Full HD, 120Hz, 5ms, ComfortView Plus, 2x DisplayPort (Daisy Chain), HDMI, 2x USB-C, 3x USB, Pivot",
+          "barkod": "5397184821381",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LG 32\" UltraFine Monitor 32UR550K-B, VA 4K UHD, 60Hz, 4ms, Dynamic Action Sync, AMD FreeSync, DisplayPort, 2x HDMI, Pivot, Zvucnici",
+          "barkod": "8806096228159",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LG 32\" UltraGear AI Smart Monitor 32G810SA-W, IPS 4K UHD, 144Hz, 1ms, webOS, FreeSync Premium, nVidia G-Sync, DP, 2x HDMI, USB-C, Pivot, Zvucnici",
+          "barkod": "8806096349304",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 22\" Xiaomi A22I",
+          "barkod": "6941948700314",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 23.6\" ACER Nitro ED240QS3, UM.UE0EE.301, VA Full HD, 180Hz, 5ms, AMD FreeSync, 2x HDMI, DisplayPort, Zvucnici, Zakrivljen",
+          "barkod": "4711121531156",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 23.8\" Acer Nitro XF240YM3, UM.QX0EE.315, 180Hz, IPS, FHD",
+          "barkod": "4711121692598",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 23.8\" ACER SA242YH1, UM.QS2EE.109, VA Full HD, 100Hz, 4ms, ZeroFrame, VGA, HDMI",
+          "barkod": "4711474688774",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 23.8\" ACER Vero B247YG, UM.QB7EE.G05, IPS Full HD, 120Hz, 4ms, VGA, HDMI, DisplayPort, USB Hub, Zvucnici, Pivot",
+          "barkod": "4711474183941",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 23.8\" ACER Vero RS2 RS242Y, UM.QR2EE.013, IPS Full HD, 100Hz, 4ms, VGA, HDMI",
+          "barkod": "4711121673283",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 23.8\" LENOVO ThinkVision E24-40, 64BAMAT1EU, IPS Full HD, 100Hz, 4ms, VGA, HDMI, DisplayPort, Zvucnici, Pivot",
+          "barkod": "198156755582",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 23.8\" LENOVO ThinkVision S24-4e, 64B5KAT1EU, IPS Full HD, 100Hz, 4ms, VGA, HDMI",
+          "barkod": "0198156628701",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 27\" ACER Predator XB273UV3bmiiprzx QHD IPS 180Hz",
+          "barkod": "4711121853074",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 27\" ACER SA273P1bi, UM.HS3EE.101, FHD IPS 144Hz",
+          "barkod": "4711474585431",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 27\" Samsung LS27D600UAUXEN, IPS, UWQHD, 100Hz",
+          "barkod": "8806095524658",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 27\" Xiaomi G Pro 27I M0EJ",
+          "barkod": "6941948703193",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 31.5\" ACER SH322QUE, UM.JS2EE.E01, IPS 2K/QHD, 100Hz, 4ms, ZeroFrame, HDMI, DisplayPort, Type-C, Zvucnici",
+          "barkod": "4711474371485",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 34\" ACER Nitro XZ340CUJ0, UM.CX0EE.009, VA UWQHD, 120Hz, 5ms, Adaptive Sync, 2x HDMI, DisplayPort, Zvucnici, Zakrivljen",
+          "barkod": "4711474250087",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor AOC Q27G4ZDR 27\" QD-OLED Gaming, 240 Hz",
+          "barkod": "4038986183130",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor gaming Xiaomi Mi G27I",
+          "barkod": "6941948701403",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor XIAOMI 2K A27QI EU 2026, 68.58 cm (27\"), IPS, 120 Hz",
+          "barkod": "6941948709133",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor XIAOMI A27UI-EU, 68,6 cm (27''), 4K UHD IPS, HDR400, 99% sRGB, 60Hz, USB-C",
+          "barkod": "6941948706989",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor XIAOMI G24I 2026 OM4FE-EU, 60,5 cm (23,8''), IPS, 200 Hz, 1ms, FreeSync Premium",
+          "barkod": "6941948707979",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor XIAOMI G27I 2026 OM4FF-EU, 68.58 cm (27\"), Fast IPS, 200 Hz, 1 ms, FreeSync Premium Gaming monitor",
+          "barkod": "6941948708013",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MSI 23.6\" MAG Gaming Monitor MAG 244C, VA Curved Full HD, 180Hz, 1ms, AMD FreeSync, DisplayPort, HDMI, HDR Ready",
+          "barkod": "4711377259156",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MSI 27\" Modern Monitor MD272UPHW, IPS 4K UHD, 60Hz, 4ms, Adaptive-Sync, DisplayPort, 2x HDMI, USB-C, USB Hub, Pivot, Zvucnici",
+          "barkod": "4711377262248",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Otvorena ambalaza - Monitor 27\" LG 27UP650P, IPS, UHD 4K, HDR",
+          "barkod": "2010030093260",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Otvorena ambalaza - Monitor 34'' ACER Nitro ED340CUR, UM.CE0EE.009, VA UWQHD, 200Hz, 5ms, AMD FreeSync, 2x HDMI, DisplayPort, Zvucnici, Zakrivljen",
+          "barkod": "2010030081649",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Otvorena ambalaza - SAMSUNG 27\" ViewFinity S9 Smart Monitor LS27C902PAUXDU, IPS 5K, 60Hz, 5ms, Tizen, Game Mode, Mini-DP, Thunderbolt 4, USB Hub, Piv",
+          "barkod": "2010031107010",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Otvorena ambalaza - SAMSUNG 32\" Odyssey G7 Gaming Monitor LS32DG702EUXDU, IPS 4K UHD, 144Hz, 1ms, AMD FreeSync, nVidia G-Sync, DP, 2x HDMI, USB Hub,",
+          "barkod": "2010030093178",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SAMSUNG 27\" Essential Monitor S4 S43UF LS27F434UAUXEN, IPS Full HD, 100Hz, 5ms, DisplayPort, HDMI, USB-C, USB Hub, Pivot",
+          "barkod": "8806097199144",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SAMSUNG 27\" Odyssey G5 Gaming Monitor LS27FG502EUXEN, IPS 2K/QHD, 180Hz, 1ms, AMD FreeSync, nVidia G-Sync, DisplayPort, HDMI",
+          "barkod": "8806097817796",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SAMSUNG 27\" ViewFinity S8 Monitor LS27D800UAUXEN, IPS 4K UHD, 60Hz, 5ms, HDR10, DisplayPort, HDMI, USB-C, USB Hub, LAN, Pivot",
+          "barkod": "8806095541945",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Xiaomi 2K Gaming Monitor G27Qi 2026",
+          "barkod": "6941948709072",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
