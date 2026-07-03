@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T06:58:29.265Z",
+  "azurirano": "2026-07-03T06:58:53.914Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -1164,7 +1164,7 @@
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
           "barkod": "8720389032370",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
@@ -1176,13 +1176,13 @@
           "naziv": "Toster Philips HD2350/80 preklopni",
           "barkod": "8720389032813",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Philips HD2330/90 preklopni",
           "barkod": "8720389032806",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups SA401LE0 espresso Coffee Crush Lichen",
