@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-03T19:33:44.906Z",
+  "azurirano": "2026-07-03T19:33:52.047Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -1292,7 +1292,7 @@
           "naziv": "Toster Philips HD2350/80 preklopni",
           "barkod": "8720389032813",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za dubinsko ciscenje Rowenta IN3020F0",
