@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "jebeni nosaci u spar kolicima u 9 ujutro bokte",
   "datum": "2026-07-03",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-03T07:29:46.678Z",
-  "azurirano": "2026-07-03T07:30:16.014Z",
+  "azurirano": "2026-07-03T14:48:24.928Z",
   "dokumenti": [
     {
       "naziv": "carrier030726",
@@ -144,5 +144,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-03T14:48:24.928Z"
 }
