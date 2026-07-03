@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:46:48.875Z",
-  "azurirano": "2026-07-03T08:19:43.435Z",
+  "azurirano": "2026-07-03T08:19:50.440Z",
   "dokumenti": [
     {
       "naziv": "MSI 4136-101",
@@ -268,7 +268,7 @@
           "naziv": "Susilo za kosu Philips BHC010/10 putno",
           "barkod": "8710103887119",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Susilo za kosu Philips BHD530/00",
@@ -328,7 +328,7 @@
           "naziv": "IPL depilator Philips BRI973/00 Lumea",
           "barkod": "8720689005708",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD720/10",
