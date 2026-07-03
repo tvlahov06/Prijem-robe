@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T07:48:55.720Z",
+  "azurirano": "2026-07-03T07:49:42.392Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -1254,7 +1254,7 @@
           "naziv": "Friteza na vruci zrak Philips HD9285/00 Airfryer XXL",
           "barkod": "8720389033452",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST7051/30",
@@ -1266,7 +1266,7 @@
           "naziv": "Friteza na vruci zrak Philips NA552/00 Airfryer Dual Basket, para",
           "barkod": "8720389049286",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mikser stapni Bosch MSM4B620 ErgoMaster",
