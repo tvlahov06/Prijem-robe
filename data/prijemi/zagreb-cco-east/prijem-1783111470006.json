@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T20:44:30.006Z",
-  "azurirano": "2026-07-03T20:49:17.128Z",
+  "azurirano": "2026-07-03T20:49:22.124Z",
   "dokumenti": [
     {
       "naziv": "MSI 4203-101",
@@ -92,7 +92,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
           "barkod": "740617348651",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
@@ -122,7 +122,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
           "barkod": "4713218461933",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
@@ -170,7 +170,7 @@
           "naziv": "Memorijska kartica ADATA microSDHC, Class10, 10A1-RA1 100/20MBs, 32GB",
           "barkod": "4713218461926",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "SBOX WM-852, ljubicasta boja, bezicni | Wireless mis",
