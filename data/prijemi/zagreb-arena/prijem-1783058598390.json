@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T07:46:01.775Z",
+  "azurirano": "2026-07-03T07:46:26.797Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -1260,7 +1260,7 @@
           "naziv": "Glacalo Philips DST7051/30",
           "barkod": "8720389016073",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA552/00 Airfryer Dual Basket, para",
@@ -1290,7 +1290,7 @@
           "naziv": "Kuhalo za vodu Russell Hobbs 28640-70 Hanley Jasmine",
           "barkod": "5038061179477",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Friteza na vruci zrak Philips oprema HD9946/00 Airfryer dodatak - set za grillanje XL",
