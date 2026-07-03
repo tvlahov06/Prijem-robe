@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T20:44:30.006Z",
-  "azurirano": "2026-07-03T20:50:33.341Z",
+  "azurirano": "2026-07-03T20:50:38.138Z",
   "dokumenti": [
     {
       "naziv": "MSI 4203-101",
@@ -68,7 +68,7 @@
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
           "barkod": "4897098683446",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TP-Link RE450 bezicni pojacivac dometa, Dual Band GHz/5GHz, 10/100/1000 LAN prikljucak",
@@ -152,7 +152,7 @@
           "naziv": "HDD WD Elements Portable 2TB, USB 3.0",
           "barkod": "718037855363",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta EPSON 103 T00S4 L3150 yellow ecotank C13T00S44A 65ml",
