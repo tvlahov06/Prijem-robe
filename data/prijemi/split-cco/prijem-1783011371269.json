@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T16:56:11.269Z",
-  "azurirano": "2026-07-03T06:43:15.880Z",
+  "azurirano": "2026-07-03T06:43:20.435Z",
   "dokumenti": [
     {
       "naziv": "MSI 4174-101",
@@ -407,13 +407,13 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
           "barkod": "4713218461933",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
