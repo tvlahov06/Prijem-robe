@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T09:20:44.980Z",
-  "azurirano": "2026-07-03T09:28:04.447Z",
+  "azurirano": "2026-07-03T09:28:13.467Z",
   "dokumenti": [
     {
       "naziv": "MSI 4174-101",
@@ -122,13 +122,13 @@
           "naziv": "Sisac za kosu/bradu Philips HC3530/15",
           "barkod": "8710103859734",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Philips BHS520/00",
           "barkod": "8710103974147",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips HPS910/00 Prestige Pro",
