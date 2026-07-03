@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T12:30:55.958Z",
-  "azurirano": "2026-07-03T12:44:04.914Z",
+  "azurirano": "2026-07-03T12:44:07.833Z",
   "dokumenti": [
     {
       "naziv": "MSI 4175-101",
@@ -418,7 +418,7 @@
           "naziv": "SSD ADATA SU650, R520/W450, 512GB, 7mm, 2.5\" GT-R",
           "barkod": "4711085931528",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk ADATA Ex HDD HV300, 2TB, usb3.0, crni -CBK",
