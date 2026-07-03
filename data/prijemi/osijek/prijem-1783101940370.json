@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T18:05:40.370Z",
-  "azurirano": "2026-07-03T18:10:18.025Z",
+  "azurirano": "2026-07-03T18:10:26.055Z",
   "dokumenti": [
     {
       "naziv": "Monitori",
@@ -86,13 +86,13 @@
           "naziv": "Monitor 23.8\" LENOVO ThinkVision S24-4e, 64B5KAT1EU, IPS Full HD, 100Hz, 4ms, VGA, HDMI",
           "barkod": "0198156628701",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 27\" ACER Predator XB273UV3bmiiprzx QHD IPS 180Hz",
           "barkod": "4711121853074",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 27\" ACER SA273P1bi, UM.HS3EE.101, FHD IPS 144Hz",
@@ -170,7 +170,7 @@
           "naziv": "MSI 27\" Modern Monitor MD272UPHW, IPS 4K UHD, 60Hz, 4ms, Adaptive-Sync, DisplayPort, 2x HDMI, USB-C, USB Hub, Pivot, Zvucnici",
           "barkod": "4711377262248",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Otvorena ambalaza - Monitor 27\" LG 27UP650P, IPS, UHD 4K, HDR",
@@ -200,13 +200,13 @@
           "naziv": "SAMSUNG 27\" Essential Monitor S4 S43UF LS27F434UAUXEN, IPS Full HD, 100Hz, 5ms, DisplayPort, HDMI, USB-C, USB Hub, Pivot",
           "barkod": "8806097199144",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SAMSUNG 27\" Odyssey G5 Gaming Monitor LS27FG502EUXEN, IPS 2K/QHD, 180Hz, 1ms, AMD FreeSync, nVidia G-Sync, DisplayPort, HDMI",
           "barkod": "8806097817796",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "SAMSUNG 27\" ViewFinity S8 Monitor LS27D800UAUXEN, IPS 4K UHD, 60Hz, 5ms, HDR10, DisplayPort, HDMI, USB-C, USB Hub, LAN, Pivot",
