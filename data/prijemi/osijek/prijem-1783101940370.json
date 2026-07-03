@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T18:05:40.370Z",
-  "azurirano": "2026-07-03T18:11:47.449Z",
+  "azurirano": "2026-07-03T18:11:57.308Z",
   "dokumenti": [
     {
       "naziv": "Monitori",
@@ -50,7 +50,7 @@
           "naziv": "Monitor 23.6\" ACER Nitro ED240QS3, UM.UE0EE.301, VA Full HD, 180Hz, 5ms, AMD FreeSync, 2x HDMI, DisplayPort, Zvucnici, Zakrivljen",
           "barkod": "4711121531156",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 23.8\" Acer Nitro XF240YM3, UM.QX0EE.315, 180Hz, IPS, FHD",
@@ -62,7 +62,7 @@
           "naziv": "Monitor 23.8\" ACER SA242YH1, UM.QS2EE.109, VA Full HD, 100Hz, 4ms, ZeroFrame, VGA, HDMI",
           "barkod": "4711474688774",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Monitor 23.8\" ACER Vero B247YG, UM.QB7EE.G05, IPS Full HD, 120Hz, 4ms, VGA, HDMI, DisplayPort, USB Hub, Zvucnici, Pivot",
@@ -110,7 +110,7 @@
           "naziv": "Monitor 27\" Xiaomi G Pro 27I M0EJ",
           "barkod": "6941948703193",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Monitor 31.5\" ACER SH322QUE, UM.JS2EE.E01, IPS 2K/QHD, 100Hz, 4ms, ZeroFrame, HDMI, DisplayPort, Type-C, Zvucnici",
@@ -212,7 +212,7 @@
           "naziv": "SAMSUNG 27\" ViewFinity S8 Monitor LS27D800UAUXEN, IPS 4K UHD, 60Hz, 5ms, HDR10, DisplayPort, HDMI, USB-C, USB Hub, LAN, Pivot",
           "barkod": "8806095541945",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Xiaomi 2K Gaming Monitor G27Qi 2026",
