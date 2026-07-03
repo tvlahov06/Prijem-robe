@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T12:30:55.958Z",
-  "azurirano": "2026-07-03T12:43:02.756Z",
+  "azurirano": "2026-07-03T12:43:24.115Z",
   "dokumenti": [
     {
       "naziv": "MSI 4175-101",
@@ -502,7 +502,7 @@
           "naziv": "Mis ACER AMR100, Plava/Zelena",
           "barkod": "4711474195548",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB Hub ACER 7in1 Type C Dongle, Srebrna",
