@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T10:04:13.830Z",
-  "azurirano": "2026-07-03T10:11:02.737Z",
+  "azurirano": "2026-07-03T10:11:12.887Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -62,7 +62,7 @@
           "naziv": "Auto Punjac PLOOS, Dual, 2A, 2xUSB-A, Crni",
           "barkod": "8018080367281",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Auto Punjac PLOOS, USB-A, USB-C, 15W, Crni",
@@ -320,7 +320,7 @@
           "naziv": "Drzac Za Mobitel PLOOS, Air Vent, Crni",
           "barkod": "8018080368240",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Drzac Za Mobitel PLOOS, Gravity, Crni",
@@ -488,7 +488,7 @@
           "naziv": "Kucni Punjac PLOOS, 1A, 1xUSB-A, Crni",
           "barkod": "8018080367755",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kucni Punjac PLOOS, 1A, 1xUSB-A, Kabel Micro USB 100cm, Crni",
@@ -512,7 +512,7 @@
           "naziv": "Kucni Punjac PLOOS, Dual, 20W, 1xUSB-A, 1xUSB-C, Crni",
           "barkod": "8018080415005",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kucni Punjac PLOOS, Dual, 2A, 2xUSB-A, Crni",
