@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T09:42:21.494Z",
-  "azurirano": "2026-07-03T13:29:20.116Z",
+  "azurirano": "2026-07-03T13:29:25.152Z",
   "dokumenti": [
     {
       "naziv": "logista za prijem 03.07.2026.",
@@ -188,7 +188,7 @@
           "naziv": "MANHATTAN CITAC SMART CARD",
           "barkod": "766623102049",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Tipkovnica Trust Torix GTX866 mehanicka",
@@ -638,7 +638,7 @@
           "naziv": "Kabel MANHATTAN DisplayPort 4K@60Hz (DP), 2m",
           "barkod": "766623356800",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 2m",
