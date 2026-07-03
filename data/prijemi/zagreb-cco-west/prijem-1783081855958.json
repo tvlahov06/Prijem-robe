@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T12:30:55.958Z",
-  "azurirano": "2026-07-03T12:56:03.725Z",
+  "azurirano": "2026-07-03T12:56:14.044Z",
   "dokumenti": [
     {
       "naziv": "MSI 4175-101",
@@ -139,7 +139,7 @@
           "naziv": "Parna postaja Philips PSG8300/80",
           "barkod": "8720389066504",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Philips XU5100/20",
