@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T16:56:11.269Z",
-  "azurirano": "2026-07-03T06:58:21.822Z",
+  "azurirano": "2026-07-03T06:58:37.160Z",
   "dokumenti": [
     {
       "naziv": "MSI 4174-101",
@@ -995,7 +995,7 @@
           "naziv": "Usisavac Dyson V10 Absolute",
           "barkod": "5025155088081",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V16 Piston Animal",
@@ -1019,7 +1019,7 @@
           "naziv": "Usisavac Dyson V15 Detect Absolute",
           "barkod": "5025155081754",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
