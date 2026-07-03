@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T16:56:11.269Z",
-  "azurirano": "2026-07-03T06:49:35.132Z",
+  "azurirano": "2026-07-03T06:49:42.808Z",
   "dokumenti": [
     {
       "naziv": "MSI 4174-101",
@@ -1185,7 +1185,7 @@
           "naziv": "Mis Logitech M171, crni",
           "barkod": "5099206062856",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Logitech K270 bezicna, USB, crna",
@@ -1203,7 +1203,7 @@
           "naziv": "Slusalice Logitech G733, gaming, RGB, bezicne, crne",
           "barkod": "5099206088719",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zvucnici Logitech G560 2.1, LIGHTSYNC RGB, crni",
