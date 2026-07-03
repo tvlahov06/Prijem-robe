@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T16:56:11.269Z",
-  "azurirano": "2026-07-03T06:58:46.918Z",
+  "azurirano": "2026-07-03T06:58:53.538Z",
   "dokumenti": [
     {
       "naziv": "MSI 4174-101",
@@ -989,7 +989,7 @@
           "naziv": "Usisavac Dyson V8 Absolute",
           "barkod": "5025155090152",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V10 Absolute",
@@ -1001,7 +1001,7 @@
           "naziv": "Usisavac Dyson V16 Piston Animal",
           "barkod": "5025155114834",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V8 Cyclone",
