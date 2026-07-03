@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T10:04:13.830Z",
-  "azurirano": "2026-07-03T10:13:14.264Z",
+  "azurirano": "2026-07-03T10:13:48.309Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -128,7 +128,7 @@
           "naziv": "CELLULARLINE AUTO DRZAC DRZAC HANDY WING PRO",
           "barkod": "8018080308338",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE AUTO PUNJAC MULTIPOWER ADAPTER FAST+ DUAL USB-A/USB-C 32W",
@@ -176,7 +176,7 @@
           "naziv": "CELLULARLINE FM TRANSMITTER",
           "barkod": "8018080476976",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE KABEL SPIRAL USB-C",
@@ -230,7 +230,7 @@
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 10.000 BLUE",
           "barkod": "8018080484636",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 20.000 BLACK",
@@ -248,13 +248,13 @@
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
           "barkod": "8018080481963",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA FAST PD 20.000 BLACK",
           "barkod": "8018080484650",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE SLEEK BLUETOOTH MONO HEADSET",
@@ -308,7 +308,7 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO",
           "barkod": "8018080483035",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "CELULLARLINE AUTO ADAPTER TYPE-C 20W",
@@ -464,7 +464,7 @@
           "naziv": "Kabel PLOOS, USB-C na USB-C, 100cm, Bijeli",
           "barkod": "8018080371509",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Kucni Punjac CELLULARLINE GaN+ Slim Dual 45W",
@@ -488,7 +488,7 @@
           "naziv": "Kucni Punjac PLOOS, 1A, 1xUSB-A, Crni",
           "barkod": "8018080367755",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Kucni Punjac PLOOS, 1A, 1xUSB-A, Kabel Micro USB 100cm, Crni",
@@ -512,7 +512,7 @@
           "naziv": "Kucni Punjac PLOOS, Dual, 20W, 1xUSB-A, 1xUSB-C, Crni",
           "barkod": "8018080415005",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Kucni Punjac PLOOS, Dual, 2A, 2xUSB-A, Crni",
@@ -536,7 +536,7 @@
           "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, book essential",
           "barkod": "8018080511042",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, sensation, crna",
@@ -692,13 +692,13 @@
           "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Capsule, In-Ear, 3,5mm, Bijele",
           "barkod": "8018080371448",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Capsule, In-Ear, 3,5mm, Crne",
           "barkod": "8018080371394",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Capsule, In-Ear, 3,5mm, Crvene",
@@ -836,7 +836,7 @@
           "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLUE",
           "barkod": "8713439250411",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST PC PODLOGA ZA MIS,ERGONOMSKA,BIGFOOT",
