@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T05:35:00.391Z",
-  "azurirano": "2026-07-03T06:05:16.475Z",
+  "azurirano": "2026-07-03T06:05:22.097Z",
   "dokumenti": [
     {
       "naziv": "logista030726",
@@ -98,7 +98,7 @@
           "naziv": "CELLULARLINE KABEL C-C 3.1 150 CM WHITE",
           "barkod": "8018080477218",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE KABEL SPIRAL C-C",
@@ -290,7 +290,7 @@
           "naziv": "Mikrofon Bezicni CELLULARLINE Talk Pro",
           "barkod": "8018080494383",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Auto Punjac CELLULARLINE GaN+ 67W 2x USB-C/USB-A + USB-C Kabel",
