@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T08:10:16.127Z",
-  "azurirano": "2026-07-03T06:14:34.596Z",
+  "azurirano": "2026-07-03T06:15:19.040Z",
   "dokumenti": [
     {
       "naziv": "Logista CCOE",
@@ -176,7 +176,7 @@
           "naziv": "CELLULARLINE AUTO DRZAC HANDY FORCE DRIVE",
           "barkod": "8018080280290",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE AUTO PUNJAC MULTIPOWER ADAPTER FAST+ DUAL USB-A/USB-C 32W",
@@ -806,7 +806,7 @@
           "naziv": "Punjac ANKER 511 CHARGER NANO 3, 30W: BIJELA-PUNJAC",
           "barkod": "0194644103538",
           "ocekivano": 6,
-          "skenirano": 5
+          "skenirano": 6
         },
         {
           "naziv": "Punjac Cellularline 40W PD USB-C",
