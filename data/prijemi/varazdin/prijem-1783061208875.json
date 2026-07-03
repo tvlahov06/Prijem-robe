@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:46:48.875Z",
-  "azurirano": "2026-07-03T08:11:42.367Z",
+  "azurirano": "2026-07-03T08:11:47.482Z",
   "dokumenti": [
     {
       "naziv": "MSI 4136-101",
@@ -274,7 +274,7 @@
           "naziv": "Susilo za kosu Philips BHD530/00",
           "barkod": "8710103977209",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
@@ -352,13 +352,13 @@
           "naziv": "Susilo za kosu Philips BHD538/30",
           "barkod": "8720689023276",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3886/41 Power Flosser + Cetkica za zube Diamond Clean 9000 White",
           "barkod": "8720689016155",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7109/01 Sonicare Series 5300 DUO, Black & White",
