@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T05:35:00.391Z",
-  "azurirano": "2026-07-03T06:04:55.551Z",
+  "azurirano": "2026-07-03T06:05:00.140Z",
   "dokumenti": [
     {
       "naziv": "logista030726",
@@ -452,7 +452,7 @@
           "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLACK",
           "barkod": "8713439250848",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ANKER MAG GO Prijenosna baterija 10.000, 15W, bijeli",
@@ -776,7 +776,7 @@
           "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLUE",
           "barkod": "8713439250411",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST PC MIS WLESS SILENT MULTI-DEVICE OZAA+ BLACK",
