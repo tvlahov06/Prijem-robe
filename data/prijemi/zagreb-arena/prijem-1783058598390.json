@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T09:23:41.977Z",
+  "azurirano": "2026-07-03T09:25:04.887Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -961,7 +961,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
           "barkod": "8720689027137",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Susilo za kosu Philips BHD837/10",
@@ -1057,7 +1057,7 @@
           "naziv": "Brijaci aparat Philips X3051/00",
           "barkod": "8720689019019",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu/bradu Philips HC3530/15",
@@ -1093,13 +1093,13 @@
           "naziv": "Tus za zube Philips Sonicare HX3886/41 Power Flosser + Cetkica za zube Diamond Clean 9000 White",
           "barkod": "8720689016155",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3886/43 Power Flosser + Cetkica za zube Diamond Clean 9000 Black",
           "barkod": "8720689017084",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips XP9204/30",
@@ -1111,7 +1111,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7109/01 Sonicare Series 5300 DUO, Black & White",
           "barkod": "8720689021418",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
