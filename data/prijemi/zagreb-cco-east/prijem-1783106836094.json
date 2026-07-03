@@ -1,0 +1,88 @@
+{
+  "id": "prijem-1783106836094",
+  "poslovnica": "zagreb-cco-east",
+  "naziv": "Big Partner Dobavnica 260807705",
+  "datum": "2026-07-03",
+  "status": "aktivan",
+  "kreirano": "2026-07-03T19:27:16.094Z",
+  "azurirano": "2026-07-03T19:27:16.094Z",
+  "dokumenti": [
+    {
+      "naziv": "big partner jbl",
+      "stavke": [
+        {
+          "naziv": "Slusalice potpuno bezicne JBL WAVE FLEX 2 True Wireless bijele",
+          "barkod": "1200130015144",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GO 4 plavi",
+          "barkod": "1200130009457",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth potpuno bezicne JBL VIBE BEAM 2 crne",
+          "barkod": "1200130015335",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrofon JBL PARTYBOX",
+          "barkod": "1200130010156",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crni",
+          "barkod": "1200130019555",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 plavi",
+          "barkod": "1200130019579",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 maskirni",
+          "barkod": "1200130019609",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Radio JBL TUNER 3 bijeli",
+          "barkod": "1200130024054",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrofon JBL Easy Sing Mics",
+          "barkod": "1200130032752",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GO 5 crni",
+          "barkod": "1200130034282",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GO 5 plavi",
+          "barkod": "1200130034299",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik JBL Partybox 130 crni",
+          "barkod": "1200130035135",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
