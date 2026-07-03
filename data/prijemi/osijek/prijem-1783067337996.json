@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T08:28:57.996Z",
-  "azurirano": "2026-07-03T09:06:06.841Z",
+  "azurirano": "2026-07-03T09:06:53.408Z",
   "dokumenti": [
     {
       "naziv": "MSI 4148-101",
@@ -554,7 +554,7 @@
           "naziv": "Parna postaja Philips PSG7200/20",
           "barkod": "8720389065170",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9330/09",
@@ -566,7 +566,7 @@
           "naziv": "Blender Bosch MMB6762M VitaPower Serie 6",
           "barkod": "4242005395170",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Russell Hobbs 26761-56 Bronte Stone",
