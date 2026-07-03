@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T12:30:55.958Z",
-  "azurirano": "2026-07-03T12:44:19.287Z",
+  "azurirano": "2026-07-03T12:44:40.961Z",
   "dokumenti": [
     {
       "naziv": "MSI 4175-101",
@@ -335,7 +335,7 @@
           "naziv": "Mis LOGITECH MX Master 4 bijeli",
           "barkod": "5099206133099",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bezicni mis Logitech M850 L",
@@ -353,7 +353,7 @@
           "naziv": "Mis Logitech G502 X PLUS, LIGHTSPEED, LIGHTSYNC RGB, bijeli",
           "barkod": "5099206096356",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
