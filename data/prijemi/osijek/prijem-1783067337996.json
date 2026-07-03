@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T08:28:57.996Z",
-  "azurirano": "2026-07-03T10:31:50.585Z",
+  "azurirano": "2026-07-03T10:31:53.679Z",
   "dokumenti": [
     {
       "naziv": "MSI 4148-101",
@@ -137,7 +137,7 @@
           "naziv": "Susilo za kosu Philips BHD837/10",
           "barkod": "8720689033244",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHC010/10 putno",
