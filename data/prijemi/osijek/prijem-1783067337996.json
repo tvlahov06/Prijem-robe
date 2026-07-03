@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T08:28:57.996Z",
-  "azurirano": "2026-07-03T09:51:09.678Z",
+  "azurirano": "2026-07-03T09:51:16.191Z",
   "dokumenti": [
     {
       "naziv": "MSI 4148-101",
@@ -899,7 +899,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Podloga za mis HyperX Pulsefire XL HMPM1-XL",
@@ -977,7 +977,7 @@
           "naziv": "CANON",
           "barkod": "4960999974507",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Baracuda TIPKOVNICA+MIS BGC-011 ORCA Crna - Combo",
