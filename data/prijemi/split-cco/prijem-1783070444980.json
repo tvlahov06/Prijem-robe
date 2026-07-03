@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T09:20:44.980Z",
-  "azurirano": "2026-07-03T09:25:15.613Z",
+  "azurirano": "2026-07-03T09:25:35.467Z",
   "dokumenti": [
     {
       "naziv": "MSI 4174-101",
@@ -74,7 +74,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP2724/31 Face",
           "barkod": "8720689035958",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD274/00",
