@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T06:53:36.219Z",
+  "azurirano": "2026-07-03T06:55:18.326Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -1218,7 +1218,7 @@
           "naziv": "Usisavac robot iRobot Roomba Combo 105 White",
           "barkod": "5061042263261",
           "ocekivano": 1,
-          "skenirano": 2
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za uklanjanje vlakana Philips GC026/80 Black",
@@ -1236,7 +1236,7 @@
           "naziv": "Aparat za kavu Nespresso CITIZ White D113-EUWHN2-S",
           "barkod": "7640156779899",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kuhinjski asistent Gorenje MMC1500PS",
