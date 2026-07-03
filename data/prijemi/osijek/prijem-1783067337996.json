@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T08:28:57.996Z",
-  "azurirano": "2026-07-03T09:50:49.159Z",
+  "azurirano": "2026-07-03T09:50:55.953Z",
   "dokumenti": [
     {
       "naziv": "MSI 4148-101",
@@ -947,7 +947,7 @@
           "naziv": "MIS SBOX M-958 Crni",
           "barkod": "0616320538309",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV210, 64GB, USB2.0 GD",
