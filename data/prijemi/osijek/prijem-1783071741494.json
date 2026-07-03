@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T09:42:21.494Z",
-  "azurirano": "2026-07-03T13:58:02.740Z",
+  "azurirano": "2026-07-03T13:58:06.981Z",
   "dokumenti": [
     {
       "naziv": "logista za prijem 03.07.2026.",
@@ -746,7 +746,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
           "barkod": "8018080270413",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE-C 200CM",
@@ -764,7 +764,7 @@
           "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
           "barkod": "8018080295751",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC HUAWEI I KABEL USB-C 3A/18W",
