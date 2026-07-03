@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T08:51:59.874Z",
+  "azurirano": "2026-07-03T08:52:09.997Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -182,13 +182,13 @@
           "naziv": "Mis Logitech M100, zicani, crni",
           "barkod": "5099206104242",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M196, bijeli",
           "barkod": "5099206128323",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Logitech H390, zicane, USB, crne",
@@ -200,19 +200,19 @@
           "naziv": "Mis Logitech M190, crveni",
           "barkod": "5099206091856",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M90, zicani, sivi",
           "barkod": "5099206021860",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Volan LOGITECH G G29 + mjenjac",
           "barkod": "5099206132467",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Web kamera Logitech C922 Pro Stream",
