@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T09:42:21.494Z",
-  "azurirano": "2026-07-03T13:27:37.128Z",
+  "azurirano": "2026-07-03T13:27:41.500Z",
   "dokumenti": [
     {
       "naziv": "logista za prijem 03.07.2026.",
@@ -644,13 +644,13 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 2m",
           "barkod": "766623356831",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 3m",
           "barkod": "766623356848",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 2m",
