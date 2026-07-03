@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-03T19:52:47.848Z",
+  "azurirano": "2026-07-03T19:52:53.237Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -348,7 +348,7 @@
           "naziv": "Usisavac Dyson V8 Absolute",
           "barkod": "5025155090152",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V16 Piston Animal",
@@ -1482,7 +1482,7 @@
           "naziv": "Usisavac Dyson V8 Absolute",
           "barkod": "5025155090152",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
