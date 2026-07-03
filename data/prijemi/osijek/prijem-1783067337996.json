@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T08:28:57.996Z",
-  "azurirano": "2026-07-03T08:59:17.375Z",
+  "azurirano": "2026-07-03T08:59:50.827Z",
   "dokumenti": [
     {
       "naziv": "MSI 4148-101",
@@ -578,7 +578,7 @@
           "naziv": "Kava DELONGHI zrno Crema 1kg",
           "barkod": "8004399020450",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC5041/01",
@@ -608,7 +608,7 @@
           "naziv": "Aparat za kavu Krups KP143BF0 Mini Me 2 cosmic grey",
           "barkod": "3045380404151",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mop elektricni Philips XV3101/11",
