@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T07:03:05.751Z",
+  "azurirano": "2026-07-03T07:03:20.981Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -1146,7 +1146,7 @@
           "naziv": "Parna postaja Philips PSG7200/30",
           "barkod": "8720389065187",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
@@ -1212,7 +1212,7 @@
           "naziv": "Toster grill Bosch TCG4104, crveni",
           "barkod": "4242005238675",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot iRobot Roomba Combo 105 White",
