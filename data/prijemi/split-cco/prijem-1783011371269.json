@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T16:56:11.269Z",
-  "azurirano": "2026-07-03T06:42:55.370Z",
+  "azurirano": "2026-07-03T06:43:01.914Z",
   "dokumenti": [
     {
       "naziv": "MSI 4174-101",
@@ -401,7 +401,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 256GB USB 3.2 Black-Orange",
           "barkod": "740617348736",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
@@ -497,7 +497,7 @@
           "naziv": "Baracuda TIPKOVNICA BGK-01114 KRILL Crna / US",
           "barkod": "3858894503711",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
