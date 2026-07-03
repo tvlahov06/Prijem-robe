@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T20:44:30.006Z",
-  "azurirano": "2026-07-03T20:49:09.561Z",
+  "azurirano": "2026-07-03T20:49:17.128Z",
   "dokumenti": [
     {
       "naziv": "MSI 4203-101",
@@ -86,7 +86,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
           "barkod": "740617348699",
           "ocekivano": 6,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
@@ -122,7 +122,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
           "barkod": "4713218461933",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
@@ -146,7 +146,7 @@
           "naziv": "USB stick ADATA UV128, 64GB, USB3.2 BE",
           "barkod": "4713435797150",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HDD WD Elements Portable 2TB, USB 3.0",
