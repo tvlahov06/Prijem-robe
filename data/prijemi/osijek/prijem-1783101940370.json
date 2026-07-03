@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "Monitori",
   "datum": "2026-07-03",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-03T18:05:40.370Z",
-  "azurirano": "2026-07-03T18:24:50.016Z",
+  "azurirano": "2026-07-03T18:25:16.691Z",
   "dokumenti": [
     {
       "naziv": "Monitori",
@@ -222,5 +222,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-03T18:25:16.690Z"
 }
