@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T07:45:43.935Z",
+  "azurirano": "2026-07-03T07:45:47.128Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -1356,7 +1356,7 @@
           "naziv": "Kuhalo za vodu Bosch TWK1M123",
           "barkod": "4242005397785",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac stapni Electrolux EP72H21WET",
