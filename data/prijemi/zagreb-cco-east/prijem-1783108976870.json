@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T20:02:56.870Z",
-  "azurirano": "2026-07-03T20:18:18.831Z",
+  "azurirano": "2026-07-03T20:18:29.587Z",
   "dokumenti": [
     {
       "naziv": "MSI 4295-101",
@@ -296,13 +296,13 @@
           "naziv": "PlayStation 5 Slim E chassis + PS5 Dualsense Wireless Controller",
           "barkod": "711719022602",
           "ocekivano": 14,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "PlayStation 5 Slim Digital Edition E chassis + PS5 Dualsense Wireless Controller",
           "barkod": "711719022329",
           "ocekivano": 10,
-          "skenirano": 4
+          "skenirano": 10
         },
         {
           "naziv": "Indiana Jones and the Great Circle Switch 2",
