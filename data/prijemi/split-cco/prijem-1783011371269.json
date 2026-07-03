@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T16:56:11.269Z",
-  "azurirano": "2026-07-03T06:03:17.037Z",
+  "azurirano": "2026-07-03T06:03:25.713Z",
   "dokumenti": [
     {
       "naziv": "MSI 4174-101",
@@ -258,7 +258,7 @@
           "naziv": "Parna postaja Philips PSG6020/30",
           "barkod": "8720389015267",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BHN24L",
