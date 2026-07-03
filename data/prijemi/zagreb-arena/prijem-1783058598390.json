@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T08:02:56.979Z",
+  "azurirano": "2026-07-03T08:03:04.841Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -99,19 +99,19 @@
           "naziv": "Usisavac Dyson V10 Absolute",
           "barkod": "5025155088081",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Usisavac Dyson V16 Piston Animal",
           "barkod": "5025155114834",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
           "barkod": "5025155131992",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V11 Advanced",
@@ -129,7 +129,7 @@
           "naziv": "Usisavac Dyson V15 Detect Absolute",
           "barkod": "5025155081754",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Dyson Supersonic Nural HD16 Velvet Red/Gold Straight+Wavy",
