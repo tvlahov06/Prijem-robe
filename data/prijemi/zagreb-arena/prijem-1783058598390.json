@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T08:08:07.400Z",
+  "azurirano": "2026-07-03T08:08:15.102Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -842,13 +842,13 @@
           "naziv": "Slim magnetna maska za Samsung Galaxy S26 crna",
           "barkod": "8806099109554",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slim magnetna maska za Samsung Galaxy S26+ crna",
           "barkod": "8806099109516",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Slim magnetna maska za Samsung Galaxy S26 siva",
@@ -878,13 +878,13 @@
           "naziv": "Zastitna Rugged maska za Samsung Galaxy S26+ crna",
           "barkod": "8806097935704",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slim magnetna maska za Samsung Galaxy S26+ siva",
           "barkod": "8806099109509",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM ljubicasti",
