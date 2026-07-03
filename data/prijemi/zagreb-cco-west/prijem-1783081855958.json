@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T12:30:55.958Z",
-  "azurirano": "2026-07-03T12:43:33.164Z",
+  "azurirano": "2026-07-03T12:43:37.722Z",
   "dokumenti": [
     {
       "naziv": "MSI 4175-101",
@@ -412,7 +412,7 @@
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
           "barkod": "740617348408",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD ADATA SU650, R520/W450, 512GB, 7mm, 2.5\" GT-R",
@@ -436,7 +436,7 @@
           "naziv": "Tinta CANON",
           "barkod": "4549292192629",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HDD WD Elements Portable 2TB, USB 3.0",
