@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:46:48.875Z",
-  "azurirano": "2026-07-03T06:55:12.119Z",
+  "azurirano": "2026-07-03T06:55:19.420Z",
   "dokumenti": [
     {
       "naziv": "MSI 4136-101",
@@ -661,7 +661,7 @@
           "naziv": "Usisavac Bosch BGB41POW1 ProPower Crna",
           "barkod": "4242005483990",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vrecice za usisavac XL Pure TU",
