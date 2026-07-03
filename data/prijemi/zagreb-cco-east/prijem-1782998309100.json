@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-03T19:13:14.648Z",
+  "azurirano": "2026-07-03T19:13:22.686Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -1436,7 +1436,7 @@
           "naziv": "Usisavac robot Philips XU2100/15",
           "barkod": "8720389065026",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Ninja TB401EU Detect Power & Processor Pro",
