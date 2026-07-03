@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T18:05:40.370Z",
-  "azurirano": "2026-07-03T18:10:00.803Z",
+  "azurirano": "2026-07-03T18:10:08.966Z",
   "dokumenti": [
     {
       "naziv": "Monitori",
@@ -68,13 +68,13 @@
           "naziv": "Monitor 23.8\" ACER Vero B247YG, UM.QB7EE.G05, IPS Full HD, 120Hz, 4ms, VGA, HDMI, DisplayPort, USB Hub, Zvucnici, Pivot",
           "barkod": "4711474183941",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Monitor 23.8\" ACER Vero RS2 RS242Y, UM.QR2EE.013, IPS Full HD, 100Hz, 4ms, VGA, HDMI",
           "barkod": "4711121673283",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Monitor 23.8\" LENOVO ThinkVision E24-40, 64BAMAT1EU, IPS Full HD, 100Hz, 4ms, VGA, HDMI, DisplayPort, Zvucnici, Pivot",
@@ -158,7 +158,7 @@
           "naziv": "Monitor XIAOMI G27I 2026 OM4FF-EU, 68.58 cm (27\"), Fast IPS, 200 Hz, 1 ms, FreeSync Premium Gaming monitor",
           "barkod": "6941948708013",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MSI 23.6\" MAG Gaming Monitor MAG 244C, VA Curved Full HD, 180Hz, 1ms, AMD FreeSync, DisplayPort, HDMI, HDR Ready",
@@ -206,7 +206,7 @@
           "naziv": "SAMSUNG 27\" Odyssey G5 Gaming Monitor LS27FG502EUXEN, IPS 2K/QHD, 180Hz, 1ms, AMD FreeSync, nVidia G-Sync, DisplayPort, HDMI",
           "barkod": "8806097817796",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SAMSUNG 27\" ViewFinity S8 Monitor LS27D800UAUXEN, IPS 4K UHD, 60Hz, 5ms, HDR10, DisplayPort, HDMI, USB-C, USB Hub, LAN, Pivot",
