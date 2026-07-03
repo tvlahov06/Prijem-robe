@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "Gaming 1 paleta",
   "datum": "2026-07-03",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-07-03T20:02:56.870Z",
-  "azurirano": "2026-07-03T20:04:36.089Z",
+  "azurirano": "2026-07-03T20:04:39.156Z",
   "dokumenti": [
     {
       "naziv": "MSI 4295-101",
@@ -324,6 +324,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-07-03T20:04:36.089Z"
+  ]
 }
