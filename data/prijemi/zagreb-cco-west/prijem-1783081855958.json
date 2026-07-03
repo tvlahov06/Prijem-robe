@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T12:30:55.958Z",
-  "azurirano": "2026-07-03T12:37:32.219Z",
+  "azurirano": "2026-07-03T12:37:44.327Z",
   "dokumenti": [
     {
       "naziv": "MSI 4175-101",
@@ -175,7 +175,7 @@
           "naziv": "Usisavac Philips XD6142/12",
           "barkod": "8720389038303",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Bosch MMB6762M VitaPower Serie 6",
