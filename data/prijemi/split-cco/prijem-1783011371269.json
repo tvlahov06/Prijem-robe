@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T16:56:11.269Z",
-  "azurirano": "2026-07-03T06:35:32.632Z",
+  "azurirano": "2026-07-03T06:35:52.920Z",
   "dokumenti": [
     {
       "naziv": "MSI 4174-101",
@@ -591,19 +591,19 @@
           "naziv": "Spyro Reignited Trilogy Switch A23",
           "barkod": "5030917284540",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Luigi's Mansion 3 Switch",
           "barkod": "045496425241",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Need for Speed Heat PS4 B24",
           "barkod": "5035225122478",
           "ocekivano": 6,
-          "skenirano": 3
+          "skenirano": 6
         },
         {
           "naziv": "GTA V PREMIUM ONLINE EDITION PS4 E32 S4",
@@ -723,13 +723,13 @@
           "naziv": "EA SPORTS FC 26 Switch 2",
           "barkod": "5035223125426",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Super Mario Galaxy 1 + 2 Switch",
           "barkod": "045496513085",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PS5 Dualsense Wireless controller Midnight Black za PS5, PC, Mac i mobilni uredaj",
@@ -747,7 +747,7 @@
           "naziv": "Pokemon Pokopia (GAME KEY CARD) Switch 2",
           "barkod": "0045496313821",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "PS5 Dualsense Wireless Controller Rhythm Blue",
@@ -783,7 +783,7 @@
           "naziv": "Star Fox Switch 2",
           "barkod": "0045496314217",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
