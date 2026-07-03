@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T05:35:00.391Z",
-  "azurirano": "2026-07-03T06:06:46.125Z",
+  "azurirano": "2026-07-03T06:06:50.911Z",
   "dokumenti": [
     {
       "naziv": "logista030726",
@@ -764,13 +764,13 @@
           "naziv": "TRUST GM MIS WLESS,FELOX,BLACK,GXT110",
           "barkod": "8713439250374",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST GM MIS WLESS,FELOX,WHITE,GXT110W",
           "barkod": "8713439250695",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLUE",
