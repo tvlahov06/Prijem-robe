@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T08:57:33.649Z",
+  "azurirano": "2026-07-03T08:57:44.900Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -663,7 +663,7 @@
           "naziv": "Laptop ACER Aspire Lite 15 NX.DJWEX.001, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
           "barkod": "4711474693945",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO ThinkBook 16 G7 21MW0087SC, 40.6cm (16\") IPS WUXGA, AMD Ryzen 7 7735HS, 32 GB RAM, 1 TB",
@@ -693,7 +693,7 @@
           "naziv": "Laptop ASUS TUF Gaming A16 FA608UP-RV018, 40.6cm 2J0 (16\") IPS WUXGA 165Hz, AMD Ryzen 7 260, 16 GB RAM, 1",
           "barkod": "4711636527071",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Nitro V 15 NH.QV2EX.006, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 7 240H, 16 GB RAM, 1 TB",
@@ -705,13 +705,13 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ00U1SC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512",
           "barkod": "199272265351",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS TUF Gaming A16 FA608UMI-TU167W, 40.6cm L40 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 260, 16 GB RAM,",
           "barkod": "4711636546690",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Zenbook S 14 UX5406SA-PZ615X, 35.6cm 1W0 (14\") OLED 3K 120Hz Touch, Intel Core Ultra 7 258V, 32",
@@ -741,7 +741,7 @@
           "naziv": "Laptop HP OmniBook 7 AI 16-ay0001nm BU5Y1EA, 40.6cm (16\") IPS 2.5K WQXGA 240Hz, Intel Core Ultra 7 255H, 32",
           "barkod": "199251591815",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS ROG Strix G16 G614PR-RV022W, 40.6cm 4J0 (16\") FHD+ WUXGA 165Hz, AMD Ryzen 9 8940HX, 32 GB",
@@ -753,7 +753,7 @@
           "naziv": "Laptop LENOVO Yoga 7 2-in-1 83JR008BSC, 35.6cm (14\") OLED WUXGA Touch, AMD Ryzen AI 7 350, 16 GB RAM, 1",
           "barkod": "199272023234",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 5i 83V7003RSC, 40,6cm (16'') OLED 2.8K 120Hz, Intel Core Ultra 9 185H, 32 GB",
