@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T08:10:16.127Z",
-  "azurirano": "2026-07-03T06:25:55.544Z",
+  "azurirano": "2026-07-03T06:26:01.618Z",
   "dokumenti": [
     {
       "naziv": "Logista CCOE",
@@ -524,7 +524,7 @@
           "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 2m",
           "barkod": "766623395014",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN DisplayPort 8K@60Hz (DP), 1m",
@@ -542,7 +542,7 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 3m",
           "barkod": "766623356848",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel Manhattan USB 2.0 Type-C to Type-B Cable, 2 m",
