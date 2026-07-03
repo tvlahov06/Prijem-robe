@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-03T19:34:06.019Z",
+  "azurirano": "2026-07-03T19:34:10.922Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -1340,7 +1340,7 @@
           "naziv": "Glacalo Philips DST7051/30",
           "barkod": "8720389016073",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Bosch MSM4B620 ErgoMaster",
