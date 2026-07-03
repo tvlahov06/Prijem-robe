@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "Cargo Roba [03-07-2026]",
   "datum": "2026-07-02",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-03T20:01:10.707Z",
+  "azurirano": "2026-07-03T20:01:18.537Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -1521,5 +1521,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-03T20:01:18.529Z"
 }
