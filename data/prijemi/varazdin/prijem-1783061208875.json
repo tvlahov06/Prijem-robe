@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:46:48.875Z",
-  "azurirano": "2026-07-03T08:34:44.367Z",
+  "azurirano": "2026-07-03T08:34:47.059Z",
   "dokumenti": [
     {
       "naziv": "MSI 4136-101",
@@ -756,7 +756,7 @@
           "naziv": "Printer HP LaserJet M110w",
           "barkod": "194850676970",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
