@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T18:05:40.370Z",
-  "azurirano": "2026-07-03T18:10:51.089Z",
+  "azurirano": "2026-07-03T18:11:31.286Z",
   "dokumenti": [
     {
       "naziv": "Monitori",
@@ -32,13 +32,13 @@
           "naziv": "LG 32\" UltraFine Monitor 32UR550K-B, VA 4K UHD, 60Hz, 4ms, Dynamic Action Sync, AMD FreeSync, DisplayPort, 2x HDMI, Pivot, Zvucnici",
           "barkod": "8806096228159",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "LG 32\" UltraGear AI Smart Monitor 32G810SA-W, IPS 4K UHD, 144Hz, 1ms, webOS, FreeSync Premium, nVidia G-Sync, DP, 2x HDMI, USB-C, Pivot, Zvucnici",
           "barkod": "8806096349304",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Monitor 22\" Xiaomi A22I",
@@ -200,7 +200,7 @@
           "naziv": "SAMSUNG 27\" Essential Monitor S4 S43UF LS27F434UAUXEN, IPS Full HD, 100Hz, 5ms, DisplayPort, HDMI, USB-C, USB Hub, Pivot",
           "barkod": "8806097199144",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "SAMSUNG 27\" Odyssey G5 Gaming Monitor LS27FG502EUXEN, IPS 2K/QHD, 180Hz, 1ms, AMD FreeSync, nVidia G-Sync, DisplayPort, HDMI",
