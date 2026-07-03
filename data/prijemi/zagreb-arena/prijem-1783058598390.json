@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T08:03:14.421Z",
+  "azurirano": "2026-07-03T08:03:42.658Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -135,13 +135,13 @@
           "naziv": "Susilo za kosu Dyson Supersonic Nural HD16 Velvet Red/Gold Straight+Wavy",
           "barkod": "5025155133064",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB1206GO-MC 1200W McLaren F1 Team Ultra",
           "barkod": "8006447003965",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
