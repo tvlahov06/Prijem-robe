@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T08:10:16.127Z",
-  "azurirano": "2026-07-03T06:10:06.165Z",
+  "azurirano": "2026-07-03T06:10:08.687Z",
   "dokumenti": [
     {
       "naziv": "Logista CCOE",
@@ -1046,7 +1046,7 @@
           "naziv": "TRUST GM MIS WLESS,FELOX,WHITE,GXT110W",
           "barkod": "8713439250695",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST GM MIS,FELOX,WHITE,GXT109",
