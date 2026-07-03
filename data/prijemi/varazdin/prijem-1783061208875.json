@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:46:48.875Z",
-  "azurirano": "2026-07-03T06:56:43.220Z",
+  "azurirano": "2026-07-03T06:57:09.481Z",
   "dokumenti": [
     {
       "naziv": "MSI 4136-101",
@@ -868,7 +868,7 @@
           "naziv": "Mis Logitech G Pro X Superlight 2 SE",
           "barkod": "5099206129931",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Volan Logitech G923 Driving force + Shifter Logitech Driving Force",
@@ -904,7 +904,7 @@
           "naziv": "Mis Logitech M650 L, za ljevake, crni",
           "barkod": "5099206097209",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
