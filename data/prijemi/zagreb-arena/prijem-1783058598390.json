@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T09:28:26.971Z",
+  "azurirano": "2026-07-03T09:28:46.700Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -1009,7 +1009,7 @@
           "naziv": "Uvijac za kosu Philips BHA710/00",
           "barkod": "8720689003872",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epilator Philips BRE719/00",
@@ -1069,7 +1069,7 @@
           "naziv": "Pegla za kosu Philips BHS520/00",
           "barkod": "8710103974147",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD501/00",
