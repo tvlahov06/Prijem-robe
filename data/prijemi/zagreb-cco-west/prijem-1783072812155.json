@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "roba_0307",
   "datum": "2026-07-03",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-03T10:00:12.155Z",
-  "azurirano": "2026-07-03T10:59:54.026Z",
+  "azurirano": "2026-07-03T10:59:59.572Z",
   "dokumenti": [
     {
       "naziv": "jbl0307",
@@ -152,9 +152,10 @@
           "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX ULTIMATE",
           "barkod": "6925281975288",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-03T10:59:59.572Z"
 }
