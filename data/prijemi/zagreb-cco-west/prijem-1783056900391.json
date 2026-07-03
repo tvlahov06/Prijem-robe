@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "boze me prosti kolko sranja",
   "datum": "2026-07-03",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-03T05:35:00.391Z",
-  "azurirano": "2026-07-03T06:17:58.928Z",
+  "azurirano": "2026-07-03T07:18:45.837Z",
   "dokumenti": [
     {
       "naziv": "logista030726",
@@ -828,5 +828,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-03T07:18:45.836Z"
 }
