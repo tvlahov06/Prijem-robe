@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T08:59:49.957Z",
+  "azurirano": "2026-07-03T08:59:54.827Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -699,7 +699,7 @@
           "naziv": "Laptop ACER Nitro V 15 NH.QV2EX.006, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 7 240H, 16 GB RAM, 1 TB",
           "barkod": "4711474444752",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ00U1SC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512",
@@ -717,7 +717,7 @@
           "naziv": "Laptop ASUS Zenbook S 14 UX5406SA-PZ615X, 35.6cm 1W0 (14\") OLED 3K 120Hz Touch, Intel Core Ultra 7 258V, 32",
           "barkod": "4711636492409",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO Yoga 7 2-in-1 83JR008ASC, 35.6cm (14\") OLED WUXGA Touch, AMD Ryzen AI 7 350, 32 GB RAM, 1",
@@ -729,7 +729,7 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 5i 83V7003SSC, 40.6cm (16\") IPS WUXGA, Intel Core Ultra 5 135H, 16 GB RAM,",
           "barkod": "199274843823",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO Legion 5a 83Q7001QSC, 38.9cm (15.3\") OLED WQXGA 165Hz, AMD Ryzen 7 250, 32 GB RAM, 1 TB",
