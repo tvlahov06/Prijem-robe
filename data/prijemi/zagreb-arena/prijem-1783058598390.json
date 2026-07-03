@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T09:00:11.448Z",
+  "azurirano": "2026-07-03T09:00:24.060Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -669,7 +669,7 @@
           "naziv": "Laptop LENOVO ThinkBook 16 G7 21MW0087SC, 40.6cm (16\") IPS WUXGA, AMD Ryzen 7 7735HS, 32 GB RAM, 1 TB",
           "barkod": "198158576499",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop HP 255 G10, 39.6cm (15.6\") Full HD, AMD Ryzen 5 1P 7530U, 16 GB RAM, 512GB SSD, AMD Radeon",
@@ -723,7 +723,7 @@
           "naziv": "Laptop LENOVO Yoga 7 2-in-1 83JR008ASC, 35.6cm (14\") OLED WUXGA Touch, AMD Ryzen AI 7 350, 32 GB RAM, 1",
           "barkod": "199272023241",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 5i 83V7003SSC, 40.6cm (16\") IPS WUXGA, Intel Core Ultra 5 135H, 16 GB RAM,",
@@ -777,13 +777,13 @@
           "naziv": "Laptop LENOVO LOQ 83JE0078SC, 39.6cm (15.6\") IPS Full HD 144Hz, Intel Core i7-13650HX, 32 GB RAM, 1 TB SSD,",
           "barkod": "198158565486",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO Legion 5a 83Q7000ASC, 38.9cm (15.3\") OLED WQXGA 165 Hz, AMD Ryzen 7 250, 32 GB RAM, 1 TB",
           "barkod": "199273478880",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS Zenbook 14 UX3405CA-ST1439W, 35.6cm 3M0 (14\") OLED 3K 120Hz, Intel Core Ultra 7 255H, 32 GB RAM,",
