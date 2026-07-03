@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T10:04:13.830Z",
-  "azurirano": "2026-07-03T10:11:12.887Z",
+  "azurirano": "2026-07-03T10:13:12.153Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -152,7 +152,7 @@
           "naziv": "CELLULARLINE BT MONO HEADSET BOLD UNIV. BLACK",
           "barkod": "8018080386220",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE DRZAC HANDY WING",
@@ -242,13 +242,13 @@
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 10.000 BLACK",
           "barkod": "8018080481956",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
           "barkod": "8018080481963",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA FAST PD 20.000 BLACK",
@@ -512,7 +512,7 @@
           "naziv": "Kucni Punjac PLOOS, Dual, 20W, 1xUSB-A, 1xUSB-C, Crni",
           "barkod": "8018080415005",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Kucni Punjac PLOOS, Dual, 2A, 2xUSB-A, Crni",
