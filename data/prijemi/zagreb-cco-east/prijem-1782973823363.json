@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T08:10:16.127Z",
-  "azurirano": "2026-07-03T07:05:35.143Z",
+  "azurirano": "2026-07-03T07:05:43.646Z",
   "dokumenti": [
     {
       "naziv": "Logista CCOE",
@@ -140,7 +140,7 @@
           "naziv": "CELLULARLINE ACL SLUSALICE TYPE-C ORBIT WHITE",
           "barkod": "8018080422379",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE AUDIO ADAPTER AUX-TYPE-C",
@@ -308,7 +308,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC IPHONE DUAL USB-A I USB-C 20W",
           "barkod": "8018080414091",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC IPHONE USB-C I KABEL C TO LIGHTNING 20W",
