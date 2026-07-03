@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T08:09:48.904Z",
+  "azurirano": "2026-07-03T08:19:14.182Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -47,19 +47,19 @@
           "naziv": "TV SONY K55S35B.CEI, 139.7cm (55\"), Direct LED, 4K UHD SMART TV, Android TV",
           "barkod": "4548736167902",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "TV SONY K65S35B.CEI, 165.1cm (65\"), Direct LED, 4K UHD SMART TV, Android TV",
           "barkod": "4548736167810",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SONY K55XR80PAEP, 139.7cm (55\"), OLED, 4K UHD SMART TV, Android TV",
           "barkod": "4548736159778",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
