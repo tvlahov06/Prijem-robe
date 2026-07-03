@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T05:35:00.391Z",
-  "azurirano": "2026-07-03T06:01:07.582Z",
+  "azurirano": "2026-07-03T06:01:11.945Z",
   "dokumenti": [
     {
       "naziv": "logista030726",
@@ -14,7 +14,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
           "barkod": "8018080270420",
           "ocekivano": 7,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni crni",
@@ -254,7 +254,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL MICRO USB 120 CM",
           "barkod": "8018080131745",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE AUTO DRZAC BIG CRAB DUAL FIX",
