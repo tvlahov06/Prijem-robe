@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T18:05:40.370Z",
-  "azurirano": "2026-07-03T18:10:29.041Z",
+  "azurirano": "2026-07-03T18:10:41.598Z",
   "dokumenti": [
     {
       "naziv": "Monitori",
@@ -182,7 +182,7 @@
           "naziv": "Otvorena ambalaza - Monitor 34'' ACER Nitro ED340CUR, UM.CE0EE.009, VA UWQHD, 200Hz, 5ms, AMD FreeSync, 2x HDMI, DisplayPort, Zvucnici, Zakrivljen",
           "barkod": "2010030081649",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Otvorena ambalaza - SAMSUNG 27\" ViewFinity S9 Smart Monitor LS27C902PAUXDU, IPS 5K, 60Hz, 5ms, Tizen, Game Mode, Mini-DP, Thunderbolt 4, USB Hub, Piv",
@@ -194,7 +194,7 @@
           "naziv": "Otvorena ambalaza - SAMSUNG 32\" Odyssey G7 Gaming Monitor LS32DG702EUXDU, IPS 4K UHD, 144Hz, 1ms, AMD FreeSync, nVidia G-Sync, DP, 2x HDMI, USB Hub,",
           "barkod": "2010030093178",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SAMSUNG 27\" Essential Monitor S4 S43UF LS27F434UAUXEN, IPS Full HD, 100Hz, 5ms, DisplayPort, HDMI, USB-C, USB Hub, Pivot",
