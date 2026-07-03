@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T08:10:16.127Z",
-  "azurirano": "2026-07-03T06:26:24.178Z",
+  "azurirano": "2026-07-03T06:26:28.354Z",
   "dokumenti": [
     {
       "naziv": "Logista CCOE",
@@ -842,7 +842,7 @@
           "naziv": "Putni adapter Skross World - SAD",
           "barkod": "7640166320203",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Putni Adapter SKROSS World to EU + USB-A/USB-C",
