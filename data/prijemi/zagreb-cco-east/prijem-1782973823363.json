@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T08:10:16.127Z",
-  "azurirano": "2026-07-03T06:26:06.678Z",
+  "azurirano": "2026-07-03T06:26:10.231Z",
   "dokumenti": [
     {
       "naziv": "Logista CCOE",
@@ -548,13 +548,13 @@
           "naziv": "Kabel Manhattan USB 2.0 Type-C to Type-B Cable, 2 m",
           "barkod": "766623394895",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Kabel MANHATTAN USB 3.2 Type-C to Type-C, 60W, 1m",
           "barkod": "766623394918",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN USB-C to DisplayPort (DP) 8K@60Hz, 2m",
