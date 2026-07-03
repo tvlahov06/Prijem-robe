@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "aktivan",
   "kreirano": "2026-07-02T16:56:11.269Z",
-  "azurirano": "2026-07-03T06:20:12.150Z",
+  "azurirano": "2026-07-03T06:20:52.692Z",
   "dokumenti": [
     {
       "naziv": "MSI 4174-101",
@@ -128,7 +128,7 @@
           "naziv": "Pegla za kosu Philips BHS520/00",
           "barkod": "8710103974147",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips HPS910/00 Prestige Pro",
@@ -164,7 +164,7 @@
           "naziv": "Brijaci aparat Philips XP9403/31",
           "barkod": "8720689030250",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         }
       ]
     },
