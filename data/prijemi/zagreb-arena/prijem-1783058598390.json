@@ -5,7 +5,7 @@
   "datum": "2026-07-03",
   "status": "aktivan",
   "kreirano": "2026-07-03T06:03:18.390Z",
-  "azurirano": "2026-07-03T09:00:04.154Z",
+  "azurirano": "2026-07-03T09:00:07.180Z",
   "dokumenti": [
     {
       "naziv": "MSI 4189-101",
@@ -735,7 +735,7 @@
           "naziv": "Laptop LENOVO Legion 5a 83Q7001QSC, 38.9cm (15.3\") OLED WQXGA 165Hz, AMD Ryzen 7 250, 32 GB RAM, 1 TB",
           "barkod": "0199274271183",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP OmniBook 7 AI 16-ay0001nm BU5Y1EA, 40.6cm (16\") IPS 2.5K WQXGA 240Hz, Intel Core Ultra 7 255H, 32",
@@ -795,7 +795,7 @@
           "naziv": "Laptop LENOVO Legion Pro 7i 83F500A0SC, 40.6cm (16\") OLED WQXGA 240Hz, Intel Core Ultra 9 275HX, 64 GB",
           "barkod": "198158588300",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
