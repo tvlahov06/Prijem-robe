@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "zavrsen",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-03T20:47:19.861Z",
+  "azurirano": "2026-07-04T06:41:20.281Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -1507,17 +1507,6 @@
           "barkod": "5025155114858",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4272-101",
-      "stavke": [
-        {
-          "naziv": "Radio JBL TUNER XL crni KEU",
-          "barkod": "6925281970641",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     }
