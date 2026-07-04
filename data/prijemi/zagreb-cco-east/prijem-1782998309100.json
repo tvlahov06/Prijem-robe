@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "zavrsen",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-04T06:45:55.014Z",
+  "azurirano": "2026-07-04T06:46:19.771Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -1122,17 +1122,6 @@
           "barkod": "195949688591",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4207-101",
-      "stavke": [
-        {
-          "naziv": "Aparat za kavu Philips EP8757/20 espresso, Cafe Aromis",
-          "barkod": "8720389064807",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
