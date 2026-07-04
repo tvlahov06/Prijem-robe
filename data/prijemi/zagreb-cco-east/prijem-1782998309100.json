@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "zavrsen",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-04T06:46:43.351Z",
+  "azurirano": "2026-07-04T06:47:18.310Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -805,53 +805,6 @@
         {
           "naziv": "Zastitna Flipsuit Rugged maska za Samsung Galaxy S25 Ultra crna",
           "barkod": "8806095970585",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4193-101",
-      "stavke": [
-        {
-          "naziv": "LG 32\" UltraFine Monitor 32UR550K-B, VA 4K UHD, 60Hz, U 4ms, Dynamic Action Sync, AMD FreeSync, DisplayPort, 2x",
-          "barkod": "8806096228159",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 34\" Samsung Odyssey G55T, LC34G55TWWPXEN, XEN VA, UWQHD, 165Hz, zakrivljen",
-          "barkod": "8806094796315",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 23.8\" ACER SA242YH1, UM.QS2EE.109, VA Full HD, 100Hz, 4ms, ZeroFrame, VGA, HDMI",
-          "barkod": "4711474688774",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789556",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 2920 All-in-One (89F97B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198701680109",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP Smart Tank 720 All-in-One (6UU46A) Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
-          "barkod": "195908302995",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "CANON Pixma G3416 Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Cloud, A4",
-          "barkod": "4549292219470",
           "ocekivano": 1,
           "skenirano": 1
         }
