@@ -5,7 +5,7 @@
   "datum": "2026-07-04",
   "status": "aktivan",
   "kreirano": "2026-07-04T07:23:19.383Z",
-  "azurirano": "2026-07-04T07:44:47.949Z",
+  "azurirano": "2026-07-04T07:44:54.050Z",
   "dokumenti": [
     {
       "naziv": "Igre",
@@ -308,7 +308,7 @@
           "naziv": "Hogwarts Legacy PS4",
           "barkod": "5051895413418",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Horizon - Forbidden West Standard Edition PS4",
@@ -368,7 +368,7 @@
           "naziv": "Just Cause 4 Standard Edition PS4",
           "barkod": "5021290081963",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Knack 2 PS4",
@@ -704,7 +704,7 @@
           "naziv": "Star Wars: Jedi Fallen Order PS4",
           "barkod": "5030937122440",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "The Crew 2 Standard Edition PS4",
@@ -734,7 +734,7 @@
           "naziv": "The Last of Us 2 Standard Edition PS4",
           "barkod": "711719330004",
           "ocekivano": 10,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "The Last of Us Part I PS5",
