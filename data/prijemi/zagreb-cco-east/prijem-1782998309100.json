@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "zavrsen",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-04T06:48:51.755Z",
+  "azurirano": "2026-07-04T06:50:20.804Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -336,41 +336,6 @@
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7419/01 Sonicare Series 6500 DUO, Black & White",
           "barkod": "8720689021609",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4156-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac Dyson V8 Absolute",
-          "barkod": "5025155090152",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac Dyson V16 Piston Animal",
-          "barkod": "5025155114834",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold Curly+Coily",
-          "barkod": "5025155117309",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Jasper Plum Straight+Wavy",
-          "barkod": "5025155112816",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Amber Silk/Pink Champagne Limited Edition",
-          "barkod": "5025155120095",
           "ocekivano": 1,
           "skenirano": 1
         }
