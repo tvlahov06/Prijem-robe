@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "zavrsen",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-04T06:46:19.771Z",
+  "azurirano": "2026-07-04T06:46:43.351Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -1027,101 +1027,6 @@
           "barkod": "3858894506125",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4204-101",
-      "stavke": [
-        {
-          "naziv": "Soundbar Samsung",
-          "barkod": "8806097072003",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Samsung Galaxy Buds4 slusalice crne UC",
-          "barkod": "8806097998570",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Soundbar LG S20A",
-          "barkod": "8806096469934",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Samsung Galaxy Buds4 Pro slusalice bijele",
-          "barkod": "8806097985310",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Soundbar Samsung",
-          "barkod": "8806097097068",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP HyperX Cloud III S Wireless Headset Black",
-          "barkod": "198415435590",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Samsung Galaxy Buds3 FE slusalice sive UC",
-          "barkod": "8806097621249",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hisense Soundbar AX3120Q",
-          "barkod": "6942351423432",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
-          "barkod": "197029008220",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
-          "barkod": "198415435569",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
-          "barkod": "8806097984795",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Apple EarPods (USB-C)",
-          "barkod": "195949776274",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE4 ANC crne (Fuji-T010)",
-          "barkod": "6942103165450",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Apple EarPods (Lightning Connector)",
-          "barkod": "195949506123",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Apple AirPods 4 (USB-C)",
-          "barkod": "195949688591",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
