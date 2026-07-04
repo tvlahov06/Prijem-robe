@@ -5,7 +5,7 @@
   "datum": "2026-07-04",
   "status": "aktivan",
   "kreirano": "2026-07-04T07:23:19.383Z",
-  "azurirano": "2026-07-04T07:51:26.453Z",
+  "azurirano": "2026-07-04T07:51:48.953Z",
   "dokumenti": [
     {
       "naziv": "Igre",
@@ -56,13 +56,13 @@
           "naziv": "Assetto Corsa Competizione PS5",
           "barkod": "8023171045986",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Astro Bot PS5",
           "barkod": "711719591115",
           "ocekivano": 18,
-          "skenirano": 5
+          "skenirano": 15
         },
         {
           "naziv": "Batman: Arkham Knight HITS PS4",
@@ -668,7 +668,7 @@
           "naziv": "Sid Meiers Civilization VII PS5",
           "barkod": "5026555438278",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sleeping Dogs Definitive Edition PS4",
@@ -722,7 +722,7 @@
           "naziv": "The Crew Motorfest PS5",
           "barkod": "3307216270096",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "The Elder Scrolls IV: Oblivion Remastered Deluxe Edition PS5",
