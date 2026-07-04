@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "zavrsen",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-04T06:48:13.857Z",
+  "azurirano": "2026-07-04T06:48:36.650Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -384,95 +384,6 @@
           "barkod": "1200130019272",
           "ocekivano": 5,
           "skenirano": 5
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4158-101",
-      "stavke": [
-        {
-          "naziv": "Pegla za kosu Remington S8540 Keratin Protect",
-          "barkod": "4008496938438",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "IPL depilator Philips BRI977/00 Lumea",
-          "barkod": "8720689005944",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Brijac za glavu Remington XR1600",
-          "barkod": "5038061144017",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uvijac za kosu Babyliss AS95E Air Power Volume",
-          "barkod": "3030050190915",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uvijac za kosu Remington cik cak S3580 Ceramic Crimp",
-          "barkod": "4008496975563",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uvijaci - vikleri za kosu Remington H5600 Ionic",
-          "barkod": "4008496872879",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Brijaci aparat Panasonic ES-WF71-V503 Eyebrow & Facial trimer",
-          "barkod": "5025232982394",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
-          "barkod": "8720689045094",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Shark HD440EU FlexStyle 5u1",
-          "barkod": "0622356260732",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Shark HD424EU FlexStyle 3u1",
-          "barkod": "0622356270601",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sisac za tijelo 17U1 Philips MG9535/15",
-          "barkod": "8720689045131",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Brijaci aparat Philips OneBlade QP235/50 nastavci lice",
-          "barkod": "8720689045612",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sisac za bradu Philips BT3665/15",
-          "barkod": "8720689029438",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Brijac za tijelo Philips BG3480/15",
-          "barkod": "8720689026871",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
