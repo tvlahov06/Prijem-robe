@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "zavrsen",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-04T06:48:36.650Z",
+  "azurirano": "2026-07-04T06:48:51.755Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -373,17 +373,6 @@
           "barkod": "5025155120095",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4157-101",
-      "stavke": [
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 crni",
-          "barkod": "1200130019272",
-          "ocekivano": 5,
-          "skenirano": 5
         }
       ]
     },
