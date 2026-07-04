@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "Big Partner Dobavnica 260807705",
   "datum": "2026-07-03",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-03T19:27:16.094Z",
-  "azurirano": "2026-07-03T19:31:16.958Z",
+  "azurirano": "2026-07-04T06:39:46.851Z",
   "dokumenti": [
     {
       "naziv": "big partner jbl",
@@ -84,5 +84,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-04T06:39:46.851Z"
 }
