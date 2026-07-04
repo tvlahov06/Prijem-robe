@@ -1,0 +1,838 @@
+{
+  "id": "prijem-1783149799383",
+  "poslovnica": "osijek",
+  "naziv": "Igre",
+  "datum": "2026-07-04",
+  "status": "aktivan",
+  "kreirano": "2026-07-04T07:23:19.383Z",
+  "azurirano": "2026-07-04T07:23:19.383Z",
+  "dokumenti": [
+    {
+      "naziv": "Igre",
+      "stavke": [
+        {
+          "naziv": "007 First Light PS5",
+          "barkod": "884095225308",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assassin's Creed 4 Black Flag HITS PS4",
+          "barkod": "3307216076889",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assassins Creed Mirage PS4",
+          "barkod": "3307216257707",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assassin's Creed Odyssey Standard Edition PS4",
+          "barkod": "3307216063834",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assassin's Creed Origins Standard Edition PS4",
+          "barkod": "3307216025788",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assassins Creed Shadows Standard Edition PS5",
+          "barkod": "3307216292661",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assassins's Creed Valhalla Standard Edition PS4",
+          "barkod": "3307216168300",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assetto Corsa Competizione PS5",
+          "barkod": "8023171045986",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Astro Bot PS5",
+          "barkod": "711719591115",
+          "ocekivano": 18,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Batman: Arkham Knight HITS PS4",
+          "barkod": "5051892216951",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Battlefield 6 PS5",
+          "barkod": "5030934125406",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Borderlands 4 PS5",
+          "barkod": "5026555438827",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Call of Duty: Black Ops 7 PS4",
+          "barkod": "196388607594",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Call of Duty: Black Ops 7 PS5",
+          "barkod": "196388607761",
+          "ocekivano": 12,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Call of Duty: Black Ops Cold War PS4",
+          "barkod": "5030917291838",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Call of Duty: Black Ops Cold War PS5",
+          "barkod": "5030917292477",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cars 3: Driven to Win PS4",
+          "barkod": "5051895410110",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Chernobylite PS5",
+          "barkod": "5060522097716",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Crash Bandicoot 4: It's About Time PS4",
+          "barkod": "5030917290961",
+          "ocekivano": 11,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Crash Bandicoot N. Sane Trilogy 2.0 PS4",
+          "barkod": "5030917236662",
+          "ocekivano": 12,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Death Stranding 2: On the Beach PS5",
+          "barkod": "711719599913",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dragon Age: The Veilguard PS5",
+          "barkod": "5035225125264",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dragon Quest I/II Remake Standard Edition PS5",
+          "barkod": "5021290100503",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dreams PS4",
+          "barkod": "711719352006",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EA SPORTS FC 26 PS4",
+          "barkod": "5030944125335",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EA SPORTS FC 26 PS5",
+          "barkod": "5030938125327",
+          "ocekivano": 32,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EA Sports UFC 6 PS5",
+          "barkod": "5030943125466",
+          "ocekivano": 11,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EA SPORTS WRC PS5",
+          "barkod": "5030949125163",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Elden Ring Nightreign PS4",
+          "barkod": "3391892035148",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Elden Ring Nightreign PS5",
+          "barkod": "3391892034639",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "F1 25 PS5",
+          "barkod": "5030937125380",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Far Cry 6 Standard Edition PS4",
+          "barkod": "3307216170761",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Final Fantasy I-VI Anniversary Edition PS4",
+          "barkod": "5021290098923",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Final Fantasy VII Rebirth PS5",
+          "barkod": "5021290098404",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Final Fantasy VII Remake Integrade & Rebirt PS5 (Twin Pack)",
+          "barkod": "5021290102194",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Funko Fusion PS5",
+          "barkod": "0811949037749",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gears Of War Reloaded PS5",
+          "barkod": "196388605637",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ghost of Tsushima Director's Cut PS5",
+          "barkod": "0711719714194",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ghost of Tsushima Directors Cut - Remaster PS4",
+          "barkod": "711719715993",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ghost of Yotei PS5",
+          "barkod": "711719020233",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "God of War 3 HITS PS4",
+          "barkod": "711719992998",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "God of War HITS PS4",
+          "barkod": "711719963608",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "God of War: Ragnarok PS4",
+          "barkod": "711719407492",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "God of War: Ragnarok PS5",
+          "barkod": "711719409298",
+          "ocekivano": 11,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gran Turismo 7 Standard Edition PS4",
+          "barkod": "711719764595",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gran Turismo 7 Standard Edition PS5",
+          "barkod": "711719766391",
+          "ocekivano": 12,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GTA Trilogy PS4",
+          "barkod": "5026555430807",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GTA V PREMIUM ONLINE EDITION PS4",
+          "barkod": "5026555424264",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GTA V PS5",
+          "barkod": "5026555431842",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hogwarts Legacy PS4",
+          "barkod": "5051895413418",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Horizon - Forbidden West Standard Edition PS4",
+          "barkod": "711719718994",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Horizon - Forbidden West Standard Edition PS5",
+          "barkod": "711719720799",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Horizon Zero Dawn Remastered PS5",
+          "barkod": "711719592761",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hot Wheels Unleashed 2 Turbocharged PS4",
+          "barkod": "8057168507379",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hot Wheels Unleashed PS4",
+          "barkod": "8057168502961",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Immortals Of Aveum PS5",
+          "barkod": "5030946125173",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Indiana Jones and the Great Circle PS5",
+          "barkod": "196388560639",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "It Takes Two PS4",
+          "barkod": "5030945124696",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Just Cause 3 Gold Edition PS4",
+          "barkod": "5021290078154",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Just Cause 4 Standard Edition PS4",
+          "barkod": "5021290081963",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Knack 2 PS4",
+          "barkod": "0711719863762",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lego City Undercover PS4",
+          "barkod": "5051892203937",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LEGO Harry Potter Years 1-7 PS4",
+          "barkod": "5051895406915",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lego Horizon Adventures PS5",
+          "barkod": "711719584506",
+          "ocekivano": 11,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lego Incredibles Standard Edition PS4",
+          "barkod": "5051892215282",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lego Marvel Super Heroes 2 PS4",
+          "barkod": "5051892210751",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lego Marvel Super Heroes PS4",
+          "barkod": "5051892153348",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lego The Movie Videogame 2 PS4",
+          "barkod": "5051892219402",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lego Worlds PS4",
+          "barkod": "5051895409220",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Like A Dragon: Infinite Wealth PS5",
+          "barkod": "5055277052356",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lost Soul Aside PS5",
+          "barkod": "711719598930",
+          "ocekivano": 14,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mafia The Old Country PS5",
+          "barkod": "5026555439053",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mafia Trilogy PS4",
+          "barkod": "5026555428262",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Marvel's Spider-Man 2 Standard Edition PS5",
+          "barkod": "711719571698",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Marvel's Spider-Man: Miles Morales PS4",
+          "barkod": "711719818823",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Marvel's Spider-Man: Miles Morales PS5",
+          "barkod": "711719836025",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Microsoft Flight Simulator 2024 PS5",
+          "barkod": "196388600960",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Minecraft Starter Collection Refresh PS4",
+          "barkod": "711719704096",
+          "ocekivano": 13,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monopoly Star Wars - Heroes vs. Villains PS5",
+          "barkod": "3307216311683",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monster Energy Supercross 25 DAY1 Edition PS5",
+          "barkod": "8057168509946",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mortal Kombat 1 PS5",
+          "barkod": "5051895416815",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mortal Kombat 11 PS4",
+          "barkod": "5051892221573",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mortal Kombat X HITS PS4",
+          "barkod": "5051892216975",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MotoGP 26 DAY1 Edition PS5",
+          "barkod": "4020628540197",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "My Sims Cozy Bundle PS5",
+          "barkod": "5030936125442",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "NBA 2K26 Standard Edition PS4",
+          "barkod": "5026555439176",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Need for Speed Heat PS4",
+          "barkod": "5035225122478",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Need for Speed Unbound PS5",
+          "barkod": "5030938123866",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ninja Gaiden 4 PS5",
+          "barkod": "196388599929",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nioh 2 Standard Edition PS4",
+          "barkod": "711719346104",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nioh HITS PS4",
+          "barkod": "711719927709",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Octopath Traveler 0 PS5 Standard Edition",
+          "barkod": "5021290101319",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paw Patrol Rescue Wheels Championship PS5",
+          "barkod": "5061005356283",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prince Of Persia The Lost Crown PS4",
+          "barkod": "3307216265399",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prince Of Persia The Lost Crown PS5",
+          "barkod": "3307216265115",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ratchet & Clank: Rift Apart PS5",
+          "barkod": "711719826699",
+          "ocekivano": 9,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ratchet and Clank PS4 HITS",
+          "barkod": "711719415374",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Rayman Legends HITS PS4",
+          "barkod": "3307216075998",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Red Dead Redemption 2 PS4",
+          "barkod": "5026555423052",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Red Dead Redemption HD PS5",
+          "barkod": "5026555439435",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Red Dead Redemption PS4",
+          "barkod": "5026555435680",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Resident Evil 9 Requiem PS5",
+          "barkod": "5055060993552",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Returnal PS5",
+          "barkod": "711719814795",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ride 6 PS5",
+          "barkod": "8056216170923",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Rise of the Ronin PS5",
+          "barkod": "711719582762",
+          "ocekivano": 11,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sackboy A Big Adventure! PS4",
+          "barkod": "711719822325",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sackboy A Big Adventure! PS5",
+          "barkod": "711719824121",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Saros PS5",
+          "barkod": "711719027041",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Screamer Day 1 Edition PS5",
+          "barkod": "8056216170435",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sid Meiers Civilization VII PS5",
+          "barkod": "5026555438278",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sleeping Dogs Definitive Edition PS4",
+          "barkod": "5021290065840",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sniper Elite 4: Italia PS4",
+          "barkod": "5060236966100",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sniper Elite V2 Remastered PS4",
+          "barkod": "5056208803214",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sonic Origins Plus - Limited Edition PS5",
+          "barkod": "5055277050406",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Split Fiction PS5",
+          "barkod": "5030949125385",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Star Wars: Jedi Fallen Order PS4",
+          "barkod": "5030937122440",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Crew 2 Standard Edition PS4",
+          "barkod": "3307216024590",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Crew Motorfest PS4",
+          "barkod": "3307216269731",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Crew Motorfest PS5",
+          "barkod": "3307216270096",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Elder Scrolls IV: Oblivion Remastered Deluxe Edition PS5",
+          "barkod": "196388610846",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Last of Us 2 Standard Edition PS4",
+          "barkod": "711719330004",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Last of Us Part I PS5",
+          "barkod": "711719406198",
+          "ocekivano": 9,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Last of Us Part II Remastered PS5",
+          "barkod": "711719570271",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Last of Us Remastered HITS PS4",
+          "barkod": "711719411871",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Lego Ninjago Movie Videogame PS4",
+          "barkod": "5051892206624",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Witcher 3 Complete Edition PS5",
+          "barkod": "5902367642334",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tony Hawk's Pro Skater 1 + 2 PS4",
+          "barkod": "5030917291166",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uncharted Collection HITS PS4",
+          "barkod": "711719710516",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uncharted: Legacy of Thieves Collection PS5",
+          "barkod": "711719791997",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Unknown 9: Awekening PS4",
+          "barkod": "3391892025002",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Unknown 9: Awekening PS5",
+          "barkod": "3391892030846",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Until Dawn PS5",
+          "barkod": "711719587422",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WRC 10 PS5",
+          "barkod": "3665962009637",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WRC Generations PS5",
+          "barkod": "3665962018301",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Wuchang Fallen Feathers PS5",
+          "barkod": "8023171047485",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WWE 2K25 PS5",
+          "barkod": "5026555438667",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WWE 2K26 PS5",
+          "barkod": "5026555439558",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
