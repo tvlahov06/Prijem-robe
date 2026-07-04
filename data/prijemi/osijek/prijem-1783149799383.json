@@ -5,7 +5,7 @@
   "datum": "2026-07-04",
   "status": "aktivan",
   "kreirano": "2026-07-04T07:23:19.383Z",
-  "azurirano": "2026-07-04T07:53:18.055Z",
+  "azurirano": "2026-07-04T07:53:32.198Z",
   "dokumenti": [
     {
       "naziv": "Igre",
@@ -38,7 +38,7 @@
           "naziv": "Assassin's Creed Origins Standard Edition PS4",
           "barkod": "3307216025788",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Assassins Creed Shadows Standard Edition PS5",
@@ -332,13 +332,13 @@
           "naziv": "Hot Wheels Unleashed 2 Turbocharged PS4",
           "barkod": "8057168507379",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hot Wheels Unleashed PS4",
           "barkod": "8057168502961",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Immortals Of Aveum PS5",
@@ -362,7 +362,7 @@
           "naziv": "Just Cause 3 Gold Edition PS4",
           "barkod": "5021290078154",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Just Cause 4 Standard Edition PS4",
@@ -518,7 +518,7 @@
           "naziv": "My Sims Cozy Bundle PS5",
           "barkod": "5030936125442",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "NBA 2K26 Standard Edition PS4",
@@ -566,7 +566,7 @@
           "naziv": "Paw Patrol Rescue Wheels Championship PS5",
           "barkod": "5061005356283",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Prince Of Persia The Lost Crown PS4",
@@ -716,7 +716,7 @@
           "naziv": "The Crew Motorfest PS4",
           "barkod": "3307216269731",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "The Crew Motorfest PS5",
@@ -830,7 +830,7 @@
           "naziv": "WWE 2K26 PS5",
           "barkod": "5026555439558",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         }
       ]
     }
