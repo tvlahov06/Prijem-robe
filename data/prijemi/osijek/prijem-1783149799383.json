@@ -5,7 +5,7 @@
   "datum": "2026-07-04",
   "status": "aktivan",
   "kreirano": "2026-07-04T07:23:19.383Z",
-  "azurirano": "2026-07-04T07:46:51.006Z",
+  "azurirano": "2026-07-04T07:47:06.829Z",
   "dokumenti": [
     {
       "naziv": "Igre",
@@ -182,7 +182,7 @@
           "naziv": "Elden Ring Nightreign PS4",
           "barkod": "3391892035148",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Elden Ring Nightreign PS5",
@@ -548,13 +548,13 @@
           "naziv": "Nioh 2 Standard Edition PS4",
           "barkod": "711719346104",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Nioh HITS PS4",
           "barkod": "711719927709",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Octopath Traveler 0 PS5 Standard Edition",
@@ -752,7 +752,7 @@
           "naziv": "The Last of Us Remastered HITS PS4",
           "barkod": "711719411871",
           "ocekivano": 7,
-          "skenirano": 1
+          "skenirano": 4
         },
         {
           "naziv": "The Lego Ninjago Movie Videogame PS4",
