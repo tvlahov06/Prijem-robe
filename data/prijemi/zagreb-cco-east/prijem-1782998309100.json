@@ -5,7 +5,7 @@
   "datum": "2026-07-02",
   "status": "zavrsen",
   "kreirano": "2026-07-02T13:18:29.100Z",
-  "azurirano": "2026-07-04T06:45:29.362Z",
+  "azurirano": "2026-07-04T06:45:55.014Z",
   "dokumenti": [
     {
       "naziv": "MSI 4081-101",
@@ -1133,101 +1133,6 @@
           "barkod": "8720389064807",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4237-101",
-      "stavke": [
-        {
-          "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
-          "barkod": "5099206089235",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Logitech G335, gaming, zicane, crno-plave",
-          "barkod": "5099206094789",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Kontroler Logitech F310, zicani",
-          "barkod": "5099206041868",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "za mis Logitech G640 EWR",
-          "barkod": "5099206104358",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech MX Anywhere 3S Graphite",
-          "barkod": "5099206111721",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech M171, bijeli",
-          "barkod": "5099206108790",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech G502 HERO, LIGHTSYNC RGB, zicani, crni",
-          "barkod": "5099206080263",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech M190, sivi",
-          "barkod": "5099206091832",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech M196, bijeli",
-          "barkod": "5099206128323",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Tipkovnica LOGITECH K250 graphite",
-          "barkod": "5099206130524",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mis Logitech M190, crveni",
-          "barkod": "5099206091856",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mis Logitech POP Universal, crni",
-          "barkod": "5099206126381",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, bijeli",
-          "barkod": "5099206134775",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech M330 Silent Plus, crni",
-          "barkod": "5099206066670",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Zvucnici Logitech Z150, 2.0, crni",
-          "barkod": "5099206048782",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
