@@ -5,7 +5,7 @@
   "datum": "2026-07-04",
   "status": "aktivan",
   "kreirano": "2026-07-04T07:23:19.383Z",
-  "azurirano": "2026-07-04T07:37:44.933Z",
+  "azurirano": "2026-07-04T07:38:02.366Z",
   "dokumenti": [
     {
       "naziv": "Igre",
@@ -440,7 +440,7 @@
           "naziv": "Mafia The Old Country PS5",
           "barkod": "5026555439053",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mafia Trilogy PS4",
@@ -542,7 +542,7 @@
           "naziv": "Ninja Gaiden 4 PS5",
           "barkod": "196388599929",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Nioh 2 Standard Edition PS4",
@@ -578,7 +578,7 @@
           "naziv": "Prince Of Persia The Lost Crown PS5",
           "barkod": "3307216265115",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ratchet & Clank: Rift Apart PS5",
@@ -698,7 +698,7 @@
           "naziv": "Split Fiction PS5",
           "barkod": "5030949125385",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Star Wars: Jedi Fallen Order PS4",
@@ -824,13 +824,13 @@
           "naziv": "WWE 2K25 PS5",
           "barkod": "5026555438667",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "WWE 2K26 PS5",
           "barkod": "5026555439558",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
