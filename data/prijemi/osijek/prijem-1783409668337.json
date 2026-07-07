@@ -5,7 +5,7 @@
   "datum": "2026-07-07",
   "status": "aktivan",
   "kreirano": "2026-07-07T07:34:28.337Z",
-  "azurirano": "2026-07-07T07:39:26.425Z",
+  "azurirano": "2026-07-07T07:39:31.467Z",
   "dokumenti": [
     {
       "naziv": "MSI 4299-101",
@@ -108,7 +108,7 @@
           "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525934",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG OLED42C51LA 106.7cm (42\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
@@ -150,7 +150,7 @@
           "naziv": "TV SAMSUNG QE55QN85FAUXXH, 139.7cm (55\"), Neo XH QLED Mini LED, 4K UHD Smart TV, Tizen OS",
           "barkod": "8806097051589",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor PHILIPS 55OLED820/12, 139 cm (55\") OLED Ambilight",
