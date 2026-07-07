@@ -1,0 +1,381 @@
+{
+  "id": "prijem-1783407833085",
+  "poslovnica": "zadar",
+  "naziv": "",
+  "datum": "2026-07-07",
+  "status": "aktivan",
+  "kreirano": "2026-07-07T07:03:53.085Z",
+  "azurirano": "2026-07-07T07:03:53.085Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 4306-101",
+      "stavke": [
+        {
+          "naziv": "Ploca ugradbena indukcija Electrolux LIB60420CK",
+          "barkod": "7332543822393",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena Bosch PUE611BB5E",
+          "barkod": "4242005285082",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena Hisense HI6433BSCWF",
+          "barkod": "3838782924132",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena Bosch PUE64KBB5E",
+          "barkod": "4242005285389",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena Hisense HI6431BFZ",
+          "barkod": "3838783052391",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena indukcija Gorenje ISC646BSC",
+          "barkod": "3838782685774",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "8090/NE Ploca ugradbena Whirlpool AKT 8090/NE",
+          "barkod": "8003437829543",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena CANDY CTP6SC4/E14U",
+          "barkod": "8059019056395",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena Gorenje ECT601FM",
+          "barkod": "3838782931710",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena indukcija Gorenje GI6442BSCE",
+          "barkod": "3838782836763",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena Bosch PIX631HC1E",
+          "barkod": "4242005394111",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena AEG HK624000XB",
+          "barkod": "7332543486090",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena indukcija GORENJE GI6443BSCWF",
+          "barkod": "3838782924118",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena indukcija GORENJE GI6433BSCWF",
+          "barkod": "3838782923401",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4283-101",
+      "stavke": [
+        {
+          "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
+          "barkod": "6926597761725",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 5,0 kW Hisense CA50XS1GG/AS50XS1GW 50XS1GW",
+          "barkod": "6926597759616",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 3,4 kW Hisense CA35LR03G/AS35LR03W 35LR03W",
+          "barkod": "6926597761732",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 3,5kW Bosch Climate CL3000i-Set 35 WE",
+          "barkod": "4062321296087",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dyson ventilator HushJet Mini Cool Fan (641013-01) Stone/Blush",
+          "barkod": "5025155141090",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Odvlazivac zraka Philips DE3306/11",
+          "barkod": "8720389057618",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4292-101",
+      "stavke": [
+        {
+          "naziv": "Perilica rublja Gorenje WNS84A2TWIFI",
+          "barkod": "3838782858628",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Gorenje WNHEI74SAS",
+          "barkod": "3838782608865",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja LG F4WR511S2M",
+          "barkod": "8806084217349",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani Gorenje NRK6182PS4",
+          "barkod": "3838782421556",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pecnica Midea 65P90E3",
+          "barkod": "6944271662434",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda ugradbena 60cm Gorenje GV16A",
+          "barkod": "3838782989216",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pecnica ugradbena Whirlpool OMSR58CU1SB",
+          "barkod": "8003437939563",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4305-101",
+      "stavke": [
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Ceramic Pink/Rose Gold",
+          "barkod": "5025155113080",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V10 Absolute",
+          "barkod": "5025155088081",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V11 Advanced",
+          "barkod": "5025155096093",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold Curly+Coily",
+          "barkod": "5025155117309",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907S 900W",
+          "barkod": "8006447002487",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
+          "barkod": "8006447002166",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
+          "barkod": "8006447002135",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206GO-MC 1200W McLaren F1 Team Ultra",
+          "barkod": "8006447003965",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB606DG 600W",
+          "barkod": "8006447000223",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBF500DG Full Size Combo",
+          "barkod": "8006447000209",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4246-101",
+      "stavke": [
+        {
+          "naziv": "PlayStation 5 Slim E chassis",
+          "barkod": "711719020172",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4282-101",
+      "stavke": [
+        {
+          "naziv": "Klima uredaj 5,0 kW Hisense CF50XS1GG/AS50XS1GW 50XS1GW",
+          "barkod": "6926597759593",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4284-101",
+      "stavke": [
+        {
+          "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525934",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525804",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 55E8S, 139.7cm (55\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351434582",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 40A5S, 101.6cm (40\"), Hi-QLED, FHD Smart TV, VIDAA OS",
+          "barkod": "6942351429632",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 43PUS7810, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS",
+          "barkod": "8718863046159",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE65Q8FAAUXXH, 165.1cm (65\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097120483",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE50Q7F2AUXXH, 127.0cm (50\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097211020",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55QN85FAUXXH, 139.7cm (55\"), Neo XH QLED Mini LED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806097051589",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 55PUS8510, 139.7cm (55\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
+          "barkod": "8718863045862",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor PHILIPS 55OLED820/12, 139 cm (55\") OLED Ambilight",
+          "barkod": "8718863046487",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
+          "barkod": "5901292525798",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351431420",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4294-101",
+      "stavke": [
+        {
+          "naziv": "Hladnjak Side by side Samsung RF50C530EB1/EO, EO Francuska vrata",
+          "barkod": "8806095154954",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zamrzivac Beko B3RFNE314W",
+          "barkod": "8690842522581",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak samostojeci Beko RSSA290M41WN",
+          "barkod": "8690842603532",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica susilica rublja Gorenje WD2PA1X64ADAAW AAW",
+          "barkod": "3838782818448",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
