@@ -5,7 +5,7 @@
   "datum": "2026-07-06",
   "status": "aktivan",
   "kreirano": "2026-07-06T15:44:03.176Z",
-  "azurirano": "2026-07-07T05:42:13.618Z",
+  "azurirano": "2026-07-07T05:42:26.464Z",
   "dokumenti": [
     {
       "naziv": "MSI 4285-101",
@@ -156,7 +156,7 @@
           "naziv": "Perilica rublja Gorenje WNHEI74SAS",
           "barkod": "3838782608865",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Gorenje WNS84A2TWIFI",
@@ -180,7 +180,7 @@
           "naziv": "Perilica rublja slim Hisense WF3S7021BW",
           "barkod": "6901101826602",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
