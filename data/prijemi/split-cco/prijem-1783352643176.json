@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
   "datum": "2026-07-06",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-06T15:44:03.176Z",
-  "azurirano": "2026-07-07T05:48:16.915Z",
+  "azurirano": "2026-07-07T06:07:40.354Z",
   "dokumenti": [
     {
       "naziv": "MSI 4285-101",
@@ -103,7 +103,7 @@
           "naziv": "TV HISENSE 32A4S, 81.3cm (32\"), DLED, HD Smart TV, VIDAA OS",
           "barkod": "6942351429205",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "TV SAMSUNG QE50Q7F2AUXXH, 127.0cm (50\"), QLED, 4K H UHD Smart TV, Tizen OS",
@@ -162,7 +162,7 @@
           "naziv": "Perilica rublja Gorenje WNS84A2TWIFI",
           "barkod": "3838782858628",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Gorenje WPNA84A2TSWIFI IFI",
@@ -285,5 +285,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-07T06:07:40.354Z"
 }
