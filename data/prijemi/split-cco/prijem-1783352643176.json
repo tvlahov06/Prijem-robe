@@ -5,7 +5,7 @@
   "datum": "2026-07-06",
   "status": "aktivan",
   "kreirano": "2026-07-06T15:44:03.176Z",
-  "azurirano": "2026-07-07T05:33:04.804Z",
+  "azurirano": "2026-07-07T05:33:24.961Z",
   "dokumenti": [
     {
       "naziv": "MSI 4285-101",
@@ -61,7 +61,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SONY K55XR80PAEP, 139.7cm (55\"), OLED, 4K UHD SMART TV, Android TV",
@@ -109,13 +109,13 @@
           "naziv": "TV SAMSUNG QE50Q7F2AUXXH, 127.0cm (50\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097211020",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55QN85FAUXXH, 139.7cm (55\"), Neo XH QLED Mini LED, 4K UHD Smart TV, Tizen OS",
           "barkod": "8806097051589",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 55PUS8510, 139.7cm (55\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
@@ -127,7 +127,7 @@
           "naziv": "Televizor PHILIPS 55OLED820/12, 139 cm (55\") OLED Ambilight",
           "barkod": "8718863046487",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
