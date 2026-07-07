@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "roba 07072026",
   "datum": "2026-07-07",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-07T07:34:28.337Z",
-  "azurirano": "2026-07-07T07:47:57.118Z",
+  "azurirano": "2026-07-07T07:49:20.743Z",
   "dokumenti": [
     {
       "naziv": "MSI 4299-101",
@@ -201,5 +201,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-07T07:49:20.743Z"
 }
