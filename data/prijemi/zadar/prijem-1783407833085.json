@@ -5,7 +5,7 @@
   "datum": "2026-07-07",
   "status": "aktivan",
   "kreirano": "2026-07-07T07:03:53.085Z",
-  "azurirano": "2026-07-07T07:18:30.032Z",
+  "azurirano": "2026-07-07T07:25:42.971Z",
   "dokumenti": [
     {
       "naziv": "MSI 4283-101",
@@ -85,13 +85,13 @@
           "naziv": "Perilica posuda ugradbena 60cm Gorenje GV16A",
           "barkod": "3838782989216",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena Whirlpool OMSR58CU1SB",
           "barkod": "8003437939563",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
