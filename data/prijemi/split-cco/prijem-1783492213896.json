@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "",
   "datum": "2026-07-08",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-08T06:30:13.896Z",
-  "azurirano": "2026-07-08T06:37:09.264Z",
+  "azurirano": "2026-07-08T06:41:01.984Z",
   "dokumenti": [
     {
       "naziv": "Tehnocentar",
@@ -96,5 +96,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-08T06:41:01.984Z"
 }
