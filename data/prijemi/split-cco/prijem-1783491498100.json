@@ -5,7 +5,7 @@
   "datum": "2026-07-08",
   "status": "aktivan",
   "kreirano": "2026-07-08T06:18:18.100Z",
-  "azurirano": "2026-07-08T06:20:01.741Z",
+  "azurirano": "2026-07-08T06:20:11.221Z",
   "dokumenti": [
     {
       "naziv": "Carrier",
@@ -217,7 +217,7 @@
           "naziv": "Gimbal DJI Osmo Mobile 7P",
           "barkod": "6941565997517",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DJI Osmo 360 Adventure Combo",
@@ -259,7 +259,7 @@
           "naziv": "DJI Osmo Pocket 4 Standard Combo",
           "barkod": "6937224133099",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Gimbal DJI Osmo Mobile 8P AdvancedTracking Combo",
@@ -277,7 +277,7 @@
           "naziv": "DJI Mic Mini 2 (2 TX + 1 RX + kuciste za punjenje)",
           "barkod": "6937224139749",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DJI Mic Mini 2 (1 TX + 1 mobilni RX + kuciste za punjenje)",
