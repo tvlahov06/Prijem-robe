@@ -5,7 +5,7 @@
   "datum": "2026-07-08",
   "status": "aktivan",
   "kreirano": "2026-07-08T06:30:13.896Z",
-  "azurirano": "2026-07-08T06:36:45.240Z",
+  "azurirano": "2026-07-08T06:36:51.071Z",
   "dokumenti": [
     {
       "naziv": "Tehnocentar",
@@ -32,13 +32,13 @@
           "naziv": "Radio budilica New One CR-100",
           "barkod": "3700460200060",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DVB-T2S2 prijemnik Synergy TV combo TS-204",
           "barkod": "3858890902044",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "OFA zamjenski daljinski za Hisense TV URC 1916",
