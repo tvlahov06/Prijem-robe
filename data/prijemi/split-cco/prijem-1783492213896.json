@@ -5,7 +5,7 @@
   "datum": "2026-07-08",
   "status": "aktivan",
   "kreirano": "2026-07-08T06:30:13.896Z",
-  "azurirano": "2026-07-08T06:37:01.557Z",
+  "azurirano": "2026-07-08T06:37:04.613Z",
   "dokumenti": [
     {
       "naziv": "Tehnocentar",
@@ -56,7 +56,7 @@
           "naziv": "Radio budilica Denver CPR-710",
           "barkod": "5706751060137",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sobna antena OFA SV9143 42dB 5G",
