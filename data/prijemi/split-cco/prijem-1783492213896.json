@@ -5,7 +5,7 @@
   "datum": "2026-07-08",
   "status": "aktivan",
   "kreirano": "2026-07-08T06:30:13.896Z",
-  "azurirano": "2026-07-08T06:36:36.322Z",
+  "azurirano": "2026-07-08T06:36:45.240Z",
   "dokumenti": [
     {
       "naziv": "Tehnocentar",
@@ -14,7 +14,7 @@
           "naziv": "Zamjenski daljinski OFA za LG TV URC1911",
           "barkod": "8716184058202",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "DVB-T T2 prijemnik Synergy T-202B HEVC265 LAN crni",
@@ -44,7 +44,7 @@
           "naziv": "OFA zamjenski daljinski za Hisense TV URC 1916",
           "barkod": "8716184067310",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "DVB-T T2 prijemnik Synergy T-202H HEVC265 LAN + HDMI",
