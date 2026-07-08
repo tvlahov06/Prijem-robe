@@ -1,0 +1,100 @@
+{
+  "id": "prijem-1783492213896",
+  "poslovnica": "split-cco",
+  "naziv": "",
+  "datum": "2026-07-08",
+  "status": "aktivan",
+  "kreirano": "2026-07-08T06:30:13.896Z",
+  "azurirano": "2026-07-08T06:30:13.896Z",
+  "dokumenti": [
+    {
+      "naziv": "Tehnocentar",
+      "stavke": [
+        {
+          "naziv": "Zamjenski daljinski OFA za LG TV URC1911",
+          "barkod": "8716184058202",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DVB-T T2 prijemnik Synergy T-202B HEVC265 LAN crni",
+          "barkod": "3858890901917",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Radio prijenosni Muse FM/MW M-058R",
+          "barkod": "3700460206475",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Radio budilica New One CR-100",
+          "barkod": "3700460200060",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DVB-T2S2 prijemnik Synergy TV combo TS-204",
+          "barkod": "3858890902044",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "OFA zamjenski daljinski za Hisense TV URC 1916",
+          "barkod": "8716184067310",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DVB-T T2 prijemnik Synergy T-202H HEVC265 LAN + HDMI",
+          "barkod": "3858890902181",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Radio budilica Denver CPR-710",
+          "barkod": "5706751060137",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sobna antena OFA SV9143 42dB 5G",
+          "barkod": "8716184073441",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sobna antena OFA SV9460 5G",
+          "barkod": "8716184074301",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Boombox RADIO/CD/USB/MP3/BT DENVER TCL-212 sivi",
+          "barkod": "5706751042294",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "AM/FM radio DENVER TR-63 bijeli",
+          "barkod": "5706751076480",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sobna antena OFA SV9428 5G",
+          "barkod": "8716184076145",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sobna antena OFA SV9126 5G",
+          "barkod": "8716184079269",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
