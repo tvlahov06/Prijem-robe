@@ -5,7 +5,7 @@
   "datum": "2026-07-08",
   "status": "aktivan",
   "kreirano": "2026-07-08T06:18:18.100Z",
-  "azurirano": "2026-07-08T06:19:37.180Z",
+  "azurirano": "2026-07-08T06:19:49.550Z",
   "dokumenti": [
     {
       "naziv": "Carrier",
@@ -145,7 +145,7 @@
           "naziv": "Punjac GoPro Dual Battery Charger+Enduro (Hero 9/10/11/12) ADDBD-211-VE",
           "barkod": "810116382361",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "GoPro Protective Housing (H10-H13)",
@@ -229,7 +229,7 @@
           "naziv": "Dron DJI Osmo Nano (128GB)",
           "barkod": "6937224115453",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Gimbal stabilizator za mobitele DJI Osmo Mobile 8",
