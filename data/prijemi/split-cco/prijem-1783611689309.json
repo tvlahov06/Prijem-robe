@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T15:41:29.309Z",
-  "azurirano": "2026-07-09T18:07:49.898Z",
+  "azurirano": "2026-07-09T18:07:55.799Z",
   "dokumenti": [
     {
       "naziv": "MSI 4302-101",
@@ -469,13 +469,13 @@
           "naziv": "Brijac za glavu Remington XR1500",
           "barkod": "5038061106022",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Revlon 2U1 SALON + Revlon Uniq One tretman za kosu",
           "barkod": "7630127502113",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube OralB iO6 GREY OPAL",
@@ -511,13 +511,13 @@
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
           "barkod": "8720689045094",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Epilator Braun SE3-000",
           "barkod": "8700216962988",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
