@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T15:41:29.309Z",
-  "azurirano": "2026-07-09T18:45:15.685Z",
+  "azurirano": "2026-07-09T18:45:20.269Z",
   "dokumenti": [
     {
       "naziv": "MSI 4302-101",
@@ -743,13 +743,13 @@
           "naziv": "Parna postaja Philips PSG7200/30",
           "barkod": "8720389065187",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9330/09",
           "barkod": "8720389036088",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BBH3ZOO28 Flexxo Gen2 ProAnimal, crveni",
