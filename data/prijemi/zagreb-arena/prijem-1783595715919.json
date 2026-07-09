@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T11:15:15.919Z",
-  "azurirano": "2026-07-09T11:56:21.794Z",
+  "azurirano": "2026-07-09T11:56:45.193Z",
   "dokumenti": [
     {
       "naziv": "MSI 4297-101",
@@ -1082,7 +1082,7 @@
           "naziv": "PRO TV HISENSE 65U7S PRO, 165.1cm (65\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351437293",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -1093,13 +1093,13 @@
           "naziv": "TV SONY K43S25M2PB, 108 cm (43''), Bravia 2 II, 4K EI Google TV",
           "barkod": "4548736180420",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SONY K50S25M2PB, 126 cm (50''), Bravia 2 II, 4K EI Google TV",
           "barkod": "4548736180383",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
