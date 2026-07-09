@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T14:55:06.733Z",
-  "azurirano": "2026-07-09T19:18:34.098Z",
+  "azurirano": "2026-07-09T19:18:38.543Z",
   "dokumenti": [
     {
       "naziv": "MSI 4395-101",
@@ -472,7 +472,7 @@
           "naziv": "HUAWEI MatePad 11,5\" 8GB/256GB Siva (Taoxingzhi-W09FK)+tipkovnica",
           "barkod": "6942103165740",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
@@ -560,13 +560,13 @@
           "naziv": "Sisac za bradu Philips BT3665/15",
           "barkod": "8720689029438",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac za tijelo Philips BG3480/15",
           "barkod": "8720689026871",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
