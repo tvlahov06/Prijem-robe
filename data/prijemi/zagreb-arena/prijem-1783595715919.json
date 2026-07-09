@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T11:15:15.919Z",
-  "azurirano": "2026-07-09T11:39:03.623Z",
+  "azurirano": "2026-07-09T11:39:11.035Z",
   "dokumenti": [
     {
       "naziv": "MSI 4297-101",
@@ -1522,7 +1522,7 @@
           "naziv": "Tinta HP GT52 M0H55AE, Magenta",
           "barkod": "190780132531",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HDD WD Elements Portable 2TB, USB 3.0",
@@ -1540,7 +1540,7 @@
           "naziv": "Tinta HP GT52 M0H56AE, Yellow",
           "barkod": "190780132555",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
