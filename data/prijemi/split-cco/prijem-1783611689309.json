@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T15:41:29.309Z",
-  "azurirano": "2026-07-09T18:43:52.983Z",
+  "azurirano": "2026-07-09T18:45:15.685Z",
   "dokumenti": [
     {
       "naziv": "MSI 4302-101",
@@ -695,7 +695,7 @@
           "naziv": "Toster grill Philips HD6307/70 preklopni",
           "barkod": "8720389035678",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
@@ -707,7 +707,7 @@
           "naziv": "Mikser stapni Philips HR2534/00 Daily Collection ProMix",
           "barkod": "8710103914457",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Electrolux EL61C3DB",
