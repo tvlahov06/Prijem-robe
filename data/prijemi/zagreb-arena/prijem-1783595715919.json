@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T11:15:15.919Z",
-  "azurirano": "2026-07-09T14:53:43.189Z",
+  "azurirano": "2026-07-09T14:54:32.004Z",
   "dokumenti": [
     {
       "naziv": "MSI 4297-101",
@@ -418,7 +418,7 @@
           "naziv": "Printer HP LaserJet M140w MFP",
           "barkod": "194850677267",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet M207dw, 8J9K9F",
