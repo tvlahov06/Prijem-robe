@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T11:15:15.919Z",
-  "azurirano": "2026-07-09T11:35:27.038Z",
+  "azurirano": "2026-07-09T11:35:38.521Z",
   "dokumenti": [
     {
       "naziv": "MSI 4297-101",
@@ -1349,7 +1349,7 @@
           "naziv": "Mis Logitech M650, crni",
           "barkod": "5099206097223",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bezicni mis Logitech M850 L",
@@ -1367,13 +1367,13 @@
           "naziv": "Mis Logitech M196, crni",
           "barkod": "5099206128330",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mis Logitech Lift Vertical Ergonomic, graphite",
           "barkod": "5099206099784",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica LOGITECH K250 graphite",
@@ -1415,7 +1415,7 @@
           "naziv": "Mis Logitech M650, rozi",
           "barkod": "5099206097230",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
