@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "Roba 9.7.2026:MSI 4395-101  MSI 4400-101 MSI 4401-101  MSI 4410-101  MSI 4303-101  MSI 4304-101  MSI 4397-101  MSI 4398-101   MSI 4399-101  MSI 4412-101",
   "datum": "2026-07-09",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-09T14:55:06.733Z",
-  "azurirano": "2026-07-09T19:30:20.726Z",
+  "azurirano": "2026-07-09T19:30:42.520Z",
   "dokumenti": [
     {
       "naziv": "MSI 4395-101",
@@ -705,5 +705,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-09T19:30:42.520Z"
 }
