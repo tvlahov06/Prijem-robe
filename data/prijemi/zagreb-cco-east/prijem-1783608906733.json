@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T14:55:06.733Z",
-  "azurirano": "2026-07-09T19:11:02.867Z",
+  "azurirano": "2026-07-09T19:11:07.560Z",
   "dokumenti": [
     {
       "naziv": "MSI 4395-101",
@@ -275,7 +275,7 @@
           "naziv": "Usisavac Philips XD3110/09",
           "barkod": "8710103939115",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP2224/10 espresso",
