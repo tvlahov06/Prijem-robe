@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T11:15:15.919Z",
-  "azurirano": "2026-07-09T11:34:16.076Z",
+  "azurirano": "2026-07-09T11:34:21.413Z",
   "dokumenti": [
     {
       "naziv": "MSI 4297-101",
@@ -1586,7 +1586,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
           "barkod": "6942103168253",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch Fit 5 bijeli (Niki-B19F)",
@@ -1604,7 +1604,7 @@
           "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F)",
           "barkod": "6942103189739",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch Fit 5 ljubicasti (Niki-B19F)",
@@ -1628,13 +1628,13 @@
           "naziv": "Pametni sat Huawei Watch Fit 5 Pro narancasti (Niki-B29W)",
           "barkod": "6942103189753",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 46mm Black (Vili-B19F)",
           "barkod": "6942103132001",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Band 11 Pro Aluminum (Candy-B49F) Blue",
