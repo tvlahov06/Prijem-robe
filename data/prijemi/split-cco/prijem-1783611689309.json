@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T15:41:29.309Z",
-  "azurirano": "2026-07-09T18:37:56.088Z",
+  "azurirano": "2026-07-09T18:38:44.541Z",
   "dokumenti": [
     {
       "naziv": "MSI 4302-101",
@@ -641,7 +641,7 @@
           "naziv": "Usisavac robot Philips XU5100/20",
           "barkod": "8720389055584",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Bosch MFQ40301 Styline Colour vanilija/srebrna",
@@ -689,7 +689,7 @@
           "naziv": "Usisavac Philips XD6142/12",
           "barkod": "8720389038303",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Philips HD6307/70 preklopni",
