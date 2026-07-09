@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T14:55:06.733Z",
-  "azurirano": "2026-07-09T19:18:27.677Z",
+  "azurirano": "2026-07-09T19:18:34.098Z",
   "dokumenti": [
     {
       "naziv": "MSI 4395-101",
@@ -495,13 +495,13 @@
           "naziv": "Blender Nutribullet NB907CP 900W",
           "barkod": "8006447000087",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907S 900W",
           "barkod": "8006447002487",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
@@ -513,7 +513,7 @@
           "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
           "barkod": "8006447002135",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907MASL 900W",
@@ -536,7 +536,7 @@
           "naziv": "Brijaci aparat Philips S5885/35",
           "barkod": "8720689008037",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD510/00",
@@ -554,7 +554,7 @@
           "naziv": "Epilator Braun SES9-030 3D",
           "barkod": "8700216963206",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za bradu Philips BT3665/15",
