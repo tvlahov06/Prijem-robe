@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T11:15:15.919Z",
-  "azurirano": "2026-07-09T13:54:37.802Z",
+  "azurirano": "2026-07-09T13:54:47.089Z",
   "dokumenti": [
     {
       "naziv": "MSI 4297-101",
@@ -785,7 +785,7 @@
           "naziv": "Sisac za tijelo 8U1 Philips MG3940/15",
           "barkod": "8720689026611",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Braun 3 300BLK",
