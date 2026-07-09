@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T14:55:06.733Z",
-  "azurirano": "2026-07-09T19:27:00.700Z",
+  "azurirano": "2026-07-09T19:27:07.597Z",
   "dokumenti": [
     {
       "naziv": "MSI 4395-101",
@@ -144,7 +144,7 @@
           "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM ljubicasti",
           "barkod": "8806099035341",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Samsung Galaxy Tab A11+ 5G 6GB/128GB sivi",
@@ -454,7 +454,7 @@
           "naziv": "Mobitel Samsung Galaxy S26+ 5G 12/256GB crni",
           "barkod": "8806097828358",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Zastitna folija za Samsung Galaxy S26 Ultra prozirna 2 komada",
