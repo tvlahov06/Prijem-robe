@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T15:41:29.309Z",
-  "azurirano": "2026-07-09T18:28:43.012Z",
+  "azurirano": "2026-07-09T18:28:51.360Z",
   "dokumenti": [
     {
       "naziv": "MSI 4302-101",
@@ -80,7 +80,7 @@
           "naziv": "Blender Nutribullet NB1206S PRO 1200W",
           "barkod": "8006447003323",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NBP003MA Portable magenta",
