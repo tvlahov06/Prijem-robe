@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T14:55:06.733Z",
-  "azurirano": "2026-07-09T19:13:57.069Z",
+  "azurirano": "2026-07-09T19:15:00.185Z",
   "dokumenti": [
     {
       "naziv": "MSI 4395-101",
@@ -542,7 +542,7 @@
           "naziv": "Susilo za kosu Philips BHD510/00",
           "barkod": "8710103948834",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
@@ -577,7 +577,7 @@
           "naziv": "Aparat za kavu Nespresso INISSIA Red C40-EURENE5-S",
           "barkod": "8606112020374",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso VERTUO Pop Black S GDV2-EUBKNE-S",
@@ -601,7 +601,7 @@
           "naziv": "Aparat za kavu Nespresso CITIZ Silver C113-EUSIN2-S",
           "barkod": "7640156779882",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso VERTUO Pop Red S GCV2-EURENE-S",
@@ -624,7 +624,7 @@
           "naziv": "Laptop ASUS TUF Gaming A16 FA607NUQ-RL014, 40.6cm 4L0 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 170, 16 GB RAM,",
           "barkod": "4711636446716",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS TUF Gaming A16 FA607NUG-RL142, 40.6cm A00 (16\") FHD+ WUXGA 144Hz, AMD Ryzen 7 7445HS, 16 GB",
