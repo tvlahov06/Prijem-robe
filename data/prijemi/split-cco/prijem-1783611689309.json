@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T15:41:29.309Z",
-  "azurirano": "2026-07-09T18:11:49.079Z",
+  "azurirano": "2026-07-09T18:12:09.945Z",
   "dokumenti": [
     {
       "naziv": "MSI 4302-101",
@@ -258,7 +258,7 @@
           "naziv": "Printer HP LaserJet M209dw A4 mono 29ppm USB",
           "barkod": "0194850664267",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet M140w MFP",
