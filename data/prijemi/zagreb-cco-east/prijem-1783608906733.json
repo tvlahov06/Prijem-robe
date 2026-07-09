@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T14:55:06.733Z",
-  "azurirano": "2026-07-09T19:17:52.061Z",
+  "azurirano": "2026-07-09T19:17:55.100Z",
   "dokumenti": [
     {
       "naziv": "MSI 4395-101",
@@ -689,13 +689,13 @@
           "naziv": "TV HISENSE 43E7S, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351430973",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 50A6S, 127cm (50\"), DLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351430263",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 43PUS7810, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS",
