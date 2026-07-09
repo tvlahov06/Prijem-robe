@@ -5,7 +5,7 @@
   "datum": "2026-07-09",
   "status": "aktivan",
   "kreirano": "2026-07-09T11:15:15.919Z",
-  "azurirano": "2026-07-09T11:37:46.304Z",
+  "azurirano": "2026-07-09T11:37:57.549Z",
   "dokumenti": [
     {
       "naziv": "MSI 4297-101",
@@ -1438,7 +1438,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
           "barkod": "740617348651",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "LENOVO 65W AC Adapter",
@@ -1462,7 +1462,7 @@
           "naziv": "Memorijska kartica Kingston 256GB micSDHC Canvas Select Plus G3 150R+",
           "barkod": "740617348507",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Toner HP 219A Black, W2190A",
@@ -1486,7 +1486,7 @@
           "naziv": "KINGSTON Canvas Select Plus SD kartica, 64GB, R100MB",
           "barkod": "740617348255",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
