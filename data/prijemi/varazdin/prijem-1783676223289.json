@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T09:37:03.289Z",
-  "azurirano": "2026-07-10T10:14:04.455Z",
+  "azurirano": "2026-07-10T10:14:13.377Z",
   "dokumenti": [
     {
       "naziv": "MSI 4445-101",
@@ -204,19 +204,19 @@
           "naziv": "Toner HP 219A Black, W2190A",
           "barkod": "195161016264",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toner HP 219A Yellow, W2192A",
           "barkod": "195161016301",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toner HP 219A Cyan, W2191A",
           "barkod": "195161016288",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "C200 TP-Link Tapo C200 Pan/Tilt Home Security Wi-Fi",
