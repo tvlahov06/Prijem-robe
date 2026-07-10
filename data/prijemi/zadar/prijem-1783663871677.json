@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T07:24:14.722Z",
+  "azurirano": "2026-07-10T07:24:22.655Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -328,7 +328,7 @@
           "naziv": "Vrecice za usisavac Bosch BBZ41FGALL",
           "barkod": "4242002830414",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3010/30",
