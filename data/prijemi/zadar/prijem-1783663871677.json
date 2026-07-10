@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T09:41:54.450Z",
+  "azurirano": "2026-07-10T09:41:58.430Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -539,7 +539,7 @@
           "naziv": "Apple AirPods 4 (USB-C)",
           "barkod": "195949688591",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
