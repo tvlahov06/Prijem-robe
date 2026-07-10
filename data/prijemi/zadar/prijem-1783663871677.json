@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T09:59:01.783Z",
+  "azurirano": "2026-07-10T09:59:24.633Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -64,59 +64,6 @@
         {
           "naziv": "TV HISENSE 55A6S, 139.7cm (55\"), DLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351430447",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4417-101",
-      "stavke": [
-        {
-          "naziv": "Mis Logitech M650, crni",
-          "barkod": "5099206097223",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mis Logitech M185, sivi",
-          "barkod": "5099206027275",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Mis Logitech G502 X PLUS, LIGHTSPEED, LIGHTSYNC RGB, crni",
-          "barkod": "5099206096332",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnici Logitech Z150, 2.0, bijeli",
-          "barkod": "5099206048799",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech Lift Vertical Ergonomic, graphite",
-          "barkod": "5099206099784",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech M196, bijeli",
-          "barkod": "5099206128323",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tipkovnica LOGITECH K250 graphite",
-          "barkod": "5099206130524",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnici Logitech Z906, 5.1 crni, THX, DD, DTS, 500W RMS",
-          "barkod": "5099206023536",
           "ocekivano": 1,
           "skenirano": 1
         }
