@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T08:25:55.011Z",
-  "azurirano": "2026-07-10T09:38:08.088Z",
+  "azurirano": "2026-07-10T09:38:13.658Z",
   "dokumenti": [
     {
       "naziv": "MSI 4383-101",
@@ -661,7 +661,7 @@
           "naziv": "Brijaci aparat Braun 5 52-N1200S",
           "barkod": "8700216645522",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Braun 3 300BLK",
