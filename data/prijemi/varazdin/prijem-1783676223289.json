@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T09:37:03.289Z",
-  "azurirano": "2026-07-10T10:11:35.600Z",
+  "azurirano": "2026-07-10T10:11:52.496Z",
   "dokumenti": [
     {
       "naziv": "MSI 4445-101",
@@ -98,7 +98,7 @@
           "naziv": "HP HyperX Cloud III S Wireless Headset Black",
           "barkod": "198415435590",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hisense Soundbar AX3120Q",
@@ -122,19 +122,19 @@
           "naziv": "Slusalice HyperX Cloud Stinger 2 Core Wired Gaming Headset",
           "barkod": "196548418183",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
           "barkod": "198415435569",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
           "barkod": "197029008220",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
