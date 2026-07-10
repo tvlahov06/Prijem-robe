@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T08:25:55.011Z",
-  "azurirano": "2026-07-10T09:47:40.545Z",
+  "azurirano": "2026-07-10T09:47:49.168Z",
   "dokumenti": [
     {
       "naziv": "MSI 4383-101",
@@ -838,7 +838,7 @@
           "naziv": "Usisavac Dyson V10 Absolute",
           "barkod": "5025155088081",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
@@ -856,7 +856,7 @@
           "naziv": "Usisavac Dyson V8 Cyclone",
           "barkod": "5025155122594",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Blender Nutribullet NB907CP 900W",
