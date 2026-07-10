@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T07:42:34.529Z",
+  "azurirano": "2026-07-10T07:42:43.226Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -364,7 +364,7 @@
           "naziv": "Usisavac Electrolux EL61C3DB",
           "barkod": "7332543774906",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9744/09",
