@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T09:51:30.855Z",
+  "azurirano": "2026-07-10T09:56:29.334Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -15,101 +15,6 @@
           "barkod": "711719020172",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4315-101",
-      "stavke": [
-        {
-          "naziv": "Zastitna folija za Samsung Galaxy Z Flip7 2 komada",
-          "barkod": "8806097466475",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB sivi",
-          "barkod": "8806097855019",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
-          "barkod": "8806097638551",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM sivi",
-          "barkod": "8806099035259",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Prozirna maska za Samsung Galaxy Galaxy A37 5G prozirna",
-          "barkod": "8806099037802",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB crni",
-          "barkod": "8806097827221",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 plavo ljubicasta",
-          "barkod": "8806097934721",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slim magnetna maska za Samsung Galaxy S26+ crna",
-          "barkod": "8806099109516",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB kobalt ljubicasti",
-          "barkod": "8806097827313",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
-          "barkod": "8806097651079",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB crni",
-          "barkod": "8806097827467",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Apple USB-C Power Adapter 20W",
-          "barkod": "195950084658",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Tablet Samsung SM-X930 Galaxy Tab S11 Ultra 12GB/256GB WiFi sivi",
-          "barkod": "8806097711414",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tablet Honor Pad X9 4GB/128GB WIFI Space Grey",
-          "barkod": "6936520826612",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Apple Watch SE 3 GPS 44mm Midnight Aluminium Case with Midnight Sport Band - M/L",
-          "barkod": "195950646146",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
