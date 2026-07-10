@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T09:58:49.933Z",
+  "azurirano": "2026-07-10T09:59:01.783Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -55,23 +55,6 @@
           "barkod": "8806097828358",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4414-101",
-      "stavke": [
-        {
-          "naziv": "TV SONY K50S25M2PB, 126 cm (50''), Bravia 2 II, 4K EI Google TV",
-          "barkod": "4548736180383",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV SONY K55S25M2PB, 139 cm (55''), Bravia 2 II, 4K EI Google TV",
-          "barkod": "4548736180345",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
