@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T09:37:03.289Z",
-  "azurirano": "2026-07-10T09:46:26.532Z",
+  "azurirano": "2026-07-10T09:46:39.740Z",
   "dokumenti": [
     {
       "naziv": "MSI 4445-101",
@@ -423,7 +423,7 @@
           "naziv": "Usisavac Dyson V10 Absolute",
           "barkod": "5025155088081",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
