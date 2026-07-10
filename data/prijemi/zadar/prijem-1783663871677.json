@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T09:35:22.831Z",
+  "azurirano": "2026-07-10T09:35:31.970Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -862,7 +862,7 @@
           "naziv": "Eksterni disk Seagate Expansion Portable 2TB",
           "barkod": "3660619040247",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Punjac za ASUS laptope, 68W Type-C",
