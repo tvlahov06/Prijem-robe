@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T08:25:55.011Z",
-  "azurirano": "2026-07-10T09:48:46.049Z",
+  "azurirano": "2026-07-10T09:48:49.596Z",
   "dokumenti": [
     {
       "naziv": "MSI 4383-101",
@@ -249,41 +249,6 @@
           "barkod": "0622356317634",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4355-101",
-      "stavke": [
-        {
-          "naziv": "TV HISENSE 43E7S, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351430973",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
-          "barkod": "5901292525804",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
-          "barkod": "5901292525798",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351431420",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
-          "barkod": "8806097067672",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
