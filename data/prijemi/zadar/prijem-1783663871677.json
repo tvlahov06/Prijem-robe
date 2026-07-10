@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T09:56:29.334Z",
+  "azurirano": "2026-07-10T09:56:50.545Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -15,77 +15,6 @@
           "barkod": "711719020172",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4319-101",
-      "stavke": [
-        {
-          "naziv": "Tus za zube Philips Sonicare HX3826/31 Power Flosser Cordless white",
-          "barkod": "8720689011037",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Cetkica za zube OralB iO6 GREY OPAL",
-          "barkod": "4210201381686",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sisac za bradu Braun BT7540",
-          "barkod": "8700216428415",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sisac za tijelo/kosu/bradu Braun 11u1 7540",
-          "barkod": "8700216429016",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "IPL depilator Philips BRI973/00 Lumea",
-          "barkod": "8720689005708",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uvijac za kosu Remington cik cak S3580 Ceramic Crimp",
-          "barkod": "4008496975563",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Cetkica za zube OralB iO5 MATT BLACK",
-          "barkod": "4210201415367",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Cetkica za zube OralB iO9 WHITE ALABASTER",
-          "barkod": "4210201449614",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Brijaci aparat Philips X3001/00",
-          "barkod": "8720689018920",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sisac za kosu/bradu Philips HC3530/15",
-          "barkod": "8710103859734",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Epilator Braun SES9-030",
-          "barkod": "8700216963657",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
