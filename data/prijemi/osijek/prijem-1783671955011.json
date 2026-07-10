@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T08:25:55.011Z",
-  "azurirano": "2026-07-10T09:50:36.184Z",
+  "azurirano": "2026-07-10T09:50:50.553Z",
   "dokumenti": [
     {
       "naziv": "MSI 4383-101",
@@ -249,17 +249,6 @@
           "barkod": "0622356317634",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4322-101",
-      "stavke": [
-        {
-          "naziv": "Hladnjak Multidoor Hisense RQ760N4IFE",
-          "barkod": "6921727069528",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
