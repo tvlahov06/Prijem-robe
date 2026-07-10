@@ -1,0 +1,894 @@
+{
+  "id": "prijem-1783671955011",
+  "poslovnica": "osijek",
+  "naziv": "10.07",
+  "datum": "2026-07-10",
+  "status": "aktivan",
+  "kreirano": "2026-07-10T08:25:55.011Z",
+  "azurirano": "2026-07-10T08:25:55.011Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 4383-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu Krups KP1A3B10 Piccolo XS black/anthracite PF",
+          "barkod": "3016661159121",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC500 dekalcifikator",
+          "barkod": "8004399329492",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP243B10 Genio S anthracite PF",
+          "barkod": "3045380024335",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Filter za vodu za aparat za kavu DeLonghi DLSC002",
+          "barkod": "8004399327252",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
+          "barkod": "8004399329485",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Russell Hobbs 27600-56 Blue, Steam Genie Maestro, 2u1",
+          "barkod": "5038061168686",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1A3110 Piccolo XS white/burgundy PF",
+          "barkod": "3045380024380",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1438F0 Mini Me 2 piano black",
+          "barkod": "3045380404144",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP143GF0 Mini Me 2 arctic grey",
+          "barkod": "3045380404137",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi EC 685.M Dedica Style",
+          "barkod": "8004399331198",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi EC 890.GR Dedica Duo",
+          "barkod": "8004399032538",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BCS711EXT Unlimited 7, crni",
+          "barkod": "4242005306985",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi EC 685.BK Dedica Style",
+          "barkod": "8004399331181",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Gorenje M500DCBK",
+          "barkod": "3838782541605",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi ECAM 220.20.W Magnifica Start",
+          "barkod": "8004399025387",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
+          "barkod": "8004399021396",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XW7264/11 bezicni AquaTrio",
+          "barkod": "8720389042119",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Electrolux EL31C2OG",
+          "barkod": "7333394082462",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Rucni mikser Kenwood HMP40.000RD QuickMix GO boja lososa",
+          "barkod": "5011423008356",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA353/10 Airfryer Dual Basket",
+          "barkod": "8720389035579",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster Philips HD2350/80 preklopni",
+          "barkod": "8720389032813",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP243AF0 Genio S taupe",
+          "barkod": "3045380028241",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kava DELONGHI zrno Crema 1kg",
+          "barkod": "8004399020450",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Miele Guard M1 Cat&Dog",
+          "barkod": "4002516795247",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
+          "barkod": "8606112020473",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhinjski asistent Gorenje MMC1500PS",
+          "barkod": "3838782687129",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP2224/10 espresso",
+          "barkod": "8710103894742",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Electrolux EL61C3DB",
+          "barkod": "7332543774906",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips FC9744/09",
+          "barkod": "8710103810483",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BBH3ZOO28 Flexxo Gen2 ProAnimal, crveni",
+          "barkod": "4242005278497",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhinjski asistent Kenwood KZM35.000GY GO siva",
+          "barkod": "5011423008363",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "222230 Usisavac stapni Gorenje SVC222230AEW* AEW",
+          "barkod": "3838783047991",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Russell Hobbs 28640-70 Hanley Jasmine",
+          "barkod": "5038061179477",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
+          "barkod": "622356350907",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips XV5113/01",
+          "barkod": "8720389035975",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips XV3101/11",
+          "barkod": "8720389058707",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi ECAM 470.85.MB Eletta Ultra",
+          "barkod": "8004399036086",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ledomat Tesla IM320WB",
+          "barkod": "8606034703089",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips dodaci XV1892/02 sredstvo za ciscenje poda",
+          "barkod": "8720389035937",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja FN101EUSG Crispi 4u1 Sage Green",
+          "barkod": "0622356317634",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4355-101",
+      "stavke": [
+        {
+          "naziv": "TV HISENSE 43E7S, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351430973",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525804",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
+          "barkod": "5901292525798",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351431420",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
+          "barkod": "8806097067672",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4348-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu Nespresso INISSIA Red C40-EURENE5-S",
+          "barkod": "8606112020374",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso VERTUO Pop Black S GDV2-EUBKNE-S",
+          "barkod": "8606112020138",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black & Aeroccino",
+          "barkod": "7630039627959",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso PIXIE Titan C62-EUTINE-S",
+          "barkod": "8606112020305",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso VERTUO Pop Yellow S GDV2-EUYENE-S",
+          "barkod": "8606112020152",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4347-101",
+      "stavke": [
+        {
+          "naziv": "Kabel Samsung USB Type-C na USB Type-C (1,8m, 5A) crni",
+          "barkod": "8806094257540",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T4511 45W Fast Charge USB-C crni bez kabla",
+          "barkod": "8806097039709",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T6530 Trio 65W, 25W i 15W Fast Charge 2x USB-C i USB-A crni bez kabela",
+          "barkod": "8806092673885",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung SmartTag2 crni",
+          "barkod": "8806095039893",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11+ 5G 6GB/128GB sivi",
+          "barkod": "8806097859963",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 16/1TB crni",
+          "barkod": "8806097827122",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 5G 12/512GB crni",
+          "barkod": "8806097827405",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4346-101",
+      "stavke": [
+        {
+          "naziv": "Monitor 34\" Samsung Odyssey G55T, LC34G55TWWPXEN, XEN VA, UWQHD, 165Hz, zakrivljen",
+          "barkod": "8806094796315",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MSI 31.5\" Gaming Monitor G32CQ5P, VA Curved WQHD, 170Hz, 1ms, Adaptive-Sync, DisplayPort, 2x HDMI, HDR",
+          "barkod": "4711377117487",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "198828789556",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP DeskJet 2921 All-in-One (A24HWB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "0198828789822",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP Smart Tank 580 All-in-One (1F3Y2A) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
+          "barkod": "196188530313",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer Epson L3270 EcoTank",
+          "barkod": "8715946727097",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer HP LaserJet M209dw A4 mono 29ppm USB",
+          "barkod": "0194850664267",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pisac MFP Epson EcoTank L3271",
+          "barkod": "8715946729701",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4345-101",
+      "stavke": [
+        {
+          "naziv": "Laptop ACER Aspire Lite 15 NX.DJWEX.001, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
+          "barkod": "4711474693945",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming A16 FA607NUG-RL142, 40.6cm A00 (16\") FHD+ WUXGA 144Hz, AMD Ryzen 7 7445HS, 16 GB",
+          "barkod": "4711636145053",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming A16 FA608UP-RV018, 40.6cm 2J0 (16\") IPS WUXGA 165Hz, AMD Ryzen 7 260, 16 GB RAM, 1",
+          "barkod": "4711636527071",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming A16 FA608UHI-TU657W, 40.6cm HK0 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 260, 16 GB RAM,",
+          "barkod": "4711636546782",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Vivobook S16 S3607CA-RP024W, 40.6cm D50 (16\") IPS WUXGA 144Hz, Intel Core Ultra 7 255H, 16 GB",
+          "barkod": "4711636546638",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Zenbook S 14 UX5406SA-PZ615X, 35.6cm 1W0 (14\") OLED 3K 120Hz Touch, Intel Core Ultra 7 258V, 32",
+          "barkod": "4711636492409",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS ROG Strix G16 G615LW-S5031W, 40.6cm",
+          "barkod": "4711387951071",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4344-101",
+      "stavke": [
+        {
+          "naziv": "Apple AirPods 4 (USB-C)",
+          "barkod": "195949688591",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
+          "barkod": "195949689673",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 46mm Jet Black Aluminium Case with Black Sport Band - M/L",
+          "barkod": "195950631821",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 42mm Rose Gold Aluminium Case with Light Blush Sport Band - S/M",
+          "barkod": "195950619126",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE 3 GPS 40mm Starlight Aluminium Case with Starlight Sport Band - S/M",
+          "barkod": "195950645644",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 42mm Jet Black Aluminium Case with Black Sport Band - S/M",
+          "barkod": "195950631371",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 46mm Rose Gold Aluminium Case with Light Blush Sport Band - M/L",
+          "barkod": "195950632125",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
+          "barkod": "195950627190",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB Lavender",
+          "barkod": "195950644135",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE 3 GPS 40mm Midnight Aluminium Case with Midnight Sport Band - S/M",
+          "barkod": "195950645798",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE 3 GPS 44mm Starlight Aluminium Case with Starlight Sport Band - M/L",
+          "barkod": "195950645996",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 46mm Jet Black Aluminium Case with Black Sport Band - S/M",
+          "barkod": "195950631777",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB Mist Blue",
+          "barkod": "195950643930",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 42mm Space Grey Aluminium Case with Black Sport Band - M/L",
+          "barkod": "195950619072",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE 3 GPS 40mm Starlight Aluminium Case with Starlight Sport Band - M/L",
+          "barkod": "195950645699",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4343-101",
+      "stavke": [
+        {
+          "naziv": "Uvijac za kosu Remington AS8810 Keratin Therapy",
+          "barkod": "4008496938384",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
+          "barkod": "8720689027137",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Philips BHB887/00 tulip SenseIQ",
+          "barkod": "8720689002141",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO6 GREY OPAL",
+          "barkod": "4210201381686",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
+          "barkod": "8710103932482",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac za bradu Braun BT7540",
+          "barkod": "8700216428415",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epilator Braun SE5-050",
+          "barkod": "7500435225038",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mini epilator za lice Braun FS1000",
+          "barkod": "4210201313908",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac za tijelo/kosu/bradu Braun 11u1 7540",
+          "barkod": "8700216429016",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac za tijelo/kosu/bradu BRAUN 7u1 5520",
+          "barkod": "8700216429160",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO2 GREEN",
+          "barkod": "8700216611848",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO2 PINK",
+          "barkod": "8700216611831",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO5 MATT BLACK",
+          "barkod": "4210201415367",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO9 WHITE ALABASTER",
+          "barkod": "4210201449614",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epilator Braun SE7-060",
+          "barkod": "7500435225106",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Braun 5 52-N1200S",
+          "barkod": "8700216645522",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Braun 3 300BLK",
+          "barkod": "4210201163305",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epilator Braun SE3-000",
+          "barkod": "8700216962988",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epilator Braun SES9-030",
+          "barkod": "8700216963657",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Braun PL5221",
+          "barkod": "8700216937818",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za tijelo Philips BG3480/15",
+          "barkod": "8720689026871",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0 Meteora Limited Edition",
+          "barkod": "3474637316907",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4322-101",
+      "stavke": [
+        {
+          "naziv": "Hladnjak Multidoor Hisense RQ760N4IFE",
+          "barkod": "6921727069528",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4309-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi",
+          "barkod": "8806099028114",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicni punjac Samsung Duo za mobitel ili sat crni",
+          "barkod": "8806092978539",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM ljubicasti",
+          "barkod": "8806099025786",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Olovka za tablet Huawei M-Pencil White",
+          "barkod": "6942103112508",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Rugged maska za Samsung Galaxy A37 5G crna",
+          "barkod": "8806099037826",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei GT Runner 2 (Chitu-B19F) 43,5mm Dusk Blue",
+          "barkod": "6942103185564",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11+ 5G 6GB/128GB sivi",
+          "barkod": "8806097859963",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "barkod": "195950639049",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 Ultra plavo ljubicasta",
+          "barkod": "8806097887195",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 5G 12/512GB crni",
+          "barkod": "8806097827405",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 46mm Rose Gold Aluminium Case with Light Blush Sport Band - M/L",
+          "barkod": "195950632125",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 42mm Rose Gold Aluminium Case with Light Blush Sport Band - S/M",
+          "barkod": "195950619126",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Apple 11-inch iPad Air (M4) Wi-Fi 256GB Space Grey",
+          "barkod": "195950824438",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17e 256GB Soft Pink",
+          "barkod": "195951030937",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 17 Pro Max Silicone Case with MagSafe - Vanilla",
+          "barkod": "195951037219",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei GT Runner 2 (Chitu-B19FB) 43,5mm Midnight Black",
+          "barkod": "6942103185595",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Band 11 Aluminum (Candy-B29F) White",
+          "barkod": "6942103182587",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4299-101",
+      "stavke": [
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Velvet Red/Gold Limited edition",
+          "barkod": "5025155112397",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Ceramic Pink/Rose Gold",
+          "barkod": "5025155113080",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V10 Absolute",
+          "barkod": "5025155088081",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
+          "barkod": "5025155127759",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold Curly+Coily",
+          "barkod": "5025155117309",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V8 Cyclone",
+          "barkod": "5025155122594",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907CP 900W",
+          "barkod": "8006447000087",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907S 900W",
+          "barkod": "8006447002487",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
+          "barkod": "8006447002166",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003W Portable bijeli",
+          "barkod": "8006447002098",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBF500DG Full Size Combo",
+          "barkod": "8006447000209",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
