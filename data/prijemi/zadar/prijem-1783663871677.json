@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T09:38:09.997Z",
+  "azurirano": "2026-07-10T09:38:21.665Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -874,7 +874,7 @@
           "naziv": "Memorijska kartica Kingston 64GB microSDXC Canvas Go Plus Gen4 + ADP",
           "barkod": "740617347890",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
@@ -886,7 +886,7 @@
           "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
           "barkod": "740617348453",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "LENOVO 65W AC Adapter",
