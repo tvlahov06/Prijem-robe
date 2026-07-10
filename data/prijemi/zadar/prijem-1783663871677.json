@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T09:26:16.769Z",
+  "azurirano": "2026-07-10T09:26:20.238Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -1065,7 +1065,7 @@
           "naziv": "Radio budilica Sony ICF-C1/W",
           "barkod": "4905524962048",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/B",
