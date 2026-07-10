@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T09:37:03.289Z",
-  "azurirano": "2026-07-10T10:06:22.215Z",
+  "azurirano": "2026-07-10T10:06:28.950Z",
   "dokumenti": [
     {
       "naziv": "MSI 4445-101",
@@ -288,7 +288,7 @@
           "naziv": "Mis ACER AMR130, Zelena",
           "barkod": "4711474835567",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD ADATA SU800, R560/W520, 1TB, 7mm, 2.5\"",
@@ -300,7 +300,7 @@
           "naziv": "Mis ACER AMR130, Bijela",
           "barkod": "4711474799715",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
