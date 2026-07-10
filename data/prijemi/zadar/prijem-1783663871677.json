@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T09:58:17.943Z",
+  "azurirano": "2026-07-10T09:58:30.578Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -55,59 +55,6 @@
           "barkod": "8806097828358",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4329-101",
-      "stavke": [
-        {
-          "naziv": "Aparat za kavu Nespresso INISSIA Red C40-EURENE5-S",
-          "barkod": "8606112020374",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za kavu Nespresso CITIZ & MILK Black S D123-EUBKN2-S",
-          "barkod": "7630030361982",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za kavu Nespresso VERTUO Pop Black S GDV2-EUBKNE-S",
-          "barkod": "8606112020138",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black & Aeroccino",
-          "barkod": "7630039627959",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za kavu Nespresso PIXIE Titan C62-EUTINE-S",
-          "barkod": "8606112020305",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za kavu Nespresso INISSIA Black & Aeroccino",
-          "barkod": "7640159929956",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za kavu Nespresso INISSIA Red & Aeroccino",
-          "barkod": "7630030308680",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za kavu Nespresso VERTUO Pop Red S GCV2-EURENE-S",
-          "barkod": "8606112020114",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
