@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T07:52:58.469Z",
+  "azurirano": "2026-07-10T07:53:14.638Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -646,13 +646,13 @@
           "naziv": "Aparat za kavu Nespresso INISSIA Black & Aeroccino",
           "barkod": "7640159929956",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso INISSIA Red & Aeroccino",
           "barkod": "7630030308680",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso VERTUO Pop Red S GCV2-EURENE-S",
