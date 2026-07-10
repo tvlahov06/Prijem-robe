@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T10:01:32.586Z",
+  "azurirano": "2026-07-10T10:01:53.584Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -14,35 +14,6 @@
           "naziv": "PlayStation 5 Slim E chassis",
           "barkod": "711719020172",
           "ocekivano": 2,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4326-101",
-      "stavke": [
-        {
-          "naziv": "Kabel Samsung USB Type-C na USB Type-C (1,8m, 5A) crni",
-          "barkod": "8806094257540",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Punjac Samsung T6530 Trio 65W, 25W i 15W Fast Charge 2x USB-C i USB-A crni bez kabela",
-          "barkod": "8806092673885",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM ljubicasti",
-          "barkod": "8806099035341",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S26+ 5G 12/256GB crni",
-          "barkod": "8806097828358",
-          "ocekivano": 1,
           "skenirano": 0
         }
       ]
