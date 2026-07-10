@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T09:57:39.368Z",
+  "azurirano": "2026-07-10T09:57:59.145Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -64,83 +64,6 @@
         {
           "naziv": "Elektricni romobil Segway GT3 E Pro E",
           "barkod": "8721008535739",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4328-101",
-      "stavke": [
-        {
-          "naziv": "Apple AirPods 4 (USB-C)",
-          "barkod": "195949688591",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
-          "barkod": "195949689673",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Apple Watch Series 11 GPS 46mm Jet Black Aluminium Case with Black Sport Band - M/L",
-          "barkod": "195950631821",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Apple Watch Series 11 GPS 42mm Rose Gold Aluminium Case with Light Blush Sport Band - S/M",
-          "barkod": "195950619126",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Apple Watch SE 3 GPS 40mm Starlight Aluminium Case with Starlight Sport Band - S/M",
-          "barkod": "195950645644",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Apple Watch Series 11 GPS 42mm Jet Black Aluminium Case with Black Sport Band - S/M",
-          "barkod": "195950631371",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Apple Watch Series 11 GPS 46mm Rose Gold Aluminium Case with Light Blush Sport Band - M/L",
-          "barkod": "195950632125",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Lavender",
-          "barkod": "195950644135",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Black",
-          "barkod": "195950643534",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Mist Blue",
-          "barkod": "195950643930",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
-          "barkod": "195950627596",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Apple Watch Series 11 GPS 42mm Space Grey Aluminium Case with Black Sport Band - S/M",
-          "barkod": "195950631470",
           "ocekivano": 1,
           "skenirano": 1
         }
