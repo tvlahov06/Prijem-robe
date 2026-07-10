@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T09:37:03.289Z",
-  "azurirano": "2026-07-10T10:06:28.950Z",
+  "azurirano": "2026-07-10T10:06:34.836Z",
   "dokumenti": [
     {
       "naziv": "MSI 4445-101",
@@ -162,7 +162,7 @@
           "naziv": "Eksterni disk Seagate Expansion Portable 2TB",
           "barkod": "3660619040247",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 64GB microSDXC Canvas Go Plus Gen4 + ADP",
