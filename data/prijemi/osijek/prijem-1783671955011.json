@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T08:25:55.011Z",
-  "azurirano": "2026-07-10T10:28:16.680Z",
+  "azurirano": "2026-07-10T10:30:27.806Z",
   "dokumenti": [
     {
       "naziv": "MSI 4383-101",
@@ -74,7 +74,7 @@
           "naziv": "Aparat za kavu DeLonghi EC 890.GR Dedica Duo",
           "barkod": "8004399032538",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BCS711EXT Unlimited 7, crni",
@@ -86,7 +86,7 @@
           "naziv": "Aparat za kavu DeLonghi EC 685.BK Dedica Style",
           "barkod": "8004399331181",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Gorenje M500DCBK",
@@ -236,7 +236,7 @@
           "naziv": "Ledomat Tesla IM320WB",
           "barkod": "8606034703089",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mop elektricni Philips dodaci XV1892/02 sredstvo za ciscenje poda",
