@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T10:01:13.563Z",
+  "azurirano": "2026-07-10T10:01:32.586Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -15,17 +15,6 @@
           "barkod": "711719020172",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4324-101",
-      "stavke": [
-        {
-          "naziv": "Perilica rublja Gorenje WNS84A2TWIFI",
-          "barkod": "3838782858628",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
