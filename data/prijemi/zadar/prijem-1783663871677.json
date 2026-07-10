@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T06:11:11.677Z",
-  "azurirano": "2026-07-10T09:59:24.633Z",
+  "azurirano": "2026-07-10T09:59:41.679Z",
   "dokumenti": [
     {
       "naziv": "MSI 4246-101",
@@ -64,71 +64,6 @@
         {
           "naziv": "TV HISENSE 55A6S, 139.7cm (55\"), DLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351430447",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4418-101",
-      "stavke": [
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
-          "barkod": "6942103168239",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch Fit 5 Pro bijeli (Niki-B29FS)",
-          "barkod": "6942103189746",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
-          "barkod": "6942103168253",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch Fit 5 bijeli (Niki-B19F)",
-          "barkod": "6942103189692",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT 5 41mm White Leather Strap (Jana-B19L)",
-          "barkod": "6942103131967",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F)",
-          "barkod": "6942103189739",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch Fit 5 ljubicasti (Niki-B19F)",
-          "barkod": "6942103189708",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Green 46mm (Atum-B19W)",
-          "barkod": "6942103168178",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch Fit 5 Pro narancasti (Niki-B29W)",
-          "barkod": "6942103189753",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT 5 46mm Black (Vili-B19F)",
-          "barkod": "6942103132001",
           "ocekivano": 1,
           "skenirano": 1
         }
