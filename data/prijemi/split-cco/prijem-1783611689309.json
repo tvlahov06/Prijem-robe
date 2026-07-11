@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T18:35:18.457Z",
-  "azurirano": "2026-07-11T06:30:28.659Z",
+  "azurirano": "2026-07-11T06:42:35.128Z",
   "dokumenti": [
     {
       "naziv": "MSI 4440-101",
@@ -122,7 +122,7 @@
           "naziv": "V-200 TV nosac BOF TVM V-200",
           "barkod": "2010030072647",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "X-100 TV nosac BOF TVM X-100",
