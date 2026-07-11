@@ -5,7 +5,7 @@
   "datum": "2026-07-10",
   "status": "aktivan",
   "kreirano": "2026-07-10T18:35:18.457Z",
-  "azurirano": "2026-07-11T06:51:58.168Z",
+  "azurirano": "2026-07-11T06:52:05.869Z",
   "dokumenti": [
     {
       "naziv": "MSI 4440-101",
@@ -257,7 +257,7 @@
           "naziv": "Mis Logitech M100, zicani, bijeli",
           "barkod": "5099206106062",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech G502 X PLUS, LIGHTSPEED, LIGHTSYNC RGB, crni",
@@ -275,7 +275,7 @@
           "naziv": "Mis Logitech M190, crni",
           "barkod": "5099206091825",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech Lift Vertical Ergonomic, graphite",
