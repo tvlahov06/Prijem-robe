@@ -1,0 +1,273 @@
+{
+  "id": "prijem-1783964301307",
+  "poslovnica": "split-cco",
+  "naziv": "Roba u dolasku",
+  "datum": "2026-07-13",
+  "status": "aktivan",
+  "kreirano": "2026-07-13T17:38:21.307Z",
+  "azurirano": "2026-07-13T17:38:21.307Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 4488-101",
+      "stavke": [
+        {
+          "naziv": "Eksterni disk Seagate Expansion Portable 2TB",
+          "barkod": "3660619040247",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler microDuo 3C 64GB, USB GB 3.2, USB-A+C",
+          "barkod": "740617328219",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 650 CZ102AE Tri-color Ink Cartridge",
+          "barkod": "886112546052",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE450 bezicni pojacivac dometa, Dual Band GHz/5GHz, 10/100/1000 LAN prikljucak",
+          "barkod": "6935364092382",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MIS SBOX WM-993 Roza / Bezicni",
+          "barkod": "3858894503469",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348453",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
+          "barkod": "740617348408",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LENOVO 65W AC Adapter",
+          "barkod": "889955748140",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 256GB USB 3.2 Black-Orange",
+          "barkod": "740617348736",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lenovo Power Adapter Lenovo USB-C 65W AC Adapter",
+          "barkod": "191927887826",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA UV210, 64GB, USB2.0 GD",
+          "barkod": "4712366965850",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
+          "barkod": "4713218461940",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347944",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348507",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk ADATA Ex SSD SC730, R600/W600, 512GB, ACTI USB-A/C",
+          "barkod": "4711085948595",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toner HP 219A Black, W2190A",
+          "barkod": "195161016264",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toner HP 219A Yellow, W2192A",
+          "barkod": "195161016301",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toner HP 219A Cyan, W2191A",
+          "barkod": "195161016288",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
+          "barkod": "740617305302",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
+          "barkod": "4713218461933",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toner HP 135A crni",
+          "barkod": "194850587269",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk ADATA Ex HDD HD330, 2TB, usb3.0, plavi -CBL",
+          "barkod": "4713218465504",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis White Shark GM-5010 BAGDEMAGUS 7200dpi bijeli",
+          "barkod": "3858894502134",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-004112 SHINOBI-2 Crna - R-RED.SW Mehanicka / HR - RED SW.",
+          "barkod": "3858894506057",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR130, Zelena",
+          "barkod": "4711474835567",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark MIS GM-5018 CARADOC RGB/7200 dpi/Crni",
+          "barkod": "3858894507238",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "za mis BARACUDA BGMP-01 Stormbringer, 750x350 mm | XXL gaming podloga",
+          "barkod": "3858894505135",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4501-101",
+      "stavke": [
+        {
+          "naziv": "Usisavac Dyson V8 Absolute",
+          "barkod": "5025155090152",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za ravnanje kose Dyson Airstrait Ceramic Pink/Rose Gold",
+          "barkod": "5025155113080",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V16 Piston Animal",
+          "barkod": "5025155114834",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Prussian Blue/Rich Copper Straight+Wavy",
+          "barkod": "5025155117378",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V15s Detect Submarine",
+          "barkod": "5025155136218",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Velvet Red/Gold Straight+Wavy",
+          "barkod": "5025155112342",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
+          "barkod": "5025155131992",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Jasper Plum Straight+Wavy",
+          "barkod": "5025155112816",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
+          "barkod": "5025155112656",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907CP 900W",
+          "barkod": "8006447000087",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB505DG 500W",
+          "barkod": "8006447000070",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB606R 600W",
+          "barkod": "8006447001190",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907S 900W",
+          "barkod": "8006447002487",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
+          "barkod": "8006447002135",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NBP003W Portable bijeli",
+          "barkod": "8006447002098",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
