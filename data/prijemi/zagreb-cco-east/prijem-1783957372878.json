@@ -5,7 +5,7 @@
   "datum": "2026-07-13",
   "status": "aktivan",
   "kreirano": "2026-07-13T15:42:52.878Z",
-  "azurirano": "2026-07-13T19:33:14.403Z",
+  "azurirano": "2026-07-13T19:33:23.694Z",
   "dokumenti": [
     {
       "naziv": "MSI 4467-101",
@@ -376,7 +376,7 @@
           "naziv": "Usisavac Dyson V10 Absolute",
           "barkod": "5025155088081",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za ravnanje kose Dyson Airstrait Ceramic Pink/Rose Gold",
@@ -406,7 +406,7 @@
           "naziv": "Usisavac Dyson V15s Detect Submarine",
           "barkod": "5025155136218",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
