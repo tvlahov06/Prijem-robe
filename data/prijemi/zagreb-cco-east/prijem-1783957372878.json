@@ -5,7 +5,7 @@
   "datum": "2026-07-13",
   "status": "aktivan",
   "kreirano": "2026-07-13T15:42:52.878Z",
-  "azurirano": "2026-07-13T19:19:55.578Z",
+  "azurirano": "2026-07-13T19:20:52.178Z",
   "dokumenti": [
     {
       "naziv": "MSI 4467-101",
@@ -252,7 +252,7 @@
           "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/B",
           "barkod": "4548736157088",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony potpuno bezicne WF-C710N/W",
@@ -270,7 +270,7 @@
           "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/H",
           "barkod": "4548736157101",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Soundbar LG S20A",
