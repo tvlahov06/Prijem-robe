@@ -5,7 +5,7 @@
   "datum": "2026-07-13",
   "status": "aktivan",
   "kreirano": "2026-07-13T07:29:40.749Z",
-  "azurirano": "2026-07-13T08:02:54.828Z",
+  "azurirano": "2026-07-13T08:03:03.820Z",
   "dokumenti": [
     {
       "naziv": "MSI 4461-101",
@@ -235,7 +235,7 @@
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
           "barkod": "740617348408",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "LENOVO 65W AC Adapter",
@@ -265,7 +265,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
@@ -277,7 +277,7 @@
           "naziv": "Eksterni disk ADATA Ex SSD SC730, R600/W600, 512GB, ACTI USB-A/C",
           "barkod": "4711085948595",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toner HP 219A Black, W2190A",
@@ -307,7 +307,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
           "barkod": "4718050609642",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Mis Razer Basilisk V3, zicani, gaming, 26000DPI, RGB, crni 0-R3M1",
@@ -355,7 +355,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Baracuda TIPKOVNICA+MIS BGC-012 ORCA Bijela - Combo",
