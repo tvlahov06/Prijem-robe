@@ -5,7 +5,7 @@
   "datum": "2026-07-13",
   "status": "aktivan",
   "kreirano": "2026-07-13T07:29:40.749Z",
-  "azurirano": "2026-07-13T07:49:18.176Z",
+  "azurirano": "2026-07-13T07:49:24.850Z",
   "dokumenti": [
     {
       "naziv": "MSI 4461-101",
@@ -444,7 +444,7 @@
           "naziv": "Mis Logitech M100, zicani, bijeli",
           "barkod": "5099206106062",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Volan Logitech G923 Driving force + Shifter Logitech Driving Force",
@@ -468,7 +468,7 @@
           "naziv": "Mis Logitech M196, bijeli",
           "barkod": "5099206128323",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica LOGITECH K250 graphite",
