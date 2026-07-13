@@ -5,7 +5,7 @@
   "datum": "2026-07-13",
   "status": "aktivan",
   "kreirano": "2026-07-13T07:29:40.749Z",
-  "azurirano": "2026-07-13T08:02:43.176Z",
+  "azurirano": "2026-07-13T08:02:45.424Z",
   "dokumenti": [
     {
       "naziv": "MSI 4461-101",
@@ -199,7 +199,7 @@
           "naziv": "Eksterni disk Seagate Expansion Portable 2TB",
           "barkod": "3660619040247",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston DataTraveler microDuo 3C 64GB, USB GB 3.2, USB-A+C",
