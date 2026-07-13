@@ -5,7 +5,7 @@
   "datum": "2026-07-13",
   "status": "aktivan",
   "kreirano": "2026-07-13T07:29:40.749Z",
-  "azurirano": "2026-07-13T07:59:37.326Z",
+  "azurirano": "2026-07-13T07:59:47.411Z",
   "dokumenti": [
     {
       "naziv": "MSI 4461-101",
@@ -187,7 +187,7 @@
           "naziv": "USB STICK KINGSTON FD Exodia 64GB USB 3.2",
           "barkod": "740617309829",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "USB STICK KINGSTON FD Exodia 128GB USB 3.2",
@@ -325,7 +325,7 @@
           "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
           "barkod": "740617305302",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Tinta HP 302 Tri-color Original Ink Cartridge, F6U65AE",
