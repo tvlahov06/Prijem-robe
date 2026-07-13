@@ -5,7 +5,7 @@
   "datum": "2026-07-13",
   "status": "aktivan",
   "kreirano": "2026-07-13T07:29:40.749Z",
-  "azurirano": "2026-07-13T08:02:24.316Z",
+  "azurirano": "2026-07-13T08:02:29.085Z",
   "dokumenti": [
     {
       "naziv": "MSI 4461-101",
@@ -205,7 +205,7 @@
           "naziv": "USB STICK Kingston DataTraveler microDuo 3C 64GB, USB GB 3.2, USB-A+C",
           "barkod": "740617328219",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta HP 650 CZ102AE Tri-color Ink Cartridge",
@@ -307,7 +307,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
           "barkod": "4718050609642",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mis Razer Basilisk V3, zicani, gaming, 26000DPI, RGB, crni 0-R3M1",
