@@ -5,7 +5,7 @@
   "datum": "2026-07-13",
   "status": "aktivan",
   "kreirano": "2026-07-13T07:29:40.749Z",
-  "azurirano": "2026-07-13T08:03:43.481Z",
+  "azurirano": "2026-07-13T08:04:11.429Z",
   "dokumenti": [
     {
       "naziv": "MSI 4461-101",
@@ -498,7 +498,7 @@
           "naziv": "Tipkovnica Logitech G915 X LIGHTSPEED, gaming, LIGHTSYNC RGB, mehanicka-tactile, bezicna",
           "barkod": "5099206121669",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M90, zicani, sivi",
@@ -609,19 +609,19 @@
           "naziv": "TV SONY K50S25M2PB, 126 cm (50''), Bravia 2 II, 4K EI Google TV",
           "barkod": "4548736180383",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SONY K55S25M2PB, 139 cm (55''), Bravia 2 II, 4K EI Google TV",
           "barkod": "4548736180345",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SONY K65S25M2PB, 164 cm (65''), Bravia 2 II, 4K EI Google TV",
           "barkod": "4548736180307",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SONY K55XR75M2PB, 139 cm (55''), Bravia 7 II, TRUE CEI RGB",
