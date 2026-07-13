@@ -5,7 +5,7 @@
   "datum": "2026-07-13",
   "status": "aktivan",
   "kreirano": "2026-07-13T07:29:40.749Z",
-  "azurirano": "2026-07-13T08:01:26.991Z",
+  "azurirano": "2026-07-13T08:01:55.423Z",
   "dokumenti": [
     {
       "naziv": "MSI 4461-101",
@@ -355,7 +355,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Baracuda TIPKOVNICA+MIS BGC-012 ORCA Bijela - Combo",
@@ -415,13 +415,13 @@
           "naziv": "Tinta CANON",
           "barkod": "4549292192612",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta Canon CL-576 color",
           "barkod": "4549292192650",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta HP 304 Tri-color Ink Cartridge, N9K05AE - Instant Ink",
