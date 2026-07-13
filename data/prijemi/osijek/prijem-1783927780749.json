@@ -5,7 +5,7 @@
   "datum": "2026-07-13",
   "status": "aktivan",
   "kreirano": "2026-07-13T07:29:40.749Z",
-  "azurirano": "2026-07-13T08:02:18.373Z",
+  "azurirano": "2026-07-13T08:02:24.316Z",
   "dokumenti": [
     {
       "naziv": "MSI 4461-101",
@@ -193,7 +193,7 @@
           "naziv": "USB STICK KINGSTON FD Exodia 128GB USB 3.2",
           "barkod": "740617309928",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Eksterni disk Seagate Expansion Portable 2TB",
@@ -235,7 +235,7 @@
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
           "barkod": "740617348408",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "LENOVO 65W AC Adapter",
@@ -265,7 +265,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
@@ -307,7 +307,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
           "barkod": "4718050609642",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Razer Basilisk V3, zicani, gaming, 26000DPI, RGB, crni 0-R3M1",
