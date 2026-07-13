@@ -5,7 +5,7 @@
   "datum": "2026-07-13",
   "status": "aktivan",
   "kreirano": "2026-07-13T07:29:40.749Z",
-  "azurirano": "2026-07-13T07:57:36.865Z",
+  "azurirano": "2026-07-13T07:58:15.520Z",
   "dokumenti": [
     {
       "naziv": "MSI 4461-101",
@@ -638,19 +638,19 @@
           "naziv": "Pametni sat Garmin Venu 3 Black Slate",
           "barkod": "753759314743",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Fitness Garmin Vivoactive 5 Ivory Cream Gold bez remen",
           "barkod": "753759324919",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat GARMIN Forerunner 165 Music Black/Slate Grey, 010-02863-30",
           "barkod": "0753759326616",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
