@@ -5,7 +5,7 @@
   "datum": "2026-07-13",
   "status": "aktivan",
   "kreirano": "2026-07-13T17:38:21.307Z",
-  "azurirano": "2026-07-14T05:36:17.349Z",
+  "azurirano": "2026-07-14T05:36:26.316Z",
   "dokumenti": [
     {
       "naziv": "MSI 4488-101",
@@ -110,7 +110,7 @@
           "naziv": "Toner HP 219A Yellow, W2192A",
           "barkod": "195161016301",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toner HP 219A Cyan, W2191A",
