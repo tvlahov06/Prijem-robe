@@ -5,7 +5,7 @@
   "datum": "2026-07-15",
   "status": "aktivan",
   "kreirano": "2026-07-15T09:14:50.946Z",
-  "azurirano": "2026-07-15T09:27:57.768Z",
+  "azurirano": "2026-07-15T09:28:37.406Z",
   "dokumenti": [
     {
       "naziv": "MSI 4495-101",
@@ -15,47 +15,6 @@
           "barkod": "194850587269",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4503-101",
-      "stavke": [
-        {
-          "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
-          "barkod": "6926597761725",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Klima uredaj 3,4 kW Hisense CA35LR03G/AS35LR03W 35LR03W",
-          "barkod": "6926597761732",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Klima uredaj 5,0 kW Hisense CA50XS1GG/AS50XS1GW 50XS1GW",
-          "barkod": "6926597759616",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Dyson ventilator, grije i hladi, Hot + Cool HF1",
-          "barkod": "5025155111918",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Ventilator ELIT",
-          "barkod": "3875001741255",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Klima uredaj 3,2kW Haier Active",
-          "barkod": "6932063807491",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
