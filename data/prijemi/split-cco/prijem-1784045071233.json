@@ -5,7 +5,7 @@
   "datum": "2026-07-15",
   "status": "aktivan",
   "kreirano": "2026-07-15T19:21:57.332Z",
-  "azurirano": "2026-07-15T19:52:35.423Z",
+  "azurirano": "2026-07-15T19:52:53.699Z",
   "dokumenti": [
     {
       "naziv": "MSI 4501-101",
@@ -681,7 +681,7 @@
           "naziv": "Parna postaja Philips PSG7300/80",
           "barkod": "8720389058332",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Philips PSG8200/70",
@@ -771,7 +771,7 @@
           "naziv": "Parna postaja Philips PSG8300/20",
           "barkod": "8720389066498",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9331/09",
