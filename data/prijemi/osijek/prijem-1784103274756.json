@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "dradar",
   "datum": "2026-07-15",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-15T08:14:34.756Z",
-  "azurirano": "2026-07-15T08:21:55.908Z",
+  "azurirano": "2026-07-15T09:18:51.981Z",
   "dokumenti": [
     {
       "naziv": "dradar",
@@ -144,5 +144,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-15T09:18:51.980Z"
 }
