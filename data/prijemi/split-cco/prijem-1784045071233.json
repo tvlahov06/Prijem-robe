@@ -5,7 +5,7 @@
   "datum": "2026-07-15",
   "status": "aktivan",
   "kreirano": "2026-07-15T19:21:57.332Z",
-  "azurirano": "2026-07-15T20:14:07.102Z",
+  "azurirano": "2026-07-15T20:14:23.763Z",
   "dokumenti": [
     {
       "naziv": "MSI 4501-101",
@@ -812,13 +812,13 @@
           "naziv": "Osvjezivac odjece Russell Hobbs 28550-56 Blue, Steam Genie VacuSteam",
           "barkod": "5038061176247",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST3031/20",
           "barkod": "8720389003066",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3020/10",
