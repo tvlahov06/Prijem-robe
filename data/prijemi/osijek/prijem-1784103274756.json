@@ -1,0 +1,148 @@
+{
+  "id": "prijem-1784103274756",
+  "poslovnica": "osijek",
+  "naziv": "dradar",
+  "datum": "2026-07-15",
+  "status": "aktivan",
+  "kreirano": "2026-07-15T08:14:34.756Z",
+  "azurirano": "2026-07-15T08:14:34.756Z",
+  "dokumenti": [
+    {
+      "naziv": "dradar",
+      "stavke": [
+        {
+          "naziv": "MAXPOWER prod. kabel GC03KU-SP 3m USB 2X",
+          "barkod": "3858892515365",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MAXPOWER prod. kabel HS-DB GB05K 5m",
+          "barkod": "3858887212095",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maxpower prod.kabel HS-DB 03K 1,5m",
+          "barkod": "3858887212323",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maxpower prod.kabel HS-DB 04K 1,5m",
+          "barkod": "3858887212101",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maxpower produzni kabel FRGKD06 5m, prenaponska zastita",
+          "barkod": "3858887212316",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maxpower produzni kabel HS-DB 03K 3m",
+          "barkod": "3858887212330",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maxpower produzni kabel HS-DB 05K 3m",
+          "barkod": "3858887212088",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MAXPOWER produzni kabel HS-DB GB03K 5m",
+          "barkod": "3858887212347",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maxpower T utikac SQ-GZB01/03T",
+          "barkod": "3858890432183",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Hammer Boost 2 LTE, crno-narancasti",
+          "barkod": "5902983634669",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Produzni kabel First Rate FRGKD04 1,5m, prenaponska zastita",
+          "barkod": "3858887212026",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Produzni kabel First Rate FRGKD05 1,5m, prenaponska zastita",
+          "barkod": "3858887212057",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Produzni kabel First Rate FRGKD05 3m, prenaponska zastita",
+          "barkod": "3858887212064",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Produzni kabel First Rate FRGKD06 3m, prenaponska zastita",
+          "barkod": "3858887212309",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sigurnosna kamera Superior iCM004 WiFi vanjska",
+          "barkod": "8054242081480",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Solarni panel Superior SUPPSW001 za Wifi Pametne vanjske kamere",
+          "barkod": "8054242081497",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SUPERIOR Wifi Pametna motorizirana vanjska kamera \"Security iCM003\"",
+          "barkod": "8054242081381",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SUPERIOR Wifi Pametna vanjska kamera \"Security iCM002\"",
+          "barkod": "8054242081022",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Telefon MOTOROLA DECT C1001LB+ crni",
+          "barkod": "5055374794203",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Telefon MOTOROLA DECT C1001LB+ tamno crvena",
+          "barkod": "5055374701003",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Telefon MOTOROLA DECT S12 SINGLE NEGRO crni",
+          "barkod": "5055374797389",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maxpower produzni kabel HS-DB 05K 1.5m",
+          "barkod": "3858887212378",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
