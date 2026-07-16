@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T15:23:50.141Z",
-  "azurirano": "2026-07-16T19:12:59.709Z",
+  "azurirano": "2026-07-16T19:13:20.853Z",
   "dokumenti": [
     {
       "naziv": "MSI 4617-101",
@@ -454,19 +454,19 @@
           "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB192W, 40.6cm SV0 (16\") IPS WUXGA, Intel Core Ultra 7 255H, 16 GB RAM,",
           "barkod": "4711636621410",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB058, 40.6cm (16\") ST0 IPS WUXGA, Intel Core Ultra 5 225H, 16 GB RAM, 512 GB",
           "barkod": "4711636621427",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB110W, 40.6cm SU0 (16\") IPS WUXGA, Intel Core Ultra 5 225H, 16 GB RAM,",
           "barkod": "4711636621434",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB120, 40.6cm (16\") RE0 IPS WUXGA, Intel Core Ultra 7 255H, 16 GB RAM, 512 GB",
@@ -526,7 +526,7 @@
           "naziv": "Laptop HP 255R G10 CV4Q5ET, 39.6cm (15.6\") IPS Full HD, AMD Ryzen7 7735U, 16 GB RAM, 1 TB SSD, AMD",
           "barkod": "199764603715",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP 250R G10 D13J5ET, 39.6cm (15.6\") Full HD, Intel Core 5-120U, 16 GB RAM, 512 GB SSD, Intel",
