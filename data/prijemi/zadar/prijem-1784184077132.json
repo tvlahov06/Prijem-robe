@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:41:17.132Z",
-  "azurirano": "2026-07-16T07:31:59.915Z",
+  "azurirano": "2026-07-16T07:32:05.909Z",
   "dokumenti": [
     {
       "naziv": "MSI 4532-101",
@@ -884,13 +884,13 @@
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/512GB crni",
           "barkod": "8806097827405",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26+ 5G 12/256GB crni",
           "barkod": "8806097828358",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Fold7 5G 12GB/256GB crni",
