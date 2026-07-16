@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:20:48.855Z",
-  "azurirano": "2026-07-16T08:52:25.957Z",
+  "azurirano": "2026-07-16T08:52:40.802Z",
   "dokumenti": [
     {
       "naziv": "MSI 4540-101",
@@ -759,13 +759,13 @@
           "naziv": "Osvjezivac odjece Philips STH5020/20",
           "barkod": "8720389043772",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/40",
           "barkod": "8720389050084",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Osvjezivac odjece Philips STH7030/10",
@@ -861,7 +861,7 @@
           "naziv": "Filter za vodu za aparat za kavu DeLonghi DLSC002",
           "barkod": "8004399327252",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Aparat za kavu Philips EP4449/70 espresso",
@@ -879,13 +879,13 @@
           "naziv": "Osvjezivac odjece Philips STH3020/10",
           "barkod": "8710103970934",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3020/70",
           "barkod": "8720389037542",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mikser rucni Bosch MFQ40301 Styline Colour vanilija/srebrna",
