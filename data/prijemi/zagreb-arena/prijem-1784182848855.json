@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:20:48.855Z",
-  "azurirano": "2026-07-16T09:01:49.584Z",
+  "azurirano": "2026-07-16T09:03:09.833Z",
   "dokumenti": [
     {
       "naziv": "MSI 4540-101",
@@ -157,7 +157,7 @@
           "naziv": "Tus za zube Philips Sonicare HX3826/31 Power Flosser Cordless white",
           "barkod": "8720689011037",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Stilizator za kosu Babyliss Air Wand AS6550E",
@@ -199,7 +199,7 @@
           "naziv": "Brijac za glavu Remington XR1500",
           "barkod": "5038061106022",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Philips BHA710/00",
@@ -211,13 +211,13 @@
           "naziv": "Cetkica za zube OralB iO6 BLACK ONYX",
           "barkod": "4210201409199",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za tijelo 8U1 Philips MG3940/15",
           "barkod": "8720689026611",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Babyliss 2165CE cik cak",
@@ -229,19 +229,19 @@
           "naziv": "Brijaci aparat Braun 5 52-N1200S",
           "barkod": "8700216645522",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Braun 3 300BLK",
           "barkod": "4210201163305",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epilator Braun SES9-030",
           "barkod": "8700216963657",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
