@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T15:23:50.141Z",
-  "azurirano": "2026-07-16T19:44:58.269Z",
+  "azurirano": "2026-07-16T19:45:06.803Z",
   "dokumenti": [
     {
       "naziv": "MSI 4617-101",
@@ -633,7 +633,7 @@
           "naziv": "Parna postaja Philips PSG7300/80",
           "barkod": "8720389058332",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8200/70",
