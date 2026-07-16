@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:41:17.132Z",
-  "azurirano": "2026-07-16T07:07:40.319Z",
+  "azurirano": "2026-07-16T07:07:45.380Z",
   "dokumenti": [
     {
       "naziv": "MSI 4532-101",
@@ -211,7 +211,7 @@
           "naziv": "Blender Bosch MMB6172S VitaPower Serie 4",
           "barkod": "4242005215980",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6903/22 filter za vodu 2 kom",
@@ -385,7 +385,7 @@
           "naziv": "Blender Bosch MMB6174S VitaPower Serie 4",
           "barkod": "4242005215997",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
