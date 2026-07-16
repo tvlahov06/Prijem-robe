@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:20:48.855Z",
-  "azurirano": "2026-07-16T07:47:49.845Z",
+  "azurirano": "2026-07-16T07:47:53.880Z",
   "dokumenti": [
     {
       "naziv": "MSI 4540-101",
@@ -729,7 +729,7 @@
           "naziv": "Parna postaja Philips PSG7300/80",
           "barkod": "8720389058332",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8200/70",
@@ -813,7 +813,7 @@
           "naziv": "Parna postaja Philips PSG6064/80",
           "barkod": "8720389004872",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8300/20",
