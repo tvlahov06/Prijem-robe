@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:20:48.855Z",
-  "azurirano": "2026-07-16T08:20:35.441Z",
+  "azurirano": "2026-07-16T08:21:18.033Z",
   "dokumenti": [
     {
       "naziv": "MSI 4540-101",
@@ -687,7 +687,7 @@
           "naziv": "Toster preklopni Gorenje SM701SB",
           "barkod": "3838782767197",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6903/10 filter za vodu",
@@ -783,7 +783,7 @@
           "naziv": "Parna postaja Philips GC7844/20",
           "barkod": "8710103951049",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP3326/90 espresso",
@@ -813,7 +813,7 @@
           "naziv": "Parna postaja Philips PSG6064/80",
           "barkod": "8720389004872",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Philips PSG8300/20",
