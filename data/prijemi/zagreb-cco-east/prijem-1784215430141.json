@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T15:23:50.141Z",
-  "azurirano": "2026-07-16T19:26:20.764Z",
+  "azurirano": "2026-07-16T19:26:37.344Z",
   "dokumenti": [
     {
       "naziv": "MSI 4617-101",
@@ -478,13 +478,13 @@
           "naziv": "Epson EcoTank L3270 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
           "barkod": "8715946727097",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CANON Pixma TS3750i Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Cloud, A4",
           "barkod": "4549292234107",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO ThinkBook 16 G7 21MW0087SC, 40.6cm (16\") IPS WUXGA, AMD Ryzen 7 7735HS, 32 GB RAM, 1 TB",
@@ -508,7 +508,7 @@
           "naziv": "HP DeskJet 4320 All-in-One (A24HMB) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Wi-Fi, USB, A4 - Instant",
           "barkod": "198701680277",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP DeskJet 2920 All-in-One (89F97B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
