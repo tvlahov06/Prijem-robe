@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:20:48.855Z",
-  "azurirano": "2026-07-16T07:15:35.308Z",
+  "azurirano": "2026-07-16T07:15:40.511Z",
   "dokumenti": [
     {
       "naziv": "MSI 4540-101",
@@ -1028,7 +1028,7 @@
           "naziv": "Blender Bosch MMB6762M VitaPower Serie 6",
           "barkod": "4242005395170",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Gorenje K17GED",
