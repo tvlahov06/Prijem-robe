@@ -5,7 +5,7 @@
   "datum": "2026-07-15",
   "status": "aktivan",
   "kreirano": "2026-07-15T09:14:50.946Z",
-  "azurirano": "2026-07-16T10:08:45.699Z",
+  "azurirano": "2026-07-16T10:09:00.525Z",
   "dokumenti": [
     {
       "naziv": "MSI 4512-101",
@@ -181,7 +181,7 @@
           "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
           "barkod": "194850664199",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epson EcoTank L3270 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
