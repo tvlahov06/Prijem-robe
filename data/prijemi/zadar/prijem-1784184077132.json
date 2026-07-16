@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:41:17.132Z",
-  "azurirano": "2026-07-16T08:09:17.068Z",
+  "azurirano": "2026-07-16T08:09:37.989Z",
   "dokumenti": [
     {
       "naziv": "MSI 4532-101",
@@ -606,53 +606,6 @@
           "barkod": "195908302667",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4531-101",
-      "stavke": [
-        {
-          "naziv": "Blender Nutribullet NBP013BL Portable Flex safirno plava",
-          "barkod": "8006447004511",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NBP013GM Portable Flex metalna crna",
-          "barkod": "8006447004528",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NBP013GR Portable Flex sumska zelena",
-          "barkod": "8006447004504",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NBP013OR Portable Flex mandarina narancasta",
-          "barkod": "8006447004498",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NBP013VT Portable Flex orhideja ljubicasta",
-          "barkod": "8006447004481",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NBP013W Portable Flex bijela",
-          "barkod": "8006447004535",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NBP213PA-MC Portable Flex McLaren F1 Team papaya",
-          "barkod": "8006447005228",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     }
