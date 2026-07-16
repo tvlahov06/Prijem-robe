@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:20:48.855Z",
-  "azurirano": "2026-07-16T07:15:15.366Z",
+  "azurirano": "2026-07-16T07:15:20.730Z",
   "dokumenti": [
     {
       "naziv": "MSI 4540-101",
@@ -944,7 +944,7 @@
           "naziv": "Usisavac Electrolux EB51C1OG",
           "barkod": "7333394021379",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Nespresso INISSIA Black D40-EUBKNE5-S",
@@ -1022,7 +1022,7 @@
           "naziv": "Friteza na vruci zrak Philips HD9880/90 Airfryer XXL",
           "barkod": "8720389015373",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Bosch MMB6762M VitaPower Serie 6",
