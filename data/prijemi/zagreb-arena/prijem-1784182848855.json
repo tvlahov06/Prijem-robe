@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:20:48.855Z",
-  "azurirano": "2026-07-16T08:51:16.683Z",
+  "azurirano": "2026-07-16T08:51:29.266Z",
   "dokumenti": [
     {
       "naziv": "MSI 4540-101",
@@ -705,7 +705,7 @@
           "naziv": "Vrecice za usisavac Philips FC8022/04 sinteticke, S-BAG, 4kom, antialergijska filtracija",
           "barkod": "8710103445692",
           "ocekivano": 10,
-          "skenirano": 5
+          "skenirano": 10
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6700/91 dekalcifikator za uklanjanje kamenca",
@@ -753,13 +753,13 @@
           "naziv": "Osvjezivac odjece Philips STH5010/70",
           "barkod": "8720389043819",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/20",
           "barkod": "8720389043772",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/40",
@@ -771,7 +771,7 @@
           "naziv": "Osvjezivac odjece Philips STH7030/10",
           "barkod": "8720389007453",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
@@ -879,7 +879,7 @@
           "naziv": "Osvjezivac odjece Philips STH3020/10",
           "barkod": "8710103970934",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3020/70",
