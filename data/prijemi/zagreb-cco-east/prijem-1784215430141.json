@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T15:23:50.141Z",
-  "azurirano": "2026-07-16T19:09:41.632Z",
+  "azurirano": "2026-07-16T19:09:47.938Z",
   "dokumenti": [
     {
       "naziv": "MSI 4617-101",
@@ -1060,13 +1060,13 @@
           "naziv": "Mobitel Apple iPhone 17 256GB Sage",
           "barkod": "195950644333",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 256GB Lavender",
           "barkod": "195950644135",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 256GB Mist Blue",
