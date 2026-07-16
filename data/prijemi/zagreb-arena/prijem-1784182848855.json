@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:20:48.855Z",
-  "azurirano": "2026-07-16T09:17:03.681Z",
+  "azurirano": "2026-07-16T09:17:14.181Z",
   "dokumenti": [
     {
       "naziv": "MSI 4540-101",
@@ -264,7 +264,7 @@
           "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB058, 40.6cm (16\") ST0 IPS WUXGA, Intel Core Ultra 5 225H, 16 GB RAM, 512 GB",
           "barkod": "4711636621427",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB110W, 40.6cm SU0 (16\") IPS WUXGA, Intel Core Ultra 5 225H, 16 GB RAM,",
@@ -276,13 +276,13 @@
           "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB120, 40.6cm (16\") RE0 IPS WUXGA, Intel Core Ultra 7 255H, 16 GB RAM, 512 GB",
           "barkod": "4711636611954",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop HP 15-fc0277nm CZ9C6EA, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD",
           "barkod": "0199764771070",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
@@ -360,7 +360,7 @@
           "naziv": "Laptop ACER Nitro V 15 NH.QV2EX.006, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 7 240H, 16 GB RAM, 1 TB",
           "barkod": "4711474444752",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Apple Macbook Neo Indigo, mhff4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
