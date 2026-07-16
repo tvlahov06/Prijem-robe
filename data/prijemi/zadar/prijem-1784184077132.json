@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:41:17.132Z",
-  "azurirano": "2026-07-16T07:07:45.380Z",
+  "azurirano": "2026-07-16T07:08:05.689Z",
   "dokumenti": [
     {
       "naziv": "MSI 4532-101",
@@ -325,7 +325,7 @@
           "naziv": "Parna postaja Philips GC7844/20",
           "barkod": "8710103951049",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP3326/90 espresso",
