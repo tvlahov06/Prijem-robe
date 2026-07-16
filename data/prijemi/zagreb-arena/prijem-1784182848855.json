@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:20:48.855Z",
-  "azurirano": "2026-07-16T09:16:31.987Z",
+  "azurirano": "2026-07-16T09:16:44.450Z",
   "dokumenti": [
     {
       "naziv": "MSI 4540-101",
@@ -252,13 +252,13 @@
           "naziv": "Laptop ACER Aspire Lite 15 NX.DJWEX.001, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
           "barkod": "4711474693945",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 4
         },
         {
           "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB192W, 40.6cm SV0 (16\") IPS WUXGA, Intel Core Ultra 7 255H, 16 GB RAM,",
           "barkod": "4711636621410",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB058, 40.6cm (16\") ST0 IPS WUXGA, Intel Core Ultra 5 225H, 16 GB RAM, 512 GB",
@@ -294,7 +294,7 @@
           "naziv": "Laptop LENOVO Yoga 7 2-in-1 83JR008ASC, 35.6cm (14\") OLED WUXGA Touch, AMD Ryzen AI 7 350, 32 GB RAM, 1",
           "barkod": "199272023241",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Epson EcoTank L3270 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
@@ -354,7 +354,7 @@
           "naziv": "Laptop ACER Nitro V 15 NH.QZ8EX.01K, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 9 270H, 32 GB RAM, 1 TB",
           "barkod": "4711474900814",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Nitro V 15 NH.QV2EX.006, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 7 240H, 16 GB RAM, 1 TB",
