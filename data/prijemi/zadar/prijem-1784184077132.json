@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:41:17.132Z",
-  "azurirano": "2026-07-16T08:09:37.989Z",
+  "azurirano": "2026-07-16T08:10:20.349Z",
   "dokumenti": [
     {
       "naziv": "MSI 4532-101",
@@ -535,77 +535,6 @@
           "barkod": "5949106281027",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4535-101",
-      "stavke": [
-        {
-          "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB192W, 40.6cm SV0 (16\") IPS WUXGA, Intel Core Ultra 7 255H, 16 GB RAM,",
-          "barkod": "4711636621410",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB058, 40.6cm (16\") ST0 IPS WUXGA, Intel Core Ultra 5 225H, 16 GB RAM, 512 GB",
-          "barkod": "4711636621427",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB110W, 40.6cm SU0 (16\") IPS WUXGA, Intel Core Ultra 5 225H, 16 GB RAM,",
-          "barkod": "4711636621434",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB120, 40.6cm (16\") RE0 IPS WUXGA, Intel Core Ultra 7 255H, 16 GB RAM, 512 GB",
-          "barkod": "4711636611954",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP DeskJet 2921 All-in-One (A24HWB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "0198828789822",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ACER Aspire Lite 15 NX.DJWEX.001, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711474693945",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Epson EcoTank L3270 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
-          "barkod": "8715946727097",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 4320 All-in-One (A24HMB) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Wi-Fi, USB, A4 - Instant",
-          "barkod": "198701680277",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP OfficeJet Pro 8122e All-in-One (405U3B) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Duplex, Wi-Fi, LAN, USB,",
-          "barkod": "196337163881",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP Smart Tank 720 All-in-One (6UU46A) Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
-          "barkod": "195908302995",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP Smart Tank 675 All-in-One (28C12A) Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
-          "barkod": "195908302667",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     }
