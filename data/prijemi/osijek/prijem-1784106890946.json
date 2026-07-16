@@ -5,7 +5,7 @@
   "datum": "2026-07-15",
   "status": "aktivan",
   "kreirano": "2026-07-15T09:14:50.946Z",
-  "azurirano": "2026-07-16T10:30:24.185Z",
+  "azurirano": "2026-07-16T10:34:56.149Z",
   "dokumenti": [
     {
       "naziv": "MSI 4512-101",
@@ -603,7 +603,7 @@
           "naziv": "Usisavac Philips XC8057/01 Aqua Plus",
           "barkod": "8720389022449",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Bosch MMB6174S VitaPower Serie 4",
