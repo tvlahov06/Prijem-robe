@@ -5,7 +5,7 @@
   "datum": "2026-07-15",
   "status": "aktivan",
   "kreirano": "2026-07-15T09:14:50.946Z",
-  "azurirano": "2026-07-16T09:37:34.765Z",
+  "azurirano": "2026-07-16T09:37:53.146Z",
   "dokumenti": [
     {
       "naziv": "MSI 4512-101",
@@ -644,7 +644,7 @@
           "naziv": "Glacalo Philips DST5030/20",
           "barkod": "8710103968160",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3020/10",
