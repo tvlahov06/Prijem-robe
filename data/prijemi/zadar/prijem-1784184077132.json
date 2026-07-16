@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:41:17.132Z",
-  "azurirano": "2026-07-16T07:40:25.423Z",
+  "azurirano": "2026-07-16T07:40:33.919Z",
   "dokumenti": [
     {
       "naziv": "MSI 4532-101",
@@ -420,19 +420,19 @@
           "naziv": "Need for Speed Heat PS4 B24",
           "barkod": "5035225122478",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Gran Turismo 7 Standard Edition PS5 C31",
           "barkod": "711719766391",
           "ocekivano": 6,
-          "skenirano": 5
+          "skenirano": 6
         },
         {
           "naziv": "GTA Trilogy PS4 B38",
           "barkod": "5026555430807",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "It Takes Two Switch A37",
@@ -492,7 +492,7 @@
           "naziv": "NBA 2K26 Standard Edition PS5",
           "barkod": "5026555439282",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PlayStation 5 Slim E chassis",
@@ -522,7 +522,7 @@
           "naziv": "Red Dead Redemption HD PS5",
           "barkod": "5026555439435",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tomodachi Life Switch",
