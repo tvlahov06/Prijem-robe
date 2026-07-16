@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "15072026 - roba",
   "datum": "2026-07-15",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-15T09:14:50.946Z",
-  "azurirano": "2026-07-16T11:16:16.564Z",
+  "azurirano": "2026-07-16T11:16:39.527Z",
   "dokumenti": [
     {
       "naziv": "MSI 4512-101",
@@ -840,5 +840,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-16T11:16:39.527Z"
 }
