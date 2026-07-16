@@ -2,10 +2,10 @@
   "id": "prijem-1784045071233",
   "poslovnica": "split-cco",
   "naziv": "",
-  "datum": "2026-07-15",
+  "datum": "2026-07-16",
   "status": "aktivan",
-  "kreirano": "2026-07-15T19:21:57.332Z",
-  "azurirano": "2026-07-16T11:39:19.653Z",
+  "kreirano": "2026-07-16T11:39:29.687Z",
+  "azurirano": "2026-07-16T11:39:29.687Z",
   "dokumenti": [
     {
       "naziv": "MSI 4587-101",
@@ -43,6 +43,146 @@
         {
           "naziv": "Perilica rublja Gorenje WPNA84A2TSWIFI IFI",
           "barkod": "3838782858611",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4606-101",
+      "stavke": [
+        {
+          "naziv": "TV PHILIPS 55PUS7000, 139.7cm (55\"), LED, UHD 4K Smart TV, Titan OS",
+          "barkod": "8718863046111",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4607-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB Black",
+          "barkod": "195950643534",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB White",
+          "barkod": "195950643732",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Air Silver, mdh74cr/a, /M5/16GB/512GB-CRO",
+          "barkod": "195950687217",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4608-101",
+      "stavke": [
+        {
+          "naziv": "Film za Fujifilm Instax Mini - 2 paketa",
+          "barkod": "4547410364866",
+          "ocekivano": 40,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4609-101",
+      "stavke": [
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 crni",
+          "barkod": "1200130019272",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX EB-TWS-101, bijela boja | True Wireless slusalice",
+          "barkod": "3858894502547",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice HyperX Cloud III Red Black",
+          "barkod": "197029008237",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice JBL TUNE 110E bijele",
+          "barkod": "1200130022739",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 520BT ljubicaste",
+          "barkod": "6925281964756",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne JBL VIBE FLEX 2 crna",
+          "barkod": "1200130015212",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GO ESSENTIAL 2 plavi",
+          "barkod": "1200130018596",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
+          "barkod": "1200130026294",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Samsung",
+          "barkod": "8806097091998",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne JBL Tune 135 crna",
+          "barkod": "1200130026003",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX EB-TWS-101, crna boja | True Wireless slusalice",
+          "barkod": "3858894502530",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice zicane JBL TUNE 305C USB-C plave",
+          "barkod": "1200130013911",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-CH720N/W",
+          "barkod": "4548736147843",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke 7 WH-CH720N/P",
+          "barkod": "4548736166554",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke 7 WH-CH720N/L",
+          "barkod": "4548736143012",
           "ocekivano": 2,
           "skenirano": 0
         }
