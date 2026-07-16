@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T06:20:48.855Z",
-  "azurirano": "2026-07-16T08:37:21.895Z",
+  "azurirano": "2026-07-16T08:37:31.735Z",
   "dokumenti": [
     {
       "naziv": "MSI 4540-101",
@@ -926,7 +926,7 @@
           "naziv": "Usisavac Philips XB2122/09",
           "barkod": "8710103925279",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XC8055/01 Aqua Plus",
@@ -1004,13 +1004,13 @@
           "naziv": "Friteza na vruci zrak Bosch MAF671B1 Airfryer",
           "barkod": "4242005525997",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Bosch MUM5XW40 MUM5 CreationLine",
           "barkod": "4242005185214",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Gorenje MMC1500PS",
@@ -1064,7 +1064,7 @@
           "naziv": "Usisavac Philips XC5141/01",
           "barkod": "8720389035715",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Electrolux EL61C3DB",
