@@ -5,7 +5,7 @@
   "datum": "2026-07-15",
   "status": "aktivan",
   "kreirano": "2026-07-15T09:14:50.946Z",
-  "azurirano": "2026-07-16T09:27:17.375Z",
+  "azurirano": "2026-07-16T09:27:35.791Z",
   "dokumenti": [
     {
       "naziv": "MSI 4512-101",
@@ -632,7 +632,7 @@
           "naziv": "Usisavac Bosch BCS1051POW Unlimited 10 ProPower, crni",
           "barkod": "4242005468348",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "robot iRobot Roomba Combo Plus 505 + AutoWash dock white",
