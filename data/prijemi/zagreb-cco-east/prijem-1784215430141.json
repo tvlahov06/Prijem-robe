@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T15:23:50.141Z",
-  "azurirano": "2026-07-16T19:33:12.942Z",
+  "azurirano": "2026-07-16T19:33:20.051Z",
   "dokumenti": [
     {
       "naziv": "MSI 4617-101",
@@ -841,7 +841,7 @@
           "naziv": "Usisavac Gorenje VCEA02GALWCY*",
           "barkod": "3838782151637",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za izradu tjestenine Philips HR2665/96",
