@@ -5,7 +5,7 @@
   "datum": "2026-07-15",
   "status": "aktivan",
   "kreirano": "2026-07-15T09:14:50.946Z",
-  "azurirano": "2026-07-16T09:37:27.783Z",
+  "azurirano": "2026-07-16T09:37:31.611Z",
   "dokumenti": [
     {
       "naziv": "MSI 4512-101",
@@ -650,7 +650,7 @@
           "naziv": "Osvjezivac odjece Philips STH3020/10",
           "barkod": "8710103970934",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3020/70",
