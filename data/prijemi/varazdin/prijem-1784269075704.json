@@ -5,7 +5,7 @@
   "datum": "2026-07-17",
   "status": "aktivan",
   "kreirano": "2026-07-17T06:17:55.704Z",
-  "azurirano": "2026-07-17T10:26:02.096Z",
+  "azurirano": "2026-07-17T10:26:18.369Z",
   "dokumenti": [
     {
       "naziv": "MSI 4595-101",
@@ -51,41 +51,6 @@
           "barkod": "3838782858611",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4499-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac Dyson V10 Absolute",
-          "barkod": "5025155088081",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Prussian Blue/Rich Copper Straight+Wavy",
-          "barkod": "5025155117378",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac Dyson V15s Detect Submarine",
-          "barkod": "5025155136218",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac robot Dyson Spot+Scrub Ai Black/Blue",
-          "barkod": "5025155121962",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB907CP 900W",
-          "barkod": "8006447000087",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
