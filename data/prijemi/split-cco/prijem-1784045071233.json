@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T11:39:29.687Z",
-  "azurirano": "2026-07-17T06:04:52.122Z",
+  "azurirano": "2026-07-17T06:05:08.263Z",
   "dokumenti": [
     {
       "naziv": "MSI 4587-101",
@@ -66,13 +66,13 @@
           "naziv": "Mobitel Apple iPhone 17 256GB Black",
           "barkod": "195950643534",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 256GB White",
           "barkod": "195950643732",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop Apple Macbook Air Silver, mdh74cr/a, /M5/16GB/512GB-CRO",
