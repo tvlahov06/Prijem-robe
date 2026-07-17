@@ -5,7 +5,7 @@
   "datum": "2026-07-17",
   "status": "aktivan",
   "kreirano": "2026-07-17T06:17:55.704Z",
-  "azurirano": "2026-07-17T10:27:25.386Z",
+  "azurirano": "2026-07-17T10:27:40.472Z",
   "dokumenti": [
     {
       "naziv": "MSI 4595-101",
@@ -49,47 +49,6 @@
         {
           "naziv": "Perilica rublja Gorenje WPNA84A2TSWIFI IFI",
           "barkod": "3838782858611",
-          "ocekivano": 2,
-          "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4555-101",
-      "stavke": [
-        {
-          "naziv": "Stilizator za kosu Babyliss Air Wand AS6550E",
-          "barkod": "3030050190731",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "IPL depilator Philips BRI977/00 Lumea",
-          "barkod": "8720689005944",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Susilo za kosu Babyliss D6555DE Air Power Pro",
-          "barkod": "3030050191912",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Susilo za kosu Philips BHD839/00",
-          "barkod": "8720689032384",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pegla za kosu + susilo Remington 2u1 AS8930E51 AIRviveTM Air Styler",
-          "barkod": "5038061174700",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Susilo za kosu Babyliss D215DE 2000W DC motor",
-          "barkod": "3030050185867",
           "ocekivano": 2,
           "skenirano": 2
         }
