@@ -5,7 +5,7 @@
   "datum": "2026-07-16",
   "status": "aktivan",
   "kreirano": "2026-07-16T11:39:29.687Z",
-  "azurirano": "2026-07-17T06:06:27.102Z",
+  "azurirano": "2026-07-17T06:06:35.567Z",
   "dokumenti": [
     {
       "naziv": "MSI 4587-101",
@@ -100,7 +100,7 @@
           "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 crni",
           "barkod": "1200130019272",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX EB-TWS-101, bijela boja | True Wireless slusalice",
@@ -130,13 +130,13 @@
           "naziv": "Slusalice bezicne JBL VIBE FLEX 2 crna",
           "barkod": "1200130015212",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL GO ESSENTIAL 2 plavi",
           "barkod": "1200130018596",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
