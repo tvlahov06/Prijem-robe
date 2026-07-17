@@ -5,7 +5,7 @@
   "datum": "2026-07-17",
   "status": "aktivan",
   "kreirano": "2026-07-17T06:17:55.704Z",
-  "azurirano": "2026-07-17T10:25:29.893Z",
+  "azurirano": "2026-07-17T10:25:46.340Z",
   "dokumenti": [
     {
       "naziv": "MSI 4595-101",
@@ -51,47 +51,6 @@
           "barkod": "3838782858611",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4620-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Black",
-          "barkod": "195950643534",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB White",
-          "barkod": "195950643732",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Laptop Apple Macbook Air Silver, mdh74cr/a, /M5/16GB/512GB-CRO",
-          "barkod": "195950687217",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Sage",
-          "barkod": "195950644333",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Mist Blue",
-          "barkod": "195950643930",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop Apple Macbook Air Midnight, mdvh4cr/a, /M5/16GB/512GB-CRO",
-          "barkod": "195950696912",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
