@@ -5,7 +5,7 @@
   "datum": "2026-07-17",
   "status": "aktivan",
   "kreirano": "2026-07-17T06:17:55.704Z",
-  "azurirano": "2026-07-17T09:14:30.859Z",
+  "azurirano": "2026-07-17T09:20:16.851Z",
   "dokumenti": [
     {
       "naziv": "MSI 4561-101",
@@ -234,7 +234,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
@@ -264,7 +264,7 @@
           "naziv": "TV PHILIPS 50PUS9010, 127.0cm (50\"), QLED, UHD 4K 144Hz, Smart TV, Titan OS - Ambilight",
           "barkod": "8718863046081",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 50A6S, 127cm (50\"), DLED, 4k UHD Smart TV, VIDAA OS",
@@ -288,7 +288,7 @@
           "naziv": "TV PHILIPS 50PUS7810, 127.0cm (50\"), QLED, UHD 4K Smart TV, Titan OS",
           "barkod": "8718863046166",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG 55QNED86A3A 139.7cm (55\"), QNED, 4K UHD AEU Smart TV, webOS",
