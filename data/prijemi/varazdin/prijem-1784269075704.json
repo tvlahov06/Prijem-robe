@@ -5,7 +5,7 @@
   "datum": "2026-07-17",
   "status": "aktivan",
   "kreirano": "2026-07-17T06:17:55.704Z",
-  "azurirano": "2026-07-17T08:10:32.046Z",
+  "azurirano": "2026-07-17T08:10:43.079Z",
   "dokumenti": [
     {
       "naziv": "MSI 4561-101",
@@ -240,7 +240,7 @@
           "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351431420",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG 55NU800B3LA 139.7cm (55\"), LED, 4K UHD Smart AEUQ TV, webOS",
@@ -306,7 +306,7 @@
           "naziv": "PRO TV HISENSE 55E7S PRO, 139.7cm (55\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351432779",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
