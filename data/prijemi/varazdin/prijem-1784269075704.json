@@ -5,7 +5,7 @@
   "datum": "2026-07-17",
   "status": "aktivan",
   "kreirano": "2026-07-17T06:17:55.704Z",
-  "azurirano": "2026-07-17T10:23:48.628Z",
+  "azurirano": "2026-07-17T10:24:29.688Z",
   "dokumenti": [
     {
       "naziv": "MSI 4595-101",
@@ -49,41 +49,6 @@
         {
           "naziv": "Perilica rublja Gorenje WPNA84A2TSWIFI IFI",
           "barkod": "3838782858611",
-          "ocekivano": 2,
-          "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4618-101",
-      "stavke": [
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 520BT ljubicaste",
-          "barkod": "6925281964756",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Soundbar Samsung",
-          "barkod": "8806097091905",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
-          "barkod": "1200130026294",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Radio JBL TUNER XL crni KEU",
-          "barkod": "6925281970641",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zidni stalak Vogel's MA3000 za ekrane od 32\"-55\"",
-          "barkod": "8712285331329",
           "ocekivano": 2,
           "skenirano": 2
         }
