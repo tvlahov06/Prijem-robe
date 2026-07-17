@@ -5,7 +5,7 @@
   "datum": "2026-07-17",
   "status": "aktivan",
   "kreirano": "2026-07-17T06:17:55.704Z",
-  "azurirano": "2026-07-17T07:57:51.270Z",
+  "azurirano": "2026-07-17T07:58:19.831Z",
   "dokumenti": [
     {
       "naziv": "MSI 4561-101",
@@ -573,7 +573,7 @@
           "naziv": "Eksterni disk WD Elements Portable 1TB",
           "barkod": "718037807607",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD ADATA Gammix S70 Blade, R7400/W6800,2TB, NVMe 2T-CS",
