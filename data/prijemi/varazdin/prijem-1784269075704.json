@@ -5,7 +5,7 @@
   "datum": "2026-07-17",
   "status": "aktivan",
   "kreirano": "2026-07-17T06:17:55.704Z",
-  "azurirano": "2026-07-17T10:26:18.369Z",
+  "azurirano": "2026-07-17T10:26:34.999Z",
   "dokumenti": [
     {
       "naziv": "MSI 4595-101",
@@ -51,53 +51,6 @@
           "barkod": "3838782858611",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4552-101",
-      "stavke": [
-        {
-          "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB192W, 40.6cm SV0 (16\") IPS WUXGA, Intel Core Ultra 7 255H, 16 GB RAM,",
-          "barkod": "4711636621410",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB058, 40.6cm (16\") ST0 IPS WUXGA, Intel Core Ultra 5 225H, 16 GB RAM, 512 GB",
-          "barkod": "4711636621427",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB110W, 40.6cm SU0 (16\") IPS WUXGA, Intel Core Ultra 5 225H, 16 GB RAM,",
-          "barkod": "4711636621434",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB120, 40.6cm (16\") RE0 IPS WUXGA, Intel Core Ultra 7 255H, 16 GB RAM, 512 GB",
-          "barkod": "4711636611954",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "SAMSUNG 27\" Odyssey G5 Gaming Monitor EN LS27FG502EUXEN, IPS 2K/QHD, 180Hz, 1ms, AMD",
-          "barkod": "8806097817796",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A16 FA607NUG-RL142, 40.6cm A00 (16\") FHD+ WUXGA 144Hz, AMD Ryzen 7 7445HS, 16 GB",
-          "barkod": "4711636145053",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A15 FA506NCG-HN185, 39.6cm V0 (15.6\") Full HD 144Hz, AMD Ryzen 7 7445HS, 16 GB RAM,",
-          "barkod": "4711636163354",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
