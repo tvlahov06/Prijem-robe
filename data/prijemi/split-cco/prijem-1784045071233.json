@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "",
   "datum": "2026-07-16",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-16T11:39:29.687Z",
-  "azurirano": "2026-07-17T06:20:37.080Z",
+  "azurirano": "2026-07-17T06:20:42.258Z",
   "dokumenti": [
     {
       "naziv": "MSI 4587-101",
@@ -188,5 +188,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-17T06:20:42.258Z"
 }
