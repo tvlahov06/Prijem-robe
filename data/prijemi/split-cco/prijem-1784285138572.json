@@ -5,7 +5,7 @@
   "datum": "2026-07-17",
   "status": "aktivan",
   "kreirano": "2026-07-17T10:45:38.572Z",
-  "azurirano": "2026-07-18T06:15:15.698Z",
+  "azurirano": "2026-07-18T06:15:24.567Z",
   "dokumenti": [
     {
       "naziv": "MSI 4631-101",
@@ -175,7 +175,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
           "barkod": "740617348699",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK KINGSTON 64GB DT50 3.2 KC-U2G64-5R",
@@ -199,13 +199,13 @@
           "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
           "barkod": "740617348453",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
           "barkod": "740617347999",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "SBOX K-123 HR | Zicna tipkovnica",
@@ -223,7 +223,7 @@
           "naziv": "Memorijska kartica ADATA microSD U3, V30, 180/160MBs, A2SP-RA1 128GB",
           "barkod": "4711085949202",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Kyson 256GB USB 3.2",
