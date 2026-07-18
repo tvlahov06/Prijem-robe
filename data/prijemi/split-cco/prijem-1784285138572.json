@@ -5,7 +5,7 @@
   "datum": "2026-07-17",
   "status": "aktivan",
   "kreirano": "2026-07-17T10:45:38.572Z",
-  "azurirano": "2026-07-18T06:16:04.559Z",
+  "azurirano": "2026-07-18T06:16:11.165Z",
   "dokumenti": [
     {
       "naziv": "MSI 4631-101",
@@ -199,13 +199,13 @@
           "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
           "barkod": "740617348453",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
           "barkod": "740617347999",
           "ocekivano": 5,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "SBOX K-123 HR | Zicna tipkovnica",
@@ -301,7 +301,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
           "barkod": "4713218461933",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ASUS AP2600, ruksak za prijenosnike do 16\"",
