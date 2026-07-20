@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T06:48:36.606Z",
-  "azurirano": "2026-07-20T08:21:51.160Z",
+  "azurirano": "2026-07-20T08:22:03.324Z",
   "dokumenti": [
     {
       "naziv": "MSI 4678-101",
@@ -131,7 +131,7 @@
           "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
           "barkod": "5099206092525",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M350s Pebble, graphite",
@@ -155,7 +155,7 @@
           "naziv": "Volan LOGITECH G G29 + mjenjac",
           "barkod": "5099206132467",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M185, sivi",
@@ -215,7 +215,7 @@
           "naziv": "Tipkovnica Logitech K120, zicana, HR tipke, crna",
           "barkod": "5099206021495",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zvucnici Logitech Z207, 2.0, crni",
