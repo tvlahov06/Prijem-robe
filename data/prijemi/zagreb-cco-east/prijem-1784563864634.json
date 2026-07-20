@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T16:11:04.634Z",
-  "azurirano": "2026-07-20T19:15:45.938Z",
+  "azurirano": "2026-07-20T19:15:50.204Z",
   "dokumenti": [
     {
       "naziv": "MSI 4661-101",
@@ -366,29 +366,6 @@
           "barkod": "5949106280914",
           "ocekivano": 5,
           "skenirano": 5
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4697-101",
-      "stavke": [
-        {
-          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 zeleni",
-          "barkod": "4547410489088",
-          "ocekivano": 6,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 bijeli",
-          "barkod": "4547410489095",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Instant fotoaparat Fujifilm Instax Mini 41",
-          "barkod": "4547410545180",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     }
