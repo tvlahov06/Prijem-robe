@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T07:11:16.533Z",
-  "azurirano": "2026-07-20T08:09:23.500Z",
+  "azurirano": "2026-07-20T08:19:37.345Z",
   "dokumenti": [
     {
       "naziv": "MSI 4660-101",
@@ -282,7 +282,7 @@
           "naziv": "TV HISENSE 43A6S, 109.2cm (43\"), DLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351430102",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE50QN80FAUXXH, 127.0cm (50\"), QLED, XH 4K UHD Smart TV, Tizen OS",
@@ -294,7 +294,7 @@
           "naziv": "TV TCL 40S5K, 101.6cm (40\"), QLED, FHD SMART TV, GOOGLE TV",
           "barkod": "5901292526023",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 50PUS7810, 127.0cm (50\"), QLED, UHD 4K Smart TV, Titan OS",
@@ -318,7 +318,7 @@
           "naziv": "TV PHILIPS 43PUS7810, 109.2cm (43\"), QLED, UHD 4K Smart TV, Titan OS",
           "barkod": "8718863046159",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 55PUS8510, 139.7cm (55\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
@@ -348,7 +348,7 @@
           "naziv": "TV HISENSE 40A5S, 101.6cm (40\"), Hi-QLED, FHD Smart TV, VIDAA OS",
           "barkod": "6942351429632",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SONY K55XR80PAEP, 139.7cm (55\"), OLED, 4K UHD SMART TV, Android TV",
@@ -360,7 +360,7 @@
           "naziv": "TV LG 43NU8E0B3LA 109.2cm (43\"), LED, 4K UHD Smart AEU TV, webOS",
           "barkod": "8806096768471",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
