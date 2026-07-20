@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T07:11:16.533Z",
-  "azurirano": "2026-07-20T09:16:03.935Z",
+  "azurirano": "2026-07-20T09:16:14.387Z",
   "dokumenti": [
     {
       "naziv": "MSI 4660-101",
@@ -444,13 +444,13 @@
           "naziv": "Tipkovnica + mis Logitech MK270, bezicna, crna",
           "barkod": "5099206039384",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK470 Slim, bezicna, siva",
           "barkod": "5099206086661",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
@@ -528,7 +528,7 @@
           "naziv": "Komplet tipkovnice i misa Logitech MK880",
           "barkod": "5099206136069",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M196, crni",
