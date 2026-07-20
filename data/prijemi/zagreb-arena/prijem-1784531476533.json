@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T07:11:16.533Z",
-  "azurirano": "2026-07-20T08:09:13.823Z",
+  "azurirano": "2026-07-20T08:09:23.500Z",
   "dokumenti": [
     {
       "naziv": "MSI 4660-101",
@@ -252,7 +252,7 @@
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
           "barkod": "5901292525798",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
@@ -264,7 +264,7 @@
           "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525934",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TV LG 55NU800B3LA 139.7cm (55\"), LED, 4K UHD Smart AEUQ TV, webOS",
@@ -330,7 +330,7 @@
           "naziv": "TV SONY K65S35B.CEI, 165.1cm (65\"), Direct LED, 4K UHD SMART TV, Android TV",
           "barkod": "4548736167810",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PRO TV HISENSE 50E7S PRO, 127cm (50\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
@@ -342,7 +342,7 @@
           "naziv": "TV SAMSUNG QE65Q8FAAUXXH, 165.1cm (65\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097120483",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 40A5S, 101.6cm (40\"), Hi-QLED, FHD Smart TV, VIDAA OS",
