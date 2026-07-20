@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T11:32:38.758Z",
-  "azurirano": "2026-07-20T13:18:17.067Z",
+  "azurirano": "2026-07-20T13:18:21.861Z",
   "dokumenti": [
     {
       "naziv": "MSI 4623-101",
@@ -214,7 +214,7 @@
           "naziv": "ADATA C906, 64GB, USB 2.0 plavi",
           "barkod": "4711085945082",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "WARRIOR Rashladni stalak WHITE SHARK ICE WARRIOR, GCP-25, 4 vent.",
@@ -376,7 +376,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Podloga za mis MSI AGILITY GD21",
