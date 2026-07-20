@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T11:32:38.758Z",
-  "azurirano": "2026-07-20T12:21:36.031Z",
+  "azurirano": "2026-07-20T12:25:14.463Z",
   "dokumenti": [
     {
       "naziv": "MSI 4623-101",
@@ -549,13 +549,13 @@
           "naziv": "TV SAMSUNG QE50Q7F2AUXXH, 127.0cm (50\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097211020",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "TV HISENSE 32A4S, 81.3cm (32\"), DLED, HD Smart TV, VIDAA OS",
           "barkod": "6942351429205",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE50QN80FAUXXH, 127.0cm (50\"), QLED, XH 4K UHD Smart TV, Tizen OS",
@@ -573,7 +573,7 @@
           "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
           "barkod": "8806097067672",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor PHILIPS 55OLED820/12, 139 cm (55\") OLED Ambilight",
