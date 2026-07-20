@@ -1,0 +1,461 @@
+{
+  "id": "prijem-1784563864634",
+  "poslovnica": "zagreb-cco-east",
+  "naziv": "Roba 20-07-2026",
+  "datum": "2026-07-20",
+  "status": "aktivan",
+  "kreirano": "2026-07-20T16:11:04.634Z",
+  "azurirano": "2026-07-20T16:11:04.634Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 4661-101",
+      "stavke": [
+        {
+          "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
+          "barkod": "4897098683446",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-2201 RONIN Bijela / HR",
+          "barkod": "0736373271159",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PODLOGA ZA MIS SBOX MP-01 ERGO Crna",
+          "barkod": "0616320536893",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TORBA SBOX NSE-2022 HONG KONG 15,6\"",
+          "barkod": "0616320538262",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PODLOGA ZA MIS SBOX MP-03 30x25 Crna",
+          "barkod": "736373267923",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark RUKSAK GBP-009 TROOPER / 16\" Crni",
+          "barkod": "3858894502073",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347890",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE190, pojacivac signala AC750",
+          "barkod": "6935364089665",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347999",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ADATA C906, 64GB, USB 2.0 plavi",
+          "barkod": "4711085945082",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ADATA Memorijska kartica 32GB UV150 USB 3.2 Black AD BK",
+          "barkod": "4713435797075",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Kyson 256GB USB 3.2",
+          "barkod": "740617309195",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis WHITE SHARK KARUTA XL, ESL-MP1, 90x40cm",
+          "barkod": "0616320538897",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis WHITE SHARK MARROK, GM-9006, bijeli, RGB, 12.000 dpi",
+          "barkod": "0736373271173",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TORBA SBOX NSS-19368O JAKARTA Narancasta / Ruksak",
+          "barkod": "3858894506958",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
+          "barkod": "4713435796641",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PODLOGA ZA MIS SBOX MP-01 ERGO Plava",
+          "barkod": "616320536909",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WHITE SHARK GK-2022 Shinobi, bijela, mehanicka HR Blue Switch | Gaming tipkovnica",
+          "barkod": "0736373269675",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link LS1005, 5-port 10/100 switch,plasticno",
+          "barkod": "6935364089061",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis White Shark ESL-MP7 ASHIKAGA L 45x40x0,3cm",
+          "barkod": "0736373269767",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link bezicni pojacivac dometa (Universal Range Extender) 300Mbps, (2.4GHz), 802.11b/g/n, 1xRJ45",
+          "barkod": "6935364099305",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WALKER XL White Shark PODLOGA ZA MIS GMP-1899 SKYWALKER 80x35cm",
+          "barkod": "0616320537159",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak za laptop Asus ROG BP2701, do 17''",
+          "barkod": "4718017800334",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
+          "barkod": "4713218461933",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Lenovo B210 Grey 15,6''",
+          "barkod": "193386076858",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica WHITE SHARK KAIKEN, GK-003112, HR - Wireless",
+          "barkod": "3858894504367",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HDD WD Elements Portable 2TB, USB 3.0",
+          "barkod": "718037855363",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis White Shark PL 45x40x0,3cm SHIKORO L",
+          "barkod": "0736373269743",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-011 WALRUS Crna/narancasta 800x400 XL",
+          "barkod": "3858894503643",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark MIS GM-5018 CARADOC RGB/7200 dpi/Crni",
+          "barkod": "3858894507238",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4664-101",
+      "stavke": [
+        {
+          "naziv": "PlayStation 5 Pro B chassis",
+          "barkod": "711719024125",
+          "ocekivano": 10,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4665-101",
+      "stavke": [
+        {
+          "naziv": "Mis LOGITECH MX Master 4 grafit",
+          "barkod": "5099206133082",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
+          "barkod": "5099206092525",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M350s Pebble, graphite",
+          "barkod": "5099206110427",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G305 LIGHTSPEED, crni",
+          "barkod": "5099206077829",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G335, gaming, zicane, bijelo-plave",
+          "barkod": "5099206094796",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M705 Marathon, srebrni",
+          "barkod": "5099206023901",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech BRIO 100 crna",
+          "barkod": "5099206113268",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan LOGITECH G G29 + mjenjac",
+          "barkod": "5099206132467",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M171, crni",
+          "barkod": "5099206062856",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, crni",
+          "barkod": "5099206134737",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech MX Anywhere 3S Graphite",
+          "barkod": "5099206111721",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "volan LOGITECH G923 Trueforce, PC/PS4/PS5, USB, crna boja , Sim Racing volan",
+          "barkod": "5099206082793",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M190, sivi",
+          "barkod": "5099206091832",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G PRO X Superlight 2, crni",
+          "barkod": "5099206104525",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Komplet tipkovnice i misa Logitech MK880",
+          "barkod": "5099206136069",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M196, crni",
+          "barkod": "5099206128330",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech K120, zicana, HR tipke, crna",
+          "barkod": "5099206021495",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M650, rozi",
+          "barkod": "5099206097230",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M90, zicani, sivi",
+          "barkod": "5099206021860",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Logitech WebCam C930e",
+          "barkod": "5099206045200",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G PRO X2 LIGHTSPEED, gaming, bezicne, crne",
+          "barkod": "5099206109056",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G309 LIGHTSPEED, crni",
+          "barkod": "5099206117860",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M650, bijeli",
+          "barkod": "5099206097247",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech POP Universal, crni",
+          "barkod": "5099206126381",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, bijeli",
+          "barkod": "5099206134775",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4666-101",
+      "stavke": [
+        {
+          "naziv": "Nintendo Switch 2 Console - Light Blue & Light Red Joy-Con",
+          "barkod": "5949106280914",
+          "ocekivano": 5,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4679-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB grafitno crni",
+          "barkod": "8806099191818",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB bez",
+          "barkod": "8806099349134",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB rozi",
+          "barkod": "8806099191993",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/512GB grafitno crni",
+          "barkod": "8806099191788",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/512GB rozi",
+          "barkod": "8806099191955",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Fold8 5G 12GB/256GB lavanda ljubicasti",
+          "barkod": "8806099185909",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB grafitno crni",
+          "barkod": "8806099186517",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/256GB bez",
+          "barkod": "8806099186586",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/256GB ljubicasti",
+          "barkod": "8806099186876",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB bez",
+          "barkod": "8806099186562",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4697-101",
+      "stavke": [
+        {
+          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 zeleni",
+          "barkod": "4547410489088",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 bijeli",
+          "barkod": "4547410489095",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Instant fotoaparat Fujifilm Instax Mini 41",
+          "barkod": "4547410545180",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
