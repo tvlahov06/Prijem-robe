@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "Roba 20-07-2026",
   "datum": "2026-07-20",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-20T16:11:04.634Z",
-  "azurirano": "2026-07-20T19:15:50.204Z",
+  "azurirano": "2026-07-20T19:16:16.406Z",
   "dokumenti": [
     {
       "naziv": "MSI 4661-101",
@@ -38,7 +38,7 @@
           "naziv": "PODLOGA ZA MIS SBOX MP-03 30x25 Crna",
           "barkod": "736373267923",
           "ocekivano": 1,
-          "skenirano": 2
+          "skenirano": 1
         },
         {
           "naziv": "White Shark RUKSAK GBP-009 TROOPER / 16\" Crni",
@@ -369,5 +369,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-20T19:16:16.406Z"
 }
