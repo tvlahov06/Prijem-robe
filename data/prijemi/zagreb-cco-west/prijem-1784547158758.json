@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T11:32:38.758Z",
-  "azurirano": "2026-07-20T12:39:15.965Z",
+  "azurirano": "2026-07-20T12:39:30.776Z",
   "dokumenti": [
     {
       "naziv": "MSI 4623-101",
@@ -659,7 +659,7 @@
           "naziv": "Tipkovnica + mis Logitech MK470 Slim, bezicna, siva",
           "barkod": "5099206086661",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
@@ -863,7 +863,7 @@
           "naziv": "Tipkovnica Logitech G515 RAPID TKL, gaming, crna",
           "barkod": "5099206133013",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
