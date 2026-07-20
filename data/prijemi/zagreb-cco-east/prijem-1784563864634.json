@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T16:11:04.634Z",
-  "azurirano": "2026-07-20T19:09:42.215Z",
+  "azurirano": "2026-07-20T19:10:03.203Z",
   "dokumenti": [
     {
       "naziv": "MSI 4661-101",
@@ -246,7 +246,7 @@
           "naziv": "Web kamera Logitech BRIO 100 crna",
           "barkod": "5099206113268",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Volan LOGITECH G G29 + mjenjac",
@@ -312,7 +312,7 @@
           "naziv": "Mis Logitech M650, rozi",
           "barkod": "5099206097230",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M90, zicani, sivi",
@@ -348,7 +348,7 @@
           "naziv": "Mis Logitech POP Universal, crni",
           "barkod": "5099206126381",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, bijeli",
