@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T11:32:38.758Z",
-  "azurirano": "2026-07-20T12:31:37.876Z",
+  "azurirano": "2026-07-20T12:32:28.296Z",
   "dokumenti": [
     {
       "naziv": "MSI 4623-101",
@@ -713,7 +713,7 @@
           "naziv": "Kontroler Logitech F710, bezicni",
           "barkod": "5099206041905",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Volan LOGITECH G G29 + mjenjac",
@@ -725,7 +725,7 @@
           "naziv": "Mis Logitech M185, sivi",
           "barkod": "5099206027275",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Podloga za mis Logitech G240",
@@ -761,19 +761,19 @@
           "naziv": "Komplet tipkovnice i misa Logitech MK880",
           "barkod": "5099206136069",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M100, zicani, crni",
           "barkod": "5099206104242",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Logitech G733, gaming, RGB, bezicne, crne",
           "barkod": "5099206088719",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M330 Silent Plus, crni",
@@ -857,7 +857,7 @@
           "naziv": "Mis LOGITECH Gaming G502 X, opticki, 25600dpi, USB, crni",
           "barkod": "5099206096295",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Logitech G515 RAPID TKL, gaming, crna",
