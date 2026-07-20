@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T07:11:16.533Z",
-  "azurirano": "2026-07-20T09:51:01.643Z",
+  "azurirano": "2026-07-20T09:58:35.261Z",
   "dokumenti": [
     {
       "naziv": "MSI 4660-101",
@@ -546,13 +546,13 @@
           "naziv": "Mis Logitech M650, rozi",
           "barkod": "5099206097230",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Logitech WebCam C930e",
           "barkod": "5099206045200",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M196, bijeli",
@@ -576,13 +576,13 @@
           "naziv": "Mis Logitech POP Universal, bijeli",
           "barkod": "5099206126398",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Logitech G535 LIGHTSPEED, gaming, bezicne, crno-plave",
           "barkod": "5099206125513",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Logitech Zone 300, bezicne, roze",
