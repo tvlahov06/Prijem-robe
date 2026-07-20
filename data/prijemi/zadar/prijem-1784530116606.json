@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T06:48:36.606Z",
-  "azurirano": "2026-07-20T08:23:16.253Z",
+  "azurirano": "2026-07-20T08:25:19.791Z",
   "dokumenti": [
     {
       "naziv": "MSI 4678-101",
@@ -27,29 +27,6 @@
           "barkod": "8806099186517",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4634-101",
-      "stavke": [
-        {
-          "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
-          "barkod": "6926597761725",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Klima uredaj 5,0 kW Hisense CA50XS1GG/AS50XS1GW 50XS1GW",
-          "barkod": "6926597759616",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "Klima uredaj 3,4 kW Hisense CA35LR03G/AS35LR03W 35LR03W",
-          "barkod": "6926597761732",
-          "ocekivano": 4,
-          "skenirano": 4
         }
       ]
     },
