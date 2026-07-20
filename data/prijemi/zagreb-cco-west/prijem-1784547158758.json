@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T11:32:38.758Z",
-  "azurirano": "2026-07-20T12:57:46.220Z",
+  "azurirano": "2026-07-20T12:58:08.901Z",
   "dokumenti": [
     {
       "naziv": "MSI 4623-101",
@@ -36,7 +36,7 @@
           "naziv": "Mobitel Apple iPhone 17 256GB Black",
           "barkod": "195950643534",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop Apple Macbook Air Silver, mdh74cr/a, /M5/16GB/512GB-CRO",
@@ -48,7 +48,7 @@
           "naziv": "Mobitel Apple iPhone 17 256GB Mist Blue",
           "barkod": "195950643930",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Apple Macbook Air Sky Blue, mdvq4cr/a, /M5/16GB/512GB-CRO",
