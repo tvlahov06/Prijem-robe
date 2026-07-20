@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T07:11:16.533Z",
-  "azurirano": "2026-07-20T08:04:54.608Z",
+  "azurirano": "2026-07-20T08:06:03.071Z",
   "dokumenti": [
     {
       "naziv": "MSI 4660-101",
@@ -205,19 +205,19 @@
           "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB grafitno crni",
           "barkod": "8806099191818",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB bez",
           "barkod": "8806099349134",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB rozi",
           "barkod": "8806099191993",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/512GB grafitno crni",
@@ -229,19 +229,19 @@
           "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/512GB rozi",
           "barkod": "8806099191955",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Fold8 5G 12GB/256GB lavanda ljubicasti",
           "barkod": "8806099185909",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB grafitno crni",
           "barkod": "8806099186517",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
