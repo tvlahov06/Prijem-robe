@@ -5,7 +5,7 @@
   "datum": "2026-07-20",
   "status": "aktivan",
   "kreirano": "2026-07-20T16:11:04.634Z",
-  "azurirano": "2026-07-20T19:15:08.826Z",
+  "azurirano": "2026-07-20T19:15:45.938Z",
   "dokumenti": [
     {
       "naziv": "MSI 4661-101",
@@ -366,71 +366,6 @@
           "barkod": "5949106280914",
           "ocekivano": 5,
           "skenirano": 5
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4679-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB grafitno crni",
-          "barkod": "8806099191818",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB bez",
-          "barkod": "8806099349134",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB rozi",
-          "barkod": "8806099191993",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/512GB grafitno crni",
-          "barkod": "8806099191788",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/512GB rozi",
-          "barkod": "8806099191955",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Fold8 5G 12GB/256GB lavanda ljubicasti",
-          "barkod": "8806099185909",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB grafitno crni",
-          "barkod": "8806099186517",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/256GB bez",
-          "barkod": "8806099186586",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/256GB ljubicasti",
-          "barkod": "8806099186876",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB bez",
-          "barkod": "8806099186562",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     },
