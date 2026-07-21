@@ -2,10 +2,10 @@
   "id": "prijem-1784365186858",
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
-  "datum": "2026-07-18",
+  "datum": "2026-07-21",
   "status": "aktivan",
-  "kreirano": "2026-07-18T08:59:46.858Z",
-  "azurirano": "2026-07-18T08:59:46.858Z",
+  "kreirano": "2026-07-21T19:45:01.080Z",
+  "azurirano": "2026-07-21T19:45:01.080Z",
   "dokumenti": [
     {
       "naziv": "MSI 4677-101",
@@ -49,6 +49,501 @@
         {
           "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB grafitno crni",
           "barkod": "8806099186517",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4699-101",
+      "stavke": [
+        {
+          "naziv": "Sat Samsung Galaxy Fit3 sivi",
+          "barkod": "8806095362175",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C bijeli bez kabela",
+          "barkod": "8806094912081",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
+          "barkod": "8806099028282",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi",
+          "barkod": "8806099028114",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Film za Fujifilm Instax Mini - 2 paketa",
+          "barkod": "4547410364866",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB sivi",
+          "barkod": "8806097855019",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
+          "barkod": "8806097638551",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM sivi",
+          "barkod": "8806099035259",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna narukvica Huawei Band 10 (Nora-B19F) Black",
+          "barkod": "6942103149047",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska za Samsung Galaxy A57 5G tamno plava",
+          "barkod": "8806099037758",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM svijetlo plavi",
+          "barkod": "8806099025915",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM ljubicasti",
+          "barkod": "8806099025786",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 zeleni",
+          "barkod": "4547410489088",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T6530 Trio 65W, 25W i 15W Fast Charge 2x USB-C i USB-A crni bez kabela",
+          "barkod": "8806092673885",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
+          "barkod": "6942103168253",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Rugged maska za Samsung Galaxy S26 crna",
+          "barkod": "8806097935636",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB crni",
+          "barkod": "8806097827221",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HUAWEI MatePad 11,5\" 8GB/256GB Siva (Taoxingzhi-W09FK)+tipkovnica",
+          "barkod": "6942103165740",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Olovka za tablet Huawei M-Pencil White",
+          "barkod": "6942103112508",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "RASHLADNI STALAK SBOX CP-12 / 17,3\"",
+          "barkod": "0616320531577",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB kobalt ljubicasti",
+          "barkod": "8806097827313",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Autopunjac Samsung L4020 Duo 25W i 15W Fast Charge USB-C i USB A crni i bez kabela",
+          "barkod": "8806094000795",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 41mm White Leather Strap (Jana-B19L)",
+          "barkod": "6942103131967",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Fit 5 bijeli (Niki-B19F)",
+          "barkod": "6942103189692",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Pro Brown 46mm (Atum-B29W)",
+          "barkod": "6942103168208",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 46mm Black (Vili-B19F)",
+          "barkod": "6942103132001",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4714-101",
+      "stavke": [
+        {
+          "naziv": "Cars 3: Driven to Win PS4 F25",
+          "barkod": "5051895410110",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mario Kart 8 Deluxe Switch EY4",
+          "barkod": "045496420277",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC ANGE compatible) narancasti",
+          "barkod": "3499550360745",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Last of Us 2 Standard Edition PS4 D25",
+          "barkod": "711719330004",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GTA V PREMIUM ONLINE EDITION PS4 E32 S4",
+          "barkod": "5026555424264",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Call of Duty: Black Ops Cold War PS5 G24",
+          "barkod": "5030917292477",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation VR2",
+          "barkod": "711719453994",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Elite wireless headset Midnight Black",
+          "barkod": "711719590101",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch 2 Micro SD Card Samsung Mario Logo",
+          "barkod": "8806095700670",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Elden Ring Nightreign PS5",
+          "barkod": "3391892034639",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Elite wireless headset+",
+          "barkod": "711719598275",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim E chassis",
+          "barkod": "711719020172",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Grey Camo za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023708",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Chroma Teal v2",
+          "barkod": "711719023838",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Midnight Black + USB-C kabel za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719025979",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC MGREEN compatible) Cammo Green",
+          "barkod": "3499550382556",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Nova Pink za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023043",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Galatic Purple za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023074",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4715-101",
+      "stavke": [
+        {
+          "naziv": "Sat Samsung Galaxy Watch9 40mm crni",
+          "barkod": "8806099325442",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna folija za Samsung Galaxy Fold8 Ultra prozirna 2 komada",
+          "barkod": "8806099229429",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Carbon stojeca maska za Samsung Galaxy Fold8 Ultra crna",
+          "barkod": "8806099393946",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna folija za Samsung Galaxy Flip8 prozirna 2 komada",
+          "barkod": "8806099229450",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Carbon magnetna maska za Samsung Galaxy Fold8 Ultra navy plava",
+          "barkod": "8806099238919",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Carbon magnetna maska za Samsung Galaxy Fold8 Ultra crna",
+          "barkod": "8806099238131",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch9 44mm crni",
+          "barkod": "8806099326760",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni PeakForm remen za Samsung Galaxy Watch Ultra2 taupe",
+          "barkod": "8806099288136",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna folija za Samsung Galaxy Fold8 prozirna 2 komada",
+          "barkod": "8806099229436",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska s prstenom za Samsung Galaxy Flip8 ljubicasta",
+          "barkod": "8806099229344",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska s prstenom za Samsung Galaxy Flip8 crna",
+          "barkod": "8806099229399",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy Fold8 zelena",
+          "barkod": "8806099229313",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy Fold8 ljubicasta",
+          "barkod": "8806099229306",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch Ultra2 crni",
+          "barkod": "8806099334062",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
+          "barkod": "8806097984795",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Carbon magnetna maska za Samsung Galaxy Fold8 Ultra crvena",
+          "barkod": "8806099238117",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Carbon magnetna maska za Samsung Galaxy Fold8 navy plava",
+          "barkod": "8806099238926",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Carbon magnetna maska za Samsung Galaxy Fold8 crvena",
+          "barkod": "8806099238124",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Carbon magnetna maska za Samsung Galaxy Fold8 crna",
+          "barkod": "8806099238148",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Fit3 rozi",
+          "barkod": "8806095362151",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch Ultra2 srebrni",
+          "barkod": "8806099333867",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska s prstenom za Samsung Galaxy Flip8 bijela",
+          "barkod": "8806099229337",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni tekstilni remen 20mm S/M za Samsung Galaxy Watch9 mocha",
+          "barkod": "8806099330170",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni tekstilni remen 20mm M/L za Samsung Galaxy U Watch9 plavi",
+          "barkod": "8806099330057",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni silikonski sportski remen 20mm S/M za Samsung Galaxy Watch9 zuti",
+          "barkod": "8806099288020",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni silikonski sportski remen 20mm S/M za Samsung Galaxy Watch9 plavi",
+          "barkod": "8806099288068",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni silikonski sportski remen 20mm S/M za Samsung Galaxy Watch9 maslinasto zeleni",
+          "barkod": "8806099288082",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni silikonski sportski remen 20mm S/M za Samsung Galaxy Watch9 crni",
+          "barkod": "8806099288105",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni silikonski sportski remen 20mm S/M za Samsung Galaxy Watch9 bez",
+          "barkod": "8806099288044",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni silikonski sportski remen 20mm M/L za Samsung U Galaxy Watch9 plavi",
+          "barkod": "8806099287962",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni silikonski sportski remen 20mm M/L za Samsung Galaxy Watch9 maslinasto zeleni",
+          "barkod": "8806099287986",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni silikonski sportski remen 20mm M/L za Samsung Galaxy Watch9 crni",
+          "barkod": "8806099288006",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni Marine remen za Samsung Galaxy Watch Ultra2 narancasti",
+          "barkod": "8806099287825",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni Marine remen za Samsung Galaxy Watch Ultra2 mocha",
+          "barkod": "8806099287887",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dodatni Marine remen za Samsung Galaxy Watch Ultra2 crni",
+          "barkod": "8806099287900",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch9 40mm bez",
+          "barkod": "8806099324841",
           "ocekivano": 1,
           "skenirano": 0
         }
