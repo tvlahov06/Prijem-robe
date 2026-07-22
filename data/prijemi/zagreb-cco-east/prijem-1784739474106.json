@@ -5,7 +5,7 @@
   "datum": "2026-07-22",
   "status": "aktivan",
   "kreirano": "2026-07-22T16:57:54.106Z",
-  "azurirano": "2026-07-22T19:27:46.202Z",
+  "azurirano": "2026-07-22T19:27:53.205Z",
   "dokumenti": [
     {
       "naziv": "MSI 4697-101",
@@ -401,7 +401,7 @@
           "naziv": "Susilo za kosu Philips HPS920/00",
           "barkod": "8710103625520",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu Philips HC7650/15",
