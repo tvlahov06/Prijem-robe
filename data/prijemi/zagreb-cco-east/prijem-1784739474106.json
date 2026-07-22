@@ -5,7 +5,7 @@
   "datum": "2026-07-22",
   "status": "aktivan",
   "kreirano": "2026-07-22T16:57:54.106Z",
-  "azurirano": "2026-07-22T19:33:28.656Z",
+  "azurirano": "2026-07-22T19:33:35.138Z",
   "dokumenti": [
     {
       "naziv": "MSI 4697-101",
@@ -670,7 +670,7 @@
           "naziv": "Parna postaja Philips GC7842/40",
           "barkod": "8710103951032",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC500 dekalcifikator",
