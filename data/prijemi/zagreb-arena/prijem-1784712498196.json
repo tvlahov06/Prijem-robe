@@ -5,7 +5,7 @@
   "datum": "2026-07-22",
   "status": "aktivan",
   "kreirano": "2026-07-22T09:28:18.196Z",
-  "azurirano": "2026-07-22T09:33:04.991Z",
+  "azurirano": "2026-07-22T09:33:17.940Z",
   "dokumenti": [
     {
       "naziv": "logistaž",
@@ -86,13 +86,13 @@
           "naziv": "CELLULARLINE KABEL TYPE C TO C 300 CM",
           "barkod": "8018080373664",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE-C 200CM",
           "barkod": "8018080295737",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC IPHONE USB-C I KABEL C TO LIGHTNING 20W",
@@ -188,7 +188,7 @@
           "naziv": "Kabel PLOOS, USB-A na USB-C, 100cm, Bijeli",
           "barkod": "8018080369780",
           "ocekivano": 6,
-          "skenirano": 2
+          "skenirano": 6
         },
         {
           "naziv": "Kabel PLOOS, USB-C na Lightning, MFI, 100cm, Bijeli",
