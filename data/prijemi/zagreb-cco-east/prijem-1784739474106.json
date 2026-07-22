@@ -5,7 +5,7 @@
   "datum": "2026-07-22",
   "status": "aktivan",
   "kreirano": "2026-07-22T16:57:54.106Z",
-  "azurirano": "2026-07-22T19:23:23.287Z",
+  "azurirano": "2026-07-22T19:23:33.615Z",
   "dokumenti": [
     {
       "naziv": "MSI 4697-101",
@@ -485,7 +485,7 @@
           "naziv": "Sisac za tijelo/kosu/bradu BRAUN 7u1 5520",
           "barkod": "8700216429160",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
@@ -545,7 +545,7 @@
           "naziv": "Brijaci aparat Braun 3 300BLK",
           "barkod": "4210201163305",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epilator Braun SE3-000",
