@@ -5,7 +5,7 @@
   "datum": "2026-07-22",
   "status": "aktivan",
   "kreirano": "2026-07-22T09:28:18.196Z",
-  "azurirano": "2026-07-22T09:35:40.507Z",
+  "azurirano": "2026-07-22T09:40:43.688Z",
   "dokumenti": [
     {
       "naziv": "logistaž",
@@ -74,7 +74,7 @@
           "naziv": "CELLULARLINE IZVLACIVI KABEL C-C, 100W, 1m, Crna",
           "barkod": "8018080503801",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL SPIRAL C-C",
@@ -272,7 +272,7 @@
           "naziv": "Prijenosna Baterija CELLULARLINE Roller 20.000 mAh 65W Crna",
           "barkod": "8018080513404",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Prijenosna Baterija PLOOS, 10000 mAh, Black",
