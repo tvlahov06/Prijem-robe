@@ -5,7 +5,7 @@
   "datum": "2026-07-21",
   "status": "aktivan",
   "kreirano": "2026-07-21T19:45:01.080Z",
-  "azurirano": "2026-07-22T10:09:22.716Z",
+  "azurirano": "2026-07-22T10:09:30.034Z",
   "dokumenti": [
     {
       "naziv": "MSI 4677-101",
@@ -44,13 +44,13 @@
           "naziv": "Mobitel Samsung Galaxy Z Fold8 5G 12GB/256GB lavanda ljubicasti",
           "barkod": "8806099185909",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB grafitno crni",
           "barkod": "8806099186517",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
