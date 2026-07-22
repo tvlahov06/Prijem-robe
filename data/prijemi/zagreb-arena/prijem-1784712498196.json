@@ -5,7 +5,7 @@
   "datum": "2026-07-22",
   "status": "aktivan",
   "kreirano": "2026-07-22T09:28:18.196Z",
-  "azurirano": "2026-07-22T09:46:14.476Z",
+  "azurirano": "2026-07-22T09:46:25.688Z",
   "dokumenti": [
     {
       "naziv": "logistaž",
@@ -194,7 +194,7 @@
           "naziv": "Kabel PLOOS, USB-C na Lightning, MFI, 100cm, Bijeli",
           "barkod": "8018080367762",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Kabel PLOOS, USB-C na USB-C, 100cm, Bijeli",
@@ -218,7 +218,7 @@
           "naziv": "Kucni Punjac PLOOS, 2A, 1xUSB-A, Kabel USB-C 100cm, Crni",
           "barkod": "8018080367663",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kucni Punjac PLOOS, Dual, 20W, 1xUSB-A, 1xUSB-C, Crni",
