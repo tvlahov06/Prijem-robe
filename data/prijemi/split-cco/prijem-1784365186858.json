@@ -5,7 +5,7 @@
   "datum": "2026-07-22",
   "status": "aktivan",
   "kreirano": "2026-07-22T21:10:27.293Z",
-  "azurirano": "2026-07-23T06:01:59.977Z",
+  "azurirano": "2026-07-23T06:02:07.144Z",
   "dokumenti": [
     {
       "naziv": "MSI 4714-101",
@@ -486,7 +486,7 @@
           "naziv": "Glacalo Philips DST7020/20",
           "barkod": "8720389015564",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3020/70",
