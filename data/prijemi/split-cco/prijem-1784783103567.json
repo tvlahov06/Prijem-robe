@@ -5,7 +5,7 @@
   "datum": "2026-07-23",
   "status": "aktivan",
   "kreirano": "2026-07-23T05:05:03.567Z",
-  "azurirano": "2026-07-23T08:30:52.132Z",
+  "azurirano": "2026-07-23T08:30:58.097Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -56,13 +56,13 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 25W",
           "barkod": "8018080367182",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
           "barkod": "8018080367199",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
