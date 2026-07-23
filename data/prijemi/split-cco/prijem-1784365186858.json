@@ -5,7 +5,7 @@
   "datum": "2026-07-22",
   "status": "aktivan",
   "kreirano": "2026-07-22T21:10:27.293Z",
-  "azurirano": "2026-07-23T06:23:46.391Z",
+  "azurirano": "2026-07-23T06:23:59.574Z",
   "dokumenti": [
     {
       "naziv": "MSI 4714-101",
@@ -683,7 +683,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
           "barkod": "8720689027137",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6652/61 Face & Body",
@@ -1019,7 +1019,7 @@
           "naziv": "Brijac za tijelo Philips BG3480/15",
           "barkod": "8720689026871",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Philips BHS742/00",
