@@ -5,7 +5,7 @@
   "datum": "2026-07-23",
   "status": "aktivan",
   "kreirano": "2026-07-23T12:04:59.696Z",
-  "azurirano": "2026-07-23T12:36:51.444Z",
+  "azurirano": "2026-07-23T12:37:03.204Z",
   "dokumenti": [
     {
       "naziv": "MSI 4705-101",
@@ -494,13 +494,13 @@
           "naziv": "Brijaci aparat Philips OneBlade QP420/50 nastavci 360",
           "barkod": "8710103997153",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP440/50 nastavci 360",
           "barkod": "8720689016148",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7109/01 Sonicare Series 5300 DUO, Black & White",
