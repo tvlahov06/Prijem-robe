@@ -1,0 +1,250 @@
+{
+  "id": "prijem-1784783103567",
+  "poslovnica": "split-cco",
+  "naziv": "Logista",
+  "datum": "2026-07-23",
+  "status": "aktivan",
+  "kreirano": "2026-07-23T05:05:03.567Z",
+  "azurirano": "2026-07-23T05:05:03.567Z",
+  "dokumenti": [
+    {
+      "naziv": "logista",
+      "stavke": [
+        {
+          "naziv": "Adapter putni ANKER, Nano 5u1, 20W",
+          "barkod": "0194644272333",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicne slusalice ANKER Soundcore LIFE Q30, crne",
+          "barkod": "0194644062132",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicne slusalice ANKER Soundcore Space 2, bijele",
+          "barkod": "0194644307813",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicne slusalice ANKER Soundcore Space 2, crne",
+          "barkod": "0194644306502",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ACL AUDIO KABEL 3.5 MM NA MFI",
+          "barkod": "8018080342370",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE IZVLACIVI KABEL C-C, 100W, 1m, Crna",
+          "barkod": "8018080503801",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE-C 200CM",
+          "barkod": "8018080295737",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 25W",
+          "barkod": "8018080367182",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
+          "barkod": "8018080367199",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
+          "barkod": "8018080270413",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C TO MFI 120 CM",
+          "barkod": "8018080347849",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO",
+          "barkod": "8018080499609",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA SOFT GALAXY A17",
+          "barkod": "8018080505508",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Citac Pametnih Kartica TRUST Primo 26253, PC, USB-C",
+          "barkod": "8713439262537",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 1m",
+          "barkod": "766623394956",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 3m",
+          "barkod": "766623395076",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Micro-USB, 2m",
+          "barkod": "766623356855",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-C, 1 m, crni",
+          "barkod": "766623394864",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-C, 2 m, crni",
+          "barkod": "766623394857",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni punjac ANKER Nano Display, USB-C, 45W, bijela",
+          "barkod": "0194644320850",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maskica Cellularline Samsung Galaxy A27, Book 3, crna",
+          "barkod": "8018080520754",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Trust Helox GXT928 crni",
+          "barkod": "8713439253061",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Trust Helox GXT928W bijeli",
+          "barkod": "8713439253894",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis TRUST Seronm, 26018, Bezicni, Punjivi, Black",
+          "barkod": "8713439260182",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis TRUST Zevo 25991, Bezicni, Punjivi, Black",
+          "barkod": "8713439259919",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna Baterija CELLULARLINE Roller 10.000 mAh 45W crna",
+          "barkod": "8018080513411",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna Baterija PLOOS, 10000 mAh, Black",
+          "barkod": "8018080458545",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Anker, 30W, USB-C, bijeli",
+          "barkod": "0194644297589",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, FAN VEINS, Bluetooth, Naglavne",
+          "barkod": "8018080486678",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice SOUNDCORE, Liberty 5 PRO, In-ear, Bluetooth, Black",
+          "barkod": "0194644308032",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice SOUNDCORE, Liberty 5 PRO, In-ear, Bluetooth, White",
+          "barkod": "0194644308018",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Trust Carus GXT492 black",
+          "barkod": "8713439254471",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Trust Carus GXT492W white",
+          "barkod": "8713439254488",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice TRUST GAMING MULTIPLATFORM,WLESS,CARUS,WHITE,GXT493W",
+          "barkod": "8713439255348",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC PUNJAC ZA LAPTOP UNIVERZALNI PRIMO 19V-45W",
+          "barkod": "8713439219043",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PRIJENOSNA BATERIJA PRIMO 10000 Black",
+          "barkod": "8713439246780",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PRIJENOSNA BATERIJA PRIMO 20000 Black",
+          "barkod": "8713439246766",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST SLUSALICE ZA PS5, FORTA, BIJELE GXT498W",
+          "barkod": "8713439247169",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik SOUNDCORE, GO 3i, Bluetooth",
+          "barkod": "0194644397517",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
