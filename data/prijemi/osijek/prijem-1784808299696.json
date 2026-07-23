@@ -5,7 +5,7 @@
   "datum": "2026-07-23",
   "status": "aktivan",
   "kreirano": "2026-07-23T12:04:59.696Z",
-  "azurirano": "2026-07-23T12:27:22.978Z",
+  "azurirano": "2026-07-23T12:27:39.876Z",
   "dokumenti": [
     {
       "naziv": "MSI 4705-101",
@@ -524,7 +524,7 @@
           "naziv": "Epilator Philips BRE728/00",
           "barkod": "8720689032940",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips BRI973/00 Lumea",
@@ -680,7 +680,7 @@
           "naziv": "Brijac za tijelo Philips BG3480/15",
           "barkod": "8720689026871",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP235/50 nastavci lice",
