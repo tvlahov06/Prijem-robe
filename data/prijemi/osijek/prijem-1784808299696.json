@@ -5,7 +5,7 @@
   "datum": "2026-07-23",
   "status": "aktivan",
   "kreirano": "2026-07-23T12:04:59.696Z",
-  "azurirano": "2026-07-23T12:31:59.463Z",
+  "azurirano": "2026-07-23T12:32:13.071Z",
   "dokumenti": [
     {
       "naziv": "MSI 4705-101",
@@ -536,7 +536,7 @@
           "naziv": "Susilo za kosu Philips BHD501/00",
           "barkod": "8710103976776",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD510/00",
@@ -554,13 +554,13 @@
           "naziv": "Susilo za kosu Philips BHD720/10",
           "barkod": "8720689010795",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD723/10",
           "barkod": "8720689027236",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3911/40 Power Flosser",
