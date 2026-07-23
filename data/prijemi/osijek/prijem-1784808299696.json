@@ -5,7 +5,7 @@
   "datum": "2026-07-23",
   "status": "aktivan",
   "kreirano": "2026-07-23T12:04:59.696Z",
-  "azurirano": "2026-07-23T14:50:16.949Z",
+  "azurirano": "2026-07-23T14:50:30.408Z",
   "dokumenti": [
     {
       "naziv": "MSI 4705-101",
@@ -37,95 +37,6 @@
         {
           "naziv": "Klima uredaj 3,4 kW Hisense CA35LR03G/AS35LR03W 35LR03W",
           "barkod": "6926597761732",
-          "ocekivano": 2,
-          "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4706-101",
-      "stavke": [
-        {
-          "naziv": "PlayStation VR2",
-          "barkod": "711719453994",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PlayStation Link USB Adapter",
-          "barkod": "711719574392",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PlayStation VR2 PC adapter",
-          "barkod": "711719582915",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PS5 Pulse Elite wireless headset Midnight Black",
-          "barkod": "711719590101",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "PlayStation Portal remote player Midnight Black",
-          "barkod": "711719593171",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PS5 DualSense Edge Wireless Controller Midnight Black",
-          "barkod": "711719593263",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PS5 Pulse Elite wireless headset+",
-          "barkod": "711719598275",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Paldaone Astrobot kasica prasica",
-          "barkod": "5056577754568",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Cosmic Red za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719023012",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Grey Camo za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719023708",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Chroma Indigo v2",
-          "barkod": "711719023616",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Midnight Black + USB-C kabel za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719025979",
-          "ocekivano": 8,
-          "skenirano": 8
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Nova Pink za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719023043",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Galactic Purple za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719023074",
           "ocekivano": 2,
           "skenirano": 2
         }
