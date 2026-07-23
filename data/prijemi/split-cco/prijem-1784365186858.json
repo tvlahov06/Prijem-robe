@@ -5,7 +5,7 @@
   "datum": "2026-07-22",
   "status": "aktivan",
   "kreirano": "2026-07-22T21:10:27.293Z",
-  "azurirano": "2026-07-23T06:23:29.704Z",
+  "azurirano": "2026-07-23T06:23:38.087Z",
   "dokumenti": [
     {
       "naziv": "MSI 4714-101",
@@ -863,7 +863,7 @@
           "naziv": "Brijaci aparat Philips XP9403/31",
           "barkod": "8720689030250",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips HPS920/00",
@@ -953,7 +953,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/09 DiamondClean, Black",
           "barkod": "8710103935957",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9992/11 Prestige, Champagne",
