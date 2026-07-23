@@ -5,7 +5,7 @@
   "datum": "2026-07-22",
   "status": "aktivan",
   "kreirano": "2026-07-22T21:10:27.293Z",
-  "azurirano": "2026-07-23T06:16:04.551Z",
+  "azurirano": "2026-07-23T06:16:24.741Z",
   "dokumenti": [
     {
       "naziv": "MSI 4714-101",
@@ -630,7 +630,7 @@
           "naziv": "Usisavac robot Philips XU9100/10",
           "barkod": "8720389037887",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Gorenje K17OPW",
