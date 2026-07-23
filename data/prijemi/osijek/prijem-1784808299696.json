@@ -5,7 +5,7 @@
   "datum": "2026-07-23",
   "status": "aktivan",
   "kreirano": "2026-07-23T12:04:59.696Z",
-  "azurirano": "2026-07-23T14:17:49.609Z",
+  "azurirano": "2026-07-23T14:18:13.377Z",
   "dokumenti": [
     {
       "naziv": "MSI 4705-101",
@@ -913,7 +913,7 @@
           "naziv": "252420 Usisavac stapni Gorenje SVC252420FFA FFA",
           "barkod": "3838782889004",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST7051/30",
