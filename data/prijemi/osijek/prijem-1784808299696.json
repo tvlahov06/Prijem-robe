@@ -5,7 +5,7 @@
   "datum": "2026-07-23",
   "status": "aktivan",
   "kreirano": "2026-07-23T12:04:59.696Z",
-  "azurirano": "2026-07-23T12:35:01.842Z",
+  "azurirano": "2026-07-23T12:35:13.760Z",
   "dokumenti": [
     {
       "naziv": "MSI 4705-101",
@@ -542,7 +542,7 @@
           "naziv": "Susilo za kosu Philips BHD510/00",
           "barkod": "8710103948834",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD538/30",
@@ -644,7 +644,7 @@
           "naziv": "Uvijac za kosu Remington figaro CI5901 Coconut konusni 13-25 mm",
           "barkod": "5038061112825",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
