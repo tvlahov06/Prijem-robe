@@ -5,7 +5,7 @@
   "datum": "2026-07-23",
   "status": "aktivan",
   "kreirano": "2026-07-23T12:04:59.696Z",
-  "azurirano": "2026-07-23T12:31:22.871Z",
+  "azurirano": "2026-07-23T12:31:42.061Z",
   "dokumenti": [
     {
       "naziv": "MSI 4705-101",
@@ -620,7 +620,7 @@
           "naziv": "Sisac za kosu/bradu Philips HC5650/15",
           "barkod": "8710103897866",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetka za kosu Philips BHH885/00",
