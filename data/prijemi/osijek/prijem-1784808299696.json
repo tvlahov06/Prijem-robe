@@ -5,7 +5,7 @@
   "datum": "2026-07-23",
   "status": "aktivan",
   "kreirano": "2026-07-23T12:04:59.696Z",
-  "azurirano": "2026-07-23T14:10:49.333Z",
+  "azurirano": "2026-07-23T14:11:09.692Z",
   "dokumenti": [
     {
       "naziv": "MSI 4705-101",
@@ -775,7 +775,7 @@
           "naziv": "Glacalo Philips DST8020/20",
           "barkod": "8720389004773",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips GC7842/40",
@@ -919,7 +919,7 @@
           "naziv": "Glacalo Philips DST7051/30",
           "barkod": "8720389016073",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mop elektricni Philips XV5113/01",
