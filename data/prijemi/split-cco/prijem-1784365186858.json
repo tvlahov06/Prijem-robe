@@ -5,7 +5,7 @@
   "datum": "2026-07-22",
   "status": "aktivan",
   "kreirano": "2026-07-22T21:10:27.293Z",
-  "azurirano": "2026-07-23T06:25:34.839Z",
+  "azurirano": "2026-07-23T06:25:48.881Z",
   "dokumenti": [
     {
       "naziv": "MSI 4714-101",
@@ -911,7 +911,7 @@
           "naziv": "Pegla za kosu Philips BHS520/00",
           "barkod": "8710103974147",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips S7885/50",
@@ -1025,7 +1025,7 @@
           "naziv": "Pegla za kosu Philips BHS742/00",
           "barkod": "8720689023146",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0 Glacial Utopia",
