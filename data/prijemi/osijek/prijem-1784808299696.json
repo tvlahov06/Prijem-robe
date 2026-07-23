@@ -5,7 +5,7 @@
   "datum": "2026-07-23",
   "status": "aktivan",
   "kreirano": "2026-07-23T12:04:59.696Z",
-  "azurirano": "2026-07-23T14:18:13.377Z",
+  "azurirano": "2026-07-23T14:18:32.831Z",
   "dokumenti": [
     {
       "naziv": "MSI 4705-101",
@@ -871,7 +871,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST8040/30",
