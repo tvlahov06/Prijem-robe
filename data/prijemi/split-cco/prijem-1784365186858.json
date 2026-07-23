@@ -5,7 +5,7 @@
   "datum": "2026-07-22",
   "status": "aktivan",
   "kreirano": "2026-07-22T21:10:27.293Z",
-  "azurirano": "2026-07-23T05:40:34.325Z",
+  "azurirano": "2026-07-23T05:40:42.289Z",
   "dokumenti": [
     {
       "naziv": "MSI 4714-101",
@@ -450,7 +450,7 @@
           "naziv": "Usisavac Philips XD8122/10",
           "barkod": "8720389037931",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC500 dekalcifikator",
