@@ -5,7 +5,7 @@
   "datum": "2026-07-23",
   "status": "aktivan",
   "kreirano": "2026-07-23T12:04:59.696Z",
-  "azurirano": "2026-07-23T14:49:32.531Z",
+  "azurirano": "2026-07-23T14:49:48.845Z",
   "dokumenti": [
     {
       "naziv": "MSI 4705-101",
@@ -139,17 +139,6 @@
           "barkod": "3838782758317",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4708-101",
-      "stavke": [
-        {
-          "naziv": "SET POKLON PHILIPS - Set za plazu PHILIPS",
-          "barkod": "2010033159079",
-          "ocekivano": 10,
-          "skenirano": 10
         }
       ]
     },
