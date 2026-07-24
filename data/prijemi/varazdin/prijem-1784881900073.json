@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T08:52:38.868Z",
-  "azurirano": "2026-07-24T10:18:07.297Z",
+  "azurirano": "2026-07-24T10:18:44.528Z",
   "dokumenti": [
     {
       "naziv": "MSI 4813-101",
@@ -276,77 +276,6 @@
           "barkod": "196388813513",
           "ocekivano": 10,
           "skenirano": 10
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4748-101",
-      "stavke": [
-        {
-          "naziv": "Red Dead Redemption 2 PS4 F37",
-          "barkod": "5026555423052",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC Y compatible) sivi",
-          "barkod": "3499550360776",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Just Cause 4 Standard Edition PS4 F25",
-          "barkod": "5021290081963",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "GTA V PREMIUM ONLINE EDITION PS4 E32 S4",
-          "barkod": "5026555424264",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "Minecraft Starter Collection Refresh PS4 F33",
-          "barkod": "711719704096",
-          "ocekivano": 15,
-          "skenirano": 15
-        },
-        {
-          "naziv": "Assassins Creed Mirage PS4 C39",
-          "barkod": "3307216257707",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "PlayStation VR2",
-          "barkod": "711719453994",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Horizon Zero Dawn Remastered PS5",
-          "barkod": "711719592761",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "PS5 Pulse Elite wireless headset Midnight Black",
-          "barkod": "711719590101",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Nova Pink za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719023043",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Galactic Purple za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719023074",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
