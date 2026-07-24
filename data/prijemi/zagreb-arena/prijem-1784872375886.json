@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T05:52:55.886Z",
-  "azurirano": "2026-07-24T11:07:03.773Z",
+  "azurirano": "2026-07-24T11:07:15.497Z",
   "dokumenti": [
     {
       "naziv": "MSI 4773-101",
@@ -696,7 +696,7 @@
           "naziv": "Usisavac Philips FC9550/09",
           "barkod": "8710103860105",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG7200/20",
