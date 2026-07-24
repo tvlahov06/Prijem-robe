@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T05:52:55.886Z",
-  "azurirano": "2026-07-24T09:01:31.344Z",
+  "azurirano": "2026-07-24T09:03:19.507Z",
   "dokumenti": [
     {
       "naziv": "MSI 4773-101",
@@ -20,7 +20,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
           "barkod": "8720689027137",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6652/61 Face & Body",
@@ -176,7 +176,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9052/87 Premium Gum Care White 2/1",
           "barkod": "8720689036993",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9092/87 Premium All-In-One White 2/1",
@@ -212,7 +212,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/84 DiamondClean, Pink",
           "barkod": "8720689000963",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips XP9403/31",
@@ -248,7 +248,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7108/01 Sonicare Series 5300 White",
           "barkod": "8720689022835",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7110/01 Sonicare Series 5500 White",
@@ -266,7 +266,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7429/01 Sonicare Series 7100 DUO, Blue & White",
           "barkod": "8720689021432",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Pegla za kosu Philips BHS520/00",
@@ -374,13 +374,13 @@
           "naziv": "Brijac Philips BRL147/00, lady shaver",
           "barkod": "8720689039680",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX3792/11 Sonicare series 6800 Black",
           "barkod": "8720689046916",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za bradu Philips BT7670/15",
@@ -398,7 +398,7 @@
           "naziv": "Brijaci aparat Braun 5 52-N1200S",
           "barkod": "8700216645522",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
