@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T05:52:55.886Z",
-  "azurirano": "2026-07-24T11:00:45.045Z",
+  "azurirano": "2026-07-24T11:03:38.078Z",
   "dokumenti": [
     {
       "naziv": "MSI 4773-101",
@@ -774,7 +774,7 @@
           "naziv": "Osvjezivac odjece Philips STH3020/10",
           "barkod": "8710103970934",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3110 Piccolo XS white/burgundy PF",
@@ -792,7 +792,7 @@
           "naziv": "Osvjezivac odjece Philips STH3020/70",
           "barkod": "8720389037542",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso VERTUO Pop Black S GDV2-EUBKNE-S",
@@ -816,7 +816,7 @@
           "naziv": "Osvjezivac odjece Philips STH3010/30",
           "barkod": "8720389037535",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips GC7844/20",
@@ -864,7 +864,7 @@
           "naziv": "Uredaj za uklanjanje vlakana Philips GC026/80 Black",
           "barkod": "8720389024962",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9744/09",
