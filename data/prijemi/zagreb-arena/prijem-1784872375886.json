@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T05:52:55.886Z",
-  "azurirano": "2026-07-24T07:05:01.626Z",
+  "azurirano": "2026-07-24T07:11:02.296Z",
   "dokumenti": [
     {
       "naziv": "MSI 4773-101",
@@ -32,7 +32,7 @@
           "naziv": "Uvijaci - vikleri za kosu Remington H9100 Proluxe",
           "barkod": "4008496877515",
           "ocekivano": 8,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijac za glavu Philips HS7980/15",
@@ -44,7 +44,7 @@
           "naziv": "Stilizator za kosu Babyliss Air Wand AS6550E",
           "barkod": "3030050190731",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
@@ -170,7 +170,7 @@
           "naziv": "Uvijac za kosu Philips BHA710/00",
           "barkod": "8720689003872",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9052/87 Premium Gum Care White 2/1",
@@ -218,31 +218,31 @@
           "naziv": "Brijaci aparat Philips XP9403/31",
           "barkod": "8720689030250",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za kosu Philips HC7650/15",
           "barkod": "8710103897903",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu/bradu Philips HC3530/15",
           "barkod": "8710103859734",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za kosu/bradu Philips HC5650/15",
           "barkod": "8710103897866",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX6322/04 Kids, Green",
           "barkod": "8710103770237",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7108/01 Sonicare Series 5300 White",
@@ -260,7 +260,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7406/02 Sonicare Series 6100 Blue",
           "barkod": "8720689021784",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7429/01 Sonicare Series 7100 DUO, Blue & White",
@@ -356,7 +356,7 @@
           "naziv": "Uvijaci - vikleri za kosu Remington H5600 Ionic",
           "barkod": "4008496872879",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
