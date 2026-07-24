@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T08:52:38.868Z",
-  "azurirano": "2026-07-24T10:20:22.318Z",
+  "azurirano": "2026-07-24T10:21:17.457Z",
   "dokumenti": [
     {
       "naziv": "MSI 4749-101",
@@ -218,35 +218,6 @@
           "barkod": "8720689046848",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4810-101",
-      "stavke": [
-        {
-          "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
-          "barkod": "622356350907",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 15 M1502NAQ-BQ049, 39.6 cm 7V0 (15.6\") Full HD, AMD Ryzen 7 170, 16 GB RAM, 512 GB",
-          "barkod": "4711636350457",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "LG 32\" UltraFine Monitor 32UR550K-B, VA 4K UHD, 60Hz, U 4ms, Dynamic Action Sync, AMD FreeSync, DisplayPort, 2x",
-          "barkod": "8806096228159",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Perilica rublja Gorenje WPNA84A2TSWIFI IFI",
-          "barkod": "3838782858611",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     }
