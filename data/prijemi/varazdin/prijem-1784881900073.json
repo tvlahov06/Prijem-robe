@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T08:52:38.868Z",
-  "azurirano": "2026-07-24T09:17:47.740Z",
+  "azurirano": "2026-07-24T09:19:49.247Z",
   "dokumenti": [
     {
       "naziv": "MSI 4747-101",
@@ -98,7 +98,7 @@
           "naziv": "Glacalo Philips DST8020/20",
           "barkod": "8720389004773",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips GC7842/40",
@@ -182,7 +182,7 @@
           "naziv": "Glacalo Philips DST7020/20",
           "barkod": "8720389015564",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3020/70",
@@ -200,7 +200,7 @@
           "naziv": "Glacalo Gorenje SIH1800BLT",
           "barkod": "3838782404726",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Gorenje SIH1800TQC",
