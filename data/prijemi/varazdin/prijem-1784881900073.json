@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T08:31:40.073Z",
-  "azurirano": "2026-07-24T08:35:59.726Z",
+  "azurirano": "2026-07-24T08:36:25.005Z",
   "dokumenti": [
     {
       "naziv": "MSI 4747-101",
@@ -32,7 +32,7 @@
           "naziv": "Aparat za kavu Philips oprema CA6903/10 filter za vodu",
           "barkod": "8720389000508",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP243B10 Genio S anthracite PF",
@@ -242,7 +242,7 @@
           "naziv": "Vrecice za usisavac Philips FC8021/03 sinteticke, S-BAG, 4kom",
           "barkod": "8710103291381",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3031/01",
