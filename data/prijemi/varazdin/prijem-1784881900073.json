@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T08:47:06.844Z",
-  "azurirano": "2026-07-24T08:47:06.844Z",
+  "azurirano": "2026-07-24T08:51:12.818Z",
   "dokumenti": [
     {
       "naziv": "MSI 4747-101",
@@ -502,7 +502,7 @@
           "naziv": "Tus za zube Philips Sonicare HX3826/33 Power Flosser Cordless black",
           "barkod": "8720689011044",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips S3244/12",
@@ -526,7 +526,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7101/02 Sonicare Series 5300 Black",
           "barkod": "8720689025201",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7109/01 Sonicare Series 5300 DUO, Black & White",
@@ -628,7 +628,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX3792/12 Sonicare series 6800 Pink",
           "barkod": "8720689046848",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
