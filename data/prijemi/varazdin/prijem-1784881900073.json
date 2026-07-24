@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T08:52:38.868Z",
-  "azurirano": "2026-07-24T09:26:44.680Z",
+  "azurirano": "2026-07-24T09:26:52.424Z",
   "dokumenti": [
     {
       "naziv": "MSI 4747-101",
@@ -74,7 +74,7 @@
           "naziv": "Usisavac Gorenje VCEA01GACBUCY CY",
           "barkod": "3838782151651",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3510 Piccolo XS red/black BF",
@@ -230,7 +230,7 @@
           "naziv": "Usisavac Philips XD6122/12",
           "barkod": "8720389038259",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Gorenje T850DPB",
