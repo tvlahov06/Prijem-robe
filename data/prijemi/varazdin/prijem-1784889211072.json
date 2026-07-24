@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T10:33:31.072Z",
-  "azurirano": "2026-07-24T10:34:54.955Z",
+  "azurirano": "2026-07-24T10:35:08.859Z",
   "dokumenti": [
     {
       "naziv": "MSI 4752-101",
@@ -98,7 +98,7 @@
           "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
           "barkod": "8806097984795",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Carbon magnetna maska za Samsung Galaxy Fold8 Ultra crvena",
@@ -128,7 +128,7 @@
           "naziv": "Sat Samsung Galaxy Fit3 rozi",
           "barkod": "8806095362151",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
