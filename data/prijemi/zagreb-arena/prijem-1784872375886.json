@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T05:52:55.886Z",
-  "azurirano": "2026-07-24T06:54:52.871Z",
+  "azurirano": "2026-07-24T07:02:24.768Z",
   "dokumenti": [
     {
       "naziv": "MSI 4773-101",
@@ -68,7 +68,7 @@
           "naziv": "Tus za zube Philips Sonicare nastavak HX3042/00 Airfloss",
           "barkod": "8710103947028",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3333/24 Compact Flosser 1000, Blue",
@@ -80,7 +80,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP420/50 nastavci 360",
           "barkod": "8710103997153",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP440/50 nastavci 360",
@@ -98,7 +98,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7108/02 Sonicare Series 5300 White",
           "barkod": "8720689023009",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7109/01 Sonicare Series 5300 DUO, Black & White",
@@ -176,7 +176,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9052/87 Premium Gum Care White 2/1",
           "barkod": "8720689036993",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9092/87 Premium All-In-One White 2/1",
@@ -296,7 +296,7 @@
           "naziv": "Epilator Philips BRE719/00",
           "barkod": "8720689032933",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips BRI945/00 Lumea",
@@ -314,13 +314,13 @@
           "naziv": "Brijaci aparat Philips nastavak SH50/50 zamjenske glave",
           "barkod": "8710103736691",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips nastavak SH91/50 zamjenske glave",
           "barkod": "8710103978916",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7420/01 Sonicare Series 7100 White",
@@ -350,7 +350,7 @@
           "naziv": "Brijac za glavu Remington XR1600",
           "barkod": "5038061144017",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijaci - vikleri za kosu Remington H5600 Ionic",
