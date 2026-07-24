@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T05:52:55.886Z",
-  "azurirano": "2026-07-24T11:12:53.750Z",
+  "azurirano": "2026-07-24T11:13:02.338Z",
   "dokumenti": [
     {
       "naziv": "MSI 4773-101",
@@ -690,7 +690,7 @@
           "naziv": "Usisavac Philips FC9557/09",
           "barkod": "8720389036637",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9550/09",
@@ -870,7 +870,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 685.BK Dedica Style",
