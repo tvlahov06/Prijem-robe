@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T08:29:20.930Z",
-  "azurirano": "2026-07-24T08:34:17.941Z",
+  "azurirano": "2026-07-24T08:34:33.666Z",
   "dokumenti": [
     {
       "naziv": "MSI 160-141",
@@ -32,7 +32,7 @@
           "naziv": "Slusalice Corsair HS55, White",
           "barkod": "0840006657903",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Tipkovnica Corsair K70 RGB PRO Mechanical, Backlit RGB A LED, CHERRY MX Red, Black, Black PBT Keycaps",
@@ -50,7 +50,7 @@
           "naziv": "Slusalice Corsair VOID RGB ELITE, Carbon",
           "barkod": "0840006609834",
           "ocekivano": 2,
-          "skenirano": 2
+          "skenirano": 0
         },
         {
           "naziv": "Slusalice Corsair HS55, Carbon - EU",
