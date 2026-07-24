@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T05:52:55.886Z",
-  "azurirano": "2026-07-24T07:02:24.768Z",
+  "azurirano": "2026-07-24T07:05:01.626Z",
   "dokumenti": [
     {
       "naziv": "MSI 4773-101",
@@ -62,7 +62,7 @@
           "naziv": "Brijaci aparat Philips S3244/12",
           "barkod": "8720689018609",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Tus za zube Philips Sonicare nastavak HX3042/00 Airfloss",
@@ -86,7 +86,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP440/50 nastavci 360",
           "barkod": "8720689016148",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7101/02 Sonicare Series 5300 Black",
@@ -116,7 +116,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7410/02 Sonicare Series 6500 White",
           "barkod": "8720689021630",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Epilator Philips BRE728/00",
@@ -164,7 +164,7 @@
           "naziv": "Tus za zube Philips Sonicare HX3911/40 Power Flosser",
           "barkod": "8710103947257",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Uvijac za kosu Philips BHA710/00",
@@ -194,7 +194,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9094/88 Premium All-In-One Black 4/1",
           "barkod": "8720689037396",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD837/10",
@@ -254,7 +254,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7110/01 Sonicare Series 5500 White",
           "barkod": "8720689021562",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7406/02 Sonicare Series 6100 Blue",
@@ -290,7 +290,7 @@
           "naziv": "Brijaci aparat Philips XP9204/30",
           "barkod": "8720689030199",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Epilator Philips BRE719/00",
@@ -386,7 +386,7 @@
           "naziv": "Sisac za bradu Philips BT7670/15",
           "barkod": "8720689029421",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Uredaj za oblikovanje kose Shark HD424SLEU FlexStyle 3u1",
