@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T08:31:40.073Z",
-  "azurirano": "2026-07-24T08:38:21.347Z",
+  "azurirano": "2026-07-24T08:38:40.314Z",
   "dokumenti": [
     {
       "naziv": "MSI 4747-101",
@@ -188,7 +188,7 @@
           "naziv": "Osvjezivac odjece Philips STH3020/70",
           "barkod": "8720389037542",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "robot iRobot Roomba Combo Plus 505 + AutoWash dock white",
