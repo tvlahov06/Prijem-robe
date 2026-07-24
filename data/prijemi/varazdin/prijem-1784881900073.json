@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T08:31:40.073Z",
-  "azurirano": "2026-07-24T08:40:16.225Z",
+  "azurirano": "2026-07-24T08:40:35.361Z",
   "dokumenti": [
     {
       "naziv": "MSI 4747-101",
@@ -116,7 +116,7 @@
           "naziv": "Usisavac Bosch BGB6X330",
           "barkod": "4242005227860",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Russell Hobbs 26930-56 Colours Plus Jasmine",
@@ -338,7 +338,7 @@
           "naziv": "Usisavac Electrolux EPF61RR",
           "barkod": "7332543554201",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Gorenje K17OPB",
