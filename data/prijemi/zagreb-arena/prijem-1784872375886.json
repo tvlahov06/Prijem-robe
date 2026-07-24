@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T05:52:55.886Z",
-  "azurirano": "2026-07-24T07:40:59.453Z",
+  "azurirano": "2026-07-24T07:41:03.819Z",
   "dokumenti": [
     {
       "naziv": "MSI 4773-101",
@@ -768,7 +768,7 @@
           "naziv": "Glacalo Philips DST3031/20",
           "barkod": "8720389003066",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3020/10",
@@ -786,7 +786,7 @@
           "naziv": "Glacalo Philips DST7020/20",
           "barkod": "8720389015564",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3020/70",
@@ -888,7 +888,7 @@
           "naziv": "Glacalo Philips DST8040/30",
           "barkod": "8720389004599",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za izradu tjestenine Philips HR2665/96",
