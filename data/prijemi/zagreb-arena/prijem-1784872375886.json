@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T05:52:55.886Z",
-  "azurirano": "2026-07-24T06:53:26.530Z",
+  "azurirano": "2026-07-24T06:53:38.388Z",
   "dokumenti": [
     {
       "naziv": "MSI 4773-101",
@@ -134,19 +134,19 @@
           "naziv": "Susilo za kosu Philips BHD501/00",
           "barkod": "8710103976776",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD510/00",
           "barkod": "8710103948834",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD538/30",
           "barkod": "8720689023276",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Philips BHD720/10",
@@ -206,7 +206,7 @@
           "naziv": "Sisac za kosu Philips HC9420/15",
           "barkod": "8710103977926",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9911/84 DiamondClean, Pink",
@@ -278,13 +278,13 @@
           "naziv": "Susilo za kosu Philips HPS910/00 Prestige Pro",
           "barkod": "8710103625469",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips S7885/50",
           "barkod": "8720689009041",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips XP9204/30",
@@ -326,7 +326,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7420/01 Sonicare Series 7100 White",
           "barkod": "8720689021494",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips SC1998/00 Lumea",
@@ -344,7 +344,7 @@
           "naziv": "Susilo za kosu Philips BHD530/00",
           "barkod": "8710103977209",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac za glavu Remington XR1600",
