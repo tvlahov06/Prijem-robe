@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T05:52:55.886Z",
-  "azurirano": "2026-07-24T10:45:12.511Z",
+  "azurirano": "2026-07-24T10:45:14.599Z",
   "dokumenti": [
     {
       "naziv": "MSI 4773-101",
@@ -852,7 +852,7 @@
           "naziv": "Usisavac Electrolux EB51C2DB",
           "barkod": "7333394021676",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5010/70",
