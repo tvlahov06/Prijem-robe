@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T05:52:55.886Z",
-  "azurirano": "2026-07-24T09:25:04.581Z",
+  "azurirano": "2026-07-24T09:25:11.171Z",
   "dokumenti": [
     {
       "naziv": "MSI 4773-101",
@@ -1130,7 +1130,7 @@
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
           "barkod": "740617348408",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
@@ -1184,7 +1184,7 @@
           "naziv": "USB STICK Kingston DataTraveler microDuo 3C 64GB, USB GB 3.2, USB-A+C",
           "barkod": "740617328219",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
