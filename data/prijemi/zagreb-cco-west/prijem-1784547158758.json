@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "ROBA 20.07.26",
   "datum": "2026-07-20",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-20T11:32:38.758Z",
-  "azurirano": "2026-07-21T12:16:37.458Z",
+  "azurirano": "2026-07-24T08:28:47.379Z",
   "dokumenti": [
     {
       "naziv": "MSI 4623-101",
@@ -867,5 +867,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-24T08:28:47.379Z"
 }
