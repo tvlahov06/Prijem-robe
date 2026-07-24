@@ -1,0 +1,165 @@
+{
+  "id": "prijem-1784888741053",
+  "poslovnica": "varazdin",
+  "naziv": "",
+  "datum": "2026-07-24",
+  "status": "aktivan",
+  "kreirano": "2026-07-24T10:25:41.053Z",
+  "azurirano": "2026-07-24T10:25:41.053Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 4749-101",
+      "stavke": [
+        {
+          "naziv": "Samsung Galaxy Buds4 slusalice crne UC",
+          "barkod": "8806097998570",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony",
+          "barkod": "4548736170544",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX Cloud Jet Wireless Gaming Headset",
+          "barkod": "198701202189",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Samsung",
+          "barkod": "8806097091905",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Jolly Line univerzalni daljinski upravljac za Philips TV",
+          "barkod": "8028626017198",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4753-101",
+      "stavke": [
+        {
+          "naziv": "Punjac za ASUS laptope, 68W Type-C",
+          "barkod": "4711636433433",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347890",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347944",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR130, Zuta",
+          "barkod": "4711474835543",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR130, Crna",
+          "barkod": "4711474799708",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR130, Ljubicasta",
+          "barkod": "4711474835550",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD ADATA SU800, R560/W520, 512GB, 7mm, 2.5\" GT-C",
+          "barkod": "4712366967267",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE190, pojacivac signala AC750",
+          "barkod": "6935364089665",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 512GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348552",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA UV128, 64GB, USB3.2 BE",
+          "barkod": "4713435797150",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis WHITE SHARK KARUTA XL, ESL-MP1, 90x40cm",
+          "barkod": "0616320538897",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link USB 3.0 Gbit Ethernet Adapter & 3x USB hub",
+          "barkod": "6935364094553",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX PF Has 2 Core Wireless - Gaming Mouse Black",
+          "barkod": "197498115382",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
+          "barkod": "740617326260",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305 Black Original Ink Cartridge, 3YM61AE - Instant Ink",
+          "barkod": "194441597332",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON FD Exodia 64GB USB 3.2",
+          "barkod": "740617309829",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
+          "barkod": "4897098683446",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 652 Tri-Colour Original Ink Advantage Cartridge, F6V24AE",
+          "barkod": "889296160892",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer Viper V3 HyperSpeed 0-R3M1",
+          "barkod": "8886419334248",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
