@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T07:41:57.425Z",
-  "azurirano": "2026-07-25T15:58:31.987Z",
+  "azurirano": "2026-07-25T15:58:34.343Z",
   "dokumenti": [
     {
       "naziv": "MSI 4738-101",
@@ -413,7 +413,7 @@
           "naziv": "TP-Link RE190, pojacivac signala AC750",
           "barkod": "6935364089665",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk ADATA Ex HDD HD330, 1TB, usb3.2, plavi -CBL",
