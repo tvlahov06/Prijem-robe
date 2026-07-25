@@ -5,7 +5,7 @@
   "datum": "2026-07-24",
   "status": "aktivan",
   "kreirano": "2026-07-24T07:41:57.425Z",
-  "azurirano": "2026-07-25T15:50:23.246Z",
+  "azurirano": "2026-07-25T15:50:43.675Z",
   "dokumenti": [
     {
       "naziv": "MSI 4738-101",
@@ -204,7 +204,7 @@
           "naziv": "Mis Logitech M171, crni",
           "barkod": "5099206062856",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Podloga za mis Logitech G240",
@@ -300,7 +300,7 @@
           "naziv": "Zvucnici Logitech Z313, 2.1",
           "barkod": "5099206022898",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
