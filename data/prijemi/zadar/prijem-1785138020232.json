@@ -5,7 +5,7 @@
   "datum": "2026-07-27",
   "status": "aktivan",
   "kreirano": "2026-07-27T07:40:20.232Z",
-  "azurirano": "2026-07-27T10:00:44.102Z",
+  "azurirano": "2026-07-27T10:00:52.394Z",
   "dokumenti": [
     {
       "naziv": "MSI 4765-101",
@@ -559,23 +559,6 @@
           "barkod": "3168430296053",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4818-101",
-      "stavke": [
-        {
-          "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
-          "barkod": "622356350907",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Perilica rublja Gorenje WPNA84A2TSWIFI IFI",
-          "barkod": "3838782858611",
-          "ocekivano": 4,
-          "skenirano": 0
         }
       ]
     },
