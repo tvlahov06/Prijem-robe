@@ -5,7 +5,7 @@
   "datum": "2026-07-27",
   "status": "aktivan",
   "kreirano": "2026-07-27T07:40:20.232Z",
-  "azurirano": "2026-07-27T09:27:22.254Z",
+  "azurirano": "2026-07-27T09:27:41.354Z",
   "dokumenti": [
     {
       "naziv": "MSI 4820-101",
@@ -353,7 +353,7 @@
           "naziv": "Susilo za kosu Philips BHD510/00",
           "barkod": "8710103948834",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD720/10",
