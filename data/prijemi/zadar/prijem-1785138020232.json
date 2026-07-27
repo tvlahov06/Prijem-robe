@@ -5,7 +5,7 @@
   "datum": "2026-07-27",
   "status": "aktivan",
   "kreirano": "2026-07-27T07:40:20.232Z",
-  "azurirano": "2026-07-27T08:31:08.418Z",
+  "azurirano": "2026-07-27T08:31:21.512Z",
   "dokumenti": [
     {
       "naziv": "MSI 4820-101",
@@ -1148,7 +1148,7 @@
           "naziv": "Mis ACER AMR130, Zuta",
           "barkod": "4711474835543",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
@@ -1160,7 +1160,7 @@
           "naziv": "Mis ACER AMR130, Crna",
           "barkod": "4711474799708",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis ACER AMR130, Bijela",
