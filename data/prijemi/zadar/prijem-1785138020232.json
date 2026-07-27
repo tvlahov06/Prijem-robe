@@ -5,7 +5,7 @@
   "datum": "2026-07-27",
   "status": "aktivan",
   "kreirano": "2026-07-27T07:40:20.232Z",
-  "azurirano": "2026-07-27T09:25:17.009Z",
+  "azurirano": "2026-07-27T09:25:21.210Z",
   "dokumenti": [
     {
       "naziv": "MSI 4820-101",
@@ -335,7 +335,7 @@
           "naziv": "Epilator Philips BRE728/00",
           "barkod": "8720689032940",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips BRI973/00 Lumea",
