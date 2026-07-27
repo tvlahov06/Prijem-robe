@@ -5,7 +5,7 @@
   "datum": "2026-07-27",
   "status": "aktivan",
   "kreirano": "2026-07-27T07:40:20.232Z",
-  "azurirano": "2026-07-27T10:00:54.920Z",
+  "azurirano": "2026-07-27T10:00:59.182Z",
   "dokumenti": [
     {
       "naziv": "MSI 4765-101",
@@ -559,17 +559,6 @@
           "barkod": "3168430296053",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4807-101",
-      "stavke": [
-        {
-          "naziv": "TV SAMSUNG QE43Q7F2AUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
-          "barkod": "8806097211013",
-          "ocekivano": 5,
-          "skenirano": 0
         }
       ]
     },
