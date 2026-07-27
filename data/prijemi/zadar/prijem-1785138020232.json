@@ -5,7 +5,7 @@
   "datum": "2026-07-27",
   "status": "aktivan",
   "kreirano": "2026-07-27T07:40:20.232Z",
-  "azurirano": "2026-07-27T10:06:26.328Z",
+  "azurirano": "2026-07-27T10:07:11.380Z",
   "dokumenti": [
     {
       "naziv": "MSI 4765-101",
@@ -421,95 +421,6 @@
           "barkod": "193905429288",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4763-101",
-      "stavke": [
-        {
-          "naziv": "Assassin's Creed Odyssey Standard Edition PS4 G26",
-          "barkod": "3307216063834",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "PS5 DualSense Charging Station",
-          "barkod": "711719374107",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "PlayStation VR2",
-          "barkod": "711719453994",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PlayStation Link USB Adapter",
-          "barkod": "711719574392",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "PS5 Pulse Elite wireless headset Midnight Black",
-          "barkod": "711719590101",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "PS5 Pulse Elite wireless headset+",
-          "barkod": "711719598275",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PlayStation 5 Slim E chassis",
-          "barkod": "711719020172",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "PlayStation 5 Pro B chassis",
-          "barkod": "711719024125",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "Paladone Astrobot svjetiljka - Astrobot Icons",
-          "barkod": "5056577751697",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Grey Camo za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719023708",
-          "ocekivano": 8,
-          "skenirano": 8
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Chroma Indigo v2",
-          "barkod": "711719023616",
-          "ocekivano": 8,
-          "skenirano": 8
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Chroma Teal v2",
-          "barkod": "711719023838",
-          "ocekivano": 8,
-          "skenirano": 8
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Nova Pink za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719023043",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Galactic Purple za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719023074",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     }
