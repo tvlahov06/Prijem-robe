@@ -5,7 +5,7 @@
   "datum": "2026-07-27",
   "status": "aktivan",
   "kreirano": "2026-07-27T07:40:20.232Z",
-  "azurirano": "2026-07-27T10:00:59.182Z",
+  "azurirano": "2026-07-27T10:01:08.508Z",
   "dokumenti": [
     {
       "naziv": "MSI 4765-101",
@@ -765,29 +765,6 @@
         {
           "naziv": "Blender Nutribullet NB1206S PRO 1200W",
           "barkod": "8006447003323",
-          "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4678-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB grafitno crni",
-          "barkod": "8806099191818",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB rozi",
-          "barkod": "8806099191993",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB grafitno crni",
-          "barkod": "8806099186517",
           "ocekivano": 1,
           "skenirano": 0
         }
