@@ -5,7 +5,7 @@
   "datum": "2026-07-27",
   "status": "aktivan",
   "kreirano": "2026-07-27T07:40:20.232Z",
-  "azurirano": "2026-07-27T08:31:27.784Z",
+  "azurirano": "2026-07-27T08:31:32.962Z",
   "dokumenti": [
     {
       "naziv": "MSI 4820-101",
@@ -1178,7 +1178,7 @@
           "naziv": "Mis ACER AMR130, Zelena",
           "barkod": "4711474835567",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 256GB micSDHC Canvas Select Plus G3 150R+",
