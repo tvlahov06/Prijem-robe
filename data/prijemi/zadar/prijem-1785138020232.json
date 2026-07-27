@@ -5,7 +5,7 @@
   "datum": "2026-07-27",
   "status": "aktivan",
   "kreirano": "2026-07-27T07:40:20.232Z",
-  "azurirano": "2026-07-27T10:00:41.604Z",
+  "azurirano": "2026-07-27T10:00:44.102Z",
   "dokumenti": [
     {
       "naziv": "MSI 4765-101",
@@ -402,7 +402,7 @@
           "naziv": "Usisavac Philips FC9334/09",
           "barkod": "8710103796329",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST8020/20",
