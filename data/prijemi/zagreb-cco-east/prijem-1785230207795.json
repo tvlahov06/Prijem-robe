@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T09:16:47.795Z",
-  "azurirano": "2026-07-28T19:42:59.484Z",
+  "azurirano": "2026-07-28T19:43:07.903Z",
   "dokumenti": [
     {
       "naziv": "MSI 4846-101",
@@ -399,7 +399,7 @@
           "naziv": "PlayStation Link USB Adapter",
           "barkod": "711719574392",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bigben Dual Charging Station V3 (2 x Dualsense PS5 GERV3 Controller)",
@@ -411,7 +411,7 @@
           "naziv": "Nintendo Switch 2 Joy-Con Left Light Blue",
           "barkod": "0045496321390",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Paladone Playstation LED Neon Bulb stolna svjetiljka",
@@ -435,13 +435,13 @@
           "naziv": "Splatoon Raiders Switch 2",
           "barkod": "0045496314309",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "0017 Nintendo Switch 2 Joy-Con Pair Blue/Light Yellow",
           "barkod": "0045496321857",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 4
         }
       ]
     },
