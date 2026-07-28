@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:30:09.975Z",
-  "azurirano": "2026-07-28T09:03:52.086Z",
+  "azurirano": "2026-07-28T09:04:06.978Z",
   "dokumenti": [
     {
       "naziv": "MSI 4815-101",
@@ -14,7 +14,7 @@
           "naziv": "TV SAMSUNG QE43Q7F2AUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097211013",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         }
       ]
     },
@@ -344,7 +344,7 @@
           "naziv": "TV SAMSUNG QE43Q7F2AUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097211013",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG 43NU8E0B3LA 109.2cm (43\"), LED, 4K UHD Smart AEU TV, webOS",
@@ -651,7 +651,7 @@
           "naziv": "Usisavac Dyson V11 Advanced",
           "barkod": "5025155096093",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907CP 900W",
