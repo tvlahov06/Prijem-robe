@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "Tipkovnice_arena_2407",
   "datum": "2026-07-24",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-07-24T08:29:20.930Z",
-  "azurirano": "2026-07-24T08:42:44.989Z",
+  "azurirano": "2026-07-28T13:28:31.074Z",
   "dokumenti": [
     {
       "naziv": "MSI 160-141",
@@ -120,5 +120,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-07-28T13:28:31.074Z"
 }
