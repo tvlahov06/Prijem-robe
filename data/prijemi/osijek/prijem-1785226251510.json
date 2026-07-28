@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:10:51.510Z",
-  "azurirano": "2026-07-28T09:35:01.450Z",
+  "azurirano": "2026-07-28T09:35:17.173Z",
   "dokumenti": [
     {
       "naziv": "MSI 4740-101",
@@ -801,13 +801,13 @@
           "naziv": "H-100 TV nosac BOF TVM H-100",
           "barkod": "2010030072609",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "H-300 TV nosac BOF TVM H-300",
           "barkod": "2010030072623",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
