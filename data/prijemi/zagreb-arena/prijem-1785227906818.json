@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:38:26.818Z",
-  "azurirano": "2026-07-28T08:52:24.834Z",
+  "azurirano": "2026-07-28T08:52:32.617Z",
   "dokumenti": [
     {
       "naziv": "MSI 4890-101",
@@ -375,7 +375,7 @@
           "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525958",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TV PHILIPS 65PUS9010, 165.1cm (65\"), QLED, UHD 4K 120Hz, Smart TV, Titan OS - Ambilight",
@@ -489,13 +489,13 @@
           "naziv": "Susilo za kosu Dyson Supersonic Travel HD19 Ceramic pink/Rose gold",
           "barkod": "5025155130285",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Dyson Supersonic Nural HD16 Ceramic Apricot/Topaz Curly+Coily",
           "barkod": "5025155127216",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za sladoled Nutribullet NBD0503W",
