@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:38:26.818Z",
-  "azurirano": "2026-07-28T11:30:11.737Z",
+  "azurirano": "2026-07-28T11:30:15.072Z",
   "dokumenti": [
     {
       "naziv": "MSI 4890-101",
@@ -548,7 +548,7 @@
           "naziv": "Usisavac Dyson V16 Piston Animal",
           "barkod": "5025155114834",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V15s Detect Submarine",
