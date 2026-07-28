@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:38:26.818Z",
-  "azurirano": "2026-07-28T08:53:09.095Z",
+  "azurirano": "2026-07-28T09:00:58.923Z",
   "dokumenti": [
     {
       "naziv": "MSI 4890-101",
@@ -849,19 +849,19 @@
           "naziv": "TV SONY K55S25M2PB, 139 cm (55''), Bravia 2 II, 4K EI Google TV",
           "barkod": "4548736180345",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SONY K55XR8M25BP.CEI, 139.7cm (55\"), OLED, 4K CEI UHD SMART TV, Android TV",
           "barkod": "4548736170346",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SONY KD55X85LAEP, 139.7cm (55\"), LED, 4K UHD SMART TV, Android TV",
           "barkod": "4548736151024",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
