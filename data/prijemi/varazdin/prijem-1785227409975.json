@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:30:09.975Z",
-  "azurirano": "2026-07-28T09:50:40.858Z",
+  "azurirano": "2026-07-28T09:49:51.066Z",
   "dokumenti": [
     {
       "naziv": "MSI 4815-101",
@@ -262,35 +262,6 @@
           "naziv": "V-100 TV nosac BOF TVM V-100",
           "barkod": "2010030072630",
           "ocekivano": 2,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4905-101",
-      "stavke": [
-        {
-          "naziv": "L'oreal Steampod Concentrate 50ML ilo",
-          "barkod": "5905076328339",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
-          "barkod": "3474636819713",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
-          "barkod": "3474637116415",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0 Meteora Limited Edition",
-          "barkod": "3474637316907",
-          "ocekivano": 1,
           "skenirano": 0
         }
       ]
