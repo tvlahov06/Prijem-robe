@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:10:51.510Z",
-  "azurirano": "2026-07-28T11:12:51.738Z",
+  "azurirano": "2026-07-28T11:13:12.453Z",
   "dokumenti": [
     {
       "naziv": "MSI 4740-101",
@@ -26,17 +26,6 @@
           "barkod": "8806097211013",
           "ocekivano": 4,
           "skenirano": 4
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4842-101",
-      "stavke": [
-        {
-          "naziv": "Perilica rublja Gorenje WPNA84A2TSWIFI IFI",
-          "barkod": "3838782858611",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
