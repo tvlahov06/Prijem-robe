@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:10:51.510Z",
-  "azurirano": "2026-07-28T11:08:08.212Z",
+  "azurirano": "2026-07-28T11:08:16.459Z",
   "dokumenti": [
     {
       "naziv": "MSI 4740-101",
@@ -15,71 +15,6 @@
           "barkod": "196388813513",
           "ocekivano": 15,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4839-101",
-      "stavke": [
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
-          "barkod": "6942103168185",
-          "ocekivano": 7,
-          "skenirano": 7
-        },
-        {
-          "naziv": "Pametna vaga Huawei Scale 3 Frosty White (Dobby-B19)",
-          "barkod": "6941487283002",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
-          "barkod": "6942103101359",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT 5 41mm Gold Milanese Strap (Jana-B19M)",
-          "barkod": "6942103131981",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
-          "barkod": "6942103168154",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch Fit 3 crni (Solo-B09S)",
-          "barkod": "6942103118517",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
-          "barkod": "6942103168239",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Pametni sat Huawei Band 11 Pro Aluminum (Candy-B49F) Green",
-          "barkod": "6942103182648",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
-          "barkod": "6942103168246",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT 5 Pro 46mm Titanium (Vili-B29M)",
-          "barkod": "6942103132049",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
