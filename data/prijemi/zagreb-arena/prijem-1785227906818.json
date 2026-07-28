@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:38:26.818Z",
-  "azurirano": "2026-07-28T11:45:32.221Z",
+  "azurirano": "2026-07-28T11:46:41.526Z",
   "dokumenti": [
     {
       "naziv": "MSI 4848-101",
@@ -833,95 +833,6 @@
           "barkod": "4548736151024",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4889-101",
-      "stavke": [
-        {
-          "naziv": "Ratchet and Clank PS4 HITS C38",
-          "barkod": "711719415374",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Marvel's Spider-Man: Miles Morales PS5 D31",
-          "barkod": "711719836025",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Sackboy A Big Adventure! PS5 B36",
-          "barkod": "711719824121",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Ghost of Tsushima Director's Cut PS5 F35",
-          "barkod": "0711719714194",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Astro Bot PS5",
-          "barkod": "711719591115",
-          "ocekivano": 15,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Nintendo Switch 2 Micro SD Card Sandisk Mario Logo",
-          "barkod": "4523052030185",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Dualsense Edge Wireless Controller v2",
-          "barkod": "711719586654",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Assassins Creed Shadows Switch 2",
-          "barkod": "3307216307136",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Starlight Blue za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719022473",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Chroma Teal v2",
-          "barkod": "711719023838",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Tomodachi Life Switch",
-          "barkod": "045496513535",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Splatoon Raiders Switch 2",
-          "barkod": "0045496314309",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "0017 Nintendo Switch 2 Joy-Con Pair Blue/Light Yellow",
-          "barkod": "0045496321857",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Nintendo Switch 2 Console Pokemon Pokopia Bundle",
-          "barkod": "5949106281027",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     }
