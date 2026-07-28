@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:30:09.975Z",
-  "azurirano": "2026-07-28T09:14:27.500Z",
+  "azurirano": "2026-07-28T09:14:50.046Z",
   "dokumenti": [
     {
       "naziv": "MSI 4815-101",
@@ -367,7 +367,7 @@
           "naziv": "Laptop ACER Aspire Go 15 NX.J7WEX.00Q, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
           "barkod": "4711474945655",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA5337W, 39.6cm F90 (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
@@ -379,13 +379,13 @@
           "naziv": "Laptop ACER Aspire Lite 15 NX.DJWEX.001, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
           "barkod": "4711474693945",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Laptop ASUS Vivobook 15 M1502XA-BQ015, 39.6cm",
           "barkod": "4711636627733",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQ5473, 39.6cm MU0 (15.6\") IPS Full HD, AMD Ryzen 5 40, 8 GB RAM, 256 GB",
@@ -397,19 +397,19 @@
           "naziv": "Laptop ACER Nitro V 15 NH.QV2EX.006, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 7 240H, 16 GB RAM, 1 TB",
           "barkod": "4711474444752",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS TUF Gaming F16 FX608JMR-RV024, 40.6cm",
           "barkod": "4711636037297",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Nitro V 15 NH.QZAEX.009, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 9 270H, 16 GB RAM, 1 TB",
           "barkod": "4711474900760",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Apple Macbook Neo Silver, mhfa4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
