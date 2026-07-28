@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:38:26.818Z",
-  "azurirano": "2026-07-28T10:46:30.774Z",
+  "azurirano": "2026-07-28T10:46:54.478Z",
   "dokumenti": [
     {
       "naziv": "MSI 4890-101",
@@ -743,7 +743,7 @@
           "naziv": "H-200 TV nosac BOF TVM H-200",
           "barkod": "2010030072616",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "H-300 TV nosac BOF TVM H-300",
@@ -755,7 +755,7 @@
           "naziv": "V-200 TV nosac BOF TVM V-200",
           "barkod": "2010030072647",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "X-100 TV nosac BOF TVM X-100",
