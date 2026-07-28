@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:38:26.818Z",
-  "azurirano": "2026-07-28T11:25:18.741Z",
+  "azurirano": "2026-07-28T11:25:47.786Z",
   "dokumenti": [
     {
       "naziv": "MSI 4890-101",
@@ -602,19 +602,19 @@
           "naziv": "Blender Nutribullet NB907S 900W",
           "barkod": "8006447002487",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907MASL 900W",
           "barkod": "8006447003026",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907MAJD 900W",
           "barkod": "8006447003033",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
@@ -626,7 +626,7 @@
           "naziv": "Blender Nutribullet NB1206S PRO 1200W",
           "barkod": "8006447003323",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB1206GO-MC 1200W McLaren F1 Team Ultra",
