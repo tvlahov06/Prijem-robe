@@ -1,0 +1,354 @@
+{
+  "id": "prijem-1785245617148",
+  "poslovnica": "zagreb-cco-west",
+  "naziv": "roba_2807_chiiiiilicanajjaca",
+  "datum": "2026-07-28",
+  "status": "aktivan",
+  "kreirano": "2026-07-28T13:33:37.148Z",
+  "azurirano": "2026-07-28T13:33:37.148Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 4895-101",
+      "stavke": [
+        {
+          "naziv": "H-200 TV nosac BOF TVM H-200",
+          "barkod": "2010030072616",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-300 TV nosac BOF TVM H-300",
+          "barkod": "2010030072623",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-100 TV nosac BOF TVM V-100",
+          "barkod": "2010030072630",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "X-100 TV nosac BOF TVM X-100",
+          "barkod": "2010030072654",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4893-101",
+      "stavke": [
+        {
+          "naziv": "Astro Bot PS5",
+          "barkod": "711719591115",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch 2 Pro-Controller",
+          "barkod": "0045496321475",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pokemon Legends Z-A Nintendo Switch",
+          "barkod": "045496512989",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Elite wireless headset+",
+          "barkod": "711719598275",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Splatoon Raiders Switch 2",
+          "barkod": "0045496314309",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "0017 Nintendo Switch 2 Joy-Con Pair Blue/Light Yellow",
+          "barkod": "0045496321857",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4845-101",
+      "stavke": [
+        {
+          "naziv": "Tipkovnica + mis Logitech MK270, bezicna, crna",
+          "barkod": "5099206039384",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH MX Master 4 grafit",
+          "barkod": "5099206133082",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK470 Slim, bezicna, siva",
+          "barkod": "5099206086661",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G432, 7.1 gaming, zicane, crno-plave",
+          "barkod": "5099206082410",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
+          "barkod": "5099206092525",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M650 L, crni",
+          "barkod": "5099206097179",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M350s Pebble, graphite",
+          "barkod": "5099206110427",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G Pro X SE zicne",
+          "barkod": "5099206125575",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G Pro X Superlight 2 SE",
+          "barkod": "5099206129931",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Shifter Logitech Driving Force",
+          "barkod": "5099206057661",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "za mis Logitech G440 EWR",
+          "barkod": "5099206104396",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M705 Marathon, srebrni",
+          "barkod": "5099206023901",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M185, sivi",
+          "barkod": "5099206027275",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M650, crni",
+          "barkod": "5099206097223",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech G240",
+          "barkod": "5099206104334",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Unifying Receiver Logitech USB",
+          "barkod": "5099206091627",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M100, zicani, crni",
+          "barkod": "5099206104242",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G733, gaming, RGB, bezicne, crne",
+          "barkod": "5099206088719",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "volan LOGITECH G923 Trueforce, PC/PS4/PS5, USB, crna boja , Sim Racing volan",
+          "barkod": "5099206082793",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M330 Silent Plus, crni",
+          "barkod": "5099206066670",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech Lift Vertical Ergonomic, graphite",
+          "barkod": "5099206099784",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M196, crni",
+          "barkod": "5099206128330",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G PRO X Superlight 2, bijeli",
+          "barkod": "5099206104549",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M90, zicani, sivi",
+          "barkod": "5099206021860",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G403 HERO, LIGHTSYNC RGB, zicani, crni",
+          "barkod": "5099206083387",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G915 TKL X LIGHTSPEED, TACTILE, RGB Wireless Gaming",
+          "barkod": "5099206121683",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M196, rozi",
+          "barkod": "5099206128316",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica LOGITECH K250 graphite",
+          "barkod": "5099206130524",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G915 X LIGHTSPEED, gaming, LIGHTSYNC RGB, mehanicka-tactile, bezicna",
+          "barkod": "5099206121669",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech POP ICON Keys, White - US INTL - BT",
+          "barkod": "5099206127579",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G515 TKL black US",
+          "barkod": "5099206123175",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech Zone Vibe 100, bezicne, crne",
+          "barkod": "5099206103917",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH Gaming G502 X, opticki, 25600dpi, USB, crni",
+          "barkod": "5099206096295",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G515 RAPID TKL, gaming, crna",
+          "barkod": "5099206133013",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 crni",
+          "barkod": "1200130019272",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4896-101",
+      "stavke": [
+        {
+          "naziv": "L'oreal Steampod Concentrate 50ML ilo",
+          "barkod": "5905076328339",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
+          "barkod": "3474636819713",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
+          "barkod": "3474637116415",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0 Meteora Limited Edition",
+          "barkod": "3474637316907",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4894-101",
+      "stavke": [
+        {
+          "naziv": "Ventilator ELIT CARBON24",
+          "barkod": "3875001741958",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ventilator ELIT",
+          "barkod": "3875001741255",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosni ventilator SHARK FA022EU ChillPill 3-u-1",
+          "barkod": "0622356368568",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ventilator SHARK FA220EU Flex Breeze",
+          "barkod": "0622356288651",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
