@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:30:09.975Z",
-  "azurirano": "2026-07-28T09:49:51.066Z",
+  "azurirano": "2026-07-28T09:49:53.391Z",
   "dokumenti": [
     {
       "naziv": "MSI 4815-101",
@@ -238,29 +238,6 @@
         {
           "naziv": "0017 Nintendo Switch 2 Joy-Con Pair Blue/Light Yellow",
           "barkod": "0045496321857",
-          "ocekivano": 2,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4904-101",
-      "stavke": [
-        {
-          "naziv": "H-200 TV nosac BOF TVM H-200",
-          "barkod": "2010030072616",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "H-300 TV nosac BOF TVM H-300",
-          "barkod": "2010030072623",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "V-100 TV nosac BOF TVM V-100",
-          "barkod": "2010030072630",
           "ocekivano": 2,
           "skenirano": 0
         }
