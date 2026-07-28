@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:10:51.510Z",
-  "azurirano": "2026-07-28T09:39:47.960Z",
+  "azurirano": "2026-07-28T09:40:00.776Z",
   "dokumenti": [
     {
       "naziv": "MSI 4740-101",
@@ -413,7 +413,7 @@
           "naziv": "Mis Logitech B100, zicani",
           "barkod": "5099206041271",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M171, bijeli",
@@ -425,7 +425,7 @@
           "naziv": "Mis Logitech Lift Vertical Ergonomic, graphite",
           "barkod": "5099206099784",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M100, zicani, bijeli",
@@ -491,7 +491,7 @@
           "naziv": "Mis Logitech POP Universal, crni",
           "barkod": "5099206126381",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zvucnici Logitech Z313, 2.1",
