@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:10:51.510Z",
-  "azurirano": "2026-07-28T09:35:50.232Z",
+  "azurirano": "2026-07-28T09:36:51.981Z",
   "dokumenti": [
     {
       "naziv": "MSI 4740-101",
@@ -395,13 +395,13 @@
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, plavi",
           "barkod": "5099206089211",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech G502 HERO, LIGHTSYNC RGB, zicani, crni",
           "barkod": "5099206080263",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "volan LOGITECH G923 Trueforce, PC/PS4/PS5, USB, crna boja , Sim Racing volan",
@@ -836,7 +836,7 @@
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0 Meteora Limited Edition",
           "barkod": "3474637316907",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
