@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:38:26.818Z",
-  "azurirano": "2026-07-28T10:22:37.812Z",
+  "azurirano": "2026-07-28T10:25:31.569Z",
   "dokumenti": [
     {
       "naziv": "MSI 4890-101",
@@ -281,7 +281,7 @@
           "naziv": "Monitor 34\" Samsung ViewFinity S6 S65TC, EN LS34C650TAUXEN, VA, UWQHD, USB-C, Thunderbolt,",
           "barkod": "8806095207834",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 27\" Acer Nitro ED270US3, UM.HE0EE.306, QHD, 180Hz, 5ms, zakrivljen",
@@ -293,7 +293,7 @@
           "naziv": "Monitor ACER Vero V247YGbi, UM.QV7EE.G01, 60,5 cm (23.8\") IPS FHD, 16:9, 250nits, 1ms, HDMI, VGA, crni",
           "barkod": "4711474177056",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor ACER KA272G0bi, UM.HX2EE.039, 68,6 cm (27\") IPS FHD, 16:9, 250nits, 1ms, HDMI, VGA, crni",
@@ -305,13 +305,13 @@
           "naziv": "Monitor 27\" ACER Predator XB273UV3bmiiprzx QHD IPS 180Hz",
           "barkod": "4711121853074",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SAMSUNG 27\" ViewFinity S8 Monitor LS27D800UAUXEN, EN IPS 4K UHD, 60Hz, 5ms, HDR10, DisplayPort, HDMI,",
           "barkod": "8806095541945",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
@@ -323,7 +323,7 @@
           "naziv": "HP OfficeJet Pro 8122e All-in-One (405U3B) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Duplex, Wi-Fi, LAN, USB,",
           "barkod": "196337163881",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epson EcoTank L3270 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
@@ -341,13 +341,13 @@
           "naziv": "Epson EcoTank L3276 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
           "barkod": "8715946727271",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
           "barkod": "194850664199",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
