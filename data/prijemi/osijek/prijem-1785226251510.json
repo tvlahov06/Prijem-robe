@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:10:51.510Z",
-  "azurirano": "2026-07-28T09:23:20.624Z",
+  "azurirano": "2026-07-28T09:23:27.914Z",
   "dokumenti": [
     {
       "naziv": "MSI 4740-101",
@@ -673,7 +673,7 @@
           "naziv": "TV TCL 55P7K, 139.7cm (55\"), QLED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525934",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
@@ -702,7 +702,7 @@
           "naziv": "TV SAMSUNG QE43Q7F2AUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097211013",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -724,7 +724,7 @@
           "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525958",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "PRO TV HISENSE 55E7S PRO, 139.7cm (55\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
@@ -742,7 +742,7 @@
           "naziv": "TV HISENSE 32A4S, 81.3cm (32\"), DLED, HD Smart TV, VIDAA OS",
           "barkod": "6942351429205",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Televizor PHILIPS 55OLED820/12, 139 cm (55\") OLED Ambilight",
