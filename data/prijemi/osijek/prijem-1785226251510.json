@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:10:51.510Z",
-  "azurirano": "2026-07-28T11:01:43.782Z",
+  "azurirano": "2026-07-28T11:06:25.444Z",
   "dokumenti": [
     {
       "naziv": "MSI 4740-101",
@@ -15,95 +15,6 @@
           "barkod": "196388813513",
           "ocekivano": 15,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4834-101",
-      "stavke": [
-        {
-          "naziv": "Aparat za kavu DeLonghi EC 890.M Dedica Duo",
-          "barkod": "8004399032569",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Aparat za kavu DeLonghi EC 890.WI Dedica Duo",
-          "barkod": "8004399032545",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Aparat za kavu DeLonghi ECO 311.R Metal Icona Red",
-          "barkod": "8004399326774",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Kuhinjski asistent Kenwood KMX754APP pastelno rozi",
-          "barkod": "5011423007458",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
-          "barkod": "5025155127759",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac Dyson V16 Piston Animal",
-          "barkod": "5025155114834",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac Dyson V15s Detect Submarine",
-          "barkod": "5025155136218",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac Dyson V11 Advanced",
-          "barkod": "5025155096093",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB907CP 900W",
-          "barkod": "8006447000087",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Blender Nutribullet NB606R 600W",
-          "barkod": "8006447001190",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB907MASN 900W",
-          "barkod": "8006447003019",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NB907MASL 900W",
-          "barkod": "8006447003026",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB907MAJD 900W",
-          "barkod": "8006447003033",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB1206GO-MC 1200W McLaren F1 Team Ultra",
-          "barkod": "8006447003965",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
@@ -240,7 +151,7 @@
           "naziv": "Tinta HP 302 Tri-color Original Ink Cartridge, F6U65AE",
           "barkod": "888793802991",
           "ocekivano": 2,
-          "skenirano": 2
+          "skenirano": 0
         },
         {
           "naziv": "SSD ADATA SU630, R520/W450, 240GB, 7mm, 2.5\" GQ-R",
@@ -306,7 +217,7 @@
           "naziv": "Tinta HP 305XL Ink Cartridge 3YM63AE, Boja Tri-colour - Instant Ink",
           "barkod": "0194441597370",
           "ocekivano": 3,
-          "skenirano": 3
+          "skenirano": 0
         },
         {
           "naziv": "Mis Razer Viper V3 HyperSpeed 0-R3M1",
@@ -359,7 +270,7 @@
           "naziv": "Web kamera Logitech BRIO 500 bijela",
           "barkod": "5099206104921",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Volan LOGITECH G G29 + mjenjac",
@@ -679,7 +590,7 @@
           "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
           "barkod": "622356350907",
           "ocekivano": 4,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Laptop ASUS Vivobook 15 M1502NAQ-BQ049, 39.6 cm 7V0 (15.6\") Full HD, AMD Ryzen 7 170, 16 GB RAM, 512 GB",
