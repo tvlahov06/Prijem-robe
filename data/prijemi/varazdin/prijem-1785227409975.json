@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:30:09.975Z",
-  "azurirano": "2026-07-28T08:52:45.311Z",
+  "azurirano": "2026-07-28T08:52:49.054Z",
   "dokumenti": [
     {
       "naziv": "MSI 4815-101",
@@ -302,7 +302,7 @@
           "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525958",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "TV PHILIPS 65PUS9010, 165.1cm (65\"), QLED, UHD 4K 120Hz, Smart TV, Titan OS - Ambilight",
@@ -332,7 +332,7 @@
           "naziv": "TV SAMSUNG QE50Q7F2AUXXH, 127.0cm (50\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097211020",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Soundbar Philips TAB4000 2.0 Bluetooth",
