@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:38:26.818Z",
-  "azurirano": "2026-07-28T08:42:13.507Z",
+  "azurirano": "2026-07-28T08:42:22.058Z",
   "dokumenti": [
     {
       "naziv": "MSI 4890-101",
@@ -369,7 +369,7 @@
           "naziv": "TV SAMSUNG QE48S90FAEXXH, 121.9cm (48\"), OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097079422",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
@@ -393,13 +393,13 @@
           "naziv": "PRO TV HISENSE 55E7S PRO, 139.7cm (55\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351432779",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "PRO TV HISENSE 50E7S PRO, 127cm (50\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351432977",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 32A4S, 81.3cm (32\"), DLED, HD Smart TV, VIDAA OS",
@@ -441,7 +441,7 @@
           "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351431420",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TV SAMSUNG UE50U8072FUXXH, 127.0cm (50\"), LED, 4K XH UHD Smart TV, Tizen OS",
