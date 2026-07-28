@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:38:26.818Z",
-  "azurirano": "2026-07-28T10:22:21.248Z",
+  "azurirano": "2026-07-28T10:22:26.713Z",
   "dokumenti": [
     {
       "naziv": "MSI 4890-101",
@@ -209,7 +209,7 @@
           "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA2786, 39.6cm FB0 (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
           "barkod": "4711636470988",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15 NX.DJWEX.001, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
@@ -221,7 +221,7 @@
           "naziv": "Laptop ASUS Vivobook 15 M1502XA-BQ015, 39.6cm",
           "barkod": "4711636627733",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQ5473, 39.6cm MU0 (15.6\") IPS Full HD, AMD Ryzen 5 40, 8 GB RAM, 256 GB",
@@ -263,7 +263,7 @@
           "naziv": "Laptop ASUS Vivobook 16 X1605VA-SH2730, 40.6cm (16\") R60 OLED WUXGA, Intel Core 9 270H, 24 GB RAM, 1 TB SSD,",
           "barkod": "4711636392921",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Apple Macbook Air Starlight, mdha4cr/a, /M5/16GB/512GB-CRO",
