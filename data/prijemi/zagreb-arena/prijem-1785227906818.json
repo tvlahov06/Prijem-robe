@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:38:26.818Z",
-  "azurirano": "2026-07-28T10:00:04.415Z",
+  "azurirano": "2026-07-28T10:00:08.637Z",
   "dokumenti": [
     {
       "naziv": "MSI 4890-101",
@@ -245,7 +245,7 @@
           "naziv": "Laptop ASUS ROG Strix G16 G614PM-RV169, 40.6cm (16\") 08Y0 IPS WUXGA 165Hz, AMD Ryzen 9 8940HX, 16 GB RAM, 1",
           "barkod": "4711636513432",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS ROG Strix G16 G615LM-TS265W, 40.6 cm BN0 (16\") IPS 2.5K WQXGA 300Hz, Intel Core Ultra 9 290HX,",
@@ -269,7 +269,7 @@
           "naziv": "Laptop Apple Macbook Air Starlight, mdha4cr/a, /M5/16GB/512GB-CRO",
           "barkod": "195950688627",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO Legion Pro 5 83LT007WSC, 40.6cm (16\") OLED WQXGA 165Hz, AMD Ryzen 7 8745HX, 32 GB RAM, 1",
