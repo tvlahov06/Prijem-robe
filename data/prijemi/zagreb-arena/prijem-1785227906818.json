@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:38:26.818Z",
-  "azurirano": "2026-07-28T09:43:01.315Z",
+  "azurirano": "2026-07-28T10:00:04.415Z",
   "dokumenti": [
     {
       "naziv": "MSI 4890-101",
@@ -203,7 +203,7 @@
           "naziv": "Laptop ACER Aspire Go 15 NX.J7WEX.00Q, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
           "barkod": "4711474945655",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA2786, 39.6cm FB0 (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
@@ -269,13 +269,13 @@
           "naziv": "Laptop Apple Macbook Air Starlight, mdha4cr/a, /M5/16GB/512GB-CRO",
           "barkod": "195950688627",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO Legion Pro 5 83LT007WSC, 40.6cm (16\") OLED WQXGA 165Hz, AMD Ryzen 7 8745HX, 32 GB RAM, 1",
           "barkod": "199274270711",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 34\" Samsung ViewFinity S6 S65TC, EN LS34C650TAUXEN, VA, UWQHD, USB-C, Thunderbolt,",
