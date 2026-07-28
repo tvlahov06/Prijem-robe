@@ -1,0 +1,222 @@
+{
+  "id": "prijem-1785271600410",
+  "poslovnica": "split-cco",
+  "naziv": "",
+  "datum": "2026-07-28",
+  "status": "aktivan",
+  "kreirano": "2026-07-28T20:46:40.410Z",
+  "azurirano": "2026-07-28T20:46:40.410Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 4862-101",
+      "stavke": [
+        {
+          "naziv": "H-100 TV nosac BOF TVM H-100",
+          "barkod": "2010030072609",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-200 TV nosac BOF TVM H-200",
+          "barkod": "2010030072616",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-300 TV nosac BOF TVM H-300",
+          "barkod": "2010030072623",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-100 TV nosac BOF TVM V-100",
+          "barkod": "2010030072630",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-200 TV nosac BOF TVM V-200",
+          "barkod": "2010030072647",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "X-100 TV nosac BOF TVM X-100",
+          "barkod": "2010030072654",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4863-101",
+      "stavke": [
+        {
+          "naziv": "L'oreal Steampod Concentrate 50ML ilo",
+          "barkod": "5905076328339",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
+          "barkod": "3474636819713",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
+          "barkod": "3474637116415",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0 Meteora Limited Edition",
+          "barkod": "3474637316907",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4906-101",
+      "stavke": [
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC Y compatible) sivi",
+          "barkod": "3499550360776",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 DualSense Charging Station",
+          "barkod": "711719374107",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Minecraft Starter Collection Refresh PS4 F33",
+          "barkod": "711719704096",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GTA Trilogy PS4 B38",
+          "barkod": "5026555430807",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation VR2",
+          "barkod": "711719453994",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Marvel's Spider-Man 2 Standard Edition PS5 D35",
+          "barkod": "711719571698",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation Portal remote player",
+          "barkod": "711719582267",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Crew Motorfest PS5 D35",
+          "barkod": "3307216270096",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Astro Bot PS5",
+          "barkod": "711719591115",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Horizon Zero Dawn Remastered PS5",
+          "barkod": "711719592761",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Astrobot svjetiljka - Astrobot Icons",
+          "barkod": "5056577751697",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Techno Red",
+          "barkod": "711719020677",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Chroma Indigo v2",
+          "barkod": "711719023616",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim E chassis + PS5 Dualsense Wireless Controller",
+          "barkod": "711719022602",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "0017 Nintendo Switch 2 Joy-Con Pair Blue/Light Yellow",
+          "barkod": "0045496321857",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4907-101",
+      "stavke": [
+        {
+          "naziv": "Ventilator ELIT CARBON24",
+          "barkod": "3875001741958",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ventilator ELIT",
+          "barkod": "3875001741255",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosni ventilator SHARK FA022EU ChillPill 3-u-1",
+          "barkod": "0622356368568",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ventilator SHARK FA220EU Flex Breeze",
+          "barkod": "0622356288651",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4914-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
+          "barkod": "622356350907",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Gorenje WPNA84A2TSWIFI IFI",
+          "barkod": "3838782858611",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
