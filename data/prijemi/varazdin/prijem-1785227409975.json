@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:30:09.975Z",
-  "azurirano": "2026-07-28T09:49:53.391Z",
+  "azurirano": "2026-07-28T09:49:55.898Z",
   "dokumenti": [
     {
       "naziv": "MSI 4815-101",
@@ -197,47 +197,6 @@
         {
           "naziv": "Ventilator SHARK FA220EU Flex Breeze",
           "barkod": "0622356288651",
-          "ocekivano": 2,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4892-101",
-      "stavke": [
-        {
-          "naziv": "Far Cry 6 Standard Edition PS4 E38",
-          "barkod": "3307216170761",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Gran Turismo 7 Standard Edition PS5 C31",
-          "barkod": "711719766391",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Paladone Astrobot svjetiljka - Astrobot Icons",
-          "barkod": "5056577751697",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Chroma Teal v2",
-          "barkod": "711719023838",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Splatoon Raiders Switch 2",
-          "barkod": "0045496314309",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "0017 Nintendo Switch 2 Joy-Con Pair Blue/Light Yellow",
-          "barkod": "0045496321857",
           "ocekivano": 2,
           "skenirano": 0
         }
