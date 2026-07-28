@@ -5,7 +5,7 @@
   "datum": "2026-07-28",
   "status": "aktivan",
   "kreirano": "2026-07-28T08:10:51.510Z",
-  "azurirano": "2026-07-28T11:08:33.111Z",
+  "azurirano": "2026-07-28T11:12:12.126Z",
   "dokumenti": [
     {
       "naziv": "MSI 4740-101",
@@ -131,35 +131,6 @@
           "barkod": "2010030072623",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4855-101",
-      "stavke": [
-        {
-          "naziv": "L'oreal Steampod Concentrate 50ML ilo",
-          "barkod": "5905076328339",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
-          "barkod": "3474636819713",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
-          "barkod": "3474637116415",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0 Meteora Limited Edition",
-          "barkod": "3474637316907",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
