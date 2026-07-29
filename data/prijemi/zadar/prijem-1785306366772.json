@@ -5,7 +5,7 @@
   "datum": "2026-07-29",
   "status": "aktivan",
   "kreirano": "2026-07-29T06:26:06.772Z",
-  "azurirano": "2026-07-29T08:09:40.140Z",
+  "azurirano": "2026-07-29T08:12:22.161Z",
   "dokumenti": [
     {
       "naziv": "MSI 4875-101",
@@ -50,137 +50,6 @@
           "barkod": "6926597761725",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4832-101",
-      "stavke": [
-        {
-          "naziv": "Laptop ACER Aspire Lite 15 NX.DK1EX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711474852366",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ACER Aspire Go 15 NX.J7WEX.00Q, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711474945655",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA2786, 39.6cm FB0 (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
-          "barkod": "4711636470988",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop HP 255 G10, 39.6cm (15.6\") Full HD, AMD Ryzen 5 1P 7530U, 16 GB RAM, 512GB SSD, AMD Radeon",
-          "barkod": "2010030201313",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 15 M1502XA-BQ015, 39.6cm",
-          "barkod": "4711636627733",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQ5473, 39.6cm MU0 (15.6\") IPS Full HD, AMD Ryzen 5 40, 8 GB RAM, 256 GB",
-          "barkod": "4711636560870",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A16 FA607NUQ-RL014, 40.6cm 4L0 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 170, 16 GB RAM,",
-          "barkod": "4711636446716",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop LENOVO IdeaPad Slim 3 83K8007WSC, 40.6cm (16\") IPS WUXGA, AMD Ryzen 7 7735HS, 16 GB RAM, 1 TB",
-          "barkod": "199273341863",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Indigo, mhff4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
-          "barkod": "195950852578",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A16 FA608UHI-TU657W, 40.6cm HK0 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 260, 16 GB RAM,",
-          "barkod": "4711636546782",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A16 FA607NUG-RL142, 40.6cm A00 (16\") FHD+ WUXGA 144Hz, AMD Ryzen 7 7445HS, 16 GB",
-          "barkod": "4711636145053",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Air Starlight, mdha4cr/a, /M5/16GB/512GB-CRO",
-          "barkod": "195950688627",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 27\" Acer Nitro ED270US3, UM.HE0EE.306, QHD, 180Hz, 5ms, zakrivljen",
-          "barkod": "4711121917981",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor ACER KA272G0bi, UM.HX2EE.039, 68,6 cm (27\") IPS FHD, 16:9, 250nits, 1ms, HDMI, VGA, crni",
-          "barkod": "4711474169532",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 34\" Samsung Odyssey G55T, LC34G55TWWPXEN, XEN VA, UWQHD, 165Hz, zakrivljen",
-          "barkod": "8806094796315",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789556",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 2922 All-in-One (A24HVB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789792",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Epson EcoTank L3270 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
-          "barkod": "8715946727097",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Epson EcoTank L3271 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
-          "barkod": "8715946729701",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Epson EcoTank L3276 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
-          "barkod": "8715946727271",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
-          "barkod": "194850664199",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
