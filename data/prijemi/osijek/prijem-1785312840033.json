@@ -5,7 +5,7 @@
   "datum": "2026-07-29",
   "status": "aktivan",
   "kreirano": "2026-07-29T08:14:00.033Z",
-  "azurirano": "2026-07-29T08:43:35.948Z",
+  "azurirano": "2026-07-29T08:44:10.063Z",
   "dokumenti": [
     {
       "naziv": "MSI 4740-101",
@@ -146,35 +146,6 @@
           "barkod": "0194850664267",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4886-101",
-      "stavke": [
-        {
-          "naziv": "Ventilator ELIT CARBON24",
-          "barkod": "3875001741958",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Ventilator ELIT",
-          "barkod": "3875001741255",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Prijenosni ventilator SHARK FA022EU ChillPill 3-u-1",
-          "barkod": "0622356368568",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Ventilator SHARK FA220EU Flex Breeze",
-          "barkod": "0622356288651",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
