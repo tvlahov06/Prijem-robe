@@ -5,7 +5,7 @@
   "datum": "2026-07-29",
   "status": "aktivan",
   "kreirano": "2026-07-29T06:26:06.772Z",
-  "azurirano": "2026-07-29T06:38:12.911Z",
+  "azurirano": "2026-07-29T06:38:20.828Z",
   "dokumenti": [
     {
       "naziv": "MSI 4765-101",
@@ -79,7 +79,7 @@
           "naziv": "TV LG 55QNED86A3A 139.7cm (55\"), QNED, 4K UHD AEU Smart TV, webOS",
           "barkod": "8806096309650",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
@@ -121,7 +121,7 @@
           "naziv": "TV SAMSUNG QE50Q7F2AUXXH, 127.0cm (50\"), QLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097211020",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55QN85FAUXXH, 139.7cm (55\"), Neo XH QLED Mini LED, 4K UHD Smart TV, Tizen OS",
@@ -133,7 +133,7 @@
           "naziv": "Televizor PHILIPS 55OLED820/12, 139 cm (55\") OLED Ambilight",
           "barkod": "8718863046487",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Soundbar Hisense HS5100",
