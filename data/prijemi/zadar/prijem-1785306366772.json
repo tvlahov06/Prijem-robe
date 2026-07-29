@@ -1,0 +1,913 @@
+{
+  "id": "prijem-1785306366772",
+  "poslovnica": "zadar",
+  "naziv": "",
+  "datum": "2026-07-29",
+  "status": "aktivan",
+  "kreirano": "2026-07-29T06:26:06.772Z",
+  "azurirano": "2026-07-29T06:26:06.772Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 4765-101",
+      "stavke": [
+        {
+          "naziv": "SBOX EB-TWS-101, bijela boja | True Wireless slusalice",
+          "barkod": "3858894502547",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX Cloud III S Wireless Headset Black",
+          "barkod": "198415435590",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony",
+          "barkod": "4548736170599",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ROCKET Hisense Zvucnik PARTY ROCKET 160",
+          "barkod": "6942351411071",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Samsung",
+          "barkod": "8806097097068",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX EB-TWS-12, crna boja | Bezicne slusalice",
+          "barkod": "3858894504510",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Samsung",
+          "barkod": "8806097091929",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "BLACK Slusalice WHITE SHARK FALCON, WGH-2441, Crne, bezicne",
+          "barkod": "3858894505050",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vogel's TVM5705, ELITE zidni nosac za TV od 40\"-110\", fiksni, max 100kg",
+          "barkod": "8712285413629",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-200 TV nosac BOF TVM V-200",
+          "barkod": "2010030072647",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4802-101",
+      "stavke": [
+        {
+          "naziv": "TV LG 55QNED86A3A 139.7cm (55\"), QNED, 4K UHD AEU Smart TV, webOS",
+          "barkod": "8806096309650",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525958",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 55E8S, 139.7cm (55\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351434582",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 50A6S, 127cm (50\"), DLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351430263",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PRO TV HISENSE 55E7S PRO, 139.7cm (55\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351432779",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PRO TV HISENSE 50E7S PRO, 127cm (50\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351432977",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 32A4S, 81.3cm (32\"), DLED, HD Smart TV, VIDAA OS",
+          "barkod": "6942351429205",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE50Q7F2AUXXH, 127.0cm (50\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097211020",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE55QN85FAUXXH, 139.7cm (55\"), Neo XH QLED Mini LED, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806097051589",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor PHILIPS 55OLED820/12, 139 cm (55\") OLED Ambilight",
+          "barkod": "8718863046487",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Hisense HS5100",
+          "barkod": "6942351409078",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE43Q7F2AUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097211013",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 43NU8E0B3LA 109.2cm (43\"), LED, 4K UHD Smart AEU TV, webOS",
+          "barkod": "8806096768471",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 55NU800B3LA 139.7cm (55\"), LED, 4K UHD Smart AEUQ TV, webOS",
+          "barkod": "8806096728390",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V10 Konical Moulded Vinca/Black + stanica za automatsko praznjenje",
+          "barkod": "5025155135044",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Dyson Supersonic Travel HD19 Ceramic pink/Rose gold",
+          "barkod": "5025155130285",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za sladoled Nutribullet NBD0503W",
+          "barkod": "8006447005211",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4807-101",
+      "stavke": [
+        {
+          "naziv": "TV SAMSUNG QE43Q7F2AUXXH, 109.2cm (43\"), QLED, 4K H UHD Smart TV, Tizen OS",
+          "barkod": "8806097211013",
+          "ocekivano": 5,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4817-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu DeLonghi EC 890.M Dedica Duo",
+          "barkod": "8004399032569",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi EC 890.WI Dedica Duo",
+          "barkod": "8004399032545",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi ECO 311.R Metal Icona Red",
+          "barkod": "8004399326774",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
+          "barkod": "5025155127759",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V8 Absolute",
+          "barkod": "5025155090152",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V10 Absolute",
+          "barkod": "5025155088081",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V16 Piston Animal",
+          "barkod": "5025155114834",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V15s Detect Submarine",
+          "barkod": "5025155136218",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V11 Advanced",
+          "barkod": "5025155096093",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dyson ventilator, grije i hladi, Hot + Cool HF1",
+          "barkod": "5025155111918",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907CP 900W",
+          "barkod": "8006447000087",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907MASN 900W",
+          "barkod": "8006447003019",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206S PRO 1200W",
+          "barkod": "8006447003323",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4818-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
+          "barkod": "622356350907",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Gorenje WPNA84A2TSWIFI IFI",
+          "barkod": "3838782858611",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4820-101",
+      "stavke": [
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
+          "barkod": "6942103168185",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna vaga Huawei Scale 3 Frosty White (Dobby-B19)",
+          "barkod": "6941487283002",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
+          "barkod": "6942103101359",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 41mm Gold Milanese Strap (Jana-B19M)",
+          "barkod": "6942103131981",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
+          "barkod": "6942103168154",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Fit 3 crni (Solo-B09S)",
+          "barkod": "6942103118517",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Pro Titanium 46mm (Atum-B29M)",
+          "barkod": "6942103168192",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4875-101",
+      "stavke": [
+        {
+          "naziv": "Ventilator ELIT CARBON24",
+          "barkod": "3875001741958",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ventilator ELIT",
+          "barkod": "3875001741255",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosni ventilator SHARK FA022EU ChillPill 3-u-1",
+          "barkod": "0622356368568",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ventilator SHARK FA220EU Flex Breeze",
+          "barkod": "0622356288651",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4877-101",
+      "stavke": [
+        {
+          "naziv": "Klima uredaj 5,0 kW Hisense CA50XS1GG/AS50XS1GW 50XS1GW",
+          "barkod": "6926597759616",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
+          "barkod": "6926597761725",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4832-101",
+      "stavke": [
+        {
+          "naziv": "Laptop ACER Aspire Lite 15 NX.DK1EX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
+          "barkod": "4711474852366",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Aspire Go 15 NX.J7WEX.00Q, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
+          "barkod": "4711474945655",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA2786, 39.6cm FB0 (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
+          "barkod": "4711636470988",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP 255 G10, 39.6cm (15.6\") Full HD, AMD Ryzen 5 1P 7530U, 16 GB RAM, 512GB SSD, AMD Radeon",
+          "barkod": "2010030201313",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Vivobook 15 M1502XA-BQ015, 39.6cm",
+          "barkod": "4711636627733",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQ5473, 39.6cm MU0 (15.6\") IPS Full HD, AMD Ryzen 5 40, 8 GB RAM, 256 GB",
+          "barkod": "4711636560870",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming A16 FA607NUQ-RL014, 40.6cm 4L0 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 170, 16 GB RAM,",
+          "barkod": "4711636446716",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop LENOVO IdeaPad Slim 3 83K8007WSC, 40.6cm (16\") IPS WUXGA, AMD Ryzen 7 7735HS, 16 GB RAM, 1 TB",
+          "barkod": "199273341863",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Neo Indigo, mhff4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
+          "barkod": "195950852578",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming A16 FA608UHI-TU657W, 40.6cm HK0 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 260, 16 GB RAM,",
+          "barkod": "4711636546782",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming A16 FA607NUG-RL142, 40.6cm A00 (16\") FHD+ WUXGA 144Hz, AMD Ryzen 7 7445HS, 16 GB",
+          "barkod": "4711636145053",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Air Starlight, mdha4cr/a, /M5/16GB/512GB-CRO",
+          "barkod": "195950688627",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 27\" Acer Nitro ED270US3, UM.HE0EE.306, QHD, 180Hz, 5ms, zakrivljen",
+          "barkod": "4711121917981",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor ACER KA272G0bi, UM.HX2EE.039, 68,6 cm (27\") IPS FHD, 16:9, 250nits, 1ms, HDMI, VGA, crni",
+          "barkod": "4711474169532",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 34\" Samsung Odyssey G55T, LC34G55TWWPXEN, XEN VA, UWQHD, 165Hz, zakrivljen",
+          "barkod": "8806094796315",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "198828789556",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP DeskJet 2922 All-in-One (A24HVB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "198828789792",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epson EcoTank L3270 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
+          "barkod": "8715946727097",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epson EcoTank L3271 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
+          "barkod": "8715946729701",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epson EcoTank L3276 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
+          "barkod": "8715946727271",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
+          "barkod": "194850664199",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4864-101",
+      "stavke": [
+        {
+          "naziv": "L'oreal Steampod Concentrate 50ML ilo",
+          "barkod": "5905076328339",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
+          "barkod": "3474636819713",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
+          "barkod": "3474637116415",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0 Meteora Limited Edition",
+          "barkod": "3474637316907",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4865-101",
+      "stavke": [
+        {
+          "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Silver",
+          "barkod": "195950086171",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Blue",
+          "barkod": "195950086409",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
+          "barkod": "195950627190",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Cosmic Orange",
+          "barkod": "195950627398",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4908-101",
+      "stavke": [
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC compatible) crveni",
+          "barkod": "3499550360714",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sackboy A Big Adventure! PS5 B36",
+          "barkod": "711719824121",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sackboy A Big Adventure! PS4 D27",
+          "barkod": "711719822325",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Astro Bot PS5",
+          "barkod": "711719591115",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Super Mario Galaxy 1 + 2 Switch",
+          "barkod": "045496513085",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pokemon Pokopia (GAME KEY CARD) Switch 2",
+          "barkod": "0045496313821",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Splatoon Raiders Switch 2",
+          "barkod": "0045496314309",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "0017 Nintendo Switch 2 Joy-Con Pair Blue/Light Yellow",
+          "barkod": "0045496321857",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4916-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
+          "barkod": "622356350907",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4866-101",
+      "stavke": [
+        {
+          "naziv": "Mis LOGITECH MX Master 3S \"SE\" grafit",
+          "barkod": "5099206129382",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK270, bezicna, crna",
+          "barkod": "5099206039384",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH MX Master 4 grafit",
+          "barkod": "5099206133082",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
+          "barkod": "5099206092525",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G G321 crne",
+          "barkod": "5099206133303",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Shifter Logitech Driving Force",
+          "barkod": "5099206057661",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M185, sivi",
+          "barkod": "5099206027275",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M171, crni",
+          "barkod": "5099206062856",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M190, crni",
+          "barkod": "5099206091825",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M190, sivi",
+          "barkod": "5099206091832",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G PRO X Superlight 2, crni",
+          "barkod": "5099206104525",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M330 Silent Plus, crni",
+          "barkod": "5099206066670",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M171, plavi",
+          "barkod": "5099206062863",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnici Logitech Z207, 2.0, crni",
+          "barkod": "5099206075023",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M650, rozi",
+          "barkod": "5099206097230",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G403 HERO, LIGHTSYNC RGB, zicani, crni",
+          "barkod": "5099206083387",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice LOGITECH G325 - Crne",
+          "barkod": "5099206129856",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M196, rozi",
+          "barkod": "5099206128316",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica LOGITECH K250 graphite",
+          "barkod": "5099206130524",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech BRIO 100 bijela",
+          "barkod": "5099206113275",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G402 Hyperion Fury, zicani",
+          "barkod": "5099206051768",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice LOGITECH G325 - Bijele",
+          "barkod": "5099206129849",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G535 LIGHTSPEED, gaming, bezicne, crno-plave",
+          "barkod": "5099206125513",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4870-101",
+      "stavke": [
+        {
+          "naziv": "Klima uredaj 3,4 kW Hisense CA35LR03G/AS35LR03W 35LR03W",
+          "barkod": "6926597761732",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
+          "barkod": "6926597761725",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Klima uredaj 3,5kW Mitsubishi Electric MSZ-DW",
+          "barkod": "8851492268131",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja slim Hisense WF3S7021BW",
+          "barkod": "6901101826602",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena indukcija Gorenje GI6442BSCE",
+          "barkod": "3838782836763",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pecnica ugradbena Gorenje BOS6737E06B",
+          "barkod": "3838782505652",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pecnica ugradbena Gorenje BPS6737E04DBG",
+          "barkod": "3838782755217",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda samostojeca 45cm Gorenje GS520E15W",
+          "barkod": "3838782574450",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda ugradbena 45cm Gorenje GV520E15",
+          "barkod": "3838782574436",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda samostojeca 60cm Hisense HS642D90B",
+          "barkod": "6974805075805",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja HISENSE WF1I7022BWJ2",
+          "barkod": "6901101837479",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena Bosch PUE611BB5E",
+          "barkod": "4242005285082",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena Bosch PIX631HC1E",
+          "barkod": "4242005394111",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna indukcijska ploca Philips HD5850/90, Indukcijska ploca",
+          "barkod": "8720389068423",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 4874-101",
+      "stavke": [
+        {
+          "naziv": "H-100 TV nosac BOF TVM H-100",
+          "barkod": "2010030072609",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-200 TV nosac BOF TVM H-200",
+          "barkod": "2010030072616",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-300 TV nosac BOF TVM H-300",
+          "barkod": "2010030072623",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-100 TV nosac BOF TVM V-100",
+          "barkod": "2010030072630",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-200 TV nosac BOF TVM V-200",
+          "barkod": "2010030072647",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "X-100 TV nosac BOF TVM X-100",
+          "barkod": "2010030072654",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
