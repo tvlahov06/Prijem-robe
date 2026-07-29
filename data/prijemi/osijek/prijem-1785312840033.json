@@ -5,7 +5,7 @@
   "datum": "2026-07-29",
   "status": "aktivan",
   "kreirano": "2026-07-29T08:14:00.033Z",
-  "azurirano": "2026-07-29T08:27:31.848Z",
+  "azurirano": "2026-07-29T08:28:45.068Z",
   "dokumenti": [
     {
       "naziv": "MSI 4740-101",
@@ -146,41 +146,6 @@
           "barkod": "0194850664267",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4885-101",
-      "stavke": [
-        {
-          "naziv": "Far Cry 6 Standard Edition PS4 E38",
-          "barkod": "3307216170761",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Minecraft Starter Collection Refresh PS4 F33",
-          "barkod": "711719704096",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Rhythm Blue",
-          "barkod": "711719020943",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Splatoon Raiders Switch 2",
-          "barkod": "0045496314309",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "0017 Nintendo Switch 2 Joy-Con Pair Blue/Light Yellow",
-          "barkod": "0045496321857",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
