@@ -5,7 +5,7 @@
   "datum": "2026-07-30",
   "status": "aktivan",
   "kreirano": "2026-07-30T07:15:50.330Z",
-  "azurirano": "2026-07-30T09:14:22.099Z",
+  "azurirano": "2026-07-30T09:14:25.142Z",
   "dokumenti": [
     {
       "naziv": "MSI 4864-101",
@@ -362,59 +362,6 @@
         {
           "naziv": "Ventilator SHARK FA220EU Flex Breeze",
           "barkod": "0622356288651",
-          "ocekivano": 4,
-          "skenirano": 4
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4908-101",
-      "stavke": [
-        {
-          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC compatible) crveni",
-          "barkod": "3499550360714",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Sackboy A Big Adventure! PS5 B36",
-          "barkod": "711719824121",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sackboy A Big Adventure! PS4 D27",
-          "barkod": "711719822325",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Astro Bot PS5",
-          "barkod": "711719591115",
-          "ocekivano": 15,
-          "skenirano": 15
-        },
-        {
-          "naziv": "Super Mario Galaxy 1 + 2 Switch",
-          "barkod": "045496513085",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pokemon Pokopia (GAME KEY CARD) Switch 2",
-          "barkod": "0045496313821",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Splatoon Raiders Switch 2",
-          "barkod": "0045496314309",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "0017 Nintendo Switch 2 Joy-Con Pair Blue/Light Yellow",
-          "barkod": "0045496321857",
           "ocekivano": 4,
           "skenirano": 4
         }
