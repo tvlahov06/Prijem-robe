@@ -5,7 +5,7 @@
   "datum": "2026-07-30",
   "status": "aktivan",
   "kreirano": "2026-07-30T07:15:50.330Z",
-  "azurirano": "2026-07-30T08:03:28.100Z",
+  "azurirano": "2026-07-30T08:03:38.163Z",
   "dokumenti": [
     {
       "naziv": "MSI 4864-101",
@@ -150,7 +150,7 @@
           "naziv": "Zvucnici Logitech Z207, 2.0, crni",
           "barkod": "5099206075023",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M650, rozi",
@@ -174,7 +174,7 @@
           "naziv": "Mis Logitech M196, rozi",
           "barkod": "5099206128316",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica LOGITECH K250 graphite",
