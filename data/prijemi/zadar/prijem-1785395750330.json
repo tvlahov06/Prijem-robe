@@ -5,7 +5,7 @@
   "datum": "2026-07-30",
   "status": "aktivan",
   "kreirano": "2026-07-30T07:15:50.330Z",
-  "azurirano": "2026-07-30T07:29:14.301Z",
+  "azurirano": "2026-07-30T07:29:26.364Z",
   "dokumenti": [
     {
       "naziv": "MSI 4864-101",
@@ -281,7 +281,7 @@
           "naziv": "Ploca ugradbena Bosch PUE611BB5E",
           "barkod": "4242005285082",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena Bosch PIX631HC1E",
