@@ -5,7 +5,7 @@
   "datum": "2026-07-30",
   "status": "aktivan",
   "kreirano": "2026-07-30T07:15:50.330Z",
-  "azurirano": "2026-07-30T07:15:50.330Z",
+  "azurirano": "2026-07-30T07:17:37.763Z",
   "dokumenti": [
     {
       "naziv": "MSI 4864-101",
@@ -245,7 +245,7 @@
           "naziv": "Pecnica ugradbena Gorenje BOS6737E06B",
           "barkod": "3838782505652",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena Gorenje BPS6737E04DBG",
