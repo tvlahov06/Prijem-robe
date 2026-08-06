@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T05:45:18.505Z",
-  "azurirano": "2026-08-06T05:48:22.925Z",
+  "azurirano": "2026-08-06T05:48:26.683Z",
   "dokumenti": [
     {
       "naziv": "MSI 4991-101",
@@ -104,13 +104,13 @@
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
           "barkod": "8710103932482",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac za glavu Philips HS5980/15",
           "barkod": "8720689044264",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD839/00",
@@ -122,7 +122,7 @@
           "naziv": "Tus za zube Philips Sonicare HX3333/24 Compact Flosser 1000, Blue",
           "barkod": "8720689046831",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Remington AS5901 Coconut Airstyler",
