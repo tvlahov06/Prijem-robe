@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T09:27:59.527Z",
-  "azurirano": "2026-08-06T10:42:00.863Z",
+  "azurirano": "2026-08-06T10:42:05.341Z",
   "dokumenti": [
     {
       "naziv": "MSI 4961-101",
@@ -259,7 +259,7 @@
           "naziv": "Brijaci aparat Philips S3244/12",
           "barkod": "8720689018609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu Philips HC9420/15",
@@ -295,7 +295,7 @@
           "naziv": "Pegla za kosu + susilo Remington 2u1 AS8930E51 AIRviveTM Air Styler",
           "barkod": "5038061174700",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za bradu Philips BT5780/15",
