@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T12:24:06.129Z",
-  "azurirano": "2026-08-06T19:50:13.743Z",
+  "azurirano": "2026-08-06T19:50:22.359Z",
   "dokumenti": [
     {
       "naziv": "MSI 5026-101",
@@ -68,7 +68,7 @@
           "naziv": "Usisavac rucni Gorenje MVC72FW",
           "barkod": "3838782040542",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Bosch BBS931PET Unlimited 9 ProAnimal, crveni",
@@ -110,7 +110,7 @@
           "naziv": "Kuhalo za vodu Russell Hobbs 28510-70 Colours Plus Jasmine",
           "barkod": "5038061174106",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9550/09",
@@ -356,7 +356,7 @@
           "naziv": "Kapsule za kavu Lavazza A Modo Mio Qualita Oro 16/1",
           "barkod": "8000070063310",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
