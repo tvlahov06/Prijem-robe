@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T12:24:06.129Z",
-  "azurirano": "2026-08-06T19:48:37.362Z",
+  "azurirano": "2026-08-06T19:48:48.942Z",
   "dokumenti": [
     {
       "naziv": "MSI 5026-101",
@@ -62,7 +62,7 @@
           "naziv": "Parna postaja Philips PSG8300/20",
           "barkod": "8720389066498",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac rucni Gorenje MVC72FW",
@@ -188,13 +188,13 @@
           "naziv": "Parna postaja Tefal GV9711E0",
           "barkod": "3121040085110",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal SV9201E0*",
           "barkod": "3121040077634",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3AF0 Piccolo XS taupe",
