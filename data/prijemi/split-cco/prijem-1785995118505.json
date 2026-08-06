@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T05:45:18.505Z",
-  "azurirano": "2026-08-06T06:22:51.157Z",
+  "azurirano": "2026-08-06T06:22:56.520Z",
   "dokumenti": [
     {
       "naziv": "MSI 4991-101",
@@ -341,7 +341,7 @@
           "naziv": "Printer Canon Pixma TS6550i",
           "barkod": "4549292247985",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epson EcoTank L3270 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
