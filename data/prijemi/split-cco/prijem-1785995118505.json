@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T05:45:18.505Z",
-  "azurirano": "2026-08-06T06:08:23.266Z",
+  "azurirano": "2026-08-06T06:08:56.830Z",
   "dokumenti": [
     {
       "naziv": "MSI 4991-101",
@@ -305,7 +305,7 @@
           "naziv": "SAMSUNG 27\" Essential Monitor S4 S43UF EN LS27F434UAUXEN, IPS Full HD, 100Hz, 5ms, DisplayPort,",
           "barkod": "8806097199144",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor Acer SA243 23.8\" IPS, 144Hz, HDMI, VGA, bijeli",
@@ -317,7 +317,7 @@
           "naziv": "Monitor Acer SA27F 27\" IPS, 144Hz FreeSync, HDMI, VGA",
           "barkod": "4711721069127",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP Envy 6110e All-in-One (714J3B) Color Inkjet MF pisac - Print, Scan, Copy, Mobile Fax, Duplex, Wi-Fi, USB, A4 -",
