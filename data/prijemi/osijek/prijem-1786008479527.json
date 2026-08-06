@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T09:27:59.527Z",
-  "azurirano": "2026-08-06T10:29:46.259Z",
+  "azurirano": "2026-08-06T10:31:07.908Z",
   "dokumenti": [
     {
       "naziv": "MSI 4960-101",
@@ -313,35 +313,6 @@
           "barkod": "8720689034203",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4985-101",
-      "stavke": [
-        {
-          "naziv": "Mikrovalna pecnica Gorenje MO17E1S",
-          "barkod": "3838782175367",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mikrovalna pecnica Gorenje MO17E1BH",
-          "barkod": "3838782611568",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mikrovalna pecnica Hisense H20MOBS4H",
-          "barkod": "3838782659287",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mikrovalna pecnica Bosch FFL020MW0",
-          "barkod": "4242005296460",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
