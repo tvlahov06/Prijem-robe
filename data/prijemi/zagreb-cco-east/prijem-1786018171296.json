@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T12:24:06.129Z",
-  "azurirano": "2026-08-06T19:50:27.372Z",
+  "azurirano": "2026-08-06T19:50:33.360Z",
   "dokumenti": [
     {
       "naziv": "MSI 5026-101",
@@ -50,7 +50,7 @@
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
           "barkod": "8004399329485",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6903/22 filter za vodu 2 kom",
@@ -104,7 +104,7 @@
           "naziv": "Toster preklopni Tefal SM157236",
           "barkod": "3045386375943",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Kuhalo za vodu Russell Hobbs 28510-70 Colours Plus Jasmine",
