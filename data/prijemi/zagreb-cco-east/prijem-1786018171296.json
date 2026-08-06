@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T12:24:06.129Z",
-  "azurirano": "2026-08-06T19:37:56.945Z",
+  "azurirano": "2026-08-06T19:38:08.267Z",
   "dokumenti": [
     {
       "naziv": "MSI 5026-101",
@@ -74,7 +74,7 @@
           "naziv": "Usisavac Bosch BBS931PET Unlimited 9 ProAnimal, crveni",
           "barkod": "4242005468362",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Philips EP5549/70 espresso",
@@ -338,7 +338,7 @@
           "naziv": "Usisavac Bosch BCS1051POW Unlimited 10 ProPower, crni",
           "barkod": "4242005468348",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Russell Hobbs 26761-56 Bronte Stone",
