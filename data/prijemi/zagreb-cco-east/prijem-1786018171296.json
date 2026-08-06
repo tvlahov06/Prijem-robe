@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T12:24:06.129Z",
-  "azurirano": "2026-08-06T19:50:55.069Z",
+  "azurirano": "2026-08-06T19:51:20.239Z",
   "dokumenti": [
     {
       "naziv": "MSI 5026-101",
@@ -116,7 +116,7 @@
           "naziv": "Usisavac Philips FC9550/09",
           "barkod": "8710103860105",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
