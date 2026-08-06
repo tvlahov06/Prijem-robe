@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T12:24:06.129Z",
-  "azurirano": "2026-08-06T19:41:38.679Z",
+  "azurirano": "2026-08-06T19:41:41.986Z",
   "dokumenti": [
     {
       "naziv": "MSI 5026-101",
@@ -640,7 +640,7 @@
           "naziv": "Brijaci aparat Philips S3244/12",
           "barkod": "8720689018609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu/bradu Philips HC5650/15",
