@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T12:24:06.129Z",
-  "azurirano": "2026-08-06T19:51:20.239Z",
+  "azurirano": "2026-08-06T19:51:26.455Z",
   "dokumenti": [
     {
       "naziv": "MSI 5026-101",
@@ -122,7 +122,7 @@
           "naziv": "Usisavac Philips XC3133/01",
           "barkod": "8720389029868",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP143BF0 Mini Me 2 cosmic grey",
