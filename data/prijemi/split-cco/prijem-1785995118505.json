@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T05:45:18.505Z",
-  "azurirano": "2026-08-06T06:22:41.170Z",
+  "azurirano": "2026-08-06T06:22:51.157Z",
   "dokumenti": [
     {
       "naziv": "MSI 4991-101",
@@ -365,7 +365,7 @@
           "naziv": "Canon Pixma TS4150i",
           "barkod": "4549292248067",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epson EcoTank L3271 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
