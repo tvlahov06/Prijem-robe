@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T09:27:59.527Z",
-  "azurirano": "2026-08-06T10:31:07.908Z",
+  "azurirano": "2026-08-06T10:31:28.087Z",
   "dokumenti": [
     {
       "naziv": "MSI 4960-101",
@@ -313,107 +313,6 @@
           "barkod": "8720689034203",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 4987-101",
-      "stavke": [
-        {
-          "naziv": "Laptop HP 255 G10, 39.6cm (15.6\") Full HD, AMD Ryzen 5 1P 7530U, 16 GB RAM, 512GB SSD, AMD Radeon",
-          "barkod": "2010030201313",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A15 FA506NCG-HN185, 39.6cm V0 (15.6\") Full HD 144Hz, AMD Ryzen 7 7445HS, 16 GB RAM,",
-          "barkod": "4711636163354",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ACER Aspire Lite 15 NX.DJWEX.001, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711474693945",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A16 FA607NUQ-RL014, 40.6cm 4L0 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 170, 16 GB RAM,",
-          "barkod": "4711636446716",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop HP 250R G10 D13J5ET, 39.6cm (15.6\") Full HD, Intel Core 5-120U, 16 GB RAM, 512 GB SSD, Intel",
-          "barkod": "199896044332",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A16 FA608UP-RV018, 40.6cm 2J0 (16\") IPS WUXGA 165Hz, AMD Ryzen 7 260, 16 GB RAM, 1",
-          "barkod": "4711636527071",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop HP VICTUS Gaming 15-fa2129nm CV9Y0EA, 39.6cm (15.6\") IPS Full HD 144Hz, Intel Core i7-13620H, 16 GB",
-          "barkod": "0199764635211",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor Acer SA243 23.8\" IPS, 144Hz, HDMI, VGA, bijeli",
-          "barkod": "4711721069325",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor Acer SA27F 27\" IPS, 144Hz FreeSync, HDMI, VGA",
-          "barkod": "4711721069127",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789556",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 2920 All-in-One (89F97B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198701680109",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP Envy 6110e All-in-One (714J3B) Color Inkjet MF pisac - Print, Scan, Copy, Mobile Fax, Duplex, Wi-Fi, USB, A4 -",
-          "barkod": "197498438979",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "HP DeskJet 2922 All-in-One (A24HVB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789792",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 4310 All-in-One (A24HPB) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789730",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP OfficeJet Pro 8122e All-in-One (405U3B) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Duplex, Wi-Fi, LAN, USB,",
-          "barkod": "196337163881",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer Canon Pixma TS6550i",
-          "barkod": "4549292247985",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
