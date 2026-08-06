@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T09:27:59.527Z",
-  "azurirano": "2026-08-06T09:27:59.527Z",
+  "azurirano": "2026-08-06T09:33:37.659Z",
   "dokumenti": [
     {
       "naziv": "MSI 4960-101",
@@ -323,13 +323,13 @@
           "naziv": "TV LG OLED55C61LA 139.7cm (55\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096685792",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG 55NU800B3LA 139.7cm (55\"), LED, 4K UHD Smart AEUQ TV, webOS",
           "barkod": "8806096728390",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
