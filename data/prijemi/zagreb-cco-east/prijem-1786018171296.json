@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T12:24:06.129Z",
-  "azurirano": "2026-08-06T19:43:18.349Z",
+  "azurirano": "2026-08-06T19:43:26.505Z",
   "dokumenti": [
     {
       "naziv": "MSI 5026-101",
@@ -586,7 +586,7 @@
           "naziv": "Usisavac Dyson V8 Cyclone",
           "barkod": "5025155136195",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V15s Detect Submarine",
