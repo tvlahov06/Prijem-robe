@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T12:24:06.129Z",
-  "azurirano": "2026-08-06T19:48:48.942Z",
+  "azurirano": "2026-08-06T19:48:56.090Z",
   "dokumenti": [
     {
       "naziv": "MSI 5026-101",
@@ -20,7 +20,7 @@
           "naziv": "15 CD Aparat za kavu Gorenje ESCM15CD",
           "barkod": "3838782886294",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mop elektricni Philips dodaci XV1882/10 zamjenski podni brisac",
@@ -188,13 +188,13 @@
           "naziv": "Parna postaja Tefal GV9711E0",
           "barkod": "3121040085110",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Tefal SV9201E0*",
           "barkod": "3121040077634",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3AF0 Piccolo XS taupe",
@@ -332,7 +332,7 @@
           "naziv": "Mikser rucni Bosch MFQ40301 Styline Colour vanilija/srebrna",
           "barkod": "4242002777290",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BCS1051POW Unlimited 10 ProPower, crni",
