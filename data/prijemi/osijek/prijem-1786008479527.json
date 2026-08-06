@@ -5,7 +5,7 @@
   "datum": "2026-08-06",
   "status": "aktivan",
   "kreirano": "2026-08-06T09:27:59.527Z",
-  "azurirano": "2026-08-06T10:40:22.487Z",
+  "azurirano": "2026-08-06T10:41:18.969Z",
   "dokumenti": [
     {
       "naziv": "MSI 4961-101",
@@ -277,13 +277,13 @@
           "naziv": "Brijaci aparat Philips X3001/00",
           "barkod": "8720689018920",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX6322/04 Kids, Green",
           "barkod": "8710103770237",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7108/02 Sonicare Series 5300 White",
