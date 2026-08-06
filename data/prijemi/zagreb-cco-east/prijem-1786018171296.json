@@ -1,0 +1,382 @@
+{
+  "id": "prijem-1786018171296",
+  "poslovnica": "zagreb-cco-east",
+  "naziv": "",
+  "datum": "2026-08-06",
+  "status": "aktivan",
+  "kreirano": "2026-08-06T12:09:31.296Z",
+  "azurirano": "2026-08-06T12:09:31.296Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 5026-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
+          "barkod": "622356350907",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "15 CD Aparat za kavu Gorenje ESCM15CD",
+          "barkod": "3838782886294",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips dodaci XV1882/10 zamjenski podni brisac",
+          "barkod": "8720389070044",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Hisense HAF1600D**",
+          "barkod": "2010032323358",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGB41POW1 ProPower Crna",
+          "barkod": "4242005483990",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Xiaomi Robot Vacuum S40C",
+          "barkod": "6941812701867",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
+          "barkod": "8004399329485",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6903/22 filter za vodu 2 kom",
+          "barkod": "8720389000720",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8300/20",
+          "barkod": "8720389066498",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac rucni Gorenje MVC72FW",
+          "barkod": "3838782040542",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BBS931PET Unlimited 9 ProAnimal, crveni",
+          "barkod": "4242005468362",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP5549/70 espresso",
+          "barkod": "8720389032271",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5021F0",
+          "barkod": "3121040095003",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC270D10",
+          "barkod": "3045380026377",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster preklopni Tefal SM155212",
+          "barkod": "3168430114074",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster preklopni Tefal SM157236",
+          "barkod": "3045386375943",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Russell Hobbs 28510-70 Colours Plus Jasmine",
+          "barkod": "5038061174106",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips FC9550/09",
+          "barkod": "8710103860105",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XC3133/01",
+          "barkod": "8720389029868",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP143BF0 Mini Me 2 cosmic grey",
+          "barkod": "3045380404151",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG7300/80",
+          "barkod": "8720389058332",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8300/80",
+          "barkod": "8720389066504",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV6812E0",
+          "barkod": "3121040077184",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV6872E0",
+          "barkod": "3121040080184",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV8042E0",
+          "barkod": "3121040086469",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV8062E0",
+          "barkod": "3121040086476",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV9848E0",
+          "barkod": "3121040071526",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Tefal HT450B38 bijeli 450W",
+          "barkod": "3016667242315",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9221E0",
+          "barkod": "3121040077238",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9711E0",
+          "barkod": "3121040085110",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal SV9201E0*",
+          "barkod": "3121040077634",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1A3AF0 Piccolo XS taupe",
+          "barkod": "3045380028180",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA150/00 Airfryer Dual Basket",
+          "barkod": "8720389052989",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9812E0",
+          "barkod": "3121040082331",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso VERTUO Pop Black S GDV2-EUBKNE-S",
+          "barkod": "8606112020138",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP2224/10 espresso",
+          "barkod": "8710103894742",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Citruseta Tefal ZP300138",
+          "barkod": "3045386370474",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Tefal KI772D38",
+          "barkod": "3045380018716",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Tefal KO200130 1.5L",
+          "barkod": "3045386378944",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Tefal KO693110 1.5L, display",
+          "barkod": "3045387243159",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser stapni Tefal HB643138",
+          "barkod": "3016661150036",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Tefal DT2020E1 Pure Pop blue",
+          "barkod": "3121040088494",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Tefal DT2022E1 Pure Pop coral",
+          "barkod": "3121040088517",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Tefal DT2026E1 Pure Pop yellow",
+          "barkod": "3121040088524",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Gorenje M500DCBK",
+          "barkod": "3838782541605",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal SV8130E0",
+          "barkod": "3121040086193",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pekac kruha Tefal PF240E38",
+          "barkod": "3045385783428",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pekac kruha Tefal PF611838",
+          "barkod": "3045385782988",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC272D10",
+          "barkod": "3045380026230",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC718D10 rostilj OptiGrill + Tefal hvataljke",
+          "barkod": "3168437252090",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC728D10 rostilj OptiGrill + XL Tefal hvataljke",
+          "barkod": "3168437252106",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
+          "barkod": "8720389023026",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal SV8151E0",
+          "barkod": "3121040086414",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Bosch MFQ40301 Styline Colour vanilija/srebrna",
+          "barkod": "4242002777290",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BCS1051POW Unlimited 10 ProPower, crni",
+          "barkod": "4242005468348",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster Russell Hobbs 26761-56 Bronte Stone",
+          "barkod": "5038061169485",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso VERTUO Pop Red S GCV2-EURENE-S",
+          "barkod": "8606112020114",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kapsule za kavu Lavazza A Modo Mio Qualita Oro 16/1",
+          "barkod": "8000070063310",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
+          "barkod": "8004399021396",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster Philips HD2350/80 preklopni",
+          "barkod": "8720389032813",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
+          "barkod": "8720389032998",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
