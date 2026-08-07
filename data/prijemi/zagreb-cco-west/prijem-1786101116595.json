@@ -4,8 +4,8 @@
   "naziv": "roba_0708_AJDEHRC",
   "datum": "2026-08-07",
   "status": "aktivan",
-  "kreirano": "2026-08-07T11:11:56.595Z",
-  "azurirano": "2026-08-07T11:26:22.122Z",
+  "kreirano": "2026-08-07T11:35:13.900Z",
+  "azurirano": "2026-08-07T11:35:13.900Z",
   "dokumenti": [
     {
       "naziv": "MSI 5012-101",
@@ -288,6 +288,185 @@
         {
           "naziv": "Uredaj za oblikovanje kose Shark HD424SLEU FlexStyle 3u1",
           "barkod": "0622356270595",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "mobovi_nomsi_0708",
+      "stavke": [
+        {
+          "naziv": "Artikl 8806099037789",
+          "barkod": "8806099037789",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806097855019",
+          "barkod": "8806097855019",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806097469216",
+          "barkod": "8806097469216",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806099326760",
+          "barkod": "8806099326760",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806099333867",
+          "barkod": "8806099333867",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806099334062",
+          "barkod": "8806099334062",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806095362175",
+          "barkod": "8806095362175",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806099235819",
+          "barkod": "8806099235819",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806099235833",
+          "barkod": "8806099235833",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806097918448",
+          "barkod": "8806097918448",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 6942103168253",
+          "barkod": "6942103168253",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 6942103168178",
+          "barkod": "6942103168178",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 6942103189685",
+          "barkod": "6942103189685",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 6942103149047",
+          "barkod": "6942103149047",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806099186609",
+          "barkod": "8806099186609",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806099348731",
+          "barkod": "8806099348731",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806097826781",
+          "barkod": "8806097826781",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806097827313",
+          "barkod": "8806097827313",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806099028282",
+          "barkod": "8806099028282",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806099028114",
+          "barkod": "8806099028114",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806099035426",
+          "barkod": "8806099035426",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806099353599",
+          "barkod": "8806099353599",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806099353506",
+          "barkod": "8806099353506",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806099353469",
+          "barkod": "8806099353469",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 8806097651079",
+          "barkod": "8806097651079",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 4547410545180",
+          "barkod": "4547410545180",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 6941565988294",
+          "barkod": "6941565988294",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 195950645699",
+          "barkod": "195950645699",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 6977644761496",
+          "barkod": "6977644761496",
           "ocekivano": 1,
           "skenirano": 0
         }
