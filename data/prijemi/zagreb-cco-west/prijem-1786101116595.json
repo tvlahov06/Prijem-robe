@@ -5,7 +5,7 @@
   "datum": "2026-08-07",
   "status": "aktivan",
   "kreirano": "2026-08-07T11:11:56.595Z",
-  "azurirano": "2026-08-07T11:24:51.323Z",
+  "azurirano": "2026-08-07T11:25:12.170Z",
   "dokumenti": [
     {
       "naziv": "MSI 5012-101",
@@ -38,13 +38,13 @@
           "naziv": "Laptop HP OmniBook 7 16-az0004nm C1KP0EA, 40.6cm (16\") IPS 2K, Intel Core 7 240H, 32 GB RAM, 1 TB SSD,",
           "barkod": "199485073958",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Zenbook 14 UX3405CA-ST1439W, 35.6cm 3M0 (14\") OLED 3K 120Hz, Intel Core Ultra 7 255H, 32 GB RAM,",
           "barkod": "4711636496483",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Apple Macbook Neo Silver, mhfa4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
@@ -80,7 +80,7 @@
           "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
           "barkod": "198828789556",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "HP Envy 6110e All-in-One (714J3B) Color Inkjet MF pisac - Print, Scan, Copy, Mobile Fax, Duplex, Wi-Fi, USB, A4 -",
