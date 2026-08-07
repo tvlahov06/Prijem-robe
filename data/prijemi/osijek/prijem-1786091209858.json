@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "microline 0708",
   "datum": "2026-08-07",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-08-07T08:26:49.858Z",
-  "azurirano": "2026-08-07T09:02:36.525Z",
+  "azurirano": "2026-08-07T09:02:41.232Z",
   "dokumenti": [
     {
       "naziv": "pička",
@@ -246,5 +246,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-08-07T09:02:41.232Z"
 }
