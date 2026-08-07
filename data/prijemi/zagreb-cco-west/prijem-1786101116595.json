@@ -5,7 +5,7 @@
   "datum": "2026-08-07",
   "status": "aktivan",
   "kreirano": "2026-08-07T11:35:13.900Z",
-  "azurirano": "2026-08-07T11:44:49.022Z",
+  "azurirano": "2026-08-07T11:44:55.818Z",
   "dokumenti": [
     {
       "naziv": "MSI 5012-101",
@@ -217,7 +217,7 @@
           "naziv": "Brijac za glavu Philips HS7980/15",
           "barkod": "8720689044257",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijac za glavu Remington XR1500",
@@ -253,7 +253,7 @@
           "naziv": "IPL depilator Philips BRI973/00 Lumea",
           "barkod": "8720689005708",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
