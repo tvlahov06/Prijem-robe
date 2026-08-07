@@ -5,7 +5,7 @@
   "datum": "2026-08-07",
   "status": "aktivan",
   "kreirano": "2026-08-07T11:35:13.900Z",
-  "azurirano": "2026-08-07T11:36:58.502Z",
+  "azurirano": "2026-08-07T11:37:02.732Z",
   "dokumenti": [
     {
       "naziv": "MSI 5012-101",
@@ -396,7 +396,7 @@
           "naziv": "Artikl 8806097826781",
           "barkod": "8806097826781",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Artikl 8806097827313",
@@ -438,7 +438,7 @@
           "naziv": "Artikl 8806099353469",
           "barkod": "8806099353469",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Artikl 8806097651079",
