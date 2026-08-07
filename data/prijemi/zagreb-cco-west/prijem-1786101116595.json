@@ -1,0 +1,297 @@
+{
+  "id": "prijem-1786101116595",
+  "poslovnica": "zagreb-cco-west",
+  "naziv": "roba_0708_AJDEHRC",
+  "datum": "2026-08-07",
+  "status": "aktivan",
+  "kreirano": "2026-08-07T11:11:56.595Z",
+  "azurirano": "2026-08-07T11:11:56.595Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 5012-101",
+      "stavke": [
+        {
+          "naziv": "Laptop ACER Aspire Lite 15 NX.DJWEX.001, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
+          "barkod": "4711474693945",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming F16 FX608JMI-TU386W, 40.6cm S80 (16.0\") IPS WUXGA 144Hz, Intel Core i7-14650HX, 16 GB",
+          "barkod": "4711636562485",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Zenbook S 14 UX5406SA-PZ615X, 35.6cm 1W0 (14\") OLED 3K 120Hz Touch, Intel Core Ultra 7 258V, 32",
+          "barkod": "4711636492409",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS ROG Strix G16 G614PM-RV169, 40.6cm (16\") 08Y0 IPS WUXGA 165Hz, AMD Ryzen 9 8940HX, 16 GB RAM, 1",
+          "barkod": "4711636513432",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP OmniBook 7 16-az0004nm C1KP0EA, 40.6cm (16\") IPS 2K, Intel Core 7 240H, 32 GB RAM, 1 TB SSD,",
+          "barkod": "199485073958",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Zenbook 14 UX3405CA-ST1439W, 35.6cm 3M0 (14\") OLED 3K 120Hz, Intel Core Ultra 7 255H, 32 GB RAM,",
+          "barkod": "4711636496483",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Neo Silver, mhfa4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
+          "barkod": "195950850697",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SAMSUNG 27\" Essential Monitor S4 S43UF EN LS27F434UAUXEN, IPS Full HD, 100Hz, 5ms, DisplayPort,",
+          "barkod": "8806097199144",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor Acer SA243 23.8\" IPS, 144Hz, HDMI, VGA, bijeli",
+          "barkod": "4711721069325",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor Acer SA27F 27\" IPS, 144Hz FreeSync, HDMI, VGA",
+          "barkod": "4711721069127",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor ACER KA272G0bi, UM.HX2EE.039, 68,6 cm (27\") IPS FHD, 16:9, 250nits, 1ms, HDMI, VGA, crni",
+          "barkod": "4711474169532",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "198828789556",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP Envy 6110e All-in-One (714J3B) Color Inkjet MF pisac - Print, Scan, Copy, Mobile Fax, Duplex, Wi-Fi, USB, A4 -",
+          "barkod": "197498438979",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer Canon Pixma TS6550i",
+          "barkod": "4549292247985",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5015-101",
+      "stavke": [
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
+          "barkod": "5025155127759",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic Apricot/Topaz Straight+Wavy",
+          "barkod": "5025155127964",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
+          "barkod": "5025155117187",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
+          "barkod": "5025155112656",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Dyson Supersonic Nural HD16 Ceramic Pink/Rose Gold Straight + Wavy",
+          "barkod": "5025155118245",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V8 Cyclone",
+          "barkod": "5025155136195",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V11 Advanced",
+          "barkod": "5025155096093",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
+          "barkod": "5025155131992",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
+          "barkod": "8006447002166",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907MAJD 900W",
+          "barkod": "8006447003033",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907S 900W",
+          "barkod": "8006447002487",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Remington S8540 Keratin Protect",
+          "barkod": "4008496938438",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tus za zube Philips Sonicare HX3826/31 Power Flosser Cordless white",
+          "barkod": "8720689011037",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Revlon 2U1 SALON + Revlon Uniq One tretman za kosu",
+          "barkod": "7630127502113",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Remington D6077 One Dry & Style",
+          "barkod": "5038061152227",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Philips BRI977/00 Lumea",
+          "barkod": "8720689005944",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips OneBlade Pro QP6652/61 Face & Body",
+          "barkod": "8720689027298",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips OneBlade Pro QP6552/15 Face & Body",
+          "barkod": "8720689027199",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Stilizator za kosu Babyliss Air Wand AS6550E",
+          "barkod": "3030050190731",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za glavu Philips HS7980/15",
+          "barkod": "8720689044257",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za glavu Remington XR1500",
+          "barkod": "5038061106022",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB PRO Kids 3+ SPIDERMAN+putna torb.",
+          "barkod": "8006540773567",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za glavu Philips HS5980/15",
+          "barkod": "8720689044264",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Revlon 2U1 SALON PLUS",
+          "barkod": "0761318298663",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare HX7109/01 Sonicare Series 5300 DUO, Black & White",
+          "barkod": "8720689021418",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Philips BRI973/00 Lumea",
+          "barkod": "8720689005708",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
+          "barkod": "8720689045360",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna vaga Huawei Scale 3 Frosty White (Dobby-B19)",
+          "barkod": "6941487283002",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetka za kosu Babyliss AS965E 1000W rotirajuca 4u1",
+          "barkod": "3030050185812",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare HX3792/11 Sonicare series 6800 Black",
+          "barkod": "8720689046916",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO10 BLACK SPECIAL EDITION + TC",
+          "barkod": "8700216868631",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Shark HD424SLEU FlexStyle 3u1",
+          "barkod": "0622356270595",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
