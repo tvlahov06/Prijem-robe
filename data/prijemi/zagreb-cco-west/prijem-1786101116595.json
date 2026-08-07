@@ -5,7 +5,7 @@
   "datum": "2026-08-07",
   "status": "aktivan",
   "kreirano": "2026-08-07T11:35:13.900Z",
-  "azurirano": "2026-08-07T11:45:13.649Z",
+  "azurirano": "2026-08-07T11:45:22.596Z",
   "dokumenti": [
     {
       "naziv": "MSI 5012-101",
@@ -139,13 +139,13 @@
           "naziv": "Usisavac Dyson V11 Advanced",
           "barkod": "5025155096093",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
           "barkod": "5025155131992",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
