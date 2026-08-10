@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T19:06:37.721Z",
-  "azurirano": "2026-08-10T19:14:39.007Z",
+  "azurirano": "2026-08-10T19:14:49.207Z",
   "dokumenti": [
     {
       "naziv": "MSI 5083-101",
@@ -119,7 +119,7 @@
           "naziv": "It Takes Two Switch A37",
           "barkod": "5030939124947",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Marvel's Spider-Man 2 Standard Edition PS5 D35",
@@ -203,13 +203,13 @@
           "naziv": "Splatoon Raiders Switch 2",
           "barkod": "0045496314309",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Xenoblade Chronicles Definitive Edition UP Switch 2",
           "barkod": "0045496314392",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
