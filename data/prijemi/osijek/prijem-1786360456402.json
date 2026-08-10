@@ -1,0 +1,789 @@
+{
+  "id": "prijem-1786360456402",
+  "poslovnica": "osijek",
+  "naziv": "100826",
+  "datum": "2026-08-10",
+  "status": "aktivan",
+  "kreirano": "2026-08-10T11:14:16.402Z",
+  "azurirano": "2026-08-10T11:14:16.402Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 5016-101",
+      "stavke": [
+        {
+          "naziv": "Hladnjak kombinirani Hisense RT641N4WFE1",
+          "barkod": "6921727067029",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5017-101",
+      "stavke": [
+        {
+          "naziv": "Volan LOGITECH G G29 + mjenjac",
+          "barkod": "5099206132467",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK470 Slim, bezicna, siva",
+          "barkod": "5099206086661",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M650, crni",
+          "barkod": "5099206097223",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK540 Advanced, bezicna, siva",
+          "barkod": "5099206077522",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech Desk Mat Studio, siva",
+          "barkod": "5099206099500",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, crni",
+          "barkod": "5099206134737",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M190, crni",
+          "barkod": "5099206091825",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G335, gaming, zicane, crno-plave",
+          "barkod": "5099206094789",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G Pro X Superlight 2 SE",
+          "barkod": "5099206129931",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M650 L, crni",
+          "barkod": "5099206097179",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G335, gaming, zicane, bijelo-plave",
+          "barkod": "5099206094796",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech MX Keys Mini, bezicna, roza",
+          "barkod": "5099206099043",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G PRO X TKL LIGHTSPEED, LIGHTSYNC RGB, bijela",
+          "barkod": "5099206113343",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G915 X LIGHTSPEED, gaming, LIGHTSYNC RGB, mehanicka-tactile, bezicna white",
+          "barkod": "5099206121362",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G915 TKL X LIGHTSPEED, TACTILE, RGB Wireless Gaming",
+          "barkod": "5099206121683",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech H390, zicane, USB, roze",
+          "barkod": "5099206107298",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
+          "barkod": "1200130026294",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5019-101",
+      "stavke": [
+        {
+          "naziv": "Usisavac Rowenta RO2957EA, Swift Power Classic, White",
+          "barkod": "3221614006418",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips dodaci XV1882/10 zamjenski podni brisac",
+          "barkod": "8720389070044",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za sladoled Ninja NC701EU Creami Swirl",
+          "barkod": "0622356292306",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ledomat Elit IM-26B Frozzino crni",
+          "barkod": "3875001742665",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA547/07 Airfryer, para",
+          "barkod": "8720389067068",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Gorenje K15DWW",
+          "barkod": "3838782473739",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6903/22 filter za vodu 2 kom",
+          "barkod": "8720389000720",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac rucni Gorenje MVC72FW",
+          "barkod": "3838782040542",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BBS931PET Unlimited 9 ProAnimal, crveni",
+          "barkod": "4242005468362",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP5549/70 espresso",
+          "barkod": "8720389032271",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5021F0",
+          "barkod": "3121040095003",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC270D10",
+          "barkod": "3045380026377",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster preklopni Tefal SM155212",
+          "barkod": "3168430114074",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster preklopni Tefal SM157236",
+          "barkod": "3045386375943",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za uklanjanje vlakana Russell Hobbs 27660-56 Blue",
+          "barkod": "5038061171631",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips FC9557/09",
+          "barkod": "8720389036637",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP3347/90 espresso",
+          "barkod": "8720389030222",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP143BF0 Mini Me 2 cosmic grey",
+          "barkod": "3045380404151",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG7300/80",
+          "barkod": "8720389058332",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8300/80",
+          "barkod": "8720389066504",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV6812E0",
+          "barkod": "3121040077184",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV6872E0",
+          "barkod": "3121040080184",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV8042E0",
+          "barkod": "3121040086469",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV8062E0",
+          "barkod": "3121040086476",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV9848E0",
+          "barkod": "3121040071526",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Tefal HT450B38 bijeli 450W",
+          "barkod": "3016667242315",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9221E0",
+          "barkod": "3121040077238",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9711E0",
+          "barkod": "3121040085110",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1A3AF0 Piccolo XS taupe",
+          "barkod": "3045380028180",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sokovnik Hurom H320N mat zeleni",
+          "barkod": "8809686401048",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA150/00 Airfryer Dual Basket",
+          "barkod": "8720389052989",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9812E0",
+          "barkod": "3121040082331",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso VERTUO Pop Black S GDV2-EUBKNE-S",
+          "barkod": "8606112020138",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Gorenje SVC216GFW",
+          "barkod": "3838782332111",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips FC9334/09",
+          "barkod": "8710103796329",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Russell Hobbs 28550-56 Blue, Steam Genie VacuSteam",
+          "barkod": "5038061176247",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Citruseta Tefal ZP300138",
+          "barkod": "3045386370474",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Tefal KI772D38",
+          "barkod": "3045380018716",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Tefal KO200130 1.5L",
+          "barkod": "3045386378944",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Tefal KO693110 1.5L, display",
+          "barkod": "3045387243159",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser stapni Tefal HB643138",
+          "barkod": "3016661150036",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Tefal DT2020E1 Pure Pop blue",
+          "barkod": "3121040088494",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Tefal DT2022E1 Pure Pop coral",
+          "barkod": "3121040088517",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Tefal DT2026E1 Pure Pop yellow",
+          "barkod": "3121040088524",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Gorenje M500DCBK",
+          "barkod": "3838782541605",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pekac kruha Tefal PF240E38",
+          "barkod": "3045385783428",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pekac kruha Tefal PF611838",
+          "barkod": "3045385782988",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Rostilj Tefal GC5108E0 3u1",
+          "barkod": "3045380028326",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC272D10",
+          "barkod": "3045380026230",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC718D10 rostilj OptiGrill + Tefal hvataljke",
+          "barkod": "3168437252090",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC728D10 rostilj OptiGrill + XL Tefal hvataljke",
+          "barkod": "3168437252106",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sokovnik Hurom H330P sivi",
+          "barkod": "8809686402151",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP4449/70 espresso",
+          "barkod": "8720389032196",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA552/00 Airfryer Dual Basket, para",
+          "barkod": "8720389049286",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST5030/20",
+          "barkod": "8710103968160",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Bosch MFQ40301 Styline Colour vanilija/srebrna",
+          "barkod": "4242002777290",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
+          "barkod": "8606112020473",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1A3110 Piccolo XS white/burgundy PF",
+          "barkod": "3045380024380",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP2331/10 espresso",
+          "barkod": "8720389030307",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH3010/30",
+          "barkod": "8720389037535",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi ECOV 311.BK Icona Vintage",
+          "barkod": "8004399327368",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH3020/70",
+          "barkod": "8720389037542",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Elektricni lonac Tefal CY754830 multi cook Turbo Cuisine",
+          "barkod": "3045387245153",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi EXAM440.55.B Rivelia",
+          "barkod": "8004399026612",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser stapni Philips HR2534/00 Daily Collection ProMix",
+          "barkod": "8710103914457",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5035-101",
+      "stavke": [
+        {
+          "naziv": "Perilica-susilica rublja Candy CSWS 4962DWE/1-S 4962DWE/1-S",
+          "barkod": "8059019005966",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG QE65S83HAEXXH, 164 cm (65\") OLED Smart H TV, Tizen OS",
+          "barkod": "8806097986119",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5041-101",
+      "stavke": [
+        {
+          "naziv": "Klima uredaj 3,4 kW Hisense CF35LR03G/AS35LR03W 35LR03W",
+          "barkod": "6926597761725",
+          "ocekivano": 6,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5064-101",
+      "stavke": [
+        {
+          "naziv": "Slusalice PHILIPS SHC5200M2/12",
+          "barkod": "4895229165670",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "X-100 TV nosac BOF TVM X-100",
+          "barkod": "2010030072654",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds SE 3 Black (ULC-CT020)",
+          "barkod": "6942103140112",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne Sony s funkcijom blokade buke E7 WF-1000XM6/S",
+          "barkod": "4548736171824",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony",
+          "barkod": "4548736171497",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony",
+          "barkod": "4548736170643",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Samsung",
+          "barkod": "8806097091905",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5069-101",
+      "stavke": [
+        {
+          "naziv": "Nintendo Switch Joy-Con Wheel Pair EY2",
+          "barkod": "045496430634",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Super Mario Odyssey Switch A3",
+          "barkod": "045496420864",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mario Kart 8 Deluxe Switch EY4",
+          "barkod": "045496420277",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Legend of Zelda: Breath of the Wild Switch EC7",
+          "barkod": "045496420055",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "New Super Mario Bros U Deluxe Switch B17",
+          "barkod": "045496423780",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Luigi's Mansion 2 HD Switch DSW",
+          "barkod": "045496512149",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Astro Bot PS5",
+          "barkod": "711719591115",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Split Fiction PS5",
+          "barkod": "5030949125385",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch 2 Joy-Con Left Light Blue",
+          "barkod": "0045496321390",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch 2 Joy-Con Right Light Red",
+          "barkod": "0045496321406",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch 2 Joy-Con Pair Light Blue & Light Red",
+          "barkod": "0045496321413",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch 2 Carrying Case And Screen Protector",
+          "barkod": "045496321437",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mario Kart World Switch 2",
+          "barkod": "0045496312329",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pokemon Legends Z-A Nintendo Switch 2",
+          "barkod": "0045496313043",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "0016 Nintendo Switch 2 Joy-Con Pair Light Purple & Light Green",
+          "barkod": "0045496321833",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Super Mario Bros Wonder NS2 Edition UP",
+          "barkod": "0045496313913",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5076-101",
+      "stavke": [
+        {
+          "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
+          "barkod": "4713218461940",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
+          "barkod": "740617348408",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDHC, Class10, 10A1-RA1 100/20MBs, 32GB",
+          "barkod": "4713218461926",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
+          "barkod": "740617305371",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON FD 128GB USB3.2 Exodia",
+          "barkod": "740617314359",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
+          "barkod": "4897098683446",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Bluetooth adapter 4.0 UB400",
+          "barkod": "6935364099664",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Archer T4U, AC1300 WLAN USB adapter",
+          "barkod": "6935364097318",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "T3U TP-Link Archer T3U Nano, AC1300 WLAN USB adapter Nano",
+          "barkod": "6935364072667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link bezicni N USB Nano Adapter TL-WN725N, 150Mbps (2.4GHz), 802.11n/g/b",
+          "barkod": "6935364050719",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348507",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA UV128, 128GB, USB3.2 RBE",
+          "barkod": "4713435799444",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler Exodia M 256GB, USB3.2",
+          "barkod": "740617326383",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-004132 SHINOBI-2 Crna - R-BROWN.SW Mehanicka / HR- BROWN SW.",
+          "barkod": "3858894506071",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
