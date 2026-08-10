@@ -4,8 +4,8 @@
   "naziv": "",
   "datum": "2026-08-10",
   "status": "aktivan",
-  "kreirano": "2026-08-10T19:19:44.801Z",
-  "azurirano": "2026-08-10T19:19:44.801Z",
+  "kreirano": "2026-08-10T19:20:08.067Z",
+  "azurirano": "2026-08-10T19:20:08.067Z",
   "dokumenti": [
     {
       "naziv": "MSI 5083-101",
@@ -341,14 +341,6 @@
           "skenirano": 1
         }
       ]
-    },
-    {
-      "naziv": "MSI scan0031",
-      "stavke": []
-    },
-    {
-      "naziv": "MSI scan0032",
-      "stavke": []
     }
   ]
 }
