@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T06:13:05.224Z",
-  "azurirano": "2026-08-10T06:33:21.614Z",
+  "azurirano": "2026-08-10T06:33:39.294Z",
   "dokumenti": [
     {
       "naziv": "LOGISTA",
@@ -26,7 +26,7 @@
           "naziv": "ANKER Prijenosna baterija 20.000, 30W, crni",
           "barkod": "0194644173401",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "ANKER Prijenosna baterija 20.000, 87W, crni",
@@ -272,7 +272,7 @@
           "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 2m",
           "barkod": "766623356770",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Kabel Manhattan USB 2.0 Type-C to Type-B Cable, 2 m",
