@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T17:37:41.376Z",
-  "azurirano": "2026-08-10T19:03:16.838Z",
+  "azurirano": "2026-08-10T19:03:35.056Z",
   "dokumenti": [
     {
       "naziv": "MSI 5083-101",
@@ -149,7 +149,7 @@
           "naziv": "Nintendo Switch 2 Joy-Con Right Light Red",
           "barkod": "0045496321406",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Nintendo Switch 2 Joy-Con Pair Light Blue & Light Red",
@@ -173,7 +173,7 @@
           "naziv": "Paladone Astrobot Icon sat sa alarmom",
           "barkod": "5056577751482",
           "ocekivano": 6,
-          "skenirano": 1
+          "skenirano": 6
         },
         {
           "naziv": "Metroid Prime 4 Beyond Up Switch 2",
