@@ -4,8 +4,8 @@
   "naziv": "",
   "datum": "2026-08-10",
   "status": "aktivan",
-  "kreirano": "2026-08-10T17:37:41.376Z",
-  "azurirano": "2026-08-10T19:04:13.237Z",
+  "kreirano": "2026-08-10T19:06:37.721Z",
+  "azurirano": "2026-08-10T19:06:37.721Z",
   "dokumenti": [
     {
       "naziv": "MSI 5083-101",
@@ -230,6 +230,113 @@
         {
           "naziv": "PRO TV HISENSE 50E7S PRO, 127cm (50\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351432977",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5088-101",
+      "stavke": [
+        {
+          "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
+          "barkod": "4713218461940",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
+          "barkod": "740617348408",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348453",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDHC, Class10, 10A1-RA1 100/20MBs, 32GB",
+          "barkod": "4713218461926",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
+          "barkod": "740617326260",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348507",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ADATA C906, 64GB, USB 2.0 plavi",
+          "barkod": "4711085945082",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link bezicni pojacivac dometa (Universal Range Extender) 300Mbps, (2.4GHz), 802.11b/g/n, 1×RJ45",
+          "barkod": "6935364070199",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347999",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "T3U TP-Link Archer T3U Nano, AC1300 WLAN USB adapter Nano",
+          "barkod": "6935364072667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Archer T4U, AC1300 WLAN USB adapter",
+          "barkod": "6935364097318",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link bezicni N USB Nano Adapter TL-WN725N, 150Mbps (2.4GHz), 802.11n/g/b",
+          "barkod": "6935364050719",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link AV500 Nano Powerline Ethernet Adapter Starter Kit Ultra Com",
+          "barkod": "6935364031848",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link bezicni pojacivac dometa (Universal Range Extender) 300Mbps, (2.4GHz), 802.11b/g/n, 1xRJ45",
+          "barkod": "6935364099305",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 1TB USB 3.2 T7 Portable plavi MU-PE1T0R/EU",
+          "barkod": "8806092968479",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TX20U TP-LinkArcher TX20U Plus, AX1800 High Gain Wi-Fi 6 Plus",
+          "barkod": "4897098687888",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk ADATA Ex HDD HV300, 2TB, usb3.0, crni -CBK",
+          "barkod": "4713218465016",
           "ocekivano": 1,
           "skenirano": 0
         }
