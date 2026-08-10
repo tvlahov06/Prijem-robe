@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T06:15:38.547Z",
-  "azurirano": "2026-08-10T09:20:50.141Z",
+  "azurirano": "2026-08-10T09:20:53.777Z",
   "dokumenti": [
     {
       "naziv": "MSI 5038-101",
@@ -725,7 +725,7 @@
           "naziv": "Perilica rublja Bosch WAN24266BY",
           "barkod": "4242005396788",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilica rublja Bosch WTH83256BY",
