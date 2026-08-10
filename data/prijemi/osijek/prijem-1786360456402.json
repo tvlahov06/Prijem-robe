@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T11:14:16.402Z",
-  "azurirano": "2026-08-10T11:49:50.530Z",
+  "azurirano": "2026-08-10T11:50:17.670Z",
   "dokumenti": [
     {
       "naziv": "MSI 5019-101",
@@ -397,23 +397,6 @@
         {
           "naziv": "Mikser stapni Philips HR2534/00 Daily Collection ProMix",
           "barkod": "8710103914457",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5035-101",
-      "stavke": [
-        {
-          "naziv": "Perilica-susilica rublja Candy CSWS 4962DWE/1-S 4962DWE/1-S",
-          "barkod": "8059019005966",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV SAMSUNG QE65S83HAEXXH, 164 cm (65\") OLED Smart H TV, Tizen OS",
-          "barkod": "8806097986119",
           "ocekivano": 1,
           "skenirano": 1
         }
