@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T06:15:38.547Z",
-  "azurirano": "2026-08-10T09:30:13.915Z",
+  "azurirano": "2026-08-10T09:30:18.503Z",
   "dokumenti": [
     {
       "naziv": "MSI 5038-101",
@@ -67,13 +67,13 @@
           "naziv": "Mario Kart 8 Deluxe Switch EY4",
           "barkod": "045496420277",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pokemon Legends Arceus Switch",
           "barkod": "045496428273",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Nintendo Switch 2 AC Adapter",
@@ -127,7 +127,7 @@
           "naziv": "Super Mario Bros Wonder NS2 Edition UP",
           "barkod": "0045496313913",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
