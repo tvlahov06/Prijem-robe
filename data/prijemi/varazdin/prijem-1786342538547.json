@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T06:15:38.547Z",
-  "azurirano": "2026-08-10T09:19:47.038Z",
+  "azurirano": "2026-08-10T09:19:51.671Z",
   "dokumenti": [
     {
       "naziv": "MSI 5038-101",
@@ -38,13 +38,13 @@
           "naziv": "Slusalice Sony",
           "barkod": "4548736171497",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony",
           "barkod": "4548736170599",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Soundbar Samsung",
