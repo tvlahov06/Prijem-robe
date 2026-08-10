@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T06:15:38.547Z",
-  "azurirano": "2026-08-10T09:46:05.997Z",
+  "azurirano": "2026-08-10T10:44:49.092Z",
   "dokumenti": [
     {
       "naziv": "MSI 5038-101",
@@ -713,13 +713,13 @@
           "naziv": "Perilica rublja GORENJE WG4S84B1",
           "barkod": "3838783091826",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Beko B1WFM2821WBEE",
           "barkod": "8690842807503",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Bosch WAN24266BY",
@@ -731,7 +731,7 @@
           "naziv": "Susilica rublja Bosch WTH83256BY",
           "barkod": "4242005471263",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hladnjak kombinirani Gorenje RF4142PW4",
