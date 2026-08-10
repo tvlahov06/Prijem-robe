@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T11:14:16.402Z",
-  "azurirano": "2026-08-10T11:32:40.660Z",
+  "azurirano": "2026-08-10T11:32:45.758Z",
   "dokumenti": [
     {
       "naziv": "MSI 5016-101",
@@ -222,7 +222,7 @@
           "naziv": "Usisavac Philips FC9557/09",
           "barkod": "8720389036637",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP3347/90 espresso",
