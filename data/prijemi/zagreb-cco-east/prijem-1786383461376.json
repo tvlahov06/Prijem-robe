@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T19:06:37.721Z",
-  "azurirano": "2026-08-10T19:07:00.428Z",
+  "azurirano": "2026-08-10T19:07:02.849Z",
   "dokumenti": [
     {
       "naziv": "MSI 5083-101",
@@ -302,7 +302,7 @@
           "naziv": "TP-Link Archer T4U, AC1300 WLAN USB adapter",
           "barkod": "6935364097318",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link bezicni N USB Nano Adapter TL-WN725N, 150Mbps (2.4GHz), 802.11n/g/b",
