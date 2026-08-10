@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T06:13:05.224Z",
-  "azurirano": "2026-08-10T06:30:04.560Z",
+  "azurirano": "2026-08-10T06:30:16.431Z",
   "dokumenti": [
     {
       "naziv": "LOGISTA",
@@ -380,13 +380,13 @@
           "naziv": "Putni adapter Skross EU - SAD",
           "barkod": "7640166320050",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Putni adapter Skross World - SAD",
           "barkod": "7640166320203",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "RUNO DRZAC ZA MOBITEL",
