@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T06:15:38.547Z",
-  "azurirano": "2026-08-10T09:31:44.473Z",
+  "azurirano": "2026-08-10T09:31:48.911Z",
   "dokumenti": [
     {
       "naziv": "MSI 5038-101",
@@ -321,7 +321,7 @@
           "naziv": "TP-Link Bluetooth adapter 4.0 UB400",
           "barkod": "6935364099664",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link RE450 bezicni pojacivac dometa, Dual Band GHz/5GHz, 10/100/1000 LAN prikljucak",
