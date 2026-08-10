@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T17:37:41.376Z",
-  "azurirano": "2026-08-10T19:03:40.842Z",
+  "azurirano": "2026-08-10T19:03:50.818Z",
   "dokumenti": [
     {
       "naziv": "MSI 5083-101",
@@ -42,13 +42,13 @@
           "naziv": "Slusalice bezicne Sony s funkcijom blokade buke E7 WF-1000XM6/S",
           "barkod": "4548736171824",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Sony",
           "barkod": "4548736171497",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Soundbar Samsung",
@@ -155,7 +155,7 @@
           "naziv": "Nintendo Switch 2 Joy-Con Pair Light Blue & Light Red",
           "barkod": "0045496321413",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Nintendo Switch 2 Carrying Case And Screen Protector",
@@ -179,7 +179,7 @@
           "naziv": "Metroid Prime 4 Beyond Up Switch 2",
           "barkod": "0045496313371",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PS5 Dualsense Wireless Controller Rhythm Blue",
