@@ -5,7 +5,7 @@
   "datum": "2026-08-10",
   "status": "aktivan",
   "kreirano": "2026-08-10T06:15:38.547Z",
-  "azurirano": "2026-08-10T10:47:42.818Z",
+  "azurirano": "2026-08-10T10:51:49.413Z",
   "dokumenti": [
     {
       "naziv": "MSI 5038-101",
@@ -382,17 +382,6 @@
           "barkod": "4711474799715",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5048-101",
-      "stavke": [
-        {
-          "naziv": "BANG VRECICA",
-          "barkod": "3838453579524",
-          "ocekivano": 200,
-          "skenirano": 0
         }
       ]
     },
