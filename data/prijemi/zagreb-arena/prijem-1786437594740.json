@@ -5,7 +5,7 @@
   "datum": "2026-08-11",
   "status": "aktivan",
   "kreirano": "2026-08-11T08:39:54.740Z",
-  "azurirano": "2026-08-11T10:33:23.490Z",
+  "azurirano": "2026-08-11T10:33:39.650Z",
   "dokumenti": [
     {
       "naziv": "MSI 5074-101",
@@ -450,7 +450,7 @@
           "naziv": "TP-Link bezicni pojacivac dometa (Universal Range Extender) 300Mbps, (2.4GHz), 802.11b/g/n, 1xRJ45",
           "barkod": "6935364099305",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD Samsung 1TB USB 3.2 T7 Portable plavi MU-PE1T0R/EU",
@@ -462,7 +462,7 @@
           "naziv": "TX20U TP-LinkArcher TX20U Plus, AX1800 High Gain Wi-Fi 6 Plus",
           "barkod": "4897098687888",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni HDD Western Digital My Passport Blue 4TB 2,5\" L-WESN WDBPKJ0040",
