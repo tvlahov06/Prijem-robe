@@ -5,7 +5,7 @@
   "datum": "2026-08-11",
   "status": "aktivan",
   "kreirano": "2026-08-11T10:50:46.987Z",
-  "azurirano": "2026-08-11T11:26:40.366Z",
+  "azurirano": "2026-08-11T11:26:43.728Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -632,7 +632,7 @@
           "naziv": "CELLULARLINE KABEL MFI 200CM",
           "barkod": "8018080201912",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pleteni kabel ANKER USB-C na USB-C 240W 180 cm",
