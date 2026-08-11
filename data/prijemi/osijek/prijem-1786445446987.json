@@ -5,7 +5,7 @@
   "datum": "2026-08-11",
   "status": "aktivan",
   "kreirano": "2026-08-11T10:50:46.987Z",
-  "azurirano": "2026-08-11T11:06:01.255Z",
+  "azurirano": "2026-08-11T11:13:48.555Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -20,7 +20,7 @@
           "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni crni",
           "barkod": "0194644125806",
           "ocekivano": 25,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Punjac ANKER 511 CHARGER NANO 3, 30W: BIJELA-PUNJAC",
@@ -50,7 +50,7 @@
           "naziv": "Kucni Punjac CELLULARLINE GaN+ Slim Dual 45W",
           "barkod": "8018080514272",
           "ocekivano": 10,
-          "skenirano": 3
+          "skenirano": 10
         },
         {
           "naziv": "Kucni Punjac PLOOS, 1A, 1xUSB-A, Crni",
@@ -140,7 +140,7 @@
           "naziv": "Zastitno Staklo CELLULARLINE, Samsung Galaxy S24 FE/A36/A56/A37",
           "barkod": "8018080514753",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA FINE IPHONE 17",
@@ -206,7 +206,7 @@
           "naziv": "CELLULARLINE ZASTITNA MASKA BOOK ESSENTIAL GALAXY A17 BLACK",
           "barkod": "8018080505454",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Kucni Punjac ANKER GaN 2x USB-C/USB-A + USB-C Kabel",
@@ -404,7 +404,7 @@
           "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, silikonska",
           "barkod": "8018080510496",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC IPHONE DUAL USB-A I USB-C 20W",
@@ -434,7 +434,7 @@
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO MAX",
           "barkod": "8018080499586",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice bezicne ANKER Soundcore K20i bijele",
@@ -470,7 +470,7 @@
           "naziv": "Maskica Cellularline Samsung Galaxy S26, tvrda, prozirna",
           "barkod": "8018080510267",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, tvrda, prozirna",
@@ -482,7 +482,7 @@
           "naziv": "CELLULARLINE ZASTITNA MASKA SENSATION IPHONE 17 BLACK",
           "barkod": "8018080499708",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, book essential",
@@ -530,7 +530,7 @@
           "naziv": "Prijenosna Baterija CELLULARLINE Roller 20.000 mAh 65W Crna",
           "barkod": "8018080513404",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE AUTO DRZAC DRZAC HANDY WING PRO",
@@ -542,13 +542,13 @@
           "naziv": "Zastitna Maska CELLULARLINE, Fine, Samsung Galaxy  A57, Prozirna",
           "barkod": "8018080514555",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA SENSATION IPHONE 17 PRO BLACK",
           "barkod": "8018080499661",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE CLEAR STRONG MASKICA IPHONE 16 PRO",
@@ -584,7 +584,7 @@
           "naziv": "Zastitno staklo Cellularline Samsung Galaxy S26",
           "barkod": "8018080511585",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA SENSATION IPHONE 17 PINK",
@@ -602,7 +602,7 @@
           "naziv": "CELLULARLINE CLEAR STRONG ZASTITNA MASKA IPHONE 16",
           "barkod": "8018080482892",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO GALAXY A16 4G/5G",
