@@ -5,7 +5,7 @@
   "datum": "2026-08-11",
   "status": "aktivan",
   "kreirano": "2026-08-11T08:39:54.740Z",
-  "azurirano": "2026-08-11T11:49:59.986Z",
+  "azurirano": "2026-08-11T11:50:05.467Z",
   "dokumenti": [
     {
       "naziv": "MSI 5074-101",
@@ -56,7 +56,7 @@
           "naziv": "Parna postaja Philips PSG8300/20",
           "barkod": "8720389066498",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac rucni Gorenje MVC72FW",
