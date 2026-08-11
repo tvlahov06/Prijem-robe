@@ -5,7 +5,7 @@
   "datum": "2026-08-11",
   "status": "aktivan",
   "kreirano": "2026-08-11T07:05:28.431Z",
-  "azurirano": "2026-08-11T07:59:18.319Z",
+  "azurirano": "2026-08-11T07:59:34.388Z",
   "dokumenti": [
     {
       "naziv": "MSI 5058-101",
@@ -333,7 +333,7 @@
           "naziv": "Parna postaja Philips PSG8200/70",
           "barkod": "8720389066511",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP3347/90 espresso",
