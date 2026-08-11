@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "logista",
   "datum": "2026-08-11",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-08-11T10:50:46.987Z",
-  "azurirano": "2026-08-11T13:19:37.973Z",
+  "azurirano": "2026-08-11T13:31:16.735Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -642,5 +642,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-08-11T13:31:16.735Z"
 }
