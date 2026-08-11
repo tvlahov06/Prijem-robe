@@ -5,7 +5,7 @@
   "datum": "2026-08-11",
   "status": "aktivan",
   "kreirano": "2026-08-11T07:05:28.431Z",
-  "azurirano": "2026-08-11T08:59:02.077Z",
+  "azurirano": "2026-08-11T08:59:52.720Z",
   "dokumenti": [
     {
       "naziv": "MSI 5058-101",
@@ -869,7 +869,7 @@
           "naziv": "TP-Link RE190, pojacivac signala AC750",
           "barkod": "6935364089665",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
@@ -917,7 +917,7 @@
           "naziv": "TP-Link TL-WA860RE bezicni pojacivac dometa 300Mbps, (2.4GHz), 802.11b/g/n, dodatna uticnica",
           "barkod": "6935364071158",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "T3U TP-Link Archer T3U Nano, AC1300 WLAN USB adapter Nano",
@@ -929,7 +929,7 @@
           "naziv": "TP-Link bezicni pojacivac dometa (Universal Range Extender) 300Mbps, (2.4GHz), 802.11b/g/n, 1×RJ45",
           "barkod": "6935364070199",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link bezicni pojacivac dometa (Universal Range Extender) 300Mbps, (2.4GHz), 802.11b/g/n, 1xRJ45",
