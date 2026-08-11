@@ -5,7 +5,7 @@
   "datum": "2026-08-11",
   "status": "aktivan",
   "kreirano": "2026-08-11T07:05:28.431Z",
-  "azurirano": "2026-08-11T10:06:54.274Z",
+  "azurirano": "2026-08-11T10:07:31.303Z",
   "dokumenti": [
     {
       "naziv": "MSI 5058-101",
@@ -471,7 +471,7 @@
           "naziv": "Usisavac Philips FC9334/09",
           "barkod": "8710103796329",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XD8122/10",
