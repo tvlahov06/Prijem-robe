@@ -5,7 +5,7 @@
   "datum": "2026-08-11",
   "status": "aktivan",
   "kreirano": "2026-08-11T10:50:46.987Z",
-  "azurirano": "2026-08-11T11:05:46.540Z",
+  "azurirano": "2026-08-11T11:05:51.050Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -50,7 +50,7 @@
           "naziv": "Kucni Punjac CELLULARLINE GaN+ Slim Dual 45W",
           "barkod": "8018080514272",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kucni Punjac PLOOS, 1A, 1xUSB-A, Crni",
@@ -602,7 +602,7 @@
           "naziv": "CELLULARLINE CLEAR STRONG ZASTITNA MASKA IPHONE 16",
           "barkod": "8018080482892",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO GALAXY A16 4G/5G",
