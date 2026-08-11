@@ -5,7 +5,7 @@
   "datum": "2026-08-11",
   "status": "aktivan",
   "kreirano": "2026-08-11T10:50:46.987Z",
-  "azurirano": "2026-08-11T11:19:00.435Z",
+  "azurirano": "2026-08-11T11:19:07.600Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -68,7 +68,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
           "barkod": "8018080270413",
           "ocekivano": 8,
-          "skenirano": 5
+          "skenirano": 7
         },
         {
           "naziv": "ANKER kucni punjac 33W, 1xUSB-C/1xUSB-A, bijeli",
@@ -386,7 +386,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC APPLE USB-C 30W",
           "barkod": "8018080433559",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Drzac za Mobitel CELLULARLINE Slide Fit",
