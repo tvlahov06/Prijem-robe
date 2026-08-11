@@ -5,7 +5,7 @@
   "datum": "2026-08-08",
   "status": "aktivan",
   "kreirano": "2026-08-08T06:31:39.855Z",
-  "azurirano": "2026-08-11T06:27:23.331Z",
+  "azurirano": "2026-08-11T06:27:33.553Z",
   "dokumenti": [
     {
       "naziv": "MSI 5065-101",
@@ -269,7 +269,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link Bluetooth adapter 4.0 UB400",
