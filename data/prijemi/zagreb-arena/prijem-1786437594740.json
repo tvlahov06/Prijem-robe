@@ -5,7 +5,7 @@
   "datum": "2026-08-11",
   "status": "aktivan",
   "kreirano": "2026-08-11T08:39:54.740Z",
-  "azurirano": "2026-08-11T11:49:24.213Z",
+  "azurirano": "2026-08-11T11:49:33.740Z",
   "dokumenti": [
     {
       "naziv": "MSI 5074-101",
@@ -212,7 +212,7 @@
           "naziv": "Parna postaja Tefal GV9812E0",
           "barkod": "3121040082331",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Nespresso VERTUO Pop White S GCV2-EUWHNE-S",
@@ -332,7 +332,7 @@
           "naziv": "Parna postaja Tefal SV8151E0",
           "barkod": "3121040086414",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECAM 290.21.B Magnifica Evo",
