@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T07:44:57.160Z",
-  "azurirano": "2026-08-12T08:01:10.479Z",
+  "azurirano": "2026-08-12T08:01:14.829Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -74,7 +74,7 @@
           "naziv": "CELLULARLINE ACL SLUSALICE BT TWS CORE WHITE",
           "barkod": "8018080490606",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ACL SLUSALICE BT TWS LITE WHITE",
@@ -158,7 +158,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC HUAWEI I KABEL USB-C 3A/18W",
           "barkod": "8018080303869",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC IPHONE DUAL USB-A I USB-C 20W",
@@ -182,7 +182,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 15W BLACK",
           "barkod": "8018080434778",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
