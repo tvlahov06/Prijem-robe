@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T14:58:27.773Z",
-  "azurirano": "2026-08-12T19:23:15.746Z",
+  "azurirano": "2026-08-12T19:23:32.491Z",
   "dokumenti": [
     {
       "naziv": "MSI 5102-101",
@@ -292,7 +292,7 @@
           "naziv": "Sat Samsung Galaxy Watch9 44mm crni",
           "barkod": "8806099326760",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple 60W USB-C Charge Cable (1m)",
@@ -346,7 +346,7 @@
           "naziv": "Pametni sat Huawei Watch GT 5 Pro 42mm Ceramic White (Jana-B29C)",
           "barkod": "6942103134319",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Silver",
@@ -394,7 +394,7 @@
           "naziv": "Silikonska maska za Samsung Galaxy Z Fold7 siva",
           "barkod": "8806097469216",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Carbon magnetna maska za Samsung Galaxy Fold8 crvena",
