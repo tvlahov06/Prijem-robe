@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T07:44:45.966Z",
-  "azurirano": "2026-08-12T19:18:38.911Z",
+  "azurirano": "2026-08-12T19:18:46.334Z",
   "dokumenti": [
     {
       "naziv": "MSI 5099-101",
@@ -333,7 +333,7 @@
           "naziv": "Usisavac Dyson V15 Detect Absolute",
           "barkod": "5025155136201",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
@@ -357,7 +357,7 @@
           "naziv": "Usisavac Dyson V8 Total Clean",
           "barkod": "5025155080306",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Jasper Plum Straight+Wavy",
@@ -369,7 +369,7 @@
           "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
           "barkod": "5025155131992",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Dyson Supersonic Nural HD16 Ceramic Apricot/Topaz Curly+Coily",
