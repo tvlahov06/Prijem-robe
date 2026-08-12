@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T07:44:45.966Z",
-  "azurirano": "2026-08-12T19:22:18.256Z",
+  "azurirano": "2026-08-12T19:22:23.163Z",
   "dokumenti": [
     {
       "naziv": "MSI 5099-101",
@@ -113,7 +113,7 @@
           "naziv": "Printer HP LaserJet M110w",
           "barkod": "194850676970",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP Smart Tank 790 All-in-One (4WF66A) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Fax, Duplex, Wi-Fi, LAN,",
