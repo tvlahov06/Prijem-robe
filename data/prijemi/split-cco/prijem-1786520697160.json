@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T07:44:57.160Z",
-  "azurirano": "2026-08-12T07:55:35.625Z",
+  "azurirano": "2026-08-12T07:55:43.664Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -302,7 +302,7 @@
           "naziv": "GM GAMEPAD MOBILE,WLESS,MYLOX,GXT735",
           "barkod": "8713439254853",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel ANKER 322 USB-A TO USB-C CABLE (3FT BRAIDED)CRNI-KABEL",
@@ -512,13 +512,13 @@
           "naziv": "TRUST PC PUNJAC ZA LAPTOP UNIVERZALNI PRIMO 19V-70W",
           "barkod": "8713439221411",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST PRIJENOSNA BATERIJA PRIMO 10000 Black",
           "barkod": "8713439246780",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "USB-C na USB-C Kabel CELLULARLINE GaN+ 240W 120 cm Black",
