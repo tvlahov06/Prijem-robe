@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T07:44:45.966Z",
-  "azurirano": "2026-08-12T19:06:24.070Z",
+  "azurirano": "2026-08-12T19:06:44.416Z",
   "dokumenti": [
     {
       "naziv": "MSI 5099-101",
@@ -493,7 +493,7 @@
           "naziv": "Uvijac za kosu Philips BHA310/00",
           "barkod": "8720689002790",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac za glavu Remington XR1500",
@@ -505,19 +505,19 @@
           "naziv": "Susilo za kosu Philips BHD839/00",
           "barkod": "8720689032384",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3333/23 Compact Flosser 1000, Pink",
           "barkod": "8720689046787",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "za zube OralB iO2 WHITE+PUTNA TORBICA",
           "barkod": "8006530017121",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
