@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T09:25:28.206Z",
-  "azurirano": "2026-08-12T09:31:05.893Z",
+  "azurirano": "2026-08-12T09:31:11.000Z",
   "dokumenti": [
     {
       "naziv": "MSI 5064-101",
@@ -162,7 +162,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
