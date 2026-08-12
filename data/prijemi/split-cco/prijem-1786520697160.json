@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T07:44:57.160Z",
-  "azurirano": "2026-08-12T07:57:28.507Z",
+  "azurirano": "2026-08-12T07:57:56.193Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -314,13 +314,13 @@
           "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 1m",
           "barkod": "766623395007",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 2m",
           "barkod": "766623395014",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN DisplayPort 8K@60Hz (DP), 2m",
@@ -344,7 +344,7 @@
           "naziv": "Kabel Manhattan USB 2.0 Type-C to Type-B Cable, 2 m",
           "barkod": "766623394895",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN USB 3.0 Type-A to Type-C, 2m",
@@ -356,7 +356,7 @@
           "naziv": "Kabel MANHATTAN USB 3.2 Type-C to Type-C, 100W, 1m",
           "barkod": "766623394901",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Kabel PLOOS, USB-A na USB-C, 100cm, Bijeli",
