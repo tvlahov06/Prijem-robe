@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T07:44:57.160Z",
-  "azurirano": "2026-08-12T07:59:30.651Z",
+  "azurirano": "2026-08-12T07:59:40.219Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -20,7 +20,7 @@
           "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni bijeli",
           "barkod": "0194644133108",
           "ocekivano": 15,
-          "skenirano": 0
+          "skenirano": 9
         },
         {
           "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni crni",
@@ -374,7 +374,7 @@
           "naziv": "Kucni Punjac ANKER GaN 2x USB-C/USB-A + USB-C Kabel",
           "barkod": "0194644291754",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Kucni Punjac CELLULARLINE GaN+ Slim Dual 45W",
