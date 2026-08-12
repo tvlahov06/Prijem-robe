@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T14:58:27.773Z",
-  "azurirano": "2026-08-12T18:58:00.823Z",
+  "azurirano": "2026-08-12T18:58:11.281Z",
   "dokumenti": [
     {
       "naziv": "MSI 5102-101",
@@ -85,25 +85,25 @@
           "naziv": "TV HISENSE 50A6S, 127cm (50\"), DLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351430263",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE50QN80HAUXXH, 127 cm (50\") Neo QLED, XXH 4K UHD Smart TV, Tizen OS",
           "barkod": "8806097943051",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55S85HAEXXH, 139.7 cm (55\") OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097963639",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE55QN70HAUXXH, 139 cm (55\") Neo QLED, XXH 4K UHD Smart TV, Tizen OS",
           "barkod": "8806099024253",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG UE43U8092HUXXH, 109 cm (43\") UHD Smart XH TV, Tizen OS",
@@ -127,13 +127,13 @@
           "naziv": "TV SAMSUNG QE55S90HAEXXH, 139.7 cm (55\") OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097954538",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG MRE65R85HAUXXH, 165.1 cm (65\") Micro XXH RGB, 4K UHD Smart TV, Tizen OS",
           "barkod": "8806099105396",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 65PUS9010, 165.1cm (65\"), QLED, UHD 4K 120Hz, Smart TV, Titan OS - Ambilight",
