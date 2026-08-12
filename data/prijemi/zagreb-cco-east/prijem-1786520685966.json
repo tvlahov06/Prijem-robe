@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T07:44:45.966Z",
-  "azurirano": "2026-08-12T19:21:08.447Z",
+  "azurirano": "2026-08-12T19:21:18.750Z",
   "dokumenti": [
     {
       "naziv": "MSI 5099-101",
@@ -304,7 +304,7 @@
           "naziv": "Tablet Samsung Galaxy Tab A11+ 5G 6GB/128GB sivi",
           "barkod": "8806097859963",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dodatni tekstilni remen 20mm M/L za Samsung Galaxy U Watch9 plavi",
@@ -322,7 +322,7 @@
           "naziv": "Mobitel Samsung Galaxy Z Fold8 5G 12GB/256GB grafitno crni",
           "barkod": "8806099348830",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
