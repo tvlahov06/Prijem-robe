@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T07:44:45.966Z",
-  "azurirano": "2026-08-12T19:11:13.154Z",
+  "azurirano": "2026-08-12T19:11:33.158Z",
   "dokumenti": [
     {
       "naziv": "MSI 5099-101",
@@ -469,13 +469,13 @@
           "naziv": "Epilator Philips BRE237/00",
           "barkod": "8720689030915",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Epilator Philips BRE257/00",
           "barkod": "8720689030977",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6552/15 Face & Body",
