@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T07:44:45.966Z",
-  "azurirano": "2026-08-12T19:16:03.978Z",
+  "azurirano": "2026-08-12T19:16:16.627Z",
   "dokumenti": [
     {
       "naziv": "MSI 5099-101",
@@ -14,7 +14,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
           "barkod": "195950627190",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
@@ -26,7 +26,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Cosmic Orange",
           "barkod": "195950627398",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
@@ -422,7 +422,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
           "barkod": "195950627596",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Silver",
