@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T09:25:28.206Z",
-  "azurirano": "2026-08-12T09:30:55.656Z",
+  "azurirano": "2026-08-12T09:30:59.071Z",
   "dokumenti": [
     {
       "naziv": "MSI 5064-101",
@@ -192,7 +192,7 @@
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
           "barkod": "4897098683446",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link Bluetooth adapter 4.0 UB400",
