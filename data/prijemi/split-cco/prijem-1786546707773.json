@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T14:58:27.773Z",
-  "azurirano": "2026-08-12T19:40:27.918Z",
+  "azurirano": "2026-08-12T19:40:36.026Z",
   "dokumenti": [
     {
       "naziv": "MSI 5102-101",
@@ -601,7 +601,7 @@
           "naziv": "Mobitel Apple iPhone 17 256GB Lavender",
           "barkod": "195950644135",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
@@ -619,7 +619,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
           "barkod": "195950627596",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Watch Series 11 GPS 46mm Jet Black Aluminium Case with Black Sport Band - S/M",
