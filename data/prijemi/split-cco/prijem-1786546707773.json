@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T14:58:27.773Z",
-  "azurirano": "2026-08-12T19:21:18.348Z",
+  "azurirano": "2026-08-12T19:21:44.316Z",
   "dokumenti": [
     {
       "naziv": "MSI 5102-101",
@@ -14,19 +14,19 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
           "barkod": "195950627190",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
           "barkod": "195950627596",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Cosmic Orange",
           "barkod": "195950627398",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dron DJI Neo Fly More Combo",
