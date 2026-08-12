@@ -5,7 +5,7 @@
   "datum": "2026-08-11",
   "status": "aktivan",
   "kreirano": "2026-08-11T07:05:28.431Z",
-  "azurirano": "2026-08-12T06:26:31.803Z",
+  "azurirano": "2026-08-12T06:26:34.499Z",
   "dokumenti": [
     {
       "naziv": "MSI 5094-101",
@@ -50,113 +50,6 @@
           "barkod": "8806097970712",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5030-101",
-      "stavke": [
-        {
-          "naziv": "Volan LOGITECH G G29 + mjenjac",
-          "barkod": "5099206132467",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mis LOGITECH MX Master 4 grafit",
-          "barkod": "5099206133082",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, crni",
-          "barkod": "5099206134737",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
-          "barkod": "5099206089235",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mis Logitech M190, sivi",
-          "barkod": "5099206091832",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Web kamera Logitech BRIO 500 crna",
-          "barkod": "5099206104914",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Logitech, gaming G733, bijele",
-          "barkod": "5099206089532",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "volan LOGITECH G923 Trueforce, PC/PS4/PS5, USB, crna boja , Sim Racing volan",
-          "barkod": "5099206082793",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech G PRO X Superlight 2, bijeli",
-          "barkod": "5099206104549",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tipkovnica Logitech G915 X LIGHTSPEED, gaming, LIGHTSYNC RGB, mehanicka-tactile, bezicna white",
-          "barkod": "5099206121362",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech M90, zicani, sivi",
-          "barkod": "5099206021860",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice Logitech H390, zicane, USB, bijele",
-          "barkod": "5099206107304",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Logitech H390, zicane, USB, roze",
-          "barkod": "5099206107298",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mis Logitech M650 L, za ljevake, crni",
-          "barkod": "5099206097209",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis logitech M500s, zicani",
-          "barkod": "5099206088702",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tipkovnica Logitech G915 X LIGHTSPEED, gaming, LIGHTSYNC RGB, mehanicka-tactile, bezicna",
-          "barkod": "5099206121669",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
-          "barkod": "1200130026294",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
