@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T07:44:45.966Z",
-  "azurirano": "2026-08-12T19:22:53.233Z",
+  "azurirano": "2026-08-12T19:22:55.530Z",
   "dokumenti": [
     {
       "naziv": "MSI 5099-101",
@@ -137,7 +137,7 @@
           "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
           "barkod": "194850664199",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
