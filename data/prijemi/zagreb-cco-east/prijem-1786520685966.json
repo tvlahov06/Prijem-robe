@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T07:44:45.966Z",
-  "azurirano": "2026-08-12T19:08:34.582Z",
+  "azurirano": "2026-08-12T19:08:38.832Z",
   "dokumenti": [
     {
       "naziv": "MSI 5099-101",
@@ -588,7 +588,7 @@
           "naziv": "Apple 60W USB-C Charge Cable (1m)",
           "barkod": "195949371905",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Pencil (USB-C)",
@@ -624,7 +624,7 @@
           "naziv": "Apple Dual USB-C Power Adapter 35W",
           "barkod": "195949376733",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple MagSafe Charger (1 m)",
