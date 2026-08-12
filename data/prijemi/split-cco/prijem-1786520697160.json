@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T07:44:57.160Z",
-  "azurirano": "2026-08-12T07:49:56.336Z",
+  "azurirano": "2026-08-12T07:50:02.350Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -128,7 +128,7 @@
           "naziv": "CELLULARLINE IZVLACIVI KABEL C-C, 100W, 1m, Crna",
           "barkod": "8018080503801",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL C-C 3.1 150 CM WHITE",
@@ -218,7 +218,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C TO MFI 120 CM",
           "barkod": "8018080347849",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 20.000 BLACK",
