@@ -5,7 +5,7 @@
   "datum": "2026-08-12",
   "status": "aktivan",
   "kreirano": "2026-08-12T14:58:27.773Z",
-  "azurirano": "2026-08-12T19:41:25.887Z",
+  "azurirano": "2026-08-12T19:42:07.897Z",
   "dokumenti": [
     {
       "naziv": "MSI 5102-101",
@@ -589,7 +589,7 @@
           "naziv": "Apple Watch Series 11 GPS 46mm Jet Black Aluminium Case with Black Sport Band - M/L",
           "barkod": "195950631821",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 256GB Mist Blue",
@@ -625,7 +625,7 @@
           "naziv": "Apple Watch Series 11 GPS 46mm Jet Black Aluminium Case with Black Sport Band - S/M",
           "barkod": "195950631777",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
