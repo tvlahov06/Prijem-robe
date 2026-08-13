@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T07:40:19.517Z",
-  "azurirano": "2026-08-13T07:45:18.276Z",
+  "azurirano": "2026-08-13T07:45:28.997Z",
   "dokumenti": [
     {
       "naziv": "MSI 5164-101",
@@ -733,19 +733,19 @@
           "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
           "barkod": "5025155131992",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V8 Absolute",
           "barkod": "5025155090152",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Uredaj za mokro ciscenje podova Dyson Clean+Wash Hygiene",
           "barkod": "5025155126059",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dyson ventilator AM12 Cool CF1 (602807) White/Silver",
@@ -757,7 +757,7 @@
           "naziv": "Usisavac Dyson V10 Absolute",
           "barkod": "5025155088081",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NBP016B Flip",
