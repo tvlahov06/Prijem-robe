@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T06:33:21.484Z",
-  "azurirano": "2026-08-13T07:52:29.870Z",
+  "azurirano": "2026-08-13T07:52:35.060Z",
   "dokumenti": [
     {
       "naziv": "MSI 165-181",
@@ -291,7 +291,7 @@
           "naziv": "Usisavac Dyson V15s Detect Submarine",
           "barkod": "5025155136218",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dyson ventilator AM12 Cool CF1 (602807) White/Silver",
