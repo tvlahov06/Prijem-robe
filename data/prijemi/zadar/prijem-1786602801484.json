@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T06:33:21.484Z",
-  "azurirano": "2026-08-13T08:32:14.130Z",
+  "azurirano": "2026-08-13T08:32:56.643Z",
   "dokumenti": [
     {
       "naziv": "MSI 165-181",
@@ -15,41 +15,6 @@
           "barkod": "6942351432410",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5095-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
-          "barkod": "195950627190",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
-          "barkod": "195950627596",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Cosmic Orange",
-          "barkod": "195950627398",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dron DJI Neo Fly More Combo",
-          "barkod": "6941565988294",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Perilica susilica rublja SAMSUNG WD10HG6U94BEU4",
-          "barkod": "8806097970712",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
