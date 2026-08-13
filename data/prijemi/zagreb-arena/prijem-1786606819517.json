@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T07:40:19.517Z",
-  "azurirano": "2026-08-13T07:58:13.293Z",
+  "azurirano": "2026-08-13T07:58:49.694Z",
   "dokumenti": [
     {
       "naziv": "MSI 5164-101",
@@ -466,7 +466,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
           "barkod": "8720689027137",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Remington AS8810 Keratin Therapy",
@@ -478,7 +478,7 @@
           "naziv": "Uvijac za kosu Revlon 2U1 SALON + Revlon Uniq One tretman za kosu",
           "barkod": "7630127502113",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP4631/65 Face & Body",
