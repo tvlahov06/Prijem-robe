@@ -1,0 +1,347 @@
+{
+  "id": "prijem-1786629248820",
+  "poslovnica": "zagreb-cco-east",
+  "naziv": "",
+  "datum": "2026-08-13",
+  "status": "aktivan",
+  "kreirano": "2026-08-13T13:54:08.820Z",
+  "azurirano": "2026-08-13T13:54:08.820Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 5198-101",
+      "stavke": [
+        {
+          "naziv": "Laptop HP OmniBook 5 AI 16-af1014nm CV9Y2EA, 40.6cm (16\") OLED 2K, Intel Core Ultra 5 225U, 16 GB RAM, 1 TB",
+          "barkod": "199764635259",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5200-101",
+      "stavke": [
+        {
+          "naziv": "Laptop ACER Aspire Lite 14 NX.DPREX.003, 35.6 cm (14.0\") IPS WUXGA, AMD Ryzen 3 5400U, 8 GB RAM, 256",
+          "barkod": "4711721083550",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
+          "barkod": "2010033161096",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Vivobook 15 M1502NAQ, 39.6 cm (15.6\") Full 7V0_W11H HD, AMD Ryzen 7 170, 16 GB RAM, 512 GB SSD, AMD",
+          "barkod": "2010033157822",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5196-101",
+      "stavke": [
+        {
+          "naziv": "EA SPORTS FC 26 PS4",
+          "barkod": "5030944125335",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EA SPORTS FC 26 PS5",
+          "barkod": "5030938125327",
+          "ocekivano": 8,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5197-101",
+      "stavke": [
+        {
+          "naziv": "Mikser rucni Gorenje M500DCBK",
+          "barkod": "3838782541605",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Bosch MMB6172S VitaPower Serie 4",
+          "barkod": "4242005215980",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vrecice za usisavac Bosch BBZ41FGALL",
+          "barkod": "4242002830414",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BCS1041PET Unlimited 10 ProAnimal, crveni",
+          "barkod": "4242005469543",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6700/91 dekalcifikator za uklanjanje kamenca",
+          "barkod": "8720389000416",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST8040/30",
+          "barkod": "8720389004599",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP3347/90 espresso",
+          "barkod": "8720389030222",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8300/80",
+          "barkod": "8720389066504",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH5020/20",
+          "barkod": "8720389043772",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH5030/20",
+          "barkod": "8720389050091",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8200/70",
+          "barkod": "8720389066511",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP5547/90 espresso",
+          "barkod": "8720389032370",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vrecice za usisavac Bosch BBZWD4BAG",
+          "barkod": "4242005174423",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST8020/20",
+          "barkod": "8720389004773",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za dubinsko ciscenje Philips XW3193/11",
+          "barkod": "8720389047718",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BHN24L",
+          "barkod": "4242005190898",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XC3133/01",
+          "barkod": "8720389029868",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Philips XU5100/20",
+          "barkod": "8720389055584",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mlinac za kavu Bosch TSM6A011W bijeli",
+          "barkod": "4242005108770",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
+          "barkod": "8720389040733",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sjeckalica Bosch MMR08A1 800 ml, bijela/antracit",
+          "barkod": "4242002742816",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH7030/10",
+          "barkod": "8720389007453",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac ELECTROLUX EB61C4DB",
+          "barkod": "7332543823031",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mlinac za kavu Bosch TSM6A013B crni",
+          "barkod": "4242005108787",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sokovnik Bosch MESM731M VitaExtract hladna presa",
+          "barkod": "4242002974187",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips GC7844/20",
+          "barkod": "8710103951049",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal SV9201E0*",
+          "barkod": "3121040077634",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Bosch TWK2M164, MyMoment, crveno",
+          "barkod": "4242005397877",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi EC 890.M Dedica Duo",
+          "barkod": "8004399032569",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kapsule za kavu Lavazza A Modo Mio Passionale 16/1",
+          "barkod": "8000070086005",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser Stapni Bosch MSM4B621 ErgoMaster",
+          "barkod": "4242005346622",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XD3110/09",
+          "barkod": "8710103939115",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BCS1051POW Unlimited 10 ProPower, crni",
+          "barkod": "4242005468348",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Citruseta Tefal ZP300138",
+          "barkod": "3045386370474",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhinjski asistent Bosch MUM5XW40 MUM5 CreationLine",
+          "barkod": "4242005185214",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za sladoled Ninja NC302EU Creami",
+          "barkod": "0622356350884",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock Qrevo C Pro bijela",
+          "barkod": "6936905903792",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Bosch MFQ4070",
+          "barkod": "4242002556857",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips dodaci XV1882/10 zamjenski podni brisac",
+          "barkod": "8720389070044",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ledomat Gorenje IMDW1500B",
+          "barkod": "3838782972515",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso VERTUO UP White S MD1-EUWHNE-S",
+          "barkod": "8606112020497",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 16-126",
+      "stavke": [
+        {
+          "naziv": "Mobitel Samsung Galaxy S26+ 5G 12/256GB bijeli",
+          "barkod": "8806097828150",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5200-101",
+      "stavke": [
+        {
+          "naziv": "Laptop ACER Aspire Lite 14 NX.DPREX.003, 35.6 cm (14.0\") IPS WUXGA, AMD Ryzen 3 5400U, 8 GB RAM, 256",
+          "barkod": "4711721083550",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
+          "barkod": "2010033161096",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Vivobook 15 M1502NAQ, 39.6 cm (15.6\") Full 7V0_W11H HD, AMD Ryzen 7 170, 16 GB RAM, 512 GB SSD, AMD",
+          "barkod": "2010033157822",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
