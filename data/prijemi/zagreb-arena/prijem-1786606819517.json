@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T07:40:19.517Z",
-  "azurirano": "2026-08-13T08:23:13.408Z",
+  "azurirano": "2026-08-13T08:23:23.309Z",
   "dokumenti": [
     {
       "naziv": "MSI 5164-101",
@@ -561,7 +561,7 @@
           "naziv": "TV HISENSE 50E7S, 126 CM (50\") Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
           "barkod": "6942351431161",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 40A5S, 101.6cm (40\"), Hi-QLED, FHD Smart TV, VIDAA OS",
@@ -573,13 +573,13 @@
           "naziv": "TV HISENSE 50A6S, 127cm (50\"), DLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351430263",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 43A6S, 109.2cm (43\"), DLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351430102",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hisense Hi-QLED TV 55E7S, 139.7 cm (55\") Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
@@ -609,7 +609,7 @@
           "naziv": "TV SAMSUNG QE55S85HAEXXH, 139.7 cm (55\") OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097963639",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE55QN70HAUXXH, 139 cm (55\") Neo QLED, XXH 4K UHD Smart TV, Tizen OS",
@@ -627,7 +627,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55S90HAEXXH, 139.7 cm (55\") OLED, 4K H UHD Smart TV, Tizen OS",
