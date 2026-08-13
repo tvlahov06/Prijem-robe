@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T06:33:21.484Z",
-  "azurirano": "2026-08-13T08:32:56.643Z",
+  "azurirano": "2026-08-13T08:33:22.641Z",
   "dokumenti": [
     {
       "naziv": "MSI 165-181",
@@ -15,65 +15,6 @@
           "barkod": "6942351432410",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5096-101",
-      "stavke": [
-        {
-          "naziv": "TV HISENSE 43E7S, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351430973",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "TV LG 43NU8E0B3LA 109.2cm (43\"), LED, 4K UHD Smart AEU TV, webOS",
-          "barkod": "8806096768471",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV HISENSE 40A5S, 101.6cm (40\"), Hi-QLED, FHD Smart TV, VIDAA OS",
-          "barkod": "6942351429632",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV HISENSE 50A6S, 127cm (50\"), DLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351430263",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV LG 55NU800B3LA 139.7cm (55\"), LED, 4K UHD Smart AEUQ TV, webOS",
-          "barkod": "8806096728390",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "TV SAMSUNG QE50QN80HAUXXH, 127 cm (50\") Neo QLED, XXH 4K UHD Smart TV, Tizen OS",
-          "barkod": "8806097943051",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV SAMSUNG QE55QN70HAUXXH, 139 cm (55\") Neo QLED, XXH 4K UHD Smart TV, Tizen OS",
-          "barkod": "8806099024253",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV SAMSUNG UE43U8092HUXXH, 109 cm (43\") UHD Smart XH TV, Tizen OS",
-          "barkod": "8806097977407",
-          "ocekivano": 2,
-          "skenirano": 3
-        },
-        {
-          "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
-          "barkod": "5901292525958",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
