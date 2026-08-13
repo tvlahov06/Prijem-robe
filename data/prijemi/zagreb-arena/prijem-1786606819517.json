@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T07:40:19.517Z",
-  "azurirano": "2026-08-13T09:21:51.290Z",
+  "azurirano": "2026-08-13T09:21:59.204Z",
   "dokumenti": [
     {
       "naziv": "MSI 5164-101",
@@ -282,25 +282,25 @@
           "naziv": "Monitor 32\" Samsung S6 S60UD, LS32D600UAUXEN, 81cm EN (32\"), QHD, IPS, 100 Hz",
           "barkod": "8806095524689",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor AOC Q27G4ZDR 27\" QD-OLED Gaming, 240 Hz",
           "barkod": "4038986183130",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SAMSUNG 27\" ViewFinity S8 Monitor LS27D800UAUXEN, EN IPS 4K UHD, 60Hz, 5ms, HDR10, DisplayPort, HDMI,",
           "barkod": "8806095541945",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor XIAOMI A27UI-EU, 68,6 cm (27''), 4K UHD IPS, HDR400, 99% sRGB, 60Hz, USB-C",
           "barkod": "6941948706989",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
