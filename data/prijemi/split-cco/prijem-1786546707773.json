@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T13:22:36.817Z",
-  "azurirano": "2026-08-14T05:43:35.542Z",
+  "azurirano": "2026-08-14T05:43:42.360Z",
   "dokumenti": [
     {
       "naziv": "MSI 5172-101",
@@ -462,7 +462,7 @@
           "naziv": "Mikser rucni Bosch MFQ4070",
           "barkod": "4242002556857",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Rostilj Philips HD6210/90 stolni",
