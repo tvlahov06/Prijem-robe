@@ -5,7 +5,7 @@
   "datum": "2026-08-14",
   "status": "aktivan",
   "kreirano": "2026-08-14T06:34:53.551Z",
-  "azurirano": "2026-08-14T07:47:29.420Z",
+  "azurirano": "2026-08-14T07:47:33.769Z",
   "dokumenti": [
     {
       "naziv": "MSI 5194-101",
@@ -74,7 +74,7 @@
           "naziv": "Osvjezivac odjece Philips STH5020/20",
           "barkod": "8720389043772",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5030/20",
@@ -236,7 +236,7 @@
           "naziv": "Toster Gorenje T850BK",
           "barkod": "3838942049026",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Philips HD2330/90 preklopni",
