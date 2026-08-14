@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T13:22:36.817Z",
-  "azurirano": "2026-08-14T06:02:08.602Z",
+  "azurirano": "2026-08-14T06:02:31.717Z",
   "dokumenti": [
     {
       "naziv": "MSI 5172-101",
@@ -402,7 +402,7 @@
           "naziv": "Usisavac robot Bosch BCRD2W, Spotless Advanced +",
           "barkod": "4242005525775",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal SV8130E0",
