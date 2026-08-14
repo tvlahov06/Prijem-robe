@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T13:22:36.817Z",
-  "azurirano": "2026-08-14T05:59:08.289Z",
+  "azurirano": "2026-08-14T05:59:20.114Z",
   "dokumenti": [
     {
       "naziv": "MSI 5172-101",
@@ -264,7 +264,7 @@
           "naziv": "Usisavac Philips XD8142/12",
           "barkod": "8720389037948",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BHN24L",
