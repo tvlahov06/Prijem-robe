@@ -5,7 +5,7 @@
   "datum": "2026-08-14",
   "status": "aktivan",
   "kreirano": "2026-08-14T06:34:53.551Z",
-  "azurirano": "2026-08-14T07:53:10.594Z",
+  "azurirano": "2026-08-14T07:53:26.281Z",
   "dokumenti": [
     {
       "naziv": "MSI 5194-101",
@@ -86,7 +86,7 @@
           "naziv": "Usisavac Philips FC9557/09",
           "barkod": "8720389036637",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9550/09",
