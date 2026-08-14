@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T13:22:36.817Z",
-  "azurirano": "2026-08-14T06:02:03.086Z",
+  "azurirano": "2026-08-14T06:02:08.602Z",
   "dokumenti": [
     {
       "naziv": "MSI 5172-101",
@@ -432,7 +432,7 @@
           "naziv": "Usisavac robot iRobot Roomba Max 705 + Baza AutoEmptyTM Black",
           "barkod": "5061042262981",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za sladoled Ninja NC302EU Creami",
@@ -468,7 +468,7 @@
           "naziv": "Rostilj Philips HD6210/90 stolni",
           "barkod": "8720389056659",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XD2142/12",
