@@ -5,7 +5,7 @@
   "datum": "2026-08-14",
   "status": "aktivan",
   "kreirano": "2026-08-14T06:34:53.551Z",
-  "azurirano": "2026-08-14T08:36:15.419Z",
+  "azurirano": "2026-08-14T08:36:21.196Z",
   "dokumenti": [
     {
       "naziv": "MSI 5194-101",
@@ -888,13 +888,13 @@
           "naziv": "Tipkovnica + mis Logitech MK270, bezicna, crna",
           "barkod": "5099206039384",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Logitech K270 bezicna, USB, crna",
           "barkod": "5099206032842",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica LOGITECH K250 graphite",
