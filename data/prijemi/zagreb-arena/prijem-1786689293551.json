@@ -5,7 +5,7 @@
   "datum": "2026-08-14",
   "status": "aktivan",
   "kreirano": "2026-08-14T06:34:53.551Z",
-  "azurirano": "2026-08-14T07:53:52.010Z",
+  "azurirano": "2026-08-14T07:55:07.736Z",
   "dokumenti": [
     {
       "naziv": "MSI 5194-101",
@@ -140,7 +140,7 @@
           "naziv": "Usisavac Philips XC3133/01",
           "barkod": "8720389029868",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Q7 BF+ sa stanicom za samopraznjenje bijela",
