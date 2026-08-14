@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T13:22:36.817Z",
-  "azurirano": "2026-08-14T05:46:39.745Z",
+  "azurirano": "2026-08-14T05:46:51.220Z",
   "dokumenti": [
     {
       "naziv": "MSI 5172-101",
@@ -222,7 +222,7 @@
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
           "barkod": "8720389030307",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5010/70",
@@ -360,7 +360,7 @@
           "naziv": "Aparat za kavu DeLonghi ECAM 290.21.B Magnifica Evo",
           "barkod": "8004399021358",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA552/00 Airfryer Dual Basket, para",
