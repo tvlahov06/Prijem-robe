@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T13:54:08.820Z",
-  "azurirano": "2026-08-14T19:16:36.796Z",
+  "azurirano": "2026-08-14T19:16:55.709Z",
   "dokumenti": [
     {
       "naziv": "MSI 5198-101",
@@ -155,7 +155,7 @@
           "naziv": "Usisavac Bosch BHN24L",
           "barkod": "4242005190898",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
