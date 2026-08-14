@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T13:22:36.817Z",
-  "azurirano": "2026-08-14T05:57:32.290Z",
+  "azurirano": "2026-08-14T05:57:58.445Z",
   "dokumenti": [
     {
       "naziv": "MSI 5172-101",
@@ -318,7 +318,7 @@
           "naziv": "Usisavac ELECTROLUX EB61C4DB",
           "barkod": "7332543823031",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XW7264/11 bezicni AquaTrio",
@@ -474,7 +474,7 @@
           "naziv": "Usisavac Philips XD2142/12",
           "barkod": "8720389068669",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ledomat Gorenje IMDW1500B",
