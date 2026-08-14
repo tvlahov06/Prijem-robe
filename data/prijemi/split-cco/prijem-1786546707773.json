@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T13:22:36.817Z",
-  "azurirano": "2026-08-14T05:46:51.220Z",
+  "azurirano": "2026-08-14T05:46:59.995Z",
   "dokumenti": [
     {
       "naziv": "MSI 5172-101",
@@ -414,7 +414,7 @@
           "naziv": "Aparat za kavu Philips PSA3228/01 espresso Barista Brew",
           "barkod": "8720389032851",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips GC7842/40",
@@ -504,7 +504,7 @@
           "naziv": "Aparat za kavu Philips EP8757/20 espresso, Cafe Aromis",
           "barkod": "8720389064807",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECAM 470.85.MB Eletta Ultra",
