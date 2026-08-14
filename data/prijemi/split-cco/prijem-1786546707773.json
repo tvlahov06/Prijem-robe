@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T13:22:36.817Z",
-  "azurirano": "2026-08-14T05:57:58.445Z",
+  "azurirano": "2026-08-14T05:59:08.289Z",
   "dokumenti": [
     {
       "naziv": "MSI 5172-101",
@@ -144,7 +144,7 @@
           "naziv": "Usisavac Philips FC9334/09",
           "barkod": "8710103796329",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Gorenje K15DWW",
