@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T13:22:36.817Z",
-  "azurirano": "2026-08-14T05:43:50.726Z",
+  "azurirano": "2026-08-14T05:43:55.561Z",
   "dokumenti": [
     {
       "naziv": "MSI 5172-101",
@@ -282,7 +282,7 @@
           "naziv": "Usisavac rucni Gorenje MVC72FW",
           "barkod": "3838782040542",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mlinac za kavu Bosch TSM6A011W bijeli",
