@@ -5,7 +5,7 @@
   "datum": "2026-08-14",
   "status": "aktivan",
   "kreirano": "2026-08-14T06:34:53.551Z",
-  "azurirano": "2026-08-14T08:36:25.536Z",
+  "azurirano": "2026-08-14T08:36:41.148Z",
   "dokumenti": [
     {
       "naziv": "MSI 5194-101",
@@ -858,7 +858,7 @@
           "naziv": "Mis LOGITECH MX Master 4 grafit",
           "barkod": "5099206133082",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech G309 LIGHTSPEED, crni",
@@ -876,7 +876,7 @@
           "naziv": "Mis Logitech M185, sivi",
           "barkod": "5099206027275",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M196, bijeli",
