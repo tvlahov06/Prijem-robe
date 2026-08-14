@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T13:22:36.817Z",
-  "azurirano": "2026-08-14T06:01:29.072Z",
+  "azurirano": "2026-08-14T06:01:39.238Z",
   "dokumenti": [
     {
       "naziv": "MSI 5172-101",
@@ -294,7 +294,7 @@
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
           "barkod": "8720389040733",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sjeckalica Bosch MMR08A1 800 ml, bijela/antracit",
@@ -324,7 +324,7 @@
           "naziv": "Usisavac Philips XW7264/11 bezicni AquaTrio",
           "barkod": "8720389042119",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mlinac za kavu Bosch TSM6A013B crni",
