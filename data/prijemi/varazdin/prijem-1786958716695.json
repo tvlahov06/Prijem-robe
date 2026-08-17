@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T09:25:16.695Z",
-  "azurirano": "2026-08-17T12:21:28.038Z",
+  "azurirano": "2026-08-17T12:21:37.021Z",
   "dokumenti": [
     {
       "naziv": "MSI 5154-101",
@@ -678,7 +678,7 @@
           "naziv": "Usisavac Bosch BCHF220B Readyy'y, crni",
           "barkod": "4242005183302",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vrecice za usisavac Bosch BBZ41FGALL",
@@ -696,7 +696,7 @@
           "naziv": "Aparat za kavu Philips oprema CA6700/91 dekalcifikator za uklanjanje kamenca",
           "barkod": "8720389000416",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Glacalo Philips DST8040/30",
