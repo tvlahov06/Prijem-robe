@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T08:50:37.929Z",
-  "azurirano": "2026-08-17T10:15:14.713Z",
+  "azurirano": "2026-08-17T10:15:35.873Z",
   "dokumenti": [
     {
       "naziv": "MSI 5199-101",
@@ -480,17 +480,6 @@
           "barkod": "4242005400362",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5220-101",
-      "stavke": [
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX ENCORE 2 EP",
-          "barkod": "1200130020216",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
