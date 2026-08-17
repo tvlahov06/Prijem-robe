@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T09:25:16.695Z",
-  "azurirano": "2026-08-17T12:42:50.197Z",
+  "azurirano": "2026-08-17T12:43:49.929Z",
   "dokumenti": [
     {
       "naziv": "MSI 5154-101",
@@ -655,7 +655,7 @@
           "naziv": "Audio sustav visoke snage Panasonic SC-UA30E-K",
           "barkod": "5025232882496",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple AirPods Pro3 with MagSafe Case (USB-C)",
