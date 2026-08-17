@@ -5,7 +5,7 @@
   "datum": "2026-08-16",
   "status": "aktivan",
   "kreirano": "2026-08-16T10:24:07.993Z",
-  "azurirano": "2026-08-17T09:14:03.192Z",
+  "azurirano": "2026-08-17T09:15:26.296Z",
   "dokumenti": [
     {
       "naziv": "MSI 5189-101",
@@ -194,7 +194,7 @@
           "naziv": "Usisavac Philips XC5141/01",
           "barkod": "8720389035715",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac ELECTROLUX EB61C4DB",
