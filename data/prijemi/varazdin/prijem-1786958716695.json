@@ -4,8 +4,8 @@
   "naziv": "Roba 17.08.2026",
   "datum": "2026-08-17",
   "status": "aktivan",
-  "kreirano": "2026-08-17T09:25:16.695Z",
-  "azurirano": "2026-08-17T13:00:34.709Z",
+  "kreirano": "2026-08-17T12:58:21.569Z",
+  "azurirano": "2026-08-17T12:58:21.569Z",
   "dokumenti": [
     {
       "naziv": "MSI 5154-101",
@@ -1359,6 +1359,65 @@
           "barkod": "195950639049",
           "ocekivano": 1,
           "skenirano": 1
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5151-101",
+      "stavke": [
+        {
+          "naziv": "Usisavac Dyson V15 Detect Absolute",
+          "barkod": "5025155136201",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
+          "barkod": "5025155117187",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
+          "barkod": "5025155127759",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V16 Piston Animal",
+          "barkod": "5025155114834",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V8 Total Clean",
+          "barkod": "5025155080306",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Jasper Plum Straight+Wavy",
+          "barkod": "5025155112816",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
+          "barkod": "5025155131992",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907CP 900W",
+          "barkod": "8006447000087",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB505DG 500W",
+          "barkod": "8006447000070",
+          "ocekivano": 1,
+          "skenirano": 0
         }
       ]
     }
