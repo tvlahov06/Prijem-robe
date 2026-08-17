@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T09:25:16.695Z",
-  "azurirano": "2026-08-17T12:16:18.583Z",
+  "azurirano": "2026-08-17T12:17:10.084Z",
   "dokumenti": [
     {
       "naziv": "MSI 5154-101",
@@ -708,7 +708,7 @@
           "naziv": "Osvjezivac odjece Philips STH5020/20",
           "barkod": "8720389043772",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5030/20",
@@ -762,7 +762,7 @@
           "naziv": "Mlinac za kavu Bosch TSM6A011W bijeli",
           "barkod": "4242005108770",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
@@ -774,7 +774,7 @@
           "naziv": "Sjeckalica Bosch MMR08A1 800 ml, bijela/antracit",
           "barkod": "4242002742816",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XD6122/12",
