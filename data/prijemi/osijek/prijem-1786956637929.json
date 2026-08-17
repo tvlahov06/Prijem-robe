@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T08:50:37.929Z",
-  "azurirano": "2026-08-17T09:25:49.695Z",
+  "azurirano": "2026-08-17T09:28:05.934Z",
   "dokumenti": [
     {
       "naziv": "MSI 5199-101",
@@ -827,7 +827,7 @@
           "naziv": "TP-Link RE190, pojacivac signala AC750",
           "barkod": "6935364089665",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
