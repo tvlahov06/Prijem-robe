@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T09:25:16.695Z",
-  "azurirano": "2026-08-17T12:14:26.135Z",
+  "azurirano": "2026-08-17T12:14:30.593Z",
   "dokumenti": [
     {
       "naziv": "MSI 5154-101",
@@ -762,7 +762,7 @@
           "naziv": "Mlinac za kavu Bosch TSM6A011W bijeli",
           "barkod": "4242005108770",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
@@ -786,7 +786,7 @@
           "naziv": "Mlinac za kavu Bosch TSM6A013B crni",
           "barkod": "4242005108787",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sokovnik Bosch MESM731M VitaExtract hladna presa",
