@@ -5,7 +5,7 @@
   "datum": "2026-08-16",
   "status": "aktivan",
   "kreirano": "2026-08-16T10:24:07.993Z",
-  "azurirano": "2026-08-17T08:51:04.103Z",
+  "azurirano": "2026-08-17T08:51:13.145Z",
   "dokumenti": [
     {
       "naziv": "MSI 5189-101",
@@ -92,7 +92,7 @@
           "naziv": "Parna postaja Philips PSG8200/70",
           "barkod": "8720389066511",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9550/09",
