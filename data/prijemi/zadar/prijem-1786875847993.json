@@ -5,73 +5,8 @@
   "datum": "2026-08-16",
   "status": "aktivan",
   "kreirano": "2026-08-16T10:24:07.993Z",
-  "azurirano": "2026-08-17T08:47:26.784Z",
+  "azurirano": "2026-08-17T08:47:49.238Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 5177-101",
-      "stavke": [
-        {
-          "naziv": "Printer HP LaserJet M110w",
-          "barkod": "194850676970",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Printer HP LaserJet M207dw, 8J9K9F",
-          "barkod": "0197961893083",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
-          "barkod": "194850664199",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP Smart Tank 790 All-in-One (4WF66A) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Fax, Duplex, Wi-Fi, LAN,",
-          "barkod": "195908302858",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 2923 All-in-One (89F99B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "0198828789587",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 2922 All-in-One (A24HVB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789792",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 27\" Acer Nitro ED270US3, UM.HE0EE.306, QHD, 180Hz, 5ms, zakrivljen",
-          "barkod": "4711121917981",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor ACER Vero V247YGbi, UM.QV7EE.G01, 60,5 cm (23.8\") IPS FHD, 16:9, 250nits, 1ms, HDMI, VGA, crni",
-          "barkod": "4711474177056",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA5337W, 39.6cm F90 (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
-          "barkod": "4711636496544",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ACER Aspire Go 15 NX.J7WEX.00Q, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711474945655",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
     {
       "naziv": "MSI 5178-101",
       "stavke": [
