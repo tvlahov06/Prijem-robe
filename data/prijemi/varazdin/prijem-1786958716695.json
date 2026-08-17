@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T13:04:07.941Z",
-  "azurirano": "2026-08-17T13:57:58.873Z",
+  "azurirano": "2026-08-17T13:58:12.498Z",
   "dokumenti": [
     {
       "naziv": "MSI 5154-101",
@@ -1184,7 +1184,7 @@
           "naziv": "Tinta CANON",
           "barkod": "4549292192643",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk ADATA Ex HDD HD330, 2TB, usb3.0, plavi -CBL",
