@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T08:50:37.929Z",
-  "azurirano": "2026-08-17T11:01:24.302Z",
+  "azurirano": "2026-08-17T11:01:39.526Z",
   "dokumenti": [
     {
       "naziv": "MSI 5199-101",
@@ -185,7 +185,7 @@
           "naziv": "Osvjezivac odjece Philips STH5020/20",
           "barkod": "8720389043772",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5030/20",
@@ -215,7 +215,7 @@
           "naziv": "Osvjezivac odjece Philips STH5010/70",
           "barkod": "8720389043819",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sjeckalica Bosch MMR08R2 800 ml, crvena/antracit",
