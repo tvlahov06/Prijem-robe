@@ -1,0 +1,676 @@
+{
+  "id": "prijem-1786976723551",
+  "poslovnica": "split-cco",
+  "naziv": "Roba u dolasku",
+  "datum": "2026-08-17",
+  "status": "aktivan",
+  "kreirano": "2026-08-17T14:25:23.551Z",
+  "azurirano": "2026-08-17T14:25:23.551Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 5238-101",
+      "stavke": [
+        {
+          "naziv": "Hladnjak kombinirani Gorenje NRK418EES4",
+          "barkod": "3838782772337",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani Gorenje RF4142PW4",
+          "barkod": "3838782407697",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani Gorenje RK14EPS4",
+          "barkod": "3838782677250",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani Hisense RB372N4AC2",
+          "barkod": "6921727047427",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani Hisense RB390N4GBE",
+          "barkod": "6921727055958",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani Hisense RB395N4WFE",
+          "barkod": "6921727073945",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani LG GBB72TW9DQ",
+          "barkod": "8806091717375",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrovalna pecnica ugradbena AEG OS5MG20EB",
+          "barkod": "7333394047607",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pecnica ugradbena Bosch HBA571BB4",
+          "barkod": "4242005543762",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pecnica ugradbena Bosch HBG578EB3",
+          "barkod": "4242005465088",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pecnica ugradbena Gorenje BOS67371CLI",
+          "barkod": "3838782613647",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pecnica ugradbena Gorenje BOS6737E06B",
+          "barkod": "3838782505652",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda samostojeca 60 cm GORENJE GS673A97W",
+          "barkod": "3838782948527",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda ugradbena 60 cm Gorenje GV642E90",
+          "barkod": "3838782723155",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda ugradbena 60cm Gorenje GV673B65",
+          "barkod": "3838782946356",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda ugradbena 60cm Hisense HV16B",
+          "barkod": "3838783042569",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda ugradbena Bosch SMV46KX04E",
+          "barkod": "4242005179626",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda ugradbena Bosch SMV4ECX28E",
+          "barkod": "4242005484386",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda ugradbena Bosch SMV6ZCX13E",
+          "barkod": "4242005417421",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Beko B1WFM2821WBEE",
+          "barkod": "8690842807503",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Bosch WGG244Z5BY",
+          "barkod": "4242005449163",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja GORENJE WG4S84B1",
+          "barkod": "3838783091826",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Hisense WF5I8043BWF",
+          "barkod": "6901101832481",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Hisense WF5S1045BW",
+          "barkod": "6901101825575",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja slim Hisense WF3S7021BW",
+          "barkod": "6901101826602",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica susilica Hisense WD3S9045BW3",
+          "barkod": "6901101830081",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica susilica rublja GORENJE WD2PA1X64ADW",
+          "barkod": "3838782818431",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica-susilica rublja Bosch WNC254A0BY",
+          "barkod": "4242005349210",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "2836W Perilica-susilica WHIRLPOOL WPD 2836W ADS EE ADS EE",
+          "barkod": "8003437062650",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena Bosch PIX631HC1E",
+          "barkod": "4242005394111",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena Bosch PUE611BB5E",
+          "barkod": "4242005285082",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena Gorenje ECT601FM",
+          "barkod": "3838782931710",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena indukcija Gorenje ISC645BSC",
+          "barkod": "3838782685767",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena indukcija i plin Gorenje GCI691BSC",
+          "barkod": "3838782132254",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "S5360 BF/W Ploca ugradbena indukcija Whirlpool WL S5360 BF/W",
+          "barkod": "8003437238239",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ploca ugradbena s integriranom napom GORENJE F GEH8432BSCWF",
+          "barkod": "3838782866159",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilica rublja Gorenje D2HNE7E",
+          "barkod": "3838782952647",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Stednjak elektricni 50 cm Gorenje GEC5B41SG",
+          "barkod": "3838782619533",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vinski hladnjak Gorenje WC48G4BG4",
+          "barkod": "3838782830174",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vinski hladnjak Hisense RW3N122GSLF",
+          "barkod": "6921727080981",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5242-101",
+      "stavke": [
+        {
+          "naziv": "Apple EarPods (USB-C)",
+          "barkod": "195949776274",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple EarPods (Lightning Connector)",
+          "barkod": "195949506123",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
+          "barkod": "6942103101359",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 4 (USB-C)",
+          "barkod": "195949688591",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX EB-TWS-101, bijela boja | True Wireless slusalice",
+          "barkod": "3858894502547",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
+          "barkod": "195949689673",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Razer Blackshark V2 X, 7.1 surround, black 0-R3M1",
+          "barkod": "8886419378396",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods Pro3 with MagSafe Case (USB-C)",
+          "barkod": "195950543742",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Razer Kraken X Lite, zicane, gaming, 7.1, 0-R381 mikrofon, over-ear",
+          "barkod": "8886419378082",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark BLUETOOTH ZVUCNIK GBT-619 IDAKKA crni IDAKKA BLACK",
+          "barkod": "3858894504053",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "BARACUDA ZVUCNICI BGSP-011 SEASHELL",
+          "barkod": "3858894506767",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DVD Player Sony C1",
+          "barkod": "4905524842074",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hisense Soundbar AX3120Q",
+          "barkod": "6942351423432",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX EB-TWS-12, crna boja | Bezicne slusalice",
+          "barkod": "3858894504510",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony",
+          "barkod": "4548736170544",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "B/G Bluetooth zvucnik WHITE SHARK GHATAM, GBT-3007, crna/siva",
+          "barkod": "3858894508754",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5243-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
+          "barkod": "195950627190",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Braun PL5221",
+          "barkod": "8700216937818",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Neo Fly More Combo",
+          "barkod": "6941565988294",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5244-101",
+      "stavke": [
+        {
+          "naziv": "Punjac za ASUS laptope, 68W Type-C",
+          "barkod": "4711636433433",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305 Black Original Ink Cartridge, 3YM61AE - Instant Ink",
+          "barkod": "194441597332",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348453",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305 Tri-colour Original Ink Cartridge, 3YM60AE - Instant Ink",
+          "barkod": "194441597318",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
+          "barkod": "740617348699",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
+          "barkod": "4718050609604",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305XL Cartridge Ink 3YM62AE, Boja Black - Instant Ink",
+          "barkod": "193905429288",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 652 Black Original Ink Advantage Cartridge, F6V25AE",
+          "barkod": "889296160939",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
+          "barkod": "4718050609642",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
+          "barkod": "4713435796641",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR130, Zuta",
+          "barkod": "4711474835543",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link TL-MR6400 bezicni 4G LTE Router, 300Mbps, interni 4G modem, SIM card slot",
+          "barkod": "6935364092764",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348507",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
+          "barkod": "740617348408",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON FD 128GB USB3.2 Exodia",
+          "barkod": "740617314359",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347999",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR130, Bijela",
+          "barkod": "4711474799715",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
+          "barkod": "740617305371",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link UE300C USB Type-C na Ethernet adapter, USB 3.0 port, 10/100/1000",
+          "barkod": "6935364072599",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 103 za L11xx/L12xx/L31xx/L32xx/L51xx/L52xx, 65ml",
+          "barkod": "8715946655840",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-031 REVENGE 750x350 Crna",
+          "barkod": "3858894503667",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 2.5\" 1TB USB 3.2 T7 Portable plavi W MU-PC1T0H/WW",
+          "barkod": "8806090312410",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link AC750 bezicni pojacivac dometa, Dual Band 5GHz/2.4GHz, 802.11ac/a/b/g/n",
+          "barkod": "6935364071295",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick Samsung 256GB FIT Plus crni MUF-256AB/APC",
+          "barkod": "8801643233563",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 652 Tri-Colour Original Ink Advantage Cartridge, F6V24AE",
+          "barkod": "889296160892",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "tinta GI-490BK, crna",
+          "barkod": "4549292041729",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE450 bezicni pojacivac dometa, Dual Band GHz/5GHz, 10/100/1000 LAN prikljucak",
+          "barkod": "6935364092382",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer Cobra, zicani, gaming, 8500DPI, RGB, crni 0-R3M1",
+          "barkod": "8886419334095",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR 100, Crna",
+          "barkod": "4711121852237",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CANON",
+          "barkod": "4960999974521",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk WD My Passport 5TB, Black, USB 3.2 K-WESN",
+          "barkod": "718037868448",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-link UC400 USB-C to USB 3.0 Adapter 1 USB-C connector 1 USB 3.0 port",
+          "barkod": "6935364096151",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer Basilisk V3 X HyperSpeed Wireless 0-R3G1",
+          "barkod": "8886419334316",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Canon tinta GI490M",
+          "barkod": "4549292041767",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lenovo Power Adapter Lenovo USB-C 65W AC Adapter",
+          "barkod": "191927887826",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Canon tinta GI490C",
+          "barkod": "4549292041743",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis White Shark ESL-MP7 ASHIKAGA L 45x40x0,3cm",
+          "barkod": "0736373269767",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-004112 SHINOBI-2 Crna - R-RED.SW Mehanicka / HR - RED SW.",
+          "barkod": "3858894506057",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-071 300x250X2mm",
+          "barkod": "3858894507931",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark RUKSAK GBP-009 TROOPER / 16\" Crni",
+          "barkod": "3858894502073",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5258-101",
+      "stavke": [
+        {
+          "naziv": "H-100 TV nosac BOF TVM H-100",
+          "barkod": "2010030072609",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-200 TV nosac BOF TVM V-200",
+          "barkod": "2010030072647",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-300 TV nosac BOF TVM H-300",
+          "barkod": "2010030072623",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5259-101",
+      "stavke": [
+        {
+          "naziv": "Film za Fujifilm Instax Mini - 2 paketa",
+          "barkod": "4547410364866",
+          "ocekivano": 30,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5261-101",
+      "stavke": [
+        {
+          "naziv": "Ventilator BOSCH Tower Fan 4000",
+          "barkod": "4069143459379",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ventilator BOSCH Tower Fan 6000",
+          "barkod": "4069143460290",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
