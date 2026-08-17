@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "logista_1708",
   "datum": "2026-08-17",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-08-17T06:16:41.243Z",
-  "azurirano": "2026-08-17T06:24:31.720Z",
+  "azurirano": "2026-08-17T06:24:35.626Z",
   "dokumenti": [
     {
       "naziv": "logista_1708",
@@ -74,9 +74,10 @@
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
           "barkod": "8018080481963",
           "ocekivano": 15,
-          "skenirano": 3
+          "skenirano": 15
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-08-17T06:24:35.626Z"
 }
