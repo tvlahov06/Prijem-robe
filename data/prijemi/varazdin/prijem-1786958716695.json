@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T09:25:16.695Z",
-  "azurirano": "2026-08-17T12:18:35.132Z",
+  "azurirano": "2026-08-17T12:19:18.284Z",
   "dokumenti": [
     {
       "naziv": "MSI 5154-101",
@@ -756,7 +756,7 @@
           "naziv": "Usisavac Philips XC3133/01",
           "barkod": "8720389029868",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mlinac za kavu Bosch TSM6A011W bijeli",
