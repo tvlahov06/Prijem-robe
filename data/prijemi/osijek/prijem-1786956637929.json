@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T08:50:37.929Z",
-  "azurirano": "2026-08-17T09:29:36.181Z",
+  "azurirano": "2026-08-17T09:30:20.964Z",
   "dokumenti": [
     {
       "naziv": "MSI 5199-101",
@@ -208,7 +208,7 @@
           "naziv": "Usisavac Philips FC9550/09",
           "barkod": "8710103860105",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
