@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T08:50:37.929Z",
-  "azurirano": "2026-08-17T10:15:47.775Z",
+  "azurirano": "2026-08-17T10:16:09.113Z",
   "dokumenti": [
     {
       "naziv": "MSI 5199-101",
@@ -480,89 +480,6 @@
           "barkod": "4242005400362",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5222-101",
-      "stavke": [
-        {
-          "naziv": "Sat Samsung Galaxy Watch9 40mm crni",
-          "barkod": "8806099325442",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sat Samsung Galaxy Watch9 44mm srebrni",
-          "barkod": "8806099326777",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Dodatni Marine remen za Samsung Galaxy Watch Ultra2 mocha",
-          "barkod": "8806099287887",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dodatni Marine remen za Samsung Galaxy Watch Ultra2 crni",
-          "barkod": "8806099287900",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dodatni silikonski sportski remen 20mm M/L za Samsung U Galaxy Watch9 plavi",
-          "barkod": "8806099287962",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dodatni silikonski sportski remen 20mm S/M za Samsung Galaxy Watch9 bez",
-          "barkod": "8806099288044",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dodatni silikonski sportski remen 20mm S/M za Samsung Galaxy Watch9 maslinasto zeleni",
-          "barkod": "8806099288082",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dodatni silikonski sportski remen 20mm M/L za Samsung Galaxy Watch9 crni",
-          "barkod": "8806099288006",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dodatni silikonski sportski remen 20mm S/M za Samsung Galaxy Watch9 plavi",
-          "barkod": "8806099288068",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dodatni silikonski sportski remen 20mm S/M za Samsung Galaxy Watch9 zuti",
-          "barkod": "8806099288020",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dodatni silikonski sportski remen 20mm M/L za Samsung Galaxy Watch9 maslinasto zeleni",
-          "barkod": "8806099287986",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/512GB grafitno crni",
-          "barkod": "8806099191788",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dodatni tekstilni remen 20mm M/L za Samsung Galaxy U Watch9 plavi",
-          "barkod": "8806099330057",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
