@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T09:25:16.695Z",
-  "azurirano": "2026-08-17T12:19:42.838Z",
+  "azurirano": "2026-08-17T12:20:17.607Z",
   "dokumenti": [
     {
       "naziv": "MSI 5154-101",
@@ -726,7 +726,7 @@
           "naziv": "Usisavac Philips FC9330/09",
           "barkod": "8720389036088",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Vrecice za usisavac Bosch BBZWD4BAG",
@@ -792,7 +792,7 @@
           "naziv": "Sokovnik Bosch MESM731M VitaExtract hladna presa",
           "barkod": "4242002974187",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips GC7844/20",
