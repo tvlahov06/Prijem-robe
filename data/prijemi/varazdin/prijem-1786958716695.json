@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T09:25:16.695Z",
-  "azurirano": "2026-08-17T12:48:22.693Z",
+  "azurirano": "2026-08-17T12:48:44.428Z",
   "dokumenti": [
     {
       "naziv": "MSI 5154-101",
@@ -26,7 +26,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
           "barkod": "8720689027137",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Revlon 2U1 SALON + Revlon Uniq One tretman za kosu",
@@ -56,7 +56,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6552/15 Face & Body",
           "barkod": "8720689027199",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Pegla za kosu Philips BHS752/00",
