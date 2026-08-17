@@ -1,0 +1,82 @@
+{
+  "id": "prijem-1786947401243",
+  "poslovnica": "zagreb-cco-west",
+  "naziv": "logista_1708",
+  "datum": "2026-08-17",
+  "status": "aktivan",
+  "kreirano": "2026-08-17T06:16:41.243Z",
+  "azurirano": "2026-08-17T06:16:41.243Z",
+  "dokumenti": [
+    {
+      "naziv": "logista_1708",
+      "stavke": [
+        {
+          "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni crni",
+          "barkod": "0194644125806",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni bijeli",
+          "barkod": "0194644133108",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
+          "barkod": "8018080270413",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
+          "barkod": "8018080270420",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE-C 200CM",
+          "barkod": "8018080295737",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 25W",
+          "barkod": "8018080367182",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
+          "barkod": "8018080367199",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel PLOOS, USB-C na USB-C, 100cm, Bijeli",
+          "barkod": "8018080371509",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
+          "barkod": "8018080373633",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac PLOOS, Dual, 20W, 1xUSB-A, 1xUSB-C, Crni",
+          "barkod": "8018080415005",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
+          "barkod": "8018080481963",
+          "ocekivano": 15,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
