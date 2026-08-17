@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T09:25:16.695Z",
-  "azurirano": "2026-08-17T12:13:26.677Z",
+  "azurirano": "2026-08-17T12:14:00.289Z",
   "dokumenti": [
     {
       "naziv": "MSI 5154-101",
@@ -708,7 +708,7 @@
           "naziv": "Osvjezivac odjece Philips STH5020/20",
           "barkod": "8720389043772",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5030/20",
@@ -738,7 +738,7 @@
           "naziv": "Glacalo Philips DST8020/20",
           "barkod": "8720389004773",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Uredaj za dubinsko ciscenje Philips XW3193/11",
