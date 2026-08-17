@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T06:16:41.243Z",
-  "azurirano": "2026-08-17T06:23:16.941Z",
+  "azurirano": "2026-08-17T06:23:23.735Z",
   "dokumenti": [
     {
       "naziv": "logista_1708",
@@ -44,7 +44,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 25W",
           "barkod": "8018080367182",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
@@ -74,7 +74,7 @@
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
           "barkod": "8018080481963",
           "ocekivano": 15,
-          "skenirano": 2
+          "skenirano": 3
         }
       ]
     }
