@@ -5,7 +5,7 @@
   "datum": "2026-08-16",
   "status": "aktivan",
   "kreirano": "2026-08-16T10:24:07.993Z",
-  "azurirano": "2026-08-17T09:08:59.208Z",
+  "azurirano": "2026-08-17T09:09:04.184Z",
   "dokumenti": [
     {
       "naziv": "MSI 5189-101",
@@ -515,7 +515,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta HP 305XL Cartridge Ink 3YM62AE, Boja Black - Instant Ink",
@@ -647,7 +647,7 @@
           "naziv": "USB STICK Kingston DataTraveler microDuo 3C 64GB, USB GB 3.2, USB-A+C",
           "barkod": "740617328219",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Keychron B6P-K1-UK Space Gray",
