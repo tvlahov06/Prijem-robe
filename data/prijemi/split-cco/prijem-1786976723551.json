@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T14:25:23.551Z",
-  "azurirano": "2026-08-18T05:52:37.932Z",
+  "azurirano": "2026-08-18T05:53:22.863Z",
   "dokumenti": [
     {
       "naziv": "MSI 5238-101",
@@ -140,13 +140,13 @@
           "naziv": "Perilica rublja GORENJE WG4S84B1",
           "barkod": "3838783091826",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Hisense WF5I8043BWF",
           "barkod": "6901101832481",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Hisense WF5S1045BW",
