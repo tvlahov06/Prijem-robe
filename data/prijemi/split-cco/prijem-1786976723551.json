@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T14:25:23.551Z",
-  "azurirano": "2026-08-18T05:53:25.412Z",
+  "azurirano": "2026-08-18T05:53:30.358Z",
   "dokumenti": [
     {
       "naziv": "MSI 5238-101",
@@ -182,7 +182,7 @@
           "naziv": "2836W Perilica-susilica WHIRLPOOL WPD 2836W ADS EE ADS EE",
           "barkod": "8003437062650",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena Bosch PIX631HC1E",
@@ -194,7 +194,7 @@
           "naziv": "Ploca ugradbena Bosch PUE611BB5E",
           "barkod": "4242005285082",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena Gorenje ECT601FM",
