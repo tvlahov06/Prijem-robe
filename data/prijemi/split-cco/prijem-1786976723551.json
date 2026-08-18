@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T14:25:23.551Z",
-  "azurirano": "2026-08-18T06:21:32.803Z",
+  "azurirano": "2026-08-18T06:21:39.247Z",
   "dokumenti": [
     {
       "naziv": "MSI 5238-101",
@@ -431,7 +431,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
           "barkod": "4718050609642",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
@@ -521,7 +521,7 @@
           "naziv": "USB stick Samsung 256GB FIT Plus crni MUF-256AB/APC",
           "barkod": "8801643233563",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tinta HP 652 Tri-Colour Original Ink Advantage Cartridge, F6V24AE",
