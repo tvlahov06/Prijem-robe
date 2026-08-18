@@ -5,7 +5,7 @@
   "datum": "2026-08-18",
   "status": "aktivan",
   "kreirano": "2026-08-18T05:01:11.814Z",
-  "azurirano": "2026-08-18T05:21:56.060Z",
+  "azurirano": "2026-08-18T05:22:00.901Z",
   "dokumenti": [
     {
       "naziv": "MSI 5245-101",
@@ -206,7 +206,7 @@
           "naziv": "TP-Link Bluetooth adapter 4.0 UB400",
           "barkod": "6935364099664",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 512GB micSDHC Canvas Select Plus G3 150R+",
