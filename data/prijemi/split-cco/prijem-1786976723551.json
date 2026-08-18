@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T14:25:23.551Z",
-  "azurirano": "2026-08-18T05:58:00.760Z",
+  "azurirano": "2026-08-18T06:00:09.724Z",
   "dokumenti": [
     {
       "naziv": "MSI 5238-101",
@@ -68,7 +68,7 @@
           "naziv": "Pecnica ugradbena Bosch HBG578EB3",
           "barkod": "4242005465088",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena Gorenje BOS67371CLI",
@@ -212,7 +212,7 @@
           "naziv": "Ploca ugradbena indukcija i plin Gorenje GCI691BSC",
           "barkod": "3838782132254",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "S5360 BF/W Ploca ugradbena indukcija Whirlpool WL S5360 BF/W",
