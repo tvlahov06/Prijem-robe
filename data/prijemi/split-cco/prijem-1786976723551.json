@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T14:25:23.551Z",
-  "azurirano": "2026-08-18T05:50:23.529Z",
+  "azurirano": "2026-08-18T05:50:31.924Z",
   "dokumenti": [
     {
       "naziv": "MSI 5238-101",
@@ -152,13 +152,13 @@
           "naziv": "Perilica rublja Hisense WF5S1045BW",
           "barkod": "6901101825575",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja slim Hisense WF3S7021BW",
           "barkod": "6901101826602",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica susilica Hisense WD3S9045BW3",
@@ -176,7 +176,7 @@
           "naziv": "Perilica-susilica rublja Bosch WNC254A0BY",
           "barkod": "4242005349210",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "2836W Perilica-susilica WHIRLPOOL WPD 2836W ADS EE ADS EE",
