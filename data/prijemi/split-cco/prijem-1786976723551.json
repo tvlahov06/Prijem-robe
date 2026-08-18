@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T14:25:23.551Z",
-  "azurirano": "2026-08-18T06:23:35.226Z",
+  "azurirano": "2026-08-18T06:23:40.234Z",
   "dokumenti": [
     {
       "naziv": "MSI 5238-101",
@@ -271,7 +271,7 @@
           "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
           "barkod": "6942103101359",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple AirPods 4 (USB-C)",
