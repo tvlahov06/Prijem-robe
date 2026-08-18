@@ -5,7 +5,7 @@
   "datum": "2026-08-18",
   "status": "aktivan",
   "kreirano": "2026-08-18T05:01:11.814Z",
-  "azurirano": "2026-08-18T05:08:20.908Z",
+  "azurirano": "2026-08-18T05:08:32.828Z",
   "dokumenti": [
     {
       "naziv": "MSI 5245-101",
@@ -548,13 +548,13 @@
           "naziv": "Ventilator BOSCH Tower Fan 4000",
           "barkod": "4069143459379",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Ventilator BOSCH Tower Fan 6000",
           "barkod": "4069143460290",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         }
       ]
     }
