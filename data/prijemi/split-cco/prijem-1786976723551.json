@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T14:25:23.551Z",
-  "azurirano": "2026-08-18T05:53:30.358Z",
+  "azurirano": "2026-08-18T05:55:19.048Z",
   "dokumenti": [
     {
       "naziv": "MSI 5238-101",
@@ -128,13 +128,13 @@
           "naziv": "Perilica rublja Beko B1WFM2821WBEE",
           "barkod": "8690842807503",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Bosch WGG244Z5BY",
           "barkod": "4242005449163",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja GORENJE WG4S84B1",
@@ -188,7 +188,7 @@
           "naziv": "Ploca ugradbena Bosch PIX631HC1E",
           "barkod": "4242005394111",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena Bosch PUE611BB5E",
