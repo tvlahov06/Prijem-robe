@@ -5,7 +5,7 @@
   "datum": "2026-08-17",
   "status": "aktivan",
   "kreirano": "2026-08-17T14:25:23.551Z",
-  "azurirano": "2026-08-18T06:20:31.928Z",
+  "azurirano": "2026-08-18T06:20:34.044Z",
   "dokumenti": [
     {
       "naziv": "MSI 5238-101",
@@ -485,7 +485,7 @@
           "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
           "barkod": "740617305371",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link UE300C USB Type-C na Ethernet adapter, USB 3.0 port, 10/100/1000",
