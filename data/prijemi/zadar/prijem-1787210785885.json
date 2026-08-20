@@ -5,7 +5,7 @@
   "datum": "2026-08-20",
   "status": "aktivan",
   "kreirano": "2026-08-20T07:26:25.885Z",
-  "azurirano": "2026-08-20T10:25:05.659Z",
+  "azurirano": "2026-08-20T10:25:45.568Z",
   "dokumenti": [
     {
       "naziv": "MSI 5287-101",
@@ -194,35 +194,6 @@
           "barkod": "5025155136218",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5321-101",
-      "stavke": [
-        {
-          "naziv": "H-100 TV nosac BOF TVM H-100",
-          "barkod": "2010030072609",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "H-200 TV nosac BOF TVM H-200",
-          "barkod": "2010030072616",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "V-200 TV nosac BOF TVM V-200",
-          "barkod": "2010030072647",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "X-100 TV nosac BOF TVM X-100",
-          "barkod": "2010030072654",
-          "ocekivano": 4,
-          "skenirano": 4
         }
       ]
     },
