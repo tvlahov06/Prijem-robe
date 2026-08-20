@@ -5,7 +5,7 @@
   "datum": "2026-08-20",
   "status": "aktivan",
   "kreirano": "2026-08-20T07:26:25.885Z",
-  "azurirano": "2026-08-20T08:17:43.638Z",
+  "azurirano": "2026-08-20T08:17:45.901Z",
   "dokumenti": [
     {
       "naziv": "MSI 5260-101",
@@ -589,113 +589,6 @@
           "barkod": "4242002681689",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5338-101",
-      "stavke": [
-        {
-          "naziv": "Laptop LENOVO IdeaPad Slim 3 82XQ01CTSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
-          "barkod": "199274826741",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
-          "barkod": "2010033161096",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ACER Aspire Lite 15 NX.JXTEX.002, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 3 5400U, 8 GB RAM, 256 GB SSD,",
-          "barkod": "4711474955425",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop HP 255R G10 CV4Q5ET, 39.6cm (15.6\") IPS Full HD, AMD Ryzen7 7735U, 16 GB RAM, 1 TB SSD, AMD",
-          "barkod": "199764603715",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop LENOVO IdeaPad Flex 5 82XX00HGSC, 35.6cm (14\") IPS WUXGA Touch, AMD Ryzen 5 5625U, 16 GB RAM,",
-          "barkod": "198158565332",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A16 FA608UHI-TU126, 16\" AZ0 WUXGA 144 Hz, AMD Ryzen 7 260, 16 GB RAM, 512 GB",
-          "barkod": "4711636513548",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop HP 250R G10 C9WX1AT, 39.6cm (15.6\") Full HD, Intel Core 3-100U, 16 GB RAM, 512 GB SSD, Intel",
-          "barkod": "199642594043",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA2877, 15,6\" NP0 FHD, AMD Ryzen 3, 8 GB RAM, 256 GB SSD, AMD Radeon",
-          "barkod": "4711636531290",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook S16 S5652MA-TK122, 40.6 cm BC0 (16.0\") IPS WUXGA 144Hz, Intel Core 7 350, 16 GB RAM,",
-          "barkod": "4711636665148",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ACER Aspire Go 15 NX.J7XEX.00S, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 32 GB RAM, 512 GB",
-          "barkod": "4711474403223",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop HP 15-fc0277nm CZ9C6EA, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD",
-          "barkod": "0199764771070",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A16 FA607NUQ-RL014, 40.6cm 4L0 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 170, 16 GB RAM,",
-          "barkod": "4711636446716",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 14 Flip TP3407SA-SGA155W, 14\" LV0 WUXGA OLED Touch, Intel Core Ultra 7 258V, 32 GB RAM,",
-          "barkod": "4711636463713",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ASUS Zenbook S 14 UX5406SA-PZ615X, 35.6cm 1W0 (14\") OLED 3K 120Hz Touch, Intel Core Ultra 7 258V, 32",
-          "barkod": "4711636492409",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Blush, mhfh4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
-          "barkod": "195950853513",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop HP VICTUS Gaming 15-fa2129nm CV9Y0EA, 39.6cm (15.6\") IPS Full HD 144Hz, Intel Core i7-13620H, 16 GB",
-          "barkod": "0199764635211",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop HP VICTUS Gaming 15-fb3006nm CV9Y1EA, 39.6cm (15.6\") IPS Full HD 144Hz, AMD Ryzen AI 7 350, 16 GB",
-          "barkod": "0199764635235",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     },
