@@ -5,7 +5,7 @@
   "datum": "2026-08-20",
   "status": "aktivan",
   "kreirano": "2026-08-20T07:26:25.885Z",
-  "azurirano": "2026-08-20T08:07:59.956Z",
+  "azurirano": "2026-08-20T08:08:12.780Z",
   "dokumenti": [
     {
       "naziv": "MSI 5260-101",
@@ -381,7 +381,7 @@
           "naziv": "TV SAMSUNG UE50M70HAUXXH, 127 cm (50\") Mini LED, XH 4K UHD Smart TV, Tizen OS",
           "barkod": "8806097977667",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "TV PHILIPS 32PHS5500, 81.3cm (32\"), LED, HD",
@@ -405,7 +405,7 @@
           "naziv": "Hisense Hi-QLED TV 55E7S, 139.7 cm (55\") Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
           "barkod": "6942351431352",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE43QN70HAUXXH, 109 cm (43\") Neo QLED, XXH 4K UHD Smart TV, Tizen OS",
@@ -459,7 +459,7 @@
           "naziv": "TV PHILIPS 55PUS7001, 139.7cm (55\"), LED, UHD 4K Smart TV, Titan OS",
           "barkod": "8718863051627",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 65PQS9011, 165.1cm (65\"), QLED, UHD 4K 120Hz, Smart TV, Titan OS - Ambilight",
