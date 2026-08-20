@@ -5,7 +5,7 @@
   "datum": "2026-08-20",
   "status": "aktivan",
   "kreirano": "2026-08-20T07:26:25.885Z",
-  "azurirano": "2026-08-20T10:26:20.782Z",
+  "azurirano": "2026-08-20T11:31:53.116Z",
   "dokumenti": [
     {
       "naziv": "MSI 5287-101",
@@ -92,13 +92,13 @@
           "naziv": "Mikrovalna pecnica Gorenje MO17E1S",
           "barkod": "3838782175367",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrovalna pecnica Gorenje MO20A3BH",
           "barkod": "3838782667336",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrovalna pecnica Bosch FEL023MS2",
