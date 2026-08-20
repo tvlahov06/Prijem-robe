@@ -5,7 +5,7 @@
   "datum": "2026-08-20",
   "status": "aktivan",
   "kreirano": "2026-08-20T07:26:25.885Z",
-  "azurirano": "2026-08-20T08:17:45.901Z",
+  "azurirano": "2026-08-20T09:13:28.078Z",
   "dokumenti": [
     {
       "naziv": "MSI 5260-101",
@@ -173,7 +173,7 @@
           "naziv": "Hladnjak kombinirani Bosch KGN39VLEB",
           "barkod": "4242005208395",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hladnjak kombinirani Samsung RB34C600ES9/EK EK",
@@ -589,47 +589,6 @@
           "barkod": "4242002681689",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5341-101",
-      "stavke": [
-        {
-          "naziv": "DELL 27\" monitor SE2726H, IPS Full HD, 144Hz, 4ms, ComfortView Plus, AMD FreeSync, 2x HDMI",
-          "barkod": "5397321028819",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Monitor 27\" Samsung Odyssey G5 G53F, EN LS27FG530EUXEN, IPS, QHD, 200Hz",
-          "barkod": "8806097683384",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Monitor 27\" Samsung ViewFinity S7 S70H, EN LS27H700EAUXEN, IPS, 4K UHD, 60Hz",
-          "barkod": "8806099141899",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Monitor 27\" Samsung Odyssey OLED G5 G50SF, EN LS27FG502SUXEN, OLED, QHD, 180Hz",
-          "barkod": "8806097684046",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Monitor Acer X27U W3bmiiprx 27 OLED Monitor QHD ZeroFrame 240Hz",
-          "barkod": "4711474804747",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Monitor 32\" Samsung ViewFinity S7 S70H, EN LS32H704EAUXEN, VA, 4K UHD, 60Hz",
-          "barkod": "8806099141943",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     }
