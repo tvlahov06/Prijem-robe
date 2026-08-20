@@ -5,7 +5,7 @@
   "datum": "2026-08-20",
   "status": "aktivan",
   "kreirano": "2026-08-20T06:21:23.574Z",
-  "azurirano": "2026-08-20T06:21:23.574Z",
+  "azurirano": "2026-08-20T07:45:20.357Z",
   "dokumenti": [
     {
       "naziv": "MSI 5333-101",
@@ -346,7 +346,7 @@
           "naziv": "Hisense Hi-QLED TV 55E7S, 139.7 cm (55\") Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
           "barkod": "6942351431352",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG 55NU800B3LA 139.7cm (55\"), LED, 4K UHD Smart AEUQ TV, webOS",
@@ -400,7 +400,7 @@
           "naziv": "TV SAMSUNG QE65S90HAEXXH, 164 cm (65\") OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097954545",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 50PQS7801, 127cm (50\"), QLED, UHD 4K Smart TV, Titan OS",
@@ -424,7 +424,7 @@
           "naziv": "TV PHILIPS 55PUS7001, 139.7cm (55\"), LED, UHD 4K Smart TV, Titan OS",
           "barkod": "8718863051627",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 65PQS9011, 165.1cm (65\"), QLED, UHD 4K 120Hz, Smart TV, Titan OS - Ambilight",
