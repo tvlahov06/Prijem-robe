@@ -5,7 +5,7 @@
   "datum": "2026-08-19",
   "status": "aktivan",
   "kreirano": "2026-08-19T13:45:56.254Z",
-  "azurirano": "2026-08-20T05:42:05.444Z",
+  "azurirano": "2026-08-20T05:42:30.546Z",
   "dokumenti": [
     {
       "naziv": "MSI 5297-101",
@@ -216,7 +216,7 @@
           "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351431420",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG 43NU8E0B3LA 109.2cm (43\"), LED, 4K UHD Smart AEU TV, webOS",
@@ -246,13 +246,13 @@
           "naziv": "Hisense Hi-QLED TV 55E7S, 139.7 cm (55\") Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
           "barkod": "6942351431352",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG 55NU800B3LA 139.7cm (55\"), LED, 4K UHD Smart AEUQ TV, webOS",
           "barkod": "8806096728390",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE43QN70HAUXXH, 109 cm (43\") Neo QLED, XXH 4K UHD Smart TV, Tizen OS",
@@ -264,7 +264,7 @@
           "naziv": "TV SAMSUNG QE48S90HAEXXH, 122 cm (48\") OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097952961",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE50QN70HAUXXH, 127 cm (50\") Neo QLED, XXH 4K UHD Smart TV, Tizen OS",
