@@ -5,7 +5,7 @@
   "datum": "2026-08-19",
   "status": "aktivan",
   "kreirano": "2026-08-19T13:45:56.254Z",
-  "azurirano": "2026-08-20T05:37:37.466Z",
+  "azurirano": "2026-08-20T05:37:42.859Z",
   "dokumenti": [
     {
       "naziv": "MSI 5297-101",
@@ -282,7 +282,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG UE55U8072HUXXH, 139 cm (55\") UHD Smart XH TV, Tizen OS",
@@ -294,7 +294,7 @@
           "naziv": "TV SAMSUNG QE65S90HAEXXH, 164 cm (65\") OLED, 4K H UHD Smart TV, Tizen OS",
           "barkod": "8806097954545",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SAMSUNG QE65S85HAEXXH, 164 cm (65\") OLED, 4K H UHD Smart TV, Tizen OS",
@@ -312,7 +312,7 @@
           "naziv": "TV PHILIPS 55PQS8501, 139.7cm (55\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
           "barkod": "8718863051757",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 55PQS9011, 139.7cm (55\"), QLED, UHD 4K 120Hz, Smart TV, Titan OS - Ambilight",
