@@ -5,7 +5,7 @@
   "datum": "2026-08-19",
   "status": "aktivan",
   "kreirano": "2026-08-19T13:45:56.254Z",
-  "azurirano": "2026-08-20T05:42:30.546Z",
+  "azurirano": "2026-08-20T05:42:36.541Z",
   "dokumenti": [
     {
       "naziv": "MSI 5297-101",
@@ -193,7 +193,7 @@
           "naziv": "Usisavac Dyson V8 Absolute",
           "barkod": "5025155090152",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Dyson Supersonic Travel HD19 Ceramic pink/Rose gold",
@@ -222,7 +222,7 @@
           "naziv": "TV LG 43NU8E0B3LA 109.2cm (43\"), LED, 4K UHD Smart AEU TV, webOS",
           "barkod": "8806096768471",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG UE50M70HAUXXH, 127 cm (50\") Mini LED, XH 4K UHD Smart TV, Tizen OS",
@@ -234,7 +234,7 @@
           "naziv": "TV PHILIPS 32PHS5500, 81.3cm (32\"), LED, HD",
           "barkod": "8718863048160",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 50A6S, 127cm (50\"), DLED, 4k UHD Smart TV, VIDAA OS",
