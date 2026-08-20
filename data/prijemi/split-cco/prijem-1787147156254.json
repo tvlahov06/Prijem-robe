@@ -5,7 +5,7 @@
   "datum": "2026-08-19",
   "status": "aktivan",
   "kreirano": "2026-08-19T13:45:56.254Z",
-  "azurirano": "2026-08-20T05:40:43.555Z",
+  "azurirano": "2026-08-20T05:41:08.080Z",
   "dokumenti": [
     {
       "naziv": "MSI 5297-101",
@@ -175,7 +175,7 @@
           "naziv": "Usisavac Dyson V8 Cyclone",
           "barkod": "5025155136195",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za mokro ciscenje podova Dyson Clean+Wash Hygiene",
@@ -187,7 +187,7 @@
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Jasper Plum Straight+Wavy",
           "barkod": "5025155112816",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V8 Absolute",
@@ -228,7 +228,7 @@
           "naziv": "TV SAMSUNG UE50M70HAUXXH, 127 cm (50\") Mini LED, XH 4K UHD Smart TV, Tizen OS",
           "barkod": "8806097977667",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 32PHS5500, 81.3cm (32\"), LED, HD",
@@ -258,7 +258,7 @@
           "naziv": "TV SAMSUNG QE43QN70HAUXXH, 109 cm (43\") Neo QLED, XXH 4K UHD Smart TV, Tizen OS",
           "barkod": "8806099024130",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE48S90HAEXXH, 122 cm (48\") OLED, 4K H UHD Smart TV, Tizen OS",
@@ -270,13 +270,13 @@
           "naziv": "TV SAMSUNG QE50QN70HAUXXH, 127 cm (50\") Neo QLED, XXH 4K UHD Smart TV, Tizen OS",
           "barkod": "8806099024147",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE55QN70HAUXXH, 139 cm (55\") Neo QLED, XXH 4K UHD Smart TV, Tizen OS",
           "barkod": "8806099024253",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
@@ -288,7 +288,7 @@
           "naziv": "TV SAMSUNG UE55U8072HUXXH, 139 cm (55\") UHD Smart XH TV, Tizen OS",
           "barkod": "8806097977698",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV SAMSUNG QE65S90HAEXXH, 164 cm (65\") OLED, 4K H UHD Smart TV, Tizen OS",
@@ -324,7 +324,7 @@
           "naziv": "TV PHILIPS 55PUS7001, 139.7cm (55\"), LED, UHD 4K Smart TV, Titan OS",
           "barkod": "8718863051627",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
