@@ -5,7 +5,7 @@
   "datum": "2026-08-20",
   "status": "aktivan",
   "kreirano": "2026-08-20T07:26:25.885Z",
-  "azurirano": "2026-08-20T07:40:23.510Z",
+  "azurirano": "2026-08-20T07:40:47.158Z",
   "dokumenti": [
     {
       "naziv": "MSI 5260-101",
@@ -292,7 +292,7 @@
           "naziv": "Mobitel Apple iPhone 17 256GB Sage",
           "barkod": "195950644333",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB crni",
@@ -316,7 +316,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange",
           "barkod": "195950639049",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB srebrni",
@@ -346,7 +346,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Cosmic Orange",
           "barkod": "195950627398",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 41mm White Leather Strap (Jana-B19L)",
