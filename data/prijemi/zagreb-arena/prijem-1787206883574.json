@@ -5,7 +5,7 @@
   "datum": "2026-08-20",
   "status": "aktivan",
   "kreirano": "2026-08-20T06:21:23.574Z",
-  "azurirano": "2026-08-20T08:03:44.093Z",
+  "azurirano": "2026-08-20T08:03:50.925Z",
   "dokumenti": [
     {
       "naziv": "MSI 5333-101",
@@ -310,7 +310,7 @@
           "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351431420",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 32A5S, 81.3cm (32\"), Hi-QLED, FHD Smart TV, VIDAA OS",
@@ -418,7 +418,7 @@
           "naziv": "TV PHILIPS 55PQS8501, 139.7cm (55\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
           "barkod": "8718863051757",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 55PUS7001, 139.7cm (55\"), LED, UHD 4K Smart TV, Titan OS",
@@ -430,7 +430,7 @@
           "naziv": "TV PHILIPS 65PQS9011, 165.1cm (65\"), QLED, UHD 4K 120Hz, Smart TV, Titan OS - Ambilight",
           "barkod": "8718863051870",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     }
