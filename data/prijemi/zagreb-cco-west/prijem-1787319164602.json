@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T13:32:44.602Z",
-  "azurirano": "2026-08-21T14:52:31.127Z",
+  "azurirano": "2026-08-21T14:54:04.223Z",
   "dokumenti": [
     {
       "naziv": "MSI 5357-101",
@@ -817,7 +817,7 @@
           "naziv": "Usisavac robot Roborock Q10 VF+ crna",
           "barkod": "6936905902368",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Qrevo Edge 2 Pro",
