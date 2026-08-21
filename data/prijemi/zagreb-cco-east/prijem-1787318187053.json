@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T13:16:27.053Z",
-  "azurirano": "2026-08-21T19:15:43.421Z",
+  "azurirano": "2026-08-21T19:15:53.351Z",
   "dokumenti": [
     {
       "naziv": "MSI 5388-101",
@@ -253,7 +253,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za izradu tjestenine Philips HR2665/96",
