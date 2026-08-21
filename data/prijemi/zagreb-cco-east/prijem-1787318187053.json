@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T13:16:27.053Z",
-  "azurirano": "2026-08-21T20:06:10.268Z",
+  "azurirano": "2026-08-21T20:06:17.425Z",
   "dokumenti": [
     {
       "naziv": "MSI 5388-101",
@@ -483,7 +483,7 @@
           "naziv": "Laptop ACER Aspire Lite 15 NX.JXTEX.002, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 3 5400U, 8 GB RAM, 256 GB SSD,",
           "barkod": "4711474955425",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 4
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15 NX.DLPEX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
@@ -537,7 +537,7 @@
           "naziv": "Laptop ACER Nitro V 15 NH.QZ8EX.01K, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 9 270H, 32 GB RAM, 1 TB",
           "barkod": "4711474900814",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Zenbook S 14 UX5406SA-PZ615X, 35.6cm 1W0 (14\") OLED 3K 120Hz Touch, Intel Core Ultra 7 258V, 32",
@@ -555,7 +555,7 @@
           "naziv": "Laptop ACER Aspire Go 15 NX.JW6EX.00J, 39.6cm (15.6\") IPS Full HD, Intel Core 7 150U, 16 GB RAM, 1 TB SSD, Intel",
           "barkod": "4711474892423",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP VICTUS Gaming 15-fa2129nm CV9Y0EA, 39.6cm (15.6\") IPS Full HD 144Hz, Intel Core i7-13620H, 16 GB",
