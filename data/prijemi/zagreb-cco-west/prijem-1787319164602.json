@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T13:32:44.602Z",
-  "azurirano": "2026-08-21T14:50:28.436Z",
+  "azurirano": "2026-08-21T14:50:32.466Z",
   "dokumenti": [
     {
       "naziv": "MSI 5357-101",
@@ -859,7 +859,7 @@
           "naziv": "USB stick Samsung 64GB Type-C plavi MUF-64DA/APC",
           "barkod": "8806092535886",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "MikroSD kartica Samsung 128 GB T9 microSDXCTM UHS-I W kartica MB-MH128T/WW ? ?",
@@ -883,7 +883,7 @@
           "naziv": "Externi SSD Kingston XS1000 2TB",
           "barkod": "740617338508",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kingston 500GB NV3 SSD M.2 2280 PCIe 4.0 NVMe, Read: 5,000/ Write: 3,000MB/s",
