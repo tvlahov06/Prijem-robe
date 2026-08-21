@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T13:32:44.602Z",
-  "azurirano": "2026-08-21T14:48:40.162Z",
+  "azurirano": "2026-08-21T14:48:43.125Z",
   "dokumenti": [
     {
       "naziv": "MSI 5357-101",
@@ -776,7 +776,7 @@
           "naziv": "Usisavac Philips XD8152/12",
           "barkod": "8720389037955",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Philips XU2100/25",
