@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T10:32:55.994Z",
-  "azurirano": "2026-08-21T11:16:42.952Z",
+  "azurirano": "2026-08-21T11:16:49.474Z",
   "dokumenti": [
     {
       "naziv": "MSI 5307-101",
@@ -279,13 +279,13 @@
           "naziv": "Mis Logitech M196, rozi",
           "barkod": "5099206128316",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M190, crni",
           "barkod": "5099206091825",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
