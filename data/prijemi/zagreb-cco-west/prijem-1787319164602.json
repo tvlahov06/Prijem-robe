@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T13:32:44.602Z",
-  "azurirano": "2026-08-21T14:50:23.111Z",
+  "azurirano": "2026-08-21T14:50:28.436Z",
   "dokumenti": [
     {
       "naziv": "MSI 5357-101",
@@ -877,7 +877,7 @@
           "naziv": "Externi SSD Kingston XS1000 1TB",
           "barkod": "740617338515",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Externi SSD Kingston XS1000 2TB",
