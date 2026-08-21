@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T13:16:27.053Z",
-  "azurirano": "2026-08-21T20:05:09.759Z",
+  "azurirano": "2026-08-21T20:06:10.268Z",
   "dokumenti": [
     {
       "naziv": "MSI 5388-101",
@@ -483,7 +483,7 @@
           "naziv": "Laptop ACER Aspire Lite 15 NX.JXTEX.002, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 3 5400U, 8 GB RAM, 256 GB SSD,",
           "barkod": "4711474955425",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15 NX.DLPEX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
@@ -513,7 +513,7 @@
           "naziv": "Laptop HP 250R G10 C9WX1AT, 39.6cm (15.6\") Full HD, Intel Core 3-100U, 16 GB RAM, 512 GB SSD, Intel",
           "barkod": "199642594043",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA2877, 15,6\" NP0 FHD, AMD Ryzen 3, 8 GB RAM, 256 GB SSD, AMD Radeon",
@@ -525,13 +525,13 @@
           "naziv": "Laptop ASUS Vivobook S16 S5652MA-TK122, 40.6 cm BC0 (16.0\") IPS WUXGA 144Hz, Intel Core 7 350, 16 GB RAM,",
           "barkod": "4711636665148",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ACER Aspire Go 15 NX.J7XEX.00S, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 32 GB RAM, 512 GB",
           "barkod": "4711474403223",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Nitro V 15 NH.QZ8EX.01K, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 9 270H, 32 GB RAM, 1 TB",
