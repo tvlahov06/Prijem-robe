@@ -4,8 +4,8 @@
   "naziv": "ROBA 21.8.2026.",
   "datum": "2026-08-21",
   "status": "aktivan",
-  "kreirano": "2026-08-21T10:32:55.994Z",
-  "azurirano": "2026-08-21T11:24:42.276Z",
+  "kreirano": "2026-08-21T11:24:12.004Z",
+  "azurirano": "2026-08-21T11:24:12.004Z",
   "dokumenti": [
     {
       "naziv": "MSI 5307-101",
@@ -545,6 +545,71 @@
           "naziv": "Sisac za bradu Remington MB7050 T-Series Kit",
           "barkod": "5038061111101",
           "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5311-101",
+      "stavke": [
+        {
+          "naziv": "Perilica susilica Hisense WD3S9045BW3",
+          "barkod": "6901101830081",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica susilica rublja GORENJE WD2PA1X64ADW",
+          "barkod": "3838782818431",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Bosch WGG244Z5BY",
+          "barkod": "4242005449163",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilica rublja Gorenje D2HNE7E",
+          "barkod": "3838782952647",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani Gorenje RK14EPS4",
+          "barkod": "3838782677250",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani Gorenje NRK418EES4",
+          "barkod": "3838782772337",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrovalna pecnica Gorenje MO20A3BH",
+          "barkod": "3838782667336",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrovalna pecnica Gorenje MO17E1S",
+          "barkod": "3838782175367",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda ugradbena Bosch SMV6ZCX13E",
+          "barkod": "4242005417421",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda ugradbena 60cm Gorenje GV16A",
+          "barkod": "3838782989216",
+          "ocekivano": 1,
           "skenirano": 0
         }
       ]
