@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T09:19:59.720Z",
-  "azurirano": "2026-08-21T09:59:55.795Z",
+  "azurirano": "2026-08-21T10:00:33.233Z",
   "dokumenti": [
     {
       "naziv": "MSI 5293-101",
@@ -127,13 +127,13 @@
           "naziv": "Usisavac Dyson V16 Piston Animal Submarine",
           "barkod": "5025155114841",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V8 Cyclone",
           "barkod": "5025155136195",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907CP 900W",
