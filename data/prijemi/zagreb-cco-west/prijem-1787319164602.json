@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T13:32:44.602Z",
-  "azurirano": "2026-08-21T14:49:26.353Z",
+  "azurirano": "2026-08-21T14:50:14.796Z",
   "dokumenti": [
     {
       "naziv": "MSI 5357-101",
@@ -859,7 +859,7 @@
           "naziv": "USB stick Samsung 64GB Type-C plavi MUF-64DA/APC",
           "barkod": "8806092535886",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MikroSD kartica Samsung 128 GB T9 microSDXCTM UHS-I W kartica MB-MH128T/WW ? ?",
@@ -871,7 +871,7 @@
           "naziv": "MicroSD memorijska kartica Samsung 128GB PRO U Endurance + MicroSD adapter MB-MJ128KA/EU",
           "barkod": "8806092767256",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Externi SSD Kingston XS1000 1TB",
@@ -889,7 +889,7 @@
           "naziv": "Kingston 500GB NV3 SSD M.2 2280 PCIe 4.0 NVMe, Read: 5,000/ Write: 3,000MB/s",
           "barkod": "0740617344806",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "White Shark TIPKOVNICA GK-002722V2 WAKIZASHI-2 / -G-B-BLUE Sivo-crna HR-BLUE.SW",
@@ -913,7 +913,7 @@
           "naziv": "ADATA UV320, 64GB, USB3.2 bijelo-zeleni WHGN",
           "barkod": "4713218462831",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
