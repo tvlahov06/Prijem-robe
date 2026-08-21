@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "Roba Navečer [21-08-2026]",
   "datum": "2026-08-21",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-08-21T13:16:27.053Z",
-  "azurirano": "2026-08-21T20:19:10.552Z",
+  "azurirano": "2026-08-21T20:19:14.526Z",
   "dokumenti": [
     {
       "naziv": "MSI 5388-101",
@@ -720,5 +720,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-08-21T20:19:14.526Z"
 }
