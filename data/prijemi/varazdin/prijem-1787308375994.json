@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T10:32:55.994Z",
-  "azurirano": "2026-08-21T10:38:04.251Z",
+  "azurirano": "2026-08-21T10:38:10.627Z",
   "dokumenti": [
     {
       "naziv": "MSI 5307-101",
@@ -14,7 +14,7 @@
           "naziv": "TV SAMSUNG UE50M70HAUXXH, 127 cm (50\") Mini LED, XH 4K UHD Smart TV, Tizen OS",
           "barkod": "8806097977667",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "TV PHILIPS 32PHS5500, 81.3cm (32\"), LED, HD",
@@ -68,13 +68,13 @@
           "naziv": "TV SAMSUNG UE55U8072HUXXH, 139 cm (55\") UHD Smart XH TV, Tizen OS",
           "barkod": "8806097977698",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV PHILIPS 65PQS9011, 165.1cm (65\"), QLED, UHD 4K 120Hz, Smart TV, Titan OS - Ambilight",
           "barkod": "8718863051870",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
