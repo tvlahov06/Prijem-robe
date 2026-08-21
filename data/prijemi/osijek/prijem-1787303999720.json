@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T09:19:59.720Z",
-  "azurirano": "2026-08-21T09:56:28.182Z",
+  "azurirano": "2026-08-21T09:58:09.035Z",
   "dokumenti": [
     {
       "naziv": "MSI 5293-101",
@@ -158,107 +158,6 @@
           "barkod": "5025155112816",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5310-101",
-      "stavke": [
-        {
-          "naziv": "Botslab Kids Watch E3 PRO Pink",
-          "barkod": "6977312530362",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
-          "barkod": "8806099028282",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Dron DJI Neo Fly More Combo",
-          "barkod": "6941565988294",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sat Samsung Galaxy Watch Ultra2 crni",
-          "barkod": "8806099334062",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sat Samsung Galaxy Watch9 40mm bez",
-          "barkod": "8806099324841",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy A27 5G 6GB/128GB dual SIM plavi",
-          "barkod": "8806099353506",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
-          "barkod": "6942103168253",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB grafitno crni",
-          "barkod": "8806099191818",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy A27 5G 6GB/128GB dual SIM svjetloruzicasti",
-          "barkod": "8806099353599",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Pink",
-          "barkod": "195950086867",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
-          "barkod": "8806097638551",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
-          "barkod": "6942103168239",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange",
-          "barkod": "195950639049",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB srebrni",
-          "barkod": "8806097854920",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S25 5G 12/128GB onyx crni",
-          "barkod": "8806095815534",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Apple Watch SE 3 GPS 44mm Midnight Aluminium Case with Midnight Sport Band - M/L",
-          "barkod": "195950646146",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
