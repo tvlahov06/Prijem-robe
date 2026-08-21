@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T10:32:55.994Z",
-  "azurirano": "2026-08-21T11:13:39.935Z",
+  "azurirano": "2026-08-21T11:13:53.955Z",
   "dokumenti": [
     {
       "naziv": "MSI 5307-101",
@@ -332,19 +332,19 @@
           "naziv": "Monitor 27\" Samsung Odyssey G5 G53F, EN LS27FG530EUXEN, IPS, QHD, 200Hz",
           "barkod": "8806097683384",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Monitor 27\" Samsung ViewFinity S7 S70H, EN LS27H700EAUXEN, IPS, 4K UHD, 60Hz",
           "barkod": "8806099141899",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 27\" Samsung Odyssey OLED G5 G50SF, EN LS27FG502SUXEN, OLED, QHD, 180Hz",
           "barkod": "8806097684046",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor Acer X27U W3bmiiprx 27 OLED Monitor QHD ZeroFrame 240Hz",
@@ -356,7 +356,7 @@
           "naziv": "Monitor 32\" Samsung ViewFinity S7 S70H, EN LS32H704EAUXEN, VA, 4K UHD, 60Hz",
           "barkod": "8806099141943",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
