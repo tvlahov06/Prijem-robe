@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T13:16:27.053Z",
-  "azurirano": "2026-08-21T19:13:26.181Z",
+  "azurirano": "2026-08-21T19:14:22.000Z",
   "dokumenti": [
     {
       "naziv": "MSI 5388-101",
@@ -259,7 +259,7 @@
           "naziv": "Aparat za izradu tjestenine Philips HR2665/96",
           "barkod": "8720389014833",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8300/80",
