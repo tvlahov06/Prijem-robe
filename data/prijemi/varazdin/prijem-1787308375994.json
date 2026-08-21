@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T11:29:49.153Z",
-  "azurirano": "2026-08-21T11:30:14.684Z",
+  "azurirano": "2026-08-21T11:30:24.495Z",
   "dokumenti": [
     {
       "naziv": "MSI 5307-101",
@@ -592,13 +592,13 @@
           "naziv": "Mikrovalna pecnica Gorenje MO20A3BH",
           "barkod": "3838782667336",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrovalna pecnica Gorenje MO17E1S",
           "barkod": "3838782175367",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica posuda ugradbena Bosch SMV6ZCX13E",
