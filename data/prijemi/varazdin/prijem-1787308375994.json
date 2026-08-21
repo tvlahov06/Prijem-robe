@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T11:29:49.153Z",
-  "azurirano": "2026-08-21T12:00:49.318Z",
+  "azurirano": "2026-08-21T12:00:51.590Z",
   "dokumenti": [
     {
       "naziv": "MSI 5307-101",
@@ -434,71 +434,6 @@
           "barkod": "0199764635211",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5370-101",
-      "stavke": [
-        {
-          "naziv": "Tus za zube Philips Sonicare HX3826/31 Power Flosser Cordless white",
-          "barkod": "8720689011037",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Brijac za glavu Remington XR1600",
-          "barkod": "5038061144017",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "IPL depilator Philips BRI977/00 Lumea",
-          "barkod": "8720689005944",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Susilo za kosu Remington D5715",
-          "barkod": "4008496985357",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uvijac za kosu Remington figaro CI83V6 konusni 19-28 mm, Keratin Protect",
-          "barkod": "4008496938636",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uvijac za kosu Remington figaro CI89H1 Hydraluxe 32mm",
-          "barkod": "5038061110371",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pegla za kosu Remington S8598 Keratin Protect Intelligent",
-          "barkod": "4008496938322",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Susilo za kosu Remington D5720",
-          "barkod": "4008496985388",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pegla za kosu + uvijac Remington 2u1 S6606",
-          "barkod": "4008496985296",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Sisac za bradu Remington MB7050 T-Series Kit",
-          "barkod": "5038061111101",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     },
