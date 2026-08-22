@@ -5,7 +5,7 @@
   "datum": "2026-08-22",
   "status": "aktivan",
   "kreirano": "2026-08-22T07:15:56.010Z",
-  "azurirano": "2026-08-22T10:07:53.338Z",
+  "azurirano": "2026-08-22T10:07:59.511Z",
   "dokumenti": [
     {
       "naziv": "MSI 5347-101",
@@ -1082,7 +1082,7 @@
           "naziv": "Laptop ASUS Vivobook S16 S5652MA-TK122, 40.6 cm BC0 (16.0\") IPS WUXGA 144Hz, Intel Core 7 350, 16 GB RAM,",
           "barkod": "4711636665148",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Go 15 NX.J7XEX.00S, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 32 GB RAM, 512 GB",
@@ -1112,7 +1112,7 @@
           "naziv": "Laptop ASUS Zenbook S 14 UX5406SA-PZ615X, 35.6cm 1W0 (14\") OLED 3K 120Hz Touch, Intel Core Ultra 7 258V, 32",
           "barkod": "4711636492409",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Laptop Apple Macbook Neo Blush, mhfh4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
