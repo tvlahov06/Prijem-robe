@@ -5,7 +5,7 @@
   "datum": "2026-08-22",
   "status": "aktivan",
   "kreirano": "2026-08-22T07:15:56.010Z",
-  "azurirano": "2026-08-22T11:42:01.403Z",
+  "azurirano": "2026-08-22T11:42:06.295Z",
   "dokumenti": [
     {
       "naziv": "MSI 5347-101",
@@ -527,7 +527,7 @@
           "naziv": "Externi SSD Kingston XS1000 2TB",
           "barkod": "740617338508",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kingston 500GB NV3 SSD M.2 2280 PCIe 4.0 NVMe, Read: 5,000/ Write: 3,000MB/s",
