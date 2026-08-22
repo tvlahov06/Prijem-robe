@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T14:01:20.734Z",
-  "azurirano": "2026-08-22T06:31:38.131Z",
+  "azurirano": "2026-08-22T06:31:40.990Z",
   "dokumenti": [
     {
       "naziv": "MSI 5342-101",
@@ -537,7 +537,7 @@
           "naziv": "Kingston 500GB NV3 SSD M.2 2280 PCIe 4.0 NVMe, Read: 5,000/ Write: 3,000MB/s",
           "barkod": "0740617344806",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis ACER AMR130, Crna",
