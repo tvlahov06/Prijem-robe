@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T14:01:20.734Z",
-  "azurirano": "2026-08-22T06:40:23.319Z",
+  "azurirano": "2026-08-22T06:40:31.727Z",
   "dokumenti": [
     {
       "naziv": "MSI 5342-101",
@@ -317,7 +317,7 @@
           "naziv": "Printer HP LaserJet M207dw, 8J9K9F",
           "barkod": "0197961893083",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CANON Pixma MG2551S Color Inkjet MF pisac - Print, Copy, Scan, A4",
