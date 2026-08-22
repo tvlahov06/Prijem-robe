@@ -5,7 +5,7 @@
   "datum": "2026-08-22",
   "status": "aktivan",
   "kreirano": "2026-08-22T07:15:56.010Z",
-  "azurirano": "2026-08-22T11:04:47.277Z",
+  "azurirano": "2026-08-22T11:04:56.816Z",
   "dokumenti": [
     {
       "naziv": "MSI 5347-101",
@@ -467,7 +467,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
           "barkod": "740617326260",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "USB stick Samsung 64GB BAR Plus crni MUF-64BE4/APC",
@@ -515,7 +515,7 @@
           "naziv": "MicroSD memorijska kartica Samsung 128GB PRO U Endurance + MicroSD adapter MB-MJ128KA/EU",
           "barkod": "8806092767256",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Externi SSD Kingston XS1000 1TB",
@@ -587,7 +587,7 @@
           "naziv": "KINGSTON Canvas Select Plus SD kartica, 128GB, R150MB",
           "barkod": "740617348286",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TORBA SBOX NSE-2022 HONG KONG 15,6\"",
