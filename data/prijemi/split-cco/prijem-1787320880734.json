@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T14:01:20.734Z",
-  "azurirano": "2026-08-22T06:06:13.461Z",
+  "azurirano": "2026-08-22T06:06:35.771Z",
   "dokumenti": [
     {
       "naziv": "MSI 5342-101",
@@ -817,7 +817,7 @@
           "naziv": "Usisavac Rowenta RO3721EA",
           "barkod": "3221616129719",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Gorenje VCE01G4AEBK",
