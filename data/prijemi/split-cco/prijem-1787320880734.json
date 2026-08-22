@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T14:01:20.734Z",
-  "azurirano": "2026-08-22T06:28:10.409Z",
+  "azurirano": "2026-08-22T06:28:55.047Z",
   "dokumenti": [
     {
       "naziv": "MSI 5342-101",
@@ -507,13 +507,13 @@
           "naziv": "USB stick Samsung 128GB Type-C plavi MUF-128DA/APC.",
           "barkod": "8806092535893",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick Samsung 64GB Type-C plavi MUF-64DA/APC",
           "barkod": "8806092535886",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
