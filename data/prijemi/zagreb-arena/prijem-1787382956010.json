@@ -5,7 +5,7 @@
   "datum": "2026-08-22",
   "status": "aktivan",
   "kreirano": "2026-08-22T07:15:56.010Z",
-  "azurirano": "2026-08-22T11:04:31.091Z",
+  "azurirano": "2026-08-22T11:04:35.060Z",
   "dokumenti": [
     {
       "naziv": "MSI 5347-101",
@@ -467,7 +467,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
           "barkod": "740617326260",
           "ocekivano": 5,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "USB stick Samsung 64GB BAR Plus crni MUF-64BE4/APC",
@@ -491,7 +491,7 @@
           "naziv": "USB stick Samsung 128GB Type-C plavi MUF-128DA/APC.",
           "barkod": "8806092535893",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "USB stick Samsung 64GB Type-C plavi MUF-64DA/APC",
