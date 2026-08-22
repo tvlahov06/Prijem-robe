@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T14:01:20.734Z",
-  "azurirano": "2026-08-22T06:17:16.893Z",
+  "azurirano": "2026-08-22T06:17:23.327Z",
   "dokumenti": [
     {
       "naziv": "MSI 5342-101",
@@ -853,7 +853,7 @@
           "naziv": "Aparat za izradu tjestenine Philips HR2665/96",
           "barkod": "8720389014833",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8300/80",
@@ -925,7 +925,7 @@
           "naziv": "Osvjezivac odjece Philips STH7020/20",
           "barkod": "8720389007446",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XD6142/12",
