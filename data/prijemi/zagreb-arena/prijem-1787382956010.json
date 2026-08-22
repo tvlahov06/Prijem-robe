@@ -5,7 +5,7 @@
   "datum": "2026-08-22",
   "status": "aktivan",
   "kreirano": "2026-08-22T07:15:56.010Z",
-  "azurirano": "2026-08-22T09:29:03.706Z",
+  "azurirano": "2026-08-22T09:29:33.045Z",
   "dokumenti": [
     {
       "naziv": "MSI 5347-101",
@@ -856,7 +856,7 @@
           "naziv": "Usisavac Philips XC3133/01",
           "barkod": "8720389029868",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sokovnik Philips HR1888/70",
