@@ -5,7 +5,7 @@
   "datum": "2026-08-22",
   "status": "aktivan",
   "kreirano": "2026-08-22T07:15:56.010Z",
-  "azurirano": "2026-08-22T07:58:13.341Z",
+  "azurirano": "2026-08-22T07:58:40.188Z",
   "dokumenti": [
     {
       "naziv": "MSI 5347-101",
@@ -235,7 +235,7 @@
           "naziv": "Printer HP LaserJet M207dw, 8J9K9F",
           "barkod": "0197961893083",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP OfficeJet Pro 8122e All-in-One (405U3B) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Duplex, Wi-Fi, LAN, USB,",
