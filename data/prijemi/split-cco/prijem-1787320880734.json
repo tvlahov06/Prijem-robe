@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T14:01:20.734Z",
-  "azurirano": "2026-08-22T06:29:09.326Z",
+  "azurirano": "2026-08-22T06:29:14.467Z",
   "dokumenti": [
     {
       "naziv": "MSI 5342-101",
@@ -495,7 +495,7 @@
           "naziv": "USB stick Samsung 64GB BAR Plus zlatni MUF-64BE3/APC",
           "barkod": "8801643229382",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "USB stick Samsung 128GB BAR Plus crni MUF-128BE4/APC PC",
@@ -507,7 +507,7 @@
           "naziv": "USB stick Samsung 128GB Type-C plavi MUF-128DA/APC.",
           "barkod": "8806092535893",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "USB stick Samsung 64GB Type-C plavi MUF-64DA/APC",
