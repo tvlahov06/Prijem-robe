@@ -5,7 +5,7 @@
   "datum": "2026-08-22",
   "status": "aktivan",
   "kreirano": "2026-08-22T07:15:56.010Z",
-  "azurirano": "2026-08-22T11:04:08.782Z",
+  "azurirano": "2026-08-22T11:04:10.976Z",
   "dokumenti": [
     {
       "naziv": "MSI 5347-101",
@@ -533,7 +533,7 @@
           "naziv": "Kingston 500GB NV3 SSD M.2 2280 PCIe 4.0 NVMe, Read: 5,000/ Write: 3,000MB/s",
           "barkod": "0740617344806",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link bezicni pojacivac dometa (Universal Range Extender) 300Mbps, (2.4GHz), 802.11b/g/n, 1xRJ45",
