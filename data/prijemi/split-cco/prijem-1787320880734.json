@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T14:01:20.734Z",
-  "azurirano": "2026-08-22T06:09:57.506Z",
+  "azurirano": "2026-08-22T06:10:27.573Z",
   "dokumenti": [
     {
       "naziv": "MSI 5342-101",
@@ -709,7 +709,7 @@
           "naziv": "Parna postaja Philips PSG8300/20",
           "barkod": "8720389066498",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
