@@ -5,7 +5,7 @@
   "datum": "2026-08-21",
   "status": "aktivan",
   "kreirano": "2026-08-21T14:01:20.734Z",
-  "azurirano": "2026-08-22T06:39:28.515Z",
+  "azurirano": "2026-08-22T06:39:38.543Z",
   "dokumenti": [
     {
       "naziv": "MSI 5342-101",
@@ -329,7 +329,7 @@
           "naziv": "Printer HP LaserJet M110w",
           "barkod": "194850676970",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer Canon Pixma G3470 BK",
