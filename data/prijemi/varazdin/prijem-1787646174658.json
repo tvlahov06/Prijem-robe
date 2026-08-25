@@ -5,7 +5,7 @@
   "datum": "2026-08-25",
   "status": "aktivan",
   "kreirano": "2026-08-25T08:22:54.658Z",
-  "azurirano": "2026-08-25T08:24:50.918Z",
+  "azurirano": "2026-08-25T08:35:21.302Z",
   "dokumenti": [
     {
       "naziv": "MSI 5366-101",
@@ -501,7 +501,7 @@
           "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
           "barkod": "8720389032998",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
@@ -531,7 +531,7 @@
           "naziv": "Aparat za kavu Philips EP8757/12 espresso, Cafe Aromis",
           "barkod": "8720389077005",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
