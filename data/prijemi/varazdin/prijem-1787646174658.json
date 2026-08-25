@@ -5,7 +5,7 @@
   "datum": "2026-08-25",
   "status": "aktivan",
   "kreirano": "2026-08-25T08:22:54.658Z",
-  "azurirano": "2026-08-25T08:48:18.626Z",
+  "azurirano": "2026-08-25T08:49:09.199Z",
   "dokumenti": [
     {
       "naziv": "MSI 5366-101",
@@ -329,7 +329,7 @@
           "naziv": "Osvjezivac odjece Philips STH7020/20",
           "barkod": "8720389007446",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC8057/01 Aqua Plus",
