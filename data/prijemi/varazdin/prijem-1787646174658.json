@@ -5,7 +5,7 @@
   "datum": "2026-08-25",
   "status": "aktivan",
   "kreirano": "2026-08-25T08:22:54.658Z",
-  "azurirano": "2026-08-25T08:43:35.327Z",
+  "azurirano": "2026-08-25T08:43:49.699Z",
   "dokumenti": [
     {
       "naziv": "MSI 5366-101",
@@ -341,7 +341,7 @@
           "naziv": "Usisavac Philips XC5141/01",
           "barkod": "8720389035715",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
