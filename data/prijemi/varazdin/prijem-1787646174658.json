@@ -5,7 +5,7 @@
   "datum": "2026-08-25",
   "status": "aktivan",
   "kreirano": "2026-08-25T08:22:54.658Z",
-  "azurirano": "2026-08-25T09:09:43.516Z",
+  "azurirano": "2026-08-25T09:10:26.731Z",
   "dokumenti": [
     {
       "naziv": "MSI 5366-101",
@@ -382,7 +382,7 @@
           "naziv": "USB stick Samsung 64GB BAR Plus crni MUF-64BE4/APC",
           "barkod": "8801643230739",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "MicroSD kartica Samsung 256 GB T7 microSDXC UHS-I W kartica MB-MB128T/WW",
@@ -436,7 +436,7 @@
           "naziv": "Externi SSD Kingston XS1000 1TB",
           "barkod": "740617338515",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Externi SSD Kingston XS1000 2TB",
