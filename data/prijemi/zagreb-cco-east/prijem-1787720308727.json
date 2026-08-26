@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T04:58:28.727Z",
-  "azurirano": "2026-08-26T05:09:42.196Z",
+  "azurirano": "2026-08-26T05:09:45.308Z",
   "dokumenti": [
     {
       "naziv": "MSI 5445-101",
@@ -156,7 +156,7 @@
           "naziv": "Externi SSD Kingston XS1000 1TB",
           "barkod": "740617338515",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV210, 64GB, USB2.0 GD",
