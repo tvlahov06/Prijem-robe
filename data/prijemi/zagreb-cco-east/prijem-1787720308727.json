@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T04:58:28.727Z",
-  "azurirano": "2026-08-26T05:07:28.608Z",
+  "azurirano": "2026-08-26T05:07:31.629Z",
   "dokumenti": [
     {
       "naziv": "MSI 5445-101",
@@ -180,7 +180,7 @@
           "naziv": "Kingston 500GB NV3 SSD M.2 2280 PCIe 4.0 NVMe, Read: 5,000/ Write: 3,000MB/s",
           "barkod": "0740617344806",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "T3U TP-Link Archer T3U Nano, AC1300 WLAN USB adapter Nano",
