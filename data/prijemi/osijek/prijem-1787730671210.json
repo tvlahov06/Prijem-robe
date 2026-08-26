@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T07:51:11.210Z",
-  "azurirano": "2026-08-26T08:06:21.028Z",
+  "azurirano": "2026-08-26T08:06:26.096Z",
   "dokumenti": [
     {
       "naziv": "MSI 5412-101",
@@ -14,7 +14,7 @@
           "naziv": "Friteza na vruci zrak Philips oprema HD9959/00 Airfryer dodatak - set za grillanje XXL",
           "barkod": "8720389025402",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8030/20",
@@ -381,7 +381,7 @@
           "naziv": "Tinta Canon CL-576 color",
           "barkod": "4549292192650",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TP-Link bezicni N USB Nano Adapter TL-WN725N, 150Mbps (2.4GHz), 802.11n/g/b",
