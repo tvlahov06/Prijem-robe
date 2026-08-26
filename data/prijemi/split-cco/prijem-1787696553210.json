@@ -3,93 +3,10 @@
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
   "datum": "2026-08-25",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-08-25T22:22:33.210Z",
-  "azurirano": "2026-08-26T07:19:20.689Z",
+  "azurirano": "2026-08-26T07:20:51.200Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 5453-101",
-      "stavke": [
-        {
-          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA5499, 39.6cm NN0 (15.6\") IPS Full HD, AMD Ryzen 3 30, 8 GB RAM, 256 GB",
-          "barkod": "4711636531276",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming 16 FX610JH-TU027, 40.6cm 4F0 (16\") IPS WUXGA 144Hz, Intel Core i7-14650HX, 16 GB",
-          "barkod": "4711636664967",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming F16 FX607VJR-TU295, 40.6cm M00 (16\") IPS WUXGA 144Hz, Intel Core 5 205H, 16 GB RAM,",
-          "barkod": "4711636648011",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
-          "barkod": "195949689673",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Deep Blue",
-          "barkod": "195950639247",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange",
-          "barkod": "195950639049",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "APPLE DODACI USB-C to Lightning Cable (1m)",
-          "barkod": "195949085611",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Apple Watch Series 11 GPS 46mm Jet Black Aluminium Case with Black Sport Band - M/L",
-          "barkod": "195950631821",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Lavender",
-          "barkod": "195950644135",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Black",
-          "barkod": "195950643534",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
-          "barkod": "195950627596",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Cosmic Orange",
-          "barkod": "195950627398",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Apple AirTag (2. generacije), pakiranje 1 kom",
-          "barkod": "195950667363",
-          "ocekivano": 2,
-          "skenirano": 2
-        }
-      ]
-    },
     {
       "naziv": "MSI 5459-101",
       "stavke": [
@@ -165,5 +82,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-08-26T07:20:51.200Z"
 }
