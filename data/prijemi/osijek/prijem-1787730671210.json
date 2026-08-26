@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T07:51:11.210Z",
-  "azurirano": "2026-08-26T08:05:33.227Z",
+  "azurirano": "2026-08-26T08:05:38.877Z",
   "dokumenti": [
     {
       "naziv": "MSI 5412-101",
@@ -303,13 +303,13 @@
           "naziv": "USB stick Samsung 128GB Type-C plavi MUF-128DA/APC.",
           "barkod": "8806092535893",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick Samsung 64GB Type-C plavi MUF-64DA/APC",
           "barkod": "8806092535886",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
