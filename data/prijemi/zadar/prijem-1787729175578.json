@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T07:26:15.578Z",
-  "azurirano": "2026-08-26T08:08:55.024Z",
+  "azurirano": "2026-08-26T08:09:02.949Z",
   "dokumenti": [
     {
       "naziv": "MSI 5376-101",
@@ -697,7 +697,7 @@
           "naziv": "Perilica rublja GORENJE WG694A11",
           "barkod": "3838783084330",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja ELECTROLUX EW6F9452E",
@@ -709,7 +709,7 @@
           "naziv": "Susilica rublja Gorenje DNS12",
           "barkod": "3838782721700",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Beko B1WFM2821WBEE",
@@ -721,7 +721,7 @@
           "naziv": "Pecnica ugradbena Gorenje BOS6737E06B",
           "barkod": "3838782505652",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena Gorenje BOS67371CLI",
