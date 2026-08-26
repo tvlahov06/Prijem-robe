@@ -4,8 +4,8 @@
   "naziv": "Roba u dolasku",
   "datum": "2026-08-26",
   "status": "aktivan",
-  "kreirano": "2026-08-26T09:38:06.181Z",
-  "azurirano": "2026-08-26T09:38:06.181Z",
+  "kreirano": "2026-08-26T21:23:54.840Z",
+  "azurirano": "2026-08-26T21:23:54.840Z",
   "dokumenti": [
     {
       "naziv": "MSI 5459-101",
@@ -124,6 +124,17 @@
         {
           "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
           "barkod": "8806097638551",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5490-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB Black",
+          "barkod": "195950643534",
           "ocekivano": 2,
           "skenirano": 0
         }
