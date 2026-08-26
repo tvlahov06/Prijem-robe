@@ -2,10 +2,10 @@
   "id": "prijem-1787696553210",
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
-  "datum": "2026-08-25",
+  "datum": "2026-08-26",
   "status": "aktivan",
-  "kreirano": "2026-08-25T22:22:33.210Z",
-  "azurirano": "2026-08-26T07:20:58.751Z",
+  "kreirano": "2026-08-26T09:38:06.181Z",
+  "azurirano": "2026-08-26T09:38:06.181Z",
   "dokumenti": [
     {
       "naziv": "MSI 5459-101",
@@ -78,6 +78,53 @@
           "naziv": "Volan LOGITECH G G29 + mjenjac",
           "barkod": "5099206132467",
           "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5481-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/128GB blueberry plava",
+          "barkod": "8806099395278",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/128GB grafitno crna",
+          "barkod": "8806099395391",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/128GB pistachio zelena",
+          "barkod": "8806099395100",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/256GB blueberry plava",
+          "barkod": "8806099395247",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/256GB grafitno crna",
+          "barkod": "8806099395360",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/256GB pistachio zelena",
+          "barkod": "8806099395483",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
+          "barkod": "8806097638551",
+          "ocekivano": 2,
           "skenirano": 0
         }
       ]
