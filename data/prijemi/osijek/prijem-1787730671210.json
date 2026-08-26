@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T07:51:11.210Z",
-  "azurirano": "2026-08-26T08:21:21.470Z",
+  "azurirano": "2026-08-26T08:25:49.088Z",
   "dokumenti": [
     {
       "naziv": "MSI 5412-101",
@@ -584,7 +584,7 @@
           "naziv": "Parna postaja Philips PSG8300/80",
           "barkod": "8720389066504",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
