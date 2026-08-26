@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T07:51:11.210Z",
-  "azurirano": "2026-08-26T08:05:38.877Z",
+  "azurirano": "2026-08-26T08:05:42.475Z",
   "dokumenti": [
     {
       "naziv": "MSI 5412-101",
@@ -279,7 +279,7 @@
           "naziv": "MicroSD kartica Samsung 128 GB T7 microSDXC UHS-I W kartica MB-MB128T/WW",
           "barkod": "8806097635048",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick Samsung 64GB BAR Plus zlatni MUF-64BE3/APC",
@@ -303,7 +303,7 @@
           "naziv": "USB stick Samsung 128GB Type-C plavi MUF-128DA/APC.",
           "barkod": "8806092535893",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB stick Samsung 64GB Type-C plavi MUF-64DA/APC",
