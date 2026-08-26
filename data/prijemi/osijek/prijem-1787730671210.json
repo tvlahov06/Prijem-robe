@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T07:51:11.210Z",
-  "azurirano": "2026-08-26T08:59:20.232Z",
+  "azurirano": "2026-08-26T09:00:34.776Z",
   "dokumenti": [
     {
       "naziv": "MSI 5412-101",
@@ -150,83 +150,6 @@
           "barkod": "6942351409078",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5451-101",
-      "stavke": [
-        {
-          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA5499, 39.6cm NN0 (15.6\") IPS Full HD, AMD Ryzen 3 30, 8 GB RAM, 256 GB",
-          "barkod": "4711636531276",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming 16 FX610JH-TU027, 40.6cm 4F0 (16\") IPS WUXGA 144Hz, Intel Core i7-14650HX, 16 GB",
-          "barkod": "4711636664967",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming F16 FX607VJR-TU295, 40.6cm M00 (16\") IPS WUXGA 144Hz, Intel Core 5 205H, 16 GB RAM,",
-          "barkod": "4711636648011",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
-          "barkod": "195949689673",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange",
-          "barkod": "195950639049",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Lavender",
-          "barkod": "195950644135",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Black",
-          "barkod": "195950643534",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
-          "barkod": "195950627596",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "APPLE DODACI 30W USB-C Power Adapter",
-          "barkod": "195949376511",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Cosmic Orange",
-          "barkod": "195950627398",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Apple Pencil (USB-C)",
-          "barkod": "195949133695",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Blush, mhfh4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
-          "barkod": "195950853513",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     },
