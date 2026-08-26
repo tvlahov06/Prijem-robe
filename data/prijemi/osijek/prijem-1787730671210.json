@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T07:51:11.210Z",
-  "azurirano": "2026-08-26T08:06:26.096Z",
+  "azurirano": "2026-08-26T08:06:32.679Z",
   "dokumenti": [
     {
       "naziv": "MSI 5412-101",
@@ -327,7 +327,7 @@
           "naziv": "Externi SSD Kingston XS1000 1TB",
           "barkod": "740617338515",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV210, 64GB, USB2.0 GD",
@@ -339,7 +339,7 @@
           "naziv": "Externi SSD Kingston XS1000 2TB",
           "barkod": "740617338508",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kingston 500GB NV3 SSD M.2 2280 PCIe 4.0 NVMe, Read: 5,000/ Write: 3,000MB/s",
