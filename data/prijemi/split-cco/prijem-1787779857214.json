@@ -1,0 +1,472 @@
+{
+  "id": "prijem-1787779857214",
+  "poslovnica": "split-cco",
+  "naziv": "Komisija u dolasku",
+  "datum": "2026-08-26",
+  "status": "aktivan",
+  "kreirano": "2026-08-26T21:30:57.214Z",
+  "azurirano": "2026-08-26T21:30:57.214Z",
+  "dokumenti": [
+    {
+      "naziv": "BigPartner - JBL 2",
+      "stavke": [
+        {
+          "naziv": "Slusalice bezicne JBL TUNE 680NC crne",
+          "barkod": "1200130030444",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth bezicne JBL TUNE 680NC bijele",
+          "barkod": "1200130030451",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 530BT bijele",
+          "barkod": "1200130029974",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
+          "barkod": "1200130029967",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 730BT crne",
+          "barkod": "1200130029837",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice JBL TUNE 530C USB-C bez",
+          "barkod": "1200130030086",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice JBL TUNE 530C USB-C plave",
+          "barkod": "1200130030079",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "BigPartner - JBL",
+      "stavke": [
+        {
+          "naziv": "Slusalice bezicne JBL VIBE FLEX 2 crna",
+          "barkod": "1200130015212",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne JBL VIBE FLEX 2 True Wireless bijele",
+          "barkod": "1200130015229",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL LIVE 670 NC plave",
+          "barkod": "1200130004759",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth potpuno bezicne JBL Vibe BUDS 2 crne",
+          "barkod": "1200130015694",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice JBL TUNE 110E crne",
+          "barkod": "1200130022722",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice zicane JBL TUNE 500 bijele",
+          "barkod": "6925281939938",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL BOOMBOX 4 crni",
+          "barkod": "1200130024221",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 ljubicasti",
+          "barkod": "1200130019593",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CLIP 5 bijeli",
+          "barkod": "1200130010217",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GO 4 crveni",
+          "barkod": "1200130009440",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GRIP crni",
+          "barkod": "1200130024849",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GRIP maskirni",
+          "barkod": "1200130024894",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GRIP rozi",
+          "barkod": "1200130025761",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL XTREME 4 EUNA crni",
+          "barkod": "1200130025709",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Comtrade - GoPro",
+      "stavke": [
+        {
+          "naziv": "Akcijska kamera GoPro Max 2",
+          "barkod": "810116384174",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Akcijska kamera GoPro Mission 1 Pro",
+          "barkod": "810116385157",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Mini 5 Pro Fly More Combo (DJI RC2)",
+          "barkod": "6937224123212",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gimbal DJI Osmo Mobile 8P Standard Combo",
+          "barkod": "6937224142947",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GoPro pribor Suction Cup Mount - Vakumsko postolje",
+          "barkod": "818279010695",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Garmin",
+      "stavke": [
+        {
+          "naziv": "Pametni sat Garmin Fenix 9 47 mm AMOLED Titanium Pebble Gray",
+          "barkod": "753759381011",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Garmin Fenix 9 PRO 47 mm AMOLED Titanium Graphite/Black",
+          "barkod": "753759380199",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Logista 1",
+      "stavke": [
+        {
+          "naziv": "CELLULARLINE KABEL SPIRAL USB-C",
+          "barkod": "8018080493782",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE-C 200CM",
+          "barkod": "8018080295737",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
+          "barkod": "8018080295751",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KP ADAPTER USB-C 45W",
+          "barkod": "8018080438264",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC APPLE USB-C 30W",
+          "barkod": "8018080433559",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 15W BLACK",
+          "barkod": "8018080434730",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 25W",
+          "barkod": "8018080367182",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
+          "barkod": "8018080270420",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 1m",
+          "barkod": "766623394956",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel PLOOS, USB-A na Lightning, MFI, 100cm, Bijeli",
+          "barkod": "8018080367854",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel PLOOS, USB-C na Lightning, MFI, 100cm, Bijeli",
+          "barkod": "8018080367762",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac PLOOS, 2A, 1xUSB-A, Kabel USB-C 100cm, Crni",
+          "barkod": "8018080367663",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, book essential",
+          "barkod": "8018080511042",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, silikonska",
+          "barkod": "8018080510496",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, tvrda, prozirna",
+          "barkod": "8018080510243",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maskica Cellularline Samsung Galaxy S26+, sensation, crna",
+          "barkod": "8018080510151",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis bezicni Trust Helox GXT929 crni",
+          "barkod": "8713439253078",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice CELLULARLINE, AUDIO MUSIC SOUND, Bluetooth, In-Ear, TWS, Swag, Black",
+          "barkod": "8018080454776",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice CELLULARLINE, Audio Music Sound, Capsule Rainbow, In-Ear, 3,5 mm",
+          "barkod": "8018080419034",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, FAN FLUID, Bluetooth, Naglavne",
+          "barkod": "8018080486661",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Swag, Bluetooth, In-Ear, TWS, Green",
+          "barkod": "8018080454820",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Trust GXT488 Forze za PS4/PS5 crne",
+          "barkod": "8713439235302",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST GM SLUSALICE,ZIROX,BLACK,GXT415",
+          "barkod": "8713439249903",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC ADAPTER MINI USB-A/4x USB-A,HALYX",
+          "barkod": "8713439237863",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC ADAPTER USB-C 3U1 DALYX",
+          "barkod": "8713439237726",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC MIS WLESS PRIMO WHITE",
+          "barkod": "8713439247954",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PRIJENOSNA BATERIJA PRIMO 20000 Black",
+          "barkod": "8713439246766",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST SLUSALICE ZA PS5, FORTA, BIJELE GXT498W",
+          "barkod": "8713439247169",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST SLUSALICE ZA PS5, FORTA, CRNE GXT498",
+          "barkod": "8713439247152",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitno staklo Cellularline Samsung Galaxy S26 Ultra",
+          "barkod": "8018080511592",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Logista 2",
+      "stavke": [
+        {
+          "naziv": "Bezicni ruter MERCUSYS MB130-4G N150 4G LTE SIM",
+          "barkod": "6957939001971",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicni ruter MERCUSYS MR90X AX6000 8-Stream Multi-Gigabit",
+          "barkod": "6957939000875",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicni USB adapter Mercusys MW300UH, 300Mbps (2.4GHz), 802.11n/g/b, 2×2 MIMO, 2×5dBi antena",
+          "barkod": "6935364099602",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mercusys Bluetooth 5.3 Nano USB Adapter",
+          "barkod": "6957939002176",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mercusys MW300RE Wi-Fi extender 300Mbps (2.4 GHz)",
+          "barkod": "6957939000462",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Router MERCUSYS MT110 4G LTE",
+          "barkod": "6957939001254",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruter Mercusys AC1200 Wi-Fi 4G+LTE 300Mbps 4G LTE",
+          "barkod": "6957939001827",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MMM Agram - Honor",
+      "stavke": [
+        {
+          "naziv": "Mobitel HONOR 600 5G DS 8GB/256GB crni",
+          "barkod": "6936520895168",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel HONOR X5c Plus 4GB/128GB Midnight Black",
+          "barkod": "6936520876136",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Motorola edge 60 Pro 8GB/256GB Pantone Shadow Green",
+          "barkod": "840493609355",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Motorola G06 4GB/256GB plavi",
+          "barkod": "840493605265",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Motorola edge 70 fusion Fifa edition 8/256 PANTONE Silhouette (black)",
+          "barkod": "0840493622002",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Honor Choice Watch 2i crni",
+          "barkod": "6977887510127",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
