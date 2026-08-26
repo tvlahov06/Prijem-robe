@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T07:51:11.210Z",
-  "azurirano": "2026-08-26T08:05:26.206Z",
+  "azurirano": "2026-08-26T08:05:33.227Z",
   "dokumenti": [
     {
       "naziv": "MSI 5412-101",
@@ -285,7 +285,7 @@
           "naziv": "USB stick Samsung 64GB BAR Plus zlatni MUF-64BE3/APC",
           "barkod": "8801643229382",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "USB stick Samsung 128GB BAR Plus crni MUF-128BE4/APC PC",
@@ -351,7 +351,7 @@
           "naziv": "USB STICK KINGSTON FD Exodia 128GB USB 3.2",
           "barkod": "740617309928",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TP-Link RE190, pojacivac signala AC750",
