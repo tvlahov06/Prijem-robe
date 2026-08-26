@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T04:58:28.727Z",
-  "azurirano": "2026-08-26T05:07:06.572Z",
+  "azurirano": "2026-08-26T05:07:12.323Z",
   "dokumenti": [
     {
       "naziv": "MSI 5445-101",
@@ -150,7 +150,7 @@
           "naziv": "USB stick Samsung 64GB Type-C plavi MUF-64DA/APC",
           "barkod": "8806092535886",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Externi SSD Kingston XS1000 1TB",
