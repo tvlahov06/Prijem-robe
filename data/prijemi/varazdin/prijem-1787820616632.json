@@ -5,7 +5,7 @@
   "datum": "2026-08-27",
   "status": "aktivan",
   "kreirano": "2026-08-27T08:50:16.632Z",
-  "azurirano": "2026-08-27T09:01:38.349Z",
+  "azurirano": "2026-08-27T09:02:31.438Z",
   "dokumenti": [
     {
       "naziv": "MSI 5449-101",
@@ -132,17 +132,6 @@
           "barkod": "8806097638551",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5494-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Black",
-          "barkod": "195950643534",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     },
