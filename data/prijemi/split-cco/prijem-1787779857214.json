@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T21:30:57.214Z",
-  "azurirano": "2026-08-26T21:30:57.214Z",
+  "azurirano": "2026-08-27T06:37:08.064Z",
   "dokumenti": [
     {
       "naziv": "BigPartner - JBL 2",
@@ -434,25 +434,25 @@
           "naziv": "Mobitel HONOR 600 5G DS 8GB/256GB crni",
           "barkod": "6936520895168",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel HONOR X5c Plus 4GB/128GB Midnight Black",
           "barkod": "6936520876136",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Motorola edge 60 Pro 8GB/256GB Pantone Shadow Green",
           "barkod": "840493609355",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Motorola G06 4GB/256GB plavi",
           "barkod": "840493605265",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Motorola edge 70 fusion Fifa edition 8/256 PANTONE Silhouette (black)",
@@ -464,7 +464,7 @@
           "naziv": "Pametni sat Honor Choice Watch 2i crni",
           "barkod": "6977887510127",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
