@@ -5,7 +5,7 @@
   "datum": "2026-08-27",
   "status": "aktivan",
   "kreirano": "2026-08-27T08:50:16.632Z",
-  "azurirano": "2026-08-27T09:01:18.013Z",
+  "azurirano": "2026-08-27T09:01:22.789Z",
   "dokumenti": [
     {
       "naziv": "MSI 5449-101",
@@ -72,7 +72,7 @@
           "naziv": "Pecnica ugradbena Gorenje BPS6747A06BG",
           "barkod": "3838782477942",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena Bosch HBA571BB4",
