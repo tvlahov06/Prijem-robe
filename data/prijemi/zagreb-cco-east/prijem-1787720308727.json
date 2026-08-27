@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T04:58:28.727Z",
-  "azurirano": "2026-08-27T17:24:56.290Z",
+  "azurirano": "2026-08-27T17:25:01.652Z",
   "dokumenti": [
     {
       "naziv": "MSI 5438-101",
@@ -251,29 +251,6 @@
           "barkod": "1200130019272",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5463-101",
-      "stavke": [
-        {
-          "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5021F0",
-          "barkod": "3121040095003",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Friteza na vruci zrak Tefal EY7568E0 Easy Fry Crispy Stack",
-          "barkod": "3045380407350",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Tablete za ciscenje kamenca Krups XS300010",
-          "barkod": "3016661181542",
-          "ocekivano": 5,
-          "skenirano": 0
         }
       ]
     }
