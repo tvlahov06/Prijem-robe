@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T21:23:54.840Z",
-  "azurirano": "2026-08-27T06:04:33.924Z",
+  "azurirano": "2026-08-27T06:04:36.680Z",
   "dokumenti": [
     {
       "naziv": "MSI 5459-101",
@@ -21,41 +21,6 @@
           "barkod": "1200130028137",
           "ocekivano": 3,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5473-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac Rowenta RH1833E0 X-Force 8.80",
-          "barkod": "3221616176485",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Friteza na vruci zrak Tefal EY7568E0 Easy Fry Crispy Stack",
-          "barkod": "3045380407350",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Tablete za ciscenje kamenca Krups XS300010",
-          "barkod": "3016661181542",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "TV PHILIPS 50PUS8560, 127.0cm (50\"), QLED, UHD 4K Smart TV, Titan OS - Ambilight",
-          "barkod": "8718863045831",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Volan LOGITECH G G29 + mjenjac",
-          "barkod": "5099206132467",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
