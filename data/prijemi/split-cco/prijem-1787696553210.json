@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T21:23:54.840Z",
-  "azurirano": "2026-08-27T05:49:08.963Z",
+  "azurirano": "2026-08-27T06:04:33.924Z",
   "dokumenti": [
     {
       "naziv": "MSI 5459-101",
@@ -21,29 +21,6 @@
           "barkod": "1200130028137",
           "ocekivano": 3,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5470-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Google Pixel 11 512GB Obsidian",
-          "barkod": "840353955981",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Google Pixel 11 512GB Pistachio",
-          "barkod": "840353956414",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Google Pixel 11 Pro 512GB Obsidian",
-          "barkod": "840353956629",
-          "ocekivano": 5,
-          "skenirano": 5
         }
       ]
     },
