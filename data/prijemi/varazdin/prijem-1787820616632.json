@@ -5,7 +5,7 @@
   "datum": "2026-08-27",
   "status": "aktivan",
   "kreirano": "2026-08-27T08:50:16.632Z",
-  "azurirano": "2026-08-27T08:56:38.079Z",
+  "azurirano": "2026-08-27T08:57:43.668Z",
   "dokumenti": [
     {
       "naziv": "MSI 5449-101",
@@ -78,13 +78,13 @@
           "naziv": "Pecnica ugradbena Bosch HBA571BB4",
           "barkod": "4242005543762",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica posuda ugradbena 60 cm Gorenje GV642E90",
           "barkod": "3838782723155",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
