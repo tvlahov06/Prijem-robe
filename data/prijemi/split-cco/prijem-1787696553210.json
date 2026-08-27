@@ -2,10 +2,10 @@
   "id": "prijem-1787696553210",
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
-  "datum": "2026-08-26",
+  "datum": "2026-08-27",
   "status": "aktivan",
-  "kreirano": "2026-08-26T21:23:54.840Z",
-  "azurirano": "2026-08-27T06:04:39.393Z",
+  "kreirano": "2026-08-27T11:22:02.882Z",
+  "azurirano": "2026-08-27T11:22:02.882Z",
   "dokumenti": [
     {
       "naziv": "MSI 5459-101",
@@ -31,6 +31,238 @@
           "naziv": "Mobitel Apple iPhone 17 256GB Black",
           "barkod": "195950643534",
           "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5500-101",
+      "stavke": [
+        {
+          "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC compatible) crveni",
+          "barkod": "3499550360714",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ratchet and Clank PS4 HITS C38",
+          "barkod": "711719415374",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS4 Nacon Compact Light Wired Controller ED prozirno-crveni",
+          "barkod": "3499550360837",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "God of War 3 HITS PS4 F12",
+          "barkod": "711719992998",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lego Incredibles Standard Edition PS4 B24",
+          "barkod": "5051892215282",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Animal Crossing New Horizons Switch WHORSW",
+          "barkod": "045496425449",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tony Hawk's Pro Skater 1 + 2 PS4 C14",
+          "barkod": "5030917291166",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 DualSense Charging Station",
+          "barkod": "711719374107",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Marvel's Spider-Man: Miles Morales PS5 D31",
+          "barkod": "711719836025",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Marvel's Spider-Man: Miles Morales PS4 D37",
+          "barkod": "711719818823",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS5 Thumb Grips (6 kom. silikonskih thumb gripova za PS5 Dualsense kontroler)",
+          "barkod": "3665962006438",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben charging station za 2 x PS5 Dualsense kontrolere GERV2 USB A - USB c kabel",
+          "barkod": "3665962006414",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Minecraft Starter Collection Refresh PS4 F33",
+          "barkod": "711719704096",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Assassins Creed Mirage PS4 C39",
+          "barkod": "3307216257707",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Need for Speed Unbound PS5 E30",
+          "barkod": "5030938123866",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Edge Wireless Stick Module",
+          "barkod": "711719444497",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prince Of Persia The Lost Crown PS4 B38",
+          "barkod": "3307216265399",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation Portal remote player",
+          "barkod": "711719582267",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Vertical Stand",
+          "barkod": "711719579540",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Disc Drive (Slim D chassis)",
+          "barkod": "711719580584",
+          "ocekivano": 12,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben zastitna silikonska navlaka Cammo za Dualsense kontroler PS5",
+          "barkod": "3665962006445",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WRC Generations PS5 G15",
+          "barkod": "3665962018301",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Elite wireless headset Midnight Black",
+          "barkod": "711719590101",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WWE 2K25 PS5",
+          "barkod": "5026555438667",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mario Kart World Switch 2",
+          "barkod": "0045496312329",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Call of Duty: Black Ops 7 PS5",
+          "barkod": "196388607761",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Elite wireless headset+",
+          "barkod": "711719598275",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim E chassis",
+          "barkod": "711719020172",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Super Mario Galaxy 1 + 2 Switch",
+          "barkod": "045496513085",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Astrobot svjetiljka - Astrobot Icons",
+          "barkod": "5056577751697",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paldaone Astrobot kasica prasica",
+          "barkod": "5056577754568",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Midnight Black za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022381",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Rhythm Blue",
+          "barkod": "711719020943",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller White za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022350",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Midnight Black + USB-C kabel za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719025979",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Super Mario Bros Wonder NS2 Edition UP",
+          "barkod": "0045496313913",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5503-101",
+      "stavke": [
+        {
+          "naziv": "Usisavac robot Roborock Qrevo C Pro crna",
+          "barkod": "6936905903785",
+          "ocekivano": 1,
           "skenirano": 0
         }
       ]
