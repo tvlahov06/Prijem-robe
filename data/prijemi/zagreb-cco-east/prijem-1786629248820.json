@@ -5,7 +5,7 @@
   "datum": "2026-08-13",
   "status": "aktivan",
   "kreirano": "2026-08-13T13:54:08.820Z",
-  "azurirano": "2026-08-27T17:25:25.803Z",
+  "azurirano": "2026-08-27T17:25:31.375Z",
   "dokumenti": [
     {
       "naziv": "MSI 5198-101",
@@ -306,17 +306,6 @@
           "barkod": "8606112020497",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 16-126",
-      "stavke": [
-        {
-          "naziv": "Mobitel Samsung Galaxy S26+ 5G 12/256GB bijeli",
-          "barkod": "8806097828150",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     }
