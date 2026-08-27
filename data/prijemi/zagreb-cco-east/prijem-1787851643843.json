@@ -1,0 +1,254 @@
+{
+  "id": "prijem-1787851643843",
+  "poslovnica": "zagreb-cco-east",
+  "naziv": "",
+  "datum": "2026-08-27",
+  "status": "aktivan",
+  "kreirano": "2026-08-27T17:27:23.843Z",
+  "azurirano": "2026-08-27T17:27:23.843Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 5445-101",
+      "stavke": [
+        {
+          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA5499, 39.6cm NN0 (15.6\") IPS Full HD, AMD Ryzen 3 30, 8 GB RAM, 256 GB",
+          "barkod": "4711636531276",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming 16 FX610JH-TU027, 40.6cm 4F0 (16\") IPS WUXGA 144Hz, Intel Core i7-14650HX, 16 GB",
+          "barkod": "4711636664967",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming F16 FX607VJR-TU295, 40.6cm M00 (16\") IPS WUXGA 144Hz, Intel Core 5 205H, 16 GB RAM,",
+          "barkod": "4711636648011",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple EarPods (USB-C)",
+          "barkod": "195949776274",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Deep Blue",
+          "barkod": "195950639247",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "barkod": "195950639049",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple EarPods (Lightning Connector)",
+          "barkod": "195949506123",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "APPLE DODACI USB-C to Lightning Cable (1m)",
+          "barkod": "195949085611",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB Lavender",
+          "barkod": "195950644135",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Neo Indigo, mhff4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
+          "barkod": "195950852578",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB Black",
+          "barkod": "195950643534",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple 60W USB-C Charge Cable (1m)",
+          "barkod": "195949371905",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5463-101",
+      "stavke": [
+        {
+          "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5021F0",
+          "barkod": "3121040095003",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Tefal EY7568E0 Easy Fry Crispy Stack",
+          "barkod": "3045380407350",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablete za ciscenje kamenca Krups XS300010",
+          "barkod": "3016661181542",
+          "ocekivano": 5,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5496-101",
+      "stavke": [
+        {
+          "naziv": "Nintendo Switch Joy-Con Wheel Pair EY2",
+          "barkod": "045496430634",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mario Kart 8 Deluxe Switch EY4",
+          "barkod": "045496420277",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Legend of Zelda: Breath of the Wild Switch EC7",
+          "barkod": "045496420055",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uncharted Collection HITS PS4 B37",
+          "barkod": "711719710516",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Star Wars: Jedi Fallen Order PS4 F39",
+          "barkod": "5030937122440",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 DualSense Charging Station",
+          "barkod": "711719374107",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Minecraft Starter Collection Refresh PS4 F33",
+          "barkod": "711719704096",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "The Legend of Zelda: Tears of the Kingdom Switch E13",
+          "barkod": "045496478728",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Edge Wireless Stick Module",
+          "barkod": "711719444497",
+          "ocekivano": 12,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Pulse Elite wireless headset Midnight Black",
+          "barkod": "711719590101",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation Portal remote player Midnight Black",
+          "barkod": "711719593171",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 DualSense Edge Wireless Controller Midnight Black",
+          "barkod": "711719593263",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch 2 Pro-Controller",
+          "barkod": "0045496321475",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim E chassis",
+          "barkod": "711719020172",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Astrobot metalna boca za vodu",
+          "barkod": "5056577756821",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Astrobot Icon sat sa alarmom",
+          "barkod": "5056577751482",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Astrobot svjetiljka - Astrobot Icons",
+          "barkod": "5056577751697",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paldaone Astrobot kasica prasica",
+          "barkod": "5056577754568",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Resident Evil 9 Requiem PS5",
+          "barkod": "5055060993552",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Midnight Black za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022381",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Grey Camo za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023708",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller White za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022350",
+          "ocekivano": 40,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Midnight Black + USB-C kabel za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719025979",
+          "ocekivano": 6,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
