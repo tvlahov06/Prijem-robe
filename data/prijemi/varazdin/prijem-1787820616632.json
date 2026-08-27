@@ -1,0 +1,214 @@
+{
+  "id": "prijem-1787820616632",
+  "poslovnica": "varazdin",
+  "naziv": "ROBA 27.08.2026",
+  "datum": "2026-08-27",
+  "status": "aktivan",
+  "kreirano": "2026-08-27T08:50:16.632Z",
+  "azurirano": "2026-08-27T08:50:16.632Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 5449-101",
+      "stavke": [
+        {
+          "naziv": "Punjac Samsung T4511 45W Fast Charge USB-C crni bez kabla",
+          "barkod": "8806097039709",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch Ultra2 srebrni",
+          "barkod": "8806099333867",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5450-101",
+      "stavke": [
+        {
+          "naziv": "Slusalice JBL TUNE 110E bijele",
+          "barkod": "1200130022739",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 crni",
+          "barkod": "1200130019272",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5464-101",
+      "stavke": [
+        {
+          "naziv": "Hladnjak kombinirani Gorenje NRK6182PS4",
+          "barkod": "3838782421556",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani Hisense RB390N4GBE",
+          "barkod": "6921727055958",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani Samsung RB34C600ES9/EK EK",
+          "barkod": "8806095545684",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Hisense WF5S1045BW",
+          "barkod": "6901101825575",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pecnica ugradbena Gorenje BPS6747A06BG",
+          "barkod": "3838782477942",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pecnica ugradbena Bosch HBA571BB4",
+          "barkod": "4242005543762",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda ugradbena 60 cm Gorenje GV642E90",
+          "barkod": "3838782723155",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5485-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/128GB blueberry plava",
+          "barkod": "8806099395278",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/128GB grafitno crna",
+          "barkod": "8806099395391",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/128GB pistachio zelena",
+          "barkod": "8806099395100",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/256GB blueberry plava",
+          "barkod": "8806099395247",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/256GB grafitno crna",
+          "barkod": "8806099395360",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/256GB pistachio zelena",
+          "barkod": "8806099395483",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
+          "barkod": "8806097638551",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5494-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB Black",
+          "barkod": "195950643534",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5447-101",
+      "stavke": [
+        {
+          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA5499, 39.6cm NN0 (15.6\") IPS Full HD, AMD Ryzen 3 30, 8 GB RAM, 256 GB",
+          "barkod": "4711636531276",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming 16 FX610JH-TU027, 40.6cm 4F0 (16\") IPS WUXGA 144Hz, Intel Core i7-14650HX, 16 GB",
+          "barkod": "4711636664967",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming F16 FX607VJR-TU295, 40.6cm M00 (16\") IPS WUXGA 144Hz, Intel Core 5 205H, 16 GB RAM,",
+          "barkod": "4711636648011",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
+          "barkod": "195949689673",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "barkod": "195950639049",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 11 GPS 46mm Jet Black Aluminium Case with Black Sport Band - M/L",
+          "barkod": "195950631821",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Pink",
+          "barkod": "195950086867",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5448-101",
+      "stavke": [
+        {
+          "naziv": "Drzac mobitela za romobil Segway",
+          "barkod": "8719325845563",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torbica za romobil Segway",
+          "barkod": "8720254405476",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
