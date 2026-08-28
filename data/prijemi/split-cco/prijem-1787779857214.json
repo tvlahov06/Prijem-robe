@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T21:30:57.214Z",
-  "azurirano": "2026-08-28T06:23:06.794Z",
+  "azurirano": "2026-08-28T06:23:12.995Z",
   "dokumenti": [
     {
       "naziv": "BigPartner - JBL 2",
@@ -334,7 +334,7 @@
           "naziv": "TRUST GM SLUSALICE,ZIROX,BLACK,GXT415",
           "barkod": "8713439249903",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TRUST PC ADAPTER MINI USB-A/4x USB-A,HALYX",
@@ -364,13 +364,13 @@
           "naziv": "TRUST SLUSALICE ZA PS5, FORTA, BIJELE GXT498W",
           "barkod": "8713439247169",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "TRUST SLUSALICE ZA PS5, FORTA, CRNE GXT498",
           "barkod": "8713439247152",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Zastitno staklo Cellularline Samsung Galaxy S26 Ultra",
