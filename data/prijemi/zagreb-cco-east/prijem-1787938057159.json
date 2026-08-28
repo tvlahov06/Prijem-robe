@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "jbl za operativnu",
   "datum": "2026-08-28",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-08-28T17:27:37.159Z",
-  "azurirano": "2026-08-28T19:20:03.957Z",
+  "azurirano": "2026-08-28T19:20:44.943Z",
   "dokumenti": [
     {
       "naziv": "sadfdgfdsfdc",
@@ -119,5 +119,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-08-28T19:20:44.943Z"
 }
