@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "Komisija u dolasku",
   "datum": "2026-08-26",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-08-26T21:30:57.214Z",
-  "azurirano": "2026-08-29T04:41:05.498Z",
+  "azurirano": "2026-08-29T04:41:08.411Z",
   "dokumenti": [
     {
       "naziv": "BigPartner - JBL 2",
@@ -225,6 +225,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-08-29T04:41:05.498Z"
+  ]
 }
