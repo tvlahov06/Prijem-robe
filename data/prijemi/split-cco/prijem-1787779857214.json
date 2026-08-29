@@ -5,7 +5,7 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T21:30:57.214Z",
-  "azurirano": "2026-08-29T04:40:56.073Z",
+  "azurirano": "2026-08-29T04:40:59.100Z",
   "dokumenti": [
     {
       "naziv": "BigPartner - JBL 2",
@@ -175,23 +175,6 @@
           "barkod": "818279010695",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "Garmin",
-      "stavke": [
-        {
-          "naziv": "Pametni sat Garmin Fenix 9 47 mm AMOLED Titanium Pebble Gray",
-          "barkod": "753759381011",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pametni sat Garmin Fenix 9 PRO 47 mm AMOLED Titanium Graphite/Black",
-          "barkod": "753759380199",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
