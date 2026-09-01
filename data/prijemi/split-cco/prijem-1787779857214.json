@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "Komisija u dolasku",
   "datum": "2026-09-01",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-09-01T15:55:59.099Z",
-  "azurirano": "2026-09-01T15:55:59.099Z",
+  "azurirano": "2026-09-01T16:08:28.068Z",
   "dokumenti": [
     {
       "naziv": "Garmin",
@@ -168,5 +168,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-09-01T16:08:28.068Z"
 }
