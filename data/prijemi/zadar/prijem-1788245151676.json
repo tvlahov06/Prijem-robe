@@ -5,7 +5,7 @@
   "datum": "2026-09-01",
   "status": "aktivan",
   "kreirano": "2026-09-01T06:45:51.676Z",
-  "azurirano": "2026-09-01T06:55:27.959Z",
+  "azurirano": "2026-09-01T06:55:38.731Z",
   "dokumenti": [
     {
       "naziv": "MSI 5509-101",
@@ -144,13 +144,13 @@
           "naziv": "The Legend of Zelda: Tears of the Kingdom Switch 2",
           "barkod": "0045496312572",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "The Legend of Zelda: Breath Of The Wild Switch 2",
           "barkod": "0045496312664",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "007 First Light PS5",
@@ -168,7 +168,7 @@
           "naziv": "Octopath Traveler 0 Switch 2 Standard Edition",
           "barkod": "5021290101470",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Paladone Astrobot metalna boca za vodu",
@@ -198,7 +198,7 @@
           "naziv": "Tomodachi Life Switch",
           "barkod": "045496513535",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
