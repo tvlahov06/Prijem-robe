@@ -5,61 +5,8 @@
   "datum": "2026-09-01",
   "status": "aktivan",
   "kreirano": "2026-09-01T06:45:51.676Z",
-  "azurirano": "2026-09-01T07:32:43.919Z",
+  "azurirano": "2026-09-01T07:57:49.259Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 5509-101",
-      "stavke": [
-        {
-          "naziv": "Perilica rublja GORENJE W3NGPI61SAS",
-          "barkod": "3838782952661",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Perilica posuda ugradbena Bosch SMV46KX04E",
-          "barkod": "4242005179626",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Perilica rublja LG F4WR511S2M",
-          "barkod": "8806084217349",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Perilica rublja slim Hisense WF3S7021BW",
-          "barkod": "6901101826602",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Perilica posuda ugradbena 60 cm Gorenje GV16C",
-          "barkod": "3838782988707",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Ugradbena perilica posuda BOSCH SMV6ZCX24E",
-          "barkod": "4242005545452",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica posuda samostojeca 60cm Gorenje GS642E90X",
-          "barkod": "3838782723117",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pecnica ugradbena Hisense BI64221PDBG",
-          "barkod": "3838782861383",
-          "ocekivano": 2,
-          "skenirano": 2
-        }
-      ]
-    },
     {
       "naziv": "MSI 5491-101",
       "stavke": [
