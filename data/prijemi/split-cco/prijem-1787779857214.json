@@ -5,54 +5,6 @@
   "datum": "2026-08-26",
   "status": "aktivan",
   "kreirano": "2026-08-26T21:30:57.214Z",
-  "azurirano": "2026-09-01T15:55:15.252Z",
-  "dokumenti": [
-    {
-      "naziv": "Logista 2",
-      "stavke": [
-        {
-          "naziv": "Bezicni ruter MERCUSYS MB130-4G N150 4G LTE SIM",
-          "barkod": "6957939001971",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Bezicni ruter MERCUSYS MR90X AX6000 8-Stream Multi-Gigabit",
-          "barkod": "6957939000875",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Bezicni USB adapter Mercusys MW300UH, 300Mbps (2.4GHz), 802.11n/g/b, 2×2 MIMO, 2×5dBi antena",
-          "barkod": "6935364099602",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mercusys Bluetooth 5.3 Nano USB Adapter",
-          "barkod": "6957939002176",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mercusys MW300RE Wi-Fi extender 300Mbps (2.4 GHz)",
-          "barkod": "6957939000462",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Router MERCUSYS MT110 4G LTE",
-          "barkod": "6957939001254",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Ruter Mercusys AC1200 Wi-Fi 4G+LTE 300Mbps 4G LTE",
-          "barkod": "6957939001827",
-          "ocekivano": 2,
-          "skenirano": 0
-        }
-      ]
-    }
-  ]
+  "azurirano": "2026-09-01T15:55:17.030Z",
+  "dokumenti": []
 }
