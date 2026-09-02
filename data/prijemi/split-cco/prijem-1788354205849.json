@@ -3,159 +3,10 @@
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
   "datum": "2026-09-02",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-09-02T13:03:25.849Z",
-  "azurirano": "2026-09-02T19:50:04.679Z",
+  "azurirano": "2026-09-02T19:50:09.159Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 5538-101",
-      "stavke": [
-        {
-          "naziv": "Perilica susilica rublja Hisense WD5S1045BW",
-          "barkod": "6901101825599",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Perilica susilica rublja GORENJE WD2PA1X64ADW",
-          "barkod": "3838782818431",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Perilica susilica rublja HISENSE WD3I8043BWF2",
-          "barkod": "6901101834478",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Susilica rublja Hisense DH3S802BW3",
-          "barkod": "6901101829627",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Susilica rublja Hisense DH3I802UWDD",
-          "barkod": "6901101834560",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Susilica rublja Gorenje DHNE7D",
-          "barkod": "3838783038333",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Susilica rublja Bosch WTH83256BY",
-          "barkod": "4242005471263",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica rublja GORENJE W3NGPI61SAS",
-          "barkod": "3838782952661",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Perilica rublja GORENJE WG2PS74A2G",
-          "barkod": "3838783128003",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Perilica rublja Hisense WF5I9043BWFS",
-          "barkod": "6901101832771",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Perilica rublja Beko B1WFM2821WBEE",
-          "barkod": "8690842807503",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica rublja Hisense WF5I8043BWF",
-          "barkod": "6901101832481",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Perilica rublja Hisense WF5S1045BW",
-          "barkod": "6901101825575",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Perilica rublja LG F4WR511S2M",
-          "barkod": "8806084217349",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak kombinirani Hisense RB395N4WFE",
-          "barkod": "6921727073945",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak kombinirani Hisense RB372N4AC2",
-          "barkod": "6921727047427",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak kombinirani Gorenje NRK720EAXL4",
-          "barkod": "3838782572814",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Ploca ugradbena indukcija Gorenje GI6401BCE",
-          "barkod": "3838782757457",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Ploca ugradbena indukcija GORENJE GI6433BSCWF",
-          "barkod": "3838782923401",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Ploca ugradbena AEG HK624000XB",
-          "barkod": "7332543486090",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica posuda ugradbena 60 cm GORENJE GV663B65",
-          "barkod": "3838782946363",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica posuda ugradbena 60 cm HISENSE HV642D65",
-          "barkod": "3838782945298",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica posuda ugradbena Bosch SMV6ZCX13E",
-          "barkod": "4242005417421",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica posuda ugradbena Bosch SMV4ECX28E",
-          "barkod": "4242005484386",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
     {
       "naziv": "MSI 5572-101",
       "stavke": [
@@ -519,5 +370,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-09-02T19:50:09.159Z"
 }
