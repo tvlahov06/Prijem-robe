@@ -2,10 +2,10 @@
   "id": "prijem-1787779857214",
   "poslovnica": "split-cco",
   "naziv": "Komisija u dolasku",
-  "datum": "2026-09-01",
+  "datum": "2026-09-02",
   "status": "aktivan",
-  "kreirano": "2026-09-01T15:55:59.099Z",
-  "azurirano": "2026-09-01T16:08:31.206Z",
+  "kreirano": "2026-09-02T13:05:22.383Z",
+  "azurirano": "2026-09-02T13:05:22.383Z",
   "dokumenti": [
     {
       "naziv": "Garmin",
@@ -164,6 +164,255 @@
           "naziv": "Pribor Garmin kabel za napajanje/prijenos podataka za Fenix 1m",
           "barkod": "753759254445",
           "ocekivano": 5,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Garmin 2",
+      "stavke": [
+        {
+          "naziv": "Pametni sat Garmin Fenix 9 51 mm AMOLED Titanium Pebble Gray",
+          "barkod": "753759381059",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Garmin Fenix 9 PRO inReach 47 mm AMOLED Titanium Graphite/Black",
+          "barkod": "753759370169",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Orbico",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu Lavazza A Modo Mio Jolie Evo crvena",
+          "barkod": "8000070073531",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO10 BLACK SPECIAL EDITION + TC",
+          "barkod": "8700216868631",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO10 COSMIC BLACK",
+          "barkod": "4210201434672",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO10 STARDUST WHITE",
+          "barkod": "4210201434658",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO2 BLACK + Travel case",
+          "barkod": "8700216611923",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO2 GREEN",
+          "barkod": "8700216611848",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO2 OCEAN BLUE + PUTNA TORBICA",
+          "barkod": "8700216868808",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO3 BLUSH PINK",
+          "barkod": "8006540731222",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO3 DUOPACK BLACK/BLUE",
+          "barkod": "8006540731772",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO3 ICE BLUE",
+          "barkod": "8006540731321",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO3 MATT BLACK",
+          "barkod": "8006540731277",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO5 DUO Black&White",
+          "barkod": "4210201428695",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO5 MATT BLACK",
+          "barkod": "4210201415367",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO6 BLACK ONYX",
+          "barkod": "4210201409199",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO6 DUO",
+          "barkod": "8006530021746",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO9 DUO Black&Pink",
+          "barkod": "4210201411574",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO9 WHITE ALABASTER",
+          "barkod": "4210201449614",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB nastavak iO Gentle Care Black 4",
+          "barkod": "8700216199346",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB nastavak iO Gentle Care White 4",
+          "barkod": "8700216199438",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB nastavak iO Ultimate Clean Black 4",
+          "barkod": "8700216199483",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB nastavak iO Ultimate Clean White 4",
+          "barkod": "8700216199513",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kapsule za kavu Lavazza A Modo Mio Qualita Oro 16/1",
+          "barkod": "8000070063310",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tus za zube OralB OXYJET MD20",
+          "barkod": "8006540841600",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Revlon 2U1 SALON + Revlon Uniq One tretman za kosu",
+          "barkod": "7630127502113",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Revlon 2U1 SALON PLUS",
+          "barkod": "0761318298663",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Tehnocentar",
+      "stavke": [
+        {
+          "naziv": "AM/FM radio DENVER TR-63 crni",
+          "barkod": "5706751076466",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "AM/FM radio DENVER TR-63 light wood",
+          "barkod": "5706751076503",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DVB-T T2 prijemnik Synergy T-202B HEVC265 LAN crni",
+          "barkod": "3858890901917",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DVB-T T2 prijemnik Synergy T-202H HEVC265 LAN + HDMI",
+          "barkod": "3858890902181",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DVD player DENVER DVH-7787",
+          "barkod": "5706751041341",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gramofon Muse MT-102 BT",
+          "barkod": "3701738900279",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kids budilica MUSE M-16 KIDS",
+          "barkod": "3700460209834",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MUSE DZEPNI RADIO M-025R",
+          "barkod": "3700460207656",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Radio budilica New One CR-100",
+          "barkod": "3700460200060",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Radio NEW ONE R-210",
+          "barkod": "3700460200268",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sobna antena OFA SV9015",
+          "barkod": "8716184047244",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sobna antena OFA SV9460 5G",
+          "barkod": "8716184074301",
+          "ocekivano": 1,
           "skenirano": 0
         }
       ]
