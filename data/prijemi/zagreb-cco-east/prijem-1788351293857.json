@@ -5,7 +5,7 @@
   "datum": "2026-09-02",
   "status": "aktivan",
   "kreirano": "2026-09-02T12:14:53.857Z",
-  "azurirano": "2026-09-02T19:20:59.737Z",
+  "azurirano": "2026-09-02T19:21:06.955Z",
   "dokumenti": [
     {
       "naziv": "MSI 5558-101",
@@ -483,7 +483,7 @@
           "naziv": "Pametni sat Huawei Watch Fit 4 Pro crni (Seiya-B29F)",
           "barkod": "6942103155048",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Watch Series 11 GPS 46mm Jet Black Aluminium Case with Black Sport Band - M/L",
@@ -507,7 +507,7 @@
           "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB bez",
           "barkod": "8806099186562",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
