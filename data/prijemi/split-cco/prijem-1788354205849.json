@@ -5,7 +5,7 @@
   "datum": "2026-09-02",
   "status": "aktivan",
   "kreirano": "2026-09-02T13:03:25.849Z",
-  "azurirano": "2026-09-02T19:30:06.791Z",
+  "azurirano": "2026-09-02T19:30:42.259Z",
   "dokumenti": [
     {
       "naziv": "MSI 5520-101",
@@ -192,7 +192,7 @@
           "naziv": "Usisavac Dyson V15 Detect Absolute",
           "barkod": "5025155136201",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
@@ -204,13 +204,13 @@
           "naziv": "Usisavac Dyson V16 Piston Animal",
           "barkod": "5025155114834",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Jasper Plum Straight+Wavy",
           "barkod": "5025155112816",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Blender Nutribullet NB907CP 900W",
