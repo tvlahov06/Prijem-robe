@@ -5,7 +5,7 @@
   "datum": "2026-09-02",
   "status": "aktivan",
   "kreirano": "2026-09-02T12:14:53.857Z",
-  "azurirano": "2026-09-02T19:19:52.665Z",
+  "azurirano": "2026-09-02T19:20:03.216Z",
   "dokumenti": [
     {
       "naziv": "MSI 5558-101",
@@ -255,7 +255,7 @@
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
           "barkod": "8806099028282",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple USB-C Power Adapter 20W",
@@ -405,7 +405,7 @@
           "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM ljubicasti",
           "barkod": "8806099035341",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/256GB dual SIM tamnoplavi",
@@ -447,7 +447,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB nebesko plavi",
           "barkod": "8806097826781",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 41mm White Leather Strap (Jana-B19L)",
@@ -501,7 +501,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
           "barkod": "8806097827177",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB bez",
