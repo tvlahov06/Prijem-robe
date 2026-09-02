@@ -5,7 +5,7 @@
   "datum": "2026-09-02",
   "status": "aktivan",
   "kreirano": "2026-09-02T13:03:25.849Z",
-  "azurirano": "2026-09-02T19:19:12.449Z",
+  "azurirano": "2026-09-02T19:19:22.388Z",
   "dokumenti": [
     {
       "naziv": "MSI 5520-101",
@@ -98,7 +98,7 @@
           "naziv": "Laptop LENOVO LOQ, 83JG002WSC, 39.6cm (15.6\") IPS Full HD 144Hz, AMD Ryzen 5 220, 16 GB RAM, 1TB SSD,",
           "barkod": "198158565417",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 27\" Samsung Odyssey G5 G53F, EN LS27FG530EUXEN, IPS, QHD, 200Hz",
@@ -181,7 +181,7 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 39.6cm (15.6\") IPS Full W11H HD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD",
           "barkod": "2010033300662",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
