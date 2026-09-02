@@ -5,7 +5,7 @@
   "datum": "2026-09-02",
   "status": "aktivan",
   "kreirano": "2026-09-02T13:03:25.849Z",
-  "azurirano": "2026-09-02T18:27:43.332Z",
+  "azurirano": "2026-09-02T18:40:16.423Z",
   "dokumenti": [
     {
       "naziv": "MSI 5520-101",
@@ -556,7 +556,7 @@
           "naziv": "Susilica rublja Hisense DH3I802UWDD",
           "barkod": "6901101834560",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilica rublja Gorenje DHNE7D",
@@ -568,7 +568,7 @@
           "naziv": "Susilica rublja Bosch WTH83256BY",
           "barkod": "4242005471263",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja GORENJE W3NGPI61SAS",
@@ -610,7 +610,7 @@
           "naziv": "Perilica rublja LG F4WR511S2M",
           "barkod": "8806084217349",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hladnjak kombinirani Hisense RB395N4WFE",
@@ -670,7 +670,7 @@
           "naziv": "Perilica posuda ugradbena Bosch SMV4ECX28E",
           "barkod": "4242005484386",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
