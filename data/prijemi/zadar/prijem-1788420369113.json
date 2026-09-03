@@ -5,7 +5,7 @@
   "datum": "2026-09-03",
   "status": "aktivan",
   "kreirano": "2026-09-03T07:26:09.113Z",
-  "azurirano": "2026-09-03T08:13:31.801Z",
+  "azurirano": "2026-09-03T08:13:38.585Z",
   "dokumenti": [
     {
       "naziv": "MSI 5524-101",
@@ -319,7 +319,7 @@
           "naziv": "TV HISENSE 55A6S, 139.7cm (55\"), DLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351430447",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SONY K43S25M2PB, 108 cm (43''), Bravia 2 II, 4K EI Google TV",
@@ -409,7 +409,7 @@
           "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525958",
           "ocekivano": 5,
-          "skenirano": 2
+          "skenirano": 5
         }
       ]
     },
