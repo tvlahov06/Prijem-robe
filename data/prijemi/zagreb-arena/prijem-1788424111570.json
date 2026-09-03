@@ -5,7 +5,7 @@
   "datum": "2026-09-03",
   "status": "aktivan",
   "kreirano": "2026-09-03T08:28:31.570Z",
-  "azurirano": "2026-09-03T08:58:58.903Z",
+  "azurirano": "2026-09-03T09:00:03.411Z",
   "dokumenti": [
     {
       "naziv": "MSI 160-144",
@@ -492,7 +492,7 @@
           "naziv": "Laptop ASUS TUF Gaming A16 FA607NUQ-RL014, 40.6cm 4L0 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 170, 16 GB RAM,",
           "barkod": "4711636446716",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 5a, 83S2002JSC, 40.6cm (16\") OLED WUXGA, AMD Ryzen AI 5 430, 32 GB RAM, 1TB",
@@ -516,7 +516,7 @@
           "naziv": "Laptop ASUS TUF Gaming F16 FX608JMR-RV024, 40.6cm",
           "barkod": "4711636037297",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15 NX.DJWEX.001, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
