@@ -2,10 +2,10 @@
   "id": "prijem-1788354205849",
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
-  "datum": "2026-09-02",
+  "datum": "2026-09-03",
   "status": "aktivan",
-  "kreirano": "2026-09-02T13:03:25.849Z",
-  "azurirano": "2026-09-02T19:50:20.290Z",
+  "kreirano": "2026-09-03T14:27:32.875Z",
+  "azurirano": "2026-09-03T14:27:32.875Z",
   "dokumenti": [
     {
       "naziv": "MSI 5572-101",
@@ -366,6 +366,1708 @@
           "naziv": "Pekac kruha Tefal PF611838",
           "barkod": "3045385782988",
           "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5584-101",
+      "stavke": [
+        {
+          "naziv": "Filter za vodu za aparat za kavu DeLonghi DLSC002",
+          "barkod": "8004399327252",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC500 dekalcifikator",
+          "barkod": "8004399329492",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Gorenje M500DCBK",
+          "barkod": "3838782541605",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
+          "barkod": "8004399329485",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
+          "barkod": "8720389032998",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
+          "barkod": "8606112020473",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vaga kuhinjska Tefal BC50D4V0 Cupcakes",
+          "barkod": "3121040092439",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Filter vode Krups F08801 Claris",
+          "barkod": "0010942120247",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vaga kuhinjska Tefal BC50D6V0 Mozaic",
+          "barkod": "3121040092453",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster preklopni Gorenje SM701SB",
+          "barkod": "3838782767197",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Rowenta RO4B63EA",
+          "barkod": "3221616093133",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vrecice za usisavac Philips FC8022/04 sinteticke, S-BAG, 4kom, antialergijska filtracija",
+          "barkod": "8710103445692",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV6812E0",
+          "barkod": "3121040077184",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal SV8151E0",
+          "barkod": "3121040086414",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV8062E0",
+          "barkod": "3121040086476",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1A3B10 Piccolo XS black/anthracite PF",
+          "barkod": "3016661159121",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vrecice za usisavac Philips FC8021/03 sinteticke, S-BAG, 4kom",
+          "barkod": "8710103291381",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za uklanjanje vlakana Tefal JB1011E0",
+          "barkod": "3121040070314",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA552/00 Airfryer Dual Basket, para",
+          "barkod": "8720389049286",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9812E0",
+          "barkod": "3121040082331",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sjeckalica Tefal K1320404 900ML, rucna",
+          "barkod": "3168430275591",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG7200/20",
+          "barkod": "8720389065170",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
+          "barkod": "8720389040733",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA150/00 Airfryer Dual Basket",
+          "barkod": "8720389052989",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
+          "barkod": "8720389023026",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips FC9550/09",
+          "barkod": "8710103860105",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Rostilj Tefal GC5108E0 3u1",
+          "barkod": "3045380028326",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8300/20",
+          "barkod": "8720389066498",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
+          "barkod": "4242005306978",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Tefal DT2022E1 Pure Pop coral",
+          "barkod": "3121040088517",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pekac kruha Tefal PF240E38",
+          "barkod": "3045385783428",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5011F0",
+          "barkod": "3121040091609",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za vakumiranje Tefal VT254070",
+          "barkod": "3016661148910",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Citruseta Tefal ZP300138",
+          "barkod": "3045386370474",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Komplet za odrzavanje aparata Krups XS530010",
+          "barkod": "3507790050262",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips FC9744/09",
+          "barkod": "8710103810483",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips FC9747/09",
+          "barkod": "8710103977957",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XC8057/01 Aqua Plus",
+          "barkod": "8720389022449",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC270D10",
+          "barkod": "3045380026377",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac rucni Gorenje MVC72FW",
+          "barkod": "3838782040542",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za vakumiranje Gorenje VS120W",
+          "barkod": "3838782060854",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Citruseta Philips HR2738/00",
+          "barkod": "8710103641315",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH5020/40",
+          "barkod": "8720389050084",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso ESSENZA MINI White S C30-EUWHNE2-S",
+          "barkod": "7630030342486",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8200/70",
+          "barkod": "8720389066511",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6903/10 filter za vodu",
+          "barkod": "8720389000508",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster preklopni Tefal SM157236",
+          "barkod": "3045386375943",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster Philips HD2350/80 preklopni",
+          "barkod": "8720389032813",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi EC 685.M Dedica Style",
+          "barkod": "8004399331198",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi EC 890.GR Dedica Duo",
+          "barkod": "8004399032538",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5596-101",
+      "stavke": [
+        {
+          "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525958",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525804",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 50QNED72B3B 127.0cm (50\"), QNED, 4K UHD AEU Smart TV, webOS",
+          "barkod": "8806096733790",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 32A5S, 81.3cm (32\"), Hi-QLED, FHD Smart TV, VIDAA OS",
+          "barkod": "6942351429441",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 55NU800B3LA 139.7cm (55\"), LED, 4K UHD Smart AEUQ TV, webOS",
+          "barkod": "8806096728390",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY K50S25M2PB, 126 cm (50''), Bravia 2 II, 4K EI Google TV",
+          "barkod": "4548736180383",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 43E7S, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351430973",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV PHILIPS 50PUS7001, 127.0cm (50\"), LED, UHD 4K Smart TV, Titan OS",
+          "barkod": "8718863051610",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 65E7S, 165.1cm (65\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351431710",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 40A5S, 101.6cm (40\"), Hi-QLED, FHD Smart TV, VIDAA OS",
+          "barkod": "6942351429632",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 43A6S, 109.2cm (43\"), DLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351430102",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SAMSUNG MRE55R85HAUXXH, 139.7 cm (55\") Micro XXH RGB, 4K UHD Smart TV, Tizen OS",
+          "barkod": "8806099105389",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY K55S25M2PB, 139 cm (55''), Bravia 2 II, 4K EI Google TV",
+          "barkod": "4548736180345",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5597-101",
+      "stavke": [
+        {
+          "naziv": "Ploca ugradbena indukcija ELECTROLUX EIV63449CT SaphirMatt(R)",
+          "barkod": "7333394162171",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5609-101",
+      "stavke": [
+        {
+          "naziv": "Slusalice bluetooth Sony WH-CH520/B",
+          "barkod": "4548736142374",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
+          "barkod": "4548736161436",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/B",
+          "barkod": "4548736162617",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-1000XM6/L",
+          "barkod": "4548736162716",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-XB100/B",
+          "barkod": "4548736146129",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/D",
+          "barkod": "4548736157118",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Sony",
+          "barkod": "4548736143272",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Sony",
+          "barkod": "4548736107120",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/H",
+          "barkod": "4548736157101",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke 7 WH-CH720N/L",
+          "barkod": "4548736143012",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Sony",
+          "barkod": "4548736067325",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/W",
+          "barkod": "4548736164215",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
+          "barkod": "8806097984795",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-100 TV nosac BOF TVM V-100",
+          "barkod": "2010030072630",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-100 TV nosac BOF TVM H-100",
+          "barkod": "2010030072609",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
+          "barkod": "6942103101359",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-300 TV nosac BOF TVM H-300",
+          "barkod": "2010030072623",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX EB-TWS-101, bijela boja | True Wireless slusalice",
+          "barkod": "3858894502547",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-200 TV nosac BOF TVM V-200",
+          "barkod": "2010030072647",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds 7i Black",
+          "barkod": "6942103164781",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 4 (USB-C)",
+          "barkod": "195949688591",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DVB-T2/T prijemnik E-STAR",
+          "barkod": "5292618761540",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WOLF Slusalice WHITE SHARK WOLF, GH-2044, zicane, gaming, mikrofon, over-ear",
+          "barkod": "0736373267398",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
+          "barkod": "198415435569",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark PL HEADSET WGH-2444 FIRECREST / Bijele - Wireless",
+          "barkod": "3858894506750",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds 7i White",
+          "barkod": "6942103164774",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei Freeclip 2 crne",
+          "barkod": "6942103169434",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Razer Kraken X Lite, zicane, gaming, 7.1, 0-R381 mikrofon, over-ear",
+          "barkod": "8886419378082",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Skullcandy DIME 360 TRUE WIRELESS crne",
+          "barkod": "810145322703",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne Sony s funkcijom blokade buke E7 WF-1000XM6/S",
+          "barkod": "4548736171824",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5610-101",
+      "stavke": [
+        {
+          "naziv": "Susilo za kosu Remington AC8820 Keratin Protect, 2200W",
+          "barkod": "4008496938353",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Remington AC9096 Silk",
+          "barkod": "4008496789078",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
+          "barkod": "8720689027137",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Philips BRI977/00 Lumea",
+          "barkod": "8720689005944",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za glavu Remington XR1500",
+          "barkod": "5038061106022",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za glavu Philips HS5980/15",
+          "barkod": "8720689044264",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips S5885/10",
+          "barkod": "8720689008440",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips OneBlade Pro QP6552/15 Face & Body",
+          "barkod": "8720689027199",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vaga osobna Tefal PP1600V0 Wood",
+          "barkod": "3121040082355",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tus za zube Philips Sonicare HX3826/33 Power Flosser Cordless black",
+          "barkod": "8720689011044",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Philips BHB968/00 WavePro Styler SenseIQ",
+          "barkod": "8720689025485",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/87 Premium Plaque Defence Standard 2/1 White",
+          "barkod": "8720689036917",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/88 Premium Plaque Defence Standard 2/1 Black",
+          "barkod": "8720689036924",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare nastavak HX9092/88 Premium All-In-One Black 2/1",
+          "barkod": "8720689036740",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare nastavak HX9094/87 Premium All-In-One White 4/1",
+          "barkod": "8720689037389",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare nastavak HX9092/87 Premium All-In-One White 2/1",
+          "barkod": "8720689036733",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips S7885/50",
+          "barkod": "8720689009041",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips OneBlade QP430/50 nastavci 360",
+          "barkod": "8710103997177",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
+          "barkod": "8710103932482",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Philips BHB876/00 tulip crni",
+          "barkod": "8710103813378",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips OneBlade Pro QP6652/61 Face & Body",
+          "barkod": "8720689027298",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Remington S8540 Keratin Protect",
+          "barkod": "4008496938438",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Philips BRI947/00 Lumea",
+          "barkod": "8720689016438",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Philips BHD837/10",
+          "barkod": "8720689033244",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijaci - vikleri za kosu Remington H5600 Ionic",
+          "barkod": "4008496872879",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips OneBlade QP225/50 nastavci Face",
+          "barkod": "8720689003087",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare nastavak HX9052/87 Premium Gum Care White 2/1",
+          "barkod": "8720689036993",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare nastavak HX9094/88 Premium All-In-One Black 4/1",
+          "barkod": "8720689037396",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epilator Philips BRE708/00",
+          "barkod": "8720689032704",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Philips BRI945/00 Lumea",
+          "barkod": "8720689015394",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Philips BRI973/00 Lumea",
+          "barkod": "8720689005708",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Philips SC1997/00 Lumea",
+          "barkod": "8720689016957",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Philips BHC010/10 putno",
+          "barkod": "8710103887119",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Rowenta HY8310F0",
+          "barkod": "3121040092590",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/87 Optimal White 4/1 white",
+          "barkod": "8720689036450",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips oprema CC12/50 komplet kapsula",
+          "barkod": "8710103944652",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Philips BHD272/00",
+          "barkod": "8710103898108",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Philips BHD530/00",
+          "barkod": "8710103977209",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Philips BHA310/00",
+          "barkod": "8720689002790",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips X3001/00",
+          "barkod": "8720689018920",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac za kosu/bradu Philips HC5650/15",
+          "barkod": "8710103897866",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Remington D5901 Coconut",
+          "barkod": "5038061112795",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare HX9911/84 DiamondClean, Pink",
+          "barkod": "8720689000963",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare HX9911/88 DiamondClean, Blue",
+          "barkod": "8720689001007",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5620-101",
+      "stavke": [
+        {
+          "naziv": "Susilo za kosu Philips BHD538/30",
+          "barkod": "8720689023276",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za glavu Remington XR1600",
+          "barkod": "5038061144017",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips S7886/58",
+          "barkod": "8720689010931",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Remington D5706 Curl&Straight",
+          "barkod": "5038061100587",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Remington S8598 Keratin Protect Intelligent",
+          "barkod": "4008496938322",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za glavu Philips nastavak HS740/15 zamjenske glave",
+          "barkod": "8720689044493",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips nastavak SH71/50 zamjenske glave",
+          "barkod": "8710103944119",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips OneBlade QP420/50 nastavci 360",
+          "barkod": "8710103997153",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips S5885/35",
+          "barkod": "8720689008037",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare HX7119/01 Sonicare Series 5500 DUO, Blue & White",
+          "barkod": "8720689021708",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare HX7406/02 Sonicare Series 6100 Blue",
+          "barkod": "8720689021784",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare HX7410/02 Sonicare Series 6500 White",
+          "barkod": "8720689021630",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare HX7419/01 Sonicare Series 6500 DUO, Black & White",
+          "barkod": "8720689021609",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare HX7429/01 Sonicare Series 7100 DUO, Blue & White",
+          "barkod": "8720689021432",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Philips SC1998/00 Lumea",
+          "barkod": "8720689016995",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Philips BHS752/00",
+          "barkod": "8710103974178",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Philips BHS838/00 SenseIQ",
+          "barkod": "8720689002134",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Philips BHD510/00",
+          "barkod": "8710103948834",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za tijelo Remington BHT250",
+          "barkod": "4008496823451",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac dlacica nos/usi Remington NE3870",
+          "barkod": "4008496881963",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tus za zube Philips Sonicare HX3911/40 Power Flosser",
+          "barkod": "8710103947257",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips OneBlade Pro QP1324/30 Face 1st Shave",
+          "barkod": "8720689029308",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac dlacica nos/usi Remington NE3850",
+          "barkod": "4008496881864",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare nastavak HX6054/87 Sensitive Standard 4/1",
+          "barkod": "8720689036870",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare nastavak HX6032/90 djecja Soft 3+ 2/1",
+          "barkod": "8720689037402",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tus za zube Philips Sonicare HX3333/24 Compact Flosser 1000, Blue",
+          "barkod": "8720689046831",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Remington D5720",
+          "barkod": "4008496985388",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips XP9204/30",
+          "barkod": "8720689030199",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epilator Philips BRE719/00",
+          "barkod": "8720689032933",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epilator Philips BRE728/00",
+          "barkod": "8720689032940",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Philips BHD723/10",
+          "barkod": "8720689027236",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Remington D5715",
+          "barkod": "4008496985357",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Remington figaro CI83V6 konusni 19-28 mm, Keratin Protect",
+          "barkod": "4008496938636",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Remington figaro CI89H1 Hydraluxe 32mm",
+          "barkod": "5038061110371",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips nastavak SH50/50 zamjenske glave",
+          "barkod": "8710103736691",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare HX7420/01 Sonicare Series 7100 White",
+          "barkod": "8720689021494",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Philips BHD274/00",
+          "barkod": "8710103898122",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tus za zube Philips Sonicare HX3886/41 Power Flosser + Cetkica za zube Diamond Clean 9000 White",
+          "barkod": "8720689016155",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Babyliss AS95E Air Power Volume",
+          "barkod": "3030050190915",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Remington S6077 ONE straight & curl styler",
+          "barkod": "5038061152173",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Remington AS7700 1200W Airstyler",
+          "barkod": "5038061142266",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tus za zube Philips Sonicare HX3886/43 Power Flosser + Cetkica za zube Diamond Clean 9000 Black",
+          "barkod": "8720689017084",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare HX7108/01 Sonicare Series 5300 White",
+          "barkod": "8720689022835",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Remington figaro CI6X10 Pro Tight 10 mm",
+          "barkod": "5038061136029",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO6 GREY OPAL",
+          "barkod": "4210201381686",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips nastavak SH30/50 zamjenske glave",
+          "barkod": "8710103767091",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osobna vaga Tefal BM2600V0 Body Up 2.0",
+          "barkod": "3121040097168",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vaga osobna Tefal PP1905V0 Classic 3 Light Blue, 180 kg",
+          "barkod": "3121040095362",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vaga osobna Tefal PP1900V0 Classic 3 Dune Metal, 180 kg",
+          "barkod": "3121040095423",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac za tijelo 8U1 Philips MG3940/15",
+          "barkod": "8720689026611",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
+          "barkod": "8720689045094",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epilator Philips BRE711/00",
+          "barkod": "8720689042185",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Braun PL5221",
+          "barkod": "8700216937818",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5621-101",
+      "stavke": [
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-031 REVENGE 750x350 Crna",
+          "barkod": "3858894503667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PODLOGA ZA MIS SBOX MP-03 30x25 Crna",
+          "barkod": "736373267923",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 650 CZ101AE Black Ink Cartridge",
+          "barkod": "886112545987",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 2.5\" 1TB USB 3.2 T7 Portable sivi W MU-PC1T0T/WW",
+          "barkod": "8806090351679",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-2201 RONIN Bijela / HR",
+          "barkod": "0736373271159",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MicroSD memorijska kartica Samsung 128GB PRO U Endurance + MicroSD adapter MB-MJ128KA/EU",
+          "barkod": "8806092767256",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 650 CZ102AE Tri-color Ink Cartridge",
+          "barkod": "886112546052",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-2201 RONIN Crna / HR",
+          "barkod": "0736373271135",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 652 Black Original Ink Advantage Cartridge, F6V25AE",
+          "barkod": "889296160939",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer Basilisk V3 X HyperSpeed Wireless 0-R3G1",
+          "barkod": "8886419334316",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TORBA SBOX NSE-2022 HONG KONG 15,6\"",
+          "barkod": "0616320538262",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MIS SBOX WM-993 Roza / Bezicni",
+          "barkod": "3858894503469",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark RUKSAK GBP-009 TROOPER / 16\" Crni",
+          "barkod": "3858894502073",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link TL-MR6400 bezicni 4G LTE Router, 300Mbps, interni 4G modem, SIM card slot",
+          "barkod": "6935364092764",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-002722V2 WAKIZASHI-2 / -G-B-BLUE Sivo-crna HR-BLUE.SW",
+          "barkod": "3858894506897",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Archer T3U adapter, AC1300 WLAN USB",
+          "barkod": "6935364083830",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer Viper V3 HyperSpeed 0-R3M1",
+          "barkod": "8886419334248",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer DeathAdder Essential, bijeli 0-R3M1",
+          "barkod": "8886419333326",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link AC750 bezicni pojacivac dometa, Dual Band 5GHz/2.4GHz, 802.11ac/a/b/g/n",
+          "barkod": "6935364071295",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac za ASUS laptope, 68W Type-C",
+          "barkod": "4711636433433",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
+          "barkod": "4713218461933",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347890",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
+          "barkod": "4713218461940",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DT Exodia G2, 64GB, USB3.2 Gen1",
+          "barkod": "740617353679",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
+          "barkod": "740617348699",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347999",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 256GB USB 3.2 Black-Orange",
+          "barkod": "740617348736",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis WHITE SHARK KARUTA XL, ESL-MP1, 90x40cm",
+          "barkod": "0616320538897",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MikroSD kartica Samsung 128 GB T9 microSDXCTM UHS-I W kartica MB-MH128T/WW ? ?",
+          "barkod": "8806097718956",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 2.5\" 2TB USB 3.2 T7 Portable sivi W MU-PC2T0T/WW",
+          "barkod": "8806090312380",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Stolno racunalo BOFX GG AMD Ryzen 5 5500, 16 GB RAM,",
+          "barkod": "2010033299768",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HDD WD Elements Portable 4TB, USB 3.0",
+          "barkod": "718037855981",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk WD My Passport 4TB, Black, USB 3.2 K-WESN",
+          "barkod": "718037869438",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-021 WALRUS Crna/narancasta 400x300 L",
+          "barkod": "3858894503650",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON FD 128GB USB3.2 Exodia",
+          "barkod": "740617314359",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
+          "barkod": "8715946701271",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak za laptop ASUS ROG BP4701, 17.3\" gaming",
+          "barkod": "4711081074205",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-051 300x250X2mm",
+          "barkod": "3858894507917",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ADATA microSD U3, V30, 160/140MBs, 64GB 2SP-RA1",
+          "barkod": "4711085949196",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MicroSD kartica Samsung 128 GB T7 microSDXC UHS-I W kartica MB-MB128T/WW",
+          "barkod": "8806097635048",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica HyperX Eve 1800",
+          "barkod": "198990307855",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung USB Flash Drive Type-C 512GB",
+          "barkod": "8806095379883",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak za laptope do 16\"ASUS AP1602",
+          "barkod": "4711387815083",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
+          "barkod": "740617305371",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TIPKOVNICA SBOX K-14 HR",
+          "barkod": "0616320531799",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torba Lenovo ThinkPad 15.6-inch Basic Topload, 4X40Y95214",
+          "barkod": "194778185813",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MicroSD kartica Samsung 512 GB T7 microSDXC UHS-I W kartica MB-MB128T/WW",
+          "barkod": "8806097635062",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick Samsung 256GB BAR Plus zlatni PC MUF-256BE3/APC",
+          "barkod": "8801643229405",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick Samsung 256GB Type-C plavi MUF-256DA/APC",
+          "barkod": "8806092535909",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MicroSD kartica Samsung 1 TB T7 microSDXC UHS-I kartica W MB-MB128T/WW",
+          "barkod": "8806097722328",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak za laptope do 16\" ASUS PP2600 ProArt",
+          "barkod": "4711636273275",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming mis HP HyperX Pulsefire Fuse",
+          "barkod": "198122802449",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk WD Elements Portable 5TB",
+          "barkod": "718037871899",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick Samsung 512GB Pendrive BAR Plus champaign PC srebrni MUF-512BE3/APC",
+          "barkod": "8806095379692",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica HyperX Origins 2 1800",
+          "barkod": "198828944764",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Stolno racunalo BOF BO AMD Ryzen 5 5500GT, 16 GB RAM,",
+          "barkod": "2010033301676",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WALKER XL White Shark PODLOGA ZA MIS GMP-1899 SKYWALKER 80x35cm",
+          "barkod": "0616320537159",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk WD My Passport 1TB, Black, USB 3.2",
+          "barkod": "718037869469",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torba Lenovo Topload 16'' ECO, 4X41C12469",
+          "barkod": "195477802698",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica WHITE SHARK KAIKEN, GK-003112, HR - Wireless",
+          "barkod": "3858894504367",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "XL Podloga za mis WHITE SHARK SHARK, MP-1967, 80x30cm",
+          "barkod": "0616320539771",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis BARACUDA BGM-122 TURTLE BIJELI / 3200 dpi/ Wireless",
+          "barkod": "3858894508112",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis WHITE SHARK LOTUS, MP-2100, 40x30cm, Ruzicasta",
+          "barkod": "0736373268333",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WHITE SHARK GM-5014 Graphene, 12.400 DPI, crvena boja | Gaming mis",
+          "barkod": "3858894505845",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk WD My Passport 5TB, Black, USB 3.2 K-WESN",
+          "barkod": "718037868448",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TORBA SBOX NSS-88123 HONG KONG 17,3\"",
+          "barkod": "616320530983",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torba za laptop Lenovo T210 siva 15,6\"",
+          "barkod": "193386076902",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "C200 TP-Link Tapo C200 Pan/Tilt Home Security Wi-Fi",
+          "barkod": "6935364088095",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Lenovo ThinkPad Essential 16-inch Backpack (Eco)",
+          "barkod": "195477802681",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 512GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348552",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WHITE SHARK GK-005122 Hamachi, mehanicka RGB, HR Blue Switch | Gaming tipkovnica",
+          "barkod": "3858894506293",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER AMR 100, Crna",
+          "barkod": "4711121852237",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-004122 SHINOBI-2 Crna - R-BLUE.SW Mehanicka / HR - BLUE SW.",
+          "barkod": "3858894506064",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-2201 RONIN Roza / HR",
+          "barkod": "3858894505968",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk ADATA Ex HDD HD330, 2TB, usb3.0, plavi -CBL",
+          "barkod": "4713218465504",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5622-101",
+      "stavke": [
+        {
+          "naziv": "Need for Speed Heat PS4 B24",
+          "barkod": "5035225122478",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "It Takes Two PS4 D27",
+          "barkod": "5030945124696",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Star Wars Jedi: Survivor PS5 D15",
+          "barkod": "5030948124303",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EA SPORTS WRC PS5 C30",
+          "barkod": "5030949125163",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "UFC 5 PS5 F24",
+          "barkod": "5030931125263",
+          "ocekivano": 15,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Star Wars Jedi Survivor PS4",
+          "barkod": "5030949125170",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WWE 2K25 PS5",
+          "barkod": "5026555438667",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "F1 25 PS5",
+          "barkod": "5030937125380",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Onimusha Way Of The Sword Lenticular PS5",
+          "barkod": "5055060906880",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "NBA 2K27 PS5",
+          "barkod": "5026555439671",
+          "ocekivano": 30,
+          "skenirano": 0
+        },
+        {
+          "naziv": "NBA 2K27 Switch 2",
+          "barkod": "5026555073431",
+          "ocekivano": 3,
           "skenirano": 0
         }
       ]
