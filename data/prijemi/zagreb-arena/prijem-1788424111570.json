@@ -5,7 +5,7 @@
   "datum": "2026-09-03",
   "status": "aktivan",
   "kreirano": "2026-09-03T08:28:31.570Z",
-  "azurirano": "2026-09-03T09:36:42.334Z",
+  "azurirano": "2026-09-03T09:38:33.224Z",
   "dokumenti": [
     {
       "naziv": "MSI 160-144",
@@ -693,7 +693,7 @@
           "naziv": "Sat Samsung Galaxy Watch9 44mm crni",
           "barkod": "8806099326760",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 Pro crni 46mm (Atum-B49F)",
@@ -723,13 +723,13 @@
           "naziv": "Pametni sat Huawei Watch GT 5 41mm Gold Milanese Strap (Jana-B19M)",
           "barkod": "6942103131981",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
           "barkod": "6942103168154",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 plavi",
@@ -765,7 +765,7 @@
           "naziv": "Sat Samsung Galaxy Watch9 44mm srebrni",
           "barkod": "8806099326777",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy A27 5G 6GB/128GB dual SIM svjetloruzicasti",
