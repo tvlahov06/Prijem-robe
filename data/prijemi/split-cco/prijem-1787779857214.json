@@ -5,7 +5,7 @@
   "datum": "2026-09-02",
   "status": "aktivan",
   "kreirano": "2026-09-02T13:05:22.383Z",
-  "azurirano": "2026-09-02T13:05:22.383Z",
+  "azurirano": "2026-09-03T14:25:07.981Z",
   "dokumenti": [
     {
       "naziv": "Garmin",
@@ -336,83 +336,6 @@
           "naziv": "Uvijac za kosu Revlon 2U1 SALON PLUS",
           "barkod": "0761318298663",
           "ocekivano": 2,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "Tehnocentar",
-      "stavke": [
-        {
-          "naziv": "AM/FM radio DENVER TR-63 crni",
-          "barkod": "5706751076466",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "AM/FM radio DENVER TR-63 light wood",
-          "barkod": "5706751076503",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "DVB-T T2 prijemnik Synergy T-202B HEVC265 LAN crni",
-          "barkod": "3858890901917",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "DVB-T T2 prijemnik Synergy T-202H HEVC265 LAN + HDMI",
-          "barkod": "3858890902181",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "DVD player DENVER DVH-7787",
-          "barkod": "5706751041341",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Gramofon Muse MT-102 BT",
-          "barkod": "3701738900279",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Kids budilica MUSE M-16 KIDS",
-          "barkod": "3700460209834",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "MUSE DZEPNI RADIO M-025R",
-          "barkod": "3700460207656",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Radio budilica New One CR-100",
-          "barkod": "3700460200060",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Radio NEW ONE R-210",
-          "barkod": "3700460200268",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Sobna antena OFA SV9015",
-          "barkod": "8716184047244",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Sobna antena OFA SV9460 5G",
-          "barkod": "8716184074301",
-          "ocekivano": 1,
           "skenirano": 0
         }
       ]
