@@ -5,7 +5,7 @@
   "datum": "2026-09-03",
   "status": "aktivan",
   "kreirano": "2026-09-03T07:26:09.113Z",
-  "azurirano": "2026-09-03T08:33:52.103Z",
+  "azurirano": "2026-09-03T08:33:54.228Z",
   "dokumenti": [
     {
       "naziv": "MSI 5524-101",
@@ -438,7 +438,7 @@
           "naziv": "Usisavac Dyson V16 Piston Animal Submarine",
           "barkod": "5025155114841",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
