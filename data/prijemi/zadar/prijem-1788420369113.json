@@ -5,7 +5,7 @@
   "datum": "2026-09-03",
   "status": "aktivan",
   "kreirano": "2026-09-03T07:26:09.113Z",
-  "azurirano": "2026-09-03T08:31:48.584Z",
+  "azurirano": "2026-09-03T08:32:06.308Z",
   "dokumenti": [
     {
       "naziv": "MSI 5524-101",
@@ -20,13 +20,13 @@
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
           "barkod": "8806099028282",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi",
           "barkod": "8806099028114",
           "ocekivano": 5,
-          "skenirano": 2
+          "skenirano": 6
         },
         {
           "naziv": "Apple USB-C Power Adapter 20W",
@@ -80,7 +80,7 @@
           "naziv": "Mobitel Samsung Galaxy A27 5G 6GB/128GB dual SIM plavi",
           "barkod": "8806099353506",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 zeleni",
@@ -98,7 +98,7 @@
           "naziv": "Mobitel Samsung Galaxy S25 FE 5G 8GB/128GB dual SIM crni",
           "barkod": "8806097644699",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Bezicni punjac Samsung Duo za mobitel ili sat crni",
@@ -158,7 +158,7 @@
           "naziv": "Mobitel Samsung Galaxy A37 5G 8GB/256GB dual SIM sivi",
           "barkod": "8806099035181",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sat Samsung Galaxy Watch9 44mm srebrni",
@@ -188,13 +188,13 @@
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB crni",
           "barkod": "8806097827467",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM ljubicasti",
           "barkod": "8806099035341",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/256GB dual SIM tamnoplavi",
