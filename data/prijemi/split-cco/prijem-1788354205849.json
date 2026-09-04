@@ -2,10 +2,10 @@
   "id": "prijem-1788354205849",
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
-  "datum": "2026-09-03",
+  "datum": "2026-09-04",
   "status": "aktivan",
-  "kreirano": "2026-09-03T14:27:32.875Z",
-  "azurirano": "2026-09-04T14:04:21.512Z",
+  "kreirano": "2026-09-04T14:04:53.786Z",
+  "azurirano": "2026-09-04T14:04:53.786Z",
   "dokumenti": [
     {
       "naziv": "MSI 5596-101",
@@ -1329,6 +1329,272 @@
           "naziv": "Eksterni disk ADATA Ex HDD HD330, 2TB, usb3.0, plavi -CBL",
           "barkod": "4713218465504",
           "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5680-101",
+      "stavke": [
+        {
+          "naziv": "Soundbar Sony HTA7100 Bar 7",
+          "barkod": "4548736174047",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY K50S25M2PB, 126 cm (50''), Bravia 2 II, 4K EI Google TV",
+          "barkod": "4548736180383",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY K50XR35M2PB, 126 cm (50''), Bravia 3 II, 4K CEI Google TV",
+          "barkod": "4548736177963",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY KD32W800P1AEP, 81.3cm (32\"), Direct LED, HD EP SMART TV, Android TV",
+          "barkod": "4548736153448",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5683-101",
+      "stavke": [
+        {
+          "naziv": "Volan LOGITECH G G29 + mjenjac",
+          "barkod": "5099206132467",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LOGITECH G29 za PS3, PS4, PS5 i PC, igraci volan",
+          "barkod": "5099206057302",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "prezenter Logitech R500s",
+          "barkod": "5099206090828",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH MX Master 3S \"SE\" grafit",
+          "barkod": "5099206129382",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming mis LOGITECH PRO X2 SUPERSTRIKE",
+          "barkod": "5099206136199",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech Desk Mat Studio, roza",
+          "barkod": "5099206099517",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan Logitech G923 Driving force + Shifter Logitech Driving Force",
+          "barkod": "5099206124745",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M171, crni",
+          "barkod": "5099206062856",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH MX Master 4 grafit",
+          "barkod": "5099206133082",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G432, 7.1 gaming, zicane, crno-plave",
+          "barkod": "5099206082410",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Logitech bezicni prezenter R400",
+          "barkod": "5099206018112",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M190, crni",
+          "barkod": "5099206091825",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M190, sivi",
+          "barkod": "5099206091832",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G305 LIGHTSPEED, bijeli",
+          "barkod": "5099206077843",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M350s Pebble, graphite",
+          "barkod": "5099206110427",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M171, plavi",
+          "barkod": "5099206062863",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M330 Silent Plus, crni",
+          "barkod": "5099206066670",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G Pro X Superlight 2 SE",
+          "barkod": "5099206129931",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnici Logitech Z625, 2.1, THX, 400W RMS",
+          "barkod": "5099206064324",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M650 L, crni",
+          "barkod": "5099206097179",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G402 Hyperion Fury, zicani",
+          "barkod": "5099206051768",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech POP Universal, bijeli",
+          "barkod": "5099206126398",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica LOGITECH K250 graphite",
+          "barkod": "5099206130524",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M196, crni",
+          "barkod": "5099206128330",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnici Logitech Z150, 2.0, crni",
+          "barkod": "5099206048782",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech C922 Pro Stream",
+          "barkod": "5099206066977",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5684-101",
+      "stavke": [
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
+          "barkod": "6942103168185",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
+          "barkod": "6942103168154",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HUAWEI Watch GT7 plavi 41mm (Konsu-B39FB)",
+          "barkod": "6942711308706",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
+          "barkod": "6942103101359",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HUAWEI Watch GT7 crni 46mm (Atum-B39F)",
+          "barkod": "6942711308607",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds 7i Black",
+          "barkod": "6942103164781",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Olovka za tablet Huawei M-Pencil PRO (Maling-CD56) White",
+          "barkod": "6942103166501",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds 7i White",
+          "barkod": "6942103164774",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HUAWEI MatePad 11,5\" 8GB/256GB Siva (Taoxingzhi-W09FK)+tipkovnica",
+          "barkod": "6942103165740",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5685-101",
+      "stavke": [
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GO 4 crni",
+          "barkod": "1200130009433",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
+          "barkod": "1200130026294",
+          "ocekivano": 2,
           "skenirano": 0
         }
       ]
