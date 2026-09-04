@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T08:24:16.399Z",
-  "azurirano": "2026-09-04T10:59:47.799Z",
+  "azurirano": "2026-09-04T10:59:59.892Z",
   "dokumenti": [
     {
       "naziv": "MSI 5566-101",
@@ -144,7 +144,7 @@
           "naziv": "Glacalo Gorenje SIH2600BLC**",
           "barkod": "3838782404733",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Toster grill Gorenje GCG2000M",
@@ -306,7 +306,7 @@
           "naziv": "Glacalo Philips DST5030/20",
           "barkod": "8710103968160",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Philips HD9395/90",
