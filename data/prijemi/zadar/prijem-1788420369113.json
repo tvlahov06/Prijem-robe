@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T07:22:27.533Z",
-  "azurirano": "2026-09-04T07:58:50.285Z",
+  "azurirano": "2026-09-04T07:58:55.901Z",
   "dokumenti": [
     {
       "naziv": "MSI 5582-101",
@@ -143,13 +143,13 @@
           "naziv": "Aparat za kavu DeLonghi EC 685.BK Dedica Style",
           "barkod": "8004399331181",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 685.R Dedica Style",
           "barkod": "8004399331204",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Philips DST3031/20",
