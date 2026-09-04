@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:07:03.511Z",
-  "azurirano": "2026-09-04T09:59:25.896Z",
+  "azurirano": "2026-09-04T09:59:30.844Z",
   "dokumenti": [
     {
       "naziv": "MSI 5590-101",
@@ -766,7 +766,7 @@
           "naziv": "Usisavac Philips XD5123/10",
           "barkod": "8720389038334",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Philips DST8040/30",
@@ -808,7 +808,7 @@
           "naziv": "Usisavac Philips XD8152/12",
           "barkod": "8720389037955",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BCS1041PET Unlimited 10 ProAnimal, crveni",
