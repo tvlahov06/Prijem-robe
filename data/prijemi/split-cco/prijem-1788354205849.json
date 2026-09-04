@@ -5,7 +5,7 @@
   "datum": "2026-09-03",
   "status": "zavrsen",
   "kreirano": "2026-09-03T14:27:32.875Z",
-  "azurirano": "2026-09-04T06:52:05.703Z",
+  "azurirano": "2026-09-04T07:14:20.158Z",
   "dokumenti": [
     {
       "naziv": "MSI 5572-101",
@@ -1997,77 +1997,6 @@
           "naziv": "Eksterni disk ADATA Ex HDD HD330, 2TB, usb3.0, plavi -CBL",
           "barkod": "4713218465504",
           "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5622-101",
-      "stavke": [
-        {
-          "naziv": "Need for Speed Heat PS4 B24",
-          "barkod": "5035225122478",
-          "ocekivano": 15,
-          "skenirano": 0
-        },
-        {
-          "naziv": "It Takes Two PS4 D27",
-          "barkod": "5030945124696",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Star Wars Jedi: Survivor PS5 D15",
-          "barkod": "5030948124303",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "EA SPORTS WRC PS5 C30",
-          "barkod": "5030949125163",
-          "ocekivano": 6,
-          "skenirano": 0
-        },
-        {
-          "naziv": "UFC 5 PS5 F24",
-          "barkod": "5030931125263",
-          "ocekivano": 15,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Star Wars Jedi Survivor PS4",
-          "barkod": "5030949125170",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "WWE 2K25 PS5",
-          "barkod": "5026555438667",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "F1 25 PS5",
-          "barkod": "5030937125380",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Onimusha Way Of The Sword Lenticular PS5",
-          "barkod": "5055060906880",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "NBA 2K27 PS5",
-          "barkod": "5026555439671",
-          "ocekivano": 30,
-          "skenirano": 0
-        },
-        {
-          "naziv": "NBA 2K27 Switch 2",
-          "barkod": "5026555073431",
-          "ocekivano": 3,
           "skenirano": 0
         }
       ]
