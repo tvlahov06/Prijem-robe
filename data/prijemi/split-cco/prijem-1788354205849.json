@@ -5,7 +5,7 @@
   "datum": "2026-09-03",
   "status": "aktivan",
   "kreirano": "2026-09-03T14:27:32.875Z",
-  "azurirano": "2026-09-04T06:00:34.370Z",
+  "azurirano": "2026-09-04T06:00:38.011Z",
   "dokumenti": [
     {
       "naziv": "MSI 5572-101",
@@ -360,7 +360,7 @@
           "naziv": "Usisavac Philips XC3031/01",
           "barkod": "8720389049071",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pekac kruha Tefal PF611838",
