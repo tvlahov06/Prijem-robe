@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T07:22:27.533Z",
-  "azurirano": "2026-09-04T07:23:48.713Z",
+  "azurirano": "2026-09-04T07:23:59.986Z",
   "dokumenti": [
     {
       "naziv": "MSI 5582-101",
@@ -1483,13 +1483,13 @@
           "naziv": "Susilo za kosu Philips BHD272/00",
           "barkod": "8710103898108",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Philips BHD530/00",
           "barkod": "8710103977209",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips X3001/00",
