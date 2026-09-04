@@ -5,7 +5,7 @@
   "datum": "2026-09-03",
   "status": "aktivan",
   "kreirano": "2026-09-03T14:27:32.875Z",
-  "azurirano": "2026-09-04T06:03:48.970Z",
+  "azurirano": "2026-09-04T06:03:58.520Z",
   "dokumenti": [
     {
       "naziv": "MSI 5572-101",
@@ -198,7 +198,7 @@
           "naziv": "Sjeckalica Philips HR1501/00",
           "barkod": "8720389066535",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP143GF0 Mini Me 2 arctic grey",
