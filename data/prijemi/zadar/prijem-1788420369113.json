@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T07:22:27.533Z",
-  "azurirano": "2026-09-04T08:08:15.746Z",
+  "azurirano": "2026-09-04T08:08:22.783Z",
   "dokumenti": [
     {
       "naziv": "MSI 5582-101",
@@ -430,7 +430,7 @@
           "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
           "barkod": "8720389032998",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
@@ -610,7 +610,7 @@
           "naziv": "Usisavac rucni Gorenje MVC72FW",
           "barkod": "3838782040542",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za vakumiranje Gorenje VS120W",
