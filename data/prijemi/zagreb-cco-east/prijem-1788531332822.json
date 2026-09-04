@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T14:15:32.822Z",
-  "azurirano": "2026-09-04T19:19:59.324Z",
+  "azurirano": "2026-09-04T19:20:05.062Z",
   "dokumenti": [
     {
       "naziv": "MSI 5603-101",
@@ -271,7 +271,7 @@
           "naziv": "Usisavac Philips XC3133/01",
           "barkod": "8720389029868",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECAM 290.21.B Magnifica Evo",
