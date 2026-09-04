@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:03:45.057Z",
-  "azurirano": "2026-09-04T07:58:34.174Z",
+  "azurirano": "2026-09-04T07:58:38.210Z",
   "dokumenti": [
     {
       "naziv": "MSI 5561-101",
@@ -760,17 +760,6 @@
           "barkod": "4548736171497",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5641-101",
-      "stavke": [
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
-          "barkod": "1200130026294",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     }
