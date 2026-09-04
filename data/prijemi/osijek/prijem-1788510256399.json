@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T08:24:16.399Z",
-  "azurirano": "2026-09-04T10:49:55.182Z",
+  "azurirano": "2026-09-04T10:58:55.412Z",
   "dokumenti": [
     {
       "naziv": "MSI 5566-101",
@@ -132,7 +132,7 @@
           "naziv": "Glacalo Philips DST8040/30",
           "barkod": "8720389004599",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6903/22 filter za vodu 2 kom",
@@ -252,7 +252,7 @@
           "naziv": "Citruseta Gorenje CJ30E",
           "barkod": "3838782560545",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mikser stapni Philips HR2684/00",
