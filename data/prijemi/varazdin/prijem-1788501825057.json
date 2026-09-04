@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:03:45.057Z",
-  "azurirano": "2026-09-04T07:58:30.557Z",
+  "azurirano": "2026-09-04T07:58:34.174Z",
   "dokumenti": [
     {
       "naziv": "MSI 5561-101",
@@ -760,53 +760,6 @@
           "barkod": "4548736171497",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5628-101",
-      "stavke": [
-        {
-          "naziv": "Need for Speed Heat PS4 B24",
-          "barkod": "5035225122478",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Star Wars Jedi: Survivor PS5 D15",
-          "barkod": "5030948124303",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "EA SPORTS WRC PS5 C30",
-          "barkod": "5030949125163",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "UFC 5 PS5 F24",
-          "barkod": "5030931125263",
-          "ocekivano": 6,
-          "skenirano": 0
-        },
-        {
-          "naziv": "F1 25 PS5",
-          "barkod": "5030937125380",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "NBA 2K27 PS5",
-          "barkod": "5026555439671",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "NBA 2K27 Switch 2",
-          "barkod": "5026555073431",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     },
