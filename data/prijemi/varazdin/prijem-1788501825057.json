@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:03:45.057Z",
-  "azurirano": "2026-09-04T07:16:58.167Z",
+  "azurirano": "2026-09-04T07:17:01.944Z",
   "dokumenti": [
     {
       "naziv": "MSI 5561-101",
@@ -311,7 +311,7 @@
           "naziv": "Blender Philips HR3760/00",
           "barkod": "8720389013539",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Philips XU2100/25",
