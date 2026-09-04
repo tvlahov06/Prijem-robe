@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:03:45.057Z",
-  "azurirano": "2026-09-04T07:58:21.026Z",
+  "azurirano": "2026-09-04T07:58:29.536Z",
   "dokumenti": [
     {
       "naziv": "MSI 5561-101",
@@ -805,47 +805,6 @@
         {
           "naziv": "NBA 2K27 Switch 2",
           "barkod": "5026555073431",
-          "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5640-101",
-      "stavke": [
-        {
-          "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
-          "barkod": "5901292525804",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
-          "barkod": "5901292525958",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV LG 50QNED72B3B 127.0cm (50\"), QNED, 4K UHD AEU Smart TV, webOS",
-          "barkod": "8806096733790",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV PHILIPS 50PUS7001, 127.0cm (50\"), LED, UHD 4K Smart TV, Titan OS",
-          "barkod": "8718863051610",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV HISENSE 65E7S, 165.1cm (65\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351431710",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TV HISENSE 43A6S, 109.2cm (43\"), DLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351430102",
           "ocekivano": 1,
           "skenirano": 0
         }
