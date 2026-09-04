@@ -5,7 +5,7 @@
   "datum": "2026-09-03",
   "status": "aktivan",
   "kreirano": "2026-09-03T14:27:32.875Z",
-  "azurirano": "2026-09-04T06:18:31.619Z",
+  "azurirano": "2026-09-04T06:18:39.110Z",
   "dokumenti": [
     {
       "naziv": "MSI 5572-101",
@@ -641,7 +641,7 @@
           "naziv": "Parna postaja Philips PSG8200/70",
           "barkod": "8720389066511",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6903/10 filter za vodu",
