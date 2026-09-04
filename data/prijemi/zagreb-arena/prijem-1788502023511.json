@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:07:03.511Z",
-  "azurirano": "2026-09-04T09:30:01.279Z",
+  "azurirano": "2026-09-04T09:30:22.058Z",
   "dokumenti": [
     {
       "naziv": "MSI 5590-101",
@@ -754,7 +754,7 @@
           "naziv": "Aparat za kavu Philips EP4441/50 espresso",
           "barkod": "8720389031588",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9331/09",
@@ -850,7 +850,7 @@
           "naziv": "Parna postaja Philips PSG8030/20",
           "barkod": "8720389001024",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BBS931PET Unlimited 9 ProAnimal, crveni",
@@ -862,7 +862,7 @@
           "naziv": "Aparat za kavu DeLonghi ECAM 220.80.SB Magnifica Start Milk",
           "barkod": "8004399027251",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6705/10 sredstvo za ciscenje sklopa za mlijeko",
@@ -970,7 +970,7 @@
           "naziv": "Usisavac Gorenje VCE01G4AEBK",
           "barkod": "3838782951633",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Electrolux EB51C2DB",
