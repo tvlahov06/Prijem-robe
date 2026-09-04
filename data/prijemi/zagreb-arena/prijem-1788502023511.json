@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:07:03.511Z",
-  "azurirano": "2026-09-04T09:16:47.042Z",
+  "azurirano": "2026-09-04T09:16:51.885Z",
   "dokumenti": [
     {
       "naziv": "MSI 5590-101",
@@ -934,7 +934,7 @@
           "naziv": "Blender Philips HR3760/01",
           "barkod": "8720389013560",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST5030/20",
