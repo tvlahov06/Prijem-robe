@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T14:15:32.822Z",
-  "azurirano": "2026-09-04T19:36:13.444Z",
+  "azurirano": "2026-09-04T19:36:21.750Z",
   "dokumenti": [
     {
       "naziv": "MSI 5603-101",
@@ -2020,83 +2020,6 @@
         {
           "naziv": "Eksterni disk ADATA Ex HDD HD330, 1TB, usb3.2, plavi -CBL",
           "barkod": "4713218465474",
-          "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5657-101",
-      "stavke": [
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
-          "barkod": "6942103168185",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
-          "barkod": "6942103168154",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pametni sat HUAWEI Watch GT7 plavi 41mm (Konsu-B39FB)",
-          "barkod": "6942711308706",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
-          "barkod": "6942103101359",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pametni sat HUAWEI Watch GT7 crni 46mm (Atum-B39F)",
-          "barkod": "6942711308607",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds 7i Black",
-          "barkod": "6942103164781",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE4 ANC crne (Fuji-T010)",
-          "barkod": "6942103165450",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Olovka za tablet Huawei M-Pencil PRO (Maling-CD56) White",
-          "barkod": "6942103166501",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds 7i White",
-          "barkod": "6942103164774",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Pro Titanium 46mm (Atum-B29M)",
-          "barkod": "6942103168192",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT 5 46mm Black (Vili-B19F)",
-          "barkod": "6942103132001",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch Fit 3 crni (Solo-B09S)",
-          "barkod": "6942103118517",
           "ocekivano": 1,
           "skenirano": 0
         }
