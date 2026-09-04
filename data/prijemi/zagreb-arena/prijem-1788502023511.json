@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:07:03.511Z",
-  "azurirano": "2026-09-04T07:38:09.069Z",
+  "azurirano": "2026-09-04T07:38:44.140Z",
   "dokumenti": [
     {
       "naziv": "MSI 5590-101",
@@ -438,7 +438,7 @@
           "naziv": "Mikser stapni Philips HR2685/00",
           "barkod": "8720389033933",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Philips HR2191/01",
