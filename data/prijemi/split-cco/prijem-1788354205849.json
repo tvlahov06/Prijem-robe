@@ -5,7 +5,7 @@
   "datum": "2026-09-03",
   "status": "aktivan",
   "kreirano": "2026-09-03T14:27:32.875Z",
-  "azurirano": "2026-09-04T06:19:11.392Z",
+  "azurirano": "2026-09-04T06:19:20.113Z",
   "dokumenti": [
     {
       "naziv": "MSI 5572-101",
@@ -539,7 +539,7 @@
           "naziv": "Parna postaja Philips PSG8300/20",
           "barkod": "8720389066498",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
