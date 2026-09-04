@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T07:22:27.533Z",
-  "azurirano": "2026-09-04T07:23:37.286Z",
+  "azurirano": "2026-09-04T07:23:48.713Z",
   "dokumenti": [
     {
       "naziv": "MSI 5582-101",
@@ -1399,7 +1399,7 @@
           "naziv": "Brijaci aparat Philips S7885/50",
           "barkod": "8720689009041",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP430/50 nastavci 360",
@@ -1519,7 +1519,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/84 DiamondClean, Pink",
           "barkod": "8720689000963",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9911/88 DiamondClean, Blue",
