@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T07:22:27.533Z",
-  "azurirano": "2026-09-04T08:06:38.712Z",
+  "azurirano": "2026-09-04T08:06:44.077Z",
   "dokumenti": [
     {
       "naziv": "MSI 5582-101",
@@ -628,7 +628,7 @@
           "naziv": "Osvjezivac odjece Philips STH5020/40",
           "barkod": "8720389050084",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI White S C30-EUWHNE2-S",
@@ -640,7 +640,7 @@
           "naziv": "Aparat za kavu Philips oprema CA6903/10 filter za vodu",
           "barkod": "8720389000508",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Toster preklopni Tefal SM157236",
