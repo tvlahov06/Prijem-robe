@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:07:03.511Z",
-  "azurirano": "2026-09-04T08:25:36.932Z",
+  "azurirano": "2026-09-04T08:26:33.023Z",
   "dokumenti": [
     {
       "naziv": "MSI 5590-101",
@@ -254,7 +254,7 @@
           "naziv": "Usisavac Philips FC9747/09",
           "barkod": "8710103977957",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Gorenje K15DWW",
