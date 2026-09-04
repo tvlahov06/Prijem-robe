@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T14:15:32.822Z",
-  "azurirano": "2026-09-04T19:07:51.428Z",
+  "azurirano": "2026-09-04T19:07:56.341Z",
   "dokumenti": [
     {
       "naziv": "MSI 5603-101",
@@ -860,7 +860,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6054/87 Sensitive Standard 4/1",
           "barkod": "8720689036870",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6032/90 djecja Soft 3+ 2/1",
@@ -884,7 +884,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/88 Optimal White 4/1 black",
           "barkod": "8720689035064",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips XP9204/30",
