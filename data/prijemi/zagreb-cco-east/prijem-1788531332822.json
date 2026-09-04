@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T14:15:32.822Z",
-  "azurirano": "2026-09-04T19:17:02.426Z",
+  "azurirano": "2026-09-04T19:17:10.840Z",
   "dokumenti": [
     {
       "naziv": "MSI 5603-101",
@@ -139,7 +139,7 @@
           "naziv": "Parna postaja Philips PSG8030/20",
           "barkod": "8720389001024",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 890.M Dedica Duo",
@@ -259,7 +259,7 @@
           "naziv": "Usisavac Rowenta RO3985EA",
           "barkod": "3221614001154",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Bosch TWK2M164, MyMoment, crveno",
