@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T07:22:27.533Z",
-  "azurirano": "2026-09-04T07:26:12.095Z",
+  "azurirano": "2026-09-04T07:26:19.831Z",
   "dokumenti": [
     {
       "naziv": "MSI 5582-101",
@@ -1327,7 +1327,7 @@
           "naziv": "Tus za zube Philips Sonicare HX3826/31 Power Flosser Cordless white",
           "barkod": "8720689011037",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac za glavu Philips HS5980/15",
@@ -1405,7 +1405,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP430/50 nastavci 360",
           "barkod": "8710103997177",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
@@ -1441,7 +1441,7 @@
           "naziv": "Epilator Philips BRE708/00",
           "barkod": "8720689032704",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "IPL depilator Philips BRI945/00 Lumea",
@@ -1459,7 +1459,7 @@
           "naziv": "Susilo za kosu Philips BHC010/10 putno",
           "barkod": "8710103887119",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Susilo za kosu Rowenta HY8310F0",
