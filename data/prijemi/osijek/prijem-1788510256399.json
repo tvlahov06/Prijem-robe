@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T08:24:16.399Z",
-  "azurirano": "2026-09-04T09:00:46.717Z",
+  "azurirano": "2026-09-04T09:01:48.073Z",
   "dokumenti": [
     {
       "naziv": "MSI 5566-101",
@@ -611,7 +611,7 @@
           "naziv": "Aparat za kavu Philips oprema CA6903/10 filter za vodu",
           "barkod": "8720389000508",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Philips HD2350/80 preklopni",
@@ -653,7 +653,7 @@
           "naziv": "Aparat za kavu Philips oprema CA6704/10 tablete za uklanjanje ulja od kave",
           "barkod": "8720389000430",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
