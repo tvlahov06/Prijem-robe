@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:07:03.511Z",
-  "azurirano": "2026-09-04T07:21:54.988Z",
+  "azurirano": "2026-09-04T07:23:09.730Z",
   "dokumenti": [
     {
       "naziv": "MSI 5590-101",
@@ -1071,7 +1071,7 @@
           "naziv": "Toster Russell Hobbs 28650-56 Hanley Jasmine",
           "barkod": "5038061179378",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips oprema HD9960/00 Airfryer dodatak - kuhanje na pari",
@@ -1191,7 +1191,7 @@
           "naziv": "Kuhalo za vodu Russell Hobbs 28641-70 Hanley Blue",
           "barkod": "5038061179507",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Blender Nutribullet NB907R 900W",
