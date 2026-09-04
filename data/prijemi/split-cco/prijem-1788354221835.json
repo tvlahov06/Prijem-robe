@@ -5,7 +5,7 @@
   "datum": "2026-09-02",
   "status": "aktivan",
   "kreirano": "2026-09-02T13:03:41.835Z",
-  "azurirano": "2026-09-04T06:35:15.765Z",
+  "azurirano": "2026-09-04T06:35:27.998Z",
   "dokumenti": [
     {
       "naziv": "MSI 173-151",
@@ -182,7 +182,7 @@
           "naziv": "Blender Philips HR2767/00",
           "barkod": "8720389032547",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Gorenje VCE01G2AW",
