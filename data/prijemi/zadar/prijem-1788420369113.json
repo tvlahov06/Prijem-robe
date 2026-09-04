@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T07:22:27.533Z",
-  "azurirano": "2026-09-04T07:26:24.291Z",
+  "azurirano": "2026-09-04T07:26:27.449Z",
   "dokumenti": [
     {
       "naziv": "MSI 5582-101",
@@ -1405,7 +1405,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP430/50 nastavci 360",
           "barkod": "8710103997177",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
@@ -1435,7 +1435,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9094/88 Premium All-In-One Black 4/1",
           "barkod": "8720689037396",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epilator Philips BRE708/00",
