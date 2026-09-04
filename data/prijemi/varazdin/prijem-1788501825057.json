@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:03:45.057Z",
-  "azurirano": "2026-09-04T07:22:13.305Z",
+  "azurirano": "2026-09-04T07:22:16.722Z",
   "dokumenti": [
     {
       "naziv": "MSI 5561-101",
@@ -699,7 +699,7 @@
           "naziv": "Apple AirPods 4 (USB-C)",
           "barkod": "195949688591",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DVB-T2/T prijemnik E-STAR",
