@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T08:24:16.399Z",
-  "azurirano": "2026-09-04T11:05:10.265Z",
+  "azurirano": "2026-09-04T11:06:43.787Z",
   "dokumenti": [
     {
       "naziv": "MSI 5566-101",
@@ -330,7 +330,7 @@
           "naziv": "Parna postaja Philips PSG8300/80",
           "barkod": "8720389066504",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vrecice za usisavac Bosch BBZWD4BAG",
