@@ -5,7 +5,7 @@
   "datum": "2026-09-03",
   "status": "aktivan",
   "kreirano": "2026-09-03T14:27:32.875Z",
-  "azurirano": "2026-09-04T06:04:09.867Z",
+  "azurirano": "2026-09-04T06:04:18.751Z",
   "dokumenti": [
     {
       "naziv": "MSI 5572-101",
@@ -300,7 +300,7 @@
           "naziv": "Blender Philips HR3760/01",
           "barkod": "8720389013560",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Philips HD9395/90",
