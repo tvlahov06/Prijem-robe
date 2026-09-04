@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:07:03.511Z",
-  "azurirano": "2026-09-04T09:16:51.885Z",
+  "azurirano": "2026-09-04T09:16:57.897Z",
   "dokumenti": [
     {
       "naziv": "MSI 5590-101",
@@ -952,7 +952,7 @@
           "naziv": "Usisavac robot Philips XU2100/25",
           "barkod": "8720389064999",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Philips HR2685/00",
