@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T07:22:27.533Z",
-  "azurirano": "2026-09-04T07:29:06.834Z",
+  "azurirano": "2026-09-04T07:29:56.873Z",
   "dokumenti": [
     {
       "naziv": "MSI 5582-101",
@@ -544,7 +544,7 @@
           "naziv": "Aparat za kavu Krups KP243B10 Genio S anthracite PF",
           "barkod": "3045380024335",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Tefal DT2022E1 Pure Pop coral",
@@ -580,7 +580,7 @@
           "naziv": "Citruseta Tefal ZP300138",
           "barkod": "3045386370474",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Komplet za odrzavanje aparata Krups XS530010",
@@ -604,7 +604,7 @@
           "naziv": "Kuhalo za vodu Gorenje K15DWW",
           "barkod": "3838782473739",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Usisavac rucni Gorenje MVC72FW",
@@ -652,7 +652,7 @@
           "naziv": "Toster Philips HD2350/80 preklopni",
           "barkod": "8720389032813",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 685.M Dedica Style",
