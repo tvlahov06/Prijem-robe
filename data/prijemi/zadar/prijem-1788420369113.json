@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T07:22:27.533Z",
-  "azurirano": "2026-09-04T08:09:29.862Z",
+  "azurirano": "2026-09-04T08:09:40.121Z",
   "dokumenti": [
     {
       "naziv": "MSI 5582-101",
@@ -568,7 +568,7 @@
           "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5011F0",
           "barkod": "3121040091609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za vakumiranje Tefal VT254070",
