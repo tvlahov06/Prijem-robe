@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:07:03.511Z",
-  "azurirano": "2026-09-04T09:29:41.392Z",
+  "azurirano": "2026-09-04T09:30:01.279Z",
   "dokumenti": [
     {
       "naziv": "MSI 5590-101",
@@ -838,7 +838,7 @@
           "naziv": "Aparat za kavu Krups KP143GF0 Mini Me 2 arctic grey",
           "barkod": "3045380404137",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG7300/80",
@@ -910,7 +910,7 @@
           "naziv": "Aparat za kavu Krups KP143BF0 Mini Me 2 cosmic grey",
           "barkod": "3045380404151",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips PSA3228/01 espresso Barista Brew",
