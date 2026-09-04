@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T07:22:27.533Z",
-  "azurirano": "2026-09-04T07:26:58.831Z",
+  "azurirano": "2026-09-04T07:27:08.999Z",
   "dokumenti": [
     {
       "naziv": "MSI 5582-101",
@@ -1363,7 +1363,7 @@
           "naziv": "Uvijac za kosu Philips BHB968/00 WavePro Styler SenseIQ",
           "barkod": "8720689025485",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/87 Premium Plaque Defence Standard 2/1 White",
@@ -1393,7 +1393,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9092/87 Premium All-In-One White 2/1",
           "barkod": "8720689036733",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Brijaci aparat Philips S7885/50",
@@ -1495,7 +1495,7 @@
           "naziv": "Brijaci aparat Philips X3001/00",
           "barkod": "8720689018920",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu Philips HC7650/15",
