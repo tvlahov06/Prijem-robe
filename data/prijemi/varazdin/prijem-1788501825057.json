@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T06:03:45.057Z",
-  "azurirano": "2026-09-04T07:30:11.095Z",
+  "azurirano": "2026-09-04T07:30:18.646Z",
   "dokumenti": [
     {
       "naziv": "MSI 5561-101",
@@ -137,7 +137,7 @@
           "naziv": "Aparat za kavu Philips EP4441/50 espresso",
           "barkod": "8720389031588",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6707/10 komplet za odrzavanje",
@@ -359,7 +359,7 @@
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
           "barkod": "8720389030307",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Bosch TAT2M124, MyMoment, crveni",
