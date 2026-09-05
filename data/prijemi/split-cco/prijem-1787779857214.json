@@ -2,10 +2,10 @@
   "id": "prijem-1787779857214",
   "poslovnica": "split-cco",
   "naziv": "Komisija u dolasku",
-  "datum": "2026-09-02",
-  "status": "zavrsen",
-  "kreirano": "2026-09-02T13:05:22.383Z",
-  "azurirano": "2026-09-04T07:43:54.937Z",
+  "datum": "2026-09-05",
+  "status": "aktivan",
+  "kreirano": "2026-09-05T13:57:53.623Z",
+  "azurirano": "2026-09-05T13:57:53.623Z",
   "dokumenti": [
     {
       "naziv": "Garmin",
@@ -184,7 +184,394 @@
           "skenirano": 0
         }
       ]
+    },
+    {
+      "naziv": "BigPartner_JBL",
+      "stavke": [
+        {
+          "naziv": "Slusalice bezicne JBL ENDURANCE RUN 3 bijele",
+          "barkod": "1200130027390",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne JBL WAVE BEAM 2 bijela",
+          "barkod": "1200130015267",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth bezicne JBL TUNE 780NC crne",
+          "barkod": "1200130030482",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice JBL ENDURANCE ZONE crno sive",
+          "barkod": "1200130027581",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice JBL TUNE 110E bijele",
+          "barkod": "1200130022739",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice zicane JBL TUNE 530C USB-C bijele",
+          "barkod": "1200130030062",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice zicane JBL TUNE 530C USB-C crne",
+          "barkod": "1200130030055",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 bijeli",
+          "barkod": "1200130019586",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CLIP 5 crni",
+          "barkod": "1200130010170",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 bijeli",
+          "barkod": "1200130019302",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 maskirni",
+          "barkod": "1200130019340",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 rozi",
+          "barkod": "1200130019326",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GRIP bijeli",
+          "barkod": "1200130024870",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GRIP crni",
+          "barkod": "1200130024849",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GRIP ljubicasti",
+          "barkod": "1200130024887",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GRIP rozi",
+          "barkod": "1200130025761",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 130 crni",
+          "barkod": "1200130035135",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 520 crni",
+          "barkod": "1200130021961",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Logista",
+      "stavke": [
+        {
+          "naziv": "ANKER GaN Prime punjac, 100W, 2xUSB-C/1xUSB-A, sivi",
+          "barkod": "0194644199746",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER GaN Prime stolni punjac 200W, 4xUSB-C/2xUSB-A, crni",
+          "barkod": "0194644041007",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni crni",
+          "barkod": "0194644125806",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER kucni punjac 33W, 1xUSB-C/1xUSB-A, bijeli",
+          "barkod": "0194644115524",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER MAG GO Prijenosna baterija 10.000, 15W, bijeli",
+          "barkod": "0194644173371",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER MAG GO Prijenosna baterija 10.000, 15W, crni",
+          "barkod": "0194644173388",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Prijenosna baterija 20.000, 87W, crni",
+          "barkod": "194644197469",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER USB Hub A83800A1, USB-C/8u1",
+          "barkod": "0194644022136",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUTO DRZAC BIG CRAB DUAL FIX",
+          "barkod": "8018080120411",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
+          "barkod": "8018080373633",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE C TO C 300 CM",
+          "barkod": "8018080373664",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KP USB-C I KABEL C-C 45W",
+          "barkod": "8018080438240",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC IPHONE USB-C I KABEL C TO LIGHTNING 20W",
+          "barkod": "8018080398476",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC MULTIPOWER MICRO 45W DUAL USB-C/USB-A",
+          "barkod": "8018080444715",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
+          "barkod": "8018080367199",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PODATKOVNI KABEL MFI 120 CM",
+          "barkod": "8018080175466",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
+          "barkod": "8018080270420",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 20.000 BLACK",
+          "barkod": "8018080484612",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 20.000 BLUE",
+          "barkod": "8018080484629",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GM GAMEPAD MOBILE,WLESS,MYLOX,GXT735",
+          "barkod": "8713439254853",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GM POSTOLJE ZA HLADENJE PR.RACUNALA DO 17.3'' YOZU GXT278",
+          "barkod": "8713439208177",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 2m",
+          "barkod": "766623394963",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN USB 3.2 Type-A to Type-C, 1m",
+          "barkod": "766623394888",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN USB 3.2 Type-C to Type-C, 100W, 1m",
+          "barkod": "766623394901",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN USB 3.2 Type-C to Type-C, 60W, 1m",
+          "barkod": "766623394918",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac ANKER GaN 2x USB-C/USB-A + USB-C Kabel",
+          "barkod": "0194644291754",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac CELLULARLINE GaN+ USB-C 100W",
+          "barkod": "8018080513930",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MANHATTAN CITAC SMART CARD SIM",
+          "barkod": "766623102025",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis bezicni Trust Helox GXT929W bijeli",
+          "barkod": "8713439253900",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Trust Helox GXT928W bijeli",
+          "barkod": "8713439253894",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mrezni Punjac CELLULARLINE GaN+ 100W 2x USB-C/USB-A",
+          "barkod": "8018080514326",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac ANKER 511 CHARGER NANO 3, 30W: BIJELA-PUNJAC",
+          "barkod": "0194644103538",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Trust Zirox GXT416S",
+          "barkod": "8713439254235",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica i mis Trust ODY II Wireless",
+          "barkod": "8713439253665",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torba za laptop Trust Bologna16\" crna",
+          "barkod": "8713439244472",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torba za laptop Trust Bologna16\" crvena",
+          "barkod": "8713439244496",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST GAMING SLUSALICE ZA PS4 FORZE BLUE GXT488",
+          "barkod": "8713439235326",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST GAMING SLUSALICE,ZIROX,BLUE,GXT415",
+          "barkod": "8713439249910",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Trust gaming tipkovnica US, TKL, THADO, GXT83, crna",
+          "barkod": "8713439258868",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST GM GAMEPAD WLESS MUTA GXT542",
+          "barkod": "8713439247909",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC ADAPTER USB-C/4x USB-A,HALYX",
+          "barkod": "8713439249484",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLUE",
+          "barkod": "8713439250411",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC USB 3.2 CITAC KARTICA BRZI",
+          "barkod": "8713439241358",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PRIJENOSNA BATERIJA PRIMO 20000 Black",
+          "barkod": "8713439246766",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB-C na USB-C Kabel CELLULARLINE GaN+ 240W 120 cm Black",
+          "barkod": "8018080513725",
+          "ocekivano": 5,
+          "skenirano": 0
+        }
+      ]
     }
-  ],
-  "zavrseno": "2026-09-04T05:49:07.763Z"
+  ]
 }
