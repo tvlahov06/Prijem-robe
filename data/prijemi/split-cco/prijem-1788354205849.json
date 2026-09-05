@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T14:04:53.786Z",
-  "azurirano": "2026-09-05T06:03:52.989Z",
+  "azurirano": "2026-09-05T06:04:09.638Z",
   "dokumenti": [
     {
       "naziv": "MSI 5596-101",
@@ -574,7 +574,7 @@
           "naziv": "Brijaci aparat Philips S7886/58",
           "barkod": "8720689010931",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Remington D5706 Curl&Straight",
@@ -604,7 +604,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP420/50 nastavci 360",
           "barkod": "8710103997153",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips S5885/35",
@@ -766,7 +766,7 @@
           "naziv": "Brijaci aparat Philips nastavak SH50/50 zamjenske glave",
           "barkod": "8710103736691",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7420/01 Sonicare Series 7100 White",
