@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T14:04:53.786Z",
-  "azurirano": "2026-09-05T06:13:18.385Z",
+  "azurirano": "2026-09-05T06:13:22.649Z",
   "dokumenti": [
     {
       "naziv": "MSI 5596-101",
@@ -1017,7 +1017,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston DT Exodia G2, 64GB, USB3.2 Gen1",
@@ -1203,7 +1203,7 @@
           "naziv": "USB stick Samsung 512GB Pendrive BAR Plus champaign PC srebrni MUF-512BE3/APC",
           "barkod": "8806095379692",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica HyperX Origins 2 1800",
