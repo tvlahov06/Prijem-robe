@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T14:04:53.786Z",
-  "azurirano": "2026-09-05T06:31:11.548Z",
+  "azurirano": "2026-09-05T06:31:21.153Z",
   "dokumenti": [
     {
       "naziv": "MSI 5596-101",
@@ -503,7 +503,7 @@
           "naziv": "Brijaci aparat Philips oprema CC12/50 komplet kapsula",
           "barkod": "8710103944652",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD272/00",
