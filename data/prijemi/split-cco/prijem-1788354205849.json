@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T14:04:53.786Z",
-  "azurirano": "2026-09-05T06:09:55.815Z",
+  "azurirano": "2026-09-05T06:10:00.523Z",
   "dokumenti": [
     {
       "naziv": "MSI 5596-101",
@@ -1197,7 +1197,7 @@
           "naziv": "Eksterni disk WD Elements Portable 5TB",
           "barkod": "718037871899",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick Samsung 512GB Pendrive BAR Plus champaign PC srebrni MUF-512BE3/APC",
@@ -1227,7 +1227,7 @@
           "naziv": "Eksterni disk WD My Passport 1TB, Black, USB 3.2",
           "barkod": "718037869469",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Torba Lenovo Topload 16'' ECO, 4X41C12469",
@@ -1269,7 +1269,7 @@
           "naziv": "Eksterni disk WD My Passport 5TB, Black, USB 3.2 K-WESN",
           "barkod": "718037868448",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TORBA SBOX NSS-88123 HONG KONG 17,3\"",
