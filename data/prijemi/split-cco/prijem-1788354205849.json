@@ -5,7 +5,7 @@
   "datum": "2026-09-04",
   "status": "aktivan",
   "kreirano": "2026-09-04T14:04:53.786Z",
-  "azurirano": "2026-09-05T06:11:23.156Z",
+  "azurirano": "2026-09-05T06:11:30.012Z",
   "dokumenti": [
     {
       "naziv": "MSI 5596-101",
@@ -1137,7 +1137,7 @@
           "naziv": "Ruksak za laptope do 16\"ASUS AP1602",
           "barkod": "4711387815083",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
