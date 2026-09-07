@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T10:51:06.315Z",
-  "azurirano": "2026-09-07T16:33:35.570Z",
+  "azurirano": "2026-09-07T16:33:43.850Z",
   "dokumenti": [
     {
       "naziv": "MSI 5599-101",
@@ -1039,7 +1039,7 @@
           "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
           "barkod": "740617347944",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
@@ -1231,7 +1231,7 @@
           "naziv": "USB Hub ACER HP.DSCAB.022, Srebrna",
           "barkod": "4712842946779",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Podloga za mis HyperX Pulsefire XL HMPM1-XL",
