@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T13:16:59.629Z",
-  "azurirano": "2026-09-07T19:26:00.129Z",
+  "azurirano": "2026-09-07T19:26:03.160Z",
   "dokumenti": [
     {
       "naziv": "MSI 5652-101",
@@ -391,7 +391,7 @@
           "naziv": "Mis Logitech B100, zicani",
           "barkod": "5099206041271",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK120, zicana, crna",
