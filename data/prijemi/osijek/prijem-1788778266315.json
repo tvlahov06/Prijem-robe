@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T10:51:06.315Z",
-  "azurirano": "2026-09-07T14:39:03.286Z",
+  "azurirano": "2026-09-07T14:39:08.893Z",
   "dokumenti": [
     {
       "naziv": "MSI 5599-101",
@@ -122,7 +122,7 @@
           "naziv": "DVB-T2/T prijemnik E-STAR",
           "barkod": "5292618761540",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "H-200 TV nosac BOF TVM H-200",
