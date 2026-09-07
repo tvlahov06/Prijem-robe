@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T06:13:03.332Z",
-  "azurirano": "2026-09-07T06:36:09.135Z",
+  "azurirano": "2026-09-07T06:36:14.031Z",
   "dokumenti": [
     {
       "naziv": "logista 07092026",
@@ -38,7 +38,7 @@
           "naziv": "Auto Punjac PLOOS, 2A, 1xUSB-A, USB-C Kabel 100cm, Crni",
           "barkod": "8018080367328",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Auto Punjac PLOOS, USB-A, USB-C, 15W, Crni",
@@ -260,7 +260,7 @@
           "naziv": "Kucni Punjac PLOOS, 20W, 1xUSB-C, Kabel USB-C na MFI, Crni",
           "barkod": "8018080399503",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, book essential",
