@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T10:51:06.315Z",
-  "azurirano": "2026-09-07T15:45:20.197Z",
+  "azurirano": "2026-09-07T15:45:32.738Z",
   "dokumenti": [
     {
       "naziv": "MSI 5599-101",
@@ -360,7 +360,7 @@
           "naziv": "IPL depilator Philips BRI947/00 Lumea",
           "barkod": "8720689016438",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijaci - vikleri za kosu Remington H5600 Ionic",
@@ -432,7 +432,7 @@
           "naziv": "Susilo za kosu Philips BHD272/00",
           "barkod": "8710103898108",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips X3001/00",
