@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T13:16:59.629Z",
-  "azurirano": "2026-09-07T19:33:35.221Z",
+  "azurirano": "2026-09-07T19:33:40.707Z",
   "dokumenti": [
     {
       "naziv": "MSI 5652-101",
@@ -534,7 +534,7 @@
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
           "barkod": "4897098683446",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-031 REVENGE 750x350 Crna",
@@ -660,7 +660,7 @@
           "naziv": "TP-Link Archer T3U adapter, AC1300 WLAN USB",
           "barkod": "6935364083830",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link RE450 bezicni pojacivac dometa, Dual Band GHz/5GHz, 10/100/1000 LAN prikljucak",
