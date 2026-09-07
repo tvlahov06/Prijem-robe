@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T10:51:06.315Z",
-  "azurirano": "2026-09-07T15:45:00.718Z",
+  "azurirano": "2026-09-07T15:45:05.259Z",
   "dokumenti": [
     {
       "naziv": "MSI 5599-101",
@@ -306,13 +306,13 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9092/88 Premium All-In-One Black 2/1",
           "barkod": "8720689036740",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9094/87 Premium All-In-One White 4/1",
           "barkod": "8720689037389",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9092/87 Premium All-In-One White 2/1",
