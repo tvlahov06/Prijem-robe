@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T06:13:03.332Z",
-  "azurirano": "2026-09-07T06:31:41.235Z",
+  "azurirano": "2026-09-07T06:32:00.483Z",
   "dokumenti": [
     {
       "naziv": "logista 07092026",
@@ -110,19 +110,19 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC APPLE USB-C 30W",
           "barkod": "8018080433559",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 15W BLACK",
           "barkod": "8018080434730",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 25W",
           "barkod": "8018080367182",
           "ocekivano": 10,
-          "skenirano": 1
+          "skenirano": 10
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 15W BLACK",
