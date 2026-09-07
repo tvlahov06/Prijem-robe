@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T07:44:44.484Z",
-  "azurirano": "2026-09-07T09:41:06.067Z",
+  "azurirano": "2026-09-07T09:41:13.430Z",
   "dokumenti": [
     {
       "naziv": "MSI 5681-101",
@@ -1326,7 +1326,7 @@
           "naziv": "Eksterni disk WD Elements Portable 5TB",
           "barkod": "718037871899",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick Samsung 512GB Pendrive BAR Plus champaign PC srebrni MUF-512BE3/APC",
