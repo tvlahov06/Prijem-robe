@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T07:44:44.484Z",
-  "azurirano": "2026-09-07T09:30:17.231Z",
+  "azurirano": "2026-09-07T09:30:21.250Z",
   "dokumenti": [
     {
       "naziv": "MSI 5681-101",
@@ -973,13 +973,13 @@
           "naziv": "H-100 TV nosac BOF TVM H-100",
           "barkod": "2010030072609",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
           "barkod": "6942103101359",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Slusalice Huawei FreeBuds SE4 ANC crne (Fuji-T010)",
