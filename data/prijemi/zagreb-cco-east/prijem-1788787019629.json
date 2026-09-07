@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T13:16:59.629Z",
-  "azurirano": "2026-09-07T19:33:55.134Z",
+  "azurirano": "2026-09-07T19:34:02.587Z",
   "dokumenti": [
     {
       "naziv": "MSI 5652-101",
@@ -654,7 +654,7 @@
           "naziv": "White Shark TIPKOVNICA GK-001214 GLADIUS / HR",
           "barkod": "3858894503605",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link Archer T3U adapter, AC1300 WLAN USB",
