@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T10:51:06.315Z",
-  "azurirano": "2026-09-07T15:47:05.837Z",
+  "azurirano": "2026-09-07T15:47:10.856Z",
   "dokumenti": [
     {
       "naziv": "MSI 5599-101",
@@ -390,7 +390,7 @@
           "naziv": "Epilator Philips BRE708/00",
           "barkod": "8720689032704",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips BRI945/00 Lumea",
