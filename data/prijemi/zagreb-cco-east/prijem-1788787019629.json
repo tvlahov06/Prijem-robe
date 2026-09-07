@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T13:16:59.629Z",
-  "azurirano": "2026-09-07T19:45:18.769Z",
+  "azurirano": "2026-09-07T19:45:30.277Z",
   "dokumenti": [
     {
       "naziv": "MSI 5652-101",
@@ -158,7 +158,7 @@
           "naziv": "Usisavac Philips FC9550/09",
           "barkod": "8710103860105",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA342/00 Airfryer",
