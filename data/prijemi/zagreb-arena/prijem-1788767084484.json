@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T07:44:44.484Z",
-  "azurirano": "2026-09-07T09:26:06.581Z",
+  "azurirano": "2026-09-07T09:26:16.531Z",
   "dokumenti": [
     {
       "naziv": "MSI 5681-101",
@@ -1230,7 +1230,7 @@
           "naziv": "HDD WD Elements Portable 4TB, USB 3.0",
           "barkod": "718037855981",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk WD My Passport 4TB, Black, USB 3.2 K-WESN",
@@ -1344,7 +1344,7 @@
           "naziv": "HDD WD Elements Portable 2TB, USB 3.0",
           "barkod": "718037855363",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "WALKER XL White Shark PODLOGA ZA MIS GMP-1899 SKYWALKER 80x35cm",
