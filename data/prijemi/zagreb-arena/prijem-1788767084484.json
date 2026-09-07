@@ -5,7 +5,7 @@
   "datum": "2026-09-07",
   "status": "aktivan",
   "kreirano": "2026-09-07T07:44:44.484Z",
-  "azurirano": "2026-09-07T08:44:29.215Z",
+  "azurirano": "2026-09-07T08:44:34.518Z",
   "dokumenti": [
     {
       "naziv": "MSI 5681-101",
@@ -807,7 +807,7 @@
           "naziv": "Susilo za kosu Philips BHC010/10 putno",
           "barkod": "8710103887119",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Rowenta HY8310F0",
