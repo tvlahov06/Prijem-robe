@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-08T09:47:50.431Z",
+  "azurirano": "2026-09-08T09:47:55.046Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -532,7 +532,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
@@ -652,7 +652,7 @@
           "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
           "barkod": "740617305371",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick Samsung 256GB FIT Plus crni MUF-256AB/APC",
