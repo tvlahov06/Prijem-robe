@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-08T13:00:14.394Z",
+  "azurirano": "2026-09-08T13:00:25.624Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -1493,7 +1493,7 @@
           "naziv": "Brijaci aparat Philips X3001/00",
           "barkod": "8720689018920",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za kosu Philips HC7650/15",
@@ -1505,7 +1505,7 @@
           "naziv": "Sisac za kosu/bradu Philips HC5650/15",
           "barkod": "8710103897866",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Remington D5901 Coconut",
@@ -1535,7 +1535,7 @@
           "naziv": "Brijac za glavu Remington XR1600",
           "barkod": "5038061144017",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips S7886/58",
