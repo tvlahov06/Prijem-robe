@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T06:20:36.241Z",
-  "azurirano": "2026-09-08T07:20:51.364Z",
+  "azurirano": "2026-09-08T07:20:58.300Z",
   "dokumenti": [
     {
       "naziv": "MSI 5697-101",
@@ -91,7 +91,7 @@
           "naziv": "Brijaci aparat Philips nastavak SH71/50 zamjenske glave",
           "barkod": "8710103944119",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP420/50 nastavci 360",
@@ -313,7 +313,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP235/50 nastavci lice",
           "barkod": "8720689045612",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za bradu Philips BT7670/15",
