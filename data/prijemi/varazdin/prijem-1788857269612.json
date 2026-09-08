@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T08:47:49.612Z",
-  "azurirano": "2026-09-08T08:57:26.141Z",
+  "azurirano": "2026-09-08T08:57:31.124Z",
   "dokumenti": [
     {
       "naziv": "MSI 5651-101",
@@ -622,7 +622,7 @@
           "naziv": "Perilica rublja HISENSE WF3S9045BW1",
           "barkod": "6901101834591",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja BOSCH WAN2826SBY",
@@ -634,7 +634,7 @@
           "naziv": "Perilica rublja LG F4WR509SWW",
           "barkod": "8806084140234",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja LG F2WR509SBW slim",
