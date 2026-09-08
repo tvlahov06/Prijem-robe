@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T08:47:49.612Z",
-  "azurirano": "2026-09-08T09:48:42.789Z",
+  "azurirano": "2026-09-08T09:48:46.635Z",
   "dokumenti": [
     {
       "naziv": "MSI 5651-101",
@@ -687,7 +687,7 @@
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
           "barkod": "4897098683446",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PODLOGA ZA MIS SBOX MP-03 30x25 Crna",
