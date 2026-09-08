@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T06:20:36.241Z",
-  "azurirano": "2026-09-08T08:33:02.020Z",
+  "azurirano": "2026-09-08T08:47:50.610Z",
   "dokumenti": [
     {
       "naziv": "MSI 5645-101",
@@ -80,71 +80,6 @@
           "barkod": "4548736180420",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5676-101",
-      "stavke": [
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
-          "barkod": "6942103168185",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
-          "barkod": "6942103168154",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pametni sat HUAWEI Watch GT7 plavi 41mm (Konsu-B39FB)",
-          "barkod": "6942711308706",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Pametni sat HUAWEI Watch GT7 crni 46mm (Atum-B39F)",
-          "barkod": "6942711308607",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds 7i Black",
-          "barkod": "6942103164781",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE4 ANC crne (Fuji-T010)",
-          "barkod": "6942103165450",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Olovka za tablet Huawei M-Pencil PRO (Maling-CD56) White",
-          "barkod": "6942103166501",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds 7i White",
-          "barkod": "6942103164774",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Pro Titanium 46mm (Atum-B29M)",
-          "barkod": "6942103168192",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT 5 41mm White Leather Strap (Jana-B19L)",
-          "barkod": "6942103131967",
-          "ocekivano": 3,
-          "skenirano": 3
         }
       ]
     },
