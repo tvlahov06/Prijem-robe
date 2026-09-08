@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-08T12:38:40.636Z",
+  "azurirano": "2026-09-08T12:38:45.361Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -342,7 +342,7 @@
           "naziv": "Usisavac rucni Gorenje MVC72FW",
           "barkod": "3838782040542",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za vakumiranje Gorenje VS120W",
