@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T08:47:49.612Z",
-  "azurirano": "2026-09-08T09:13:25.318Z",
+  "azurirano": "2026-09-08T09:13:38.485Z",
   "dokumenti": [
     {
       "naziv": "MSI 5651-101",
@@ -527,7 +527,7 @@
           "naziv": "Epilator Philips BRE708/00",
           "barkod": "8720689032704",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips SC1997/00 Lumea",
@@ -539,7 +539,7 @@
           "naziv": "Susilo za kosu Philips BHC010/10 putno",
           "barkod": "8710103887119",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Susilo za kosu Rowenta HY8310F0",
@@ -593,7 +593,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/88 DiamondClean, Blue",
           "barkod": "8720689001007",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
