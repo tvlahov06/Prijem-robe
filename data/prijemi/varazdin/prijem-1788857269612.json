@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T08:47:49.612Z",
-  "azurirano": "2026-09-08T09:13:05.188Z",
+  "azurirano": "2026-09-08T09:13:25.318Z",
   "dokumenti": [
     {
       "naziv": "MSI 5651-101",
@@ -313,7 +313,7 @@
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
           "barkod": "8720689045094",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Epilator Philips BRE711/00",
@@ -413,7 +413,7 @@
           "naziv": "Brijaci aparat Philips S5885/10",
           "barkod": "8720689008440",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6552/15 Face & Body",
