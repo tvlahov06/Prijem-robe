@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-08T09:16:03.586Z",
+  "azurirano": "2026-09-08T09:17:29.416Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -871,7 +871,7 @@
           "naziv": "Volan LOGITECH G G29 + mjenjac",
           "barkod": "5099206132467",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 0
         },
         {
           "naziv": "Mis Logitech M185, sivi",
@@ -1038,7 +1038,7 @@
           "naziv": "Brijaci aparat Philips S5885/35",
           "barkod": "8720689008037",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7119/01 Sonicare Series 5500 DUO, Blue & White",
@@ -1062,7 +1062,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7429/01 Sonicare Series 7100 DUO, Blue & White",
           "barkod": "8720689021432",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "IPL depilator Philips SC1998/00 Lumea",
@@ -1080,7 +1080,7 @@
           "naziv": "Susilo za kosu Philips BHD510/00",
           "barkod": "8710103948834",
           "ocekivano": 2,
-          "skenirano": 2
+          "skenirano": 0
         },
         {
           "naziv": "Brijac za tijelo Remington BHT250",
@@ -1152,7 +1152,7 @@
           "naziv": "Susilo za kosu Philips HPS920/00",
           "barkod": "8710103625520",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Sisac za kosu Philips HC5612/15",
@@ -1176,7 +1176,7 @@
           "naziv": "Uvijac za kosu Remington figaro CI83V6 konusni 19-28 mm, Keratin Protect",
           "barkod": "4008496938636",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Cetka za kosu Philips BHH885/00",
@@ -1242,19 +1242,19 @@
           "naziv": "Osobna vaga Tefal BM2600V0 Body Up 2.0",
           "barkod": "3121040097168",
           "ocekivano": 2,
-          "skenirano": 2
+          "skenirano": 0
         },
         {
           "naziv": "Vaga osobna Tefal PP1905V0 Classic 3 Light Blue, 180 kg",
           "barkod": "3121040095362",
           "ocekivano": 2,
-          "skenirano": 2
+          "skenirano": 0
         },
         {
           "naziv": "Vaga osobna Tefal PP1900V0 Classic 3 Dune Metal, 180 kg",
           "barkod": "3121040095423",
           "ocekivano": 2,
-          "skenirano": 2
+          "skenirano": 0
         },
         {
           "naziv": "Sisac za tijelo 17U1 Philips MG7941/15",
@@ -1618,7 +1618,7 @@
           "naziv": "Soundbar Sony",
           "barkod": "4548736143272",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 0
         },
         {
           "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/H",
