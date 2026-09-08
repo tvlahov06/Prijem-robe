@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T07:24:06.504Z",
-  "azurirano": "2026-09-08T07:36:34.162Z",
+  "azurirano": "2026-09-08T07:37:29.261Z",
   "dokumenti": [
     {
       "naziv": "MSI 5681-101",
@@ -464,13 +464,13 @@
           "naziv": "Brijac za glavu Philips nastavak HS740/15 zamjenske glave",
           "barkod": "8720689044493",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips nastavak SH71/50 zamjenske glave",
           "barkod": "8710103944119",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP420/50 nastavci 360",
@@ -572,7 +572,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6054/87 Sensitive Standard 4/1",
           "barkod": "8720689036870",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6032/90 djecja Soft 3+ 2/1",
