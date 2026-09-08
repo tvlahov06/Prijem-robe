@@ -5,7 +5,7 @@
   "datum": "2026-09-05",
   "status": "aktivan",
   "kreirano": "2026-09-05T13:57:53.623Z",
-  "azurirano": "2026-09-08T06:32:06.979Z",
+  "azurirano": "2026-09-08T06:34:08.887Z",
   "dokumenti": [
     {
       "naziv": "BigPartner_JBL",
@@ -110,13 +110,13 @@
           "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 130 crni",
           "barkod": "1200130035135",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 520 crni",
           "barkod": "1200130021961",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
