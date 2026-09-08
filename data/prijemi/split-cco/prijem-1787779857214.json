@@ -5,7 +5,7 @@
   "datum": "2026-09-05",
   "status": "aktivan",
   "kreirano": "2026-09-05T13:57:53.623Z",
-  "azurirano": "2026-09-08T06:28:49.868Z",
+  "azurirano": "2026-09-08T06:29:00.306Z",
   "dokumenti": [
     {
       "naziv": "BigPartner_JBL",
@@ -283,7 +283,7 @@
           "naziv": "Kucni Punjac CELLULARLINE GaN+ USB-C 100W",
           "barkod": "8018080513930",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MANHATTAN CITAC SMART CARD SIM",
@@ -391,7 +391,7 @@
           "naziv": "USB-C na USB-C Kabel CELLULARLINE GaN+ 240W 120 cm Black",
           "barkod": "8018080513725",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     }
