@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T06:20:36.241Z",
-  "azurirano": "2026-09-08T07:24:21.430Z",
+  "azurirano": "2026-09-08T07:24:40.574Z",
   "dokumenti": [
     {
       "naziv": "MSI 5697-101",
@@ -624,13 +624,13 @@
           "naziv": "USB stick Samsung 256GB BAR Plus zlatni PC MUF-256BE3/APC",
           "barkod": "8801643229405",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick Samsung 256GB Type-C plavi MUF-256DA/APC",
           "barkod": "8806092535909",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Razer Cobra, zicani, gaming, 8500DPI, RGB, crni 0-R3M1",
