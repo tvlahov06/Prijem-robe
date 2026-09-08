@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T06:20:36.241Z",
-  "azurirano": "2026-09-08T07:43:22.615Z",
+  "azurirano": "2026-09-08T07:43:28.033Z",
   "dokumenti": [
     {
       "naziv": "MSI 5697-101",
@@ -115,7 +115,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7406/02 Sonicare Series 6100 Blue",
           "barkod": "8720689021784",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7410/02 Sonicare Series 6500 White",
@@ -127,7 +127,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7419/01 Sonicare Series 6500 DUO, Black & White",
           "barkod": "8720689021609",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pegla za kosu Philips BHS838/00 SenseIQ",
