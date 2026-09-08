@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-08T12:01:40.359Z",
+  "azurirano": "2026-09-08T12:01:43.916Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -1481,7 +1481,7 @@
           "naziv": "Brijaci aparat Philips oprema CC12/50 komplet kapsula",
           "barkod": "8710103944652",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Philips BHA310/00",
