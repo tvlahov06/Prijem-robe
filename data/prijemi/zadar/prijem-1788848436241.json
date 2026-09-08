@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T06:20:36.241Z",
-  "azurirano": "2026-09-08T07:19:43.541Z",
+  "azurirano": "2026-09-08T07:20:00.615Z",
   "dokumenti": [
     {
       "naziv": "MSI 5697-101",
@@ -103,7 +103,7 @@
           "naziv": "Brijaci aparat Philips S5885/35",
           "barkod": "8720689008037",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7119/01 Sonicare Series 5500 DUO, Blue & White",
@@ -181,7 +181,7 @@
           "naziv": "Brijaci aparat Philips X3051/00",
           "barkod": "8720689019019",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/88 Optimal White 4/1 black",
@@ -804,7 +804,7 @@
           "naziv": "TP-Link RE700X, AX3000 Mesh WiFi 6 Extender",
           "barkod": "4897098683330",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
