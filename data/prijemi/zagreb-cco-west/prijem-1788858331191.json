@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-08T09:46:02.755Z",
+  "azurirano": "2026-09-08T09:46:10.470Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -544,7 +544,7 @@
           "naziv": "USB STICK Kingston DT Exodia G2, 64GB, USB3.2 Gen1",
           "barkod": "740617353679",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
@@ -682,7 +682,7 @@
           "naziv": "USB stick Samsung 256GB BAR Plus zlatni PC MUF-256BE3/APC",
           "barkod": "8801643229405",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick Samsung 256GB Type-C plavi MUF-256DA/APC",
