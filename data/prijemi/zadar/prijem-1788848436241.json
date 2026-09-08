@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T06:20:36.241Z",
-  "azurirano": "2026-09-08T07:26:17.159Z",
+  "azurirano": "2026-09-08T07:26:23.784Z",
   "dokumenti": [
     {
       "naziv": "MSI 5697-101",
@@ -450,7 +450,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
@@ -480,7 +480,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
           "barkod": "4718050609642",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MikroSD kartica Samsung 128 GB T9 microSDXCTM UHS-I W kartica MB-MH128T/WW ? ?",
@@ -522,7 +522,7 @@
           "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
           "barkod": "740617305302",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ruksak za laptop ASUS ROG BP4701, 17.3\" gaming",
