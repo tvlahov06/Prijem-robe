@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-08T09:34:50.186Z",
+  "azurirano": "2026-09-08T09:34:53.302Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -1044,13 +1044,13 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7119/01 Sonicare Series 5500 DUO, Blue & White",
           "barkod": "8720689021708",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7406/02 Sonicare Series 6100 Blue",
           "barkod": "8720689021784",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7410/02 Sonicare Series 6500 White",
