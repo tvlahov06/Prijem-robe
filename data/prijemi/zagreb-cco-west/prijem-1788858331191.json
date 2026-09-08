@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-08T09:41:50.608Z",
+  "azurirano": "2026-09-08T09:42:28.665Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -806,13 +806,13 @@
           "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
           "barkod": "6942103168154",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 plavi 41mm (Konsu-B39FB)",
           "barkod": "6942711308706",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
@@ -842,7 +842,7 @@
           "naziv": "Slusalice Huawei FreeBuds SE4 ANC crne (Fuji-T010)",
           "barkod": "6942103165450",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 41mm Gold Milanese Strap (Jana-B19M)",
@@ -860,7 +860,7 @@
           "naziv": "Slusalice Huawei FreeBuds 7i White",
           "barkod": "6942103164774",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
