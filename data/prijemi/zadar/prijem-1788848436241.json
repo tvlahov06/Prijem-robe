@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T06:20:36.241Z",
-  "azurirano": "2026-09-08T08:18:04.312Z",
+  "azurirano": "2026-09-08T08:18:21.457Z",
   "dokumenti": [
     {
       "naziv": "MSI 5697-101",
@@ -1093,13 +1093,13 @@
           "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
           "barkod": "6942103168154",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 plavi 41mm (Konsu-B39FB)",
           "barkod": "6942711308706",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 crni 46mm (Atum-B39F)",
@@ -1141,7 +1141,7 @@
           "naziv": "Pametni sat Huawei Watch GT 5 41mm White Leather Strap (Jana-B19L)",
           "barkod": "6942103131967",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
