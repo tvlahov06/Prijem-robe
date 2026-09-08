@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T06:20:36.241Z",
-  "azurirano": "2026-09-08T07:45:34.004Z",
+  "azurirano": "2026-09-08T07:45:51.184Z",
   "dokumenti": [
     {
       "naziv": "MSI 5697-101",
@@ -588,7 +588,7 @@
           "naziv": "TP-Link RE190, pojacivac signala AC750",
           "barkod": "6935364089665",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV210, 64GB, USB2.0 GD",
