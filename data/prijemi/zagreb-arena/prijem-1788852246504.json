@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T07:24:06.504Z",
-  "azurirano": "2026-09-08T07:44:59.442Z",
+  "azurirano": "2026-09-08T07:45:07.216Z",
   "dokumenti": [
     {
       "naziv": "MSI 5681-101",
@@ -482,7 +482,7 @@
           "naziv": "Brijaci aparat Philips S5885/35",
           "barkod": "8720689008037",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7119/01 Sonicare Series 5500 DUO, Blue & White",
@@ -632,13 +632,13 @@
           "naziv": "Susilo za kosu Remington D5715",
           "barkod": "4008496985357",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Remington AS7100 400W Airstyler",
           "barkod": "5038061142358",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Uvijac za kosu Remington figaro CI83V6 konusni 19-28 mm, Keratin Protect",
@@ -674,7 +674,7 @@
           "naziv": "Uvijac za kosu Remington AS7580 1000W Rotating Airstyler",
           "barkod": "5038061142235",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3886/43 Power Flosser + Cetkica za zube Diamond Clean 9000 Black",
