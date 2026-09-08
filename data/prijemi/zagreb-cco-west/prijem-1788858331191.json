@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-08T09:47:22.952Z",
+  "azurirano": "2026-09-08T09:47:33.020Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -466,7 +466,7 @@
           "naziv": "USB stick Samsung 64GB BAR Plus crni MUF-64BE4/APC",
           "barkod": "8801643230739",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mis Razer Basilisk V3 X HyperSpeed Wireless 0-R3G1",
@@ -526,7 +526,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
           "barkod": "4713218461933",
           "ocekivano": 5,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
@@ -616,7 +616,7 @@
           "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
           "barkod": "740617305302",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ruksak za laptop ASUS ROG BP4701, 17.3\" gaming",
@@ -766,7 +766,7 @@
           "naziv": "SSD ADATA Gammix S70 Blade, R7400/W5500,1TB, NVMe 1T-CS",
           "barkod": "4711085933065",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Razer DeathAdder V3 HyperSpeed 0-R3G1",
