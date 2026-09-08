@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-08T09:38:12.661Z",
+  "azurirano": "2026-09-08T09:38:17.989Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -640,7 +640,7 @@
           "naziv": "Ruksak za laptope do 16\"ASUS AP1602",
           "barkod": "4711387815083",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 64GB, USB3.2 BE",
