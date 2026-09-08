@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-08T09:23:54.317Z",
+  "azurirano": "2026-09-08T09:24:36.402Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -1188,7 +1188,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7108/02 Sonicare Series 5300 White",
           "barkod": "8720689023009",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7420/01 Sonicare Series 7100 White",
@@ -1278,7 +1278,7 @@
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
           "barkod": "8720689045094",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Epilator Philips BRE711/00",
