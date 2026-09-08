@@ -5,7 +5,7 @@
   "datum": "2026-09-05",
   "status": "aktivan",
   "kreirano": "2026-09-05T13:57:53.623Z",
-  "azurirano": "2026-09-08T06:31:19.491Z",
+  "azurirano": "2026-09-08T06:31:23.917Z",
   "dokumenti": [
     {
       "naziv": "BigPartner_JBL",
@@ -181,13 +181,13 @@
           "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
           "barkod": "8018080373633",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE C TO C 300 CM",
           "barkod": "8018080373664",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KP USB-C I KABEL C-C 45W",
