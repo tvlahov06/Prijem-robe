@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-08T12:00:59.187Z",
+  "azurirano": "2026-09-08T12:01:06.147Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -1427,7 +1427,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP225/50 nastavci Face",
           "barkod": "8720689003087",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9052/87 Premium Gum Care White 2/1",
@@ -1565,7 +1565,7 @@
           "naziv": "Brijaci aparat Philips nastavak SH71/50 zamjenske glave",
           "barkod": "8710103944119",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
