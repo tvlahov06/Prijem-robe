@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T08:47:49.612Z",
-  "azurirano": "2026-09-08T09:02:01.714Z",
+  "azurirano": "2026-09-08T09:02:14.169Z",
   "dokumenti": [
     {
       "naziv": "MSI 5651-101",
@@ -437,7 +437,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/87 Premium Plaque Defence Standard 2/1 White",
           "barkod": "8720689036917",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/88 Premium Plaque Defence Standard 2/1 Black",
@@ -449,7 +449,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9092/88 Premium All-In-One Black 2/1",
           "barkod": "8720689036740",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9094/87 Premium All-In-One White 4/1",
@@ -551,7 +551,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/87 Optimal White 4/1 white",
           "barkod": "8720689036450",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips oprema CC12/50 komplet kapsula",
