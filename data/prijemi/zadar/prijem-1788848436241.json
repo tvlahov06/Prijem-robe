@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T06:20:36.241Z",
-  "azurirano": "2026-09-08T07:09:56.352Z",
+  "azurirano": "2026-09-08T07:10:01.835Z",
   "dokumenti": [
     {
       "naziv": "MSI 5697-101",
@@ -827,7 +827,7 @@
           "naziv": "Ploca ugradbena AEG HK624000XB",
           "barkod": "7332543486090",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena Bosch PIX631HC1E",
@@ -851,7 +851,7 @@
           "naziv": "S4665 CPBF Ploca ugradbena indukcija Whirlpool WF S4665 CPBF",
           "barkod": "8003437642401",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena sa integriranom napom Bosch PVS611B16E",
@@ -863,7 +863,7 @@
           "naziv": "8090/NE Ploca ugradbena Whirlpool AKT 8090/NE",
           "barkod": "8003437829543",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica posuda ugradbena 60cm Gorenje GV16A",
