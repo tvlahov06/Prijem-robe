@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T06:20:36.241Z",
-  "azurirano": "2026-09-08T07:22:31.518Z",
+  "azurirano": "2026-09-08T07:22:36.850Z",
   "dokumenti": [
     {
       "naziv": "MSI 5697-101",
@@ -504,7 +504,7 @@
           "naziv": "Eksterni disk WD My Passport 4TB, Black, USB 3.2 K-WESN",
           "barkod": "718037869438",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
