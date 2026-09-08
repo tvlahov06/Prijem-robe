@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-08T12:36:12.496Z",
+  "azurirano": "2026-09-08T12:37:32.028Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -258,7 +258,7 @@
           "naziv": "Usisavac Philips FC9550/09",
           "barkod": "8710103860105",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Rostilj Tefal GC5108E0 3u1",
