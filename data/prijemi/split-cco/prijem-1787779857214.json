@@ -5,7 +5,7 @@
   "datum": "2026-09-05",
   "status": "aktivan",
   "kreirano": "2026-09-05T13:57:53.623Z",
-  "azurirano": "2026-09-08T06:31:07.218Z",
+  "azurirano": "2026-09-08T06:31:12.319Z",
   "dokumenti": [
     {
       "naziv": "BigPartner_JBL",
@@ -217,13 +217,13 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL MFI 120 CM",
           "barkod": "8018080175466",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
           "barkod": "8018080270420",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 20.000 BLACK",
