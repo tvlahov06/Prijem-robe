@@ -5,7 +5,7 @@
   "datum": "2026-09-08",
   "status": "aktivan",
   "kreirano": "2026-09-08T06:20:36.241Z",
-  "azurirano": "2026-09-08T07:40:05.168Z",
+  "azurirano": "2026-09-08T07:40:49.816Z",
   "dokumenti": [
     {
       "naziv": "MSI 5697-101",
@@ -61,7 +61,7 @@
           "naziv": "Susilo za kosu Philips BHD538/30",
           "barkod": "8720689023276",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu/bradu Philips HC3530/15",
@@ -205,7 +205,7 @@
           "naziv": "Susilo za kosu Philips HPS920/00",
           "barkod": "8710103625520",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Remington figaro CI89H1 Hydraluxe 32mm",
