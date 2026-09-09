@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "roba_0809",
   "datum": "2026-09-08",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-09-08T09:05:31.191Z",
-  "azurirano": "2026-09-09T07:18:05.302Z",
+  "azurirano": "2026-09-09T07:18:07.850Z",
   "dokumenti": [
     {
       "naziv": "MSI 5655-101",
@@ -1754,5 +1754,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-09-09T07:18:06.697Z"
 }
