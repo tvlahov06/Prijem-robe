@@ -1,0 +1,64 @@
+{
+  "id": "prijem-1788938405055",
+  "poslovnica": "zagreb-cco-west",
+  "naziv": "agram0909",
+  "datum": "2026-09-09",
+  "status": "aktivan",
+  "kreirano": "2026-09-09T07:20:05.055Z",
+  "azurirano": "2026-09-09T07:20:05.055Z",
+  "dokumenti": [
+    {
+      "naziv": "agram0909",
+      "stavke": [
+        {
+          "naziv": "Mobitel HONOR X5c Plus 4GB/64GB Ocean Cyan",
+          "barkod": "6936520876105",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Honor 600 Lite 5G DS 8GB/256GB Velvet Black",
+          "barkod": "6936520891962",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Honor Pad X8b 4GB/128GB WIFI Space Grey",
+          "barkod": "6936520897179",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel HONOR 600 5G DS 8GB/256GB crni",
+          "barkod": "6936520895168",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HONOR Watch 6 Shadow Black + Black Braided Strap + Blue Silicone Magnetic Strap",
+          "barkod": "6942785105249",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac HONOR SuperCharge Power Adapter (Max 80W) s kabelom",
+          "barkod": "6942785101722",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Motorola G06 4GB/256GB plavi",
+          "barkod": "840493605265",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Motorola edge 60 Pro 8GB/256GB Pantone Shadow Green",
+          "barkod": "840493609355",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
