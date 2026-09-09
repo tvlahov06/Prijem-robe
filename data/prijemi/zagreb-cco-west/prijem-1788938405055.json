@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "agram0909",
   "datum": "2026-09-09",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-09-09T07:20:05.055Z",
-  "azurirano": "2026-09-09T07:22:16.612Z",
+  "azurirano": "2026-09-09T07:26:15.512Z",
   "dokumenti": [
     {
       "naziv": "agram0909",
@@ -60,5 +60,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-09-09T07:26:15.512Z"
 }
