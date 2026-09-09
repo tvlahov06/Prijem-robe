@@ -5,7 +5,7 @@
   "datum": "2026-09-09",
   "status": "aktivan",
   "kreirano": "2026-09-09T07:20:05.055Z",
-  "azurirano": "2026-09-09T07:22:07.149Z",
+  "azurirano": "2026-09-09T07:22:16.612Z",
   "dokumenti": [
     {
       "naziv": "agram0909",
@@ -32,7 +32,7 @@
           "naziv": "Mobitel HONOR 600 5G DS 8GB/256GB crni",
           "barkod": "6936520895168",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat HONOR Watch 6 Shadow Black + Black Braided Strap + Blue Silicone Magnetic Strap",
@@ -44,7 +44,7 @@
           "naziv": "Punjac HONOR SuperCharge Power Adapter (Max 80W) s kabelom",
           "barkod": "6942785101722",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 5
         },
         {
           "naziv": "Mobitel Motorola G06 4GB/256GB plavi",
