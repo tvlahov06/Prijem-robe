@@ -5,7 +5,7 @@
   "datum": "2026-09-09",
   "status": "aktivan",
   "kreirano": "2026-09-09T07:20:05.055Z",
-  "azurirano": "2026-09-09T07:21:03.251Z",
+  "azurirano": "2026-09-09T07:21:14.371Z",
   "dokumenti": [
     {
       "naziv": "agram0909",
@@ -20,13 +20,13 @@
           "naziv": "Mobitel Honor 600 Lite 5G DS 8GB/256GB Velvet Black",
           "barkod": "6936520891962",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Tablet Honor Pad X8b 4GB/128GB WIFI Space Grey",
           "barkod": "6936520897179",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel HONOR 600 5G DS 8GB/256GB crni",
@@ -44,19 +44,19 @@
           "naziv": "Punjac HONOR SuperCharge Power Adapter (Max 80W) s kabelom",
           "barkod": "6942785101722",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Motorola G06 4GB/256GB plavi",
           "barkod": "840493605265",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Motorola edge 60 Pro 8GB/256GB Pantone Shadow Green",
           "barkod": "840493609355",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
