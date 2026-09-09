@@ -5,7 +5,7 @@
   "datum": "2026-09-09",
   "status": "aktivan",
   "kreirano": "2026-09-09T07:20:05.055Z",
-  "azurirano": "2026-09-09T07:21:55.350Z",
+  "azurirano": "2026-09-09T07:22:00.941Z",
   "dokumenti": [
     {
       "naziv": "agram0909",
@@ -50,13 +50,13 @@
           "naziv": "Mobitel Motorola G06 4GB/256GB plavi",
           "barkod": "840493605265",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Motorola edge 60 Pro 8GB/256GB Pantone Shadow Green",
           "barkod": "840493609355",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
