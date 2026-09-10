@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:51:40.360Z",
-  "azurirano": "2026-09-10T09:02:45.589Z",
+  "azurirano": "2026-09-10T09:03:10.866Z",
   "dokumenti": [
     {
       "naziv": "MSI 5707-101",
@@ -293,7 +293,7 @@
           "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
           "barkod": "2010033161096",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Laptop HP 255R G10 CV4Q5ET, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 7735U, 16 GB RAM, 1 TB SSD, AMD",
@@ -389,7 +389,7 @@
           "naziv": "Laptop ASUS TUF Gaming A16 FA608UM-RV005, 40.6cm 2H0 (16'') IPS WUXGA 165Hz, AMD Ryzen 7 260, 32 GB RAM, 1",
           "barkod": "4711636276665",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 27\" Samsung Odyssey OLED G5 G50SF, EN LS27FG502SUXEN, OLED, QHD, 180Hz",
