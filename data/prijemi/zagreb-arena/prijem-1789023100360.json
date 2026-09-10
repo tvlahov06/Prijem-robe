@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:51:40.360Z",
-  "azurirano": "2026-09-10T07:17:50.474Z",
+  "azurirano": "2026-09-10T07:34:06.385Z",
   "dokumenti": [
     {
       "naziv": "MSI 5707-101",
@@ -69,77 +69,6 @@
           "barkod": "8006447002111",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 146-132",
-      "stavke": [
-        {
-          "naziv": "Soundbar JBL BAR 1300 MK2 BLKEP",
-          "barkod": "1200130019944",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Soundbar JBL BAR 800 MK2 LKEP",
-          "barkod": "1200130020032",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zastitna navlaka JBL PARTYBOX ENCORE 2 RE2",
-          "barkod": "1200130024832",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zastitna navlaka JBL Partybox 120",
-          "barkod": "1200130021695",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zastitna navlaka JBL Partybox 120",
-          "barkod": "1200130021695",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice bluetooth gaming JBL QUANTUM 910P TWS bijele HTBLU",
-          "barkod": "6925281961557",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikrofon JBL QUANTUM STREAM LIGHT TBLK",
-          "barkod": "1200130008887",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice bluetooth potpuno bezicne JBL LIVE BUDS 3 UR ljubicaste",
-          "barkod": "1200130012839",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 215BT bijele",
-          "barkod": "6925281974373",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikrofon JBL PBM100 crni",
-          "barkod": "6925281975875",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikrofon gaming JBL QUANTUM STREAM TALK LK",
-          "barkod": "1200130006692",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
