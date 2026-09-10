@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T17:38:05.460Z",
-  "azurirano": "2026-09-10T19:32:15.076Z",
+  "azurirano": "2026-09-10T19:32:18.290Z",
   "dokumenti": [
     {
       "naziv": "MSI 5793-101",
@@ -211,7 +211,7 @@
           "naziv": "Usisavac robot Bosch BCRC2W, Spotless Advanced",
           "barkod": "4242005525461",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XD8152/12",
