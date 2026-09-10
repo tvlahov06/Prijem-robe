@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:51:40.360Z",
-  "azurirano": "2026-09-10T10:00:23.051Z",
+  "azurirano": "2026-09-10T10:00:32.210Z",
   "dokumenti": [
     {
       "naziv": "MSI 5755-101",
@@ -68,7 +68,7 @@
           "naziv": "Usisavac Philips XD8152/12",
           "barkod": "8720389037955",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BBS931PET Unlimited 9 ProAnimal, crveni",
@@ -146,7 +146,7 @@
           "naziv": "Friteza na vruci zrak Philips NA565/02 Airfryer Dual Basket, para",
           "barkod": "8720389077661",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Red S D30-EURENE2-S",
