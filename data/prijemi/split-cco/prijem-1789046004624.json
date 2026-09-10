@@ -1,0 +1,171 @@
+{
+  "id": "prijem-1789046004624",
+  "poslovnica": "split-cco",
+  "naziv": "Komisija u dolasku",
+  "datum": "2026-09-10",
+  "status": "aktivan",
+  "kreirano": "2026-09-10T13:13:24.624Z",
+  "azurirano": "2026-09-10T13:13:24.624Z",
+  "dokumenti": [
+    {
+      "naziv": "Comtrade",
+      "stavke": [
+        {
+          "naziv": "DJI Mini 5 Pro Fly More Combo (DJI RC2)",
+          "barkod": "6937224123212",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Osmo 360 II Limitless Riding Combo",
+          "barkod": "6937224177819",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Osmo 360 Standard Combo",
+          "barkod": "6937224110502",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI OSMO Action 4 Standard Combo",
+          "barkod": "6941565965073",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Osmo Action 6 Adventure Combo",
+          "barkod": "6937224126107",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Osmo Action 6 Standard Combo",
+          "barkod": "6937224126060",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI OSMO Mobile SE",
+          "barkod": "6941565939012",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Osmo Pocket 3 Creator Combo",
+          "barkod": "6941565969903",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Osmo Pocket 4P Vlog Combo",
+          "barkod": "6937224148307",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Avata 360 Fly More Combo (DJI RC 2)",
+          "barkod": "6937224137622",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Avata 360 Motion Fly More Combo (DJI Goggles N3)",
+          "barkod": "6937224137639",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Neo 2 Fly More Combo (samo dron)",
+          "barkod": "6937224131736",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gimbal DJI Osmo Mobile 8P Creator Combo",
+          "barkod": "6937224142930",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gimbal DJI Osmo Mobile 8P Standard Combo",
+          "barkod": "6937224142947",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gimbal DJI RS5",
+          "barkod": "6937224131712",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gimbal DJI RS5 Combo",
+          "barkod": "6937224131422",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kamera DJI Osmo Pocket 4 Creator Combo",
+          "barkod": "6937224133082",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "JBL",
+      "stavke": [
+        {
+          "naziv": "Slusalice bezicne JBL WAVE BEAM 2 bijela",
+          "barkod": "1200130015267",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth bezicne JBL TUNE 780NC crne",
+          "barkod": "1200130030482",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
+          "barkod": "1200130029967",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 730BT crne",
+          "barkod": "1200130029837",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth potpuno bezicne JBL Vibe BUDS 2 crne",
+          "barkod": "1200130015694",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crni",
+          "barkod": "1200130019555",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GO ESSENTIAL 2 crni",
+          "barkod": "1200130018589",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GRIP crni",
+          "barkod": "1200130024849",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
