@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:51:40.360Z",
-  "azurirano": "2026-09-10T08:13:20.291Z",
+  "azurirano": "2026-09-10T08:14:00.777Z",
   "dokumenti": [
     {
       "naziv": "MSI 5707-101",
@@ -763,7 +763,7 @@
           "naziv": "Parna postaja Philips PSG7200/20",
           "barkod": "8720389065170",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Rowenta RO4B63EA",
