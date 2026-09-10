@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T17:38:05.460Z",
-  "azurirano": "2026-09-10T19:39:31.119Z",
+  "azurirano": "2026-09-10T19:39:46.121Z",
   "dokumenti": [
     {
       "naziv": "MSI 5793-101",
@@ -127,7 +127,7 @@
           "naziv": "Friteza na vruci zrak Philips NA342/00 Airfryer",
           "barkod": "8720389034329",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9744/09",
@@ -175,7 +175,7 @@
           "naziv": "Usisavac Philips XD6122/12",
           "barkod": "8720389038259",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kapsule za kavu Lavazza A Modo Mio Passionale 16/1",
@@ -205,7 +205,7 @@
           "naziv": "Usisavac Philips XD5123/10",
           "barkod": "8720389038334",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Bosch BCRC2W, Spotless Advanced",
@@ -235,7 +235,7 @@
           "naziv": "Toster grill Philips HD6301/90 preklopni",
           "barkod": "8720389035654",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Philips HD6307/70 preklopni",
@@ -325,7 +325,7 @@
           "naziv": "Kuhinjski asistent Bosch MUM54251 MUM5 Styline",
           "barkod": "4242002681689",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za sladoled Tefal IG602AE0 Ice Cream maker Dolci, 10u1",
@@ -355,7 +355,7 @@
           "naziv": "Usisavac robot Roborock Q7 BF+ sa stanicom za samopraznjenje crna",
           "barkod": "6936905901927",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Saros 20 Sonic Complete crna",
