@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:51:40.360Z",
-  "azurirano": "2026-09-10T10:32:37.397Z",
+  "azurirano": "2026-09-10T10:33:01.905Z",
   "dokumenti": [
     {
       "naziv": "MSI 5755-101",
@@ -32,7 +32,7 @@
           "naziv": "Aparat za kavu Philips EP4441/50 espresso",
           "barkod": "8720389031588",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster preklopni Tefal SM155212",
@@ -158,7 +158,7 @@
           "naziv": "Aparat za kavu Philips EP8757/20 espresso, Cafe Aromis",
           "barkod": "8720389064807",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso VERTUO UP White S MD1-EUWHNE-S",
