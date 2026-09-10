@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:51:40.360Z",
-  "azurirano": "2026-09-10T09:04:54.315Z",
+  "azurirano": "2026-09-10T09:13:23.839Z",
   "dokumenti": [
     {
       "naziv": "MSI 5707-101",
@@ -395,7 +395,7 @@
           "naziv": "Monitor 27\" Samsung Odyssey OLED G5 G50SF, EN LS27FG502SUXEN, OLED, QHD, 180Hz",
           "barkod": "8806097684046",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor Acer X27U W3bmiiprx 27 OLED Monitor QHD ZeroFrame 240Hz",
@@ -407,7 +407,7 @@
           "naziv": "Monitor 34\" Samsung LS34C652UAUXEN, VA, UWQHD, EN zakrivljen",
           "barkod": "8806094974751",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DELL 32\" Pro Plus monitor P3225DE, IPS 2K/QHD, 100Hz, 5ms, ComfortView Plus, 2x DisplayPort (Daisy Chain),",
