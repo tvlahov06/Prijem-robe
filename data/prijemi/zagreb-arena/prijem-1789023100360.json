@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:51:40.360Z",
-  "azurirano": "2026-09-10T09:35:47.994Z",
+  "azurirano": "2026-09-10T09:36:19.315Z",
   "dokumenti": [
     {
       "naziv": "MSI 5755-101",
@@ -183,71 +183,6 @@
           "barkod": "3875001742665",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5754-101",
-      "stavke": [
-        {
-          "naziv": "Laptop Apple Macbook Air Midnight, mdhe4cr/a, /M5/16GB/512GB-CRO",
-          "barkod": "195950690033",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop Apple Macbook Air Silver, mdh74cr/a, /M5/16GB/512GB-CRO",
-          "barkod": "195950687217",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Blush, mhfj4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
-          "barkod": "195950853988",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Silver, mhfa4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
-          "barkod": "195950850697",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351431420",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV LG 43NU8E0B3LA 109.2cm (43\"), LED, 4K UHD Smart AEU TV, webOS",
-          "barkod": "8806096768471",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV HISENSE 65E7S, 165.1cm (65\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351431710",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV HISENSE 43A6S, 109.2cm (43\"), DLED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351430102",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV SAMSUNG QE50QN70HAUXXH, 127 cm (50\") Neo QLED, XXH 4K UHD Smart TV, Tizen OS",
-          "barkod": "8806099024147",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV HISENSE 55U7SE, 139.7cm (55\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
-          "barkod": "6942351433677",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
