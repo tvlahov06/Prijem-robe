@@ -1,0 +1,548 @@
+{
+  "id": "prijem-1789061885460",
+  "poslovnica": "zagreb-cco-east",
+  "naziv": "",
+  "datum": "2026-09-10",
+  "status": "aktivan",
+  "kreirano": "2026-09-10T17:38:05.460Z",
+  "azurirano": "2026-09-10T17:38:05.460Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 5793-101",
+      "stavke": [
+        {
+          "naziv": "Laptop Apple Macbook Neo Blush, mhfj4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
+          "barkod": "195950853988",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop Apple Macbook Neo Silver, mhfa4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
+          "barkod": "195950850697",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525804",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5794-101",
+      "stavke": [
+        {
+          "naziv": "Kuhinjski asistent Bosch MUM5XW40 MUM5 CreationLine",
+          "barkod": "4242005185214",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6903/22 filter za vodu 2 kom",
+          "barkod": "8720389000720",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Gorenje M500DCBK",
+          "barkod": "3838782541605",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups SA403BE0 espresso Coffee Crush Experience Lioness",
+          "barkod": "3016661181603",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP3347/90 espresso",
+          "barkod": "8720389030222",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6700/91 dekalcifikator za uklanjanje kamenca",
+          "barkod": "8720389000416",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC272D10",
+          "barkod": "3045380026230",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster preklopni Gorenje SM701SB",
+          "barkod": "3838782767197",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG7200/20",
+          "barkod": "8720389065170",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso VERTUO Pop Black S GDV2-EUBKNE-S",
+          "barkod": "8606112020138",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips FC9550/09",
+          "barkod": "8710103860105",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BCS711EXT Unlimited 7, crni",
+          "barkod": "4242005306985",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Tefal DT2020E1 Pure Pop blue",
+          "barkod": "3121040088494",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8200/70",
+          "barkod": "8720389066511",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP143BF0 Mini Me 2 cosmic grey",
+          "barkod": "3045380404151",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA342/00 Airfryer",
+          "barkod": "8720389034329",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips FC9744/09",
+          "barkod": "8710103810483",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6704/10 tablete za uklanjanje ulja od kave",
+          "barkod": "8720389000430",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
+          "barkod": "8720389040733",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH5020/20",
+          "barkod": "8720389043772",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC270D10",
+          "barkod": "3045380026377",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pekac kruha Tefal PF240E38",
+          "barkod": "3045385783428",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6707/10 komplet za odrzavanje",
+          "barkod": "8720389000461",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XD6122/12",
+          "barkod": "8720389038259",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kapsule za kavu Lavazza A Modo Mio Passionale 16/1",
+          "barkod": "8000070086005",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kapsule za kavu Lavazza A Modo Mio Crema E Gusto 36/1",
+          "barkod": "8000070020221",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kapsule za kavu Lavazza A Modo Mio Crema E Gusto 16/1",
+          "barkod": "8000070003651",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP2331/10 espresso",
+          "barkod": "8720389030307",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XD5123/10",
+          "barkod": "8720389038334",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Bosch BCRC2W, Spotless Advanced",
+          "barkod": "4242005525461",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XD8152/12",
+          "barkod": "8720389037955",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Philips DST7020/20",
+          "barkod": "8720389015564",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za rizu Philips HD3080/80",
+          "barkod": "8720389055294",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Philips HD6301/90 preklopni",
+          "barkod": "8720389035654",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Philips HD6307/70 preklopni",
+          "barkod": "8720389035678",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser rucni Bosch MFQ40301 Styline Colour vanilija/srebrna",
+          "barkod": "4242002777290",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Rostilj Tefal GC520DE0 3u1 XL",
+          "barkod": "3045380028340",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kava DELONGHI zrno Classico 1kg",
+          "barkod": "8004399335776",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips oprema HD9920/00 Airfryer dodatak - dvoslojna resetka",
+          "barkod": "8720389033544",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH5010/70",
+          "barkod": "8720389043819",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster Smeg TSF01CREU krem",
+          "barkod": "8017709186920",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser stapni Philips HR2684/00",
+          "barkod": "8720389035333",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Rowenta RH1833E0 X-Force 8.80",
+          "barkod": "3221616176485",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP243110 Genio S white PF",
+          "barkod": "3045380024328",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser stapni Bosch MSM6M633",
+          "barkod": "4242005446902",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za sladoled Ninja NC302EU Creami",
+          "barkod": "0622356350884",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP340810 Genio S plus black",
+          "barkod": "3016661158667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso ESSENZA MINI Red S D30-EURENE2-S",
+          "barkod": "7640154067585",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhinjski asistent Bosch MUM54251 MUM5 Styline",
+          "barkod": "4242002681689",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za sladoled Tefal IG602AE0 Ice Cream maker Dolci, 10u1",
+          "barkod": "3016661180446",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP8757/20 espresso, Cafe Aromis",
+          "barkod": "8720389064807",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Rowenta RO2981EA, Swift Power Home & Car, Blue",
+          "barkod": "3221614006425",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV2836E0",
+          "barkod": "3121040081921",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock Q7 BF+ sa stanicom za samopraznjenje crna",
+          "barkod": "6936905901927",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock Saros 20 Sonic Complete crna",
+          "barkod": "6936905905765",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5750-101",
+      "stavke": [
+        {
+          "naziv": "Kabel Samsung USB Type-C na USB Type-C (1,8m, 5A) crni",
+          "barkod": "8806094257540",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T4511 45W Fast Charge USB-C crni bez kabla",
+          "barkod": "8806097039709",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung EP-T6010 60W Fast Charge USB-C crni bez kabela",
+          "barkod": "8806097735618",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
+          "barkod": "8806097651000",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T6530 Trio 65W, 25W i 15W Fast Charge 2x USB-C i USB-A crni bez kabela",
+          "barkod": "8806092673885",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB sivi",
+          "barkod": "8806097855019",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
+          "barkod": "8806097984795",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska slim magnetna maska za Samsung Galaxy S26 FE crna",
+          "barkod": "8806099398743",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 FE crna",
+          "barkod": "8806099398842",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM ljubicasti",
+          "barkod": "8806099035341",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 FE prozirna",
+          "barkod": "8806099398866",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska maska za Samsung Galaxy S26 FE prozirna",
+          "barkod": "8806099398750",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung SM-X400 Galaxy Tab S10 Lite 6GB/128GB WiFi sivi",
+          "barkod": "8806097638551",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
+          "barkod": "8806097651079",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S25 FE 5G 8GB/128GB dual SIM crni",
+          "barkod": "8806097644699",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11 WiFi 64GB sivi",
+          "barkod": "8806097781943",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB srebrni",
+          "barkod": "8806097854920",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska slim magnetna maska za Samsung Galaxy S26 FE plavo ljubicasta",
+          "barkod": "8806099398736",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 FE plavo ljubicasta",
+          "barkod": "8806099398828",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "magnetna maska za Samsung Galaxy S26 FE mint",
+          "barkod": "8806099398804",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "folija za Samsung Galaxy S26 FE prozirna 2 komada",
+          "barkod": "8806099398712",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A27 8GB/256GB dual SIM crni",
+          "barkod": "8806099353438",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 FE roza",
+          "barkod": "8806099398798",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB nebesko plavi",
+          "barkod": "8806097827610",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 16/1TB crni",
+          "barkod": "8806097827122",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB crni",
+          "barkod": "8806097827467",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB bez",
+          "barkod": "8806099349134",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Fold8 5G 12GB/256GB grafitno crni",
+          "barkod": "8806099348830",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Fold8 5G 12GB/256GB bez",
+          "barkod": "8806099346072",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
