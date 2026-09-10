@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:51:40.360Z",
-  "azurirano": "2026-09-10T09:36:19.315Z",
+  "azurirano": "2026-09-10T09:36:32.215Z",
   "dokumenti": [
     {
       "naziv": "MSI 5755-101",
@@ -183,65 +183,6 @@
           "barkod": "3875001742665",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5709-101",
-      "stavke": [
-        {
-          "naziv": "Film za Fujifilm Instax Mini - 2 paketa",
-          "barkod": "4547410364866",
-          "ocekivano": 20,
-          "skenirano": 20
-        },
-        {
-          "naziv": "Punjac za notebook HP Adapter USB-C LC 65W, 1P3K6AA",
-          "barkod": "195122442972",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 plavi",
-          "barkod": "4547410489064",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "fotoaparat Fujifilm Instax Mini 13 rozi",
-          "barkod": "4547410564853",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "fotoaparat Fujifilm Instax Mini 13 bijeli",
-          "barkod": "4547410564877",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sat Samsung Galaxy Watch9 44mm srebrni",
-          "barkod": "8806099326777",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "fotoaparat Fujifilm Instax Mini 13 zeleni",
-          "barkod": "4547410564860",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Dodatni silikonski sportski remen 20mm S/M za Samsung Galaxy Watch9 bez",
-          "barkod": "8806099288044",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM ljubicasti",
-          "barkod": "8806099035341",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
