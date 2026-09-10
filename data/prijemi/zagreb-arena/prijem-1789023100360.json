@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:51:40.360Z",
-  "azurirano": "2026-09-10T08:12:46.056Z",
+  "azurirano": "2026-09-10T08:13:16.001Z",
   "dokumenti": [
     {
       "naziv": "MSI 5707-101",
@@ -739,7 +739,7 @@
           "naziv": "Parna postaja Philips PSG8300/20",
           "barkod": "8720389066498",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9330/09",
@@ -805,7 +805,7 @@
           "naziv": "Usisavac Bosch BCS711EXT Unlimited 7, crni",
           "barkod": "4242005306985",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Osvjezivac odjece Tefal DT2020E1 Pure Pop blue",
@@ -823,13 +823,13 @@
           "naziv": "Friteza na vruci zrak Philips NA150/00 Airfryer Dual Basket",
           "barkod": "8720389052989",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8200/70",
           "barkod": "8720389066511",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups SA401LE0 espresso Coffee Crush Lichen",
@@ -859,7 +859,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9747/09",
@@ -907,13 +907,13 @@
           "naziv": "Usisavac Philips XC8057/01 Aqua Plus",
           "barkod": "8720389022449",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal GV9221E0",
           "barkod": "3121040077238",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9331/09",
