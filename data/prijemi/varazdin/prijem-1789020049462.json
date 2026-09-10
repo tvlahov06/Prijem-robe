@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:00:49.462Z",
-  "azurirano": "2026-09-10T06:48:13.510Z",
+  "azurirano": "2026-09-10T06:48:22.798Z",
   "dokumenti": [
     {
       "naziv": "MSI 5725-101",
@@ -161,13 +161,13 @@
           "naziv": "Laptop Apple Macbook Neo Silver, mhfa4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
           "barkod": "195950850697",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop Apple Macbook Neo Blush, mhfh4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
           "barkod": "195950853513",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP 15-fc0277nm CZ9C6EA, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD",
@@ -197,7 +197,7 @@
           "naziv": "Laptop Apple Macbook Neo Silver, mhfc4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
           "barkod": "195950851168",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Vivobook 14 Flip TP3407SA-SGA155W, LV0 35.6cm (14\") WUXGA OLED Touch, Intel Core Ultra 7 258V,",
