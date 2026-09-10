@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:51:40.360Z",
-  "azurirano": "2026-09-10T09:36:32.215Z",
+  "azurirano": "2026-09-10T09:50:17.505Z",
   "dokumenti": [
     {
       "naziv": "MSI 5755-101",
@@ -475,17 +475,6 @@
           "barkod": "8000070086005",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5708-101",
-      "stavke": [
-        {
-          "naziv": "TV SONY K43S25M2PB, 108 cm (43''), Bravia 2 II, 4K EI Google TV",
-          "barkod": "4548736180420",
-          "ocekivano": 3,
-          "skenirano": 3
         }
       ]
     },
