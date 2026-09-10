@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T17:38:05.460Z",
-  "azurirano": "2026-09-10T19:21:59.100Z",
+  "azurirano": "2026-09-10T19:22:15.820Z",
   "dokumenti": [
     {
       "naziv": "MSI 5793-101",
@@ -283,7 +283,7 @@
           "naziv": "Mikser stapni Philips HR2684/00",
           "barkod": "8720389035333",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Rowenta RH1833E0 X-Force 8.80",
