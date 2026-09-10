@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:51:40.360Z",
-  "azurirano": "2026-09-10T07:34:06.385Z",
+  "azurirano": "2026-09-10T07:34:23.704Z",
   "dokumenti": [
     {
       "naziv": "MSI 5707-101",
@@ -568,13 +568,13 @@
           "naziv": "TV SAMSUNG QE50QN70HAUXXH, 127 cm (50\") Neo QLED, XXH 4K UHD Smart TV, Tizen OS",
           "barkod": "8806099024147",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV HISENSE 55U7SE, 139.7cm (55\"), ULED Mini LED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351433677",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
