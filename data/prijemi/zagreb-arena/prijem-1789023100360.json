@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:51:40.360Z",
-  "azurirano": "2026-09-10T08:11:56.480Z",
+  "azurirano": "2026-09-10T08:12:42.327Z",
   "dokumenti": [
     {
       "naziv": "MSI 5707-101",
@@ -715,7 +715,7 @@
           "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
           "barkod": "8720389032998",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP3347/90 espresso",
@@ -739,7 +739,7 @@
           "naziv": "Parna postaja Philips PSG8300/20",
           "barkod": "8720389066498",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9330/09",
@@ -769,13 +769,13 @@
           "naziv": "Usisavac Rowenta RO4B63EA",
           "barkod": "3221616093133",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal SV8151E0",
           "barkod": "3121040086414",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
@@ -901,7 +901,7 @@
           "naziv": "Usisavac Philips XD6142/12",
           "barkod": "8720389038303",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC8057/01 Aqua Plus",
@@ -919,7 +919,7 @@
           "naziv": "Usisavac Philips FC9331/09",
           "barkod": "8720389036552",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kapsule za kavu Lavazza A Modo Mio Passionale 16/1",
