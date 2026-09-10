@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T05:36:19.142Z",
-  "azurirano": "2026-09-10T05:58:33.510Z",
+  "azurirano": "2026-09-10T05:58:39.637Z",
   "dokumenti": [
     {
       "naziv": "MSI 5750-101",
@@ -550,7 +550,7 @@
           "naziv": "Printer HP LaserJet M207dw, 8J9K9F",
           "barkod": "0197961893083",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epson EcoTank L3276 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
