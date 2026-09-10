@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:51:40.360Z",
-  "azurirano": "2026-09-10T08:58:12.064Z",
+  "azurirano": "2026-09-10T08:58:28.156Z",
   "dokumenti": [
     {
       "naziv": "MSI 5707-101",
@@ -503,7 +503,7 @@
           "naziv": "Printer HP LaserJet M110w",
           "barkod": "194850676970",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epson EcoTank L3270 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
