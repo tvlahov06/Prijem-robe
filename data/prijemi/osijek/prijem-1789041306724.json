@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T11:55:06.724Z",
-  "azurirano": "2026-09-10T11:55:06.724Z",
+  "azurirano": "2026-09-10T12:01:54.400Z",
   "dokumenti": [
     {
       "naziv": "MSI 5710-101",
@@ -210,7 +210,7 @@
           "naziv": "Monitor Samsung LS27HG612SUXEN EN",
           "barkod": "8806097910381",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor Acer SA27F 27\" IPS, 144Hz FreeSync, HDMI, VGA",
