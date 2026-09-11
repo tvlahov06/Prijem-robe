@@ -5,7 +5,7 @@
   "datum": "2026-09-11",
   "status": "aktivan",
   "kreirano": "2026-09-11T14:08:24.708Z",
-  "azurirano": "2026-09-11T14:52:04.107Z",
+  "azurirano": "2026-09-11T14:52:06.275Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -187,35 +187,6 @@
           "barkod": "8006447002135",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5779-101",
-      "stavke": [
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
-          "barkod": "6942103168154",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
-          "barkod": "6942103168185",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
-          "barkod": "6942103101359",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Pro Titanium 46mm (Atum-B29M)",
-          "barkod": "6942103168192",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
