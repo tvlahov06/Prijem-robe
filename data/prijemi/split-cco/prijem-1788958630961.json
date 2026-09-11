@@ -5,7 +5,7 @@
   "datum": "2026-09-09",
   "status": "aktivan",
   "kreirano": "2026-09-09T12:57:10.961Z",
-  "azurirano": "2026-09-11T06:25:05.914Z",
+  "azurirano": "2026-09-11T06:25:13.675Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -865,13 +865,13 @@
           "naziv": "Usisavac Bosch BCHF220B Readyy'y, crni",
           "barkod": "4242005183302",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
           "barkod": "4242005306978",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Krups KP243110 Genio S white PF",
