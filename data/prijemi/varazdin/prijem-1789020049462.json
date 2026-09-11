@@ -5,43 +5,8 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:00:49.462Z",
-  "azurirano": "2026-09-10T06:51:53.576Z",
+  "azurirano": "2026-09-11T07:03:42.565Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 5725-101",
-      "stavke": [
-        {
-          "naziv": "Apple STARTER PACK - 60W USB-C Charging Cable+ 20W Power Adapter",
-          "barkod": "5999862874667",
-          "ocekivano": 20,
-          "skenirano": 20
-        },
-        {
-          "naziv": "Apple USB-C Power Adapter 20W",
-          "barkod": "195950084658",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Mist Blue",
-          "barkod": "195950643930",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Lavender",
-          "barkod": "195950644135",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 16 128GB Black",
-          "barkod": "195949821936",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
     {
       "naziv": "MSI 5726-101",
       "stavke": [
