@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:00:49.462Z",
-  "azurirano": "2026-09-11T07:07:52.623Z",
+  "azurirano": "2026-09-11T07:08:09.038Z",
   "dokumenti": [
     {
       "naziv": "MSI 5746-101",
@@ -285,7 +285,7 @@
           "naziv": "Parna postaja Philips PSG8300/20",
           "barkod": "8720389066498",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9330/09",
