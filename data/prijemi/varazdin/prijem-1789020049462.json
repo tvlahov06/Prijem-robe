@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:00:49.462Z",
-  "azurirano": "2026-09-11T07:20:08.168Z",
+  "azurirano": "2026-09-11T07:20:12.145Z",
   "dokumenti": [
     {
       "naziv": "MSI 5746-101",
@@ -566,7 +566,7 @@
           "naziv": "Brijaci aparat Philips XP9403/31",
           "barkod": "8720689030250",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetka za kosu Philips BHH885/00",
