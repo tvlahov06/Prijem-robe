@@ -1,0 +1,88 @@
+{
+  "id": "prijem-1789111516348",
+  "poslovnica": "zagreb-cco-west",
+  "naziv": "JBL MSI 1109",
+  "datum": "2026-09-11",
+  "status": "aktivan",
+  "kreirano": "2026-09-11T07:25:16.348Z",
+  "azurirano": "2026-09-11T07:25:16.348Z",
+  "dokumenti": [
+    {
+      "naziv": "jbl msi 1109",
+      "stavke": [
+        {
+          "naziv": "Artikl 6925281918759",
+          "barkod": "6925281918759",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 1200130013669",
+          "barkod": "1200130013669",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 1200130021695",
+          "barkod": "1200130021695",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 1200130020032",
+          "barkod": "1200130020032",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 1200130008887",
+          "barkod": "1200130008887",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 1200130012815",
+          "barkod": "1200130012815",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 6925281967078",
+          "barkod": "6925281967078",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 6925281939921",
+          "barkod": "6925281939921",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 6925281939938",
+          "barkod": "6925281939938",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 1200130004742",
+          "barkod": "1200130004742",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 1200130004735",
+          "barkod": "1200130004735",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Artikl 6925281973215",
+          "barkod": "6925281973215",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
