@@ -5,7 +5,7 @@
   "datum": "2026-09-09",
   "status": "aktivan",
   "kreirano": "2026-09-09T12:57:10.961Z",
-  "azurirano": "2026-09-11T05:16:59.856Z",
+  "azurirano": "2026-09-11T05:17:07.015Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -406,13 +406,13 @@
           "naziv": "PRO TCL Premium QD Mini-LED TV 65\" 65C6K Pro, Google TV",
           "barkod": "5901292531614",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TCL RGB Mini-LED TV 65\" 65RM7L, Google TV",
           "barkod": "5901292529994",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 43A6S, 109.2cm (43\"), DLED, 4k UHD Smart TV, VIDAA OS",
@@ -424,13 +424,13 @@
           "naziv": "TV HISENSE 65A7S, 165.1cm (65\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351435305",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PRO TV HISENSE 65E7S PRO, 165.1cm (65\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
           "barkod": "6942351432595",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV PHILIPS 43PUS7001, 108cm (43\"), LED, UHD 4K Smart TV, Titan OS",
@@ -442,13 +442,13 @@
           "naziv": "TV PHILIPS 65OLED811/12, 165.1cm (65\"), OLED, UHD 4K 165Hz, Smart TV, Titan OS - Ambilight",
           "barkod": "8718863052105",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
           "barkod": "5901292525798",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
