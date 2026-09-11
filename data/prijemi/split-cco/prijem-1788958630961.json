@@ -5,7 +5,7 @@
   "datum": "2026-09-09",
   "status": "aktivan",
   "kreirano": "2026-09-09T12:57:10.961Z",
-  "azurirano": "2026-09-11T05:17:07.015Z",
+  "azurirano": "2026-09-11T05:34:29.984Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -960,7 +960,7 @@
           "naziv": "Zamrzivac ladicar Bosch GSN58AWEV",
           "barkod": "4242005191109",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zamrzivac Hisense FV191N4AWD",
@@ -990,7 +990,7 @@
           "naziv": "Hladnjak kombinirani Gorenje N619EAXL4",
           "barkod": "3838782457692",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hladnjak kombinirani Bosch KGN86AIDR",
@@ -1026,7 +1026,7 @@
           "naziv": "Hladnjak kombinirani Amica FK2965.3GAA",
           "barkod": "5906006712792",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
