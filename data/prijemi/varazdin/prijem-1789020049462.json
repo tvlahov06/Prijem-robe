@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T06:00:49.462Z",
-  "azurirano": "2026-09-11T07:14:54.670Z",
+  "azurirano": "2026-09-11T07:14:59.970Z",
   "dokumenti": [
     {
       "naziv": "MSI 5746-101",
@@ -596,7 +596,7 @@
           "naziv": "Susilo za kosu Rowenta CV1801F0",
           "barkod": "3121040087633",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Rowenta HY8530E0, HD Nano Foldable",
