@@ -5,7 +5,7 @@
   "datum": "2026-09-11",
   "status": "aktivan",
   "kreirano": "2026-09-11T14:08:24.708Z",
-  "azurirano": "2026-09-11T14:52:00.205Z",
+  "azurirano": "2026-09-11T14:52:02.156Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -187,101 +187,6 @@
           "barkod": "8006447002135",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5768-101",
-      "stavke": [
-        {
-          "naziv": "Zamrzivac vertikalni Vivax",
-          "barkod": "3856005192458",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Samostojeci zamrzivac vertikalni Gorenje FN617EEW5",
-          "barkod": "3838782733505",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zamrzivac Beko B3RFNE314W",
-          "barkod": "8690842522581",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zamrzivac ladicar Bosch GSN58AWEV",
-          "barkod": "4242005191109",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zamrzivac Hisense FV191N4AWD",
-          "barkod": "6921727073617",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Kombinirani hladnjak Beko RDSO206K40WN",
-          "barkod": "8690842575297",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak samostojeci Beko LS9052WN",
-          "barkod": "8690842588945",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak Multidoor Hisense RF632N4AFE1, Francuska vrata",
-          "barkod": "6921727066985",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak kombinirani Gorenje N619EAXL4",
-          "barkod": "3838782457692",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak kombinirani Bosch KGN86AIDR",
-          "barkod": "4242005327720",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak kombinirani Bosch KGN39VLEB",
-          "barkod": "4242005208395",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak Side by side Hisense RQ760N4SBFE",
-          "barkod": "6921727074072",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak Multidoor Hisense RQ5P470SAFD",
-          "barkod": "6921727078575",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak kombinirani GORENJE NRB620C81BX4WFE WFE",
-          "barkod": "3838782945670",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak kombinirani Amica FK2965.3GAA",
-          "barkod": "5906006712792",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
