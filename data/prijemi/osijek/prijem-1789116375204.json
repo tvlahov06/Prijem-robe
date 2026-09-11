@@ -5,7 +5,7 @@
   "datum": "2026-09-11",
   "status": "aktivan",
   "kreirano": "2026-09-11T08:46:15.204Z",
-  "azurirano": "2026-09-11T11:08:12.705Z",
+  "azurirano": "2026-09-11T11:08:26.902Z",
   "dokumenti": [
     {
       "naziv": "MSI 5745-101",
@@ -617,7 +617,7 @@
           "naziv": "Mikser rucni Bosch MFQ4070",
           "barkod": "4242002556857",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "robot iRobot Roomba Combo Plus 505 + AutoWash dock white",
