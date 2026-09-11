@@ -5,7 +5,7 @@
   "datum": "2026-09-11",
   "status": "aktivan",
   "kreirano": "2026-09-11T14:08:24.708Z",
-  "azurirano": "2026-09-11T14:37:28.411Z",
+  "azurirano": "2026-09-11T14:37:31.909Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -960,7 +960,7 @@
           "naziv": "Zamrzivac ladicar Bosch GSN58AWEV",
           "barkod": "4242005191109",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zamrzivac Hisense FV191N4AWD",
