@@ -5,7 +5,7 @@
   "datum": "2026-09-11",
   "status": "aktivan",
   "kreirano": "2026-09-11T08:46:15.204Z",
-  "azurirano": "2026-09-11T11:26:32.473Z",
+  "azurirano": "2026-09-11T11:27:37.604Z",
   "dokumenti": [
     {
       "naziv": "MSI 5766-101",
@@ -80,7 +80,7 @@
           "naziv": "Usisavac Philips FC9334/09",
           "barkod": "8710103796329",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
