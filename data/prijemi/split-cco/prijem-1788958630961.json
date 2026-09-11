@@ -5,7 +5,7 @@
   "datum": "2026-09-09",
   "status": "aktivan",
   "kreirano": "2026-09-09T12:57:10.961Z",
-  "azurirano": "2026-09-11T06:08:56.674Z",
+  "azurirano": "2026-09-11T06:09:27.346Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -1168,7 +1168,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
           "barkod": "6942103168154",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
@@ -1186,7 +1186,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Pro Titanium 46mm (Atum-B29M)",
           "barkod": "6942103168192",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
