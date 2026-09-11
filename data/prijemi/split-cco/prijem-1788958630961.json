@@ -5,7 +5,7 @@
   "datum": "2026-09-09",
   "status": "aktivan",
   "kreirano": "2026-09-09T12:57:10.961Z",
-  "azurirano": "2026-09-11T05:56:24.680Z",
+  "azurirano": "2026-09-11T06:03:27.789Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -340,7 +340,7 @@
           "naziv": "TV LG 32LQ63006LA 81.3cm (32\"), LED, FHD, webOS",
           "barkod": "8806091636959",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG 55MRGB87B3B 139.7cm (55\"), Mini RGB, 4K UHD AEU Smart TV, webOS",
@@ -400,7 +400,7 @@
           "naziv": "TV TCL 40S5K, 101.6cm (40\"), QLED, FHD SMART TV, GOOGLE TV",
           "barkod": "5901292526023",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "PRO TCL Premium QD Mini-LED TV 65\" 65C6K Pro, Google TV",
@@ -805,7 +805,7 @@
           "naziv": "Aparat za kavu Philips EP4449/70 espresso",
           "barkod": "8720389032196",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Tefal FV5737E0",
