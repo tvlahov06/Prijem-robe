@@ -5,7 +5,7 @@
   "datum": "2026-09-09",
   "status": "aktivan",
   "kreirano": "2026-09-09T12:57:10.961Z",
-  "azurirano": "2026-09-10T06:08:11.984Z",
+  "azurirano": "2026-09-11T05:11:35.512Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -459,13 +459,13 @@
           "naziv": "Laptop Apple Macbook Air Silver, mdh74cr/a, /M5/16GB/512GB-CRO",
           "barkod": "195950687217",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Apple Macbook Neo Silver, mhfa4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
           "barkod": "195950850697",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
@@ -507,7 +507,7 @@
           "naziv": "TV LG OLED65C61LA 165.1cm (65\"), OLED, 4K UHD AEU 120Hz, Smart TV, webOS",
           "barkod": "8806096685969",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
