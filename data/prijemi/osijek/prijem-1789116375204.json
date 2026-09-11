@@ -5,7 +5,7 @@
   "datum": "2026-09-11",
   "status": "aktivan",
   "kreirano": "2026-09-11T08:46:15.204Z",
-  "azurirano": "2026-09-11T11:26:11.963Z",
+  "azurirano": "2026-09-11T11:26:32.473Z",
   "dokumenti": [
     {
       "naziv": "MSI 5766-101",
@@ -157,41 +157,6 @@
         {
           "naziv": "Vrecice za usisavac Philips FC8021/03 sinteticke, S-BAG, 4kom",
           "barkod": "8710103291381",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5776-101",
-      "stavke": [
-        {
-          "naziv": "BOSE QuietComfort Crne",
-          "barkod": "017817853460",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BOSE QuietComfort Ultra II Crne",
-          "barkod": "017817861120",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BOSE Ultra Headphones II Bez",
-          "barkod": "017817859547",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BOSE Soundlink FLEX II zeleni",
-          "barkod": "017817852494",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BOSE SoundLink Micro II Plavi",
-          "barkod": "017817859219",
           "ocekivano": 1,
           "skenirano": 1
         }
