@@ -5,7 +5,7 @@
   "datum": "2026-09-09",
   "status": "aktivan",
   "kreirano": "2026-09-09T12:57:10.961Z",
-  "azurirano": "2026-09-11T06:26:23.919Z",
+  "azurirano": "2026-09-11T06:26:34.394Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -835,7 +835,7 @@
           "naziv": "Usisavac Philips FC9729/09",
           "barkod": "8710103810308",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Smeg TSF01CREU krem",
