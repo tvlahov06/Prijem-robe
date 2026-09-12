@@ -5,7 +5,7 @@
   "datum": "2026-09-11",
   "status": "aktivan",
   "kreirano": "2026-09-11T14:08:24.708Z",
-  "azurirano": "2026-09-12T05:49:27.844Z",
+  "azurirano": "2026-09-12T05:49:32.383Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -227,7 +227,7 @@
           "naziv": "Slusalice Razer Blackshark V2 X, 7.1 surround, black 0-R3M1",
           "barkod": "8886419378396",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Gramofon Sony",
@@ -245,7 +245,7 @@
           "naziv": "Slusalice Razer Kraken X Lite, zicane, gaming, 7.1, 0-R381 mikrofon, over-ear",
           "barkod": "8886419378082",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Skullcandy DIME 3 TRUE WIRELESS",
