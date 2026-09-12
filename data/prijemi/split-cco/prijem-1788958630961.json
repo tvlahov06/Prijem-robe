@@ -5,7 +5,7 @@
   "datum": "2026-09-11",
   "status": "aktivan",
   "kreirano": "2026-09-11T14:08:24.708Z",
-  "azurirano": "2026-09-12T06:43:52.208Z",
+  "azurirano": "2026-09-12T06:43:57.036Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -187,77 +187,6 @@
           "barkod": "8006447002135",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5866-101",
-      "stavke": [
-        {
-          "naziv": "SBOX EB-TWS-101, bijela boja | True Wireless slusalice",
-          "barkod": "3858894502547",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "V-200 TV nosac BOF TVM V-200",
-          "barkod": "2010030072647",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Soundbar Samsung",
-          "barkod": "8806097097068",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP HyperX Cloud III S Wireless Headset Black",
-          "barkod": "198415435590",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony",
-          "barkod": "4548736170544",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Razer Blackshark V2 X, 7.1 surround, black 0-R3M1",
-          "barkod": "8886419378396",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Gramofon Sony",
-          "barkod": "4548736172104",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "DVB-T2/T prijemnik E-STAR",
-          "barkod": "5292618761540",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Razer Kraken X Lite, zicane, gaming, 7.1, 0-R381 mikrofon, over-ear",
-          "barkod": "8886419378082",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Skullcandy DIME 3 TRUE WIRELESS",
-          "barkod": "810045688435",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Soundbar Samsung",
-          "barkod": "8806097091929",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
