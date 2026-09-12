@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T13:13:24.624Z",
-  "azurirano": "2026-09-12T06:11:26.352Z",
+  "azurirano": "2026-09-12T06:11:58.751Z",
   "dokumenti": [
     {
       "naziv": "Comtrade",
@@ -121,7 +121,7 @@
           "naziv": "Slusalice bezicne JBL WAVE BEAM 2 bijela",
           "barkod": "1200130015267",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice bluetooth bezicne JBL TUNE 780NC crne",
@@ -145,7 +145,7 @@
           "naziv": "Slusalice bluetooth potpuno bezicne JBL Vibe BUDS 2 crne",
           "barkod": "1200130015694",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crni",
@@ -157,7 +157,7 @@
           "naziv": "Zvucnik prijenosni bluetooth JBL GO ESSENTIAL 2 crni",
           "barkod": "1200130018589",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL GRIP crni",
