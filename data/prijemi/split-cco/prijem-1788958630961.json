@@ -5,7 +5,7 @@
   "datum": "2026-09-11",
   "status": "aktivan",
   "kreirano": "2026-09-11T14:08:24.708Z",
-  "azurirano": "2026-09-12T05:49:37.554Z",
+  "azurirano": "2026-09-12T05:49:41.221Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -233,7 +233,7 @@
           "naziv": "Gramofon Sony",
           "barkod": "4548736172104",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DVB-T2/T prijemnik E-STAR",
