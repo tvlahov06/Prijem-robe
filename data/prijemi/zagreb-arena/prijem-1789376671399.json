@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T09:04:31.399Z",
-  "azurirano": "2026-09-14T09:14:31.678Z",
+  "azurirano": "2026-09-14T09:15:00.234Z",
   "dokumenti": [
     {
       "naziv": "MSI 180-151",
@@ -363,13 +363,13 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 Pro zuti 46mm (Atum-B49W)",
           "barkod": "6942711308652",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 zuti 46mm (Atum-B39FY)",
           "barkod": "6942711308614",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 rozi 41mm (Konsu-B39F)",
@@ -381,7 +381,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 sivi 41mm (Konsu-B39L)",
           "barkod": "6942711308683",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
@@ -545,7 +545,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9092/87 Premium All-In-One White 2/1",
           "barkod": "8720689036733",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Philips BHS838/00 SenseIQ",
