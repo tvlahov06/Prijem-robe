@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T17:03:23.812Z",
-  "azurirano": "2026-09-14T19:16:57.777Z",
+  "azurirano": "2026-09-14T19:17:11.469Z",
   "dokumenti": [
     {
       "naziv": "MSI 5884-101",
@@ -73,7 +73,7 @@
           "naziv": "Web kamera Logitech C270 HD",
           "barkod": "5099206064201",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
@@ -187,7 +187,7 @@
           "naziv": "Mis Logitech G309 LIGHTSPEED, crni",
           "barkod": "5099206117860",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech G402 Hyperion Fury, zicani",
