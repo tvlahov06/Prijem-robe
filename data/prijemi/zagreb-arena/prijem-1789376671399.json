@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T09:04:31.399Z",
-  "azurirano": "2026-09-14T09:18:29.103Z",
+  "azurirano": "2026-09-14T09:18:41.691Z",
   "dokumenti": [
     {
       "naziv": "MSI 180-151",
@@ -563,7 +563,7 @@
           "naziv": "Sisac za tijelo 17U1 Philips MG7941/15",
           "barkod": "8720689044950",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za bradu Philips BT3665/15",
