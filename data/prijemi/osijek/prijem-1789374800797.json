@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T08:33:20.797Z",
-  "azurirano": "2026-09-14T10:55:21.727Z",
+  "azurirano": "2026-09-14T10:55:28.233Z",
   "dokumenti": [
     {
       "naziv": "MSI 5804-101",
@@ -336,7 +336,7 @@
           "naziv": "USB STICK KINGSTON FD Exodia 64GB USB 3.2",
           "barkod": "740617309829",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Kingston DT Exodia G2, 512GB, USB3.2 Gen1",
@@ -366,7 +366,7 @@
           "naziv": "USB stick ADATA UV128, 64GB, USB3.2 BE",
           "barkod": "4713435797150",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-011 WALRUS Crna/narancasta 800x400 XL",
@@ -474,7 +474,7 @@
           "naziv": "ADATA UV320, 64GB, USB3.2 bijelo-zeleni WHGN",
           "barkod": "4713218462831",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Tinta EPSON 103 T00S3 L3150 magenta ecotank C13T00S34A 65ml",
