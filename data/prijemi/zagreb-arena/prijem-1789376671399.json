@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T09:04:31.399Z",
-  "azurirano": "2026-09-14T09:53:06.349Z",
+  "azurirano": "2026-09-14T09:53:35.750Z",
   "dokumenti": [
     {
       "naziv": "MSI 180-151",
@@ -166,59 +166,6 @@
           "barkod": "4548736164925",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5810-101",
-      "stavke": [
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
-          "barkod": "6942103168154",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
-          "barkod": "6942103101359",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
-          "barkod": "6942103168185",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Pro Titanium 46mm (Atum-B29M)",
-          "barkod": "6942103168192",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE4 ANC crne (Fuji-T010)",
-          "barkod": "6942103165450",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch Fit 5 Pro narancasti (Niki-B29W)",
-          "barkod": "6942103189753",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
-          "barkod": "6942103168246",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE 3 Black (ULC-CT020)",
-          "barkod": "6942103140112",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     }
