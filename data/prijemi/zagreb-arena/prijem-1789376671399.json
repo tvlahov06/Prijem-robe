@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T09:04:31.399Z",
-  "azurirano": "2026-09-14T09:51:22.564Z",
+  "azurirano": "2026-09-14T09:51:47.964Z",
   "dokumenti": [
     {
       "naziv": "MSI 180-151",
@@ -73,47 +73,6 @@
           "barkod": "711719073222",
           "ocekivano": 60,
           "skenirano": 60
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5814-101",
-      "stavke": [
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Green 46mm (Atum-B19W)",
-          "barkod": "6942103168178",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
-          "barkod": "6942103168253",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Pametni sat HUAWEI Watch GT7 Pro zuti 46mm (Atum-B49W)",
-          "barkod": "6942711308652",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pametni sat HUAWEI Watch GT7 zuti 46mm (Atum-B39FY)",
-          "barkod": "6942711308614",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Pametni sat HUAWEI Watch GT7 rozi 41mm (Konsu-B39F)",
-          "barkod": "6942711308676",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Pametni sat HUAWEI Watch GT7 sivi 41mm (Konsu-B39L)",
-          "barkod": "6942711308683",
-          "ocekivano": 3,
-          "skenirano": 3
         }
       ]
     },
