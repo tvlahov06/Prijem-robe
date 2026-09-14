@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T06:55:16.921Z",
-  "azurirano": "2026-09-14T07:33:15.359Z",
+  "azurirano": "2026-09-14T07:33:20.787Z",
   "dokumenti": [
     {
       "naziv": "MSI 5792-101",
@@ -555,7 +555,7 @@
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
           "barkod": "5099206089235",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Logitech G G321 crne",
@@ -609,7 +609,7 @@
           "naziv": "Zvucnici Logitech Z207, 2.0, crni",
           "barkod": "5099206075023",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
