@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T06:55:16.921Z",
-  "azurirano": "2026-09-14T07:38:57.868Z",
+  "azurirano": "2026-09-14T07:39:04.758Z",
   "dokumenti": [
     {
       "naziv": "MSI 5792-101",
@@ -310,7 +310,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
           "barkod": "740617326376",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
@@ -352,7 +352,7 @@
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
           "barkod": "4713435796641",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK KINGSTON FD Exodia 64GB USB 3.2",
@@ -424,7 +424,7 @@
           "naziv": "KINGSTON Canvas Select Plus SD kartica, 64GB, R100MB",
           "barkod": "740617348255",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis ACER Easy Fit Mouse, Crna",
@@ -436,7 +436,7 @@
           "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
           "barkod": "740617305302",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link TL-MR6400 bezicni 4G LTE Router, 300Mbps, interni 4G modem, SIM card slot",
