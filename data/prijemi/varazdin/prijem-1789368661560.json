@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T06:51:01.560Z",
-  "azurirano": "2026-09-14T06:58:04.642Z",
+  "azurirano": "2026-09-14T06:58:10.744Z",
   "dokumenti": [
     {
       "naziv": "MSI 5847-101",
@@ -293,13 +293,13 @@
           "naziv": "TP-Link RE190, pojacivac signala AC750",
           "barkod": "6935364089665",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Baracuda MIS BGM-011 NAUTILUS Crni RGB / 12.800 dpi",
           "barkod": "3858894503582",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston DataTraveler SE9 G3 128GB, USB3.2, B zlatni",
