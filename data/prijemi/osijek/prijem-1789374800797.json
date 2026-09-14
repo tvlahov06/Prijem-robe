@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T08:33:20.797Z",
-  "azurirano": "2026-09-14T10:52:46.105Z",
+  "azurirano": "2026-09-14T10:52:51.203Z",
   "dokumenti": [
     {
       "naziv": "MSI 5804-101",
@@ -235,7 +235,7 @@
           "naziv": "Sisac za tijelo 17U1 Philips MG7941/15",
           "barkod": "8720689044950",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Rowenta CV1801F0",
@@ -259,7 +259,7 @@
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
           "barkod": "8720689045094",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
