@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T09:04:31.399Z",
-  "azurirano": "2026-09-14T09:48:52.649Z",
+  "azurirano": "2026-09-14T09:49:02.255Z",
   "dokumenti": [
     {
       "naziv": "MSI 180-151",
@@ -227,7 +227,7 @@
           "naziv": "USB stick Samsung 128GB BAR Plus crni MUF-128BE4/APC PC",
           "barkod": "8801643230692",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kingston 500GB NV3 SSD M.2 2280 PCIe 4.0 NVMe, Read: 5,000/ Write: 3,000MB/s",
