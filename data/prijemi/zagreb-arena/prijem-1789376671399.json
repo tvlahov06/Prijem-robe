@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T09:04:31.399Z",
-  "azurirano": "2026-09-14T09:51:08.635Z",
+  "azurirano": "2026-09-14T09:51:22.564Z",
   "dokumenti": [
     {
       "naziv": "MSI 180-151",
@@ -73,59 +73,6 @@
           "barkod": "711719073222",
           "ocekivano": 60,
           "skenirano": 60
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5833-101",
-      "stavke": [
-        {
-          "naziv": "H-100 TV nosac BOF TVM H-100",
-          "barkod": "2010030072609",
-          "ocekivano": 7,
-          "skenirano": 7
-        },
-        {
-          "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
-          "barkod": "197029008220",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
-          "barkod": "198415435569",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice HyperX Cloud III Red Black",
-          "barkod": "197029008237",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "HP HyperX Cloud III S Wireless Headset Black",
-          "barkod": "198415435590",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Razer Blackshark V2 X, 7.1 surround, black 0-R3M1",
-          "barkod": "8886419378396",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/G",
-          "barkod": "4548736176751",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Skullcandy DIME 360 TRUE WIRELESS crne",
-          "barkod": "810145322703",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
