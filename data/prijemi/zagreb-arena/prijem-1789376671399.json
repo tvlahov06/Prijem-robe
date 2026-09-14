@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T09:04:31.399Z",
-  "azurirano": "2026-09-14T09:19:21.776Z",
+  "azurirano": "2026-09-14T09:19:28.457Z",
   "dokumenti": [
     {
       "naziv": "MSI 180-151",
@@ -521,7 +521,7 @@
           "naziv": "Uvijac za kosu Philips BHA310/00",
           "barkod": "8720689002790",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube OralB iO6 BLACK ONYX",
@@ -569,7 +569,7 @@
           "naziv": "Sisac za bradu Philips BT3665/15",
           "barkod": "8720689029438",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za bradu Philips BT7670/15",
@@ -605,7 +605,7 @@
           "naziv": "Sisac za bradu Rowenta TN3804E0 Expertise",
           "barkod": "3121040092897",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
