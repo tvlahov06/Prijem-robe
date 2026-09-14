@@ -1,0 +1,431 @@
+{
+  "id": "prijem-1789368661560",
+  "poslovnica": "varazdin",
+  "naziv": "Roba 14.9.2026",
+  "datum": "2026-09-14",
+  "status": "aktivan",
+  "kreirano": "2026-09-14T06:51:01.560Z",
+  "azurirano": "2026-09-14T06:51:01.560Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 5847-101",
+      "stavke": [
+        {
+          "naziv": "Mis Logitech M650, crni",
+          "barkod": "5099206097223",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech Desk Mat Studio, siva",
+          "barkod": "5099206099500",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH MX Master 4 grafit",
+          "barkod": "5099206133082",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnici Logitech Z150, 2.0, bijeli",
+          "barkod": "5099206048799",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
+          "barkod": "5099206112100",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M190, crni",
+          "barkod": "5099206091825",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G432, 7.1 gaming, zicane, crno-plave",
+          "barkod": "5099206082410",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G G321 bijele",
+          "barkod": "5099206133310",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M171, plavi",
+          "barkod": "5099206062863",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming slusalice LOGITECH Pro X3 Lightspeed",
+          "barkod": "5099206138001",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G915 X LIGHTSPEED, gaming, LIGHTSYNC RGB, mehanicka-tactile, bezicna",
+          "barkod": "5099206121669",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G Pro X Superlight 2 SE",
+          "barkod": "5099206129931",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnici Logitech Z207, 2.0, crni",
+          "barkod": "5099206075023",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech H390, zicane, USB, crne",
+          "barkod": "5099206030015",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Logitech tipkovnica i mis Signature Slim Combo MK950 - OFF WHITE - US INT",
+          "barkod": "5099206119338",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G402 Hyperion Fury, zicani",
+          "barkod": "5099206051768",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5846-101",
+      "stavke": [
+        {
+          "naziv": "BANG VRECICA PAPIRNATA",
+          "barkod": "2010030090641",
+          "ocekivano": 100,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5845-101",
+      "stavke": [
+        {
+          "naziv": "PlayStation 5 Digital Edition E chassis Marvel's Wolverine Battle Yellow Limited Edition VCH",
+          "barkod": "711719072348",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Marvel's Wolverine Battle Yellow Limited Edition",
+          "barkod": "711719072041",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Marvel's Wolverine Adamantium Limited Edition",
+          "barkod": "711719072102",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Poklopac za PlayStation 5 (Slim Edition) konzolu Marvel's Wolverine Battle Yellow Limited Edition",
+          "barkod": "711719072140",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Marvel's Wolverine PS5",
+          "barkod": "711719073222",
+          "ocekivano": 15,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5844-101",
+      "stavke": [
+        {
+          "naziv": "Punjac za ASUS laptope, 68W Type-C",
+          "barkod": "4711636433433",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
+          "barkod": "740617348408",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
+          "barkod": "4897098683446",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
+          "barkod": "740617326376",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
+          "barkod": "740617326260",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305 Black Original Ink Cartridge, 3YM61AE - Instant Ink",
+          "barkod": "194441597332",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348507",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305 Tri-colour Original Ink Cartridge, 3YM60AE - Instant Ink",
+          "barkod": "194441597318",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE450 bezicni pojacivac dometa, Dual Band GHz/5GHz, 10/100/1000 LAN prikljucak",
+          "barkod": "6935364092382",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DT Exodia G2, 512GB, USB3.2 Gen1",
+          "barkod": "740617353907",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WHITE SHARK GK-2022 Shinobi, bijela, mehanicka HR Blue Switch | Gaming tipkovnica",
+          "barkod": "0736373269675",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "T3U TP-Link Archer T3U Nano, AC1300 WLAN USB adapter Nano",
+          "barkod": "6935364072667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WARRIOR Rashladni stalak WHITE SHARK ICE WARRIOR, GCP-25, 4 vent.",
+          "barkod": "0616320533793",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link bezicni N USB Nano Adapter TL-WN725N, 150Mbps (2.4GHz), 802.11n/g/b",
+          "barkod": "6935364050719",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON 64GB DT50 3.2 KC-U2G64-5R",
+          "barkod": "740617314342",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HDD WD Elements Portable 4TB, USB 3.0",
+          "barkod": "718037855981",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk ADATA Ex HDD HD330, 2TB, usb3.0, plavi -CBL",
+          "barkod": "4713218465504",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk WD My Passport 4TB, Black, USB 3.2 K-WESN",
+          "barkod": "718037869438",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link TL-MR6400 bezicni 4G LTE Router, 300Mbps, interni 4G modem, SIM card slot",
+          "barkod": "6935364092764",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA UV210, 64GB, USB2.0 GD",
+          "barkod": "4712366965850",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TORBA SBOX NSE-2022 HONG KONG 15,6\"",
+          "barkod": "0616320538262",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
+          "barkod": "8715946701271",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE190, pojacivac signala AC750",
+          "barkod": "6935364089665",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda MIS BGM-011 NAUTILUS Crni RGB / 12.800 dpi",
+          "barkod": "3858894503582",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler SE9 G3 128GB, USB3.2, B zlatni",
+          "barkod": "740617341225",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-2201 RONIN Crna / HR",
+          "barkod": "0736373271135",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "C24 TP-Link ARCHER C24 router, Dual Band 2.4GHz/5GHz, 4xLAN prikljucak 10/100 Mbps",
+          "barkod": "6935364089474",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ADATA UV320, 32GB, USB3.2 bijelo-zeleni WHGN",
+          "barkod": "4713218462817",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Keychron B6P-K1-UK Space Gray",
+          "barkod": "4894979002815",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TORBA SBOX NSS-19368B JAKARTA Crna / Ruksak",
+          "barkod": "3858894506934",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TORBA SBOX NLS-3015B / 15,6\" - NEW YORK Crna",
+          "barkod": "0616320530624",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda TIPKOVNICA BGK-01124 KRILL Bijela / US",
+          "barkod": "3858894503728",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Canon CL-576 color",
+          "barkod": "4549292192650",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5816-101",
+      "stavke": [
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
+          "barkod": "6942103168253",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HUAWEI Watch GT7 Pro zuti 46mm (Atum-B49W)",
+          "barkod": "6942711308652",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HUAWEI Watch GT7 zuti 46mm (Atum-B39FY)",
+          "barkod": "6942711308614",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HUAWEI Watch GT7 rozi 41mm (Konsu-B39F)",
+          "barkod": "6942711308676",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HUAWEI Watch GT7 sivi 41mm (Konsu-B39L)",
+          "barkod": "6942711308683",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 5815-101",
+      "stavke": [
+        {
+          "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
+          "barkod": "197029008220",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX Cloud Jet Wireless Gaming Headset",
+          "barkod": "198701202189",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark PL HEADSET WGH-2444 FIRECREST / Bijele - Wireless",
+          "barkod": "3858894506750",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Razer Blackshark V2 X, 7.1 surround, black 0-R3M1",
+          "barkod": "8886419378396",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark HEADSET GH-2140 OX / RGB",
+          "barkod": "0736373269279",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
