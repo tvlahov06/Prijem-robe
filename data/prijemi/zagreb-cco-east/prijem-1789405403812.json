@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T17:03:23.812Z",
-  "azurirano": "2026-09-14T19:29:21.838Z",
+  "azurirano": "2026-09-14T19:29:29.076Z",
   "dokumenti": [
     {
       "naziv": "MSI 5884-101",
@@ -49,7 +49,7 @@
           "naziv": "Podloga za mis Logitech G240",
           "barkod": "5099206104334",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis LOGITECH MX Master 3S \"SE\" grafit",
@@ -217,7 +217,7 @@
           "naziv": "Mis Logitech M196, rozi",
           "barkod": "5099206128316",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
