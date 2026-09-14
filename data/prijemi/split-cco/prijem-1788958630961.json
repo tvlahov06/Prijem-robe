@@ -5,7 +5,7 @@
   "datum": "2026-09-11",
   "status": "aktivan",
   "kreirano": "2026-09-11T14:08:24.708Z",
-  "azurirano": "2026-09-14T06:36:57.837Z",
+  "azurirano": "2026-09-14T06:37:06.579Z",
   "dokumenti": [
     {
       "naziv": "MSI 5715-101",
@@ -132,7 +132,7 @@
           "naziv": "Usisavac Dyson V8 Total Clean",
           "barkod": "5025155080306",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
@@ -156,13 +156,13 @@
           "naziv": "Usisavac Dyson V8 Cyclone",
           "barkod": "5025155136195",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V15 Detect Absolute",
           "barkod": "5025155136201",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907S 900W",
