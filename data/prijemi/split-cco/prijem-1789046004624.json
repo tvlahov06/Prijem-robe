@@ -5,7 +5,7 @@
   "datum": "2026-09-10",
   "status": "aktivan",
   "kreirano": "2026-09-10T13:13:24.624Z",
-  "azurirano": "2026-09-12T06:12:03.402Z",
+  "azurirano": "2026-09-14T09:04:02.626Z",
   "dokumenti": [
     {
       "naziv": "Comtrade",
@@ -111,59 +111,6 @@
           "barkod": "6937224133082",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "JBL",
-      "stavke": [
-        {
-          "naziv": "Slusalice bezicne JBL WAVE BEAM 2 bijela",
-          "barkod": "1200130015267",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice bluetooth bezicne JBL TUNE 780NC crne",
-          "barkod": "1200130030482",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
-          "barkod": "1200130029967",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 730BT crne",
-          "barkod": "1200130029837",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice bluetooth potpuno bezicne JBL Vibe BUDS 2 crne",
-          "barkod": "1200130015694",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crni",
-          "barkod": "1200130019555",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL GO ESSENTIAL 2 crni",
-          "barkod": "1200130018589",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL GRIP crni",
-          "barkod": "1200130024849",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     }
