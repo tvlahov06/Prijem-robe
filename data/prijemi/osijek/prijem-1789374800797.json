@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T08:33:20.797Z",
-  "azurirano": "2026-09-14T10:50:55.194Z",
+  "azurirano": "2026-09-14T10:51:54.636Z",
   "dokumenti": [
     {
       "naziv": "MSI 5804-101",
@@ -539,37 +539,37 @@
           "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
           "barkod": "6942103168253",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Pro Brown 46mm (Atum-B29W)",
           "barkod": "6942103168208",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 Pro zuti 46mm (Atum-B49W)",
           "barkod": "6942711308652",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 zuti 46mm (Atum-B39FY)",
           "barkod": "6942711308614",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 rozi 41mm (Konsu-B39F)",
           "barkod": "6942711308676",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 sivi 41mm (Konsu-B39L)",
           "barkod": "6942711308683",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
@@ -586,7 +586,7 @@
           "naziv": "HP HyperX Cloud III S Wireless Headset Black",
           "barkod": "198415435590",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "White Shark BLUETOOTH ZVUCNIK GBT-619 IDAKKA crni IDAKKA BLACK",
@@ -604,13 +604,13 @@
           "naziv": "Slusalice Sony",
           "barkod": "4548736170643",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Sony",
           "barkod": "4548736171497",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice HyperX Cloud Stinger 2 Core, bijele",
