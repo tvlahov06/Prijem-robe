@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T06:55:16.921Z",
-  "azurirano": "2026-09-14T07:39:55.918Z",
+  "azurirano": "2026-09-14T07:40:02.075Z",
   "dokumenti": [
     {
       "naziv": "MSI 5792-101",
@@ -304,7 +304,7 @@
           "naziv": "Memorijska kartica Kingston 64GB microSDXC Canvas Go Plus Gen4 + ADP",
           "barkod": "740617347890",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
@@ -370,7 +370,7 @@
           "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
           "barkod": "740617305371",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "WARRIOR Rashladni stalak WHITE SHARK ICE WARRIOR, GCP-25, 4 vent.",
