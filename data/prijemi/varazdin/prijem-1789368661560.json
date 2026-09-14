@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T06:51:01.560Z",
-  "azurirano": "2026-09-14T06:52:41.565Z",
+  "azurirano": "2026-09-14T06:52:45.393Z",
   "dokumenti": [
     {
       "naziv": "MSI 5847-101",
@@ -179,13 +179,13 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
           "barkod": "740617326376",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
           "barkod": "740617326260",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta HP 305 Black Original Ink Cartridge, 3YM61AE - Instant Ink",
