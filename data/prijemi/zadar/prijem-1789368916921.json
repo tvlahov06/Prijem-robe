@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T06:55:16.921Z",
-  "azurirano": "2026-09-14T07:36:37.867Z",
+  "azurirano": "2026-09-14T07:36:41.345Z",
   "dokumenti": [
     {
       "naziv": "MSI 5792-101",
@@ -472,7 +472,7 @@
           "naziv": "MR500 TP-Link Archer MR500, AC1200 4G LTE Cat6 Gbit",
           "barkod": "4897098682845",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "D-Link USB-C HUB, DUBM810, 8-in-1 USB-C Hub",
