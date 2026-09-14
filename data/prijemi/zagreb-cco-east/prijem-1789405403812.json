@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T17:03:23.812Z",
-  "azurirano": "2026-09-14T19:22:45.508Z",
+  "azurirano": "2026-09-14T19:22:54.758Z",
   "dokumenti": [
     {
       "naziv": "MSI 5884-101",
@@ -585,7 +585,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 zuti 46mm (Atum-B39FY)",
           "barkod": "6942711308614",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 rozi 41mm (Konsu-B39F)",
@@ -597,7 +597,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 sivi 41mm (Konsu-B39L)",
           "barkod": "6942711308683",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
