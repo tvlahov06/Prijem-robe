@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T09:04:31.399Z",
-  "azurirano": "2026-09-14T09:30:02.520Z",
+  "azurirano": "2026-09-14T09:30:07.802Z",
   "dokumenti": [
     {
       "naziv": "MSI 180-151",
@@ -462,13 +462,13 @@
           "naziv": "BOSE SoundLink Micro II Crni",
           "barkod": "017817859226",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "BOSE SoundLink Micro II Plavi",
           "barkod": "017817859219",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
