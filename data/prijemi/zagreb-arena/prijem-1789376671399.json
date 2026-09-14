@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T09:04:31.399Z",
-  "azurirano": "2026-09-14T09:53:35.750Z",
+  "azurirano": "2026-09-14T10:00:23.446Z",
   "dokumenti": [
     {
       "naziv": "MSI 180-151",
@@ -38,41 +38,6 @@
           "barkod": "8023389779970",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5830-101",
-      "stavke": [
-        {
-          "naziv": "PlayStation 5 Digital Edition E chassis Marvel's Wolverine Battle Yellow Limited Edition VCH",
-          "barkod": "711719072348",
-          "ocekivano": 8,
-          "skenirano": 8
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Marvel's Wolverine Battle Yellow Limited Edition",
-          "barkod": "711719072041",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "Poklopac za PlayStation 5 (Slim Edition) konzolu Marvel's Wolverine Battle Yellow Limited Edition",
-          "barkod": "711719072140",
-          "ocekivano": 8,
-          "skenirano": 8
-        },
-        {
-          "naziv": "Poklopac za PlayStation 5 Pro konzolu Marvel's Wolverine Battle Yellow Limited Edition",
-          "barkod": "711719072188",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Marvel's Wolverine PS5",
-          "barkod": "711719073222",
-          "ocekivano": 60,
-          "skenirano": 60
         }
       ]
     },
