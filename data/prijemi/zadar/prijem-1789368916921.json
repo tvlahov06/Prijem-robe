@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T06:55:16.921Z",
-  "azurirano": "2026-09-14T08:56:00.280Z",
+  "azurirano": "2026-09-14T08:56:57.771Z",
   "dokumenti": [
     {
       "naziv": "MSI 5878-101",
@@ -127,23 +127,6 @@
           "barkod": "195950850697",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5791-101",
-      "stavke": [
-        {
-          "naziv": "Susilica rublja Bosch WTH83256BY",
-          "barkod": "4242005471263",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Susilica rublja GORENJE DPNE92/GNLWIFI FI",
-          "barkod": "3838782756238",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     }
