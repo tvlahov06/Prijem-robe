@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T06:55:16.921Z",
-  "azurirano": "2026-09-14T07:40:02.075Z",
+  "azurirano": "2026-09-14T07:40:10.364Z",
   "dokumenti": [
     {
       "naziv": "MSI 5792-101",
@@ -316,7 +316,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
           "barkod": "740617348651",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "Tinta HP 305 Black Original Ink Cartridge, 3YM61AE - Instant Ink",
@@ -352,7 +352,7 @@
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
           "barkod": "4713435796641",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "USB STICK KINGSTON FD Exodia 64GB USB 3.2",
