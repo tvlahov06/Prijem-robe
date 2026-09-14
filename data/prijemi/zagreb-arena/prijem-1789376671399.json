@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T09:04:31.399Z",
-  "azurirano": "2026-09-14T09:51:47.964Z",
+  "azurirano": "2026-09-14T09:52:18.550Z",
   "dokumenti": [
     {
       "naziv": "MSI 180-151",
@@ -101,65 +101,6 @@
           "barkod": "8427542135717",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5832-101",
-      "stavke": [
-        {
-          "naziv": "BOSE QuietComfort Crne",
-          "barkod": "017817848961",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BOSE Ultra Headphones II Bez",
-          "barkod": "017817859547",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BOSE Ultra Headphones II Crne",
-          "barkod": "017817859585",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BOSE Smart BLACK",
-          "barkod": "017817856164",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BOSE Soundlink FLEX II crni",
-          "barkod": "017817852470",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BOSE Soundlink FLEX II zuti",
-          "barkod": "017817859967",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BOSE SoundLink Max Crni",
-          "barkod": "017817848848",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BOSE SoundLink Micro II Crni",
-          "barkod": "017817859226",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BOSE SoundLink Micro II Plavi",
-          "barkod": "017817859219",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
