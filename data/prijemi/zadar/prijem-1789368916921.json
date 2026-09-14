@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T06:55:16.921Z",
-  "azurirano": "2026-09-14T07:35:21.150Z",
+  "azurirano": "2026-09-14T07:35:26.174Z",
   "dokumenti": [
     {
       "naziv": "MSI 5792-101",
@@ -245,7 +245,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Black 46mm (Atum-B19F)",
           "barkod": "6942103168154",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
@@ -257,7 +257,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
           "barkod": "6942103168246",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
