@@ -3,9 +3,9 @@
   "poslovnica": "split-cco",
   "naziv": "Komisija u dolasku",
   "datum": "2026-09-10",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-09-10T13:13:24.624Z",
-  "azurirano": "2026-09-14T09:04:02.626Z",
+  "azurirano": "2026-09-14T09:04:05.269Z",
   "dokumenti": [
     {
       "naziv": "Comtrade",
@@ -114,5 +114,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-09-14T09:04:05.269Z"
 }
