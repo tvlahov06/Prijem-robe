@@ -5,7 +5,7 @@
   "datum": "2026-09-14",
   "status": "aktivan",
   "kreirano": "2026-09-14T08:33:20.797Z",
-  "azurirano": "2026-09-14T10:43:48.706Z",
+  "azurirano": "2026-09-14T10:44:36.053Z",
   "dokumenti": [
     {
       "naziv": "MSI 5804-101",
@@ -38,7 +38,7 @@
           "naziv": "Tipkovnica Logitech K270 bezicna, USB, crna",
           "barkod": "5099206032842",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Podloga za mis Logitech G240",
@@ -56,7 +56,7 @@
           "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
           "barkod": "5099206112100",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech G502 X PLUS, LIGHTSPEED, LIGHTSYNC RGB, crni",
@@ -348,7 +348,7 @@
           "naziv": "WHITE SHARK GK-2022 Shinobi, bijela, mehanicka HR Blue Switch | Gaming tipkovnica",
           "barkod": "0736373269675",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "WARRIOR Rashladni stalak WHITE SHARK ICE WARRIOR, GCP-25, 4 vent.",
