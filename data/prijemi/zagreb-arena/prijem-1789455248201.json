@@ -5,7 +5,7 @@
   "datum": "2026-09-15",
   "status": "aktivan",
   "kreirano": "2026-09-15T06:54:08.201Z",
-  "azurirano": "2026-09-15T06:54:08.201Z",
+  "azurirano": "2026-09-15T06:56:57.328Z",
   "dokumenti": [
     {
       "naziv": "MSI 5888-101",
@@ -554,7 +554,7 @@
           "naziv": "Mikser stapni Philips HR2683/00",
           "barkod": "8720389033902",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Bosch BCRDW3BX, Spotless Max Cam",
