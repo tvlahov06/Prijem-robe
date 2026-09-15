@@ -5,7 +5,7 @@
   "datum": "2026-09-15",
   "status": "aktivan",
   "kreirano": "2026-09-15T06:54:08.201Z",
-  "azurirano": "2026-09-15T06:59:40.670Z",
+  "azurirano": "2026-09-15T06:59:46.276Z",
   "dokumenti": [
     {
       "naziv": "MSI 5888-101",
@@ -602,7 +602,7 @@
           "naziv": "Usisavac Bosch BGB38RD2",
           "barkod": "4242005359271",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "usisavac Roborock H60 Pro",
