@@ -5,7 +5,7 @@
   "datum": "2026-09-15",
   "status": "aktivan",
   "kreirano": "2026-09-15T06:54:08.201Z",
-  "azurirano": "2026-09-15T07:59:43.295Z",
+  "azurirano": "2026-09-15T07:59:46.453Z",
   "dokumenti": [
     {
       "naziv": "MSI 5888-101",
@@ -225,23 +225,6 @@
           "barkod": "8006447003026",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 180-151",
-      "stavke": [
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-ULT900N/W",
-          "barkod": "4548736158337",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-ULT900N/B",
-          "barkod": "4548736156432",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     },
