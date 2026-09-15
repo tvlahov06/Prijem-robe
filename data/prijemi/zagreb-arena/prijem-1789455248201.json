@@ -5,7 +5,7 @@
   "datum": "2026-09-15",
   "status": "aktivan",
   "kreirano": "2026-09-15T06:54:08.201Z",
-  "azurirano": "2026-09-15T08:00:08.303Z",
+  "azurirano": "2026-09-15T08:00:11.127Z",
   "dokumenti": [
     {
       "naziv": "MSI 5888-101",
@@ -582,23 +582,6 @@
           "barkod": "8720389055294",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 149-132",
-      "stavke": [
-        {
-          "naziv": "KSIX smartwatch Urban 4 mini, TFT 1,74\" zaslon, 3 dana aut., IP68, crni",
-          "barkod": "8427542132990",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Unitronic, univerzalni daljinski upravljac za Sony TV",
-          "barkod": "8023389779970",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     }
