@@ -5,7 +5,7 @@
   "datum": "2026-09-15",
   "status": "aktivan",
   "kreirano": "2026-09-15T12:44:44.317Z",
-  "azurirano": "2026-09-15T12:50:15.794Z",
+  "azurirano": "2026-09-15T12:50:36.049Z",
   "dokumenti": [
     {
       "naziv": "MSI 5908-101",
@@ -62,7 +62,7 @@
           "naziv": "Epson EcoTank L3276 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
           "barkod": "8715946727271",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP Smart Tank 720 All-in-One (6UU46A) Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
@@ -74,7 +74,7 @@
           "naziv": "HP DeskJet 4322 All-in-One (A24HNB) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Wi-Fi, USB, A4 - Instant Ink",
           "barkod": "198828789709",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
