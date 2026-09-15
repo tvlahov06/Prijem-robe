@@ -5,7 +5,7 @@
   "datum": "2026-09-15",
   "status": "aktivan",
   "kreirano": "2026-09-15T12:44:44.317Z",
-  "azurirano": "2026-09-15T13:07:06.402Z",
+  "azurirano": "2026-09-15T13:07:39.126Z",
   "dokumenti": [
     {
       "naziv": "MSI 5908-101",
@@ -327,7 +327,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Pro Black 46mm (Atum-B29F)",
           "barkod": "6942103168185",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Punjac za notebook HP Adapter USB-C LC 65W, 1P3K6AA",
@@ -393,7 +393,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Pro Brown 46mm (Atum-B29W)",
           "barkod": "6942103168208",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 ljubicasti",
@@ -429,7 +429,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
           "barkod": "6942103168253",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "GoPro pribor Enduro Battery (2 Pack) (Hero 13 Black)",
@@ -489,7 +489,7 @@
           "naziv": "Pametni sat Huawei Watch Fit 5 Pro bijeli (Niki-B29FS)",
           "barkod": "6942103189746",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 zeleni",
