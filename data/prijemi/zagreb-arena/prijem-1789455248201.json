@@ -5,7 +5,7 @@
   "datum": "2026-09-15",
   "status": "aktivan",
   "kreirano": "2026-09-15T06:54:08.201Z",
-  "azurirano": "2026-09-15T07:56:10.663Z",
+  "azurirano": "2026-09-15T07:56:27.045Z",
   "dokumenti": [
     {
       "naziv": "MSI 5888-101",
@@ -632,7 +632,7 @@
           "naziv": "Usisavac robot Philips XU2100/25",
           "barkod": "8720389064999",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Ninja ES601EU Luxe Cafe Premier",
