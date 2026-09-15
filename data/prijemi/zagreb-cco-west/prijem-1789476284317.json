@@ -5,7 +5,7 @@
   "datum": "2026-09-15",
   "status": "aktivan",
   "kreirano": "2026-09-15T12:44:44.317Z",
-  "azurirano": "2026-09-15T12:48:40.656Z",
+  "azurirano": "2026-09-15T12:48:52.108Z",
   "dokumenti": [
     {
       "naziv": "MSI 5908-101",
@@ -91,7 +91,7 @@
           "naziv": "Uvijac za kosu Revlon 2U1 SALON + Revlon Uniq One tretman za kosu",
           "barkod": "7630127502113",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Brijac za glavu Philips HS7980/15",
@@ -139,7 +139,7 @@
           "naziv": "Sisac za bradu Rowenta TN3804E0 Expertise",
           "barkod": "3121040092897",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
