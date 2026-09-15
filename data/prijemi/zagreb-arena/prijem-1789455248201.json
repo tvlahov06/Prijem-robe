@@ -5,7 +5,7 @@
   "datum": "2026-09-15",
   "status": "aktivan",
   "kreirano": "2026-09-15T06:54:08.201Z",
-  "azurirano": "2026-09-15T07:00:37.677Z",
+  "azurirano": "2026-09-15T07:00:44.597Z",
   "dokumenti": [
     {
       "naziv": "MSI 5888-101",
@@ -572,7 +572,7 @@
           "naziv": "Glacalo Philips DST8070/80",
           "barkod": "8720389079580",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XC5141/01",
@@ -584,7 +584,7 @@
           "naziv": "Friteza na vruci zrak Gorenje AF1350DWB",
           "barkod": "3838782695087",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Multipraktik Kenwood FDM73.850SS MultiPro Onetouch",
@@ -614,7 +614,7 @@
           "naziv": "Aparat za kavu Bosch TQE80703 WiFi",
           "barkod": "4242005537037",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Elit PulsarPro",
