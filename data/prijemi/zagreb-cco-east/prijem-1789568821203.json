@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "Roba (Navečer) 16.9.2026; MSI 5940, MSI 5941, 5942, MSI 5943, MSI 5955, MSI 5956, MSI 5957, MSI 5962, MSI 5963",
   "datum": "2026-09-16",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-09-16T14:27:01.203Z",
-  "azurirano": "2026-09-16T19:42:48.572Z",
+  "azurirano": "2026-09-16T19:42:52.798Z",
   "dokumenti": [
     {
       "naziv": "MSI 5940-101",
@@ -904,5 +904,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-09-16T19:42:52.798Z"
 }
