@@ -5,7 +5,7 @@
   "datum": "2026-09-16",
   "status": "aktivan",
   "kreirano": "2026-09-16T14:27:01.203Z",
-  "azurirano": "2026-09-16T19:24:40.203Z",
+  "azurirano": "2026-09-16T19:25:00.061Z",
   "dokumenti": [
     {
       "naziv": "MSI 5940-101",
@@ -256,7 +256,7 @@
           "naziv": "Susilo za kosu Remington AC9096 Silk",
           "barkod": "4008496789078",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac za glavu Philips HS7980/15",
@@ -280,7 +280,7 @@
           "naziv": "Brijac za glavu Philips HS5980/15",
           "barkod": "8720689044264",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3826/33 Power Flosser Cordless black",
@@ -292,7 +292,7 @@
           "naziv": "Stilizator za kosu Babyliss Air Wand AS6550E",
           "barkod": "3030050190731",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube OralB iO2 BLACK + Travel case",
@@ -322,7 +322,7 @@
           "naziv": "IPL depilator Philips BRI973/00 Lumea",
           "barkod": "8720689005708",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips nastavak SH71/50 zamjenske glave",
@@ -352,13 +352,13 @@
           "naziv": "Susilo za kosu Remington D5706 Curl&Straight",
           "barkod": "5038061100587",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epilator Philips BRE708/00",
           "barkod": "8720689032704",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
