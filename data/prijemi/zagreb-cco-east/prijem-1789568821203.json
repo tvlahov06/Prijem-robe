@@ -5,7 +5,7 @@
   "datum": "2026-09-16",
   "status": "aktivan",
   "kreirano": "2026-09-16T14:27:01.203Z",
-  "azurirano": "2026-09-16T19:42:02.845Z",
+  "azurirano": "2026-09-16T19:42:37.203Z",
   "dokumenti": [
     {
       "naziv": "MSI 5940-101",
@@ -643,7 +643,7 @@
           "naziv": "Mikser stapni Philips HR2684/00",
           "barkod": "8720389035333",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Philips HR3760/00",
