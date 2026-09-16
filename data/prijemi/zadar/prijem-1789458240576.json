@@ -5,79 +5,8 @@
   "datum": "2026-09-15",
   "status": "aktivan",
   "kreirano": "2026-09-15T07:44:00.576Z",
-  "azurirano": "2026-09-15T08:07:21.778Z",
+  "azurirano": "2026-09-16T11:00:24.382Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 5893-101",
-      "stavke": [
-        {
-          "naziv": "Monitor 27\" Samsung Odyssey G5 G53F, EN LS27FG530EUXEN, IPS, QHD, 200Hz",
-          "barkod": "8806097683384",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "LG 32\" UltraFine Monitor 32UR550K-B, VA 4K UHD, 60Hz, U 4ms, Dynamic Action Sync, AMD FreeSync, DisplayPort, 2x",
-          "barkod": "8806096228159",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "DELL 27\" monitor SE2726H, IPS Full HD, 144Hz, 4ms, ComfortView Plus, AMD FreeSync, 2x HDMI",
-          "barkod": "5397321028819",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP Smart Tank 580 All-in-One (1F3Y2A) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
-          "barkod": "196188530313",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP OfficeJet Pro 8122e All-in-One (405U3B) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Duplex, Wi-Fi, LAN, USB,",
-          "barkod": "196337163881",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP DeskJet 4310 All-in-One (A24HPB) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789730",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP DeskJet 2922 All-in-One (A24HVB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789792",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Epson EcoTank L3276 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
-          "barkod": "8715946727271",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Epson EcoTank L3271 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
-          "barkod": "8715946729701",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "CANON Pixma TS3750i Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Cloud, A4",
-          "barkod": "4549292234107",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "CANON Pixma TR4755i Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Fax, Cloud, Duplex, ADF, A4",
-          "barkod": "4549292237368",
-          "ocekivano": 2,
-          "skenirano": 2
-        }
-      ]
-    },
     {
       "naziv": "MSI 5903-101",
       "stavke": [
