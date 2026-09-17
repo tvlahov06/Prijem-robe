@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T09:24:20.826Z",
-  "azurirano": "2026-09-17T10:09:14.763Z",
+  "azurirano": "2026-09-17T10:10:02.412Z",
   "dokumenti": [
     {
       "naziv": "MSI 6001-101",
@@ -404,17 +404,6 @@
           "barkod": "8718863052044",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5906-101",
-      "stavke": [
-        {
-          "naziv": "PlayStation 5 Slim Digital Edition E chassis",
-          "barkod": "711719020844",
-          "ocekivano": 20,
-          "skenirano": 20
         }
       ]
     },
