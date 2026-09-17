@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T05:06:01.197Z",
-  "azurirano": "2026-09-17T05:43:25.383Z",
+  "azurirano": "2026-09-17T05:43:44.689Z",
   "dokumenti": [
     {
       "naziv": "MSI 5914-101",
@@ -863,7 +863,7 @@
           "naziv": "Aparat za kavu Philips EP3347/90 espresso",
           "barkod": "8720389030222",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Tefal FV8062E0",
@@ -959,7 +959,7 @@
           "naziv": "Parna postaja Philips PSG8300/80",
           "barkod": "8720389066504",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
@@ -971,7 +971,7 @@
           "naziv": "Usisavac Philips XC5244/10",
           "barkod": "8720389062681",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XW7264/11 bezicni AquaTrio",
