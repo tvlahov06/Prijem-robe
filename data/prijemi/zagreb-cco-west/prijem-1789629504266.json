@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T07:18:24.266Z",
-  "azurirano": "2026-09-17T07:27:40.528Z",
+  "azurirano": "2026-09-17T07:27:47.849Z",
   "dokumenti": [
     {
       "naziv": "logista_1709",
@@ -122,7 +122,7 @@
           "naziv": "CELLULARLINE KABEL MFI 200CM",
           "barkod": "8018080201912",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C TO MFI 120 CM",
@@ -182,7 +182,7 @@
           "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
           "barkod": "8018080373633",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE C TO C 300 CM",
