@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T09:24:20.826Z",
-  "azurirano": "2026-09-17T09:24:20.826Z",
+  "azurirano": "2026-09-17T09:24:44.781Z",
   "dokumenti": [
     {
       "naziv": "MSI 6001-101",
@@ -1617,7 +1617,7 @@
           "naziv": "Laptop ACER Aspire Lite 15 NX.DK1EX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
           "barkod": "4711474852366",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Lenovo V15 G5, 83HF00CSSC, 39.6cm (15.6\") IPS FHD, Intel Core i5-13420H, 16GB RAM, 1TB SSD NVMe,",
@@ -1659,7 +1659,7 @@
           "naziv": "Laptop HP OmniBook 5 AI 16-af1015nm CV9Y3EA, 40.6cm (16\") OLED 2K, Intel Core Ultra 5 225U, 16 GB RAM, 1 TB",
           "barkod": "0199764635266",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Apple Macbook Neo Citrus, mhfe4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
