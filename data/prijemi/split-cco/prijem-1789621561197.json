@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T05:06:01.197Z",
-  "azurirano": "2026-09-17T05:51:52.474Z",
+  "azurirano": "2026-09-17T05:52:18.695Z",
   "dokumenti": [
     {
       "naziv": "MSI 5914-101",
@@ -654,7 +654,7 @@
           "naziv": "Kuhalo za vodu Philips HD9350/96",
           "barkod": "8720389072529",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Philips HD9352/30",
@@ -738,7 +738,7 @@
           "naziv": "Usisavac Bosch BCS71HYG3 Unlimited 7 ProHygienic Aqua, Bijela",
           "barkod": "4242005349333",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Tefal DB1612E0 putno",
