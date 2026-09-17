@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T07:53:26.493Z",
-  "azurirano": "2026-09-17T08:53:49.231Z",
+  "azurirano": "2026-09-17T08:53:59.034Z",
   "dokumenti": [
     {
       "naziv": "MSI 6001-101",
@@ -83,7 +83,7 @@
           "naziv": "Radio budilica LENCO CR-28BK, FM/AM, crna",
           "barkod": "8711902090618",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Gramofon LENCO TT-120, sa zvucnicima, bluetooth, retro",
@@ -966,7 +966,7 @@
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
           "barkod": "8004399329485",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9550/09",
