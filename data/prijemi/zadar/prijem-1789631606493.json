@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T07:53:26.493Z",
-  "azurirano": "2026-09-17T08:47:26.918Z",
+  "azurirano": "2026-09-17T08:47:32.035Z",
   "dokumenti": [
     {
       "naziv": "MSI 6001-101",
@@ -1534,7 +1534,7 @@
           "naziv": "Carbon magnetna maska za Samsung Galaxy S26 Ultra crna",
           "barkod": "8806099133634",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
@@ -1594,7 +1594,7 @@
           "naziv": "Zastitna Rugged maska za Samsung Galaxy A37 5G crna",
           "barkod": "8806099037826",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
