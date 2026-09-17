@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T08:08:47.440Z",
-  "azurirano": "2026-09-17T09:39:46.162Z",
+  "azurirano": "2026-09-17T09:39:49.562Z",
   "dokumenti": [
     {
       "naziv": "MSI 5921-101",
@@ -739,7 +739,7 @@
           "naziv": "Usisavac Philips XD6122/12",
           "barkod": "8720389038259",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG6064/80",
