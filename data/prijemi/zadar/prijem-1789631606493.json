@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T07:53:26.493Z",
-  "azurirano": "2026-09-17T08:47:45.893Z",
+  "azurirano": "2026-09-17T08:47:54.965Z",
   "dokumenti": [
     {
       "naziv": "MSI 6001-101",
@@ -218,7 +218,7 @@
           "naziv": "Usisavac Dyson V8 Total Clean",
           "barkod": "5025155080306",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V16 Piston Animal Submarine",
