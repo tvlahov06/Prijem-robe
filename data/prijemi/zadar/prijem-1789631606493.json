@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T09:24:20.826Z",
-  "azurirano": "2026-09-17T10:10:51.851Z",
+  "azurirano": "2026-09-17T10:11:05.385Z",
   "dokumenti": [
     {
       "naziv": "MSI 6001-101",
@@ -49,77 +49,6 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 2,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5907-101",
-      "stavke": [
-        {
-          "naziv": "Brijac za glavu Philips HS7980/15",
-          "barkod": "8720689044257",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
-          "barkod": "8720689027137",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Tus za zube Philips Sonicare HX3826/31 Power Flosser Cordless white",
-          "barkod": "8720689011037",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "IPL depilator Philips BRI976/00 Lumea",
-          "barkod": "8720689005937",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sisac za bradu Philips BT3665/15",
-          "barkod": "8720689029438",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sisac za tijelo 8U1 Philips MG3940/15",
-          "barkod": "8720689026611",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Cetkica za zube OralB PRO Kids 3+ SPIDERMAN+putna torb.",
-          "barkod": "8006540773567",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Brijaci aparat Philips X3051/00",
-          "barkod": "8720689019019",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
-          "barkod": "8720689045094",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pegla za kosu Remington S8598 Keratin Protect Intelligent",
-          "barkod": "4008496938322",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Susilo za kosu Remington D5706 Curl&Straight",
-          "barkod": "5038061100587",
-          "ocekivano": 1,
           "skenirano": 1
         }
       ]
