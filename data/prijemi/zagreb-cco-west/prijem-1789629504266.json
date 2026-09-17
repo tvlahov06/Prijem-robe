@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T07:18:24.266Z",
-  "azurirano": "2026-09-17T07:25:18.209Z",
+  "azurirano": "2026-09-17T07:26:26.023Z",
   "dokumenti": [
     {
       "naziv": "logista_1709",
@@ -110,7 +110,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL MICRO USB 120 CM",
           "barkod": "8018080131745",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL MFI 120 CM",
@@ -128,7 +128,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C TO MFI 120 CM",
           "barkod": "8018080347849",
           "ocekivano": 7,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
@@ -200,7 +200,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC IPHONE USB-C I KABEL C TO LIGHTNING 20W",
           "barkod": "8018080398476",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC IPHONE DUAL USB-A I USB-C 20W",
@@ -224,7 +224,7 @@
           "naziv": "CELLULARLINE KP USB-C I KABEL C-C 45W",
           "barkod": "8018080438240",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ACL SLUSALICE IPHONE MFI EAGLE",
@@ -338,7 +338,7 @@
           "naziv": "CELLULARLINE IZVLACIVI KABEL C-C, 100W, 1m, Crna",
           "barkod": "8018080503801",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 5
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA BOOK ESSENTIAL GALAXY A17 BLACK",
