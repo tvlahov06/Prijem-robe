@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T09:24:20.826Z",
-  "azurirano": "2026-09-17T10:10:18.214Z",
+  "azurirano": "2026-09-17T10:10:34.787Z",
   "dokumenti": [
     {
       "naziv": "MSI 6001-101",
@@ -50,65 +50,6 @@
           "barkod": "5901292525804",
           "ocekivano": 2,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6006-101",
-      "stavke": [
-        {
-          "naziv": "Perilica rublja Hisense WF5S1045BW",
-          "barkod": "6901101825575",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Perilica rublja Bosch WGG244Z5BY",
-          "barkod": "4242005449163",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Susilica rublja Bosch WTH83256BY",
-          "barkod": "4242005471263",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Perilica rublja Hisense WF7S1247BW",
-          "barkod": "6901101827395",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Perilica susilica rublja GORENJE WD2PA1X64ADW",
-          "barkod": "3838782818431",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Perilica rublja LG F2WR509SBW slim",
-          "barkod": "8806084525796",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mikrovalna pecnica Gorenje MO17E1S",
-          "barkod": "3838782175367",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Vinski hladnjak Hisense RW3N122GSLF",
-          "barkod": "6921727080981",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Perilica posuda samostojeca Bosch SMS46KI01E",
-          "barkod": "4242002993300",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     },
