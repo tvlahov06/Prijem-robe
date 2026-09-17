@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T12:00:03.329Z",
-  "azurirano": "2026-09-17T19:32:36.513Z",
+  "azurirano": "2026-09-17T19:32:39.727Z",
   "dokumenti": [
     {
       "naziv": "MSI 6023-101",
@@ -449,7 +449,7 @@
           "naziv": "USB STICK Kingston DT Exodia G2, 512GB, USB3.2 Gen1",
           "barkod": "740617353907",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
