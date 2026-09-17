@@ -1,0 +1,831 @@
+{
+  "id": "prijem-1789646403329",
+  "poslovnica": "zagreb-cco-east",
+  "naziv": "Roba 17-09-2026 [navečer]",
+  "datum": "2026-09-17",
+  "status": "aktivan",
+  "kreirano": "2026-09-17T12:00:03.329Z",
+  "azurirano": "2026-09-17T12:00:03.329Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 6023-101",
+      "stavke": [
+        {
+          "naziv": "Mikrovalna pecnica Gorenje MO17E1S",
+          "barkod": "3838782175367",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6026-101",
+      "stavke": [
+        {
+          "naziv": "Apple Watch Series 12 GPS 46mm Black Aluminium Case with Black Sport Band - M/L",
+          "barkod": "195951227269",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE3 v2 GPS 40mm Starlight Aluminium Case with Sand Sport Band - S/M",
+          "barkod": "195951258577",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Burgundy",
+          "barkod": "195951415680",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Glacier",
+          "barkod": "195951415697",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro Max 2TB Black",
+          "barkod": "195951410142",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Black",
+          "barkod": "195951415666",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 5 with Wireless Charging Case",
+          "barkod": "195951378718",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 5",
+          "barkod": "195951379036",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro Max TechWoven Case with MagSafe - Olive",
+          "barkod": "195951381763",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro Silicone Case with MagSafe - Black",
+          "barkod": "195951408231",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro Max Silicone Case with MagSafe - Magenta",
+          "barkod": "195951408309",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro Max TechWoven Case with MagSafe - Mulberry",
+          "barkod": "195951381732",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro Max Clear Case with MagSafe",
+          "barkod": "195951381916",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro TechWoven Case with MagSafe - Chambray Blue",
+          "barkod": "195951381640",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro TechWoven Case with MagSafe - Burgundy",
+          "barkod": "195951381527",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro Max Silicone Case with MagSafe - Navy Blue",
+          "barkod": "195951408347",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro Clear Case with MagSafe",
+          "barkod": "195951381886",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro Max TechWoven Case with MagSafe - Black",
+          "barkod": "195951381855",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro Silicone Case with MagSafe - Navy Blue",
+          "barkod": "195951408224",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro Silicone Case with MagSafe - Olive",
+          "barkod": "195951408200",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro Max Silicone Case with MagSafe - Black",
+          "barkod": "195951408354",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro TechWoven Case with MagSafe - Black",
+          "barkod": "195951381671",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro TechWoven Case with MagSafe - Mulberry",
+          "barkod": "195951381558",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6027-101",
+      "stavke": [
+        {
+          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
+          "barkod": "6942103101359",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke .CE7",
+          "barkod": "4548736179806",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony",
+          "barkod": "4548736170599",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony",
+          "barkod": "4548736170544",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony",
+          "barkod": "4548736171497",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
+          "barkod": "4548736161436",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne WH-CH530/B",
+          "barkod": "4548736179677",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke .CE7",
+          "barkod": "4548736181908",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke .CE7",
+          "barkod": "4548736181854",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne WH-CH530/L",
+          "barkod": "4548736181335",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM5/S",
+          "barkod": "4548736132597",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DVD Player Sony C1",
+          "barkod": "4905524842074",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne Sony s funkcijom blokade buke E7 WF-1000XM6/B",
+          "barkod": "4548736171770",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds SE4 ANC crne (Fuji-T010)",
+          "barkod": "6942103165450",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke E7 WH-CH730N/C",
+          "barkod": "4548736181779",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX Cloud III S Wireless Headset Black",
+          "barkod": "198415435590",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds 7i Black",
+          "barkod": "6942103164781",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gramofon Sony",
+          "barkod": "4548736172180",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Razer Barracuda X (2022) Wireless, crne 0-R3M1",
+          "barkod": "8886419379850",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SONY Bezicne slusalice WH1000XXB s funkcijom",
+          "barkod": "4548736171299",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DVB-T2/T prijemnik E-STAR",
+          "barkod": "5292618761540",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gramofon Sony",
+          "barkod": "4548736172104",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zidni stalak Vogel's za ekrane od 19\"-43\" sa nagibom, MA2010",
+          "barkod": "8712285331268",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds 7i White",
+          "barkod": "6942103164774",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6029-101",
+      "stavke": [
+        {
+          "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348453",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
+          "barkod": "740617348408",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
+          "barkod": "740617348651",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
+          "barkod": "740617326376",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347944",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON FD Exodia 128GB USB 3.2",
+          "barkod": "740617309928",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
+          "barkod": "4718050609604",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348507",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE205, pojacivac signala AC750",
+          "barkod": "6935364080976",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Tapo P110 Mini Smart pametna uticnica, kontrola energije, bijela",
+          "barkod": "4897098682432",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Tapo P100 Mini Smart Wi-Fi Alexa & Google",
+          "barkod": "4897098680438",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link USB3.0 na Gigabit mrezni adapter",
+          "barkod": "6935364091743",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDHC, Class10, 10A1-RA1 100/20MBs, 32GB",
+          "barkod": "4713218461926",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick Samsung 64GB Type-C plavi MUF-64DA/APC",
+          "barkod": "8806092535886",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "T3U TP-Link Archer T3U Nano, AC1300 WLAN USB adapter Nano",
+          "barkod": "6935364072667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 1TB 990 EVO Plus NVMe M.2",
+          "barkod": "8806095575674",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick Samsung 256GB BAR Plus crni MUF-256BE4/APC PC",
+          "barkod": "8801643230678",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-2201 RONIN Bijela / HR",
+          "barkod": "0736373271159",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MicroSD memorijska kartica Samsung 256GB PRO U Endurance MB-MJ256KA/EU",
+          "barkod": "8806092767263",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 256GB USB 3.2 Black-Orange",
+          "barkod": "740617348736",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torba Lenovo ThinkPad 15.6-inch Basic Topload, 4X40Y95214",
+          "barkod": "194778185813",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 2.5\" 500GB 870 EVO SATA MZ-77E500B/EU",
+          "barkod": "8806090545924",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DT Exodia G2, 512GB, USB3.2 Gen1",
+          "barkod": "740617353907",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
+          "barkod": "740617305302",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-004132 SHINOBI-2 Crna - R-BROWN.SW Mehanicka / HR- BROWN SW.",
+          "barkod": "3858894506071",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Orink tinta za Epson, T0711, crna",
+          "barkod": "6940843106726",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TORBA SBOX NSE-2022 HONG KONG 15,6\"",
+          "barkod": "0616320538262",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA UV210, 64GB, USB2.0 GD",
+          "barkod": "4712366965850",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Kyson 128GB USB 3.2",
+          "barkod": "740617309119",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer DeathAdder Essential, bijeli 0-R3M1",
+          "barkod": "8886419333326",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick Samsung 128GB BAR Plus crni MUF-128BE4/APC PC",
+          "barkod": "8801643230692",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 512GB USB 3.2 Black-Yellow",
+          "barkod": "740617348774",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE190, pojacivac signala AC750",
+          "barkod": "6935364089665",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark STALAK Desktop GMS-3205 Amenhotep II / 2 Monitora",
+          "barkod": "3858894502356",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX PF Has 2 Core Wireless - Gaming Mouse Black",
+          "barkod": "197498115382",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6030-101",
+      "stavke": [
+        {
+          "naziv": "TV HISENSE 43E7S, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351430973",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 58E7S, 147.3cm (58\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351431420",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV HISENSE 43A6S, 109.2cm (43\"), DLED, 4k UHD Smart TV, VIDAA OS",
+          "barkod": "6942351430102",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525804",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY K43S25M2PB, 108 cm (43''), Bravia 2 II, 4K EI Google TV",
+          "barkod": "4548736180420",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6036-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro Max 256GB Burgundy (DEMO)",
+          "barkod": "2010033309399",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Glacier (DEMO)",
+          "barkod": "2010033309382",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 12 GPS 42mm Dark Bronze Aluminium Case with Olive Sport Band - M/L (DEMO)",
+          "barkod": "2010033309405",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Remen za Apple Watch 40mm Sand Sport Band - M/L (DEMO)",
+          "barkod": "2010033309412",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6041-101",
+      "stavke": [
+        {
+          "naziv": "Lego Batman Legacy Of The Dark Knight (GAME-KEY CARD) Switch 2",
+          "barkod": "5051895419342",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6057-101",
+      "stavke": [
+        {
+          "naziv": "Volan LOGITECH G G29 + mjenjac",
+          "barkod": "5099206132467",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LOGITECH G29 za PS3, PS4, PS5 i PC, igraci volan",
+          "barkod": "5099206057302",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming mis LOGITECH PRO X2 SUPERSTRIKE",
+          "barkod": "5099206136199",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech G240",
+          "barkod": "5099206104334",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G502 X, LIGHTSPEED, crni",
+          "barkod": "5099206096370",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH MX Master 4 bijeli",
+          "barkod": "5099206133099",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M171, crni",
+          "barkod": "5099206062856",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, bijeli",
+          "barkod": "5099206089242",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech MX Anywhere 3S Graphite",
+          "barkod": "5099206111721",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK540 Advanced, bezicna, siva",
+          "barkod": "5099206077522",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G502 X PLUS, LIGHTSPEED, LIGHTSYNC RGB, crni",
+          "barkod": "5099206096332",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M190, crni",
+          "barkod": "5099206091825",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming tipkovnica LOGITECH G316 X 75",
+          "barkod": "5099206139220",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M171, bijeli",
+          "barkod": "5099206108790",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech BRIO 500 crna",
+          "barkod": "5099206104914",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G PRO X Superlight 2, bijeli",
+          "barkod": "5099206104549",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M350s Pebble, graphite",
+          "barkod": "5099206110427",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M190, sivi",
+          "barkod": "5099206091832",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G G321 bijele",
+          "barkod": "5099206133310",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G PRO X2 LIGHTSPEED, gaming, bezicne, crne",
+          "barkod": "5099206109056",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LOGITECH G213 Prodigy, gaming tipkovnica",
+          "barkod": "5099206125469",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech BRIO 300 crna",
+          "barkod": "5099206104938",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
+          "barkod": "5099206112100",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech BRIO 100 bijela",
+          "barkod": "5099206113275",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming podloga za mis LOGITECH Pro X Control",
+          "barkod": "5099206134331",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming tipkovnica Logitech G316X 98, crna mehanicka gaming tipkovnica",
+          "barkod": "5099206137783",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G915 X CORDED gaming, mehanicka-tactile, zicana",
+          "barkod": "5099206124608",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G Pro X Superlight 2 SE",
+          "barkod": "5099206129931",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK270, bezicna, crna",
+          "barkod": "5099206039384",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G PRO X TKL LIGHTSPEED, gaming, LIGHTSYNC RGB, mehanicka-tactile, bezicna, crna",
+          "barkod": "5099206113473",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech POWERPLAY 2 Wireless Charging System",
+          "barkod": "5099206128828",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G413 SE, gaming, LIGHTSYNC RGB, mehanicka, zicana, crna",
+          "barkod": "5099206097926",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis LOGITECH G502 X, zicani, bijeli",
+          "barkod": "5099206096318",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G309 LIGHTSPEED, crni",
+          "barkod": "5099206117860",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech POP ICON Keys, Rose - US INTL - BT",
+          "barkod": "5099206127548",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech G515 Lightspeed TKL black US",
+          "barkod": "5099206119871",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, ljubicasti",
+          "barkod": "5099206134799",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
