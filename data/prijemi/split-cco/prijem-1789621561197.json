@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T05:06:01.197Z",
-  "azurirano": "2026-09-17T05:50:30.986Z",
+  "azurirano": "2026-09-17T05:50:46.619Z",
   "dokumenti": [
     {
       "naziv": "MSI 5914-101",
@@ -606,7 +606,7 @@
           "naziv": "Parna postaja Tefal GV9221E0",
           "barkod": "3121040077238",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Tefal GC270D10",
@@ -690,7 +690,7 @@
           "naziv": "Aparat za kavu Nespresso VERTUO Pop Red S GCV2-EURENE-S",
           "barkod": "8606112020114",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Philips HD2511/70",
@@ -828,7 +828,7 @@
           "naziv": "Parna postaja Tefal GV9823E1, 9 bara, Gold Black",
           "barkod": "3121040091005",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Ninja Dual Zone AF451EU",
