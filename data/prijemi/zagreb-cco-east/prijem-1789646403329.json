@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T12:00:03.329Z",
-  "azurirano": "2026-09-17T19:33:22.529Z",
+  "azurirano": "2026-09-17T19:33:32.261Z",
   "dokumenti": [
     {
       "naziv": "MSI 6023-101",
@@ -479,7 +479,7 @@
           "naziv": "USB stick ADATA UV210, 64GB, USB2.0 GD",
           "barkod": "4712366965850",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Kyson 128GB USB 3.2",
