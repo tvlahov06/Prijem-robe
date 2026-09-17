@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T09:24:32.642Z",
-  "azurirano": "2026-09-17T12:40:21.884Z",
+  "azurirano": "2026-09-17T12:40:27.060Z",
   "dokumenti": [
     {
       "naziv": "logista1",
@@ -290,7 +290,7 @@
           "naziv": "Kucni Punjac PLOOS, 1A, 1xUSB-A, Crni",
           "barkod": "8018080367755",
           "ocekivano": 10,
-          "skenirano": 9
+          "skenirano": 10
         },
         {
           "naziv": "Kucni Punjac PLOOS, 1A, 1xUSB-A, Kabel Micro USB 100cm, Crni",
@@ -302,7 +302,7 @@
           "naziv": "Kucni Punjac PLOOS, 20W, 1xUSB-C, Kabel USB-C na MFI, Crni",
           "barkod": "8018080399503",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kucni Punjac PLOOS, 2A, 1xUSB-A, Kabel USB-C 100cm, Crni",
