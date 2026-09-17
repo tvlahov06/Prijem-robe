@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T05:06:01.197Z",
-  "azurirano": "2026-09-17T05:47:04.155Z",
+  "azurirano": "2026-09-17T05:47:07.671Z",
   "dokumenti": [
     {
       "naziv": "MSI 5914-101",
@@ -1025,7 +1025,7 @@
           "naziv": "Usisavac rucni Gorenje MVC72FW",
           "barkod": "3838782040542",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3020/70",
