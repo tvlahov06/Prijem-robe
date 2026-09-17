@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T07:18:24.266Z",
-  "azurirano": "2026-09-17T07:23:17.482Z",
+  "azurirano": "2026-09-17T07:23:56.241Z",
   "dokumenti": [
     {
       "naziv": "logista_1709",
@@ -266,13 +266,13 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16",
           "barkod": "8018080483011",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO MAX",
           "barkod": "8018080483042",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 20.000 BLUE",
@@ -416,7 +416,7 @@
           "naziv": "Zastitno Staklo CELLULARLINE, Samsung Galaxy S24 FE/A36/A56/A37",
           "barkod": "8018080514753",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TRUST PC PUNJAC ZA LAPTOP UNIVERZALNI PRIMO 19V-45W",
