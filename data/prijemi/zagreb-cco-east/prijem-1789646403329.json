@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T12:00:03.329Z",
-  "azurirano": "2026-09-17T19:33:32.261Z",
+  "azurirano": "2026-09-17T19:33:35.351Z",
   "dokumenti": [
     {
       "naziv": "MSI 6023-101",
@@ -395,7 +395,7 @@
           "naziv": "USB stick Samsung 64GB Type-C plavi MUF-64DA/APC",
           "barkod": "8806092535886",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "T3U TP-Link Archer T3U Nano, AC1300 WLAN USB adapter Nano",
