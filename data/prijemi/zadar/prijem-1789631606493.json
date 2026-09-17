@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T09:24:20.826Z",
-  "azurirano": "2026-09-17T09:26:13.557Z",
+  "azurirano": "2026-09-17T09:26:59.733Z",
   "dokumenti": [
     {
       "naziv": "MSI 6001-101",
@@ -360,13 +360,13 @@
           "naziv": "Epson EcoTank L3276 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
           "barkod": "8715946727271",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP Smart Tank 580 All-in-One (1F3Y2A) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
           "barkod": "196188530313",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP OfficeJet Pro 8122e All-in-One (405U3B) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Duplex, Wi-Fi, LAN, USB,",
