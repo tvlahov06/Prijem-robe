@@ -1,0 +1,406 @@
+{
+  "id": "prijem-1789624039956",
+  "poslovnica": "zagreb-cco-east",
+  "naziv": "",
+  "datum": "2026-09-17",
+  "status": "aktivan",
+  "kreirano": "2026-09-17T05:47:19.956Z",
+  "azurirano": "2026-09-17T05:47:19.956Z",
+  "dokumenti": [
+    {
+      "naziv": "Narudžba_Control_Center",
+      "stavke": [
+        {
+          "naziv": "CELLULARLINE PODATKOVNI KABEL MFI 120 CM",
+          "barkod": "8018080175466",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac ANKER 511 CHARGER NANO 3, 30W: BIJELA-PUNJAC",
+          "barkod": "0194644103538",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO",
+          "barkod": "8018080483035",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
+          "barkod": "8018080367199",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC APPLE USB-C 30W",
+          "barkod": "8018080433559",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLACK",
+          "barkod": "8713439250848",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KP ADAPTER USB-C 45W",
+          "barkod": "8018080438264",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUTO PUNJAC MULTIPOWER ADAPTER FAST+ DUAL USB-A/USB-C 32W",
+          "barkod": "8018080420719",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KP USB-C I KABEL C-C 45W",
+          "barkod": "8018080438240",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC IPHONE USB-C I KABEL C TO LIGHTNING 20W",
+          "barkod": "8018080398476",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELULLARLINE AUTO ADAPTER TYPE-C 20W",
+          "barkod": "8018080468063",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST SLUSALICE ZA PS5, FORTA, BIJELE GXT498W",
+          "barkod": "8713439247169",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC MULTIPOWER MICRO 45W DUAL USB-C/USB-A",
+          "barkod": "8018080444715",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST GM MIS WLESS,FELOX,BLACK,GXT110",
+          "barkod": "8713439250374",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastita Preklopna CELLULARLINE, Book Essential, Samsung Galaxy A57, Crna",
+          "barkod": "8018080514715",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Maska CELLULARLINE, Fine, Samsung Galaxy  A57, Prozirna",
+          "barkod": "8018080514555",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne ANKER SOUNDCORE BT K20i crne",
+          "barkod": "0194644037635",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice PLOOS, Capsule, In-Ear, USB-C, Black",
+          "barkod": "8018080456688",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitno Staklo CELLULARLINE, Samsung Galaxy S24 FE/A36/A56/A37",
+          "barkod": "8018080514753",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO",
+          "barkod": "8018080499609",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA SENSATION IPHONE 17 PRO BLACK",
+          "barkod": "8018080499661",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC USB 3.2 CITAC KARTICA BRZI",
+          "barkod": "8713439241358",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Trust Torix GTX866 mehanicka",
+          "barkod": "8713439249101",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Trust gaming tipkovnica US, TKL, THADO, GXT83, crna",
+          "barkod": "8713439258868",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica sa misem Trust Primo HR/SI",
+          "barkod": "8713439243840",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ACL SLUSALICE BT TWS CORE BLACK",
+          "barkod": "8018080490576",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Trust bluetooth, HR layout",
+          "barkod": "8713439262100",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Trust gaming tipkovnica, HR I MIS, WLESS, THADO, crna",
+          "barkod": "8713439260939",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17",
+          "barkod": "8018080499623",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bluetooth slusalice ANKER SoundCore Liberty 5, crne",
+          "barkod": "0194644291334",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth Anker Soundcore Q20I crne",
+          "barkod": "0194644127008",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice SOUNDCORE TWS R60i NC Bluetooth Crne",
+          "barkod": "0194644269470",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE SLEEK BLUETOOTH MONO HEADSET",
+          "barkod": "8018080453199",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST GAMING SLUSALICE,ZIROX,WHITE,GXT415",
+          "barkod": "8713439251470",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, sensation, crna",
+          "barkod": "8018080510144",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Trust Carus GXT492 black",
+          "barkod": "8713439254471",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice TRUST GAMING MULTIPLATFORM,WLESS,CARUS,WHITE,GXT493W",
+          "barkod": "8713439255348",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicne slusalice ANKER Soundcore Space 2, bijele",
+          "barkod": "0194644307813",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Citac Pametnih Kartica TRUST Primo 26253, PC, USB-C",
+          "barkod": "8713439262537",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, book essential",
+          "barkod": "8018080511042",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA FINE IPHONE 17 PRO MAX",
+          "barkod": "8018080499531",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO MAX",
+          "barkod": "8018080499586",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA SENSATION IPHONE 17 PRO MAX BLACK",
+          "barkod": "8018080499630",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica i mis Trust ODY II Wireless",
+          "barkod": "8713439253665",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC PODLOGA ZA MIS M BOYE BLUE",
+          "barkod": "8713439247442",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GM POSTOLJE ZA HLADENJE PR.RACUNALA DO 17.3'' YOZU GXT278",
+          "barkod": "8713439208177",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER MAG GO Kucni bezicni punjac 15W, 3u1, bijeli",
+          "barkod": "0194644157265",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Kucni bezicni punjac sa magnetskim drzacem 15W, 3u1, crni",
+          "barkod": "0194644173050",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne ANKER Soundcore Aerofit 2 bijele",
+          "barkod": "0194644298883",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST GM SLUSALICE,FAYZO,BLACK,GXT489",
+          "barkod": "8713439248982",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST GAMING SLUSALICE,ZIROX,BLUE,GXT415",
+          "barkod": "8713439249910",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC TIPKOVNICA S MISEM US WLESS TREZO",
+          "barkod": "8713439245295",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Trust Carus GXT492W white",
+          "barkod": "8713439254488",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna Baterija PLOOS, 10000 mAh, Black",
+          "barkod": "8018080458545",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST GM MIS WLESS,FELOX,WHITE,GXT110W",
+          "barkod": "8713439250695",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC PODLOGA ZA MIS M BOYE BLACK",
+          "barkod": "8713439247435",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicne slusalice ANKER Soundcore Space 2, crne",
+          "barkod": "0194644306502",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE BT MONO HEADSET BOLD UNIV. BLACK",
+          "barkod": "8018080386220",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bluetooth slusalice ANKER SoundCore Liberty 5, bijele",
+          "barkod": "0194644230807",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, silikonska",
+          "barkod": "8018080510496",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Postolje za hladenje racunala Trust Cyclone do 16\"",
+          "barkod": "8713439178661",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice SOUNDCORE TWS Sleep A30 Bijele",
+          "barkod": "0194644266028",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mrezni Punjac CELLULARLINE GaN+ 100W 2x USB-C/USB-A",
+          "barkod": "8018080514326",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER GaN Prime stolni punjac 250W, 3xUSB-C/1xUSB-A, crni",
+          "barkod": "0194644040437",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUTO PUNJAC MFI I KABEL 2A/10W",
+          "barkod": "8018080226472",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
