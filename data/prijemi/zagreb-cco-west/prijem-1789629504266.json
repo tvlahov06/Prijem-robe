@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T07:18:24.266Z",
-  "azurirano": "2026-09-17T07:36:12.129Z",
+  "azurirano": "2026-09-17T07:36:15.623Z",
   "dokumenti": [
     {
       "naziv": "logista_1709",
@@ -188,7 +188,7 @@
           "naziv": "CELLULARLINE KABEL TYPE C TO C 300 CM",
           "barkod": "8018080373664",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ACL AUDIO KABEL 3.5 MM NA TYPE-C",
