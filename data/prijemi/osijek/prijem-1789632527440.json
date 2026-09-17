@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T08:08:47.440Z",
-  "azurirano": "2026-09-17T08:34:43.825Z",
+  "azurirano": "2026-09-17T08:34:46.771Z",
   "dokumenti": [
     {
       "naziv": "MSI 5921-101",
@@ -501,7 +501,7 @@
           "naziv": "Brijaci aparat Philips S3244/12",
           "barkod": "8720689018609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 17U1 Philips MG9535/15",
