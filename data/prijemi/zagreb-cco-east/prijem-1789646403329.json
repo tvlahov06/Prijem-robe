@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T12:00:03.329Z",
-  "azurirano": "2026-09-17T19:32:50.841Z",
+  "azurirano": "2026-09-17T19:33:04.265Z",
   "dokumenti": [
     {
       "naziv": "MSI 6023-101",
@@ -485,7 +485,7 @@
           "naziv": "USB STICK Kingston FD Kyson 128GB USB 3.2",
           "barkod": "740617309119",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Razer DeathAdder Essential, bijeli 0-R3M1",
