@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T09:24:32.642Z",
-  "azurirano": "2026-09-17T12:35:20.478Z",
+  "azurirano": "2026-09-17T12:35:30.886Z",
   "dokumenti": [
     {
       "naziv": "logista1",
@@ -188,13 +188,13 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO",
           "barkod": "8018080483035",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO MAX",
           "barkod": "8018080483042",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN Audio 3.5 mm musko/zenski (produzni), 2m",
