@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T09:24:32.642Z",
-  "azurirano": "2026-09-17T12:33:21.428Z",
+  "azurirano": "2026-09-17T12:33:24.430Z",
   "dokumenti": [
     {
       "naziv": "logista1",
@@ -278,7 +278,7 @@
           "naziv": "Kabel MANHATTAN USB 3.0 Type-A to Type-C, 2m",
           "barkod": "766623394871",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN USB-C to DisplayPort (DP) 8K@60Hz, 2m",
