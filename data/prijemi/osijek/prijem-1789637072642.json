@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T09:24:32.642Z",
-  "azurirano": "2026-09-17T12:32:12.111Z",
+  "azurirano": "2026-09-17T12:32:19.423Z",
   "dokumenti": [
     {
       "naziv": "logista1",
@@ -242,13 +242,13 @@
           "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 2m",
           "barkod": "766623394963",
           "ocekivano": 3,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 3m",
           "barkod": "766623394970",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 2m",
