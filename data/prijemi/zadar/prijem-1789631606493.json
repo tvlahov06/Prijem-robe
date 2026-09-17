@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T09:24:20.826Z",
-  "azurirano": "2026-09-17T10:10:34.787Z",
+  "azurirano": "2026-09-17T10:10:51.851Z",
   "dokumenti": [
     {
       "naziv": "MSI 6001-101",
@@ -49,53 +49,6 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 2,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5904-101",
-      "stavke": [
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
-          "barkod": "5025155117187",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Usisavac Dyson V15s Detect Submarine",
-          "barkod": "5025155136218",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac Dyson V8 Total Clean",
-          "barkod": "5025155080306",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac Dyson V16 Piston Animal Submarine",
-          "barkod": "5025155114841",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
-          "barkod": "5025155112656",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NB907CP 900W",
-          "barkod": "8006447000087",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NBP003NBL Portable plavi",
-          "barkod": "8006447002111",
-          "ocekivano": 1,
           "skenirano": 1
         }
       ]
