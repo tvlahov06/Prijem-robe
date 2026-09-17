@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T07:53:26.493Z",
-  "azurirano": "2026-09-17T08:57:05.420Z",
+  "azurirano": "2026-09-17T08:57:11.209Z",
   "dokumenti": [
     {
       "naziv": "MSI 6001-101",
@@ -966,7 +966,7 @@
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
           "barkod": "8004399329485",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9550/09",
@@ -1098,7 +1098,7 @@
           "naziv": "Filter za vodu za aparat za kavu DeLonghi DLSC002",
           "barkod": "8004399327252",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Grey S C30-EUGRNE2-S",
