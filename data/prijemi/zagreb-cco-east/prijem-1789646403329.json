@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T12:00:03.329Z",
-  "azurirano": "2026-09-17T19:32:13.525Z",
+  "azurirano": "2026-09-17T19:32:18.757Z",
   "dokumenti": [
     {
       "naziv": "MSI 6023-101",
@@ -503,7 +503,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 512GB USB 3.2 Black-Yellow",
           "barkod": "740617348774",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link RE190, pojacivac signala AC750",
