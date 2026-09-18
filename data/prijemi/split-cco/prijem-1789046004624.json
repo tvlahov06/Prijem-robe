@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T07:32:27.844Z",
-  "azurirano": "2026-09-18T07:40:09.951Z",
+  "azurirano": "2026-09-18T07:40:52.536Z",
   "dokumenti": [
     {
       "naziv": "BigPartner - JBL",
@@ -163,7 +163,7 @@
           "naziv": "CELLULARLINE AUDIO ADAPTER AUX-TYPE-C",
           "barkod": "8018080351518",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "CELLULARLINE AUTO PUNJAC MULTIPOWER ADAPTER FAST+ DUAL USB-A/USB-C 32W",
@@ -223,7 +223,7 @@
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 20.000 BLUE",
           "barkod": "8018080484629",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
@@ -259,7 +259,7 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 17 AIR",
           "barkod": "8018080501784",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "GM MIS WLESS,HIGH PERF,REDEX+,GXT927",
@@ -277,13 +277,13 @@
           "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 2m",
           "barkod": "766623356770",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 3m",
           "barkod": "766623356787",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Kabel MANHATTAN USB-C to DisplayPort (DP) 8K@60Hz, 2m",
@@ -301,7 +301,7 @@
           "naziv": "Mis bezicni Trust Helox GXT929 crni",
           "barkod": "8713439253078",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 4
         },
         {
           "naziv": "Mrezni Punjac CELLULARLINE GaN+ 100W 2x USB-C/USB-A",
@@ -379,7 +379,7 @@
           "naziv": "TRUST GM MIS WLESS,FELOX,BLACK,GXT110",
           "barkod": "8713439250374",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "TRUST PC ADAPTER USB-C 3U1 DALYX",
