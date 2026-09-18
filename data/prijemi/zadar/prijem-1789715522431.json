@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T07:12:02.431Z",
-  "azurirano": "2026-09-18T07:16:42.738Z",
+  "azurirano": "2026-09-18T07:16:46.839Z",
   "dokumenti": [
     {
       "naziv": "MSI 6000-101",
@@ -271,7 +271,7 @@
           "naziv": "Perilica rublja Hisense WF5S1045BW",
           "barkod": "6901101825575",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Bosch WGG244Z5BY",
@@ -289,7 +289,7 @@
           "naziv": "Perilica rublja Hisense WF7S1247BW",
           "barkod": "6901101827395",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica susilica rublja GORENJE WD2PA1X64ADW",
