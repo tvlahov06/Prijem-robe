@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T07:12:02.431Z",
-  "azurirano": "2026-09-18T07:16:24.180Z",
+  "azurirano": "2026-09-18T07:16:32.698Z",
   "dokumenti": [
     {
       "naziv": "MSI 6000-101",
@@ -295,13 +295,13 @@
           "naziv": "Perilica susilica rublja GORENJE WD2PA1X64ADW",
           "barkod": "3838782818431",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja LG F2WR509SBW slim",
           "barkod": "8806084525796",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrovalna pecnica Gorenje MO17E1S",
@@ -506,7 +506,7 @@
           "naziv": "Vinski hladnjak Hisense RW3N122GSLF",
           "barkod": "6921727080981",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "27SB7-S Perilica rublja CANDY GD 27SB7-S",
