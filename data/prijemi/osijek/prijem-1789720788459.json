@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T08:39:48.459Z",
-  "azurirano": "2026-09-18T08:47:06.233Z",
+  "azurirano": "2026-09-18T08:47:10.364Z",
   "dokumenti": [
     {
       "naziv": "MSI 5987-101",
@@ -824,13 +824,13 @@
           "naziv": "Apple iPhone 18 Pro Silicone Case with MagSafe - Burgundy",
           "barkod": "195951408194",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 18 Pro Clear Case with MagSafe",
           "barkod": "195951381886",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Apple iPhone 18 Pro Max TechWoven Case with MagSafe - Black",
