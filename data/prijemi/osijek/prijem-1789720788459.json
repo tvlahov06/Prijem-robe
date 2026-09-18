@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T08:39:48.459Z",
-  "azurirano": "2026-09-18T09:32:28.578Z",
+  "azurirano": "2026-09-18T09:32:43.637Z",
   "dokumenti": [
     {
       "naziv": "MSI 5987-101",
@@ -104,7 +104,7 @@
           "naziv": "Usisavac ELECTROLUX EB61C4DB",
           "barkod": "7332543823031",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sjeckalica Bosch MMR08R2 800 ml, crvena/antracit",
@@ -140,7 +140,7 @@
           "naziv": "Friteza na vruci zrak Philips NA555/00 Airfryer Dual Basket, para",
           "barkod": "8720389047558",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Tefal SV6212E0 Power Pro Compact 200",
