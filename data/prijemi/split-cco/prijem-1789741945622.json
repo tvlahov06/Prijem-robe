@@ -4,8 +4,8 @@
   "naziv": "Roba u dolasku",
   "datum": "2026-09-18",
   "status": "aktivan",
-  "kreirano": "2026-09-18T14:32:25.622Z",
-  "azurirano": "2026-09-18T14:32:25.622Z",
+  "kreirano": "2026-09-18T23:23:23.552Z",
+  "azurirano": "2026-09-18T23:23:23.552Z",
   "dokumenti": [
     {
       "naziv": "MSI 6065-101",
@@ -170,6 +170,23 @@
           "naziv": "Mis Logitech Lift Vertical Ergonomic, bijeli",
           "barkod": "5099206099845",
           "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6074-101",
+      "stavke": [
+        {
+          "naziv": "TV SONY K55A65PB.CEI, 139 cm (55''), Bravia 6, OLED, 4K Google TV",
+          "barkod": "4548736183025",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY K65A65PB.CEI, 164 cm (65''), Bravia 6, OLED, 4K Google TV",
+          "barkod": "4548736183049",
+          "ocekivano": 2,
           "skenirano": 0
         }
       ]
