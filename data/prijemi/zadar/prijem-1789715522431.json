@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T07:12:02.431Z",
-  "azurirano": "2026-09-18T07:41:47.610Z",
+  "azurirano": "2026-09-18T07:42:02.511Z",
   "dokumenti": [
     {
       "naziv": "MSI 6000-101",
@@ -14,7 +14,7 @@
           "naziv": "Asus USB-C Mini Dock DC100",
           "barkod": "4711081799320",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
@@ -194,7 +194,7 @@
           "naziv": "Mis Razer DeathAdder Essential 0-R3M1",
           "barkod": "8886419333265",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "White Shark TIPKOVNICA GK-004212 SHINOBI-2 Bijela- -RED.SW Mehanicka / HR- RED SW.",
