@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T07:12:02.431Z",
-  "azurirano": "2026-09-18T07:38:26.603Z",
+  "azurirano": "2026-09-18T07:38:28.852Z",
   "dokumenti": [
     {
       "naziv": "MSI 6000-101",
@@ -74,7 +74,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
           "barkod": "4718050609642",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link RE205, pojacivac signala AC750",
