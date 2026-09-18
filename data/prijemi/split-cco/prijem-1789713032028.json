@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T06:30:32.028Z",
-  "azurirano": "2026-09-18T06:57:31.050Z",
+  "azurirano": "2026-09-18T06:57:35.427Z",
   "dokumenti": [
     {
       "naziv": "MSI 6024-101",
@@ -287,7 +287,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
           "barkod": "4713218461933",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
@@ -485,7 +485,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 256GB, USB3.2",
           "barkod": "740617326383",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
