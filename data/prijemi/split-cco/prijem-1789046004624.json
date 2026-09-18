@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T10:28:57.702Z",
-  "azurirano": "2026-09-18T06:42:53.436Z",
+  "azurirano": "2026-09-18T06:42:58.997Z",
   "dokumenti": [
     {
       "naziv": "Comtrade",
@@ -366,7 +366,7 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 17 AIR",
           "barkod": "8018080501784",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "GM MIS WLESS,HIGH PERF,REDEX+,GXT927",
@@ -546,7 +546,7 @@
           "naziv": "Zastitno Staklo CELLULARLINE, Samsung Galaxy S24 FE/A36/A56/A37",
           "barkod": "8018080514753",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         }
       ]
     }
