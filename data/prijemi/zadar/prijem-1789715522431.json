@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T07:12:02.431Z",
-  "azurirano": "2026-09-18T07:16:32.698Z",
+  "azurirano": "2026-09-18T07:16:42.738Z",
   "dokumenti": [
     {
       "naziv": "MSI 6000-101",
@@ -277,7 +277,7 @@
           "naziv": "Perilica rublja Bosch WGG244Z5BY",
           "barkod": "4242005449163",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilica rublja Bosch WTH83256BY",
@@ -319,7 +319,7 @@
           "naziv": "Perilica posuda samostojeca Bosch SMS46KI01E",
           "barkod": "4242002993300",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
