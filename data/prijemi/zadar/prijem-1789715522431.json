@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T07:12:02.431Z",
-  "azurirano": "2026-09-18T07:37:49.905Z",
+  "azurirano": "2026-09-18T07:37:56.031Z",
   "dokumenti": [
     {
       "naziv": "MSI 6000-101",
@@ -50,7 +50,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
@@ -110,7 +110,7 @@
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
           "barkod": "4713435796641",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "T3U TP-Link Archer T3U Nano, AC1300 WLAN USB adapter Nano",
@@ -248,7 +248,7 @@
           "naziv": "Memorijska kartica Kingston 512GB micSDHC Canvas Select Plus G3 150R+",
           "barkod": "740617348552",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "WHITE SHARK GM-5016 Ector, 12.000 DPI, roza boja | Gaming mis",
