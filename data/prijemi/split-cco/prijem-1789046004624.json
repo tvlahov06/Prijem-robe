@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T10:28:57.702Z",
-  "azurirano": "2026-09-18T06:37:08.506Z",
+  "azurirano": "2026-09-18T06:37:12.449Z",
   "dokumenti": [
     {
       "naziv": "Comtrade",
@@ -372,7 +372,7 @@
           "naziv": "GM MIS WLESS,HIGH PERF,REDEX+,GXT927",
           "barkod": "8713439251272",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 1m",
@@ -486,7 +486,7 @@
           "naziv": "TRUST GM MIS WLESS,FELOX,BLACK,GXT110",
           "barkod": "8713439250374",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "TRUST PC ADAPTER USB-C 3U1 DALYX",
