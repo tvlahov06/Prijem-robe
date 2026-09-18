@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T07:12:02.431Z",
-  "azurirano": "2026-09-18T09:49:08.114Z",
+  "azurirano": "2026-09-18T12:08:07.435Z",
   "dokumenti": [
     {
       "naziv": "MSI 6006-101",
@@ -61,35 +61,6 @@
         {
           "naziv": "Perilica posuda samostojeca Bosch SMS46KI01E",
           "barkod": "4242002993300",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 5995-101",
-      "stavke": [
-        {
-          "naziv": "Hladnjak samostojeci Beko LS9052WN",
-          "barkod": "8690842588945",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Vinski hladnjak Hisense RW3N122GSLF",
-          "barkod": "6921727080981",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "27SB7-S Perilica rublja CANDY GD 27SB7-S",
-          "barkod": "8059019114026",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pecnica ugradbena Bosch HBA571BB4",
-          "barkod": "4242005543762",
           "ocekivano": 1,
           "skenirano": 1
         }
