@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T07:12:02.431Z",
-  "azurirano": "2026-09-18T07:38:12.764Z",
+  "azurirano": "2026-09-18T07:38:19.717Z",
   "dokumenti": [
     {
       "naziv": "MSI 6000-101",
@@ -134,7 +134,7 @@
           "naziv": "USB stick Samsung 256GB BAR Plus crni MUF-256BE4/APC PC",
           "barkod": "8801643230678",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MicroSD memorijska kartica Samsung 256GB PRO U Endurance MB-MJ256KA/EU",
@@ -152,7 +152,7 @@
           "naziv": "ADATA C008, 32GB, USB2.0, plavo-bijeli",
           "barkod": "4718050609666",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD Samsung 2.5\" 500GB 870 EVO SATA MZ-77E500B/EU",
@@ -206,7 +206,7 @@
           "naziv": "USB stick ADATA UV210, 64GB, USB2.0 GD",
           "barkod": "4712366965850",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MicroSD kartica Samsung 128 GB T7 microSDXC UHS-I W kartica MB-MB128T/WW",
