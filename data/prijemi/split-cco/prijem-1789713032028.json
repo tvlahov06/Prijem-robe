@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T06:30:32.028Z",
-  "azurirano": "2026-09-18T06:49:52.119Z",
+  "azurirano": "2026-09-18T06:50:04.268Z",
   "dokumenti": [
     {
       "naziv": "MSI 6024-101",
@@ -240,7 +240,7 @@
           "naziv": "Gramofon Sony",
           "barkod": "4548736172180",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DVB-T2/T prijemnik E-STAR",
