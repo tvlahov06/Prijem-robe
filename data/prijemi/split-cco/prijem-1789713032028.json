@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T06:30:32.028Z",
-  "azurirano": "2026-09-18T06:58:10.683Z",
+  "azurirano": "2026-09-18T06:58:37.223Z",
   "dokumenti": [
     {
       "naziv": "MSI 6024-101",
@@ -269,13 +269,13 @@
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
           "barkod": "740617348408",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
           "barkod": "740617348651",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
