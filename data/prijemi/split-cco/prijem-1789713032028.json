@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T06:30:32.028Z",
-  "azurirano": "2026-09-18T06:51:29.933Z",
+  "azurirano": "2026-09-18T06:51:46.671Z",
   "dokumenti": [
     {
       "naziv": "MSI 6024-101",
@@ -74,7 +74,7 @@
           "naziv": "Apple iPhone 18 Pro Max TechWoven Case with MagSafe - Taupe",
           "barkod": "195951381794",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 18 Pro TechWoven Case with MagSafe - Chambray Blue",
@@ -86,7 +86,7 @@
           "naziv": "Apple iPhone 18 Pro Max TechWoven Case with MagSafe - Chambray Blue",
           "barkod": "195951381824",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 18 Pro Max Silicone Case with MagSafe - Navy Blue",
@@ -110,13 +110,13 @@
           "naziv": "Apple iPhone 18 Pro Silicone Case with MagSafe - Crisp Blue",
           "barkod": "195951408217",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple iPhone 18 Pro Max Silicone Case with MagSafe - Black",
           "barkod": "195951408354",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Apple iPhone 18 Pro TechWoven Case with MagSafe - Black",
