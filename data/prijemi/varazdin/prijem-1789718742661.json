@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T08:05:42.661Z",
-  "azurirano": "2026-09-18T08:52:21.862Z",
+  "azurirano": "2026-09-18T08:52:26.043Z",
   "dokumenti": [
     {
       "naziv": "MSI 6011-101",
@@ -890,7 +890,7 @@
           "naziv": "Tinta HP GT52 M0H54AE, Cyan",
           "barkod": "190780132517",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Razer Basilisk V3 Pro 0-R3G1",
@@ -932,7 +932,7 @@
           "naziv": "Tinta HP GT52 M0H55AE, Magenta",
           "barkod": "190780132531",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta EPSON 103 T00S4 L3150 yellow ecotank C13T00S44A 65ml",
