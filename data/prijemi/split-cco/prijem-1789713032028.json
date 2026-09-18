@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T06:30:32.028Z",
-  "azurirano": "2026-09-18T06:49:26.011Z",
+  "azurirano": "2026-09-18T06:49:35.068Z",
   "dokumenti": [
     {
       "naziv": "MSI 6024-101",
@@ -246,7 +246,7 @@
           "naziv": "DVB-T2/T prijemnik E-STAR",
           "barkod": "5292618761540",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX EB-TWS-12, crna boja | Bezicne slusalice",
