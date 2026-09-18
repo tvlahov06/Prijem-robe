@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T07:12:02.431Z",
-  "azurirano": "2026-09-18T07:37:39.728Z",
+  "azurirano": "2026-09-18T07:37:47.816Z",
   "dokumenti": [
     {
       "naziv": "MSI 6000-101",
@@ -62,13 +62,13 @@
           "naziv": "Memorijska kartica Kingston 256GB micSDHC Canvas Select Plus G3 150R+",
           "barkod": "740617348507",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MicroSD kartica Samsung 512 GB T7 microSDXC UHS-I W kartica MB-MB128T/WW",
           "barkod": "8806097635062",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
@@ -128,7 +128,7 @@
           "naziv": "USB STICK KINGSTON FD Exodia 64GB USB 3.2",
           "barkod": "740617309829",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick Samsung 256GB BAR Plus crni MUF-256BE4/APC PC",
