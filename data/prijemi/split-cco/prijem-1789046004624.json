@@ -5,7 +5,7 @@
   "datum": "2026-09-17",
   "status": "aktivan",
   "kreirano": "2026-09-17T10:28:57.702Z",
-  "azurirano": "2026-09-18T06:34:54.773Z",
+  "azurirano": "2026-09-18T06:35:06.053Z",
   "dokumenti": [
     {
       "naziv": "Comtrade",
@@ -498,13 +498,13 @@
           "naziv": "TRUST PC PODLOGA ZA MIS M BOYE BLACK",
           "barkod": "8713439247435",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "TRUST PC PODLOGA ZA MIS M BOYE BLUE",
           "barkod": "8713439247442",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "TRUST PC PUNJAC ZA LAPTOP UNIVERZALNI PRIMO 19V-45W",
