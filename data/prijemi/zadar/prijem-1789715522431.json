@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T07:12:02.431Z",
-  "azurirano": "2026-09-18T07:38:30.875Z",
+  "azurirano": "2026-09-18T07:38:33.238Z",
   "dokumenti": [
     {
       "naziv": "MSI 6000-101",
@@ -32,7 +32,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
           "barkod": "4713218461933",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link UE300C USB Type-C na Ethernet adapter, USB 3.0 port, 10/100/1000",
