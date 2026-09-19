@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T23:23:23.552Z",
-  "azurirano": "2026-09-19T05:32:07.885Z",
+  "azurirano": "2026-09-19T05:32:20.091Z",
   "dokumenti": [
     {
       "naziv": "MSI 6065-101",
@@ -80,13 +80,13 @@
           "naziv": "LOGITECH G213 Prodigy, gaming tipkovnica",
           "barkod": "5099206125469",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
           "barkod": "5099206112100",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Logitech G915 X LIGHTSPEED, TACTILE, bezicna, RGB, crna",
@@ -158,7 +158,7 @@
           "naziv": "Logitech tipkovnica i mis Signature Slim Combo MK950 - OFF WHITE - US INT",
           "barkod": "5099206119338",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "za mis Logitech G640 EWR",
