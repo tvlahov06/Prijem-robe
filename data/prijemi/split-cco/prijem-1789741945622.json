@@ -5,7 +5,7 @@
   "datum": "2026-09-18",
   "status": "aktivan",
   "kreirano": "2026-09-18T23:23:23.552Z",
-  "azurirano": "2026-09-18T23:23:23.552Z",
+  "azurirano": "2026-09-19T05:30:35.989Z",
   "dokumenti": [
     {
       "naziv": "MSI 6065-101",
@@ -56,13 +56,13 @@
           "naziv": "Tipkovnica + mis Logitech MK120, zicana, crna",
           "barkod": "5099206020573",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Slusalice Logitech G432, 7.1 gaming, zicane, crno-plave",
           "barkod": "5099206082410",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M171, bijeli",
@@ -92,7 +92,7 @@
           "naziv": "Tipkovnica Logitech G915 X LIGHTSPEED, TACTILE, bezicna, RGB, crna",
           "barkod": "5099206121423",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Logitech G335, gaming, zicane, bijelo-plave",
