@@ -3,9 +3,9 @@
   "poslovnica": "varazdin",
   "naziv": "Roba 21.9.2026.",
   "datum": "2026-09-21",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-09-21T09:42:15.731Z",
-  "azurirano": "2026-09-21T10:03:32.080Z",
+  "azurirano": "2026-09-21T10:03:39.154Z",
   "dokumenti": [
     {
       "naziv": "MSI 6071-101",
@@ -439,5 +439,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-09-21T10:03:39.131Z"
 }
