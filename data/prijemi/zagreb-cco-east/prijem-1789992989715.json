@@ -5,7 +5,7 @@
   "datum": "2026-09-21",
   "status": "aktivan",
   "kreirano": "2026-09-21T12:16:29.715Z",
-  "azurirano": "2026-09-21T19:12:09.546Z",
+  "azurirano": "2026-09-21T19:12:21.902Z",
   "dokumenti": [
     {
       "naziv": "MSI 6057-101",
@@ -26,7 +26,7 @@
           "naziv": "Gaming mis LOGITECH PRO X2 SUPERSTRIKE",
           "barkod": "5099206136199",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Podloga za mis Logitech G240",
@@ -44,7 +44,7 @@
           "naziv": "Mis LOGITECH MX Master 4 bijeli",
           "barkod": "5099206133099",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M171, crni",
@@ -92,7 +92,7 @@
           "naziv": "Mis Logitech M171, bijeli",
           "barkod": "5099206108790",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Web kamera Logitech BRIO 500 crna",
@@ -104,7 +104,7 @@
           "naziv": "Mis Logitech G PRO X Superlight 2, bijeli",
           "barkod": "5099206104549",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M350s Pebble, graphite",
@@ -116,13 +116,13 @@
           "naziv": "Mis Logitech M190, sivi",
           "barkod": "5099206091832",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Logitech G G321 bijele",
           "barkod": "5099206133310",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Logitech G PRO X2 LIGHTSPEED, gaming, bezicne, crne",
@@ -212,7 +212,7 @@
           "naziv": "Mis Logitech G309 LIGHTSPEED, crni",
           "barkod": "5099206117860",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Logitech POP ICON Keys, Rose - US INTL - BT",
@@ -230,7 +230,7 @@
           "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, ljubicasti",
           "barkod": "5099206134799",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
