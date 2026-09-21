@@ -5,7 +5,7 @@
   "datum": "2026-09-21",
   "status": "aktivan",
   "kreirano": "2026-09-21T12:16:29.715Z",
-  "azurirano": "2026-09-21T19:14:30.076Z",
+  "azurirano": "2026-09-21T19:14:36.088Z",
   "dokumenti": [
     {
       "naziv": "MSI 6057-101",
@@ -62,7 +62,7 @@
           "naziv": "Mis Logitech MX Anywhere 3S Graphite",
           "barkod": "5099206111721",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK540 Advanced, bezicna, siva",
@@ -224,7 +224,7 @@
           "naziv": "Tipkovnica Logitech G515 Lightspeed TKL black US",
           "barkod": "5099206119871",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, ljubicasti",
