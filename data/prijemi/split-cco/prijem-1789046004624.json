@@ -2,10 +2,10 @@
   "id": "prijem-1789046004624",
   "poslovnica": "split-cco",
   "naziv": "Komisija u dolasku",
-  "datum": "2026-09-18",
-  "status": "zavrsen",
-  "kreirano": "2026-09-18T07:32:27.844Z",
-  "azurirano": "2026-09-18T14:31:45.799Z",
+  "datum": "2026-09-21",
+  "status": "aktivan",
+  "kreirano": "2026-09-21T18:53:57.680Z",
+  "azurirano": "2026-09-21T18:53:57.680Z",
   "dokumenti": [
     {
       "naziv": "BigPartner - JBL",
@@ -107,7 +107,83 @@
           "skenirano": 0
         }
       ]
+    },
+    {
+      "naziv": "MMM Agram",
+      "stavke": [
+        {
+          "naziv": "Mobitel Honor 600 Lite 5G DS 8GB/256GB Velvet Black",
+          "barkod": "6936520891962",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel HONOR X5c Plus 4GB/64GB Midnight Black",
+          "barkod": "6936520876099",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel HONOR X5c Plus 4GB/64GB Ocean Cyan",
+          "barkod": "6936520876105",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Motorola edge 60 Pro 8GB/256GB Pantone Shadow Green",
+          "barkod": "840493609355",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Motorola G06 4GB/256GB Green",
+          "barkod": "840493605289",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Motorola G06 4GB/256GB plavi",
+          "barkod": "840493605265",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Motorola edge 70 fusion 12/256 PANTONE Silhouette (black)",
+          "barkod": "0840493611020",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Honor Choice Watch 2i crni",
+          "barkod": "6977887510127",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HONOR Watch 6 Shadow Black + Black Braided Strap + Blue Silicone Magnetic Strap",
+          "barkod": "6942785105249",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac HONOR SuperCharge Power Adapter (Max 80W) s kabelom",
+          "barkod": "6942785101722",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Honor Pad X8b 4GB/128GB WIFI Space Grey",
+          "barkod": "6936520897179",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Honor Pad X8b 4GB/64GB WIFI Space Grey",
+          "barkod": "6936520897162",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
     }
-  ],
-  "zavrseno": "2026-09-18T07:48:02.634Z"
+  ]
 }
