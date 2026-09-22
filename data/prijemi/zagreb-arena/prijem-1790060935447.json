@@ -5,7 +5,7 @@
   "datum": "2026-09-22",
   "status": "aktivan",
   "kreirano": "2026-09-22T07:08:55.447Z",
-  "azurirano": "2026-09-22T08:27:14.154Z",
+  "azurirano": "2026-09-22T08:27:20.271Z",
   "dokumenti": [
     {
       "naziv": "MSI 6072-101",
@@ -364,13 +364,13 @@
           "naziv": "Printer HP LaserJet MFP M234sdw, A4 mono 29ppm",
           "barkod": "0194850889585",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet M209dw A4 mono 29ppm USB",
           "barkod": "0194850664267",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV HISENSE 43E7S, 109.2cm (43\"), Hi-QLED, 4k UHD Smart TV, VIDAA OS",
