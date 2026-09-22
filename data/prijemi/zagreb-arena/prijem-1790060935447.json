@@ -5,7 +5,7 @@
   "datum": "2026-09-22",
   "status": "aktivan",
   "kreirano": "2026-09-22T07:08:55.447Z",
-  "azurirano": "2026-09-22T08:25:40.607Z",
+  "azurirano": "2026-09-22T08:25:49.421Z",
   "dokumenti": [
     {
       "naziv": "MSI 6072-101",
@@ -304,13 +304,13 @@
           "naziv": "DELL 27\" monitor SE2726H, IPS Full HD, 144Hz, 4ms, ComfortView Plus, AMD FreeSync, 2x HDMI",
           "barkod": "5397321028819",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MP242A MSI 23.8\" PRO Monitor MP242A, IPS Full HD, 100Hz, 1ms, Adaptive Sync, DisplayPort, HDMI, VGA, Zvucnici",
           "barkod": "4711377031790",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "325QF MSI 31.5\" MAG Gaming Monitor Monitor 325QF E18V, VA E18V 2K/WQHD, 180Hz, 0.5ms, Adaptive-Sync, HDR Ready,",
