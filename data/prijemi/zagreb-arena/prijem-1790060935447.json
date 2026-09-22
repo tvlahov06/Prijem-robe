@@ -5,7 +5,7 @@
   "datum": "2026-09-22",
   "status": "aktivan",
   "kreirano": "2026-09-22T07:08:55.447Z",
-  "azurirano": "2026-09-22T09:20:05.597Z",
+  "azurirano": "2026-09-22T09:20:11.809Z",
   "dokumenti": [
     {
       "naziv": "MSI 6089-101",
@@ -97,7 +97,7 @@
           "naziv": "Aparat za kavu Philips EP4441/50 espresso",
           "barkod": "8720389031588",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP143BF0 Mini Me 2 cosmic grey",
@@ -139,7 +139,7 @@
           "naziv": "Usisavac Philips FC9331/09",
           "barkod": "8720389036552",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC5141/01",
@@ -151,7 +151,7 @@
           "naziv": "Glacalo Gorenje SIH3200WR",
           "barkod": "3838782693489",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA231/00 Airfryer",
@@ -181,7 +181,7 @@
           "naziv": "Parna postaja Philips PSG8300/20",
           "barkod": "8720389066498",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Ninja DB351EUST BlendBoss Stone",
