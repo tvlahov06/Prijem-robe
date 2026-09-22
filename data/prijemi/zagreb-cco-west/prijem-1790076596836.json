@@ -5,7 +5,7 @@
   "datum": "2026-09-22",
   "status": "aktivan",
   "kreirano": "2026-09-22T11:29:56.836Z",
-  "azurirano": "2026-09-22T11:47:52.390Z",
+  "azurirano": "2026-09-22T11:48:00.447Z",
   "dokumenti": [
     {
       "naziv": "MSI 6081-101",
@@ -175,7 +175,7 @@
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
           "barkod": "8720389040733",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8300/80",
@@ -193,7 +193,7 @@
           "naziv": "Aparat za kavu Philips EP5549/70 espresso",
           "barkod": "8720389032271",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Krups KP243AF0 Genio S taupe",
@@ -235,7 +235,7 @@
           "naziv": "Aparat za kavu Philips EP2224/10 espresso",
           "barkod": "8710103894742",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Friteza na vruci zrak Tefal EY905D10 Dual Easy Fry Ultra",
