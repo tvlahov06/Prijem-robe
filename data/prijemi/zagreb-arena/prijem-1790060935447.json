@@ -5,7 +5,7 @@
   "datum": "2026-09-22",
   "status": "aktivan",
   "kreirano": "2026-09-22T07:08:55.447Z",
-  "azurirano": "2026-09-22T09:20:39.673Z",
+  "azurirano": "2026-09-22T09:20:56.219Z",
   "dokumenti": [
     {
       "naziv": "MSI 6089-101",
@@ -163,7 +163,7 @@
           "naziv": "Usisavac Philips XC3133/01",
           "barkod": "8720389029868",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Philips XU2100/25",
