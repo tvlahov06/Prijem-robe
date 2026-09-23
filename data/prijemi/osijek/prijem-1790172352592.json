@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:25:35.475Z",
+  "azurirano": "2026-09-23T14:25:44.769Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -1544,7 +1544,7 @@
           "naziv": "Usisavac Dyson V16 Piston Animal",
           "barkod": "5025155114834",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V16 Piston Animal Submarine",
@@ -1556,13 +1556,13 @@
           "naziv": "Usisavac Dyson V8 Cyclone",
           "barkod": "5025155136195",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Dyson V8 Total Clean",
           "barkod": "5025155080306",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Usisavac Electrolux EL31C2OG",
