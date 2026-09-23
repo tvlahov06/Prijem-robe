@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:54:20.722Z",
+  "azurirano": "2026-09-23T14:54:24.682Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -848,7 +848,7 @@
           "naziv": "Kuhinjski asistent Kenwood KMX754APB pastelno plavi",
           "barkod": "5011423007441",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Kenwood KMX754APP pastelno rozi",
@@ -860,7 +860,7 @@
           "naziv": "Kuhinjski asistent Kenwood KZM35.000GY GO siva",
           "barkod": "5011423008363",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ledomat Elit IM-26B Frozzino crni",
