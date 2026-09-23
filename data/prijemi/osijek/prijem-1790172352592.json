@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:32:07.218Z",
+  "azurirano": "2026-09-23T14:32:20.112Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -32,7 +32,7 @@
           "naziv": "Aparat za kavu DeLonghi EC 685.M Dedica Style",
           "barkod": "8004399331198",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 685.R Dedica Style",
@@ -44,13 +44,13 @@
           "naziv": "Aparat za kavu DeLonghi EC 890.GR Dedica Duo",
           "barkod": "8004399032538",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 890.M Dedica Duo",
           "barkod": "8004399032569",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 890.WI Dedica Duo",
@@ -218,7 +218,7 @@
           "naziv": "Aparat za kavu Philips EP3326/90 espresso",
           "barkod": "8720389030277",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP4441/50 espresso",
@@ -302,7 +302,7 @@
           "naziv": "Aparat za kavu Philips PSA3228/01 espresso Barista Brew",
           "barkod": "8720389032851",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za sladoled Ninja NC302EU Creami",
@@ -332,7 +332,7 @@
           "naziv": "Aparat za sladoled Tefal IG602AE0 Ice Cream maker Dolci, 10u1",
           "barkod": "3016661180446",
           "ocekivano": 6,
-          "skenirano": 1
+          "skenirano": 5
         },
         {
           "naziv": "Aparat za vakumiranje Gorenje VS120W",
