@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:32:32.846Z",
+  "azurirano": "2026-09-23T14:32:42.086Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -224,25 +224,25 @@
           "naziv": "Aparat za kavu Philips EP4441/50 espresso",
           "barkod": "8720389031588",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Philips EP4449/70 espresso",
           "barkod": "8720389032196",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
           "barkod": "8720389032370",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Aparat za kavu Philips EP5549/70 espresso",
           "barkod": "8720389032271",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP8757/12 espresso, Cafe Aromis",
