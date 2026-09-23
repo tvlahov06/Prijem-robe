@@ -5,7 +5,7 @@
   "datum": "2026-09-22",
   "status": "aktivan",
   "kreirano": "2026-09-22T15:06:21.198Z",
-  "azurirano": "2026-09-23T05:38:16.611Z",
+  "azurirano": "2026-09-23T05:38:20.400Z",
   "dokumenti": [
     {
       "naziv": "MSI 6074-101",
@@ -251,7 +251,7 @@
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
           "barkod": "8004399329485",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG7200/20",
