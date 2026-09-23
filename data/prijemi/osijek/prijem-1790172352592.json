@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:53:20.466Z",
+  "azurirano": "2026-09-23T14:53:25.099Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -1730,7 +1730,7 @@
           "naziv": "Usisavac robot Philips XU2100/25",
           "barkod": "8720389064999",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Philips XU5100/20",
