@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:42:17.775Z",
+  "azurirano": "2026-09-23T14:42:25.931Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -362,13 +362,13 @@
           "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
           "barkod": "8006447002166",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB505DG 500W",
           "barkod": "8006447000070",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB606R 600W",
@@ -380,13 +380,13 @@
           "naziv": "Blender Nutribullet NB907CP 900W",
           "barkod": "8006447000087",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907MACL 900W",
           "barkod": "8006447003002",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907MAJD 900W",
