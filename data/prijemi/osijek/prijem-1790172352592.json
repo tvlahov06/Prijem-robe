@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:35:09.300Z",
+  "azurirano": "2026-09-23T14:35:20.433Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -1610,7 +1610,7 @@
           "naziv": "Usisavac Philips FC9729/09",
           "barkod": "8710103810308",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9744/09",
@@ -1628,7 +1628,7 @@
           "naziv": "Usisavac Philips XB2122/09",
           "barkod": "8710103925279",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
@@ -1676,13 +1676,13 @@
           "naziv": "Usisavac Philips XD8122/10",
           "barkod": "8720389037931",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XD8152/12",
           "barkod": "8720389037955",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Usisavac Philips XW7264/11 bezicni AquaTrio",
