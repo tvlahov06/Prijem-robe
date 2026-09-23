@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T17:13:15.699Z",
-  "azurirano": "2026-09-23T18:28:46.683Z",
+  "azurirano": "2026-09-23T18:29:09.362Z",
   "dokumenti": [
     {
       "naziv": "MSI 6103-101",
@@ -362,101 +362,6 @@
           "barkod": "8710103641315",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6106-101",
-      "stavke": [
-        {
-          "naziv": "Monitor 27\" ACER Predator X27QX, UM.GXXEE.305, QD-OLED 2K/QHD, 240Hz, 0.03ms, AMD FreeSync",
-          "barkod": "4711474804747",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "MP242A MSI 23.8\" PRO Monitor MP242A, IPS Full HD, 100Hz, 1ms, Adaptive Sync, DisplayPort, HDMI, VGA, Zvucnici",
-          "barkod": "4711377031790",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "325QF MSI 31.5\" MAG Gaming Monitor Monitor 325QF E18V, VA E18V 2K/WQHD, 180Hz, 0.5ms, Adaptive-Sync, HDR Ready,",
-          "barkod": "4711377347792",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "244C MSI 23.6\" MAG Gaming Monitor MAG 244C, VA Curved Full HD, 180Hz, 1ms, AMD FreeSync, DisplayPort, HDMI, HDR",
-          "barkod": "4711377259156",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 27\" Samsung ViewFinity S7 S70H, EN LS27H700EAUXEN, IPS, 4K UHD, 60Hz",
-          "barkod": "8806099141899",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 2921 All-in-One (A24HWB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "0198828789822",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 2920 All-in-One (89F97B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198701680109",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP Smart Tank 580 All-in-One (1F3Y2A) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
-          "barkod": "196188530313",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Printer HP LaserJet MFP M234sdw, A4 mono 29ppm",
-          "barkod": "0194850889585",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP Smart Tank 720 All-in-One (6UU46A) Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
-          "barkod": "195908302995",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Epson EcoTank L3276 Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
-          "barkod": "8715946727271",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
-          "barkod": "5901292525958",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV TCL 40S5K, 101.6cm (40\"), QLED, FHD SMART TV, GOOGLE TV",
-          "barkod": "5901292526023",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Philips 32PHS6050/12 TV, 2K LED TV",
-          "barkod": "8718863048177",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV SAMSUNG UE50U7022HUXXH, 127 cm (50\") UHD Smart XH TV, Tizen OS",
-          "barkod": "8806097977414",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     }
