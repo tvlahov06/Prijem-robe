@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:39:43.734Z",
+  "azurirano": "2026-09-23T14:39:48.208Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -938,7 +938,7 @@
           "naziv": "Mikser stapni Philips HR2685/00",
           "barkod": "8720389033933",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Tefal HB533138",
@@ -1256,7 +1256,7 @@
           "naziv": "Sjeckalica Philips HR1501/00",
           "barkod": "8720389066535",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sjeckalica Tefal K1320404 900ML, rucna",
