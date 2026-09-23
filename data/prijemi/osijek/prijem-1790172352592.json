@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:35:58.423Z",
+  "azurirano": "2026-09-23T14:36:14.817Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -1640,13 +1640,13 @@
           "naziv": "Usisavac Philips XC5141/01",
           "barkod": "8720389035715",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC5244/10",
           "barkod": "8720389062681",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC8055/01 Aqua Plus",
