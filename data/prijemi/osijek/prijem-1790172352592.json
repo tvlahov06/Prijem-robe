@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:13:28.699Z",
+  "azurirano": "2026-09-23T14:13:53.372Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -914,7 +914,7 @@
           "naziv": "Mikser rucni Tefal HT450B38 bijeli 450W",
           "barkod": "3016667242315",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Bosch MSM6M633",
@@ -944,13 +944,13 @@
           "naziv": "Mikser stapni Tefal HB533138",
           "barkod": "3016667242728",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Tefal HB643138",
           "barkod": "3016661150036",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Tefal HB672B30",
