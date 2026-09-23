@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:43:32.590Z",
+  "azurirano": "2026-09-23T14:43:36.780Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -350,7 +350,7 @@
           "naziv": "Blender Bosch MMB6172S VitaPower Serie 4",
           "barkod": "4242005215980",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Bosch MMB6652B VitaPower Serie 6",
