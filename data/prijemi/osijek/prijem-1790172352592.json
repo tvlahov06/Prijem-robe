@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:53:16.967Z",
+  "azurirano": "2026-09-23T14:53:20.466Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -1754,7 +1754,7 @@
           "naziv": "Usisavac robot Xiaomi Robot Vacuum 5",
           "barkod": "6932554439897",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Rowenta GZ5736E0 X-Clean 7, 2u1",
