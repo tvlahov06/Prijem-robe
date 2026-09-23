@@ -5,7 +5,7 @@
   "datum": "2026-09-22",
   "status": "aktivan",
   "kreirano": "2026-09-22T15:06:21.198Z",
-  "azurirano": "2026-09-23T05:25:57.797Z",
+  "azurirano": "2026-09-23T05:29:28.637Z",
   "dokumenti": [
     {
       "naziv": "MSI 6074-101",
@@ -14,13 +14,13 @@
           "naziv": "TV SONY K55A65PB.CEI, 139 cm (55''), Bravia 6, OLED, 4K Google TV",
           "barkod": "4548736183025",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TV SONY K65A65PB.CEI, 164 cm (65''), Bravia 6, OLED, 4K Google TV",
           "barkod": "4548736183049",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
