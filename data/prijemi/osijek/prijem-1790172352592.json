@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:35:27.008Z",
+  "azurirano": "2026-09-23T14:35:44.910Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -1586,7 +1586,7 @@
           "naziv": "Usisavac Philips FC9331/09",
           "barkod": "8720389036552",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9334/09",
@@ -1616,7 +1616,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9747/09",
@@ -1664,13 +1664,13 @@
           "naziv": "Usisavac Philips XD2142/12",
           "barkod": "8720389068669",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XD5123/10",
           "barkod": "8720389038334",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Usisavac Philips XD8122/10",
