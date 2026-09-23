@@ -5,7 +5,7 @@
   "datum": "2026-09-22",
   "status": "aktivan",
   "kreirano": "2026-09-22T15:06:21.198Z",
-  "azurirano": "2026-09-23T05:38:23.231Z",
+  "azurirano": "2026-09-23T05:38:25.784Z",
   "dokumenti": [
     {
       "naziv": "MSI 6074-101",
@@ -215,7 +215,7 @@
           "naziv": "Usisavac Philips FC9557/09",
           "barkod": "8720389036637",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP5549/70 espresso",
