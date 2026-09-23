@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:21:54.115Z",
+  "azurirano": "2026-09-23T14:22:00.807Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -650,7 +650,7 @@
           "naziv": "Glacalo Tefal DB1612E0 putno",
           "barkod": "3121040095867",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Tefal FV2C41E0",
@@ -1052,7 +1052,7 @@
           "naziv": "Osvjezivac odjece Tefal DT2020E1 Pure Pop blue",
           "barkod": "3121040088494",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Tefal DT2022E1 Pure Pop coral",
@@ -1460,7 +1460,7 @@
           "naziv": "Uredaj za uklanjanje vlakana Tefal JB1011E0",
           "barkod": "3121040070314",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Bosch BCS1041PET Unlimited 10 ProAnimal, crveni",
