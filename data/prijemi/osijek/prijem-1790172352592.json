@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:32:44.213Z",
+  "azurirano": "2026-09-23T14:32:47.979Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -248,7 +248,7 @@
           "naziv": "Aparat za kavu Philips EP8757/12 espresso, Cafe Aromis",
           "barkod": "8720389077005",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP8757/20 espresso, Cafe Aromis",
@@ -332,7 +332,7 @@
           "naziv": "Aparat za sladoled Tefal IG602AE0 Ice Cream maker Dolci, 10u1",
           "barkod": "3016661180446",
           "ocekivano": 6,
-          "skenirano": 5
+          "skenirano": 6
         },
         {
           "naziv": "Aparat za vakumiranje Gorenje VS120W",
