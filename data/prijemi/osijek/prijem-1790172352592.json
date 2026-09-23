@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:53:37.069Z",
+  "azurirano": "2026-09-23T14:53:41.451Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -1706,7 +1706,7 @@
           "naziv": "Usisavac robot Dyson Spot+Scrub Ai Black/Blue",
           "barkod": "5025155121962",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac robot iRobot Roomba Combo Plus 505 + AutoWash dock black",
@@ -1736,7 +1736,7 @@
           "naziv": "Usisavac robot Philips XU5100/20",
           "barkod": "8720389055584",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Q7 BF+ sa stanicom za samopraznjenje bijela",
