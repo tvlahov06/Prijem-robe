@@ -5,7 +5,7 @@
   "datum": "2026-09-22",
   "status": "aktivan",
   "kreirano": "2026-09-22T15:06:21.198Z",
-  "azurirano": "2026-09-23T05:19:46.111Z",
+  "azurirano": "2026-09-23T05:19:51.470Z",
   "dokumenti": [
     {
       "naziv": "MSI 6074-101",
@@ -120,7 +120,7 @@
           "naziv": "Susilica rublja Bosch WQG14501BY",
           "barkod": "4242005473472",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilica rublja Bosch WTH83256BY",
@@ -132,13 +132,13 @@
           "naziv": "Susilica rublja Hisense DH3S802BW2",
           "barkod": "6901101829634",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilica rublja Hisense DH5S102BB",
           "barkod": "6901101827135",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilica rublja MIELE TWD640WP EcoSpeed & 9kg",
