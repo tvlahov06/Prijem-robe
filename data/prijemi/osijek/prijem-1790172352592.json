@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:31:49.092Z",
+  "azurirano": "2026-09-23T14:31:55.753Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -236,7 +236,7 @@
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
           "barkod": "8720389032370",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP5549/70 espresso",
@@ -290,7 +290,7 @@
           "naziv": "Aparat za kavu Philips oprema CA6903/10 filter za vodu",
           "barkod": "8720389000508",
           "ocekivano": 14,
-          "skenirano": 11
+          "skenirano": 14
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6903/22 filter za vodu 2 kom",
@@ -1580,7 +1580,7 @@
           "naziv": "Usisavac Philips FC9330/09",
           "barkod": "8720389036088",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9331/09",
