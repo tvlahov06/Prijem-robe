@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:16:46.391Z",
+  "azurirano": "2026-09-23T14:16:51.057Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -152,13 +152,13 @@
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Grey C30-EUGRNE2-S",
           "barkod": "7630030306792",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI Red D30-EURENE2-S",
           "barkod": "7640154067585",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Nespresso ESSENZA MINI White C30-EUWHNE2-S",
@@ -170,7 +170,7 @@
           "naziv": "Aparat za kavu Nespresso INISSIA Black D40-EUBKNE5-S",
           "barkod": "8606112020367",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Nespresso INISSIA Red C40-EURENE5-S",
