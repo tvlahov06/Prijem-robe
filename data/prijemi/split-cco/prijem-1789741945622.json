@@ -5,7 +5,7 @@
   "datum": "2026-09-22",
   "status": "aktivan",
   "kreirano": "2026-09-22T15:06:21.198Z",
-  "azurirano": "2026-09-23T05:41:42.354Z",
+  "azurirano": "2026-09-23T05:41:51.300Z",
   "dokumenti": [
     {
       "naziv": "MSI 6074-101",
@@ -209,7 +209,7 @@
           "naziv": "Friteza na vruci zrak Philips NA552/00 Airfryer Dual Basket, para",
           "barkod": "8720389049286",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9557/09",
@@ -239,7 +239,7 @@
           "naziv": "Parna postaja Tefal GV9812E0",
           "barkod": "3121040082331",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9330/09",
@@ -257,7 +257,7 @@
           "naziv": "Parna postaja Philips PSG7200/20",
           "barkod": "8720389065170",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9550/09",
@@ -293,7 +293,7 @@
           "naziv": "Aparat za izradu tjestenine Philips HR2665/96",
           "barkod": "8720389014833",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vrecice za usisavac Philips FC8021/03 sinteticke, S-BAG, 4kom",
@@ -341,7 +341,7 @@
           "naziv": "Glacalo Tefal FV6812E0",
           "barkod": "3121040077184",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac rucni Gorenje MVC72FW",
