@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:49:50.532Z",
+  "azurirano": "2026-09-23T14:50:08.566Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -1226,7 +1226,7 @@
           "naziv": "Rostilj Tefal GC5108E0 3u1",
           "barkod": "3045380028326",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Rostilj Tefal GC520DE0 3u1 XL",
@@ -1322,13 +1322,13 @@
           "naziv": "Toster grill Tefal GC272D10",
           "barkod": "3045380026230",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Toster grill Tefal GC718D10 rostilj OptiGrill + Tefal hvataljke",
           "barkod": "3168437252090",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Toster grill Tefal GC750D30 rostilj Optigrill Elite",
