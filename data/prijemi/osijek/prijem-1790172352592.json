@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:48:36.166Z",
+  "azurirano": "2026-09-23T14:48:49.914Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -1214,13 +1214,13 @@
           "naziv": "Rostilj Philips HD6210/90 stolni",
           "barkod": "8720389056659",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Rostilj Philips HD6212/90 stolni",
           "barkod": "8720389056666",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Rostilj Tefal GC5108E0 3u1",
@@ -1304,7 +1304,7 @@
           "naziv": "Toster grill Gorenje GCG2000M",
           "barkod": "3838782867712",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Toster grill Philips HD6307/70 preklopni",
