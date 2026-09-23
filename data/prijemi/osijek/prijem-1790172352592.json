@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:21:44.061Z",
+  "azurirano": "2026-09-23T14:21:46.713Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -1508,13 +1508,13 @@
           "naziv": "Usisavac Bosch BHN20L",
           "barkod": "4242005190881",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BHN24L",
           "barkod": "4242005190898",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V10 Konical Moulded Vinca/Black",
