@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T14:11:30.281Z",
-  "azurirano": "2026-09-23T14:22:00.807Z",
+  "azurirano": "2026-09-23T14:22:16.644Z",
   "dokumenti": [
     {
       "naziv": "Stanje_zalihe_mka2026",
@@ -614,13 +614,13 @@
           "naziv": "Glacalo Philips DST3031/20",
           "barkod": "8720389003066",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Glacalo Philips DST5030/20",
           "barkod": "8710103968160",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST7020/20",
@@ -644,7 +644,7 @@
           "naziv": "Glacalo Philips DST8040/30",
           "barkod": "8720389004599",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Tefal DB1612E0 putno",
@@ -1136,7 +1136,7 @@
           "naziv": "Parna postaja Philips PSG6064/80",
           "barkod": "8720389004872",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Philips PSG7200/20",
@@ -1148,7 +1148,7 @@
           "naziv": "Parna postaja Philips PSG8200/70",
           "barkod": "8720389066511",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8300/20",
