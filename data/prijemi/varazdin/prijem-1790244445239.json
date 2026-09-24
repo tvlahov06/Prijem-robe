@@ -5,7 +5,7 @@
   "datum": "2026-09-24",
   "status": "aktivan",
   "kreirano": "2026-09-24T10:07:25.239Z",
-  "azurirano": "2026-09-24T10:30:21.114Z",
+  "azurirano": "2026-09-24T10:30:34.195Z",
   "dokumenti": [
     {
       "naziv": "MSI 6152-101",
@@ -222,7 +222,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 rozi 41mm (Konsu-B39F)",
           "barkod": "6942711308676",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 Pro crni 46mm (Atum-B49F)",
@@ -252,7 +252,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 plavi 41mm (Konsu-B39FB)",
           "barkod": "6942711308706",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 41mm Gold Milanese Strap (Jana-B19M)",
@@ -300,7 +300,7 @@
           "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F)",
           "barkod": "6942103189739",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Insta360 85cm Invisible Selfie Stick",
