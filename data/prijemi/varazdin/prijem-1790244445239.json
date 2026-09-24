@@ -5,7 +5,7 @@
   "datum": "2026-09-24",
   "status": "aktivan",
   "kreirano": "2026-09-24T10:07:25.239Z",
-  "azurirano": "2026-09-24T10:41:24.064Z",
+  "azurirano": "2026-09-24T10:41:31.443Z",
   "dokumenti": [
     {
       "naziv": "MSI 6152-101",
@@ -900,7 +900,7 @@
           "naziv": "TV tuner STRONG SRT 8119, DVB-T2 HEVC/H.265, Dolby(R) Digital Plus",
           "barkod": "9120072373718",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "84 TV tuner STRONG SRT 84, DVB-T2 HEVC/H.265, 10 bits, 5V",
