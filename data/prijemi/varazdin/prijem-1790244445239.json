@@ -5,7 +5,7 @@
   "datum": "2026-09-24",
   "status": "aktivan",
   "kreirano": "2026-09-24T10:07:25.239Z",
-  "azurirano": "2026-09-24T10:40:16.594Z",
+  "azurirano": "2026-09-24T10:40:37.000Z",
   "dokumenti": [
     {
       "naziv": "MSI 6152-101",
@@ -888,7 +888,7 @@
           "naziv": "8208 DVB-T2 HEVC Strong SRT 8208",
           "barkod": "9120072373152",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV tuner STRONG SRT 7040, DVB-S/S2, HDTV prijemnik",
@@ -912,7 +912,7 @@
           "naziv": "HP HyperX Cloud Jet Wireless Gaming Headset",
           "barkod": "198701202189",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "BLACK White Shark HEADSET GH-2440 PARROT Crne",
