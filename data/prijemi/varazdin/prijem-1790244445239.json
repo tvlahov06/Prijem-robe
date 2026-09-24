@@ -5,7 +5,7 @@
   "datum": "2026-09-24",
   "status": "aktivan",
   "kreirano": "2026-09-24T10:07:25.239Z",
-  "azurirano": "2026-09-24T11:30:15.315Z",
+  "azurirano": "2026-09-24T11:30:28.251Z",
   "dokumenti": [
     {
       "naziv": "MSI 6152-101",
@@ -573,7 +573,7 @@
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC500 dekalcifikator",
           "barkod": "8004399329492",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal GV9221E0",
@@ -663,13 +663,13 @@
           "naziv": "Glacalo Gorenje SIH2200TQC*",
           "barkod": "3838782404702",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Gorenje K17OPB",
           "barkod": "3838782981845",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Blender Bosch MMB6174S VitaPower Serie 4",
