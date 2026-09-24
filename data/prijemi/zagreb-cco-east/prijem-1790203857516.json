@@ -5,7 +5,7 @@
   "datum": "2026-09-23",
   "status": "aktivan",
   "kreirano": "2026-09-23T22:50:57.516Z",
-  "azurirano": "2026-09-24T05:42:07.871Z",
+  "azurirano": "2026-09-24T05:42:14.728Z",
   "dokumenti": [
     {
       "naziv": "MSI 6115-101",
@@ -609,7 +609,7 @@
           "naziv": "Blender Philips HR3020/20",
           "barkod": "8720389032615",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
