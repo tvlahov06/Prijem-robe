@@ -5,7 +5,7 @@
   "datum": "2026-09-24",
   "status": "aktivan",
   "kreirano": "2026-09-24T06:33:33.988Z",
-  "azurirano": "2026-09-24T09:32:50.661Z",
+  "azurirano": "2026-09-24T09:33:03.960Z",
   "dokumenti": [
     {
       "naziv": "MSI 6111-101",
@@ -179,7 +179,7 @@
           "naziv": "Usisavac Dyson V8 Total Clean",
           "barkod": "5025155080306",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Jasper Plum Straight+Wavy",
@@ -191,7 +191,7 @@
           "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
           "barkod": "5025155131992",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V8 Cyclone",
