@@ -5,7 +5,7 @@
   "datum": "2026-09-24",
   "status": "aktivan",
   "kreirano": "2026-09-24T10:07:25.239Z",
-  "azurirano": "2026-09-24T11:29:01.958Z",
+  "azurirano": "2026-09-24T11:29:16.191Z",
   "dokumenti": [
     {
       "naziv": "MSI 6152-101",
@@ -489,7 +489,7 @@
           "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
           "barkod": "8720389032998",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9330/09",
@@ -525,7 +525,7 @@
           "naziv": "Glacalo Philips DST8020/20",
           "barkod": "8720389004773",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
@@ -585,7 +585,7 @@
           "naziv": "Glacalo Philips DST3031/20",
           "barkod": "8720389003066",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Bosch MUM5XW20 MUM5 CreationLine",
