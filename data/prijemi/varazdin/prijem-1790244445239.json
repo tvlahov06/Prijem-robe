@@ -5,7 +5,7 @@
   "datum": "2026-09-24",
   "status": "aktivan",
   "kreirano": "2026-09-24T10:07:25.239Z",
-  "azurirano": "2026-09-24T10:25:35.498Z",
+  "azurirano": "2026-09-24T10:25:38.341Z",
   "dokumenti": [
     {
       "naziv": "MSI 6152-101",
@@ -1035,7 +1035,7 @@
           "naziv": "USB stick Samsung 256GB BAR Plus zlatni PC MUF-256BE3/APC",
           "barkod": "8801643229405",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link Bluetooth adapter 4.0 UB400",
