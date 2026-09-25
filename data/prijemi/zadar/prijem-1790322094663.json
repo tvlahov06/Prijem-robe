@@ -5,7 +5,7 @@
   "datum": "2026-09-25",
   "status": "aktivan",
   "kreirano": "2026-09-25T07:41:34.663Z",
-  "azurirano": "2026-09-25T10:17:46.468Z",
+  "azurirano": "2026-09-25T10:17:58.217Z",
   "dokumenti": [
     {
       "naziv": "MSI 6170-101",
@@ -349,7 +349,7 @@
           "naziv": "Glacalo Philips DST3031/20",
           "barkod": "8720389003066",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Philips HD2650/30",
