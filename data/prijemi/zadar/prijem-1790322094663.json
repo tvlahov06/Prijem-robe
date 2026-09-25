@@ -5,7 +5,7 @@
   "datum": "2026-09-25",
   "status": "aktivan",
   "kreirano": "2026-09-25T07:41:34.663Z",
-  "azurirano": "2026-09-25T07:58:33.104Z",
+  "azurirano": "2026-09-25T08:13:30.239Z",
   "dokumenti": [
     {
       "naziv": "MSI 6170-101",
@@ -65,7 +65,7 @@
           "naziv": "Friteza na vruci zrak Tefal EY9278E0, Dual Infrared",
           "barkod": "3045380407220",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -785,7 +785,7 @@
           "naziv": "EA SPORTS FC27 PS5",
           "barkod": "5030930125530",
           "ocekivano": 120,
-          "skenirano": 30
+          "skenirano": 120
         },
         {
           "naziv": "PS5 DualSense Wireless Controller - Icon Blue Special Edition",
@@ -814,7 +814,7 @@
           "naziv": "PS5 DualSense Charging Station",
           "barkod": "711719374107",
           "ocekivano": 20,
-          "skenirano": 0
+          "skenirano": 15
         },
         {
           "naziv": "Assassins's Creed Valhalla Standard Edition PS5 G38",
@@ -850,13 +850,13 @@
           "naziv": "PlayStation VR2",
           "barkod": "711719453994",
           "ocekivano": 8,
-          "skenirano": 0
+          "skenirano": 8
         },
         {
           "naziv": "Volan Suzuka Flashfire F111 za PS5/PS4/PS3/PC s 3 pedale + mjenjac",
           "barkod": "4718091316172",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PlayStation Portal remote player",
@@ -892,13 +892,13 @@
           "naziv": "Nintendo Switch 2 Carrying Case And Screen Protector",
           "barkod": "045496321437",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "PS5 Pulse Elite wireless headset+",
           "barkod": "711719598275",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "007 First Light PS5",
@@ -928,25 +928,25 @@
           "naziv": "PS5 Dualsense Wireless controller Midnight Black za PS5, PC, Mac i mobilni uredaj",
           "barkod": "711719022381",
           "ocekivano": 40,
-          "skenirano": 21
+          "skenirano": 40
         },
         {
           "naziv": "PS5 Dualsense Wireless controller Cosmic Red za PS5, PC, Mac i mobilni uredaj",
           "barkod": "711719023012",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 11
         },
         {
           "naziv": "PS5 Dualsense Wireless Controller Rhythm Blue",
           "barkod": "711719020943",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 10
         },
         {
           "naziv": "PS5 Dualsense Wireless Controller Techno Red",
           "barkod": "711719020677",
           "ocekivano": 8,
-          "skenirano": 0
+          "skenirano": 8
         },
         {
           "naziv": "PS5 Dualsense Wireless Controller Remix Green",
@@ -958,19 +958,19 @@
           "naziv": "PS5 Dualsense Wireless controller White za PS5, PC, Mac i mobilni uredaj",
           "barkod": "711719022350",
           "ocekivano": 40,
-          "skenirano": 20
+          "skenirano": 40
         },
         {
           "naziv": "PS5 Dualsense Wireless Controller Chroma Pearl v2",
           "barkod": "711719023722",
           "ocekivano": 8,
-          "skenirano": 0
+          "skenirano": 8
         },
         {
           "naziv": "PS5 Dualsense Wireless controller Starlight Blue za PS5, PC, Mac i mobilni uredaj",
           "barkod": "711719022473",
           "ocekivano": 20,
-          "skenirano": 0
+          "skenirano": 20
         },
         {
           "naziv": "PS5 Dualsense Wireless Controller Chroma Teal v2",
@@ -982,7 +982,7 @@
           "naziv": "PS5 Dualsense Wireless controller Midnight Black + USB-C kabel za PS5, PC, Mac i mobilni uredaj",
           "barkod": "711719025979",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 10
         },
         {
           "naziv": "PlayStation 5 Slim Digital Edition E chassis + PS5 Dualsense Wireless Controller",
@@ -994,7 +994,7 @@
           "naziv": "Poklopac za PlayStation 5 Pro konzolu Marvel's Wolverine Battle Yellow Limited Edition",
           "barkod": "711719072188",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Assassins Creed Black Flag Resynced Standard Edition PS5",
