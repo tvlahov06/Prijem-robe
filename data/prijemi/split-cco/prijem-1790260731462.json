@@ -5,7 +5,7 @@
   "datum": "2026-09-24",
   "status": "aktivan",
   "kreirano": "2026-09-24T14:38:51.462Z",
-  "azurirano": "2026-09-25T06:04:19.438Z",
+  "azurirano": "2026-09-25T06:04:27.786Z",
   "dokumenti": [
     {
       "naziv": "MSI 6155-101",
@@ -537,13 +537,13 @@
           "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
           "barkod": "197029008220",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "8208 DVB-T2 HEVC Strong SRT 8208",
           "barkod": "9120072373152",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TV tuner STRONG SRT 7040, DVB-S/S2, HDTV prijemnik",
