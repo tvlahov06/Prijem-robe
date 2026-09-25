@@ -5,7 +5,7 @@
   "datum": "2026-09-25",
   "status": "aktivan",
   "kreirano": "2026-09-25T07:41:34.663Z",
-  "azurirano": "2026-09-25T10:41:44.479Z",
+  "azurirano": "2026-09-25T10:41:53.358Z",
   "dokumenti": [
     {
       "naziv": "MSI 6170-101",
@@ -379,7 +379,7 @@
           "naziv": "Mikser stapni Philips HR2684/00",
           "barkod": "8720389035333",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 685.BK Dedica Style",
