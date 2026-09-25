@@ -5,7 +5,7 @@
   "datum": "2026-09-25",
   "status": "aktivan",
   "kreirano": "2026-09-25T07:41:34.663Z",
-  "azurirano": "2026-09-25T10:17:40.496Z",
+  "azurirano": "2026-09-25T10:17:46.468Z",
   "dokumenti": [
     {
       "naziv": "MSI 6170-101",
@@ -313,7 +313,7 @@
           "naziv": "Citruseta Philips HR2738/00",
           "barkod": "8710103641315",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Philips XU2100/25",
