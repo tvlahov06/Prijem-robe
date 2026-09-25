@@ -5,7 +5,7 @@
   "datum": "2026-09-24",
   "status": "aktivan",
   "kreirano": "2026-09-24T14:38:51.462Z",
-  "azurirano": "2026-09-25T06:06:04.792Z",
+  "azurirano": "2026-09-25T06:07:25.383Z",
   "dokumenti": [
     {
       "naziv": "MSI 6155-101",
@@ -513,7 +513,7 @@
           "naziv": "H-300 TV nosac BOF TVM H-300",
           "barkod": "2010030072623",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "Slusalice Huawei FreeBuds SE 3 Black (ULC-CT020)",
@@ -525,13 +525,13 @@
           "naziv": "H-200 TV nosac BOF TVM H-200",
           "barkod": "2010030072616",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "V-200 TV nosac BOF TVM V-200",
           "barkod": "2010030072647",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
@@ -573,7 +573,7 @@
           "naziv": "Soundbar Hisense HS2000",
           "barkod": "6942351411514",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony",
@@ -603,13 +603,13 @@
           "naziv": "Soundbar Sony",
           "barkod": "4548736107120",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Soundbar Hisense HS5100",
           "barkod": "6942351409078",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony",
