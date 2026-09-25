@@ -5,7 +5,7 @@
   "datum": "2026-09-24",
   "status": "aktivan",
   "kreirano": "2026-09-24T14:38:51.462Z",
-  "azurirano": "2026-09-25T06:19:35.553Z",
+  "azurirano": "2026-09-25T06:20:37.686Z",
   "dokumenti": [
     {
       "naziv": "MSI 6155-101",
@@ -340,7 +340,7 @@
           "naziv": "Mikser stapni Philips HR2684/00",
           "barkod": "8720389035333",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG6064/80",
@@ -400,7 +400,7 @@
           "naziv": "Usisavac Bosch BCHF220B Readyy'y, crni",
           "barkod": "4242005183302",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Tefal HB672B30",
@@ -412,7 +412,7 @@
           "naziv": "Aparat za kavu Krups KP243110 Genio S white PF",
           "barkod": "3045380024328",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Tefal DB1612E0 putno",
@@ -686,7 +686,7 @@
           "naziv": "PlayStation VR2",
           "barkod": "711719453994",
           "ocekivano": 10,
-          "skenirano": 4
+          "skenirano": 6
         },
         {
           "naziv": "PlayStation Link USB Adapter",
