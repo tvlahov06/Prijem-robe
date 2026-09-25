@@ -5,7 +5,7 @@
   "datum": "2026-09-25",
   "status": "aktivan",
   "kreirano": "2026-09-25T07:41:34.663Z",
-  "azurirano": "2026-09-25T11:43:05.371Z",
+  "azurirano": "2026-09-25T11:43:09.999Z",
   "dokumenti": [
     {
       "naziv": "MSI 6168-101",
@@ -19,29 +19,6 @@
         {
           "naziv": "7N2B-S Susilica rublja CANDY GDS 7N2B-S",
           "barkod": "8059019116143",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6142-101",
-      "stavke": [
-        {
-          "naziv": "Smart C Kuhinjska napa Faber Inka Smart C LG A52 LG A52",
-          "barkod": "7612985764223",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Plus HCS Kuhinjska napa Faber Inka Plus HCS BK A52 BK A52",
-          "barkod": "7612985911306",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "EV8 LED Kuhinjska napa Faber Tweet EV8 LED BK A80 BK A80",
-          "barkod": "7612985476164",
           "ocekivano": 1,
           "skenirano": 1
         }
