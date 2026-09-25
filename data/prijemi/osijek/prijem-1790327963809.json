@@ -5,7 +5,7 @@
   "datum": "2026-09-25",
   "status": "aktivan",
   "kreirano": "2026-09-25T09:19:23.809Z",
-  "azurirano": "2026-09-25T09:29:27.318Z",
+  "azurirano": "2026-09-25T09:29:34.662Z",
   "dokumenti": [
     {
       "naziv": "logista 2509",
@@ -242,7 +242,7 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-C, 1 m, crni",
           "barkod": "766623394864",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis TRUST Seronm, 26018, Bezicni, Punjivi, Black",
@@ -254,7 +254,7 @@
           "naziv": "CELLULARLINE KABEL MICRO USB 200CM",
           "barkod": "8018080203947",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "EUFY Unutarnja sigurnosna kamera 2K, T8410322",
