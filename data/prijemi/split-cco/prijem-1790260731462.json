@@ -5,7 +5,7 @@
   "datum": "2026-09-24",
   "status": "aktivan",
   "kreirano": "2026-09-24T14:38:51.462Z",
-  "azurirano": "2026-09-25T06:18:24.145Z",
+  "azurirano": "2026-09-25T06:19:27.000Z",
   "dokumenti": [
     {
       "naziv": "MSI 6155-101",
@@ -346,7 +346,7 @@
           "naziv": "Parna postaja Philips PSG6064/80",
           "barkod": "8720389004872",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kapsule za kavu Lavazza A Modo Mio Passionale 16/1",
