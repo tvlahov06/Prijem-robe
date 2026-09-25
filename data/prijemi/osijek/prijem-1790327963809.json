@@ -5,7 +5,7 @@
   "datum": "2026-09-25",
   "status": "aktivan",
   "kreirano": "2026-09-25T09:19:23.809Z",
-  "azurirano": "2026-09-25T09:31:07.693Z",
+  "azurirano": "2026-09-25T09:31:23.207Z",
   "dokumenti": [
     {
       "naziv": "logista 2509",
@@ -86,13 +86,13 @@
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO MAX",
           "barkod": "8018080499586",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, tvrda, prozirna",
           "barkod": "8018080510243",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 2m",
@@ -290,7 +290,7 @@
           "naziv": "Zastitna maska CELLULARLINE, Ultra Slim Mag, Iphone 18 PRO MAX",
           "barkod": "8018080526602",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zastitna maska Cellularline, Clear Protect, Iphone 18 Pro Max",
