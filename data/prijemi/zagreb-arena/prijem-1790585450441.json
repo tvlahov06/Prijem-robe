@@ -5,7 +5,7 @@
   "datum": "2026-09-28",
   "status": "aktivan",
   "kreirano": "2026-09-28T08:50:50.441Z",
-  "azurirano": "2026-09-28T09:26:45.216Z",
+  "azurirano": "2026-09-28T09:27:33.596Z",
   "dokumenti": [
     {
       "naziv": "MSI 6199-101",
@@ -68,7 +68,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
           "barkod": "4713218461940",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ruksak za laptop Asus AP4600, do 17''",
@@ -212,7 +212,7 @@
           "naziv": "ADATA microSD U3, V30, 160/140MBs, 64GB 2SP-RA1",
           "barkod": "4711085949196",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Memorijska kartica ADATA microSDHC, Class10, 10A1-RA1 100/20MBs, 32GB",
