@@ -5,7 +5,7 @@
   "datum": "2026-09-28",
   "status": "aktivan",
   "kreirano": "2026-09-28T08:50:50.441Z",
-  "azurirano": "2026-09-28T09:05:05.637Z",
+  "azurirano": "2026-09-28T09:07:04.581Z",
   "dokumenti": [
     {
       "naziv": "MSI 6199-101",
@@ -843,7 +843,7 @@
           "naziv": "Gaming tipkovnica LOGITECH PRO X TKL RAPID 2",
           "barkod": "5099206134430",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Logitech G G321 crne",
@@ -879,7 +879,7 @@
           "naziv": "Tipkovnica Logitech G PRO X TKL LIGHTSPEED, gaming, LIGHTSYNC RGB, mehanicka-tactile, bezicna, crna",
           "barkod": "5099206113473",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
