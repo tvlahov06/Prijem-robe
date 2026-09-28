@@ -5,127 +5,8 @@
   "datum": "2026-09-28",
   "status": "aktivan",
   "kreirano": "2026-09-28T08:50:50.441Z",
-  "azurirano": "2026-09-28T10:36:51.042Z",
+  "azurirano": "2026-09-28T10:39:00.037Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 6200-101",
-      "stavke": [
-        {
-          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
-          "barkod": "8806097984795",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "H-300 TV nosac BOF TVM H-300",
-          "barkod": "2010030072623",
-          "ocekivano": 8,
-          "skenirano": 8
-        },
-        {
-          "naziv": "V-100 TV nosac BOF TVM V-100",
-          "barkod": "2010030072630",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE 3 Black (ULC-CT020)",
-          "barkod": "6942103140112",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "SBOX EB-TWS-101, bijela boja | True Wireless slusalice",
-          "barkod": "3858894502547",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "H-200 TV nosac BOF TVM H-200",
-          "barkod": "2010030072616",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
-          "barkod": "197029008220",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "8208 DVB-T2 HEVC Strong SRT 8208",
-          "barkod": "9120072373152",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV tuner STRONG SRT 7040, DVB-S/S2, HDTV prijemnik",
-          "barkod": "9120072374982",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV tuner STRONG SRT 8119, DVB-T2 HEVC/H.265, Dolby(R) Digital Plus",
-          "barkod": "9120072373718",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "84 TV tuner STRONG SRT 84, DVB-T2 HEVC/H.265, 10 bits, 5V",
-          "barkod": "9120072376160",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Soundbar Hisense HS2000",
-          "barkod": "6942351411514",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP HyperX Cloud Jet Wireless Gaming Headset",
-          "barkod": "198701202189",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
-          "barkod": "198415435569",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BLACK White Shark HEADSET GH-2440 PARROT Crne",
-          "barkod": "3858894505029",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "X-200 TV nosac BOF TVM X-200",
-          "barkod": "2010030072661",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Soundbar Sony",
-          "barkod": "4548736121737",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds 7i Black",
-          "barkod": "6942103164781",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Soundbar SAMSUNG Q serije",
-          "barkod": "8806099014605",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
     {
       "naziv": "MSI 6201-101",
       "stavke": [
@@ -299,7 +180,7 @@
           "naziv": "Apple USB-C Power Adapter 20W",
           "barkod": "195950084658",
           "ocekivano": 20,
-          "skenirano": 2
+          "skenirano": 20
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
