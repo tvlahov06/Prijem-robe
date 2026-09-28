@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "Ostala si uvijek - Lo Gista",
   "datum": "2026-09-25",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-09-25T09:19:23.809Z",
-  "azurirano": "2026-09-25T09:34:59.552Z",
+  "azurirano": "2026-09-28T09:33:58.324Z",
   "dokumenti": [
     {
       "naziv": "logista 2509",
@@ -312,5 +312,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-09-28T09:33:58.324Z"
 }
