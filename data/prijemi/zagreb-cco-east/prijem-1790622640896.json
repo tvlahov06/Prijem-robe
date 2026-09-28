@@ -5,7 +5,7 @@
   "datum": "2026-09-28",
   "status": "aktivan",
   "kreirano": "2026-09-28T19:10:40.896Z",
-  "azurirano": "2026-09-28T19:24:12.101Z",
+  "azurirano": "2026-09-28T19:24:20.392Z",
   "dokumenti": [
     {
       "naziv": "MSI 6237-101",
@@ -168,7 +168,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9092/87 Premium All-In-One White 2/1",
           "barkod": "8720689036733",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7111/01 Sonicare Series 5500 Black",
@@ -198,7 +198,7 @@
           "naziv": "Epilator Philips BRE719/00",
           "barkod": "8720689032933",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
