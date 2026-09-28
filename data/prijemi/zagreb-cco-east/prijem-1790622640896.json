@@ -5,7 +5,7 @@
   "datum": "2026-09-28",
   "status": "aktivan",
   "kreirano": "2026-09-28T19:10:40.896Z",
-  "azurirano": "2026-09-28T19:11:41.252Z",
+  "azurirano": "2026-09-28T19:11:46.837Z",
   "dokumenti": [
     {
       "naziv": "MSI 6237-101",
@@ -233,7 +233,7 @@
           "naziv": "8208 DVB-T2 HEVC Strong SRT 8208",
           "barkod": "9120072373152",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV tuner STRONG SRT 7040, DVB-S/S2, HDTV prijemnik",
