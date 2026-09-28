@@ -5,7 +5,7 @@
   "datum": "2026-09-28",
   "status": "aktivan",
   "kreirano": "2026-09-28T19:17:41.249Z",
-  "azurirano": "2026-09-28T19:20:48.318Z",
+  "azurirano": "2026-09-28T19:20:52.208Z",
   "dokumenti": [
     {
       "naziv": "MSI 6240-101",
@@ -56,7 +56,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
           "barkod": "740617348651",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
@@ -152,7 +152,7 @@
           "naziv": "USB stick Samsung 64GB Type-C plavi MUF-64DA/APC",
           "barkod": "8806092535886",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ASUS CW100, bezicna tipkovnica i mis, crni, HR 1A0",
