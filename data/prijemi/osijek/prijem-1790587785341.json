@@ -5,7 +5,7 @@
   "datum": "2026-09-28",
   "status": "aktivan",
   "kreirano": "2026-09-28T09:29:45.341Z",
-  "azurirano": "2026-09-28T10:17:09.513Z",
+  "azurirano": "2026-09-28T10:17:32.032Z",
   "dokumenti": [
     {
       "naziv": "MSI 6184-101",
@@ -188,119 +188,6 @@
           "barkod": "8006447002098",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6187-101",
-      "stavke": [
-        {
-          "naziv": "H-300 TV nosac BOF TVM H-300",
-          "barkod": "2010030072623",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Samsung Galaxy Buds4 Pro slusalice bijele",
-          "barkod": "8806097985310",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE 3 Black (ULC-CT020)",
-          "barkod": "6942103140112",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke .CE7 WH-1000XM4C/B ljubicasta",
-          "barkod": "4548736181908",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "8208 DVB-T2 HEVC Strong SRT 8208",
-          "barkod": "9120072373152",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV tuner STRONG SRT 7040, DVB-S/S2, HDTV prijemnik",
-          "barkod": "9120072374982",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV tuner STRONG SRT 8119, DVB-T2 HEVC/H.265, Dolby(R) Digital Plus",
-          "barkod": "9120072373718",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "84 TV tuner STRONG SRT 84, DVB-T2 HEVC/H.265, 10 bits, 5V",
-          "barkod": "9120072376160",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
-          "barkod": "198415435569",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BLACK White Shark HEADSET GH-2440 PARROT Crne",
-          "barkod": "3858894505029",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "White Shark BLUETOOTH ZVUCNIK GBT-619 IDAKKA bijeli IDAKKA WHITE",
-          "barkod": "3858894504060",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Soundbar Samsung",
-          "barkod": "8806097097068",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BARACUDA ZVUCNICI BGSP-011 SEASHELL",
-          "barkod": "3858894506767",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP HyperX Cloud III S Wireless Headset Black",
-          "barkod": "198415435590",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony bezicne WH-CH530/B",
-          "barkod": "4548736179677",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "White Shark HEADSET GH-2443 SPARROW Black BLACK",
-          "barkod": "3858894505098",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Soundbar Sony HT-B600 BRAVIA Theatre Bar 6 Dolby Atmos",
-          "barkod": "4548736165328",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "BLACK Slusalice WHITE SHARK FALCON, WGH-2441, Crne, bezicne",
-          "barkod": "3858894505050",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
