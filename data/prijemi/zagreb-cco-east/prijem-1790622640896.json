@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "fsadgh",
   "datum": "2026-09-28",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-09-28T19:10:40.896Z",
-  "azurirano": "2026-09-28T19:29:10.055Z",
+  "azurirano": "2026-09-28T19:29:16.671Z",
   "dokumenti": [
     {
       "naziv": "MSI 6237-101",
@@ -434,5 +434,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-09-28T19:29:16.671Z"
 }
