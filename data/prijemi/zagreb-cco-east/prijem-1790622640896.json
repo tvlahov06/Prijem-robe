@@ -5,7 +5,7 @@
   "datum": "2026-09-28",
   "status": "aktivan",
   "kreirano": "2026-09-28T19:10:40.896Z",
-  "azurirano": "2026-09-28T19:15:39.070Z",
+  "azurirano": "2026-09-28T19:15:50.076Z",
   "dokumenti": [
     {
       "naziv": "MSI 6237-101",
@@ -298,7 +298,7 @@
           "naziv": "Web kamera Logitech BRIO 300 bijela",
           "barkod": "5099206104945",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
@@ -358,7 +358,7 @@
           "naziv": "Mis Logitech G PRO X Superlight 2, crni",
           "barkod": "5099206104525",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Unifying Receiver Logitech USB",
