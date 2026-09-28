@@ -5,7 +5,7 @@
   "datum": "2026-09-28",
   "status": "aktivan",
   "kreirano": "2026-09-28T08:50:50.441Z",
-  "azurirano": "2026-09-28T09:23:37.294Z",
+  "azurirano": "2026-09-28T09:23:52.401Z",
   "dokumenti": [
     {
       "naziv": "MSI 6199-101",
@@ -152,7 +152,7 @@
           "naziv": "ASUS CW100, bezicna tipkovnica i mis, crni, HR 1A0",
           "barkod": "4711387539804",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ASUS U2000, tipkovnica i mis, crna, HR",
@@ -266,7 +266,7 @@
           "naziv": "SBOX K-123 HR | Zicna tipkovnica",
           "barkod": "3858894505463",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PODLOGA ZA MIS SBOX MP-03 30x25 Crna",
