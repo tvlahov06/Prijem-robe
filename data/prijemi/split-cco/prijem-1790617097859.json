@@ -5,7 +5,7 @@
   "datum": "2026-09-28",
   "status": "aktivan",
   "kreirano": "2026-09-28T17:38:17.859Z",
-  "azurirano": "2026-09-29T06:13:12.875Z",
+  "azurirano": "2026-09-29T06:13:20.060Z",
   "dokumenti": [
     {
       "naziv": "MSI 6215-101",
@@ -108,7 +108,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
           "barkod": "4713218461933",
           "ocekivano": 10,
-          "skenirano": 4
+          "skenirano": 6
         },
         {
           "naziv": "Ruksak za laptop Asus ROG Ranger BP1501G, do 15\"",
@@ -138,7 +138,7 @@
           "naziv": "USB stick Samsung 256GB BAR Plus zlatni PC MUF-256BE3/APC",
           "barkod": "8801643229405",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MicroSD kartica Samsung 512 GB T7 microSDXC UHS-I W kartica MB-MB128T/WW",
