@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T06:36:26.937Z",
-  "azurirano": "2026-09-29T07:23:51.093Z",
+  "azurirano": "2026-09-29T07:23:58.078Z",
   "dokumenti": [
     {
       "naziv": "MSI 6212-101",
@@ -779,7 +779,7 @@
           "naziv": "Televizor SAMSUNG QE50QN70HAUXXH 2026, 127 cm XXH (50\"), Neo QLED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806099024147",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
@@ -809,7 +809,7 @@
           "naziv": "TV TCL 40S5K, 101.6cm (40\"), QLED, FHD SMART TV, GOOGLE TV",
           "barkod": "5901292526023",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Televizor SAMSUNG QE65S83HAEXXH 2026, 164 cm (65\"), H OLED, Smart TV, Tizen OS",
@@ -821,7 +821,7 @@
           "naziv": "TV SONY KD32W800P1AEP, 81.3cm (32\"), Direct LED, HD EP SMART TV, Android TV",
           "barkod": "4548736153448",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE55U8092HUXXH 2026, 139 cm XH (55\"), UHD, Smart TV, Tizen OS",
