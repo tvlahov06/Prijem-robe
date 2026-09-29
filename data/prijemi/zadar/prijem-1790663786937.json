@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T06:36:26.937Z",
-  "azurirano": "2026-09-29T08:42:44.023Z",
+  "azurirano": "2026-09-29T08:42:52.114Z",
   "dokumenti": [
     {
       "naziv": "MSI 6212-101",
@@ -505,7 +505,7 @@
           "naziv": "TP-Link RE500X, AX1500, Wi-Fi pojacivac signala, gigabit",
           "barkod": "6935364010324",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "T3U TP-Link Archer T3U Nano, AC1300 WLAN USB adapter Nano",
