@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T08:39:47.346Z",
-  "azurirano": "2026-09-29T10:06:35.198Z",
+  "azurirano": "2026-09-29T10:06:41.057Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -296,7 +296,7 @@
           "naziv": "Mis Trust Helox GXT928 crni",
           "barkod": "8713439253061",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Trust Helox GXT928W bijeli",
@@ -440,7 +440,7 @@
           "naziv": "TRUST GM MIS RGB,FELOX,BLACK,GXT109",
           "barkod": "8713439250367",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST GM MIS WLESS,FELOX,BLACK,GXT110",
