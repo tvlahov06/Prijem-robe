@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T09:00:54.155Z",
-  "azurirano": "2026-09-29T10:14:32.505Z",
+  "azurirano": "2026-09-29T10:14:39.515Z",
   "dokumenti": [
     {
       "naziv": "MSI 6256-101",
@@ -496,7 +496,7 @@
           "naziv": "Mis ACER AMR130, Zuta",
           "barkod": "4711474835543",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link AC750 bezicni pojacivac dometa, Dual Band 5GHz/2.4GHz, 802.11ac/a/b/g/n",
