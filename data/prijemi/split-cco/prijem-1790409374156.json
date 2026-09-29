@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T08:39:47.346Z",
-  "azurirano": "2026-09-29T10:06:51.779Z",
+  "azurirano": "2026-09-29T10:06:56.950Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -134,7 +134,7 @@
           "naziv": "CELLULARLINE ZASTITNA MASKA SENSATION IPHONE 17 BLACK",
           "barkod": "8018080499708",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO GALAXY S25 FE",
@@ -494,7 +494,7 @@
           "naziv": "Zastitna maska Cellularline, Clear Protect, Iphone 18 Pro",
           "barkod": "8018080520907",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Zastitna maska Cellularline, Clear Protect, Iphone 18 Pro Max",
@@ -518,7 +518,7 @@
           "naziv": "Zastitna maska Cellularline, Ultra Slim Mag, Iphone 18 Pro",
           "barkod": "8018080526619",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitna maska CELLULARLINE, Ultra Slim Mag, Iphone 18 PRO MAX",
