@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T08:39:47.346Z",
-  "azurirano": "2026-09-29T10:13:40.665Z",
+  "azurirano": "2026-09-29T10:13:44.790Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -266,13 +266,13 @@
           "naziv": "Kucni Punjac PLOOS, 20W, 1xUSB-C, Kabel USB-C na MFI, Crni",
           "barkod": "8018080399503",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kucni Punjac PLOOS, Dual, 20W, 1xUSB-A, 1xUSB-C, Crni",
           "barkod": "8018080415005",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kucni Punjac PLOOS, Za Apple, 1xUSB-A, Kabel Lightning 100cm, Crni",
