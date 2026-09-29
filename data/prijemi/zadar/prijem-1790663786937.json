@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T06:36:26.937Z",
-  "azurirano": "2026-09-29T07:04:52.790Z",
+  "azurirano": "2026-09-29T07:05:07.164Z",
   "dokumenti": [
     {
       "naziv": "MSI 6212-101",
@@ -803,7 +803,7 @@
           "naziv": "TV TCL 43P7K, 109.2cm (43\"), QLED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525958",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TV TCL 40S5K, 101.6cm (40\"), QLED, FHD SMART TV, GOOGLE TV",
@@ -833,7 +833,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Televizor HISENSE 32A4S 2026, 81,3 cm (32\"), DLED, HD, Smart TV, VIDAA OS",
@@ -845,13 +845,13 @@
           "naziv": "Televizor SAMSUNG UE43M72HAUXXH 2026, 109 cm (43\"), XH Mini LED",
           "barkod": "8806097963707",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor PHILIPS 43PUS7001 2026, 108 cm (43\"), LED, UHD 4K, Smart TV, Titan OS",
           "barkod": "8718863051603",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Televizor SONY K43S25M2PB 2026, 108 cm (43\"), Bravia 2 EI II, 4K Google TV",
