@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T09:00:54.155Z",
-  "azurirano": "2026-09-29T10:15:51.472Z",
+  "azurirano": "2026-09-29T10:15:59.814Z",
   "dokumenti": [
     {
       "naziv": "MSI 6256-101",
@@ -568,7 +568,7 @@
           "naziv": "Mis ACER AMR130, Ljubicasta",
           "barkod": "4711474835550",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta HP 650 CZ101AE Black Ink Cartridge",
