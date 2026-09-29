@@ -2,10 +2,10 @@
   "id": "prijem-1790409374156",
   "poslovnica": "split-cco",
   "naziv": "Komisija u dolasku",
-  "datum": "2026-09-26",
+  "datum": "2026-09-29",
   "status": "aktivan",
-  "kreirano": "2026-09-26T07:56:14.156Z",
-  "azurirano": "2026-09-26T07:56:14.156Z",
+  "kreirano": "2026-09-29T08:39:47.346Z",
+  "azurirano": "2026-09-29T08:39:47.346Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -685,6 +685,196 @@
           "naziv": "Nosac GoPro Head Strap 2.0 ACHOM-002-VN",
           "barkod": "0810116383849",
           "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "JBL",
+      "stavke": [
+        {
+          "naziv": "Mikrofon JBL PARTYBOX",
+          "barkod": "1200130010156",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne JBL VIBE FLEX 2 crna",
+          "barkod": "1200130015212",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne JBL WAVE BEAM 2 bijela",
+          "barkod": "1200130015267",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth bezicne JBL TUNE 780NC crne",
+          "barkod": "1200130030482",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
+          "barkod": "1200130029967",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth potpuno bezicne JBL TOUR PRO 3 TWS crne",
+          "barkod": "1200130013836",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth potpuno bezicne JBL Vibe BUDS 2 crne",
+          "barkod": "1200130015694",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL BOOMBOX 4 crni",
+          "barkod": "1200130024221",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crni",
+          "barkod": "1200130019555",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GO 5 plavi",
+          "barkod": "1200130034299",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GO ESSENTIAL 2 crveni",
+          "barkod": "1200130018602",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 720 crni",
+          "barkod": "1200130025822",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Xiaomi",
+      "stavke": [
+        {
+          "naziv": "Mobitel Xiaomi Redmi 17 4GB/128GB Black",
+          "barkod": "6939093018675",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi Redmi 17 4GB/128GB Deep Blue",
+          "barkod": "6939093017906",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi Redmi 17 4GB/256GB Black",
+          "barkod": "6939093018408",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi Redmi 17 4GB/256GB Deep Blue",
+          "barkod": "6939093017876",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi Redmi 17 4GB/256GB Oak Green",
+          "barkod": "6939093018217",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 4GB/128GB Sky Teal",
+          "barkod": "6939093006719",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 5G 6GB/256GB Sky Teal",
+          "barkod": "6939093021453",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 6GB/256GB Black",
+          "barkod": "6932554452636",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 6GB/256GB Sky Teal",
+          "barkod": "6932554425630",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 Pro Max 5G 8GB/256GB Black",
+          "barkod": "6939093005057",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 Pro Max 5G 8GB/256GB Cloud Blush",
+          "barkod": "6939093012178",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Xiaomi Pad 7 8GB/256GB zeleni",
+          "barkod": "6932554410476",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet XIAOMI REDMI PAD 2 4GB/128GB Graphite Gray",
+          "barkod": "6932554433383",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet XIAOMI Redmi PAD 2 4GB/128GB Mint Green",
+          "barkod": "6932554442569",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Xiaomi Redmi Pad 2 Pro 6GB/128GB Graphite Gray",
+          "barkod": "6932554463670",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Xiaomi Redmi Pad 2 Pro 8GB/256GB Graphite Gray",
+          "barkod": "6932554463786",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet XIAOMI Redmi Pad 2, 11\", 4GB/256GB sivi",
+          "barkod": "6932554450960",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet XIAOMI Redmi Pad 2, 11\", 4GB/256GB zeleni",
+          "barkod": "6932554451134",
+          "ocekivano": 1,
           "skenirano": 0
         }
       ]
