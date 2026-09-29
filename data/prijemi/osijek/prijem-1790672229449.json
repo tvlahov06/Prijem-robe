@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T09:00:54.155Z",
-  "azurirano": "2026-09-29T10:05:10.140Z",
+  "azurirano": "2026-09-29T10:05:33.166Z",
   "dokumenti": [
     {
       "naziv": "MSI 6256-101",
@@ -532,7 +532,7 @@
           "naziv": "ASUS U2000, tipkovnica i mis, crna, HR",
           "barkod": "4711387539521",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bezicni mis ASUS MD102",
@@ -634,7 +634,7 @@
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-011 WALRUS Crna/narancasta 800x400 XL",
           "barkod": "3858894503643",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ASUS W5000, bezicna tipkovnica i mis, crni, HR",
