@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T08:39:47.346Z",
-  "azurirano": "2026-09-29T10:13:33.832Z",
+  "azurirano": "2026-09-29T10:13:37.883Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -230,13 +230,13 @@
           "naziv": "Kabel PLOOS, USB-A na Lightning, MFI, 100cm, Bijeli",
           "barkod": "8018080367854",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel PLOOS, USB-A na USB-C, 100cm, Bijeli",
           "barkod": "8018080369780",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kucni Punjac ANKER GaN 2x USB-C/USB-A + USB-C Kabel",
