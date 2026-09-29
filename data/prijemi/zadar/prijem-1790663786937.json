@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T06:36:26.937Z",
-  "azurirano": "2026-09-29T07:05:11.579Z",
+  "azurirano": "2026-09-29T07:23:51.093Z",
   "dokumenti": [
     {
       "naziv": "MSI 6212-101",
@@ -809,7 +809,7 @@
           "naziv": "TV TCL 40S5K, 101.6cm (40\"), QLED, FHD SMART TV, GOOGLE TV",
           "barkod": "5901292526023",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG QE65S83HAEXXH 2026, 164 cm (65\"), H OLED, Smart TV, Tizen OS",
@@ -857,7 +857,7 @@
           "naziv": "Televizor SONY K43S25M2PB 2026, 108 cm (43\"), Bravia 2 EI II, 4K Google TV",
           "barkod": "4548736180420",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
