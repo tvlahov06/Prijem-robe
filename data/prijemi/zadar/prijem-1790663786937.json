@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T06:36:26.937Z",
-  "azurirano": "2026-09-29T09:31:11.127Z",
+  "azurirano": "2026-09-29T09:31:33.941Z",
   "dokumenti": [
     {
       "naziv": "MSI 6212-101",
@@ -264,29 +264,6 @@
           "barkod": "8806097978244",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6213-101",
-      "stavke": [
-        {
-          "naziv": "Pecnica ugradbena Electrolux LOH3H00BK",
-          "barkod": "7333394120072",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica posuda ugradbena ELECTROLUX E62LD200S",
-          "barkod": "7333394156170",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica posuda ugradbena ELECTROLUX NG62IC20SK",
-          "barkod": "7333394154084",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
