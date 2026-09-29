@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T09:00:54.155Z",
-  "azurirano": "2026-09-29T10:15:09.297Z",
+  "azurirano": "2026-09-29T10:15:33.707Z",
   "dokumenti": [
     {
       "naziv": "MSI 6256-101",
@@ -400,7 +400,7 @@
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
           "barkod": "4713218461933",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link USB3.0 na Gigabit mrezni adapter",
@@ -754,7 +754,7 @@
           "naziv": "USB stick ADATA UV210, 64GB, USB2.0 GD",
           "barkod": "4712366965850",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     }
