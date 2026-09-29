@@ -5,7 +5,7 @@
   "datum": "2026-09-28",
   "status": "aktivan",
   "kreirano": "2026-09-28T17:38:17.859Z",
-  "azurirano": "2026-09-29T05:58:12.481Z",
+  "azurirano": "2026-09-29T05:58:41.529Z",
   "dokumenti": [
     {
       "naziv": "MSI 6215-101",
@@ -543,7 +543,7 @@
           "naziv": "Tus za zube Philips Sonicare HX3826/31 Power Flosser Cordless white",
           "barkod": "8720689011037",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vaga osobna Tefal PP1905V0 Classic 3 Light Blue, 180 kg",
@@ -627,7 +627,7 @@
           "naziv": "Epilator Philips BRE708/00",
           "barkod": "8720689032704",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
