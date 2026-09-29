@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T08:39:47.346Z",
-  "azurirano": "2026-09-29T10:14:27.063Z",
+  "azurirano": "2026-09-29T10:14:31.312Z",
   "dokumenti": [
     {
       "naziv": "Logista",
@@ -86,7 +86,7 @@
           "naziv": "CELLULARLINE KABEL MFI 200CM",
           "barkod": "8018080201912",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC HUAWEI I KABEL USB-C 3A/18W",
