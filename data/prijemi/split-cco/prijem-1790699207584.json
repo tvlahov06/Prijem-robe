@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T16:26:47.584Z",
-  "azurirano": "2026-09-30T05:49:56.888Z",
+  "azurirano": "2026-09-30T05:50:16.810Z",
   "dokumenti": [
     {
       "naziv": "MSI 6269-101",
@@ -37,13 +37,13 @@
           "naziv": "Pecnica ugradbena Electrolux LOH3H00BK",
           "barkod": "7333394120072",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica posuda ugradbena ELECTROLUX E62LD200S",
           "barkod": "7333394156170",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
