@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T16:26:47.584Z",
-  "azurirano": "2026-09-30T05:42:32.358Z",
+  "azurirano": "2026-09-30T05:45:36.786Z",
   "dokumenti": [
     {
       "naziv": "MSI 6269-101",
@@ -96,7 +96,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor SAMSUNG UE55U8072HUXXH 2026, 139 cm XH (55\"), UHD, Smart TV, Tizen OS",
@@ -120,19 +120,19 @@
           "naziv": "Televizor SAMSUNG QE65S90HAEXXH 2026, 164 cm (65\"), H OLED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097954545",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG QE65S85HAEXXH 2026, 164 cm (65\"), H OLED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097963646",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SONY K55S25M2PB 2026, 139 cm (55\"), Bravia 2 EI II, 4K Google TV",
           "barkod": "4548736180345",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
