@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T15:38:22.603Z",
-  "azurirano": "2026-10-01T15:52:23.331Z",
+  "azurirano": "2026-10-01T15:52:26.003Z",
   "dokumenti": [
     {
       "naziv": "MSI 6309-101",
@@ -200,7 +200,7 @@
           "naziv": "Sisac za tijelo 17U1 Philips MG9535/15",
           "barkod": "8720689045131",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vaga osobna Tefal PP1600V0 Wood",
