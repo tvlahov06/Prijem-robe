@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "MOBIS_01_10",
   "datum": "2026-10-01",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-10-01T08:19:03.111Z",
-  "azurirano": "2026-10-01T08:32:33.684Z",
+  "azurirano": "2026-10-01T08:33:00.182Z",
   "dokumenti": [
     {
       "naziv": "mobis_01_10",
@@ -108,5 +108,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-10-01T08:33:00.182Z"
 }
