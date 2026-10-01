@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T15:38:22.603Z",
-  "azurirano": "2026-10-01T15:52:44.607Z",
+  "azurirano": "2026-10-01T15:53:57.576Z",
   "dokumenti": [
     {
       "naziv": "MSI 6309-101",
@@ -86,7 +86,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7108/02 Sonicare Series 5300 White",
           "barkod": "8720689023009",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX3792/12 Sonicare series 6800 Pink",
@@ -188,7 +188,7 @@
           "naziv": "Susilo za kosu Philips BHD538/30",
           "barkod": "8720689023276",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD839/00",
