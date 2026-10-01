@@ -1,0 +1,112 @@
+{
+  "id": "prijem-1790842743111",
+  "poslovnica": "zagreb-cco-west",
+  "naziv": "MOBIS_01_10",
+  "datum": "2026-10-01",
+  "status": "aktivan",
+  "kreirano": "2026-10-01T08:19:03.111Z",
+  "azurirano": "2026-10-01T08:19:03.111Z",
+  "dokumenti": [
+    {
+      "naziv": "mobis_01_10",
+      "stavke": [
+        {
+          "naziv": "Tablet Xiaomi Pad 7 8GB/256GB zeleni",
+          "barkod": "6932554410476",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 6GB/256GB Sky Teal",
+          "barkod": "6932554425630",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet XIAOMI REDMI PAD 2 4GB/128GB Graphite Gray",
+          "barkod": "6932554433383",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet XIAOMI Redmi PAD 2 4GB/128GB Mint Green",
+          "barkod": "6932554442569",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI 17T 12GB/512GB Crna",
+          "barkod": "6932554447939",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet XIAOMI Redmi Pad 2, 11\", 4GB/256GB sivi",
+          "barkod": "6932554450960",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet XIAOMI Redmi Pad 2, 11\", 4GB/256GB zeleni",
+          "barkod": "6932554451134",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Xiaomi Redmi Pad 2 Pro 6GB/128GB Graphite Gray",
+          "barkod": "6932554463670",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Xiaomi Redmi Pad 2 Pro 8GB/256GB Graphite Gray",
+          "barkod": "6932554463786",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 4GB/128GB Sky Teal",
+          "barkod": "6939093006719",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi Redmi 17 4GB/256GB Deep Blue",
+          "barkod": "6939093017876",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi Redmi 17 4GB/128GB Deep Blue",
+          "barkod": "6939093017906",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi Redmi 17 4GB/256GB Oak Green",
+          "barkod": "6939093018217",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi Redmi 17 4GB/128GB Oak Green",
+          "barkod": "6939093018330",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi Redmi 17 4GB/256GB Black",
+          "barkod": "6939093018408",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi Redmi 17 4GB/128GB Black",
+          "barkod": "6939093018675",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
