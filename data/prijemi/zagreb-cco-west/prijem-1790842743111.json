@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T08:19:03.111Z",
-  "azurirano": "2026-10-01T08:30:03.423Z",
+  "azurirano": "2026-10-01T08:31:10.827Z",
   "dokumenti": [
     {
       "naziv": "mobis_01_10",
@@ -38,7 +38,7 @@
           "naziv": "Mobitel XIAOMI 17T 12GB/512GB Crna",
           "barkod": "6932554447939",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet XIAOMI Redmi Pad 2, 11\", 4GB/256GB sivi",
@@ -104,7 +104,7 @@
           "naziv": "Mobitel Xiaomi Redmi 17 4GB/128GB Black",
           "barkod": "6939093018675",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         }
       ]
     }
