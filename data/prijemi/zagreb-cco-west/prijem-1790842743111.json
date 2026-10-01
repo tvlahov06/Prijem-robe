@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T08:19:03.111Z",
-  "azurirano": "2026-10-01T08:26:40.507Z",
+  "azurirano": "2026-10-01T08:26:49.296Z",
   "dokumenti": [
     {
       "naziv": "mobis_01_10",
@@ -20,7 +20,7 @@
           "naziv": "Mobitel XIAOMI Redmi Note 17 6GB/256GB Sky Teal",
           "barkod": "6932554425630",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tablet XIAOMI REDMI PAD 2 4GB/128GB Graphite Gray",
@@ -86,7 +86,7 @@
           "naziv": "Mobitel Xiaomi Redmi 17 4GB/256GB Oak Green",
           "barkod": "6939093018217",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Xiaomi Redmi 17 4GB/128GB Oak Green",
