@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T15:38:22.603Z",
-  "azurirano": "2026-10-01T15:57:17.205Z",
+  "azurirano": "2026-10-01T15:57:21.347Z",
   "dokumenti": [
     {
       "naziv": "MSI 6309-101",
@@ -194,7 +194,7 @@
           "naziv": "Susilo za kosu Philips BHD839/00",
           "barkod": "8720689032384",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 17U1 Philips MG9535/15",
