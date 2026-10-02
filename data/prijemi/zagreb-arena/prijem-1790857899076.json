@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T12:31:39.076Z",
-  "azurirano": "2026-10-02T11:06:24.159Z",
+  "azurirano": "2026-10-02T11:06:39.264Z",
   "dokumenti": [
     {
       "naziv": "MSI 6333-101",
@@ -909,7 +909,7 @@
           "naziv": "Mikrofon VIVAX MC-2",
           "barkod": "3856032101454",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrofon VIVAX MC-1",
