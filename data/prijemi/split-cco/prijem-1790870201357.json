@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T15:56:41.357Z",
-  "azurirano": "2026-10-02T07:28:11.901Z",
+  "azurirano": "2026-10-02T07:28:17.374Z",
   "dokumenti": [
     {
       "naziv": "MSI 6334-101",
@@ -490,13 +490,13 @@
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
           "barkod": "8806097651079",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A27 5G 6GB/128GB dual SIM svjetloruzicasti",
           "barkod": "8806099353599",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 zeleni",
