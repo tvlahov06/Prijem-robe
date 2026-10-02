@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T15:56:41.357Z",
-  "azurirano": "2026-10-02T08:25:42.962Z",
+  "azurirano": "2026-10-02T08:26:22.127Z",
   "dokumenti": [
     {
       "naziv": "MSI 6334-101",
@@ -873,7 +873,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mlinac za kavu Bosch TSM6A013B crni",
