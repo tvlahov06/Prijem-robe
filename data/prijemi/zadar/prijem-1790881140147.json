@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T11:54:45.231Z",
+  "azurirano": "2026-10-02T11:54:56.942Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -2089,7 +2089,7 @@
           "naziv": "Usisavac Rowenta RH7AC1E0",
           "barkod": "3221616183063",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Rowenta RH9B74WO X-Force Flex 14.80 Animal",
