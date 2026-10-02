@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T11:46:23.626Z",
+  "azurirano": "2026-10-02T11:53:02.263Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -1802,7 +1802,7 @@
           "naziv": "Usisavac robot Bosch BCRDW3BX, Spotless Max Cam",
           "barkod": "4242005525805",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Bosch TAT2M121, MyMoment, bijeli",
