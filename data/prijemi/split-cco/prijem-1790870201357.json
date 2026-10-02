@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T15:56:41.357Z",
-  "azurirano": "2026-10-02T07:47:14.347Z",
+  "azurirano": "2026-10-02T07:47:18.192Z",
   "dokumenti": [
     {
       "naziv": "MSI 6334-101",
@@ -1081,7 +1081,7 @@
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-031 REVENGE 750x350 Crna",
           "barkod": "3858894503667",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
@@ -1243,7 +1243,7 @@
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-011 WALRUS Crna/narancasta 800x400 XL",
           "barkod": "3858894503643",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link RE605X, AX1800 Wi-Fi 6 Range Extender",
