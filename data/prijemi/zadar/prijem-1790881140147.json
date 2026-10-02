@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T14:42:52.237Z",
+  "azurirano": "2026-10-02T14:43:05.582Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -75,47 +75,6 @@
           "barkod": "7612985942416",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6377-101",
-      "stavke": [
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke 7 WH-CH730N/L",
-          "barkod": "4548736181694",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Sony bezicne WH-CH530/G",
-          "barkod": "4548736181489",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Sony bezicne WH-CH530/W",
-          "barkod": "4548736181281",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke E7 WH-CH730N/B",
-          "barkod": "4548736179721",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/B",
-          "barkod": "4548736162617",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C510/W",
-          "barkod": "4548736161481",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
