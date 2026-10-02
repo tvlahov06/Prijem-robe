@@ -5,7 +5,7 @@
   "datum": "2026-10-02",
   "status": "aktivan",
   "kreirano": "2026-10-02T14:59:48.644Z",
-  "azurirano": "2026-10-02T15:35:27.562Z",
+  "azurirano": "2026-10-02T15:35:33.585Z",
   "dokumenti": [
     {
       "naziv": "MSI 6362-101",
@@ -406,7 +406,7 @@
           "naziv": "Sisac za kosu Philips HC3734/15",
           "barkod": "8720689058247",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX8311/13 DiamondClean",
@@ -484,7 +484,7 @@
           "naziv": "Sisac za kosu Philips HC5735/15 Series 5000",
           "barkod": "8720689058261",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu Philips HC9721/15 Series 9000",
