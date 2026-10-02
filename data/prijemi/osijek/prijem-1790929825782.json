@@ -5,7 +5,7 @@
   "datum": "2026-10-02",
   "status": "aktivan",
   "kreirano": "2026-10-02T08:30:25.782Z",
-  "azurirano": "2026-10-02T08:54:51.723Z",
+  "azurirano": "2026-10-02T08:55:33.438Z",
   "dokumenti": [
     {
       "naziv": "MSI 6400-101",
@@ -217,47 +217,6 @@
         {
           "naziv": "Kuhalo za vodu Philips HD9318/00",
           "barkod": "8710103940999",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6401-101",
-      "stavke": [
-        {
-          "naziv": "VIVAX VOX karaoke zvucnik",
-          "barkod": "3856032100396",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "DAB OAK VIVAX VOX DW-2 DAB OAK",
-          "barkod": "3856032102260",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "VIVAX VOX BT/karaoke zvucnik",
-          "barkod": "3856032101393",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "VIVAX VOX bt zvucnik",
-          "barkod": "3856005191925",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikrofon VIVAX MC-2",
-          "barkod": "3856032101454",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikrofon VIVAX MC-1",
-          "barkod": "3856032101447",
           "ocekivano": 1,
           "skenirano": 1
         }
