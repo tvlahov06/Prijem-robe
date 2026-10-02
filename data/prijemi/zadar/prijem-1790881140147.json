@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T09:16:24.813Z",
+  "azurirano": "2026-10-02T09:16:32.356Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -628,7 +628,7 @@
           "naziv": "Aparat za kavu Krups KP243AF0 Genio S taupe",
           "barkod": "3045380028241",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V16 Piston Animal",
