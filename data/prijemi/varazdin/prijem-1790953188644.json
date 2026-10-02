@@ -5,7 +5,7 @@
   "datum": "2026-10-02",
   "status": "aktivan",
   "kreirano": "2026-10-02T14:59:48.644Z",
-  "azurirano": "2026-10-02T15:51:15.352Z",
+  "azurirano": "2026-10-02T15:51:20.053Z",
   "dokumenti": [
     {
       "naziv": "MSI 6362-101",
@@ -1347,7 +1347,7 @@
           "naziv": "Dehidrator hrane Gorenje FDK24DW",
           "barkod": "3838942927034",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Bosch BCRD2W, Spotless Advanced +",
