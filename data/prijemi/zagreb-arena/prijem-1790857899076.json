@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T12:31:39.076Z",
-  "azurirano": "2026-10-02T11:05:45.685Z",
+  "azurirano": "2026-10-02T11:06:24.159Z",
   "dokumenti": [
     {
       "naziv": "MSI 6333-101",
@@ -1082,7 +1082,7 @@
           "naziv": "Blender Nutribullet NB907MASL 900W",
           "barkod": "8006447003026",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Gorenje SIK2400BKV",
@@ -1118,7 +1118,7 @@
           "naziv": "Osvjezivac odjece Tefal DT2022E1 Pure Pop coral",
           "barkod": "3121040088517",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
