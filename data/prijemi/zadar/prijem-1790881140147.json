@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T12:41:43.210Z",
+  "azurirano": "2026-10-02T12:42:32.512Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -724,7 +724,7 @@
           "naziv": "Kuhinjski asistent Gorenje MMC1000CA",
           "barkod": "3838782686696",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Rowenta RH7A32E0 X-Force Flex 10.80",
@@ -1491,7 +1491,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX3792/12 Sonicare series 6800 Pink",
           "barkod": "8720689046848",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX8513/12 DiamondClean",
