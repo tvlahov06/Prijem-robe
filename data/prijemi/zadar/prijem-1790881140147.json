@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T14:43:05.582Z",
+  "azurirano": "2026-10-02T14:43:33.562Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -73,41 +73,6 @@
         {
           "naziv": "NG Glass Kuhinjska napa Faber Flexa NG Glass Lux BK A60 Lux BK A60",
           "barkod": "7612985942416",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6378-101",
-      "stavke": [
-        {
-          "naziv": "VIVAX VOX karaoke zvucnik",
-          "barkod": "3856032100389",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "DAB OAK VIVAX VOX DW-2 DAB OAK",
-          "barkod": "3856032102260",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "VIVAX VOX bt zvucnik",
-          "barkod": "3856005191925",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikrofon VIVAX MC-2",
-          "barkod": "3856032101454",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikrofon VIVAX MC-1",
-          "barkod": "3856032101447",
           "ocekivano": 1,
           "skenirano": 1
         }
