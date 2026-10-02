@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T12:31:39.076Z",
-  "azurirano": "2026-10-02T10:22:12.512Z",
+  "azurirano": "2026-10-02T10:22:22.144Z",
   "dokumenti": [
     {
       "naziv": "MSI 6333-101",
@@ -492,7 +492,7 @@
           "naziv": "Blender Bosch MMB6762M VitaPower Serie 6",
           "barkod": "4242005395170",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST3031/20",
