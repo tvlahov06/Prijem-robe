@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T11:54:56.942Z",
+  "azurirano": "2026-10-02T11:55:03.097Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -568,7 +568,7 @@
           "naziv": "Blender Nutribullet NB907CP 900W",
           "barkod": "8006447000087",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Bosch MMB6172S VitaPower Serie 4",
