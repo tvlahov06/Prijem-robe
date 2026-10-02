@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T13:12:00.534Z",
+  "azurirano": "2026-10-02T13:12:02.906Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -1981,7 +1981,7 @@
           "naziv": "Glacalo Philips DST7511/80",
           "barkod": "8720389014352",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Gorenje MMC1000CA",
