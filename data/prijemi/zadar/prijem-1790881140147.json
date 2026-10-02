@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T11:53:02.263Z",
+  "azurirano": "2026-10-02T11:53:19.614Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -1820,7 +1820,7 @@
           "naziv": "Ledomat Gorenje IMD 1200 W",
           "barkod": "3838782497315",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
