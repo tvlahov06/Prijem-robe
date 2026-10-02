@@ -5,7 +5,7 @@
   "datum": "2026-10-02",
   "status": "aktivan",
   "kreirano": "2026-10-02T08:30:25.782Z",
-  "azurirano": "2026-10-02T08:41:00.191Z",
+  "azurirano": "2026-10-02T08:41:49.362Z",
   "dokumenti": [
     {
       "naziv": "MSI 6400-101",
@@ -241,7 +241,7 @@
           "naziv": "VIVAX VOX BT/karaoke zvucnik",
           "barkod": "3856032101393",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "VIVAX VOX bt zvucnik",
@@ -425,7 +425,7 @@
           "naziv": "Osvjezivac odjece Philips STH7060/80",
           "barkod": "8720389007484",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Usisavac Bosch BCS1051POW Unlimited 10 ProPower, crni",
