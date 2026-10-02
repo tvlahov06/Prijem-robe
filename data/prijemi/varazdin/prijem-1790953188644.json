@@ -5,7 +5,7 @@
   "datum": "2026-10-02",
   "status": "aktivan",
   "kreirano": "2026-10-02T14:59:48.644Z",
-  "azurirano": "2026-10-02T15:38:34.181Z",
+  "azurirano": "2026-10-02T15:38:48.706Z",
   "dokumenti": [
     {
       "naziv": "MSI 6362-101",
@@ -466,7 +466,7 @@
           "naziv": "Sisac za kosu Philips HC7722/15",
           "barkod": "8720689058117",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu Philips HC5722/15",
@@ -532,7 +532,7 @@
           "naziv": "Sisac za bradu Philips BT7670/15",
           "barkod": "8720689029421",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Philips BHB876/00 tulip crni",
