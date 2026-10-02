@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T15:56:41.357Z",
-  "azurirano": "2026-10-02T07:01:27.535Z",
+  "azurirano": "2026-10-02T07:01:31.381Z",
   "dokumenti": [
     {
       "naziv": "MSI 6334-101",
@@ -932,7 +932,7 @@
           "naziv": "Perilica rublja GORENJE WG4S84B1",
           "barkod": "3838783091826",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja HISENSE WF1I8042BWP2",
