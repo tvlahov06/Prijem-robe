@@ -5,7 +5,7 @@
   "datum": "2026-10-02",
   "status": "aktivan",
   "kreirano": "2026-10-02T08:30:25.782Z",
-  "azurirano": "2026-10-02T08:46:03.779Z",
+  "azurirano": "2026-10-02T08:46:24.046Z",
   "dokumenti": [
     {
       "naziv": "MSI 6400-101",
@@ -206,7 +206,7 @@
           "naziv": "Usisavac Bosch BGB38RD2",
           "barkod": "4242005359271",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Philips HR3020/20",
