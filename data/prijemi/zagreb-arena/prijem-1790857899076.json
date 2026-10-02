@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T12:31:39.076Z",
-  "azurirano": "2026-10-02T05:52:40.638Z",
+  "azurirano": "2026-10-02T05:52:46.360Z",
   "dokumenti": [
     {
       "naziv": "MSI 6333-101",
@@ -581,7 +581,7 @@
           "naziv": "TP-Link USB 3.0 Gbit Ethernet Adapter & 3x USB hub",
           "barkod": "6935364094553",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX Desktop stalak LCD-LM01-2 (13-32\"/9kg monitor + 4kg laptop/VESA 100x100)",
