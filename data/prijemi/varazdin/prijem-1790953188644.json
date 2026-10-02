@@ -5,7 +5,7 @@
   "datum": "2026-10-02",
   "status": "aktivan",
   "kreirano": "2026-10-02T14:59:48.644Z",
-  "azurirano": "2026-10-02T15:12:32.591Z",
+  "azurirano": "2026-10-02T15:12:38.702Z",
   "dokumenti": [
     {
       "naziv": "MSI 6362-101",
@@ -567,7 +567,7 @@
           "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
           "barkod": "8806097984795",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Projektor ACER QH31s MR.JYQ11.003, LCD, 150 ANSI, HDMIx1, zvucnik, plavi",
@@ -669,7 +669,7 @@
           "naziv": "Slusalice Sony potpuno bezicne WF-C710N/B",
           "barkod": "4548736164161",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke .CE7 WH-1000XM4C/B ljubicasta",
@@ -699,7 +699,7 @@
           "naziv": "Slusalice Sony potpuno bezicne WF-C510/L",
           "barkod": "4548736161733",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke 7 WH-CH730N/P",
