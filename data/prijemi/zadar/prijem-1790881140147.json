@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T12:42:32.512Z",
+  "azurirano": "2026-10-02T12:42:47.515Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -1635,7 +1635,7 @@
           "naziv": "Brijaci aparat Philips oprema CC12/50 komplet kapsula",
           "barkod": "8710103944652",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "L'oreal Steampod Concentrate 50ML ilo",
