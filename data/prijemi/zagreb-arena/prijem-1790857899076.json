@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T12:31:39.076Z",
-  "azurirano": "2026-10-02T06:18:05.448Z",
+  "azurirano": "2026-10-02T06:18:12.000Z",
   "dokumenti": [
     {
       "naziv": "MSI 6333-101",
@@ -683,7 +683,7 @@
           "naziv": "TP-Link RE205, pojacivac signala AC750",
           "barkod": "6935364080976",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bezicni snimac zvuka Plaud NotePin S AI PN0210, 64GB, srebrni",
