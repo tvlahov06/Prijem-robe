@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T15:56:41.357Z",
-  "azurirano": "2026-10-02T07:01:31.381Z",
+  "azurirano": "2026-10-02T07:01:34.857Z",
   "dokumenti": [
     {
       "naziv": "MSI 6334-101",
@@ -938,7 +938,7 @@
           "naziv": "Perilica rublja HISENSE WF1I8042BWP2",
           "barkod": "6901101840226",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Hisense WF7S1247BW",
