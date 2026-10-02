@@ -5,7 +5,7 @@
   "datum": "2026-10-02",
   "status": "aktivan",
   "kreirano": "2026-10-02T14:59:48.644Z",
-  "azurirano": "2026-10-02T15:32:54.907Z",
+  "azurirano": "2026-10-02T15:33:12.133Z",
   "dokumenti": [
     {
       "naziv": "MSI 6362-101",
@@ -1074,13 +1074,13 @@
           "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 ljubicasti",
           "barkod": "4547410489101",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 plavi",
           "barkod": "4547410489064",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 zeleni",
@@ -1104,25 +1104,25 @@
           "naziv": "fotoaparat Fujifilm Instax Mini 13 plavi",
           "barkod": "4547410564846",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 rozi",
           "barkod": "4547410564853",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 zeleni",
           "barkod": "4547410564860",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Instant fotoaparat Fujifilm Instax Mini 41",
           "barkod": "4547410545180",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
