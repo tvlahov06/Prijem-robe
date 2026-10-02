@@ -5,7 +5,7 @@
   "datum": "2026-10-02",
   "status": "aktivan",
   "kreirano": "2026-10-02T14:59:48.644Z",
-  "azurirano": "2026-10-02T16:09:18.750Z",
+  "azurirano": "2026-10-02T16:09:26.998Z",
   "dokumenti": [
     {
       "naziv": "MSI 6362-101",
@@ -1215,7 +1215,7 @@
           "naziv": "Aparat za kavu DeLonghi EC 890.M Dedica Duo",
           "barkod": "8004399032569",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser Stapni Bosch MSM4B621 ErgoMaster",
@@ -1311,7 +1311,7 @@
           "naziv": "Usisavac stapni Roborock F25 Gen 2",
           "barkod": "6974653814700",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Bosch BCRDW3BX, Spotless Max Cam",
