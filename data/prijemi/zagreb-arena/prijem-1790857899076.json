@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T12:31:39.076Z",
-  "azurirano": "2026-10-02T09:48:28.427Z",
+  "azurirano": "2026-10-02T09:48:33.158Z",
   "dokumenti": [
     {
       "naziv": "MSI 6333-101",
@@ -874,7 +874,7 @@
           "naziv": "Podloga za mis Logitech G240",
           "barkod": "5099206104334",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech MX Anywhere 3S Graphite",
