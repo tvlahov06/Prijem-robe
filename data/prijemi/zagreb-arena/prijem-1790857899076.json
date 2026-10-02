@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T12:31:39.076Z",
-  "azurirano": "2026-10-02T10:59:22.950Z",
+  "azurirano": "2026-10-02T10:59:40.934Z",
   "dokumenti": [
     {
       "naziv": "MSI 6333-101",
@@ -271,13 +271,13 @@
           "naziv": "Cetkica za zube Philips Sonicare HX8596/21 DiamondClean",
           "barkod": "8720689054218",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9813/98 DiamondClean Prestige 9900",
           "barkod": "8720689054270",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP624/50 nastavci Face & Body",
