@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T09:01:14.824Z",
+  "azurirano": "2026-10-02T09:01:42.801Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -1234,7 +1234,7 @@
           "naziv": "Mikser rucni Gorenje M500DCBK",
           "barkod": "3838782541605",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Philips HR3781/00 crni 500W",
