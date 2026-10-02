@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T09:22:17.397Z",
+  "azurirano": "2026-10-02T09:22:43.689Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -1766,7 +1766,7 @@
           "naziv": "Toster grill Bosch TCG4215, silver",
           "barkod": "4242005238699",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "robot Roborock Saros 20",
@@ -1790,7 +1790,7 @@
           "naziv": "Blender Ninja BC251EUNV Blast Max Portable plavi",
           "barkod": "0622356310246",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac stapni Roborock F25 Gen 2",
