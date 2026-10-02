@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T14:01:43.835Z",
+  "azurirano": "2026-10-02T14:01:48.915Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -604,7 +604,7 @@
           "naziv": "Usisavac Philips FC9334/09",
           "barkod": "8710103796329",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3110 Piccolo XS white/burgundy PF",
