@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T09:01:49.923Z",
+  "azurirano": "2026-10-02T09:01:55.246Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -1246,7 +1246,7 @@
           "naziv": "Mikser rucni Tefal HT450B38 bijeli 450W",
           "barkod": "3016667242315",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Bosch MSM6M633",
