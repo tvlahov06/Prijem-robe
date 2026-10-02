@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T12:09:33.948Z",
+  "azurirano": "2026-10-02T12:09:44.607Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -1652,7 +1652,7 @@
           "naziv": "Usisavac Rowenta RO4B63EA",
           "barkod": "3221616093133",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Qrevo S Pro crna",
