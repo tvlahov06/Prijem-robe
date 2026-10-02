@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T12:31:39.076Z",
-  "azurirano": "2026-10-02T06:18:37.096Z",
+  "azurirano": "2026-10-02T06:18:44.194Z",
   "dokumenti": [
     {
       "naziv": "MSI 6333-101",
@@ -665,7 +665,7 @@
           "naziv": "T3U TP-Link Archer T3U Nano, AC1300 WLAN USB adapter Nano",
           "barkod": "6935364072667",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MicroSD kartica Samsung 256 GB T7 microSDXC UHS-I W kartica MB-MB128T/WW",
