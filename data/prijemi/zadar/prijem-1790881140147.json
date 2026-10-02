@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T09:07:57.866Z",
+  "azurirano": "2026-10-02T09:08:08.523Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -1216,7 +1216,7 @@
           "naziv": "Ledomat Gorenje IMD 1200 W",
           "barkod": "3838782497315",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Bosch MFQ4030K Styline Colour roza/siva",
@@ -1312,7 +1312,7 @@
           "naziv": "Toster grill Tefal GC272D10",
           "barkod": "3045380026230",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za uklanjanje vlakana Philips GC026/00 Blue",
