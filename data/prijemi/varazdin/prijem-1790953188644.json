@@ -5,7 +5,7 @@
   "datum": "2026-10-02",
   "status": "aktivan",
   "kreirano": "2026-10-02T14:59:48.644Z",
-  "azurirano": "2026-10-02T15:42:59.042Z",
+  "azurirano": "2026-10-02T15:43:25.097Z",
   "dokumenti": [
     {
       "naziv": "MSI 6362-101",
@@ -1520,7 +1520,7 @@
           "naziv": "Usisavac Rowenta RH7AC1E0",
           "barkod": "3221616183063",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Dyson V16 Piston Animal Submarine",
