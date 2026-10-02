@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T08:42:05.009Z",
+  "azurirano": "2026-10-02T08:42:33.388Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -1228,7 +1228,7 @@
           "naziv": "Mikser rucni Bosch MFQ4070",
           "barkod": "4242002556857",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Gorenje M500DCBK",
