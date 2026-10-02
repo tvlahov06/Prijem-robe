@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T13:22:42.351Z",
+  "azurirano": "2026-10-02T13:22:47.356Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -2029,7 +2029,7 @@
           "naziv": "Osvjezivac odjece Philips STH7060/80",
           "barkod": "8720389007484",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal SV8151E0",
