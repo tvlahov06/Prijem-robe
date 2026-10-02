@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T13:20:26.370Z",
+  "azurirano": "2026-10-02T13:20:39.303Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -586,7 +586,7 @@
           "naziv": "Parna postaja Philips PSG7200/20",
           "barkod": "8720389065170",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP1438F0 Mini Me 2 piano black",
