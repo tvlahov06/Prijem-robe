@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T11:26:49.168Z",
+  "azurirano": "2026-10-02T11:26:55.649Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -2345,7 +2345,7 @@
           "naziv": "Eksterni disk ADATA Ex HDD HV300, 1TB, usb3.0, bijeli -CWH",
           "barkod": "4713218464989",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Stolno AI racunalo HP ProDesk 4 Tower G1i, 9H7V1ET, Intel Core Ultra 5 225, 16 GB RAM, 512 GB SSD, Intel Graphics,",
