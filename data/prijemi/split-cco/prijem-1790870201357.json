@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T15:56:41.357Z",
-  "azurirano": "2026-10-02T07:54:49.483Z",
+  "azurirano": "2026-10-02T07:55:01.628Z",
   "dokumenti": [
     {
       "naziv": "MSI 6334-101",
@@ -1338,7 +1338,7 @@
           "naziv": "Kontroler Logitech F310, zicani",
           "barkod": "5099206041868",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech G305 LIGHTSPEED, bijeli",
