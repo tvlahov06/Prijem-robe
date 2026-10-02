@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T08:54:31.328Z",
+  "azurirano": "2026-10-02T08:54:38.346Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -1108,7 +1108,7 @@
           "naziv": "Blender Nutribullet NBP013GM Portable Flex metalna crna",
           "barkod": "8006447004528",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NBP003NBL Portable plavi",
@@ -1408,7 +1408,7 @@
           "naziv": "Vaga kuhinjska Tefal BC5504V0",
           "barkod": "3121040095287",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
