@@ -5,7 +5,7 @@
   "datum": "2026-10-02",
   "status": "aktivan",
   "kreirano": "2026-10-02T09:15:44.715Z",
-  "azurirano": "2026-10-02T10:56:26.031Z",
+  "azurirano": "2026-10-02T10:57:25.236Z",
   "dokumenti": [
     {
       "naziv": "MSI 6400-101",
@@ -38,7 +38,7 @@
           "naziv": "Pekac kruha Gorenje BM1600WG",
           "barkod": "3838942136078",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sokovnik Ninja JC151EU Cold Press Juicer",
@@ -158,7 +158,7 @@
           "naziv": "Ledomat Gorenje IMD 1200 W",
           "barkod": "3838782497315",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Bosch MMB6762M VitaPower Serie 6",
@@ -170,7 +170,7 @@
           "naziv": "Kuhinjski asistent Bosch MUM54251 MUM5 Styline",
           "barkod": "4242002681689",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dehidrator hrane Gorenje FDK24DW",
