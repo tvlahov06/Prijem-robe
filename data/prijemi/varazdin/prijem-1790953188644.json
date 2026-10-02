@@ -5,7 +5,7 @@
   "datum": "2026-10-02",
   "status": "aktivan",
   "kreirano": "2026-10-02T14:59:48.644Z",
-  "azurirano": "2026-10-02T16:05:27.304Z",
+  "azurirano": "2026-10-02T16:05:42.210Z",
   "dokumenti": [
     {
       "naziv": "MSI 6362-101",
@@ -1371,7 +1371,7 @@
           "naziv": "Usisavac Bosch BGB38RD2",
           "barkod": "4242005359271",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Multipraktik Kenwood FDM73.850SS MultiPro Onetouch",
