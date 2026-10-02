@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T15:56:41.357Z",
-  "azurirano": "2026-10-02T07:17:36.499Z",
+  "azurirano": "2026-10-02T07:17:48.751Z",
   "dokumenti": [
     {
       "naziv": "MSI 6334-101",
@@ -270,7 +270,7 @@
           "naziv": "Usisavac Electrolux EB51C1OG",
           "barkod": "7333394021379",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac ELECTROLUX EB61C4DB",
