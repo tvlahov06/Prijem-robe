@@ -5,7 +5,7 @@
   "datum": "2026-09-29",
   "status": "aktivan",
   "kreirano": "2026-09-29T16:28:48.199Z",
-  "azurirano": "2026-10-02T06:44:35.686Z",
+  "azurirano": "2026-10-02T06:44:41.268Z",
   "dokumenti": [
     {
       "naziv": "Comtrade",
@@ -14,13 +14,13 @@
           "naziv": "DJI Mic Mini 2 odasiljac",
           "barkod": "6937224139732",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DJI Mic Mini 2S (1 TX + 1 RX)",
           "barkod": "6937224149403",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DJI Mic Mini 2S (2 TX + 1 RX + Charging Case)",
