@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T15:56:41.357Z",
-  "azurirano": "2026-10-02T07:16:28.339Z",
+  "azurirano": "2026-10-02T07:16:55.323Z",
   "dokumenti": [
     {
       "naziv": "MSI 6334-101",
@@ -264,7 +264,7 @@
           "naziv": "Sjeckalica Philips HR1501/00",
           "barkod": "8720389066535",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Electrolux EB51C1OG",
