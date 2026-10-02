@@ -5,7 +5,7 @@
   "datum": "2026-10-01",
   "status": "aktivan",
   "kreirano": "2026-10-01T18:59:00.147Z",
-  "azurirano": "2026-10-02T10:54:38.418Z",
+  "azurirano": "2026-10-02T10:54:44.618Z",
   "dokumenti": [
     {
       "naziv": "MSI 6386-101",
@@ -431,7 +431,7 @@
           "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Silver",
           "barkod": "195950086171",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Blue",
