@@ -5,7 +5,7 @@
   "datum": "2026-10-02",
   "status": "aktivan",
   "kreirano": "2026-10-02T08:30:25.782Z",
-  "azurirano": "2026-10-02T08:54:02.915Z",
+  "azurirano": "2026-10-02T08:54:14.416Z",
   "dokumenti": [
     {
       "naziv": "MSI 6400-101",
@@ -294,7 +294,7 @@
           "naziv": "Hladnjak kombinirani Hisense RB390N4GBE",
           "barkod": "6921727055958",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hladnjak Side by side Gorenje NRS9182VXB1",
@@ -318,7 +318,7 @@
           "naziv": "Susilica rublja Hisense DH3S802BW2",
           "barkod": "6901101829634",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Hisense WF7S1247BW",
@@ -604,7 +604,7 @@
           "naziv": "Hladnjak Multidoor Hisense RQ758N4SBSE",
           "barkod": "6921727070302",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hladnjak Side by Side GORENJE NRS917E41BX",
@@ -634,7 +634,7 @@
           "naziv": "Hladnjak Side by side Beko GNO46623MXPN",
           "barkod": "8690842591655",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
