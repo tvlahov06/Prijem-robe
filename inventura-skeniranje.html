@@ -32,7 +32,7 @@
   <script>if(localStorage.getItem("theme")==="dark")document.documentElement.setAttribute("data-theme","dark");</script>
   <div class="app">
     <div class="page-header">
-      <button class="back-btn" onclick="window.location.href='inventura.html'">&#8592;</button>
+      <button class="back-btn" onclick="smartBack()">&#8592;</button>
       <div class="title-group">
         <h1 id="dt">&#128203; Ucitavanje...</h1>
         <p id="dd"></p>
@@ -115,9 +115,24 @@
       for (var i = 0; i < (invData.dijelovi || []).length; i++) {
         (function(dio, idx) {
           var btn = document.createElement("div"); btn.className = "part-btn";
-          btn.innerHTML = '<div class="part-num">' + (idx+1) + '</div><div class="part-name">' + dio.naziv + '</div><div class="part-info">Klikni za skeniranje</div>';
+          btn.id = "partcard-" + dio.id;
+          btn.innerHTML = '<div class="part-num">' + (idx+1) + '</div><div class="part-name">' + dio.naziv + '</div><div class="part-info" id="partinfo-' + dio.id + '">Ucitavanje...</div>';
           btn.addEventListener("click", function() { loadPart(dio); });
           ps.appendChild(btn);
+          // Load part status + scan count
+          GitHubStorage.readFile(folder + invId + "-dio-" + dio.id + ".json").then(function(d) {
+            var info = document.getElementById("partinfo-" + dio.id);
+            var card = document.getElementById("partcard-" + dio.id);
+            if (!info || !d) { if (info) info.textContent = "Klikni za skeniranje"; return; }
+            var sken = 0;
+            for (var dd = 0; dd < d.content.dokumenti.length; dd++) { for (var ss = 0; ss < d.content.dokumenti[dd].stavke.length; ss++) sken += (d.content.dokumenti[dd].stavke[ss].skenirano || 0); }
+            if (d.content.status === "zavrsen") {
+              info.innerHTML = '<span style="color:#34c759;font-weight:700">\u2713 Zavrseno</span> &middot; ' + sken + ' kom';
+              if (card) card.style.borderColor = "#34c759";
+            } else {
+              info.textContent = sken > 0 ? (sken + " kom skenirano") : "Klikni za skeniranje";
+            }
+          }).catch(function(){});
         })(invData.dijelovi[i], i);
       }
     }
@@ -140,8 +155,20 @@
         document.getElementById("dd").textContent = "Dio: " + dio.naziv;
         render(); stats();
         Scanner.init("#si", "#sb", scan);
+        setFin(partData.status === "zavrsen");
       });
     }
+
+    window.smartBack = function() {
+      // If currently scanning a part, go back to part selection; otherwise leave to list
+      var scanViewVisible = document.getElementById("scan-view").style.display !== "none";
+      if (scanViewVisible) {
+        document.getElementById("dd").textContent = new Date(invData.datum).toLocaleDateString("hr-HR", { day:"numeric", month:"long", year:"numeric" }) + ".";
+        showParts();
+      } else {
+        window.location.href = "inventura.html";
+      }
+    };
 
     document.getElementById("back-parts").addEventListener("click", function() {
       document.getElementById("dd").textContent = new Date(invData.datum).toLocaleDateString("hr-HR", { day:"numeric", month:"long", year:"numeric" }) + ".";
@@ -277,11 +304,13 @@
 
     document.getElementById("fin-btn").addEventListener("click", function() {
       if (!confirm("Zavrsiti ovaj dio inventure?")) return;
+      partData.status = "zavrsen";
       save().then(function() { setFin(true); toast("Zavrseno!", "success"); });
     });
 
     document.getElementById("reopen-btn").addEventListener("click", function() {
-      setFin(false); render(); stats(); toast("Nastavljeno", "success"); Scanner.refocus();
+      partData.status = "aktivan";
+      setFin(false); render(); stats(); save().then(function() { toast("Nastavljeno", "success"); Scanner.refocus(); });
     });
 
     document.getElementById("rst-btn").addEventListener("click", function() {
