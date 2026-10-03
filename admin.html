@@ -96,6 +96,7 @@
         <button class="btn btn-primary btn-sm" id="tab-prijemi" onclick="showTab('prijemi')">Prijemi</button>
         <button class="btn btn-secondary btn-sm" id="tab-search" onclick="showTab('search')">&#128269; Pretraga artikala</button>
         <button class="btn btn-secondary btn-sm" id="tab-posl" onclick="showTab('posl')">&#9881; Poslovnice</button>
+        <button class="btn btn-secondary btn-sm" id="tab-limit" onclick="showTab('limit')">&#128202; API Limit</button>
       </div>
 
       <!-- Tab: Prijemi -->
@@ -131,6 +132,11 @@
           </div>
         </div>
         <div id="posl-manage-list"></div>
+      </div>
+
+      <!-- Tab: API Limit -->
+      <div id="panel-limit" style="display:none">
+        <div id="limit-content"><div class="empty-state loading"><div class="empty-icon">&#9203;</div><h3>Ucitavanje...</h3></div></div>
       </div>
     </div>
 
@@ -689,12 +695,51 @@
       document.getElementById("panel-prijemi").style.display = tab === "prijemi" ? "block" : "none";
       document.getElementById("panel-search").style.display = tab === "search" ? "block" : "none";
       document.getElementById("panel-posl").style.display = tab === "posl" ? "block" : "none";
+      document.getElementById("panel-limit").style.display = tab === "limit" ? "block" : "none";
       document.getElementById("tab-prijemi").className = "btn btn-sm " + (tab === "prijemi" ? "btn-primary" : "btn-secondary");
       document.getElementById("tab-search").className = "btn btn-sm " + (tab === "search" ? "btn-primary" : "btn-secondary");
       document.getElementById("tab-posl").className = "btn btn-sm " + (tab === "posl" ? "btn-primary" : "btn-secondary");
+      document.getElementById("tab-limit").className = "btn btn-sm " + (tab === "limit" ? "btn-primary" : "btn-secondary");
       if (tab === "search") document.getElementById("search-input").focus();
       if (tab === "posl") renderPoslManage();
+      if (tab === "limit") loadLimit();
     };
+
+    // ===== API LIMIT =====
+    function loadLimit() {
+      var content = document.getElementById("limit-content");
+      content.innerHTML = '<div class="empty-state loading"><div class="empty-icon">&#9203;</div><h3>Ucitavanje...</h3></div>';
+      GitHubStorage._request("GET", "rate_limit").then(function(data) {
+        if (!data || !data.resources || !data.resources.core) { content.innerHTML = '<div class="empty-state"><div class="empty-icon">&#9888;</div><h3>Nema podataka</h3></div>'; return; }
+        var core = data.resources.core;
+        var used = core.limit - core.remaining;
+        var pct = Math.round((used / core.limit) * 100);
+        var resetDate = new Date(core.reset * 1000);
+        var minsToReset = Math.max(0, Math.round((resetDate - new Date()) / 60000));
+        var barColor = pct < 50 ? "#34c759" : pct < 80 ? "#ff9500" : "#ff3b30";
+        var statusText = pct < 50 ? "Odlicno - puno rezerve" : pct < 80 ? "U redu" : "Priblizavate se limitu";
+
+        var html = '<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:16px"><h3 style="font-size:18px;font-weight:700">Potrosnja GitHub API-a</h3><button class="btn btn-primary btn-sm" onclick="loadLimit()">&#8635; Osvjezi</button></div>';
+        html += '<div style="background:var(--bg-white);border:1px solid var(--border);border-radius:14px;padding:24px;margin-bottom:16px">';
+        html += '<div style="display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:12px">';
+        html += '<div><div style="font-size:48px;font-weight:700;line-height:1;color:' + barColor + '">' + core.remaining + '</div><div style="font-size:13px;color:var(--text-secondary);margin-top:4px">preostalo od ' + core.limit + ' ovaj sat</div></div>';
+        html += '<div style="text-align:right"><div style="font-size:20px;font-weight:700">' + used + '</div><div style="font-size:13px;color:var(--text-secondary)">potroseno (' + pct + '%)</div></div>';
+        html += '</div>';
+        html += '<div style="height:14px;background:var(--bg-input);border-radius:7px;overflow:hidden;margin:16px 0 8px"><div style="height:100%;border-radius:7px;width:' + pct + '%;background:' + barColor + '"></div></div>';
+        html += '<div style="font-size:13px;font-weight:600;color:' + barColor + '">' + statusText + '</div>';
+        html += '</div>';
+        html += '<div style="background:var(--bg-white);border:1px solid var(--border);border-radius:14px;padding:4px 20px;margin-bottom:16px">';
+        html += '<div style="display:flex;justify-content:space-between;padding:10px 0;font-size:14px"><span style="color:var(--text-secondary)">Ukupni limit</span><span style="font-weight:600">' + core.limit + ' / sat</span></div>';
+        html += '<div style="display:flex;justify-content:space-between;padding:10px 0;border-top:1px solid var(--border-light);font-size:14px"><span style="color:var(--text-secondary)">Potroseno</span><span style="font-weight:600">' + used + '</span></div>';
+        html += '<div style="display:flex;justify-content:space-between;padding:10px 0;border-top:1px solid var(--border-light);font-size:14px"><span style="color:var(--text-secondary)">Preostalo</span><span style="font-weight:600;color:' + barColor + '">' + core.remaining + '</span></div>';
+        html += '<div style="display:flex;justify-content:space-between;padding:10px 0;border-top:1px solid var(--border-light);font-size:14px"><span style="color:var(--text-secondary)">Resetira se za</span><span style="font-weight:600">' + minsToReset + ' min</span></div>';
+        html += '<div style="display:flex;justify-content:space-between;padding:10px 0;border-top:1px solid var(--border-light);font-size:14px"><span style="color:var(--text-secondary)">Vrijeme reseta</span><span style="font-weight:600">' + resetDate.toLocaleTimeString("hr-HR", {hour:"2-digit",minute:"2-digit"}) + '</span></div>';
+        html += '</div>';
+        html += '<div style="font-size:12px;color:var(--text-muted);line-height:1.6">Limit se resetira svakih sat vremena. Ako se priblizite limitu, skeniranja se spremaju lokalno i sinkroniziraju kad se limit obnovi.</div>';
+        content.innerHTML = html;
+      }).catch(function(e) { content.innerHTML = '<div class="empty-state"><div class="empty-icon">&#9888;</div><h3>Greska</h3><p>' + e.message + '</p></div>'; });
+    }
+    window.loadLimit = loadLimit;
 
     // ===== SEARCH =====
     var searchTimer = null;
