@@ -280,10 +280,15 @@
             var dIc = dSt === "ok" ? "\u2713" : dSt === "partial" ? "\u25D0" : "\u25CB";
             var dIdx = it.di;
             var docName = cd;
+            // Count items with differences in this document
+            var dDiffCount = 0;
+            for (var di3 = 0; di3 < items.length; di3++) { if (items[di3].dn === cd && items[di3].skenirano !== items[di3].ocekivano) dDiffCount++; }
             var s = document.createElement("div"); s.className = "doc-separator"; s.style.display = "flex"; s.style.alignItems = "center"; s.style.gap = "6px";
             var filterId = "filter-" + it.di;
-            s.innerHTML = '<span style="color:' + dCol + ';margin-right:2px">' + dIc + '</span><span style="flex:1">\u{1F4C4} ' + cd + ' <span style="font-weight:400">(' + dSken + '/' + dOcek + ')</span></span><button id="' + filterId + '-btn" onclick="toggleDocFilter(' + it.di + ',\'' + filterId + '\')" style="background:none;border:1px solid var(--border);border-radius:6px;padding:2px 7px;font-size:11px;font-weight:600;color:var(--text-secondary);cursor:pointer;white-space:nowrap" title="Prikazi samo razlike">&#9660; Razlike</button><button onclick="deleteDocFromPrijem(' + dIdx + ')" style="background:none;border:none;color:var(--danger);cursor:pointer;font-size:13px" title="Obrisi dokument">\u2715</button>';
+            s.innerHTML = '<span style="color:' + dCol + ';margin-right:2px">' + dIc + '</span><span style="flex:1">\u{1F4C4} ' + cd + ' <span style="font-weight:400">(' + dSken + '/' + dOcek + ')</span></span><button id="' + filterId + '-btn" onclick="toggleDocFilter(' + it.di + ',\'' + filterId + '\')" data-diffcount="' + dDiffCount + '" class="diff-chip"></button><button onclick="deleteDocFromPrijem(' + dIdx + ')" style="background:none;border:none;color:var(--danger);cursor:pointer;font-size:13px" title="Obrisi dokument">\u2715</button>';
             il.appendChild(s);
+            // Set chip appearance after append
+            updateChip(it.di);
           }
           var diff = it.skenirano - it.ocekivano;
           var st = it.skenirano === 0 ? "none" : it.skenirano < it.ocekivano ? "partial" : it.skenirano === it.ocekivano ? "ok" : "over";
@@ -474,15 +479,39 @@
     };
 
     var docFilters = {}; // di -> true if filter active
-    window.toggleDocFilter = function(di, filterId) {
-      docFilters[di] = !docFilters[di];
-      var btn = document.getElementById(filterId + "-btn");
-      if (btn) {
-        btn.style.background = docFilters[di] ? "var(--accent)" : "none";
-        btn.style.color = docFilters[di] ? "#fff" : "var(--text-secondary)";
-        btn.style.borderColor = docFilters[di] ? "var(--accent)" : "var(--border)";
-        btn.innerHTML = docFilters[di] ? "&#9650; Sve" : "&#9660; Razlike";
+
+    window.updateChip = function(di) {
+      var btn = document.getElementById("filter-" + di + "-btn");
+      if (!btn) return;
+      // Recount differences
+      var diffCount = 0;
+      for (var i = 0; i < items.length; i++) { if (items[i].di === di && items[i].skenirano !== items[i].ocekivano) diffCount++; }
+      btn.setAttribute("data-diffcount", diffCount);
+      var active = docFilters[di];
+      var base = "display:inline-flex;align-items:center;gap:5px;padding:4px 10px;border-radius:999px;font-size:12px;font-weight:600;cursor:pointer;white-space:nowrap;";
+      if (diffCount === 0) {
+        // All OK - green
+        btn.style.cssText = base + "border:1px solid var(--success-border,#86efac);background:var(--success-bg);color:var(--success);";
+        btn.innerHTML = '\u2713 Sve OK';
+      } else if (active) {
+        // Filter active - show "Sve" to go back
+        btn.style.cssText = base + "border:1px solid var(--accent);background:var(--accent);color:#fff;";
+        btn.innerHTML = '\u25B2 Prikazi sve';
+      } else {
+        // Has differences - red chip
+        btn.style.cssText = base + "border:1px solid var(--danger-border,#fca5a5);background:var(--danger-bg);color:var(--danger);";
+        btn.innerHTML = '\u2707 ' + diffCount + (diffCount === 1 ? ' razlika' : (diffCount < 5 ? ' razlike' : ' razlika'));
       }
+    };
+
+    window.toggleDocFilter = function(di, filterId) {
+      // If no differences, do nothing
+      var diffCount = 0;
+      for (var i = 0; i < items.length; i++) { if (items[i].di === di && items[i].skenirano !== items[i].ocekivano) diffCount++; }
+      if (diffCount === 0) return;
+
+      docFilters[di] = !docFilters[di];
+      updateChip(di);
       for (var i = 0; i < items.length; i++) {
         if (items[i].di !== di) continue;
         var el = document.querySelector('[data-bc="' + items[i].barkod + '-' + items[i].di + '-' + items[i].si + '"]');
