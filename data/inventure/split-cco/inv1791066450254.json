@@ -5,7 +5,7 @@
   "datum": "2026-10-03",
   "status": "aktivan",
   "kreirano": "2026-10-03T22:27:30.254Z",
-  "azurirano": "2026-10-03T22:27:48.590Z",
+  "azurirano": "2026-10-03T22:28:18.071Z",
   "dijelovi": [
     {
       "id": "dio1791066439579",
@@ -22,6 +22,10 @@
     {
       "id": "dio1791066468590",
       "naziv": "Pult"
+    },
+    {
+      "id": "dio1791066498071",
+      "naziv": "Ured"
     }
   ],
   "dokumenti": [
