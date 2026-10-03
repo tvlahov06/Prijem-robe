@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Inventura</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="icons/favicon.png" type="image/png">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#007aff">
+  <style>
+    @media(max-width:500px){
+      .page-header{flex-wrap:wrap;gap:8px}
+      .page-header .title-group h1{font-size:18px}
+      .page-header .header-action{width:100%;display:flex;gap:6px}
+      .page-header .header-action .btn{flex:1}
+      .stat-card{padding:10px 6px}.stat-card .value{font-size:20px}
+      .prijem-card{padding:12px 14px;flex-wrap:wrap;gap:8px}
+      .prijem-card .prijem-meta{font-size:12px}
+    }
+  </style>
+</head>
+<body>
+  <script>if(localStorage.getItem("theme")==="dark")document.documentElement.setAttribute("data-theme","dark");</script>
+  <div class="app">
+    <div class="page-header">
+      <div class="title-group">
+        <h1>&#128203; Inventura</h1>
+        <div class="poslovnica-name" id="pn"></div>
+      </div>
+      <div class="header-action" style="display:flex;gap:8px;align-items:center">
+        <div class="theme-toggle" id="theme-toggle" title="Tamni/svijetli nacin"></div>
+        <button id="prijem-btn" class="btn btn-primary btn-sm">&#128230; Prijem robe</button>
+        <button id="new-inv-btn" class="btn btn-sm" style="background:#34c759;color:#fff;border-color:#34c759">+ Nova inventura</button>
+        <button onclick="Auth.logout()" class="btn-icon" title="Odjava">&#9211;</button>
+      </div>
+    </div>
+    <div class="stats-row">
+      <div class="stat-card" style="border-left:4px solid #34c759"><div class="value" id="st">-</div><div class="label">Ukupno</div></div>
+      <div class="stat-card" style="border-left:4px solid #ff9500"><div class="value" id="sa">-</div><div class="label">Aktivnih</div></div>
+      <div class="stat-card" style="border-left:4px solid #007aff"><div class="value" id="sd">-</div><div class="label">Zavrsenih</div></div>
+    </div>
+    <div id="list" class="prijem-list"><div class="empty-state loading"><div class="empty-icon">&#9203;</div><h3>Ucitavanje...</h3></div></div>
+  </div>
+  <script src="js/github.js"></script>
+  <script src="js/auth.js"></script>
+  <script>
+    if (!Auth.requireAuth()) throw 0;
+    document.getElementById("pn").textContent = Auth.getPoslovnica();
+    document.getElementById("prijem-btn").addEventListener("click", function() { window.location.href = "dashboard.html"; });
+    document.getElementById("new-inv-btn").addEventListener("click", function() { window.location.href = "inventura-priprema.html"; });
+    var list = document.getElementById("list");
+
+    function load() {
+      var pid = Auth.getPoslovnicaId();
+      GitHubStorage.listFiles("data/inventure/" + pid).then(function(files) {
+        var validFiles = [];
+        for (var i = 0; i < (files||[]).length; i++) {
+          if (files[i].name.indexOf(".json") > -1 && files[i].name.indexOf(".") !== 0 && files[i].name.indexOf("-dio-") < 0) validFiles.push(files[i]);
+        }
+        var inv = [];
+        var chain = Promise.resolve();
+        for (var i = 0; i < validFiles.length; i++) {
+          (function(f) {
+            chain = chain.then(function() {
+              return GitHubStorage.readFile(f.path).then(function(d) {
+                if (d) { d.content._sha = d.sha; d.content._path = f.path; inv.push(d.content); }
+              }).catch(function(){});
+            });
+          })(validFiles[i]);
+        }
+        return chain.then(function() {
+          inv.sort(function(a, b) { return new Date(b.datum) - new Date(a.datum); });
+          document.getElementById("st").textContent = inv.length;
+          var active = 0, done = 0;
+          for (var i = 0; i < inv.length; i++) { if (inv[i].status === "zavrsen") done++; else active++; }
+          document.getElementById("sa").textContent = active;
+          document.getElementById("sd").textContent = done;
+
+          if (!inv.length) { list.innerHTML = '<div class="empty-state"><div class="empty-icon">&#128203;</div><h3>Nema inventura</h3><p>Klikni "+ Nova inventura" za pocetak.</p></div>'; return; }
+          list.innerHTML = "";
+
+          var renderChain = Promise.resolve();
+          for (var i = 0; i < inv.length; i++) {
+            (function(p) {
+              renderChain = renderChain.then(function() {
+                // Load parts to get real scan counts
+                var partScans = {};
+                var partChain = Promise.resolve();
+                for (var di = 0; di < (p.dijelovi||[]).length; di++) {
+                  (function(dio) {
+                    partChain = partChain.then(function() {
+                      return GitHubStorage.readFile("data/inventure/" + pid + "/" + p.id + "-dio-" + dio.id + ".json").then(function(d) {
+                        if (d && d.content.dokumenti) {
+                          for (var dd = 0; dd < d.content.dokumenti.length; dd++) {
+                            for (var ss = 0; ss < d.content.dokumenti[dd].stavke.length; ss++) {
+                              var st = d.content.dokumenti[dd].stavke[ss];
+                              partScans[st.barkod] = (partScans[st.barkod] || 0) + (st.skenirano || 0);
+                            }
+                          }
+                        }
+                      }).catch(function(){});
+                    });
+                  })(p.dijelovi[di]);
+                }
+                return partChain.then(function() {
+                  var totO = 0, totS = 0, totA = 0;
+                  for (var dd = 0; dd < p.dokumenti.length; dd++) {
+                    totA += p.dokumenti[dd].stavke.length;
+                    for (var ss = 0; ss < p.dokumenti[dd].stavke.length; ss++) {
+                      totO += p.dokumenti[dd].stavke[ss].ocekivano;
+                      totS += (partScans[p.dokumenti[dd].stavke[ss].barkod] || 0);
+                    }
+                  }
+                  renderCard(p, totO, totS, totA);
+                });
+              });
+            })(inv[i]);
+          }
+          renderChain.catch(function(e) { console.error(e); });
+        });
+      }).catch(function(e) { list.innerHTML = '<div class="empty-state"><div class="empty-icon">&#9888;</div><h3>Greska</h3><p>' + e.message + "</p></div>"; });
+    }
+
+    function renderCard(p, totO, totS, totA) {
+      var date = new Date(p.datum).toLocaleDateString("hr-HR", { day:"numeric", month:"short", year:"numeric" });
+      var card = document.createElement("div");
+      card.className = "prijem-card"; card.style.cursor = "pointer";
+      var statusText = p.status === "aktivan" ? "Aktivan" : "Zavrsen";
+      var displayName = p.naziv ? p.naziv : date;
+      var subInfo = p.naziv ? date + ' &middot; ' : '';
+      var partInfo = (p.dijelovi ? p.dijelovi.length : 0) + " dio(ova) &middot; ";
+
+      card.innerHTML = '<div class="prijem-info" style="flex:1"><div class="prijem-date">' + displayName + '</div><div class="prijem-meta">' + subInfo + partInfo + totA + " artikala &middot; " + totS + "/" + totO + ' sken.</div></div><span class="status-badge ' + p.status + '">' + statusText + '</span>';
+
+      var btnWrap = document.createElement("div");
+      btnWrap.style.cssText = "display:flex;gap:4px;margin-left:8px";
+
+      var mergeBtn = document.createElement("button");
+      mergeBtn.className = "btn-icon";
+      mergeBtn.title = "Spoji i eksportiraj";
+      mergeBtn.innerHTML = "&#128202;";
+      mergeBtn.style.cssText = "width:32px;height:32px;font-size:14px;color:var(--accent);border-color:var(--accent)";
+      mergeBtn.addEventListener("click", function(e) { e.stopPropagation(); mergeExport(p); });
+      btnWrap.appendChild(mergeBtn);
+
+      var delBtn = document.createElement("button");
+      delBtn.className = "btn-icon delete-btn";
+      delBtn.title = "Obrisi";
+      delBtn.innerHTML = "&#10005;";
+      delBtn.style.cssText = "width:32px;height:32px;font-size:14px;color:var(--danger);border-color:var(--danger-border)";
+      btnWrap.appendChild(delBtn);
+      card.appendChild(btnWrap);
+
+      card.addEventListener("click", function(e) {
+        if (e.target.closest(".btn-icon")) return;
+        window.location.href = "inventura-skeniranje.html?id=" + p.id;
+      });
+      delBtn.addEventListener("click", function(e) {
+        e.stopPropagation();
+        if (!confirm("Obrisati inventuru?")) return;
+        var pid = Auth.getPoslovnicaId();
+        GitHubStorage.deleteFile(p._path, p._sha, "Brisanje inventure").then(function() {
+          // Delete parts too
+          var delChain = Promise.resolve();
+          for (var di = 0; di < (p.dijelovi||[]).length; di++) {
+            (function(dio) {
+              delChain = delChain.then(function() {
+                var pp = "data/inventure/" + pid + "/" + p.id + "-dio-" + dio.id + ".json";
+                return GitHubStorage.readFile(pp).then(function(d) { if (d) return GitHubStorage.deleteFile(pp, d.sha, "Brisanje dijela"); }).catch(function(){});
+              });
+            })(p.dijelovi[di]);
+          }
+          return delChain;
+        }).then(function() { toast("Obrisano", "success"); load(); }).catch(function(err) { toast("Greska: " + err.message, "error"); });
+      });
+      list.appendChild(card);
+    }
+
+    // ===== MERGE & EXPORT =====
+    function mergeExport(inv) {
+      toast("Ucitavam dijelove...", "success");
+      var pid = Auth.getPoslovnicaId();
+      var folder = "data/inventure/" + pid;
+      var parts = [];
+      var chain = Promise.resolve();
+      for (var i = 0; i < (inv.dijelovi || []).length; i++) {
+        (function(dio) {
+          chain = chain.then(function() {
+            return GitHubStorage.readFile(folder + "/" + inv.id + "-dio-" + dio.id + ".json").then(function(d) {
+              if (d) parts.push({ naziv: dio.naziv, data: d.content });
+            }).catch(function(){});
+          });
+        })(inv.dijelovi[i]);
+      }
+      chain.then(function() {
+        var merged = {};
+        var partNames = [];
+        for (var d = 0; d < inv.dokumenti.length; d++) {
+          for (var s = 0; s < inv.dokumenti[d].stavke.length; s++) {
+            var st = inv.dokumenti[d].stavke[s];
+            if (!merged[st.barkod]) merged[st.barkod] = { naziv: st.naziv, barkod: st.barkod, ocekivano: st.ocekivano, parts: {} };
+          }
+        }
+        for (var pi = 0; pi < parts.length; pi++) {
+          partNames.push(parts[pi].naziv);
+          if (parts[pi].data.dokumenti) {
+            for (var d = 0; d < parts[pi].data.dokumenti.length; d++) {
+              for (var s = 0; s < parts[pi].data.dokumenti[d].stavke.length; s++) {
+                var st = parts[pi].data.dokumenti[d].stavke[s];
+                if (!merged[st.barkod]) merged[st.barkod] = { naziv: st.naziv, barkod: st.barkod, ocekivano: st.ocekivano, parts: {} };
+                merged[st.barkod].parts[parts[pi].naziv] = (merged[st.barkod].parts[parts[pi].naziv] || 0) + (st.skenirano || 0);
+              }
+            }
+          }
+        }
+
+        var itemsList = [];
+        for (var bc in merged) itemsList.push(merged[bc]);
+        itemsList.sort(function(a, b) { return a.naziv.localeCompare(b.naziv); });
+
+        function loadJSZip() {
+          if (window.JSZip) return Promise.resolve();
+          return new Promise(function(res, rej) { var s = document.createElement("script"); s.src = "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"; s.onload = res; s.onerror = rej; document.head.appendChild(s); });
+        }
+        loadJSZip().then(function() { buildInventuraXlsx(itemsList, partNames, inv.naziv || inv.datum); });
+      });
+    }
+
+    function buildInventuraXlsx(itemsList, partNames, name) {
+      var zip = new JSZip();
+      var ss = [], ssMap = {};
+      function si(str) { if (ssMap[str] === undefined) { ssMap[str] = ss.length; ss.push(str); } return ssMap[str]; }
+      function cL(c) { if (c < 26) return String.fromCharCode(65 + c); return String.fromCharCode(64 + Math.floor(c / 26)) + String.fromCharCode(65 + (c % 26)); }
+      function eX(s) { return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
+
+      // Columns: Naziv, Barkod, Ocekivano, [parts...], Ukupno, Razlika
+      var totalCols = 3 + partNames.length + 2;
+      var ukupnoCol = 3 + partNames.length;      // 0-indexed
+      var razlikaCol = ukupnoCol + 1;
+      var ocekCol = 2;
+      var firstPartCol = 3;
+      var lastPartCol = 3 + partNames.length - 1;
+
+      var rows = [];
+      // Header
+      var hdr = ["Naziv","Barkod","Ocekivano"].concat(partNames).concat(["Ukupno sken.","Razlika"]);
+      var hr = '';
+      for (var h = 0; h < hdr.length; h++) hr += '<c r="' + cL(h) + '1" t="s" s="1"><v>' + si(hdr[h]) + '</v></c>';
+      rows.push('<row r="1">' + hr + '</row>');
+
+      for (var i = 0; i < itemsList.length; i++) {
+        var it = itemsList[i], r = i + 2;
+        var rw = '';
+        rw += '<c r="A' + r + '" t="s" s="0"><v>' + si(it.naziv) + '</v></c>';
+        rw += '<c r="B' + r + '" t="s" s="0"><v>' + si(it.barkod) + '</v></c>';
+        rw += '<c r="C' + r + '" s="0"><v>' + it.ocekivano + '</v></c>';
+        for (var pi = 0; pi < partNames.length; pi++) {
+          rw += '<c r="' + cL(3 + pi) + r + '" s="0"><v>' + (it.parts[partNames[pi]] || 0) + '</v></c>';
+        }
+        // Ukupno = SUM of parts
+        rw += '<c r="' + cL(ukupnoCol) + r + '" s="2"><f>SUM(' + cL(firstPartCol) + r + ':' + cL(lastPartCol) + r + ')</f></c>';
+        // Razlika = Ukupno - Ocekivano
+        rw += '<c r="' + cL(razlikaCol) + r + '" s="2"><f>' + cL(ukupnoCol) + r + '-' + cL(ocekCol) + r + '</f></c>';
+        rows.push('<row r="' + r + '">' + rw + '</row>');
+      }
+
+      var lastRow = itemsList.length + 1;
+      var cfRange = cL(razlikaCol) + '2:' + cL(razlikaCol) + lastRow;
+      var condFmt = '<conditionalFormatting sqref="' + cfRange + '"><cfRule type="cellIs" dxfId="0" priority="1" operator="equal"><formula>0</formula></cfRule><cfRule type="cellIs" dxfId="1" priority="2" operator="lessThan"><formula>0</formula></cfRule><cfRule type="cellIs" dxfId="2" priority="3" operator="greaterThan"><formula>0</formula></cfRule></conditionalFormatting>';
+
+      // Column widths
+      var cols = '<cols><col min="1" max="1" width="40" customWidth="1"/><col min="2" max="2" width="16" customWidth="1"/><col min="3" max="3" width="12" customWidth="1"/>';
+      for (var pi = 0; pi < partNames.length; pi++) cols += '<col min="' + (4+pi) + '" max="' + (4+pi) + '" width="12" customWidth="1"/>';
+      cols += '<col min="' + (4+partNames.length) + '" max="' + (4+partNames.length) + '" width="13" customWidth="1"/><col min="' + (5+partNames.length) + '" max="' + (5+partNames.length) + '" width="11" customWidth="1"/></cols>';
+
+      var sheetXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"><sheetViews><sheetView workbookViewId="0"><pane ySplit="1" topLeftCell="A2" activePane="bottomLeft" state="frozen"/></sheetView></sheetViews>' + cols + '<sheetData>' + rows.join('') + '</sheetData>' + condFmt + '</worksheet>';
+
+      var ssXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="' + ss.length + '" uniqueCount="' + ss.length + '">';
+      for (var i = 0; i < ss.length; i++) ssXml += '<si><t>' + eX(ss[i]) + '</t></si>';
+      ssXml += '</sst>';
+
+      var stylesXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><styleSheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">'
+        + '<fonts count="3"><font><sz val="11"/><name val="Calibri"/></font><font><b/><sz val="11"/><color rgb="FF1E3A5F"/><name val="Calibri"/></font><font><b/><sz val="11"/><name val="Calibri"/></font></fonts>'
+        + '<fills count="3"><fill><patternFill patternType="none"/></fill><fill><patternFill patternType="gray125"/></fill><fill><patternFill patternType="solid"><fgColor rgb="FFDBEAFE"/></patternFill></fill></fills>'
+        + '<borders count="2"><border><left/><right/><top/><bottom/></border><border><left/><right/><top/><bottom style="thick"><color auto="1"/></bottom></border></borders>'
+        + '<cellStyleXfs count="1"><xf numFmtId="0" fontId="0" fillId="0" borderId="0"/></cellStyleXfs>'
+        + '<cellXfs count="3"><xf numFmtId="0" fontId="0" fillId="0" borderId="0"/><xf numFmtId="0" fontId="1" fillId="2" borderId="1" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"><alignment horizontal="center"/></xf><xf numFmtId="0" fontId="2" fillId="0" borderId="0" applyFont="1"/></cellXfs>'
+        + '<dxfs count="3"><dxf><font><b/><color rgb="FF166534"/></font><fill><patternFill><bgColor rgb="FFD1FAE5"/></patternFill></fill></dxf><dxf><font><b/><color rgb="FFDC2626"/></font><fill><patternFill><bgColor rgb="FFFEE2E2"/></patternFill></fill></dxf><dxf><font><b/><color rgb="FFD97706"/></font><fill><patternFill><bgColor rgb="FFFEF3C7"/></patternFill></fill></dxf></dxfs>'
+        + '</styleSheet>';
+
+      zip.file("[Content_Types].xml", '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types"><Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/><Default Extension="xml" ContentType="application/xml"/><Override PartName="/xl/workbook.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml"/><Override PartName="/xl/worksheets/sheet1.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml"/><Override PartName="/xl/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml"/><Override PartName="/xl/sharedStrings.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml"/></Types>');
+      zip.file("_rels/.rels", '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships"><Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="xl/workbook.xml"/></Relationships>');
+      zip.file("xl/workbook.xml", '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"><sheets><sheet name="Inventura" sheetId="1" r:id="rId1"/></sheets></workbook>');
+      zip.file("xl/_rels/workbook.xml.rels", '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships"><Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet" Target="worksheets/sheet1.xml"/><Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/><Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/sharedStrings" Target="sharedStrings.xml"/></Relationships>');
+      zip.file("xl/worksheets/sheet1.xml", sheetXml);
+      zip.file("xl/styles.xml", stylesXml);
+      zip.file("xl/sharedStrings.xml", ssXml);
+
+      zip.generateAsync({ type: "blob", mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" }).then(function(blob) {
+        var fn = "inventura-" + name + ".xlsx";
+        fn = fn.replace(/[^a-zA-Z0-9\-_.]/g, "_");
+        var a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = fn; a.click();
+        toast("Exportirano!", "success");
+      });
+    }
+
+    function toast(m, t) { var old = document.querySelectorAll(".toast"); for(var i=0;i<old.length;i++) old[i].remove(); var el = document.createElement("div"); el.className = "toast " + t; el.textContent = m; document.body.appendChild(el); setTimeout(function() { el.remove(); }, 3000); }
+
+    var toggle = document.getElementById("theme-toggle");
+    if (localStorage.getItem("theme") === "dark") { document.documentElement.setAttribute("data-theme", "dark"); toggle.classList.add("dark"); }
+    toggle.addEventListener("click", function() {
+      var isDark = document.documentElement.getAttribute("data-theme") === "dark";
+      if (isDark) { document.documentElement.removeAttribute("data-theme"); toggle.classList.remove("dark"); localStorage.setItem("theme", "light"); }
+      else { document.documentElement.setAttribute("data-theme", "dark"); toggle.classList.add("dark"); localStorage.setItem("theme", "dark"); }
+    });
+
+    load();
+  </script>
+</body>
+</html>

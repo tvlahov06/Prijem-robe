@@ -30,6 +30,7 @@
       <div class="header-action" style="display:flex;gap:8px;align-items:center">
         <div class="theme-toggle" id="theme-toggle" title="Tamni/svijetli nacin"></div>
         <button id="new-btn" class="btn btn-primary btn-sm">+ Novi prijem</button>
+        <button id="inv-btn" class="btn btn-sm" style="background:#34c759;color:#fff;border-color:#34c759">&#128203; Inventura</button>
         <button onclick="Auth.logout()" class="btn-icon" title="Odjava">&#9211;</button>
       </div>
     </div>
@@ -46,6 +47,7 @@
     if (!Auth.requireAuth()) throw 0;
     document.getElementById("pn").textContent = Auth.getPoslovnica();
     document.getElementById("new-btn").addEventListener("click", function() { window.location.href = "priprema.html"; });
+    document.getElementById("inv-btn").addEventListener("click", function() { window.location.href = "inventura.html"; });
     var list = document.getElementById("list");
 
     function load() {
