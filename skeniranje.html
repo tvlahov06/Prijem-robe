@@ -240,7 +240,10 @@
       if (!it) return { status: "not_found", barcode: bc };
       it.skenirano++; pData.dokumenti[it.di].stavke[it.si].skenirano = it.skenirano;
       var el = document.querySelector('[data-bc="' + it.barkod + '-' + it.di + '-' + it.si + '"]');
-      if (el) { var inp = el.querySelector(".qi"); if (inp) inp.value = it.skenirano; updEl(el, it); el.classList.add("just-scanned"); setTimeout(function() { el.classList.remove("just-scanned"); }, 600); }
+      if (el) { var inp = el.querySelector(".qi"); if (inp) inp.value = it.skenirano; updEl(el, it); el.classList.add("just-scanned"); setTimeout(function() { el.classList.remove("just-scanned"); }, 600);
+        // If filter active for this doc, hide item that became OK
+        if (docFilters[it.di] && it.skenirano === it.ocekivano) el.style.display = "none";
+      }
       stats(); schSave();
       return it.skenirano === it.ocekivano ? { status: "complete", naziv: it.naziv, skenirano: it.skenirano, ocekivano: it.ocekivano } : it.skenirano > it.ocekivano ? { status: "over", naziv: it.naziv, skenirano: it.skenirano, ocekivano: it.ocekivano } : { status: "ok", naziv: it.naziv, skenirano: it.skenirano, ocekivano: it.ocekivano };
     }
@@ -312,6 +315,11 @@
       var sdc = document.getElementById("sdc");
       if (td === 0 && ts > 0) { sdc.style.borderLeftColor = "#34c759"; sdc.style.background = "var(--success-bg)"; document.getElementById("sd").style.color = "#34c759"; }
       else { sdc.style.borderLeftColor = "#ff3b30"; sdc.style.background = "var(--danger-bg)"; document.getElementById("sd").style.color = "#ff3b30"; }
+      // Update all document filter chips
+      if (typeof updateChip === "function") {
+        var seenDocs = {};
+        for (var i = 0; i < items.length; i++) { if (!seenDocs[items[i].di]) { seenDocs[items[i].di] = true; updateChip(items[i].di); } }
+      }
     }
 
     // ========== SAVE (LOCAL + GITHUB) ==========
