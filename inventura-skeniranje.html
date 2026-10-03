@@ -44,7 +44,10 @@
     </div>
 
     <div id="part-select-view">
-      <div style="font-size:16px;font-weight:700;margin-bottom:4px">Odaberi dio za skeniranje:</div>
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:4px;flex-wrap:wrap;gap:8px">
+        <div style="font-size:16px;font-weight:700">Odaberi dio za skeniranje:</div>
+        <button id="add-part-btn" class="btn btn-sm" style="background:#34c759;color:#fff;border-color:#34c759">+ Dodaj dio</button>
+      </div>
       <div id="part-select" class="part-select"></div>
     </div>
 
@@ -143,6 +146,45 @@
     document.getElementById("back-parts").addEventListener("click", function() {
       document.getElementById("dd").textContent = new Date(invData.datum).toLocaleDateString("hr-HR", { day:"numeric", month:"long", year:"numeric" }) + ".";
       showParts();
+    });
+
+    document.getElementById("add-part-btn").addEventListener("click", function() {
+      var naziv = prompt("Naziv novog dijela (npr. Skener 5):");
+      if (naziv === null) return;
+      naziv = naziv.trim();
+      if (!naziv) { toast("Unesi naziv", "error"); return; }
+
+      var btn = document.getElementById("add-part-btn");
+      btn.textContent = "Dodajem..."; btn.disabled = true;
+
+      // Re-read main inventura to get fresh sha, then add part
+      GitHubStorage.readFile(folder + invId + ".json").then(function(d) {
+        if (!d) throw new Error("Inventura nije pronadjena");
+        var inv = d.content;
+        var newDio = { id: "dio" + Date.now(), naziv: naziv };
+        if (!inv.dijelovi) inv.dijelovi = [];
+        inv.dijelovi.push(newDio);
+        inv.azurirano = new Date().toISOString();
+
+        // Build part file with same articles, all scanned = 0
+        var partDok = JSON.parse(JSON.stringify(inv.dokumenti));
+        for (var dd = 0; dd < partDok.length; dd++) { for (var ss = 0; ss < partDok[dd].stavke.length; ss++) partDok[dd].stavke[ss].skenirano = 0; }
+        var partData = { id: invId + "-dio-" + newDio.id, inventuraId: invId, dio: naziv, dokumenti: partDok };
+
+        // Save main file first, then part file
+        return GitHubStorage.writeFile(folder + invId + ".json", inv, "Dodan dio: " + naziv, d.sha).then(function() {
+          return GitHubStorage.writeFile(folder + invId + "-dio-" + newDio.id + ".json", partData, "Novi dio: " + naziv);
+        }).then(function() {
+          invData = inv; // update local copy
+        });
+      }).then(function() {
+        toast("Dio dodan!", "success");
+        showParts();
+      }).catch(function(e) {
+        toast("Greska: " + e.message, "error");
+      }).then(function() {
+        btn.textContent = "+ Dodaj dio"; btn.disabled = false;
+      });
     });
 
     function barcodeMatch(itemBc, scanBc) {
