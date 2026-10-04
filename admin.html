@@ -94,6 +94,7 @@
       <!-- Tabs -->
       <div style="display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap">
         <button class="btn btn-primary btn-sm" id="tab-prijemi" onclick="showTab('prijemi')">Prijemi</button>
+        <button class="btn btn-secondary btn-sm" id="tab-inventure" onclick="showTab('inventure')">&#128203; Inventure</button>
         <button class="btn btn-secondary btn-sm" id="tab-search" onclick="showTab('search')">&#128269; Pretraga artikala</button>
         <button class="btn btn-secondary btn-sm" id="tab-posl" onclick="showTab('posl')">&#9881; Poslovnice</button>
         <button class="btn btn-secondary btn-sm" id="tab-limit" onclick="showTab('limit')">&#128202; API Limit</button>
@@ -102,6 +103,13 @@
       <!-- Tab: Prijemi -->
       <div id="panel-prijemi">
         <div id="posl-list">
+          <div class="empty-state loading"><div class="empty-icon">&#9203;</div><h3>Ucitavanje...</h3></div>
+        </div>
+      </div>
+
+      <!-- Tab: Inventure -->
+      <div id="panel-inventure" style="display:none">
+        <div id="inv-list">
           <div class="empty-state loading"><div class="empty-icon">&#9203;</div><h3>Ucitavanje...</h3></div>
         </div>
       </div>
@@ -693,16 +701,19 @@
     // ===== TABS =====
     window.showTab = function(tab) {
       document.getElementById("panel-prijemi").style.display = tab === "prijemi" ? "block" : "none";
+      document.getElementById("panel-inventure").style.display = tab === "inventure" ? "block" : "none";
       document.getElementById("panel-search").style.display = tab === "search" ? "block" : "none";
       document.getElementById("panel-posl").style.display = tab === "posl" ? "block" : "none";
       document.getElementById("panel-limit").style.display = tab === "limit" ? "block" : "none";
       document.getElementById("tab-prijemi").className = "btn btn-sm " + (tab === "prijemi" ? "btn-primary" : "btn-secondary");
+      document.getElementById("tab-inventure").className = "btn btn-sm " + (tab === "inventure" ? "btn-primary" : "btn-secondary");
       document.getElementById("tab-search").className = "btn btn-sm " + (tab === "search" ? "btn-primary" : "btn-secondary");
       document.getElementById("tab-posl").className = "btn btn-sm " + (tab === "posl" ? "btn-primary" : "btn-secondary");
       document.getElementById("tab-limit").className = "btn btn-sm " + (tab === "limit" ? "btn-primary" : "btn-secondary");
       if (tab === "search") document.getElementById("search-input").focus();
       if (tab === "posl") renderPoslManage();
       if (tab === "limit") loadLimit();
+      if (tab === "inventure") loadInventure();
     };
 
     // ===== API LIMIT =====
@@ -901,6 +912,285 @@
         return GitHubStorage.writeFile("data/poslovnice.json", { poslovnice: poslovnice }, "Admin poslovnice", sha);
       });
     }
+
+    // ===== INVENTURE =====
+    var invData = {}; // pid -> array of inventure (with merged scans)
+
+    function loadInventure() {
+      var container = document.getElementById("inv-list");
+      container.innerHTML = '<div class="empty-state loading"><div class="empty-icon">&#9203;</div><h3>Ucitavanje...</h3></div>';
+      var chain = Promise.resolve();
+      for (var i = 0; i < poslovnice.length; i++) {
+        (function(posl) {
+          chain = chain.then(function() {
+            return loadPoslovnicaInventure(posl.id).then(function(list) { invData[posl.id] = list; });
+          });
+        })(poslovnice[i]);
+      }
+      chain.then(function() { renderInventure(); });
+    }
+
+    function loadPoslovnicaInventure(pid) {
+      return GitHubStorage.listFiles("data/inventure/" + pid).then(function(files) {
+        var mains = [];
+        var chain = Promise.resolve();
+        var validFiles = [];
+        for (var i = 0; i < (files || []).length; i++) {
+          if (files[i].name.indexOf(".json") > -1 && files[i].name.indexOf(".") !== 0 && files[i].name.indexOf("-dio-") < 0) validFiles.push(files[i]);
+        }
+        for (var i = 0; i < validFiles.length; i++) {
+          (function(f) {
+            chain = chain.then(function() {
+              return GitHubStorage.readFile(f.path).then(function(d) {
+                if (!d) return;
+                d.content._sha = d.sha; d.content._path = f.path;
+                // Load parts to get merged scans
+                var partScans = {};
+                var pChain = Promise.resolve();
+                for (var di = 0; di < (d.content.dijelovi||[]).length; di++) {
+                  (function(dio) {
+                    pChain = pChain.then(function() {
+                      return GitHubStorage.readFile("data/inventure/" + pid + "/" + d.content.id + "-dio-" + dio.id + ".json").then(function(pd) {
+                        if (pd && pd.content.dokumenti) {
+                          for (var dd = 0; dd < pd.content.dokumenti.length; dd++) {
+                            for (var ss = 0; ss < pd.content.dokumenti[dd].stavke.length; ss++) {
+                              var st = pd.content.dokumenti[dd].stavke[ss];
+                              partScans[st.barkod] = (partScans[st.barkod] || 0) + (st.skenirano || 0);
+                            }
+                          }
+                        }
+                      }).catch(function(){});
+                    });
+                  })(d.content.dijelovi[di]);
+                }
+                return pChain.then(function() { d.content._partScans = partScans; mains.push(d.content); });
+              }).catch(function(){});
+            });
+          })(validFiles[i]);
+        }
+        return chain.then(function() {
+          mains.sort(function(a, b) { return new Date(b.datum) - new Date(a.datum); });
+          return mains;
+        });
+      }).catch(function() { return []; });
+    }
+
+    function renderInventure() {
+      var container = document.getElementById("inv-list");
+      container.innerHTML = "";
+      var borderColors = ["#34c759","#007aff","#ff9500","#ff3b30","#af52de","#5ac8fa","#ff2d55","#ffcc00","#30b0c7","#8e8e93"];
+      var any = false;
+
+      for (var i = 0; i < poslovnice.length; i++) {
+        var posl = poslovnice[i];
+        var list = invData[posl.id] || [];
+        if (list.length) any = true;
+
+        var section = document.createElement("div");
+        section.className = "posl-section";
+        var header = document.createElement("div");
+        header.className = "posl-header";
+        header.style.borderLeft = "4px solid " + borderColors[i % borderColors.length];
+        header.innerHTML = '<div><h3>' + posl.naziv + '</h3><div class="posl-stats">' + list.length + ' inventura</div></div><span class="arrow">&#9654;</span>';
+
+        var body = document.createElement("div");
+        body.className = "posl-body";
+
+        if (list.length === 0) {
+          body.innerHTML = '<div style="padding:20px;text-align:center;color:var(--text-muted);font-size:13px">Nema inventura</div>';
+        } else {
+          for (var j = 0; j < list.length; j++) {
+            (function(inv, pid) {
+              var totO = 0, totS = 0, totA = 0;
+              for (var d = 0; d < inv.dokumenti.length; d++) {
+                totA += inv.dokumenti[d].stavke.length;
+                for (var s = 0; s < inv.dokumenti[d].stavke.length; s++) {
+                  totO += inv.dokumenti[d].stavke[s].ocekivano;
+                  totS += (inv._partScans[inv.dokumenti[d].stavke[s].barkod] || 0);
+                }
+              }
+              var pct = totO > 0 ? Math.round((totS / totO) * 100) : 0;
+              var date = new Date(inv.datum).toLocaleDateString("hr-HR", { day: "numeric", month: "short", year: "numeric" });
+              var barColor = pct >= 100 ? "#34c759" : pct > 0 ? "#ff9500" : "#e5e5ea";
+              var displayName = inv.naziv ? inv.naziv : date;
+              var subInfo = inv.naziv ? date + ' &middot; ' : '';
+              var detailId = "invdetail-" + pid + "-" + inv.id;
+
+              var row = document.createElement("div");
+              row.className = "admin-prijem";
+              row.innerHTML = '<div class="prijem-main" style="cursor:pointer" onclick="toggleDetail(\'' + detailId + '\')"><div class="prijem-date">' + displayName + '</div><div class="prijem-detail">' + subInfo + (inv.dijelovi?inv.dijelovi.length:0) + ' dio(ova) &middot; ' + totA + ' artikala &middot; ' + totS + '/' + totO + ' sken.</div></div><div class="prijem-progress"><div class="prog-text">' + pct + '%</div><div class="prog-bar"><div class="prog-fill" style="width:' + pct + '%;background:' + barColor + '"></div></div></div><div class="action-btns"><button title="Eksport Excel" onclick="exportInventura(\'' + pid + '\',\'' + inv.id + '\')">&#128202;</button><button class="del" title="Obrisi" onclick="deleteInventura(\'' + pid + '\',\'' + inv.id + '\')">&#10005;</button></div>';
+              body.appendChild(row);
+
+              // Detail: show parts breakdown + per-article merged
+              var detail = document.createElement("div");
+              detail.id = detailId;
+              detail.style.display = "none";
+              detail.style.borderBottom = "1px solid var(--border-light)";
+              detail.style.background = "var(--bg)";
+              var dh = "";
+              // Parts summary
+              dh += '<div style="padding:8px 18px;font-size:12px;font-weight:600;color:var(--text-secondary)">Dijelovi:</div>';
+              for (var di = 0; di < (inv.dijelovi||[]).length; di++) {
+                dh += '<div style="padding:2px 18px 2px 28px;font-size:12px;color:var(--text-secondary)">&#128100; ' + inv.dijelovi[di].naziv + '</div>';
+              }
+              // Articles with merged totals
+              dh += '<div style="padding:8px 18px 4px;font-size:12px;font-weight:600;color:var(--text-secondary)">Artikli (ukupno skenirano):</div>';
+              for (var d = 0; d < inv.dokumenti.length; d++) {
+                for (var s = 0; s < inv.dokumenti[d].stavke.length; s++) {
+                  var st = inv.dokumenti[d].stavke[s];
+                  var sken = inv._partScans[st.barkod] || 0;
+                  var diff = sken - st.ocekivano;
+                  var stStatus = sken === 0 ? "none" : sken < st.ocekivano ? "partial" : sken === st.ocekivano ? "ok" : "over";
+                  var stIcon = stStatus === "ok" ? "\u2713" : stStatus === "partial" ? "\u25D0" : stStatus === "over" ? "!" : "\u25CB";
+                  var diffText = diff === 0 ? "" : (diff > 0 ? "+" + diff : "" + diff);
+                  var diffColor = diff === 0 ? "var(--success)" : diff > 0 ? "var(--warning)" : "var(--danger)";
+                  dh += '<div style="display:flex;align-items:center;padding:6px 18px 6px 28px;gap:10px;border-top:1px solid var(--border-light);font-size:13px">';
+                  dh += '<div class="article-icon status-' + stStatus + '" style="width:28px;height:28px;font-size:13px;flex-shrink:0">' + stIcon + '</div>';
+                  dh += '<div style="flex:1;min-width:0"><div style="font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">' + st.naziv + '</div><div style="font-size:11px;color:var(--text-muted)">' + st.barkod + '</div></div>';
+                  dh += '<div style="font-weight:700;font-size:14px;flex-shrink:0">' + sken + '<span style="color:var(--text-muted);font-weight:400;font-size:12px">/' + st.ocekivano + '</span></div>';
+                  if (diffText) dh += '<div style="font-size:11px;font-weight:700;color:' + diffColor + ';min-width:24px;text-align:right">' + diffText + '</div>';
+                  dh += '</div>';
+                }
+              }
+              detail.innerHTML = dh;
+              body.appendChild(detail);
+            })(list[j], posl.id);
+          }
+        }
+
+        (function(h, b) { h.addEventListener("click", function() { h.classList.toggle("open"); b.classList.toggle("open"); }); })(header, body);
+        section.appendChild(header);
+        section.appendChild(body);
+        container.appendChild(section);
+      }
+      if (!any) container.innerHTML = '<div class="empty-state"><div class="empty-icon">&#128203;</div><h3>Nema inventura</h3></div>';
+    }
+
+    window.exportInventura = function(pid, invId) {
+      var list = invData[pid] || [];
+      var inv = null;
+      for (var i = 0; i < list.length; i++) { if (list[i].id === invId) { inv = list[i]; break; } }
+      if (!inv) return;
+
+      // Re-read parts to build per-part columns
+      var folder = "data/inventure/" + pid;
+      var parts = [];
+      var chain = Promise.resolve();
+      for (var i = 0; i < (inv.dijelovi || []).length; i++) {
+        (function(dio) {
+          chain = chain.then(function() {
+            return GitHubStorage.readFile(folder + "/" + inv.id + "-dio-" + dio.id + ".json").then(function(d) {
+              if (d) parts.push({ naziv: dio.naziv, data: d.content });
+            }).catch(function(){});
+          });
+        })(inv.dijelovi[i]);
+      }
+      chain.then(function() {
+        var merged = {};
+        var partNames = [];
+        for (var d = 0; d < inv.dokumenti.length; d++) {
+          for (var s = 0; s < inv.dokumenti[d].stavke.length; s++) {
+            var st = inv.dokumenti[d].stavke[s];
+            if (!merged[st.barkod]) merged[st.barkod] = { naziv: st.naziv, barkod: st.barkod, ocekivano: st.ocekivano, parts: {} };
+          }
+        }
+        for (var pi = 0; pi < parts.length; pi++) {
+          partNames.push(parts[pi].naziv);
+          if (parts[pi].data.dokumenti) {
+            for (var d = 0; d < parts[pi].data.dokumenti.length; d++) {
+              for (var s = 0; s < parts[pi].data.dokumenti[d].stavke.length; s++) {
+                var st = parts[pi].data.dokumenti[d].stavke[s];
+                if (!merged[st.barkod]) merged[st.barkod] = { naziv: st.naziv, barkod: st.barkod, ocekivano: st.ocekivano, parts: {} };
+                merged[st.barkod].parts[parts[pi].naziv] = (merged[st.barkod].parts[parts[pi].naziv] || 0) + (st.skenirano || 0);
+              }
+            }
+          }
+        }
+        var itemsList = [];
+        for (var bc in merged) itemsList.push(merged[bc]);
+        itemsList.sort(function(a, b) { return a.naziv.localeCompare(b.naziv); });
+
+        var poslNaziv = "";
+        for (var pn = 0; pn < poslovnice.length; pn++) { if (poslovnice[pn].id === pid) { poslNaziv = poslovnice[pn].naziv; break; } }
+
+        function loadJSZip() {
+          if (window.JSZip) return Promise.resolve();
+          return new Promise(function(res, rej) { var s = document.createElement("script"); s.src = "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"; s.onload = res; s.onerror = rej; document.head.appendChild(s); });
+        }
+        loadJSZip().then(function() { buildInvXlsx(itemsList, partNames, (inv.naziv || inv.datum) + "-" + poslNaziv); });
+      });
+    };
+
+    function buildInvXlsx(itemsList, partNames, name) {
+      var zip = new JSZip();
+      var ss = [], ssMap = {};
+      function si(str) { if (ssMap[str] === undefined) { ssMap[str] = ss.length; ss.push(str); } return ssMap[str]; }
+      function cL(c) { if (c < 26) return String.fromCharCode(65 + c); return String.fromCharCode(64 + Math.floor(c / 26)) + String.fromCharCode(65 + (c % 26)); }
+      function eX(s) { return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
+
+      var ukupnoCol = 3 + partNames.length, razlikaCol = ukupnoCol + 1, ocekCol = 2, firstPartCol = 3, lastPartCol = 3 + partNames.length - 1;
+      var rows = [];
+      var hdr = ["Naziv","Barkod","Ocekivano"].concat(partNames).concat(["Ukupno sken.","Razlika"]);
+      var hr = '';
+      for (var h = 0; h < hdr.length; h++) hr += '<c r="' + cL(h) + '1" t="s" s="1"><v>' + si(hdr[h]) + '</v></c>';
+      rows.push('<row r="1">' + hr + '</row>');
+      for (var i = 0; i < itemsList.length; i++) {
+        var it = itemsList[i], r = i + 2;
+        var rw = '';
+        rw += '<c r="A' + r + '" t="s" s="0"><v>' + si(it.naziv) + '</v></c>';
+        rw += '<c r="B' + r + '" t="s" s="0"><v>' + si(it.barkod) + '</v></c>';
+        rw += '<c r="C' + r + '" s="0"><v>' + it.ocekivano + '</v></c>';
+        for (var pi = 0; pi < partNames.length; pi++) rw += '<c r="' + cL(3 + pi) + r + '" s="0"><v>' + (it.parts[partNames[pi]] || 0) + '</v></c>';
+        rw += '<c r="' + cL(ukupnoCol) + r + '" s="2"><f>SUM(' + cL(firstPartCol) + r + ':' + cL(lastPartCol) + r + ')</f></c>';
+        rw += '<c r="' + cL(razlikaCol) + r + '" s="2"><f>' + cL(ukupnoCol) + r + '-' + cL(ocekCol) + r + '</f></c>';
+        rows.push('<row r="' + r + '">' + rw + '</row>');
+      }
+      var lastRow = itemsList.length + 1;
+      var cfRange = cL(razlikaCol) + '2:' + cL(razlikaCol) + lastRow;
+      var condFmt = '<conditionalFormatting sqref="' + cfRange + '"><cfRule type="cellIs" dxfId="0" priority="1" operator="equal"><formula>0</formula></cfRule><cfRule type="cellIs" dxfId="1" priority="2" operator="lessThan"><formula>0</formula></cfRule><cfRule type="cellIs" dxfId="2" priority="3" operator="greaterThan"><formula>0</formula></cfRule></conditionalFormatting>';
+      var cols = '<cols><col min="1" max="1" width="40" customWidth="1"/><col min="2" max="2" width="16" customWidth="1"/><col min="3" max="3" width="12" customWidth="1"/>';
+      for (var pi = 0; pi < partNames.length; pi++) cols += '<col min="' + (4+pi) + '" max="' + (4+pi) + '" width="12" customWidth="1"/>';
+      cols += '<col min="' + (4+partNames.length) + '" max="' + (4+partNames.length) + '" width="13" customWidth="1"/><col min="' + (5+partNames.length) + '" max="' + (5+partNames.length) + '" width="11" customWidth="1"/></cols>';
+      var sheetXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"><sheetViews><sheetView workbookViewId="0"><pane ySplit="1" topLeftCell="A2" activePane="bottomLeft" state="frozen"/></sheetView></sheetViews>' + cols + '<sheetData>' + rows.join('') + '</sheetData>' + condFmt + '</worksheet>';
+      var ssXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="' + ss.length + '" uniqueCount="' + ss.length + '">';
+      for (var i = 0; i < ss.length; i++) ssXml += '<si><t>' + eX(ss[i]) + '</t></si>';
+      ssXml += '</sst>';
+      var stylesXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><styleSheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"><fonts count="3"><font><sz val="11"/><name val="Calibri"/></font><font><b/><sz val="11"/><color rgb="FF1E3A5F"/><name val="Calibri"/></font><font><b/><sz val="11"/><name val="Calibri"/></font></fonts><fills count="3"><fill><patternFill patternType="none"/></fill><fill><patternFill patternType="gray125"/></fill><fill><patternFill patternType="solid"><fgColor rgb="FFDBEAFE"/></patternFill></fill></fills><borders count="2"><border><left/><right/><top/><bottom/></border><border><left/><right/><top/><bottom style="thick"><color auto="1"/></bottom></border></borders><cellStyleXfs count="1"><xf numFmtId="0" fontId="0" fillId="0" borderId="0"/></cellStyleXfs><cellXfs count="3"><xf numFmtId="0" fontId="0" fillId="0" borderId="0"/><xf numFmtId="0" fontId="1" fillId="2" borderId="1" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"><alignment horizontal="center"/></xf><xf numFmtId="0" fontId="2" fillId="0" borderId="0" applyFont="1"/></cellXfs><dxfs count="3"><dxf><font><b/><color rgb="FF166534"/></font><fill><patternFill><bgColor rgb="FFD1FAE5"/></patternFill></fill></dxf><dxf><font><b/><color rgb="FFDC2626"/></font><fill><patternFill><bgColor rgb="FFFEE2E2"/></patternFill></fill></dxf><dxf><font><b/><color rgb="FFD97706"/></font><fill><patternFill><bgColor rgb="FFFEF3C7"/></patternFill></fill></dxf></dxfs></styleSheet>';
+      zip.file("[Content_Types].xml", '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types"><Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/><Default Extension="xml" ContentType="application/xml"/><Override PartName="/xl/workbook.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml"/><Override PartName="/xl/worksheets/sheet1.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml"/><Override PartName="/xl/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml"/><Override PartName="/xl/sharedStrings.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml"/></Types>');
+      zip.file("_rels/.rels", '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships"><Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="xl/workbook.xml"/></Relationships>');
+      zip.file("xl/workbook.xml", '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"><sheets><sheet name="Inventura" sheetId="1" r:id="rId1"/></sheets></workbook>');
+      zip.file("xl/_rels/workbook.xml.rels", '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships"><Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet" Target="worksheets/sheet1.xml"/><Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/><Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/sharedStrings" Target="sharedStrings.xml"/></Relationships>');
+      zip.file("xl/worksheets/sheet1.xml", sheetXml);
+      zip.file("xl/styles.xml", stylesXml);
+      zip.file("xl/sharedStrings.xml", ssXml);
+      zip.generateAsync({ type: "blob", mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" }).then(function(blob) {
+        var fn = "inventura-" + name + ".xlsx";
+        fn = fn.replace(/[^a-zA-Z0-9\-_.]/g, "_");
+        var a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = fn; a.click();
+        toast("Exportirano!", "success");
+      });
+    }
+
+    window.deleteInventura = function(pid, invId) {
+      var list = invData[pid] || [];
+      var inv = null;
+      for (var i = 0; i < list.length; i++) { if (list[i].id === invId) { inv = list[i]; break; } }
+      if (!inv) return;
+      if (!confirm("Obrisati inventuru?")) return;
+      var folder = "data/inventure/" + pid;
+      GitHubStorage.deleteFile(inv._path, inv._sha, "Admin brisanje inventure").then(function() {
+        var delChain = Promise.resolve();
+        for (var di = 0; di < (inv.dijelovi||[]).length; di++) {
+          (function(dio) {
+            delChain = delChain.then(function() {
+              var pp = folder + "/" + inv.id + "-dio-" + dio.id + ".json";
+              return GitHubStorage.readFile(pp).then(function(d) { if (d) return GitHubStorage.deleteFile(pp, d.sha, "Brisanje dijela"); }).catch(function(){});
+            });
+          })(inv.dijelovi[di]);
+        }
+        return delChain;
+      }).then(function() { toast("Obrisano", "success"); loadInventure(); }).catch(function(e) { toast("Greska: " + e.message, "error"); });
+    };
 
     function toast(m, t) { var old = document.querySelectorAll(".toast"); for (var i = 0; i < old.length; i++) old[i].remove(); var el = document.createElement("div"); el.className = "toast " + t; el.textContent = m; document.body.appendChild(el); setTimeout(function() { el.remove(); }, 3000); }
     if (localStorage.getItem("theme") === "dark") document.getElementById("theme-toggle").classList.add("dark");
