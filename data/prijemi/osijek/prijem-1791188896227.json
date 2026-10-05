@@ -5,7 +5,7 @@
   "datum": "2026-10-05",
   "status": "aktivan",
   "kreirano": "2026-10-05T08:28:16.227Z",
-  "azurirano": "2026-10-05T09:05:11.556Z",
+  "azurirano": "2026-10-05T09:05:21.370Z",
   "dokumenti": [
     {
       "naziv": "MSI 6395-101",
@@ -20,7 +20,7 @@
           "naziv": "Mis Logitech M650, crni",
           "barkod": "5099206097223",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Logitech G G321 crne",
@@ -56,13 +56,13 @@
           "naziv": "Mis Logitech G502 X PLUS, LIGHTSPEED, LIGHTSYNC RGB, crni",
           "barkod": "5099206096332",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis LOGITECH MX Master 4 grafit",
           "barkod": "5099206133082",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -568,7 +568,7 @@
           "naziv": "Eksterni disk ADATA Ex HDD HD330, 1TB, usb3.2, plavi -CBL",
           "barkod": "4713218465474",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis WHITE SHARK AZARAH, GM-5003, RGB, 6.400 dpi",
