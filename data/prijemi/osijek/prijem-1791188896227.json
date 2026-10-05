@@ -5,7 +5,7 @@
   "datum": "2026-10-05",
   "status": "aktivan",
   "kreirano": "2026-10-05T08:28:16.227Z",
-  "azurirano": "2026-10-05T09:05:08.457Z",
+  "azurirano": "2026-10-05T09:05:11.556Z",
   "dokumenti": [
     {
       "naziv": "MSI 6395-101",
@@ -50,7 +50,7 @@
           "naziv": "Web kamera Logitech C270 HD",
           "barkod": "5099206064201",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech G502 X PLUS, LIGHTSPEED, LIGHTSYNC RGB, crni",
