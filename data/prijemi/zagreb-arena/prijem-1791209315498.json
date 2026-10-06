@@ -5,7 +5,7 @@
   "datum": "2026-10-05",
   "status": "aktivan",
   "kreirano": "2026-10-05T14:08:35.498Z",
-  "azurirano": "2026-10-06T10:35:30.561Z",
+  "azurirano": "2026-10-06T10:35:35.759Z",
   "dokumenti": [
     {
       "naziv": "MSI 6420-101",
@@ -263,7 +263,7 @@
           "naziv": "Usisavac Philips XC5244/10",
           "barkod": "8720389062681",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Rowenta RH7A32E0 X-Force Flex 10.80",
@@ -371,7 +371,7 @@
           "naziv": "Usisavac Philips XC8055/01 Aqua Plus",
           "barkod": "8720389022425",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP4441/50 espresso",
