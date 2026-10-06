@@ -5,7 +5,7 @@
   "datum": "2026-10-05",
   "status": "aktivan",
   "kreirano": "2026-10-05T14:08:35.498Z",
-  "azurirano": "2026-10-06T10:43:33.016Z",
+  "azurirano": "2026-10-06T10:43:43.073Z",
   "dokumenti": [
     {
       "naziv": "MSI 6420-101",
@@ -401,7 +401,7 @@
           "naziv": "Usisavac robot Bosch BCRDW3BX, Spotless Max Cam",
           "barkod": "4242005525805",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Tefal EY922DE0, Dual Easy Fry Flex",
