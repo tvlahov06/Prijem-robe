@@ -5,7 +5,7 @@
   "datum": "2026-10-06",
   "status": "aktivan",
   "kreirano": "2026-10-06T05:54:33.997Z",
-  "azurirano": "2026-10-06T05:54:33.997Z",
+  "azurirano": "2026-10-06T06:42:08.772Z",
   "dokumenti": [
     {
       "naziv": "MSI 6433-101",
@@ -221,31 +221,31 @@
           "naziv": "Televizor HISENSE 40A5S 2026, 101,6 cm (40\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
           "barkod": "6942351429632",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 50A6S 2026, 127 cm (50\"), DLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351430263",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "PRO Televizor HISENSE 43E7S PRO 2026, 109,2 cm (43\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351432410",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor HISENSE 65E7S 2026, 165,1 cm (65\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351431710",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE55M80HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806099014230",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     }
