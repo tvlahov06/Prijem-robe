@@ -5,7 +5,7 @@
   "datum": "2026-10-05",
   "status": "aktivan",
   "kreirano": "2026-10-05T14:08:35.498Z",
-  "azurirano": "2026-10-06T09:55:20.967Z",
+  "azurirano": "2026-10-06T09:55:28.060Z",
   "dokumenti": [
     {
       "naziv": "MSI 6420-101",
@@ -550,7 +550,7 @@
           "naziv": "Friteza na vruci zrak Philips NA547/07 Airfryer, para",
           "barkod": "8720389067068",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Bosch MSM6M633",
@@ -604,7 +604,7 @@
           "naziv": "Friteza na vruci zrak Philips NA555/00 Airfryer Dual Basket, para",
           "barkod": "8720389047558",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
@@ -616,7 +616,7 @@
           "naziv": "Usisavac Philips XB2122/09",
           "barkod": "8710103925279",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Toster preklopni Tefal SM157236",
