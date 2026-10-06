@@ -5,7 +5,7 @@
   "datum": "2026-10-05",
   "status": "aktivan",
   "kreirano": "2026-10-05T14:08:35.498Z",
-  "azurirano": "2026-10-06T10:44:20.221Z",
+  "azurirano": "2026-10-06T10:44:29.166Z",
   "dokumenti": [
     {
       "naziv": "MSI 6420-101",
@@ -365,7 +365,7 @@
           "naziv": "Usisavac Bosch BCS1041PET Unlimited 10 ProAnimal, crveni",
           "barkod": "4242005469543",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC8055/01 Aqua Plus",
@@ -461,7 +461,7 @@
           "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
           "barkod": "8720389023026",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mop elektricni Philips dodaci XV1882/20 zamjenski podni brisac",
