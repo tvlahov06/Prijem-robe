@@ -5,7 +5,7 @@
   "datum": "2026-10-06",
   "status": "aktivan",
   "kreirano": "2026-10-06T13:09:05.731Z",
-  "azurirano": "2026-10-07T06:25:55.478Z",
+  "azurirano": "2026-10-07T06:26:03.180Z",
   "dokumenti": [
     {
       "naziv": "MSI 6446-101",
@@ -476,13 +476,13 @@
           "naziv": "Ploca ugradbena plin Gorenje GW6D42CLI",
           "barkod": "3838782467219",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena Hisense HI6431BFZ",
           "barkod": "3838783052391",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena Bosch PCP6A6I90",
