@@ -5,7 +5,7 @@
   "datum": "2026-10-07",
   "status": "aktivan",
   "kreirano": "2026-10-07T08:59:48.605Z",
-  "azurirano": "2026-10-07T09:51:02.814Z",
+  "azurirano": "2026-10-07T09:51:25.764Z",
   "dokumenti": [
     {
       "naziv": "MSI 6442-101",
@@ -230,7 +230,7 @@
           "naziv": "Tablete za ciscenje kamenca Krups XS300010",
           "barkod": "3016661181542",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
@@ -242,7 +242,7 @@
           "naziv": "Aparat za kavu Philips oprema CA6704/10 tablete za uklanjanje ulja od kave",
           "barkod": "8720389000430",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Mop elektricni Philips XV3101/11",
