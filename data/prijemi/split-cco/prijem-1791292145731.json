@@ -5,7 +5,7 @@
   "datum": "2026-10-06",
   "status": "aktivan",
   "kreirano": "2026-10-06T13:09:05.731Z",
-  "azurirano": "2026-10-07T06:50:47.118Z",
+  "azurirano": "2026-10-07T06:50:50.849Z",
   "dokumenti": [
     {
       "naziv": "MSI 6446-101",
@@ -155,7 +155,7 @@
           "naziv": "Osvjezivac odjece Philips STH3020/70",
           "barkod": "8720389037542",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XD2142/12",
