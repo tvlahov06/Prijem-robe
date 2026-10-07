@@ -5,7 +5,7 @@
   "datum": "2026-10-06",
   "status": "aktivan",
   "kreirano": "2026-10-06T13:09:05.731Z",
-  "azurirano": "2026-10-07T06:46:40.849Z",
+  "azurirano": "2026-10-07T06:46:57.604Z",
   "dokumenti": [
     {
       "naziv": "MSI 6446-101",
@@ -83,7 +83,7 @@
           "naziv": "Usisavac Bosch BGB41PET1",
           "barkod": "4242005483983",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9557/09",
@@ -173,13 +173,13 @@
           "naziv": "Usisavac Philips XD6142/12",
           "barkod": "8720389038303",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA322/00 Airfryer",
           "barkod": "8720389034664",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vrecice za usisavac Miele HyClean Pure TU",
@@ -215,25 +215,25 @@
           "naziv": "Usisavac Bosch BBH3ZOO28 Flexxo Gen2 ProAnimal, crveni",
           "barkod": "4242005278497",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BBS711ANM Unlimited 7 ProAnimal, crveni",
           "barkod": "4242005306640",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Rowenta GZ2251E0 X-Clean 2, 2u1",
           "barkod": "3221616161313",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA332/00 Airfryer",
           "barkod": "8720389034503",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
