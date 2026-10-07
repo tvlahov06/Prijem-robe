@@ -5,7 +5,7 @@
   "datum": "2026-10-07",
   "status": "aktivan",
   "kreirano": "2026-10-07T08:59:48.605Z",
-  "azurirano": "2026-10-07T09:48:28.573Z",
+  "azurirano": "2026-10-07T09:48:48.632Z",
   "dokumenti": [
     {
       "naziv": "MSI 6442-101",
@@ -260,7 +260,7 @@
           "naziv": "Usisavac Philips FC9330/09",
           "barkod": "8720389036088",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XD6142/12",
