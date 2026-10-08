@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T08:31:01.677Z",
-  "azurirano": "2026-10-08T10:59:22.570Z",
+  "azurirano": "2026-10-08T10:59:25.049Z",
   "dokumenti": [
     {
       "naziv": "MSI 6511-101",
@@ -511,7 +511,7 @@
           "naziv": "Tinta HP GT52 M0H54AE, Cyan",
           "barkod": "190780132517",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toner HP 219A Magenta, W2193A",
