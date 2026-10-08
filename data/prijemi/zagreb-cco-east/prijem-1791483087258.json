@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T18:11:27.258Z",
-  "azurirano": "2026-10-08T19:44:53.816Z",
+  "azurirano": "2026-10-08T19:45:00.808Z",
   "dokumenti": [
     {
       "naziv": "MSI 6389-101",
@@ -684,13 +684,13 @@
           "naziv": "Kirby And The Forgotten Land Switch",
           "barkod": "045496429270",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Minecraft Dungeons Ultimate Edition Switch ESW",
           "barkod": "045496429096",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Splatoon 3 Switch",
@@ -816,13 +816,13 @@
           "naziv": "Minecraft Dungeons II Deluxe Edition (GAME KEY CARD) Switch 2",
           "barkod": "0045496314736",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Dune Awakening DAY 1 Edition PS5",
           "barkod": "3391892045345",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         }
       ]
     },
