@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T08:31:01.677Z",
-  "azurirano": "2026-10-08T10:59:37.698Z",
+  "azurirano": "2026-10-08T10:59:39.765Z",
   "dokumenti": [
     {
       "naziv": "MSI 6511-101",
@@ -391,7 +391,7 @@
           "naziv": "HDD WD Elements Portable 4TB, USB 3.0",
           "barkod": "718037855981",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk WD My Passport 1TB, Black, USB 3.2",
