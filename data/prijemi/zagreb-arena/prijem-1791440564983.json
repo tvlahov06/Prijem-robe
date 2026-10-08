@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T08:31:01.677Z",
-  "azurirano": "2026-10-08T10:45:25.890Z",
+  "azurirano": "2026-10-08T10:46:01.929Z",
   "dokumenti": [
     {
       "naziv": "MSI 6511-101",
@@ -367,7 +367,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 512GB USB 3.2 Black-Yellow",
           "barkod": "740617348774",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link 4G Mobile Router M7200, 2.4GHz Wi-Fi, 4G modem, LTE+HSPA, SIM kartica, punjiva baterija",
@@ -547,7 +547,7 @@
           "naziv": "USB stick Samsung 256GB Type-C plavi MUF-256DA/APC",
           "barkod": "8806092535909",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MIS SBOX WM-710 Roza Bezicni",
