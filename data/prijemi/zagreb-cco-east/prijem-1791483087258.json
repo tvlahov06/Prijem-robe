@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T18:11:27.258Z",
-  "azurirano": "2026-10-08T19:40:37.166Z",
+  "azurirano": "2026-10-08T19:40:41.615Z",
   "dokumenti": [
     {
       "naziv": "MSI 6389-101",
@@ -1010,13 +1010,13 @@
           "naziv": "Televizor SAMSUNG UE55M80HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806099014230",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SONY K43S25M2PB 2026, 108 cm (43\"), Bravia 2 EI II, 4K Google TV",
           "barkod": "4548736180420",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
