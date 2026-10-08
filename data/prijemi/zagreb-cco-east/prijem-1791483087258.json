@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T18:11:27.258Z",
-  "azurirano": "2026-10-08T19:30:20.114Z",
+  "azurirano": "2026-10-08T19:30:28.197Z",
   "dokumenti": [
     {
       "naziv": "MSI 6389-101",
@@ -68,7 +68,7 @@
           "naziv": "Mikser stapni Tefal HB643138",
           "barkod": "3016661150036",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
@@ -92,7 +92,7 @@
           "naziv": "Mlinac za kavu Bosch TSM6A013B crni",
           "barkod": "4242005108787",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Philips DST7511/80",
@@ -164,7 +164,7 @@
           "naziv": "Mlinac za kavu Bosch TSM6A011W bijeli",
           "barkod": "4242005108770",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Bosch BCRC2W, Spotless Advanced",
@@ -200,7 +200,7 @@
           "naziv": "Vrecice za usisavac Bosch BBZWD4BAG",
           "barkod": "4242005174423",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3510 Piccolo XS red/black BF",
@@ -230,7 +230,7 @@
           "naziv": "Glacalo Tefal DB1612E0 putno",
           "barkod": "3121040095867",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
@@ -254,7 +254,7 @@
           "naziv": "Glacalo Philips DST5030/20",
           "barkod": "8710103968160",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Tefal EY922DE0, Dual Easy Fry Flex",
@@ -851,7 +851,7 @@
           "naziv": "Uredaj za ravnanje kose Dyson Airstrait Ceramic Pink/Rose Gold",
           "barkod": "5025155113080",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
