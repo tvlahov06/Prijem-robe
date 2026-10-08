@@ -1,0 +1,106 @@
+{
+  "id": "prijem-1791492323723",
+  "poslovnica": "zagreb-cco-east",
+  "naziv": "",
+  "datum": "2026-10-08",
+  "status": "aktivan",
+  "kreirano": "2026-10-08T20:45:23.723Z",
+  "azurirano": "2026-10-08T20:45:23.723Z",
+  "dokumenti": [
+    {
+      "naziv": "Narudžba_Control_Center",
+      "stavke": [
+        {
+          "naziv": "Slusalice bezicne JBL VIBE FLEX 2 crna",
+          "barkod": "1200130015212",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth bezicne JBL TUNE 780NC crne",
+          "barkod": "1200130030482",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 530BT bijele",
+          "barkod": "1200130029974",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
+          "barkod": "1200130029967",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 730BT crne",
+          "barkod": "1200130029837",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth potpuno bezicne JBL SENSE LITE crne",
+          "barkod": "1200130023088",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth potpuno bezicne JBL TOUR PRO 3 TWS crne",
+          "barkod": "1200130013836",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth potpuno bezicne JBL Vibe BUDS 2 crne",
+          "barkod": "1200130015694",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice JBL TUNE 110E crne",
+          "barkod": "1200130022722",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice zicane JBL TUNE 530C USB-C bijele",
+          "barkod": "1200130030062",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crni",
+          "barkod": "1200130019555",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 plavi",
+          "barkod": "1200130019579",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GO 5 plavi",
+          "barkod": "1200130034299",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GO ESSENTIAL 2 crveni",
+          "barkod": "1200130018602",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX ENCORE 2",
+          "barkod": "1200130020216",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
