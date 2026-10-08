@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T18:11:27.258Z",
-  "azurirano": "2026-10-08T19:47:23.723Z",
+  "azurirano": "2026-10-08T19:47:30.812Z",
   "dokumenti": [
     {
       "naziv": "MSI 6389-101",
@@ -1271,7 +1271,7 @@
           "naziv": "EPSON EcoTank L3356 Multi function printer Ink 33ppm",
           "barkod": "8715946741277",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP DeskJet 4320 All-in-One (A24HMB) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Wi-Fi, USB, A4 - Instant",
@@ -1283,7 +1283,7 @@
           "naziv": "Epson EcoTank L3350 MFP Inkjet pisac",
           "barkod": "8715946741253",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CANON Pixma TS3750i Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Cloud, A4",
