@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T06:24:19.971Z",
-  "azurirano": "2026-10-08T06:45:38.404Z",
+  "azurirano": "2026-10-08T06:45:45.753Z",
   "dokumenti": [
     {
       "naziv": "MSI 6457-101",
@@ -734,13 +734,13 @@
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB crni",
           "barkod": "8806097827467",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB nebesko plavi",
           "barkod": "8806097827610",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB kobalt ljubicasti",
