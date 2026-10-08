@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T18:11:27.258Z",
-  "azurirano": "2026-10-08T19:41:01.406Z",
+  "azurirano": "2026-10-08T19:41:53.888Z",
   "dokumenti": [
     {
       "naziv": "MSI 6389-101",
@@ -1306,7 +1306,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
           "barkod": "8806097827177",
           "ocekivano": 8,
-          "skenirano": 1
+          "skenirano": 6
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB crni",
@@ -1318,19 +1318,19 @@
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB nebesko plavi",
           "barkod": "8806097827610",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB kobalt ljubicasti",
           "barkod": "8806097827078",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/512GB crni",
           "barkod": "8806097827405",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Book Cover s tipkovnicom slim za Tab S12+ crni",
@@ -1342,7 +1342,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB nebesko plavi",
           "barkod": "8806097826781",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 16/1TB crni",
