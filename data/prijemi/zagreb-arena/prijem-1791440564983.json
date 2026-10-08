@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T08:31:01.677Z",
-  "azurirano": "2026-10-08T10:46:01.929Z",
+  "azurirano": "2026-10-08T10:46:10.665Z",
   "dokumenti": [
     {
       "naziv": "MSI 6511-101",
@@ -259,7 +259,7 @@
           "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
           "barkod": "740617305371",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ruksak za laptope do 16\"ASUS AP1602",
@@ -367,7 +367,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 512GB USB 3.2 Black-Yellow",
           "barkod": "740617348774",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TP-Link 4G Mobile Router M7200, 2.4GHz Wi-Fi, 4G modem, LTE+HSPA, SIM kartica, punjiva baterija",
