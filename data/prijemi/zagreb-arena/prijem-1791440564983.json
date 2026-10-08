@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T08:31:01.677Z",
-  "azurirano": "2026-10-08T10:57:49.622Z",
+  "azurirano": "2026-10-08T10:57:55.679Z",
   "dokumenti": [
     {
       "naziv": "MSI 6511-101",
@@ -397,7 +397,7 @@
           "naziv": "Eksterni disk WD My Passport 1TB, Black, USB 3.2",
           "barkod": "718037869469",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Skener Canon LiDE 300",
@@ -415,7 +415,7 @@
           "naziv": "Eksterni disk WD Elements SE 2TB, Portable 2,5\", USB 3.0 BK",
           "barkod": "718037859385",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "racunalo HP 27-cv0021ny, D90A6EA",
