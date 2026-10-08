@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T18:11:27.258Z",
-  "azurirano": "2026-10-08T19:50:28.648Z",
+  "azurirano": "2026-10-08T19:50:34.422Z",
   "dokumenti": [
     {
       "naziv": "MSI 6389-101",
@@ -1122,7 +1122,7 @@
           "naziv": "GTA V PS5 C38",
           "barkod": "5026555431842",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Crash Bandicoot 4: It's About Time Switch A22",
@@ -1242,7 +1242,7 @@
           "naziv": "Dune Awakening DAY 1 Edition PS5",
           "barkod": "3391892045345",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         }
       ]
     },
