@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T08:31:01.677Z",
-  "azurirano": "2026-10-08T10:57:11.109Z",
+  "azurirano": "2026-10-08T10:57:15.223Z",
   "dokumenti": [
     {
       "naziv": "MSI 6511-101",
@@ -660,7 +660,7 @@
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
           "barkod": "5099206089235",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "prezenter Logitech R500s",
@@ -726,7 +726,7 @@
           "naziv": "Tipkovnica Logitech G515 TKL black US",
           "barkod": "5099206123175",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
