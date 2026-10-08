@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T18:11:27.258Z",
-  "azurirano": "2026-10-08T19:39:53.491Z",
+  "azurirano": "2026-10-08T19:40:13.998Z",
   "dokumenti": [
     {
       "naziv": "MSI 6389-101",
@@ -493,7 +493,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
           "barkod": "8806097827177",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 bijeli",
@@ -1306,19 +1306,19 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
           "barkod": "8806097827177",
           "ocekivano": 8,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB crni",
           "barkod": "8806097827467",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB nebesko plavi",
           "barkod": "8806097827610",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB kobalt ljubicasti",
@@ -1348,7 +1348,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 16/1TB crni",
           "barkod": "8806097827122",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26+ 5G 12/256GB crni",
@@ -1384,7 +1384,7 @@
           "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB rozi",
           "barkod": "8806099191993",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Fold8 5G 12GB/256GB grafitno crni",
@@ -1396,7 +1396,7 @@
           "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/512GB rozi",
           "barkod": "8806099191955",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tablet Samsung Galaxy Tab S12 Ultra 5G 12GB/256GB sivi",
