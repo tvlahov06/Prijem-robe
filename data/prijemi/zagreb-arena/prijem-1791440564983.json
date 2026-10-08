@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T06:22:44.983Z",
-  "azurirano": "2026-10-08T06:33:22.775Z",
+  "azurirano": "2026-10-08T06:33:31.062Z",
   "dokumenti": [
     {
       "naziv": "MSI 6470-101",
@@ -968,7 +968,7 @@
           "naziv": "Toner HP 219A Magenta, W2193A",
           "barkod": "195161016325",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk WD Elements 6TB, Portable 2,5\", USB-C",
