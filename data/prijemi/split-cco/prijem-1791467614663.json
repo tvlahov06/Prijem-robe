@@ -1,0 +1,1198 @@
+{
+  "id": "prijem-1791467614663",
+  "poslovnica": "split-cco",
+  "naziv": "Roba u dolasku",
+  "datum": "2026-10-08",
+  "status": "aktivan",
+  "kreirano": "2026-10-08T13:53:34.663Z",
+  "azurirano": "2026-10-08T13:53:34.663Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 6493-101",
+      "stavke": [
+        {
+          "naziv": "Laptop LENOVO LOQ Essential 83S000A7SC, 39.6cm (15.6\") IPS Full HD 144Hz, AMD Ryzen 5 150, 16 GB RAM,",
+          "barkod": "199274270841",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA2786 Ryzen 5 FB0 40, 16GB, SSD 512GB, 156' FHD, Radeon Graphics, Brez",
+          "barkod": "4711636470988",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming A16 FA608UHI-TU126, 16\" AZ0 WUXGA 144 Hz, AMD Ryzen 7 260, 16 GB RAM, 512 GB",
+          "barkod": "4711636513548",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop LENOVO IdeaPad Flex 5 82XX00HGSC, 35.6cm (14\") IPS WUXGA Touch, AMD Ryzen 5 5625U, 16 GB RAM,",
+          "barkod": "198158565332",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS Vivobook 15 M1502NAQ, 39.6 cm (15.6\") Full 7V0_W11H HD, AMD Ryzen 7 170, 16 GB RAM, 512 GB SSD, AMD",
+          "barkod": "2010033157822",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Aspire Go 15 NX.J7XEX.00S, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 32 GB RAM, 512 GB",
+          "barkod": "4711474403223",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Nitro V 15 NH.QZ8EX.01K, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 9 270H, 32 GB RAM, 1 TB",
+          "barkod": "4711474900814",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming A16 FA608UMI-TU167W, 40.6cm L40 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 260, 16 GB RAM,",
+          "barkod": "4711636546690",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ASUS TUF Gaming A16 FA608UP-RV018, 40.6cm 2J0 (16\") IPS WUXGA 165Hz, AMD Ryzen 7 260, 16 GB RAM, 1",
+          "barkod": "4711636527071",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Extensa 15, NX.EKUEX.001, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 512 GB",
+          "barkod": "4711721054949",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP 250R G10 D13J5ET, 39.6cm (15.6\") Full HD, Intel Core 5-120U, 16 GB RAM, 512 GB SSD, Intel",
+          "barkod": "199896044332",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP VICTUS Gaming 15-fb3006nm CV9Y1EA, 39.6cm (15.6\") IPS Full HD 144Hz, AMD Ryzen AI 7 350, 16 GB",
+          "barkod": "0199764635235",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP 15-fc0277nm CZ9C6EA, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD",
+          "barkod": "0199764771070",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Aspire Go 15 NX.JW6EX.00H, 39.6cm (15.6\") IPS Full HD, Intel Core 5 120U, 16 GB RAM, 1 TB SSD, Intel",
+          "barkod": "4711474892416",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor ACER EK241YGBI 23.8inch FHD ZeroFrame IPS 120Hz 16:9 1ms 250nits VGA HDMI FreeSync EU Black",
+          "barkod": "4711474107800",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DELL 27\" Pro monitor E2726HS, IPS Full HD, 100Hz, 5ms, ComfortView Plus, DisplayPort, HDMI, VGA, Pivot, Zvucnici",
+          "barkod": "5397321028826",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 27\" Acer Nitro ED270US3, UM.HE0EE.306, QHD, 180Hz, 5ms, zakrivljen",
+          "barkod": "4711121917981",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6494-101",
+      "stavke": [
+        {
+          "naziv": "Film za Fujifilm Instax Mini - 2 paketa",
+          "barkod": "4547410364866",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Fit3 sivi",
+          "barkod": "8806095362175",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch9 40mm crni",
+          "barkod": "8806099325442",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch9 44mm crni",
+          "barkod": "8806099326760",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
+          "barkod": "8806097651000",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C crni bez kabela",
+          "barkod": "8806094912128",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel Samsung USB Type-C na USB Type-C (1,8m, 5A) crni",
+          "barkod": "8806094257540",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A27 5G 6GB/128GB dual SIM crni",
+          "barkod": "8806099353469",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HUAWEI Watch GT7 crni 46mm (Atum-B39F)",
+          "barkod": "6942711308607",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C bijeli bez kabela",
+          "barkod": "8806094912081",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A27 5G 6GB/128GB dual SIM plavi",
+          "barkod": "8806099353506",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
+          "barkod": "8806099028282",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi",
+          "barkod": "8806099028114",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HUAWEI Watch GT7 rozi 41mm (Konsu-B39F)",
+          "barkod": "6942711308676",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T4511 45W Fast Charge USB-C crni bez kabla",
+          "barkod": "8806097039709",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "APPLE DODACI USB-C to Lightning Cable (1m)",
+          "barkod": "195949085611",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "APPLE DODACI 240W USB-C Charge Cable (2 m)",
+          "barkod": "195949775390",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung EP-T6010 60W Fast Charge USB-C crni bez kabela",
+          "barkod": "8806097735618",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HUAWEI Watch GT7 Pro crni 46mm (Atum-B49F)",
+          "barkod": "6942711308645",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE3 v2 GPS 40mm Starlight Aluminium Case with Sand Sport Band - S/M",
+          "barkod": "195951258577",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 plavi",
+          "barkod": "4547410489064",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 41mm White Leather Strap (Jana-B19L)",
+          "barkod": "6942103131967",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Deep Blue",
+          "barkod": "195950639247",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
+          "barkod": "195950627596",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Black",
+          "barkod": "195951415666",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac za notebook HP Adapter USB-C LC 65W, 1P3K6AA",
+          "barkod": "195122442972",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT 5 46mm Black (Vili-B19F)",
+          "barkod": "6942103132001",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM ljubicasti",
+          "barkod": "8806099035341",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Insta360 X6 Essentials Bundle Midnight Black",
+          "barkod": "6942590200344",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12+ WiFi 12GB/256GB sivi",
+          "barkod": "8806099394493",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12+ WiFi 12GB/256GB srebrni",
+          "barkod": "8806099394455",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12+ 5G 12GB/256GB sivi",
+          "barkod": "8806099400392",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12 Ultra WiFi 12GB/256GB sivi",
+          "barkod": "8806099397975",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirTag (2. generacije), pakiranje 1 kom",
+          "barkod": "195950667363",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
+          "barkod": "195950627190",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HUAWEI Watch GT7 plavi 46mm (Atum-B39FC)",
+          "barkod": "6942711308621",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12 Ultra WiFi 12GB/256GB srebrni",
+          "barkod": "8806099397777",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12 Ultra 5G 12GB/256GB sivi",
+          "barkod": "8806099400903",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 plavo ljubicasta",
+          "barkod": "8806097934721",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 12 GPS 42mm Light Gold Aluminium Case with Sand Sport Band - S/M",
+          "barkod": "195951225869",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni Outdoor sat Garmin Fenix 8 51 mm AMOLED slate gray, black remen",
+          "barkod": "753759338152",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Akcijska kamera Insta360 X5 Essential Bundle",
+          "barkod": "6977644761496",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "fotoaparat Fujifilm Instax Mini 13 rozi",
+          "barkod": "4547410564853",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska slim magnetna maska za Samsung Galaxy S26 FE crna",
+          "barkod": "8806099398743",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 16 128GB Black",
+          "barkod": "195949821936",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 12 GPS 46mm Space Grey Aluminium Case with Navy Blue Sport Band - S/M",
+          "barkod": "195951226668",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirTag (2. generacije), pakiranje 4 kom",
+          "barkod": "195950667523",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11+ 5G 6GB/128GB sivi",
+          "barkod": "8806097859963",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch9 40mm bez",
+          "barkod": "8806099324841",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 FE prozirna",
+          "barkod": "8806099398866",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Mini 5 Pro",
+          "barkod": "6941565996091",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 FE roza",
+          "barkod": "8806099398798",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A18 8GB/256GB dual SIM crni",
+          "barkod": "8806099456900",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GoPro pribor 3-Way Grip / Arm / Tripod - stalak, produzetak ili drska",
+          "barkod": "818279024180",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE 3 GPS 44mm Starlight Aluminium Case with Starlight Sport Band - M/L",
+          "barkod": "195950645996",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Silver",
+          "barkod": "195950086171",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Yellow",
+          "barkod": "195950086638",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F)",
+          "barkod": "6942103189739",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6534-101",
+      "stavke": [
+        {
+          "naziv": "Samsung Galaxy Buds4 slusalice crne UC",
+          "barkod": "8806097998570",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
+          "barkod": "6942103101359",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 5",
+          "barkod": "195951379036",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Projektor Acer AOpen QF23s MR.JXC11.002, FHD LCD, 250 ANSI",
+          "barkod": "4711474140623",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Projektor LCD ACER AOpen QH31s, MR.JYQ11.002, 720p rezolucija, LED tehnologija, autofokus, bezicno povezivanje,",
+          "barkod": "4711474619068",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-100 TV nosac BOF TVM V-100",
+          "barkod": "2010030072630",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods Max (USB-C) Starlight",
+          "barkod": "195949544163",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/W",
+          "barkod": "4548736161481",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/Y",
+          "barkod": "4548736161788",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony",
+          "barkod": "4548736170544",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne WH-CH530/G",
+          "barkod": "4548736181489",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne WH-CH530/W",
+          "barkod": "4548736181281",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony",
+          "barkod": "4548736170643",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
+          "barkod": "4548736161436",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Radio budilica Sony ICF-C1/B",
+          "barkod": "4905524962031",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke E7 WH-CH730N/C",
+          "barkod": "4548736181779",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke 7 WH-CH730N/L",
+          "barkod": "4548736181694",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-XB100/B",
+          "barkod": "4548736146129",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WF-1000XM5/B",
+          "barkod": "4548736143487",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne Sony s funkcijom blokade buke E7 WF-1000XM6/B",
+          "barkod": "4548736171770",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Radio budilica Sony ICF-C1/W",
+          "barkod": "4905524962048",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6535-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
+          "barkod": "8806097827177",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB crni",
+          "barkod": "8806097827467",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB nebesko plavi",
+          "barkod": "8806097827610",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB kobalt ljubicasti",
+          "barkod": "8806097827078",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Book Cover s tipkovnicom slim za Tab S12+ crni",
+          "barkod": "8806099419325",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB nebesko plavi",
+          "barkod": "8806097826781",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 16/1TB crni",
+          "barkod": "8806097827122",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26+ 5G 12/256GB crni",
+          "barkod": "8806097828358",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Fold8 5G 12GB/512GB grafitno crni",
+          "barkod": "8806099348731",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB grafitno crni",
+          "barkod": "8806099186517",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Book Cover s tipkovnicom za Samsung Galaxy Tab S11 Ultra crni",
+          "barkod": "8806097734932",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch9 40mm bez",
+          "barkod": "8806099324841",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB rozi",
+          "barkod": "8806099191993",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Fold8 5G 12GB/256GB grafitno crni",
+          "barkod": "8806099348830",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/512GB rozi",
+          "barkod": "8806099191955",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12 Ultra 5G 12GB/256GB sivi",
+          "barkod": "8806099400903",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12 Ultra WiFi 12GB/256GB sivi",
+          "barkod": "8806099397975",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12 Ultra WiFi 12GB/256GB srebrni",
+          "barkod": "8806099397777",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12+ WiFi 12GB/256GB sivi",
+          "barkod": "8806099394493",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12+ WiFi 12GB/256GB srebrni",
+          "barkod": "8806099394455",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6536-101",
+      "stavke": [
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
+          "barkod": "740617348651",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348453",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Lenovo 15,6'' ThinkPad Basic, 4X40K09936",
+          "barkod": "889955303134",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
+          "barkod": "740617326260",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
+          "barkod": "740617326376",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
+          "barkod": "740617348699",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347999",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347944",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
+          "barkod": "4718050609604",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Lenovo 16\" Laptop Legion Recon sivi",
+          "barkod": "195892127697",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Lenovo 16\" Laptop Select Targus crni",
+          "barkod": "195892082460",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac za ASUS laptope, 68W Type-C",
+          "barkod": "4711636433433",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link UE300C USB Type-C na Ethernet adapter, USB 3.0 port, 10/100/1000",
+          "barkod": "1210002617895",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Lenovo Business Casual do 17\"",
+          "barkod": "194552764852",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
+          "barkod": "740617305371",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
+          "barkod": "740617305302",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 103 za L11xx/L12xx/L31xx/L32xx/L51xx/L52xx, 65ml",
+          "barkod": "8715946655840",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Lenovo 17\" Laptop Legion Active crni",
+          "barkod": "0195713403931",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torba za laptop Lenovo ThinkPad Essential Plus 15.6inch Topload",
+          "barkod": "0195235991183",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-031 REVENGE 750x350 Crna",
+          "barkod": "3858894503667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX K-33 HR | Zicna tipkovnica",
+          "barkod": "3858894501816",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Lenovo za prijenosno racunalo 17'' Legion Armored, GX40V10007",
+          "barkod": "193386688891",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler Exodia M 256GB, USB3.2",
+          "barkod": "740617326383",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link TL-MR100 V3 300 Mbps Wireless N 4G LTE Router",
+          "barkod": "6935364088804",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WD Passport 2TB Portable, USB 3.0 Plavi",
+          "barkod": "718037870281",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk ADATA Ex HDD HV620 Slim, 1TB, usb3.1, 1-CBL plavi",
+          "barkod": "4712366966055",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "KINGSTON Canvas Select Plus SD kartica, 64GB, R100MB",
+          "barkod": "740617348255",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk WD My Passport 4TB, Black, USB 3.2 K-WESN",
+          "barkod": "718037869438",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON FD Exodia 256GB USB 3.2",
+          "barkod": "740617310023",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler microDuo 3C 64GB, USB GB 3.2, USB-A+C",
+          "barkod": "740617328219",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 1TB 990 PRO M.2 NVMe PCle 4.0 x4",
+          "barkod": "8806094215021",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 512GB USB 3.2 Black-Yellow",
+          "barkod": "740617348774",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link 4G Mobile Router M7200, 2.4GHz Wi-Fi, 4G modem, LTE+HSPA, SIM kartica, punjiva baterija",
+          "barkod": "6935364082505",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HDD WD Elements Portable 2TB, USB 3.0",
+          "barkod": "718037855363",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HDD WD Elements Portable 4TB, USB 3.0",
+          "barkod": "718037855981",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk WD My Passport 1TB, Black, USB 3.2",
+          "barkod": "718037869469",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Skener Canon LiDE 300",
+          "barkod": "4549292119770",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk WD Elements SE 2TB, Portable 2,5\", USB 3.0 BK",
+          "barkod": "718037859385",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "racunalo HP 27-cv0021ny, D90A6EA",
+          "barkod": "821844548110",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "racunalo HP 27-cv0020ny, D90A5EA",
+          "barkod": "821844548103",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torba za laptop ASUS EOS 2, 15.6\", crno-siva",
+          "barkod": "4718017800303",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-004212 SHINOBI-2 Bijela- -RED.SW Mehanicka / HR- RED SW.",
+          "barkod": "3858894506002",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
+          "barkod": "4713218461933",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis WHITE SHARK KARUTA XL, ESL-MP1, 90x40cm",
+          "barkod": "0616320538897",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link AV500 Nano Powerline Ethernet Adapter Starter Kit Ultra Com",
+          "barkod": "6935364031848",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda MIS BGM-011 NAUTILUS Crni RGB / 12.800 dpi",
+          "barkod": "3858894503582",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark TIPKOVNICA GK-004132 SHINOBI-2 Crna - R-BROWN.SW Mehanicka / HR- BROWN SW.",
+          "barkod": "3858894506071",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za tipkovnicu WHITE SHARK CUMULUS, KP-012, bijela",
+          "barkod": "3858894508143",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-021 WALRUS Crna/narancasta 400x300 L",
+          "barkod": "3858894503650",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MIS SBOX WM-710 Crni Bezicni",
+          "barkod": "3858894506460",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MicroSD kartica Samsung 128 GB T7 microSDXC UHS-I W kartica MB-MB128T/WW",
+          "barkod": "8806097635048",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6537-101",
+      "stavke": [
+        {
+          "naziv": "Mis Logitech M190, crveni",
+          "barkod": "5099206091856",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G502 X PLUS, LIGHTSPEED, LIGHTSYNC RGB, bijeli",
+          "barkod": "5099206096356",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M100, zicani, crni",
+          "barkod": "5099206104242",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G502 X, LIGHTSPEED, crni",
+          "barkod": "5099206096370",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK470 Slim, bezicna, siva",
+          "barkod": "5099206086661",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M185, sivi",
+          "barkod": "5099206027275",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan LOGITECH G G29 + mjenjac",
+          "barkod": "5099206132467",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Logitech G G321 crne",
+          "barkod": "5099206133303",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
+          "barkod": "5099206089235",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M171, plavi",
+          "barkod": "5099206062863",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech BRIO 100 bijela",
+          "barkod": "5099206113275",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech POP Universal, crni",
+          "barkod": "5099206126381",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G309 LIGHTSPEED, crni",
+          "barkod": "5099206117860",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6538-101",
+      "stavke": [
+        {
+          "naziv": "Cetkica za zube OralB PRO Kids 3+ FROZEN+putna torb.",
+          "barkod": "8006540773338",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
+          "barkod": "3474636819713",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
+          "barkod": "3474637116415",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna vaga Huawei Scale 3 Frosty White (Dobby-B19)",
+          "barkod": "6941487283002",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vaga osobna Tefal PP1905V0 Classic 3 Light Blue, 180 kg",
+          "barkod": "3121040095362",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Babyliss D6555DE Air Power Pro",
+          "barkod": "3030050191912",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips X3001/00",
+          "barkod": "8720689018920",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijaci - vikleri za kosu Remington H5600 Ionic",
+          "barkod": "4008496872879",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Susilo za kosu Philips HPS910/00 Prestige Pro",
+          "barkod": "8710103625469",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijaci aparat Philips S7885/50",
+          "barkod": "8720689009041",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/87 Premium Plaque Defence Standard 2/1 White",
+          "barkod": "8720689036917",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube Philips Sonicare nastavak HX6054/87 Sensitive Standard 4/1",
+          "barkod": "8720689036870",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
