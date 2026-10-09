@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T07:25:46.349Z",
-  "azurirano": "2026-10-09T08:18:13.301Z",
+  "azurirano": "2026-10-09T08:18:20.949Z",
   "dokumenti": [
     {
       "naziv": "logista",
@@ -242,7 +242,7 @@
           "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLACK",
           "barkod": "8713439250848",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ACL SLUSALICE TYPE-C ORBIT WHITE",
@@ -272,7 +272,7 @@
           "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLUE",
           "barkod": "8713439250411",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE DRZAC HANDY DRIVE",
