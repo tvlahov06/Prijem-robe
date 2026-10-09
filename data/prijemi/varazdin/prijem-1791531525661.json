@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T07:38:45.661Z",
-  "azurirano": "2026-10-09T07:38:14.597Z",
+  "azurirano": "2026-10-09T07:38:21.110Z",
   "dokumenti": [
     {
       "naziv": "MSI 6553-101",
@@ -323,7 +323,7 @@
           "naziv": "Perilica rublja BOSCH WGB266A4BY",
           "barkod": "4242005545810",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilica rublja Bosch WQB246CNBY",
@@ -395,7 +395,7 @@
           "naziv": "Stednjak Electrolux LKM660022X",
           "barkod": "7333394024950",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrovalna pecnica Gorenje MO17E1WH",
