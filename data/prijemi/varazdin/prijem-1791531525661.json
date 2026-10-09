@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T07:38:45.661Z",
-  "azurirano": "2026-10-09T07:39:27.877Z",
+  "azurirano": "2026-10-09T07:39:33.956Z",
   "dokumenti": [
     {
       "naziv": "MSI 6553-101",
@@ -341,7 +341,7 @@
           "naziv": "Hladnjak kombinirani Hisense RB395N4BFE",
           "barkod": "6921727076717",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hladnjak Side by Side Hisense RS3P538NAIE",
@@ -359,7 +359,7 @@
           "naziv": "Kombinirani hladnjak Beko RDSO206K40WN",
           "barkod": "8690842575297",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hladnjak kombinirani Samsung RB34C652EB1/EK EK",
