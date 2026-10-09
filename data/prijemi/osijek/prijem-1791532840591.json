@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T09:50:19.002Z",
+  "azurirano": "2026-10-09T09:54:33.670Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -203,7 +203,7 @@
           "naziv": "Tablet Samsung Galaxy Tab S12+ WiFi 12GB/256GB sivi",
           "barkod": "8806099394493",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Samsung Galaxy Tab S12+ WiFi 12GB/256GB srebrni",
@@ -226,19 +226,19 @@
           "naziv": "Sat Samsung Galaxy Fit3 sivi",
           "barkod": "8806095362175",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sat Samsung Galaxy Watch9 44mm crni",
           "barkod": "8806099326760",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM crni",
           "barkod": "8806097651000",
           "ocekivano": 5,
-          "skenirano": 2
+          "skenirano": 5
         },
         {
           "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C crni bez kabela",
@@ -250,7 +250,7 @@
           "naziv": "Prozirna maska za Samsung Galaxy Galaxy A57 5G prozirna",
           "barkod": "8806099037727",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 crni 46mm (Atum-B39F)",
@@ -268,7 +268,7 @@
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi",
           "barkod": "8806099028114",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 rozi 41mm (Konsu-B39F)",
@@ -286,7 +286,7 @@
           "naziv": "APPLE DODACI USB-C to Lightning Cable (1m)",
           "barkod": "195949085611",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 10
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Green 46mm (Atum-B19W)",
@@ -298,13 +298,13 @@
           "naziv": "APPLE DODACI 240W USB-C Charge Cable (2 m)",
           "barkod": "195949775390",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "Mobitel Samsung Galaxy A27 5G 6GB/128GB dual SIM svjetloruzicasti",
           "barkod": "8806099353599",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 Pro crni 46mm (Atum-B49F)",
@@ -316,7 +316,7 @@
           "naziv": "Apple 60W USB-C Charge Cable (1m)",
           "barkod": "195949371905",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 10
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 41mm White Leather Strap (Jana-B19L)",
@@ -346,13 +346,13 @@
           "naziv": "Mobitel Apple iPhone 18 Pro 256GB Black",
           "barkod": "195951415666",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 ljubicasti",
           "barkod": "4547410564884",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
@@ -364,7 +364,7 @@
           "naziv": "Mobitel Apple iPhone 17 256GB Black",
           "barkod": "195950643534",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Insta360 X6 Essentials Bundle Midnight Black",
@@ -394,7 +394,7 @@
           "naziv": "Mobitel Apple iPhone 17 256GB Lavender",
           "barkod": "195950644135",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 plavi 46mm (Atum-B39FC)",
@@ -418,7 +418,7 @@
           "naziv": "Apple Watch Series 12 GPS 42mm Light Gold Aluminium Case with Sand Sport Band - S/M",
           "barkod": "195951225869",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni Outdoor sat Garmin Fenix 8 51 mm AMOLED slate gray, black remen",
@@ -442,7 +442,7 @@
           "naziv": "Apple AirTag (2. generacije), pakiranje 4 kom",
           "barkod": "195950667523",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Apple iPhone 16 128GB White",
@@ -460,19 +460,19 @@
           "naziv": "Dodatni tekstilni remen 20mm M/L za Samsung Galaxy U Watch9 plavi",
           "barkod": "8806099330057",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 256GB - Yellow",
           "barkod": "195950087550",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Gimbal DJI Osmo Mobile 7",
           "barkod": "6941565997586",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
