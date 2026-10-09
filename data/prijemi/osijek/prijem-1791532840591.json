@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T12:05:07.019Z",
+  "azurirano": "2026-10-09T12:05:17.292Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -383,7 +383,7 @@
           "naziv": "Skener Canon LiDE 300",
           "barkod": "4549292119770",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 64GB, USB3.2 BE",
