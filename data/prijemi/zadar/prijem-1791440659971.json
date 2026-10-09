@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T06:24:19.971Z",
-  "azurirano": "2026-10-09T07:43:42.506Z",
+  "azurirano": "2026-10-09T07:43:49.106Z",
   "dokumenti": [
     {
       "naziv": "MSI 6457-101",
@@ -370,7 +370,7 @@
           "naziv": "Mis Lenovo Mouse, 4Y50R20863",
           "barkod": "192330828895",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ADATA C906, 32GB, USB 2.0 plavi",
