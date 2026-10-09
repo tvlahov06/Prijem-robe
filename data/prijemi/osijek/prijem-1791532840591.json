@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T12:30:01.728Z",
+  "azurirano": "2026-10-09T12:30:08.285Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -143,7 +143,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
           "barkod": "4718050609642",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
@@ -203,7 +203,7 @@
           "naziv": "USB STICK KINGSTON FD Exodia 128GB USB 3.2",
           "barkod": "740617309928",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
