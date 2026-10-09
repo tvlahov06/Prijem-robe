@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T07:38:45.661Z",
-  "azurirano": "2026-10-09T08:28:03.702Z",
+  "azurirano": "2026-10-09T08:29:30.568Z",
   "dokumenti": [
     {
       "naziv": "MSI 6553-101",
@@ -420,47 +420,6 @@
           "barkod": "3838782753442",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6462-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac Dyson V15 Detect Absolute",
-          "barkod": "5025155136201",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Cetka za oblikovanje kose Dyson Airsmooth (493078) Ceramic Pink/Rose Gold",
-          "barkod": "5025155140376",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac Dyson V8 Total Clean",
-          "barkod": "5025155080306",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac Dyson V15s Detect Submarine",
-          "barkod": "5025155136218",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB907CP 900W",
-          "barkod": "8006447000087",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NB606R 600W",
-          "barkod": "8006447001190",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
