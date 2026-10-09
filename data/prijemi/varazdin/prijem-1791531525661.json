@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T07:38:45.661Z",
-  "azurirano": "2026-10-09T08:23:43.864Z",
+  "azurirano": "2026-10-09T08:23:50.009Z",
   "dokumenti": [
     {
       "naziv": "MSI 6553-101",
@@ -566,7 +566,7 @@
           "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
           "barkod": "740617347999",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
@@ -692,7 +692,7 @@
           "naziv": "ADATA UV320, 32GB, USB3.2 bijelo-zeleni WHGN",
           "barkod": "4713218462817",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk WD Elements SE 2TB, Portable 2,5\", USB 3.0 BK",
