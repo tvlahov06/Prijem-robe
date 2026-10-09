@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T07:38:45.661Z",
-  "azurirano": "2026-10-09T08:25:50.042Z",
+  "azurirano": "2026-10-09T08:25:58.699Z",
   "dokumenti": [
     {
       "naziv": "MSI 6553-101",
@@ -662,7 +662,7 @@
           "naziv": "Mis Lenovo Mouse, 4Y50R20863",
           "barkod": "192330828895",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk ADATA Ex HDD HD330, 1TB, usb3.2, plavi -CBL",
