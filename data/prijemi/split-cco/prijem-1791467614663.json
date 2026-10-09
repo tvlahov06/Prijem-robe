@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T13:53:34.663Z",
-  "azurirano": "2026-10-09T06:00:14.460Z",
+  "azurirano": "2026-10-09T06:00:19.955Z",
   "dokumenti": [
     {
       "naziv": "MSI 6493-101",
@@ -1124,7 +1124,7 @@
           "naziv": "Cetkica za zube OralB PRO Kids 3+ FROZEN+putna torb.",
           "barkod": "8006540773338",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
@@ -1184,13 +1184,13 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/87 Premium Plaque Defence Standard 2/1 White",
           "barkod": "8720689036917",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6054/87 Sensitive Standard 4/1",
           "barkod": "8720689036870",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
