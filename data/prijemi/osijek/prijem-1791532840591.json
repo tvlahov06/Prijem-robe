@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T11:42:02.577Z",
+  "azurirano": "2026-10-09T11:42:21.449Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -596,7 +596,7 @@
           "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
           "barkod": "8806097984795",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
@@ -608,7 +608,7 @@
           "naziv": "Apple AirPods 5",
           "barkod": "195951379036",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Projektor Acer AOpen QF23s MR.JXC11.002, FHD LCD, 250 ANSI",
@@ -632,7 +632,7 @@
           "naziv": "Apple AirPods 5 with Wireless Charging Case",
           "barkod": "195951378718",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP HyperX Cloud III S Wireless Headset Black",
