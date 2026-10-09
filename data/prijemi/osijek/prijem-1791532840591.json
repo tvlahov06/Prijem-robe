@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T09:24:37.737Z",
+  "azurirano": "2026-10-09T09:26:30.259Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -1347,7 +1347,7 @@
           "naziv": "Pecnica ugradbena Gorenje BPS6747A06BG",
           "barkod": "3838782477942",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena Hisense HI4A8647DG",
@@ -1377,7 +1377,7 @@
           "naziv": "Susilica rublja Hisense DH3S802BW2",
           "barkod": "6901101829634",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
