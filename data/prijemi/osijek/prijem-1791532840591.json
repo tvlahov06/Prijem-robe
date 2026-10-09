@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T12:22:22.781Z",
+  "azurirano": "2026-10-09T12:22:41.666Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -401,7 +401,7 @@
           "naziv": "Tipkovnica HyperX Eve 1800",
           "barkod": "198990307855",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk WD My Passport 5TB, Black, USB 3.2 K-WESN",
