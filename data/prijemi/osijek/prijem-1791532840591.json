@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T12:03:03.439Z",
+  "azurirano": "2026-10-09T12:03:15.075Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -626,7 +626,7 @@
           "naziv": "8208 DVB-T2 HEVC Strong SRT 8208",
           "barkod": "9120072373152",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple AirPods 5 with Wireless Charging Case",
