@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T08:40:15.347Z",
+  "azurirano": "2026-10-09T08:41:32.125Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -895,13 +895,13 @@
           "naziv": "Laptop ACER Aspire Lite 14 NX.DPREX.003, 35.6 cm (14.0\") IPS WUXGA, AMD Ryzen 3 5400U, 8 GB RAM, 256",
           "barkod": "4711721083550",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15 NX.DLPEX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
           "barkod": "4711474830203",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO LOQ Essential 83S000A7SC, 39.6cm (15.6\") IPS Full HD 144Hz, AMD Ryzen 5 150, 16 GB RAM,",
@@ -925,7 +925,7 @@
           "naziv": "Laptop Lenovo V15 G5, 83HF00CSSC, 39.6cm (15.6\") IPS FHD, Intel Core i5-13420H, 16GB RAM, 1TB SSD NVMe,",
           "barkod": "0199272463290",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Flex 5 82XX00HGSC, 35.6cm (14\") IPS WUXGA Touch, AMD Ryzen 5 5625U, 16 GB RAM,",
