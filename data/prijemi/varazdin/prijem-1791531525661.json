@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T07:38:45.661Z",
-  "azurirano": "2026-10-09T08:20:42.820Z",
+  "azurirano": "2026-10-09T08:20:46.701Z",
   "dokumenti": [
     {
       "naziv": "MSI 6553-101",
@@ -632,7 +632,7 @@
           "naziv": "Torba za laptop Lenovo ThinkPad Essential Plus 15.6inch Topload",
           "barkod": "0195235991183",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Ruksak Lenovo za prijenosno racunalo 17'' Legion Armored, GX40V10007",
@@ -782,7 +782,7 @@
           "naziv": "TORBA SBOX NSS-88123 HONG KONG 17,3\"",
           "barkod": "616320530983",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TX20U TP-LinkArcher TX20U Plus, AX1800 High Gain Wi-Fi 6 Plus",
