@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T13:53:34.663Z",
-  "azurirano": "2026-10-09T06:10:35.047Z",
+  "azurirano": "2026-10-09T06:10:41.355Z",
   "dokumenti": [
     {
       "naziv": "MSI 6493-101",
@@ -534,13 +534,13 @@
           "naziv": "Slusalice Sony bezicne WH-CH530/G",
           "barkod": "4548736181489",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony bezicne WH-CH530/W",
           "barkod": "4548736181281",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony",
