@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T12:29:01.691Z",
+  "azurirano": "2026-10-09T12:29:04.450Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -287,7 +287,7 @@
           "naziv": "HDD EXT AD HV300 USB 3.2 Crni -CBK",
           "barkod": "4713218464972",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link TL-MR100 V3 300 Mbps Wireless N 4G LTE Router",
