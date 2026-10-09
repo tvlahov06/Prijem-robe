@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T13:53:34.663Z",
-  "azurirano": "2026-10-09T06:13:34.904Z",
+  "azurirano": "2026-10-09T06:13:42.946Z",
   "dokumenti": [
     {
       "naziv": "MSI 6493-101",
@@ -707,7 +707,7 @@
           "naziv": "Tablet Samsung Galaxy Tab S12 Ultra WiFi 12GB/256GB srebrni",
           "barkod": "8806099397777",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tablet Samsung Galaxy Tab S12+ WiFi 12GB/256GB sivi",
@@ -719,7 +719,7 @@
           "naziv": "Tablet Samsung Galaxy Tab S12+ WiFi 12GB/256GB srebrni",
           "barkod": "8806099394455",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
