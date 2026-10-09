@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T06:17:00.162Z",
-  "azurirano": "2026-10-09T07:52:17.853Z",
+  "azurirano": "2026-10-09T07:52:22.928Z",
   "dokumenti": [
     {
       "naziv": "MSI 6514-101",
@@ -372,13 +372,13 @@
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, plavi",
           "barkod": "5099206089211",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Logitech, gaming G733, bijele",
           "barkod": "5099206089532",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Podloga za mis Logitech Studio, crna",
@@ -396,7 +396,7 @@
           "naziv": "Mis LOGITECH MX Master 3S \"SE\" grafit",
           "barkod": "5099206129382",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M190, crni",
