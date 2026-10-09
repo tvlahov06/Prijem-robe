@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T07:38:45.661Z",
-  "azurirano": "2026-10-09T08:27:33.818Z",
+  "azurirano": "2026-10-09T08:27:42.166Z",
   "dokumenti": [
     {
       "naziv": "MSI 6553-101",
@@ -716,7 +716,7 @@
           "naziv": "Tinta HP 650 CZ102AE Tri-color Ink Cartridge",
           "barkod": "886112546052",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Baracuda MIS BGM-011 NAUTILUS Crni RGB / 12.800 dpi",
