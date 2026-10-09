@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T06:17:00.162Z",
-  "azurirano": "2026-10-09T07:58:51.849Z",
+  "azurirano": "2026-10-09T07:59:18.266Z",
   "dokumenti": [
     {
       "naziv": "MSI 6514-101",
@@ -586,7 +586,7 @@
           "naziv": "Odvlazivac zraka Hisense D16CW",
           "barkod": "3838782695469",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Odvlazivac zraka BOSCH Dry 4000",
