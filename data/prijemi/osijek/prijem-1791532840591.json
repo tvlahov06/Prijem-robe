@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T12:22:58.944Z",
+  "azurirano": "2026-10-09T12:23:03.820Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -353,7 +353,7 @@
           "naziv": "SSD Samsung 1TB 990 EVO Plus NVMe M.2",
           "barkod": "8806095575674",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link bezicni N USB Nano Adapter TL-WN725N, 150Mbps (2.4GHz), 802.11n/g/b",
