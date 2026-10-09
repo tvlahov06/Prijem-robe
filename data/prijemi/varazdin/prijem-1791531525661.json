@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T07:38:45.661Z",
-  "azurirano": "2026-10-09T08:30:25.038Z",
+  "azurirano": "2026-10-09T08:30:32.345Z",
   "dokumenti": [
     {
       "naziv": "MSI 6553-101",
@@ -14,7 +14,7 @@
           "naziv": "Brijac za glavu Philips HS7980/15",
           "barkod": "8720689044257",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijaci - vikleri za kosu Remington H9100 Proluxe",
@@ -26,7 +26,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6552/15 Face & Body",
           "barkod": "8720689027199",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
