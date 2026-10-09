@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T13:53:34.663Z",
-  "azurirano": "2026-10-09T06:02:55.881Z",
+  "azurirano": "2026-10-09T06:02:59.500Z",
   "dokumenti": [
     {
       "naziv": "MSI 6493-101",
@@ -940,7 +940,7 @@
           "naziv": "Eksterni disk WD My Passport 1TB, Black, USB 3.2",
           "barkod": "718037869469",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Skener Canon LiDE 300",
