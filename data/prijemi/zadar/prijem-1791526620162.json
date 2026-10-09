@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T06:17:00.162Z",
-  "azurirano": "2026-10-09T07:58:40.709Z",
+  "azurirano": "2026-10-09T07:58:51.849Z",
   "dokumenti": [
     {
       "naziv": "MSI 6514-101",
@@ -580,7 +580,7 @@
           "naziv": "Odvlazivac zraka Philips DE3306/11",
           "barkod": "8720389057618",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Odvlazivac zraka Hisense D16CW",
@@ -604,7 +604,7 @@
           "naziv": "Odvlazivac zraka BOSCH Dry 2000",
           "barkod": "4069143047767",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
