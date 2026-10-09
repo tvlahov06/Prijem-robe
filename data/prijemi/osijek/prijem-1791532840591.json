@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T08:41:34.872Z",
+  "azurirano": "2026-10-09T08:42:45.766Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -907,19 +907,19 @@
           "naziv": "Laptop LENOVO LOQ Essential 83S000A7SC, 39.6cm (15.6\") IPS Full HD 144Hz, AMD Ryzen 5 150, 16 GB RAM,",
           "barkod": "199274270841",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA5337W Ryzen 5 F90 40, 16GB, SSD 512GB, 156\" FHD, Radeon Graphics,",
           "barkod": "4711636496544",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS TUF Gaming A16 FA608UHI-TU126, 16\" AZ0 WUXGA 144 Hz, AMD Ryzen 7 260, 16 GB RAM, 512 GB",
           "barkod": "4711636513548",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop Lenovo V15 G5, 83HF00CSSC, 39.6cm (15.6\") IPS FHD, Intel Core i5-13420H, 16GB RAM, 1TB SSD NVMe,",
@@ -931,31 +931,31 @@
           "naziv": "Laptop LENOVO IdeaPad Flex 5 82XX00HGSC, 35.6cm (14\") IPS WUXGA Touch, AMD Ryzen 5 5625U, 16 GB RAM,",
           "barkod": "198158565332",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS TUF Gaming A16 FA608UP-RV018, 40.6cm 2J0 (16\") IPS WUXGA 165Hz, AMD Ryzen 7 260, 16 GB RAM, 1",
           "barkod": "4711636527071",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Extensa 15, NX.EKUEX.001, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 512 GB",
           "barkod": "4711721054949",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop Lenovo V15 G5 IRL, 83HF00GUSC, 39.6cm (15.6\") IPS FHD, Intel Core i5-13420H, 32GB RAM, 1TB SSD NVMe,",
           "barkod": "0199274070816",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor ACER EK241YGBI 23.8inch FHD ZeroFrame IPS 120Hz 16:9 1ms 250nits VGA HDMI FreeSync EU Black",
           "barkod": "4711474107800",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "DELL 27\" monitor SE2726H, IPS Full HD, 144Hz, 4ms, ComfortView Plus, AMD FreeSync, 2x HDMI",
@@ -967,13 +967,13 @@
           "naziv": "Monitor 27\" Samsung Odyssey OLED G5 G50SF, EN LS27FG502SUXEN, OLED, QHD, 180Hz",
           "barkod": "8806097684046",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 27\" Lenovo LOQ 27-10, IPS, FHD, 200Hz, HDR10",
           "barkod": "199273710829",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
