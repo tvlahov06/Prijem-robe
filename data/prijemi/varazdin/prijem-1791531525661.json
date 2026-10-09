@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T07:38:45.661Z",
-  "azurirano": "2026-10-09T08:23:29.907Z",
+  "azurirano": "2026-10-09T08:23:37.845Z",
   "dokumenti": [
     {
       "naziv": "MSI 6553-101",
@@ -542,7 +542,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
           "barkod": "740617348651",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
@@ -608,7 +608,7 @@
           "naziv": "USB STICK Kingston FD DT70/64GB-USB-C Flash Drive",
           "barkod": "740617305302",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
