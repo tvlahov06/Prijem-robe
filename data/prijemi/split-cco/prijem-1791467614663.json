@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T13:53:34.663Z",
-  "azurirano": "2026-10-09T06:06:40.923Z",
+  "azurirano": "2026-10-09T06:06:49.528Z",
   "dokumenti": [
     {
       "naziv": "MSI 6493-101",
@@ -1047,7 +1047,7 @@
           "naziv": "Mis Logitech G502 X PLUS, LIGHTSPEED, LIGHTSYNC RGB, bijeli",
           "barkod": "5099206096356",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M100, zicani, crni",
@@ -1095,7 +1095,7 @@
           "naziv": "Mis Logitech M171, plavi",
           "barkod": "5099206062863",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Web kamera Logitech BRIO 100 bijela",
@@ -1113,7 +1113,7 @@
           "naziv": "Mis Logitech G309 LIGHTSPEED, crni",
           "barkod": "5099206117860",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
