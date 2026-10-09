@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T13:53:34.663Z",
-  "azurirano": "2026-10-09T06:03:50.655Z",
+  "azurirano": "2026-10-09T06:03:53.300Z",
   "dokumenti": [
     {
       "naziv": "MSI 6493-101",
@@ -946,7 +946,7 @@
           "naziv": "Skener Canon LiDE 300",
           "barkod": "4549292119770",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk WD Elements SE 2TB, Portable 2,5\", USB 3.0 BK",
