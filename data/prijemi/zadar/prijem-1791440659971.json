@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T06:24:19.971Z",
-  "azurirano": "2026-10-09T07:44:34.425Z",
+  "azurirano": "2026-10-09T07:45:57.952Z",
   "dokumenti": [
     {
       "naziv": "MSI 6457-101",
@@ -841,7 +841,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
           "barkod": "8720689027137",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
@@ -883,7 +883,7 @@
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
           "barkod": "8710103932482",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Babyliss D6555DE Air Power Pro",
@@ -913,7 +913,7 @@
           "naziv": "Sisac za kosu Philips HC5722/15",
           "barkod": "8720689057592",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX8513/11 DiamondClean",
@@ -931,7 +931,7 @@
           "naziv": "IPL depilator Philips BRI973/00 Lumea",
           "barkod": "8720689005708",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
