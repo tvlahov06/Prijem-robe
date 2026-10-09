@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T08:40:04.609Z",
+  "azurirano": "2026-10-09T08:40:15.347Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -1388,7 +1388,7 @@
           "naziv": "Prociscivac zraka BOSCH Air 1000",
           "barkod": "4069143104583",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Odvlazivac zraka Hisense D16CW",
@@ -1400,7 +1400,7 @@
           "naziv": "Prociscivac zraka BOSCH Air 2000i",
           "barkod": "4062321912734",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Ovlazivac zraka Gorenje H45W",
