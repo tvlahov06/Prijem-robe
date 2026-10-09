@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T11:49:39.793Z",
+  "azurirano": "2026-10-09T11:49:47.874Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -781,7 +781,7 @@
           "naziv": "Sisac za tijelo 20U1 Philips MG9557/15",
           "barkod": "8720689045094",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Philips BHS956/00 Aqua Edition Straightener",
@@ -841,7 +841,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX3792/11 Sonicare series 6800 Black",
           "barkod": "8720689046916",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX8596/21 DiamondClean",
