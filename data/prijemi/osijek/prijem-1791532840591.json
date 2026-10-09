@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T08:00:40.591Z",
-  "azurirano": "2026-10-09T10:06:26.914Z",
+  "azurirano": "2026-10-09T10:06:43.513Z",
   "dokumenti": [
     {
       "naziv": "MSI 6477-101",
@@ -83,131 +83,6 @@
         {
           "naziv": "Susilica rublja GORENJE DG49CP",
           "barkod": "3838783090720",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6496-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
-          "barkod": "8806097827177",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB crni",
-          "barkod": "8806097827467",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB nebesko plavi",
-          "barkod": "8806097827610",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB kobalt ljubicasti",
-          "barkod": "8806097827078",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S26 5G 12/512GB crni",
-          "barkod": "8806097827405",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Book Cover s tipkovnicom slim za Tab S12+ crni",
-          "barkod": "8806099419325",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB nebesko plavi",
-          "barkod": "8806097826781",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 16/1TB crni",
-          "barkod": "8806097827122",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S26+ 5G 12/256GB crni",
-          "barkod": "8806097828358",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Fold8 5G 12GB/512GB grafitno crni",
-          "barkod": "8806099348731",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB grafitno crni",
-          "barkod": "8806099186517",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Book Cover s tipkovnicom za Samsung Galaxy Tab S11 Ultra crni",
-          "barkod": "8806097734932",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sat Samsung Galaxy Watch9 40mm bez",
-          "barkod": "8806099324841",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB rozi",
-          "barkod": "8806099191993",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy Z Fold8 5G 12GB/256GB grafitno crni",
-          "barkod": "8806099348830",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tablet Samsung Galaxy Tab S12 Ultra 5G 12GB/256GB sivi",
-          "barkod": "8806099400903",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tablet Samsung Galaxy Tab S12 Ultra WiFi 12GB/256GB sivi",
-          "barkod": "8806099397975",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tablet Samsung Galaxy Tab S12 Ultra WiFi 12GB/256GB srebrni",
-          "barkod": "8806099397777",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tablet Samsung Galaxy Tab S12+ WiFi 12GB/256GB sivi",
-          "barkod": "8806099394493",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tablet Samsung Galaxy Tab S12+ WiFi 12GB/256GB srebrni",
-          "barkod": "8806099394455",
           "ocekivano": 1,
           "skenirano": 1
         }
