@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T13:53:34.663Z",
-  "azurirano": "2026-10-09T06:02:11.731Z",
+  "azurirano": "2026-10-09T06:02:17.171Z",
   "dokumenti": [
     {
       "naziv": "MSI 6493-101",
@@ -748,7 +748,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
           "barkod": "740617326260",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
@@ -1030,7 +1030,7 @@
           "naziv": "MicroSD kartica Samsung 128 GB T7 microSDXC UHS-I W kartica MB-MB128T/WW",
           "barkod": "8806097635048",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
