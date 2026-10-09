@@ -5,7 +5,7 @@
   "datum": "2026-10-09",
   "status": "aktivan",
   "kreirano": "2026-10-09T06:17:00.162Z",
-  "azurirano": "2026-10-09T09:00:40.341Z",
+  "azurirano": "2026-10-09T09:01:11.864Z",
   "dokumenti": [
     {
       "naziv": "MSI 6514-101",
@@ -395,119 +395,6 @@
         {
           "naziv": "Odvlazivac zraka BOSCH Dry 2000",
           "barkod": "4069143047767",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6532-101",
-      "stavke": [
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
-          "barkod": "6942103101359",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Apple AirPods 5",
-          "barkod": "195951379036",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Projektor Acer AOpen QF23s MR.JXC11.002, FHD LCD, 250 ANSI",
-          "barkod": "4711474140623",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE4 ANC crne (Fuji-T010)",
-          "barkod": "6942103165450",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice Razer Blackshark V2 X, 7.1 surround, black 0-R3M1",
-          "barkod": "8886419378396",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE 3 Black (ULC-CT020)",
-          "barkod": "6942103140112",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "V-200 TV nosac BOF TVM V-200",
-          "barkod": "2010030072647",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C510/W",
-          "barkod": "4548736161481",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice Sony bezicne WH-CH530/B",
-          "barkod": "4548736179677",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C510/Y",
-          "barkod": "4548736161788",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Slusalice Sony",
-          "barkod": "4548736170599",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony",
-          "barkod": "4548736170544",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
-          "barkod": "4548736161436",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke E7 WH-CH730N/C",
-          "barkod": "4548736181779",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony bezicne WH-CH530/P",
-          "barkod": "4548736181434",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/B",
-          "barkod": "4548736157088",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-1000XM6/L",
-          "barkod": "4548736162716",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke .CE7 WH-1000XM4C/B ljubicasta",
-          "barkod": "4548736181908",
           "ocekivano": 1,
           "skenirano": 1
         }
