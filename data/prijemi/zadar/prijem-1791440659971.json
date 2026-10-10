@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T06:24:19.971Z",
-  "azurirano": "2026-10-09T07:45:57.952Z",
+  "azurirano": "2026-10-10T06:13:34.177Z",
   "dokumenti": [
     {
       "naziv": "MSI 6457-101",
@@ -932,59 +932,6 @@
           "barkod": "8720689005708",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6500-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac Dyson V15 Detect Absolute",
-          "barkod": "5025155136201",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Cetka za oblikovanje kose Dyson Airsmooth (493078) Ceramic Pink/Rose Gold",
-          "barkod": "5025155140376",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Dyson V16 Piston Animal",
-          "barkod": "5025155114834",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
-          "barkod": "5025155117187",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Dyson V10 Konical Moulded Vinca/Black",
-          "barkod": "5025155125878",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac Dyson V12s Detect Slim Submarine",
-          "barkod": "5025155131992",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB907CP 900W",
-          "barkod": "8006447000087",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB606R 600W",
-          "barkod": "8006447001190",
-          "ocekivano": 3,
-          "skenirano": 0
         }
       ]
     }
