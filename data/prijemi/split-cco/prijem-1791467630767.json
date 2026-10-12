@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T13:53:50.767Z",
-  "azurirano": "2026-10-12T06:24:57.489Z",
+  "azurirano": "2026-10-12T06:25:08.875Z",
   "dokumenti": [
     {
       "naziv": "Garmin",
@@ -337,13 +337,13 @@
           "naziv": "CELLULARLINE KABEL MFI 60CM",
           "barkod": "8018080268830",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
           "barkod": "8018080373633",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
