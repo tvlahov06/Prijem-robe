@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T13:53:50.767Z",
-  "azurirano": "2026-10-12T06:17:26.835Z",
+  "azurirano": "2026-10-12T06:17:36.108Z",
   "dokumenti": [
     {
       "naziv": "Garmin",
@@ -140,7 +140,7 @@
           "naziv": "Remen GARMIN Ultrafit 2 22mm Granite Blue najlonski 010-13306-13",
           "barkod": "753759334963",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Remen GARMIN Ultrafit 2 22mm Moss najlonski 010-13306-14",
@@ -182,7 +182,7 @@
           "naziv": "Remen GARMIN za Fenix 8 22mm Graphite 010-13392-07",
           "barkod": "753759342128",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Remen GARMIN za Fenix 8 22mm Graphite/Spark Orange 010-13392-05",
@@ -212,13 +212,13 @@
           "naziv": "Remen GARMIN za Fenix 8 26mm Graphite 010-13393-07",
           "barkod": "753759339074",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Remen GARMIN za Fenix 8 26mm Spark Orange/Graphite 010-13393-01",
           "barkod": "753759339012",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
