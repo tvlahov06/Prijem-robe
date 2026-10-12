@@ -5,7 +5,7 @@
   "datum": "2026-10-08",
   "status": "aktivan",
   "kreirano": "2026-10-08T13:53:50.767Z",
-  "azurirano": "2026-10-12T06:14:59.835Z",
+  "azurirano": "2026-10-12T06:15:04.237Z",
   "dokumenti": [
     {
       "naziv": "Garmin",
@@ -26,7 +26,7 @@
           "naziv": "Fitness Garmin Vivoactive 6 Pink Dawn/P. Dawn Metallic",
           "barkod": "753759342838",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Fitness Garmin Vivosmart 5 narukvica Crna L",
@@ -122,7 +122,7 @@
           "naziv": "Pametni sportski sat Garmin Forerunner 165 Black/Slate Gray",
           "barkod": "753759326593",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Pribor Garmin kabel za napajanje/prijenos podataka za Fenix 1m",
