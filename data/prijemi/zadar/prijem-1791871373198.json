@@ -5,7 +5,7 @@
   "datum": "2026-10-13",
   "status": "aktivan",
   "kreirano": "2026-10-13T06:02:53.198Z",
-  "azurirano": "2026-10-13T06:56:44.488Z",
+  "azurirano": "2026-10-13T06:56:53.554Z",
   "dokumenti": [
     {
       "naziv": "MSI 6500-101",
@@ -207,7 +207,7 @@
           "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
           "barkod": "5901292530242",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 40A5S 2026, 101,6 cm (40\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
@@ -243,13 +243,13 @@
           "naziv": "TV SAMSUNG QE55QN85FAUXXH, 139.7cm (55\"), Neo XH QLED Mini LED, 4K UHD Smart TV, Tizen OS",
           "barkod": "8806097051589",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor LG 55QNED70B3C 2026, 139,7 cm (55\"), QNED, AEU 4K UHD, Smart TV, webOS",
           "barkod": "8806096713457",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     }
