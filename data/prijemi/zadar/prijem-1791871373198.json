@@ -5,7 +5,7 @@
   "datum": "2026-10-13",
   "status": "aktivan",
   "kreirano": "2026-10-13T06:02:53.198Z",
-  "azurirano": "2026-10-13T07:02:04.307Z",
+  "azurirano": "2026-10-13T07:02:10.451Z",
   "dokumenti": [
     {
       "naziv": "MSI 6500-101",
@@ -178,7 +178,7 @@
           "naziv": "Epson EcoTank L3350 MFP Inkjet pisac",
           "barkod": "8715946741253",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet M140w MFP",
