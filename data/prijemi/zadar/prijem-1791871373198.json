@@ -5,7 +5,7 @@
   "datum": "2026-10-13",
   "status": "aktivan",
   "kreirano": "2026-10-13T06:02:53.198Z",
-  "azurirano": "2026-10-13T07:02:19.024Z",
+  "azurirano": "2026-10-13T08:35:18.481Z",
   "dokumenti": [
     {
       "naziv": "MSI 6500-101",
@@ -191,65 +191,6 @@
           "barkod": "0194850664267",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6578-101",
-      "stavke": [
-        {
-          "naziv": "Televizor HISENSE 32A5S 2026, 81,3 cm (32\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
-          "barkod": "6942351429441",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
-          "barkod": "5901292530242",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor HISENSE 40A5S 2026, 101,6 cm (40\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
-          "barkod": "6942351429632",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "PRO Televizor HISENSE 43E7S PRO 2026, 109,2 cm (43\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
-          "barkod": "6942351432410",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Televizor HISENSE 43A6S 2026, 109,2 cm (43\"), DLED, 4K UHD, Smart TV, VIDAA OS",
-          "barkod": "6942351430102",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Televizor HISENSE 55E7S 2026, 139,7 cm (55\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
-          "barkod": "6942351431352",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor SAMSUNG QE55QN80HAUXXH 2026, 139 cm XXH (55\"), Neo QLED, 4K UHD, Smart TV, Tizen OS",
-          "barkod": "8806097943068",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV SAMSUNG QE55QN85FAUXXH, 139.7cm (55\"), Neo XH QLED Mini LED, 4K UHD Smart TV, Tizen OS",
-          "barkod": "8806097051589",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Televizor LG 55QNED70B3C 2026, 139,7 cm (55\"), QNED, AEU 4K UHD, Smart TV, webOS",
-          "barkod": "8806096713457",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     }
