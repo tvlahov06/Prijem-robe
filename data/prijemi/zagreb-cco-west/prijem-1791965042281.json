@@ -5,7 +5,7 @@
   "datum": "2026-10-14",
   "status": "aktivan",
   "kreirano": "2026-10-14T08:04:02.281Z",
-  "azurirano": "2026-10-14T08:05:31.755Z",
+  "azurirano": "2026-10-14T08:05:41.743Z",
   "dokumenti": [
     {
       "naziv": "mobis_1410",
@@ -20,13 +20,13 @@
           "naziv": "Mobitel XIAOMI 17T PRO 12GB/512GB ljubicasti",
           "barkod": "6932554469559",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel XIAOMI Redmi Note 17 5G 6GB/256GB Celestial Purple",
           "barkod": "6939093021439",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel XIAOMI Redmi Note 17 6GB/256GB Celestial Purple",
@@ -38,7 +38,7 @@
           "naziv": "Mobitel XIAOMI Redmi Note 17 PRO 5G 6GB/256GB Celestial Purple",
           "barkod": "6939093009383",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Tablet Xiaomi Pad 8 8/256 sivi",
