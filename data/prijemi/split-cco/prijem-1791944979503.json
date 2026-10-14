@@ -5,7 +5,7 @@
   "datum": "2026-10-14",
   "status": "aktivan",
   "kreirano": "2026-10-14T02:29:39.503Z",
-  "azurirano": "2026-10-14T07:12:48.062Z",
+  "azurirano": "2026-10-14T07:14:16.190Z",
   "dokumenti": [
     {
       "naziv": "MSI 6566-101",
@@ -232,7 +232,7 @@
           "naziv": "Mikrovalna pecnica Gorenje MO20A3BH",
           "barkod": "3838782667336",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrovalna pecnica Hisense H23MOBS4HI",
@@ -250,7 +250,7 @@
           "naziv": "Mikrovalna ugradbena, grill Gorenje BM251SG2BG",
           "barkod": "3838782498923",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ugradbena mikrovalna pecnica Hisense BIM334G64DBG",
@@ -280,7 +280,7 @@
           "naziv": "Hladnjak kombinirani Gorenje NRK6192AS4",
           "barkod": "3838782421563",
           "ocekivano": 1,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Hladnjak Side by side Samsung RS70F64KETEO",
