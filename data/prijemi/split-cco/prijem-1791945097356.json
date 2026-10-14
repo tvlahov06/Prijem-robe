@@ -1,0 +1,326 @@
+{
+  "id": "prijem-1791945097356",
+  "poslovnica": "split-cco",
+  "naziv": "Komisija u dolasku",
+  "datum": "2026-10-14",
+  "status": "aktivan",
+  "kreirano": "2026-10-14T02:31:37.356Z",
+  "azurirano": "2026-10-14T02:31:37.356Z",
+  "dokumenti": [
+    {
+      "naziv": "Mobis 1",
+      "stavke": [
+        {
+          "naziv": "Mobitel XIAOMI 17T 12GB/512GB plavi",
+          "barkod": "6932554448141",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI 17T PRO 12GB/512GB ljubicasti",
+          "barkod": "6932554469559",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi Redmi 17 4GB/128GB Oak Green",
+          "barkod": "6939093018330",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 4GB/128GB Sky Teal",
+          "barkod": "6939093006719",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 5G 6GB/256GB Celestial Purple",
+          "barkod": "6939093021439",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 5G 6GB/256GB Sky Teal",
+          "barkod": "6939093021453",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 6GB/256GB Celestial Purple",
+          "barkod": "6939093003718",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 Pro 5G 6GB/256GB Black",
+          "barkod": "6939093009963",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 PRO 5G 6GB/256GB Celestial Purple",
+          "barkod": "6939093009383",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Xiaomi Pad 8 8/256 zeleni",
+          "barkod": "6932554473136",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet XIAOMI Redmi Pad 2, 9,7\", 4GB/128GB, srebrni",
+          "barkod": "6932554410650",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet XIAOMI Redmi Pad 2, 9,7\", 4GB/64GB, srebrni",
+          "barkod": "6932554449636",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Mobis 2",
+      "stavke": [
+        {
+          "naziv": "Kabel Xiaomi 3A Braided USB-C to USB-C (1m)",
+          "barkod": "6932554444013",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel Xiaomi 3A USB-A to USB-C (1m)",
+          "barkod": "6932554443979",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Lokator Xiaomi Tag 1 pack",
+          "barkod": "6932554480790",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna kamera XIAOMI C100",
+          "barkod": "6932554429775",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna kamera XIAOMI C500",
+          "barkod": "6932554446871",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna kamera XIAOMI C701",
+          "barkod": "6932554432454",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna uticnica Xiaomi Smart plug WI-FI EU",
+          "barkod": "6941812706626",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Powerbank Xiaomi  212W  25000mAh USB-A x1, USB-C x2",
+          "barkod": "6932554418410",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija XIAOMI 10000 mAh, 67W, s integriranim kabelom, Ice Blue",
+          "barkod": "6932554471149",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija XIAOMI 10000 mAh, 67W, s integriranim kabelom, Tan",
+          "barkod": "6932554471132",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Xiaomi 120W Charging Combo Type-A",
+          "barkod": "6941812714638",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac XIAOMI 67W type-a combo",
+          "barkod": "6941812714393",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac XIAOMI 90W",
+          "barkod": "6932554443931",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sigurnosna kamera Xiaomi BW300 vanjska",
+          "barkod": "6941812775004",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sigurnosna kamera Xiaomi C201",
+          "barkod": "6932554469870",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sigurnosna kamera Xiaomi C500 Dual",
+          "barkod": "6941812790861",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SmartHome Xiaomi HUB 2",
+          "barkod": "6941812703427",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SmartHome Xiaomi Mi senzor za vrata i prozore 2",
+          "barkod": "6934177745874",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SmartHome Xiaomi pametni prekidac Mi Wireless Switch",
+          "barkod": "6934177710834",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vanjska kamera XIAOMI CW100 dual",
+          "barkod": "6932554428877",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Xiaomi Tag lokator (4 komada)",
+          "barkod": "6932554480745",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Orbico",
+      "stavke": [
+        {
+          "naziv": "Cetkica za zube OralB iO2 BLACK + Travel case",
+          "barkod": "8700216611923",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO2 PINK",
+          "barkod": "8700216611831",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO3 DUOPACK BLACK/BLUE",
+          "barkod": "8006540731772",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO3 ICE BLUE",
+          "barkod": "8006540731321",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO3 MATT BLACK",
+          "barkod": "8006540731277",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO6 BLACK ONYX",
+          "barkod": "4210201409199",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO6 DUO",
+          "barkod": "8006530021746",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO6 GREY OPAL",
+          "barkod": "4210201381686",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetkica za zube OralB iO9 DUO Black&Pink",
+          "barkod": "4210201411574",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epilator Braun SE3-000",
+          "barkod": "8700216962988",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epilator Braun SE5-050",
+          "barkod": "7500435225038",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "IPL depilator Braun PL5221",
+          "barkod": "8700216937818",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac za kosu/bradu Braun BT 3421",
+          "barkod": "4210201447870",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac za tijelo/kosu/bradu Braun 11u1 7540",
+          "barkod": "8700216429016",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac za tijelo/kosu/bradu BRAUN 7u1 5520",
+          "barkod": "8700216429160",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sisac za tijelo/kosu/bradu Braun 8u1 3540",
+          "barkod": "8700216429306",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uvijac za kosu Revlon 2U1 SALON + Revlon Uniq One tretman za kosu",
+          "barkod": "7630127502113",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
