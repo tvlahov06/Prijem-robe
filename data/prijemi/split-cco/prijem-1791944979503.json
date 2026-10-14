@@ -5,7 +5,7 @@
   "datum": "2026-10-14",
   "status": "aktivan",
   "kreirano": "2026-10-14T02:29:39.503Z",
-  "azurirano": "2026-10-14T06:31:07.180Z",
+  "azurirano": "2026-10-14T06:31:55.236Z",
   "dokumenti": [
     {
       "naziv": "MSI 6566-101",
@@ -214,7 +214,7 @@
           "naziv": "Susilica rublja Beko BM3T40230W",
           "barkod": "8690842824333",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "7N2B-S Susilica rublja CANDY GDS 7N2B-S",
@@ -298,13 +298,13 @@
           "naziv": "Vinski hladnjak Hisense RW3N122GSLF",
           "barkod": "6921727080981",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena GORENJE BO6727E03AX",
           "barkod": "3838783064462",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena Hisense HI4A8647DG",
