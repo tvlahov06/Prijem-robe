@@ -5,7 +5,7 @@
   "datum": "2026-10-14",
   "status": "aktivan",
   "kreirano": "2026-10-14T07:13:17.737Z",
-  "azurirano": "2026-10-14T07:40:29.211Z",
+  "azurirano": "2026-10-14T07:40:41.095Z",
   "dokumenti": [
     {
       "naziv": "MSI 6567-101",
@@ -197,7 +197,7 @@
           "naziv": "Usisavac Rowenta RH7AC1E0",
           "barkod": "3221616183063",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Q10 VF+ crna",
