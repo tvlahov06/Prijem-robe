@@ -5,7 +5,7 @@
   "datum": "2026-10-14",
   "status": "aktivan",
   "kreirano": "2026-10-14T07:13:17.737Z",
-  "azurirano": "2026-10-14T07:40:50.625Z",
+  "azurirano": "2026-10-14T07:40:55.183Z",
   "dokumenti": [
     {
       "naziv": "MSI 6567-101",
@@ -119,7 +119,7 @@
           "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
           "barkod": "4242005306978",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Kuhinjski asistent Bosch MUM5XW40 MUM5 CreationLine",
@@ -269,7 +269,7 @@
           "naziv": "Usisavac robot Philips XU5100/20",
           "barkod": "8720389055584",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Kenwood KVL85.004SI Titanium Chef Baker XL",
