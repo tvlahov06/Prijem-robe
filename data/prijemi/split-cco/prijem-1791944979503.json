@@ -5,7 +5,7 @@
   "datum": "2026-10-14",
   "status": "aktivan",
   "kreirano": "2026-10-14T02:29:39.503Z",
-  "azurirano": "2026-10-14T02:29:39.503Z",
+  "azurirano": "2026-10-14T06:23:14.412Z",
   "dokumenti": [
     {
       "naziv": "MSI 6566-101",
@@ -107,7 +107,7 @@
           "naziv": "Televizor HISENSE 43E7S 2026, 109,2 cm (43\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351430973",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 32A5S 2026, 81,3 cm (32\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
@@ -143,7 +143,7 @@
           "naziv": "Televizor HISENSE 55E7S 2026, 139,7 cm (55\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
           "barkod": "6942351431352",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE55M80HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
@@ -155,7 +155,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "PRO Televizor HISENSE 55E7S PRO 2026, 139,7 cm (55\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
@@ -173,7 +173,7 @@
           "naziv": "Televizor SONY K55XR75M2PB 2026, 139 cm (55\"), Bravia CEI 7 II, TRUE RGB",
           "barkod": "4548736178373",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 32A4S 2026, 81,3 cm (32\"), DLED, HD, Smart TV, VIDAA OS",
@@ -191,13 +191,13 @@
           "naziv": "Televizor PHILIPS 65PQS9011 2026, 165,1 cm (65\"), QLED, UHD 4K 120 Hz, Smart TV, Titan OS, Ambilight",
           "barkod": "8718863051870",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor PHILIPS 55OLED811 2026, 139,7 cm (55\"), OLED, UHD 4K 165 Hz, Smart TV, Titan OS, Ambilight",
           "barkod": "8718863052044",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
