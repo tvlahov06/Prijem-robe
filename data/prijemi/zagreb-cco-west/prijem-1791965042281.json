@@ -1,0 +1,70 @@
+{
+  "id": "prijem-1791965042281",
+  "poslovnica": "zagreb-cco-west",
+  "naziv": "zlatar mi je gospodar",
+  "datum": "2026-10-14",
+  "status": "aktivan",
+  "kreirano": "2026-10-14T08:04:02.281Z",
+  "azurirano": "2026-10-14T08:04:02.281Z",
+  "dokumenti": [
+    {
+      "naziv": "mobis_1410",
+      "stavke": [
+        {
+          "naziv": "Mobitel XIAOMI 17T 12GB/512GB plavi",
+          "barkod": "6932554448141",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI 17T PRO 12GB/512GB ljubicasti",
+          "barkod": "6932554469559",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 5G 6GB/256GB Celestial Purple",
+          "barkod": "6939093021439",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 6GB/256GB Celestial Purple",
+          "barkod": "6939093003718",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI Redmi Note 17 PRO 5G 6GB/256GB Celestial Purple",
+          "barkod": "6939093009383",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Xiaomi Pad 8 8/256 sivi",
+          "barkod": "6932554473068",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Xiaomi Pad 8 8/256 zeleni",
+          "barkod": "6932554473136",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet XIAOMI Redmi Pad 2, 11\", 4GB/256GB zeleni",
+          "barkod": "6932554451134",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet XIAOMI Redmi Pad 2, 9,7\", 4GB/128GB, srebrni",
+          "barkod": "6932554410650",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
