@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T22:09:56.899Z",
+  "azurirano": "2026-10-15T22:10:00.549Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -2044,7 +2044,7 @@
           "naziv": "Perilica rublja HISENSE WF3S7021BWU",
           "barkod": "6901101836946",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja HISENSE WF3S9045BW1",
@@ -2074,7 +2074,7 @@
           "naziv": "Perilica rublja slim Hisense WF3S7021BW",
           "barkod": "6901101826602",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica susilica rublja GORENJE WD2PA1X64ADW",
