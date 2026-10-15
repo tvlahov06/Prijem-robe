@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T05:38:40.159Z",
-  "azurirano": "2026-10-15T07:28:22.944Z",
+  "azurirano": "2026-10-15T07:30:07.262Z",
   "dokumenti": [
     {
       "naziv": "MSI 6648-101",
@@ -433,7 +433,7 @@
           "naziv": "fotoaparat Fujifilm Instax Mini 13 zeleni",
           "barkod": "4547410564860",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Garmin Fenix 9 PRO inReach 47 mm AMOLED Titanium Graphite/Black",
@@ -1174,7 +1174,7 @@
           "naziv": "Pegla za kosu Remington S5901 Coconut",
           "barkod": "5038061112917",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijac za glavu Philips HS7980/15",
@@ -1270,7 +1270,7 @@
           "naziv": "Uvijac za kosu Philips BHB876/00 tulip crni",
           "barkod": "8710103813378",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3911/40 Power Flosser",
