@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T05:38:40.159Z",
-  "azurirano": "2026-10-15T07:30:07.262Z",
+  "azurirano": "2026-10-15T07:30:10.928Z",
   "dokumenti": [
     {
       "naziv": "MSI 6648-101",
@@ -385,7 +385,7 @@
           "naziv": "Tablet HUAWEI MatePad Air White 8GB/256GB + tipkovnica (Wooki-W09DK)",
           "barkod": "6942711306900",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet HUAWEI MatePad Air Airy Blue 8GB/256GB + tipkovnica (Wooki-W09DK)",
@@ -1216,13 +1216,13 @@
           "naziv": "Susilo za kosu Remington D5710",
           "barkod": "4008496985326",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Remington D5715",
           "barkod": "4008496985357",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Remington S9001 Hydraluxe Pro",
