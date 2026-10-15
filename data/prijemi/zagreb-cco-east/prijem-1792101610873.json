@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T23:24:07.206Z",
+  "azurirano": "2026-10-15T23:24:20.857Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -1120,7 +1120,7 @@
           "naziv": "Web kamera Logitech C920 Pro HD",
           "barkod": "5099206061309",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
