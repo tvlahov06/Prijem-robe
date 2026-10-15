@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T05:38:40.159Z",
-  "azurirano": "2026-10-15T05:46:03.374Z",
+  "azurirano": "2026-10-15T05:46:10.394Z",
   "dokumenti": [
     {
       "naziv": "MSI 6648-101",
@@ -730,7 +730,7 @@
           "naziv": "Laptop ASUS TUF Gaming A16 FA608UHI-TU126, 16\" AZ0 WUXGA 144 Hz, AMD Ryzen 7 260, 16 GB RAM, 512 GB",
           "barkod": "4711636513548",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Go 15 NX.J7XEX.00S, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 32 GB RAM, 512 GB",
@@ -766,7 +766,7 @@
           "naziv": "Laptop Apple Macbook Air Starlight, mdha4cr/a, /M5/16GB/512GB-CRO",
           "barkod": "195950688627",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Laptop HP 250R G10 D13J5ET, 39.6cm (15.6\") Full HD, Intel Core 5-120U, 16 GB RAM, 512 GB SSD, Intel",
@@ -814,7 +814,7 @@
           "naziv": "Laptop Apple Macbook Air Midnight, mdhe4cr/a, /M5/16GB/512GB-CRO",
           "barkod": "195950690033",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Zenbook S 14 OLED UX5406SA-PZ615X Ultra 1W0 7 258V, 32GB, SSD 1TB, 14\" 3K OLED HDR, Intel Arc",
