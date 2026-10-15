@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T06:15:34.889Z",
-  "azurirano": "2026-10-15T07:36:31.424Z",
+  "azurirano": "2026-10-15T07:36:36.083Z",
   "dokumenti": [
     {
       "naziv": "MSI 6628-101",
@@ -134,7 +134,7 @@
           "naziv": "Multipraktik Bosch MCM3501M MultiTalent 3",
           "barkod": "4242002853376",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "robot Roomba Plus 575 Combo robot + AutoWash dock White",
