@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T22:10:42.601Z",
+  "azurirano": "2026-10-15T22:10:45.547Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -2068,7 +2068,7 @@
           "naziv": "Perilica rublja LG F4WR509SWW",
           "barkod": "8806084140234",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja slim Hisense WF3S7021BW",
