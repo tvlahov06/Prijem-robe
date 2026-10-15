@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T22:09:47.899Z",
+  "azurirano": "2026-10-15T22:09:56.899Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -1990,7 +1990,7 @@
           "naziv": "Perilica rublja BOSCH WAN2826SBY",
           "barkod": "4242005538768",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja Bosch WGG244Z5BY",
@@ -2110,7 +2110,7 @@
           "naziv": "Perilica susilica Gorenje WD2PA854ADW",
           "barkod": "3838782818233",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
