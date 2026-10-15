@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T23:20:05.349Z",
+  "azurirano": "2026-10-15T23:20:09.674Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -427,7 +427,7 @@
           "naziv": "Eksterni disk WD Elements Portable 5TB",
           "barkod": "718037871899",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick Samsung 512GB BAR Plus titan sivi PC MUF-512BE4/APC",
