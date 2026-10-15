@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T07:57:30.396Z",
-  "azurirano": "2026-10-15T09:05:42.046Z",
+  "azurirano": "2026-10-15T09:06:01.145Z",
   "dokumenti": [
     {
       "naziv": "MSI 6639-101",
@@ -91,23 +91,6 @@
         {
           "naziv": "Gramofon LENCO Classic phono TT-10BN, RCA izlaz, mm, AUX in, zvucnici, Suitcase, smedi",
           "barkod": "8711902038177",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6640-101",
-      "stavke": [
-        {
-          "naziv": "Monitor LENOVO L24-4C, 67DDKAC6EU, 60,45 cm (23.8\") IPS WLED FHD 144Hz, 1ms, Siva",
-          "barkod": "199271706497",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 27\" ACER Vero B7 B277KL, UM.HB7EE.L01, IPS 4K/UHD, 4ms, ZeroFrame, AMD FreeSync, 2x HDMI,",
-          "barkod": "4711121787416",
           "ocekivano": 1,
           "skenirano": 1
         }
