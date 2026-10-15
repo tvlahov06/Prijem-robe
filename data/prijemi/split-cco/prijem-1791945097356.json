@@ -5,85 +5,8 @@
   "datum": "2026-10-14",
   "status": "aktivan",
   "kreirano": "2026-10-14T02:31:37.356Z",
-  "azurirano": "2026-10-14T06:58:00.446Z",
+  "azurirano": "2026-10-15T05:50:08.046Z",
   "dokumenti": [
-    {
-      "naziv": "Mobis 1",
-      "stavke": [
-        {
-          "naziv": "Mobitel XIAOMI 17T 12GB/512GB plavi",
-          "barkod": "6932554448141",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel XIAOMI 17T PRO 12GB/512GB ljubicasti",
-          "barkod": "6932554469559",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Xiaomi Redmi 17 4GB/128GB Oak Green",
-          "barkod": "6939093018330",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel XIAOMI Redmi Note 17 4GB/128GB Sky Teal",
-          "barkod": "6939093006719",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel XIAOMI Redmi Note 17 5G 6GB/256GB Celestial Purple",
-          "barkod": "6939093021439",
-          "ocekivano": 4,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Mobitel XIAOMI Redmi Note 17 5G 6GB/256GB Sky Teal",
-          "barkod": "6939093021453",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Mobitel XIAOMI Redmi Note 17 6GB/256GB Celestial Purple",
-          "barkod": "6939093003718",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Mobitel XIAOMI Redmi Note 17 Pro 5G 6GB/256GB Black",
-          "barkod": "6939093009963",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel XIAOMI Redmi Note 17 PRO 5G 6GB/256GB Celestial Purple",
-          "barkod": "6939093009383",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Tablet Xiaomi Pad 8 8/256 zeleni",
-          "barkod": "6932554473136",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Tablet XIAOMI Redmi Pad 2, 9,7\", 4GB/128GB, srebrni",
-          "barkod": "6932554410650",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Tablet XIAOMI Redmi Pad 2, 9,7\", 4GB/64GB, srebrni",
-          "barkod": "6932554449636",
-          "ocekivano": 3,
-          "skenirano": 3
-        }
-      ]
-    },
     {
       "naziv": "Mobis 2",
       "stavke": [
