@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T07:57:30.396Z",
-  "azurirano": "2026-10-15T09:06:01.145Z",
+  "azurirano": "2026-10-15T09:06:22.044Z",
   "dokumenti": [
     {
       "naziv": "MSI 6639-101",
@@ -91,59 +91,6 @@
         {
           "naziv": "Gramofon LENCO Classic phono TT-10BN, RCA izlaz, mm, AUX in, zvucnici, Suitcase, smedi",
           "barkod": "8711902038177",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6641-101",
-      "stavke": [
-        {
-          "naziv": "Laptop HP 255R G10 CV4Q5ET, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 7735U, 16 GB RAM, 1 TB SSD, AMD",
-          "barkod": "199764603715",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
-          "barkod": "2010033161096",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Laptop ACER Extensa 15, NX.EKUEX.001, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 512 GB",
-          "barkod": "4711721054949",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 15 M1502NAQ, 39.6 cm (15.6\") Full 7V0_W11H HD, AMD Ryzen 7 170, 16 GB RAM, 512 GB SSD, AMD",
-          "barkod": "2010033157822",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS VivoBook V16 V3607VH-RP010, 40.6cm (16'') 9L0 WUXGA 144Hz, Intel Core 7 240H, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711636350594",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ACER Nitro V 15 NH.QZ8EX.01K, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 9 270H, 32 GB RAM, 1 TB",
-          "barkod": "4711474900814",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop Apple Macbook Air Starlight, mdha4cr/a, /M5/16GB/512GB-CRO",
-          "barkod": "195950688627",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB110W, 40.6cm SU0 (16\") IPS WUXGA, Intel Core Ultra 5 225H, 16 GB RAM,",
-          "barkod": "4711636621434",
           "ocekivano": 1,
           "skenirano": 1
         }
