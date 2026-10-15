@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T05:38:40.159Z",
-  "azurirano": "2026-10-15T07:41:43.362Z",
+  "azurirano": "2026-10-15T07:42:00.810Z",
   "dokumenti": [
     {
       "naziv": "MSI 6648-101",
@@ -295,7 +295,7 @@
           "naziv": "Apple Watch SE3 v2 GPS 44mm Starlight Aluminium Case with Sand Sport Band - M/L",
           "barkod": "195951259628",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 46mm Black (Vili-B19F)",
@@ -373,7 +373,7 @@
           "naziv": "Apple Watch Series 12 GPS 46mm Space Grey Aluminium Case with Navy Blue Sport Band - M/L",
           "barkod": "195951226866",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A18 4GB/128GB dual SIM crni",
@@ -1157,7 +1157,7 @@
           "naziv": "Apple Watch Series 12 GPS 46mm Light Gold Aluminium Case with Sand Sport Band - S/M",
           "barkod": "195951227467",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
