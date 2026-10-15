@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T05:38:40.159Z",
-  "azurirano": "2026-10-15T05:46:10.394Z",
+  "azurirano": "2026-10-15T05:46:43.466Z",
   "dokumenti": [
     {
       "naziv": "MSI 6648-101",
@@ -849,13 +849,13 @@
           "naziv": "Televizor SONY K55A65PB.CEI 2026, 139 cm (55\"), Bravia 6, OLED, 4K Google TV",
           "barkod": "4548736183025",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "TV SONY K55XR8M25BP.CEI, 139.7cm (55\"), OLED, 4K CEI UHD SMART TV, Android TV",
           "barkod": "4548736170346",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
