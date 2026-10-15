@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T23:37:30.774Z",
+  "azurirano": "2026-10-15T23:38:20.192Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -325,7 +325,7 @@
           "naziv": "ASUS CW100, bezicna tipkovnica i mis, crni, HR 1A0",
           "barkod": "4711387539804",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk ADATA Ex HDD HV620 Slim, 1TB, usb3.1, 1-CBL plavi",
@@ -1933,7 +1933,7 @@
           "naziv": "Gramofon LENCO MC-160WD, sa HiFi Stereo sustavom 2x10W, DAB, DAB+, FM radio, Bluetooth 5.0, RCA izlaz,",
           "barkod": "8711902080046",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Gramofon LENCO LS-200WD, Bluetooth 5.0, RCA, 3.5mm, vanjski zvucnici, wood",
