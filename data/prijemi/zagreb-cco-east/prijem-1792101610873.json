@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T22:18:58.382Z",
+  "azurirano": "2026-10-15T22:19:10.527Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -773,7 +773,7 @@
           "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
           "barkod": "8720689045360",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Susilo za kosu Remington D5710",
@@ -797,7 +797,7 @@
           "naziv": "Sisac za kosu Philips HC3734/15",
           "barkod": "8720689058247",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Uvijac za kosu Revlon 2U1 SALON + Revlon Uniq One tretman za kosu",
@@ -815,7 +815,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX8513/12 DiamondClean",
           "barkod": "8720689054188",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Epilator Philips BRE237/00",
@@ -905,7 +905,7 @@
           "naziv": "Sisac za kosu Philips HC5722/15",
           "barkod": "8720689057592",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu Philips HC9721/15 Series 9000",
