@@ -5,7 +5,7 @@
   "datum": "2026-10-13",
   "status": "aktivan",
   "kreirano": "2026-10-13T06:02:53.198Z",
-  "azurirano": "2026-10-13T08:37:01.167Z",
+  "azurirano": "2026-10-15T06:13:26.497Z",
   "dokumenti": [
     {
       "naziv": "MSI 6562-101",
@@ -15,59 +15,6 @@
           "barkod": "8806096685884",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6579-101",
-      "stavke": [
-        {
-          "naziv": "Perilica posuda ugradbena Bosch SMV6ZCX13E",
-          "barkod": "4242005417421",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "6B0S3FSB Perilica posuda ugradbena Haier XI 6B0S3FSB",
-          "barkod": "8059019069692",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica posuda ugradbena 45cm Hisense HV543D10",
-          "barkod": "3838782782572",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Ploca ugradbena s integriranom napom GORENJE F GEH8432BSCWF",
-          "barkod": "3838782866159",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica rublja gornje punjenje Candy TCA273D3-S",
-          "barkod": "8059019093772",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica rublja HISENSE WF1I8042BWP2",
-          "barkod": "6901101840226",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica rublja GORENJE WG484A31",
-          "barkod": "3838783091871",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Perilica rublja Gorenje WNHA74SASEU",
-          "barkod": "3838782753039",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     }
