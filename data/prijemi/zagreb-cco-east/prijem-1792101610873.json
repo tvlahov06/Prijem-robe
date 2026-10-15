@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T22:21:27.445Z",
+  "azurirano": "2026-10-15T22:21:31.952Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -2293,7 +2293,7 @@
           "naziv": "Usisavac Rowenta RO4B63EA",
           "barkod": "3221616093133",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XD6142/12",
