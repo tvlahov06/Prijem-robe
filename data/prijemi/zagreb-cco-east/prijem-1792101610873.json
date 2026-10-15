@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T23:32:16.998Z",
+  "azurirano": "2026-10-15T23:32:19.661Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -331,7 +331,7 @@
           "naziv": "Eksterni disk ADATA Ex HDD HV620 Slim, 1TB, usb3.1, 1-CBL plavi",
           "barkod": "4712366966055",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ADATA C906, 32GB, USB 2.0 plavi",
