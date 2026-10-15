@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T22:08:24.520Z",
+  "azurirano": "2026-10-15T22:08:29.813Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -2038,7 +2038,7 @@
           "naziv": "Perilica rublja HISENSE WF1I8042BWP2",
           "barkod": "6901101840226",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja HISENSE WF3S7021BWU",
@@ -2104,7 +2104,7 @@
           "naziv": "GORENJE susilica rublja DHNE82",
           "barkod": "3838782868924",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica susilica Gorenje WD2PA854ADW",
