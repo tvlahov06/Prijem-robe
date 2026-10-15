@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T05:38:40.159Z",
-  "azurirano": "2026-10-15T06:00:49.441Z",
+  "azurirano": "2026-10-15T06:12:55.429Z",
   "dokumenti": [
     {
       "naziv": "MSI 6648-101",
@@ -44,7 +44,7 @@
           "naziv": "Glacalo Philips DST3031/20",
           "barkod": "8720389003066",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Tefal DT2022E1 Pure Pop coral",
@@ -146,7 +146,7 @@
           "naziv": "Glacalo Philips DST8020/20",
           "barkod": "8720389004773",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Ninja AS101EUGY Crispi Pro 7u1",
