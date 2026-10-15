@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T05:38:40.159Z",
-  "azurirano": "2026-10-15T07:40:25.905Z",
+  "azurirano": "2026-10-15T07:40:36.258Z",
   "dokumenti": [
     {
       "naziv": "MSI 6648-101",
@@ -205,7 +205,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
           "barkod": "8806097827177",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Kabel Samsung USB Type-C na USB Type-C (1,8m, 5A) crni",
@@ -313,7 +313,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/128GB grafitno crna",
           "barkod": "8806099395391",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat HUAWEI Watch 6 42mm zlatni (Leib-L19F)",
@@ -349,7 +349,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange",
           "barkod": "195950639049",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "RASHLADNI STALAK SBOX",
@@ -415,7 +415,7 @@
           "naziv": "Pametni Outdoor sat Garmin Fenix 8 51 mm AMOLED slate gray, black remen",
           "barkod": "753759338152",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 256GB - Silver",
@@ -439,7 +439,7 @@
           "naziv": "Pametni sat Garmin Fenix 9 PRO inReach 47 mm AMOLED Titanium Graphite/Black",
           "barkod": "753759370176",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "GoPro pribor GoPro Shorty (Mini Extension Pole + Tripod)",
