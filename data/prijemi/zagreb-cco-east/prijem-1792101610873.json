@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T22:18:26.343Z",
+  "azurirano": "2026-10-15T22:18:37.275Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -773,7 +773,7 @@
           "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
           "barkod": "8720689045360",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Remington D5710",
@@ -845,7 +845,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX8311/11 DiamondClean",
           "barkod": "8720689054300",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pegla za kosu Philips BHS956/00 Aqua Edition Straightener",
@@ -893,7 +893,7 @@
           "naziv": "Sisac za kosu Philips HC7722/15",
           "barkod": "8720689058117",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD956/10 Aqua Edition Hair Dryer",
