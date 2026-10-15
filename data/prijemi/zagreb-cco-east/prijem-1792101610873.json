@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T22:07:42.134Z",
+  "azurirano": "2026-10-15T22:07:48.781Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -588,19 +588,19 @@
           "naziv": "Mikrovalna pecnica Gorenje MO17E1S",
           "barkod": "3838782175367",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrovalna pecnica Gorenje MO20A3BH",
           "barkod": "3838782667336",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrovalna pecnica Hisense H20MOWP1",
           "barkod": "3838782612138",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrovalna pecnica Hisense H23MOBS4HI",
@@ -612,7 +612,7 @@
           "naziv": "Mikrovalna pecnica Hisense H29MOBS9H",
           "barkod": "3838782637926",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica posuda samostojeca Bosch SMS46KI01E",
