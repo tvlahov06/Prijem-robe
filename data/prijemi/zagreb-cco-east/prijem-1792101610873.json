@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T22:07:52.320Z",
+  "azurirano": "2026-10-15T22:07:58.372Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -618,7 +618,7 @@
           "naziv": "Perilica posuda samostojeca Bosch SMS46KI01E",
           "barkod": "4242002993300",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Napa zidna Gorenje WHI649EB",
