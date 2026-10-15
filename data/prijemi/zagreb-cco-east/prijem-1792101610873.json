@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T23:33:27.720Z",
+  "azurirano": "2026-10-15T23:33:31.257Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -1132,7 +1132,7 @@
           "naziv": "Web kamera Logitech C270 HD",
           "barkod": "5099206064201",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Web kamera Logitech BRIO 100 bijela",
