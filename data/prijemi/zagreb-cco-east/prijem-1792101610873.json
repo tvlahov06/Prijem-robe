@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T23:10:51.886Z",
+  "azurirano": "2026-10-15T23:10:56.362Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -146,7 +146,7 @@
           "naziv": "SanDisk USB Stick SDCZ48-128G-U46 Ultra USB 3.0 U46 128GB",
           "barkod": "619659113568",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SanDisk USB Stick SDCZ430-128G-G46 SanDisk Ultra Fit -G46 USB 3.1 128GB",
@@ -164,7 +164,7 @@
           "naziv": "USB Dual Drive Go Ultra 64GB, USB-C & USB 3.1 null G46",
           "barkod": "619659177171",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SanDisk Ultra Dual Drive USB Type-C 64 GB USB stick G46",
