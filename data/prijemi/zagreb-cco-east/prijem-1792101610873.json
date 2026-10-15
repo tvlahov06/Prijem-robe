@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T22:22:35.257Z",
+  "azurirano": "2026-10-15T22:22:44.555Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -839,7 +839,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX8311/13 DiamondClean",
           "barkod": "8720689054317",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX8311/11 DiamondClean",
@@ -977,7 +977,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/84 DiamondClean, Pink",
           "barkod": "8720689000963",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
