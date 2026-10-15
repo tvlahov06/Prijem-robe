@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T05:38:40.159Z",
-  "azurirano": "2026-10-15T05:45:27.007Z",
+  "azurirano": "2026-10-15T05:45:36.947Z",
   "dokumenti": [
     {
       "naziv": "MSI 6648-101",
@@ -754,7 +754,7 @@
           "naziv": "Laptop ACER Nitro V 15 NH.QZ8EX.01K, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 9 270H, 32 GB RAM, 1 TB",
           "barkod": "4711474900814",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO V15 G5, 39.6cm (15.6\") IPS Full HD, i7-13620H, 32 GB RAM, 1 TB SSD, AMD Radeon 610M,",
@@ -778,13 +778,13 @@
           "naziv": "Laptop HP HyperX OMEN 15-gb0004nm, 38.9 cm (15.3\") IPS 2.5K 180Hz, AMD Ryzen 7 8745HX, 24 GB RAM, 1 TB",
           "barkod": "821844674284",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP HyperX OMEN 15-gb0001nm, 38.9 cm (15.3\") 2K 165Hz, AMD Ryzen 5 240, 16 GB RAM, 512 GB SSD,",
           "barkod": "821844547021",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP OmniBook 3 17-dp0020nmx, 43.9 cm (17.3\") FHD, AMD Ryzen 5 130, 8 GB RAM, 512 GB SSD, AMD",
