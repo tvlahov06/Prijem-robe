@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T23:33:04.589Z",
+  "azurirano": "2026-10-15T23:33:07.347Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -433,7 +433,7 @@
           "naziv": "USB stick Samsung 512GB BAR Plus titan sivi PC MUF-512BE4/APC",
           "barkod": "8806095379708",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kingston 500GB NV3 SSD M.2 2280 PCIe 4.0 NVMe, Read: 5,000/ Write: 3,000MB/s",
