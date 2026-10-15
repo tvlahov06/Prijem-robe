@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T23:32:28.785Z",
+  "azurirano": "2026-10-15T23:32:34.907Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -469,7 +469,7 @@
           "naziv": "MicroSD Samsung P9 Express Card, 512GB, PCIe W Gen3.0x1, NVMe 1.3, SD 7.1, MB-MK512T/WW",
           "barkod": "8806097644200",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link TL-MR100 V3 300 Mbps Wireless N 4G LTE Router",
