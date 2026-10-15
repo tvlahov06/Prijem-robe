@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T05:38:40.159Z",
-  "azurirano": "2026-10-15T09:12:03.751Z",
+  "azurirano": "2026-10-15T09:13:24.990Z",
   "dokumenti": [
     {
       "naziv": "MSI 6648-101",
@@ -878,7 +878,7 @@
           "naziv": "Friteza na vruci zrak Philips NA462/70 Airfryer vertikalni",
           "barkod": "8720389072239",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
@@ -974,13 +974,13 @@
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
           "barkod": "8720389030307",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA555/00 Airfryer Dual Basket, para",
           "barkod": "8720389047558",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Q10 VF+ crna",
