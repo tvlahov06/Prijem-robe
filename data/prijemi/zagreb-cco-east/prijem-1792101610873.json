@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T22:10:30.905Z",
+  "azurirano": "2026-10-15T22:10:37.851Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -2032,7 +2032,7 @@
           "naziv": "Perilica rublja gornje punjenje Candy TCA273D3-S",
           "barkod": "8059019093772",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja HISENSE WF1I8042BWP2",
@@ -2086,7 +2086,7 @@
           "naziv": "Susilica rublja Beko BM3T40230W",
           "barkod": "8690842824333",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilica rublja Bosch WQG14501BY",
