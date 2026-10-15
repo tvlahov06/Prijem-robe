@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T23:07:41.470Z",
+  "azurirano": "2026-10-15T23:07:46.815Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -116,7 +116,7 @@
           "naziv": "TP-Link UE300C USB Type-C na Ethernet adapter, USB 3.0 port, 10/100/1000",
           "barkod": "1210002617895",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link USB3.0 na Gigabit mrezni adapter",
