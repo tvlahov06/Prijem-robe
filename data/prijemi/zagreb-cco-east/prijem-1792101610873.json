@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T22:00:10.873Z",
-  "azurirano": "2026-10-15T23:28:55.506Z",
+  "azurirano": "2026-10-15T23:29:18.586Z",
   "dokumenti": [
     {
       "naziv": "MSI 6687-101",
@@ -541,7 +541,7 @@
           "naziv": "Skener Canon LiDE 300",
           "barkod": "4549292119770",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
