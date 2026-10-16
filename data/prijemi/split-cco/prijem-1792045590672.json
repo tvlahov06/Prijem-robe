@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T06:26:30.672Z",
-  "azurirano": "2026-10-16T06:24:53.816Z",
+  "azurirano": "2026-10-16T06:24:58.430Z",
   "dokumenti": [
     {
       "naziv": "MSI 6692-101",
@@ -1624,7 +1624,7 @@
           "naziv": "MIS SBOX M-958 Crni",
           "barkod": "0616320538309",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK KINGSTON FD Exodia 256GB USB 3.2",
