@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:36:04.309Z",
+  "azurirano": "2026-10-16T13:36:08.010Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -863,7 +863,7 @@
           "naziv": "USB stick ADATA UV128, 64GB, USB3.2 BE",
           "barkod": "4713435797150",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis HyperX Pulsefire Haste 2 black",
