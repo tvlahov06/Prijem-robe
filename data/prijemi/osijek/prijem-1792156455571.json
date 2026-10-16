@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T13:14:15.571Z",
-  "azurirano": "2026-10-16T14:19:25.820Z",
+  "azurirano": "2026-10-16T14:19:30.422Z",
   "dokumenti": [
     {
       "naziv": "MSI 6659-101",
@@ -611,7 +611,7 @@
           "naziv": "Mis ACER AMR130, Zelena",
           "barkod": "4711474835567",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link bezicni N USB Nano Adapter TL-WN725N, 150Mbps (2.4GHz), 802.11n/g/b",
