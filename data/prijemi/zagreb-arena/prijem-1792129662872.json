@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:47:42.872Z",
-  "azurirano": "2026-10-16T07:12:57.485Z",
+  "azurirano": "2026-10-16T07:13:11.189Z",
   "dokumenti": [
     {
       "naziv": "MSI 6707-101",
@@ -38,7 +38,7 @@
           "naziv": "Mis Logitech M196, crni",
           "barkod": "5099206128330",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Logitech WebCam C930e",
@@ -122,13 +122,13 @@
           "naziv": "Mis Logitech M720 Triathlon, sivi",
           "barkod": "5099206065086",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M190, plavi",
           "barkod": "5099206091849",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M705 Marathon, sivi",
@@ -206,7 +206,7 @@
           "naziv": "Mis Logitech M171, plavi",
           "barkod": "5099206062863",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Gaming podloga za mis LOGITECH Pro X Control",
