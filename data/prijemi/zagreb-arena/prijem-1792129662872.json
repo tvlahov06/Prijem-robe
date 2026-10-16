@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:47:42.872Z",
-  "azurirano": "2026-10-16T07:11:26.730Z",
+  "azurirano": "2026-10-16T07:11:31.784Z",
   "dokumenti": [
     {
       "naziv": "MSI 6707-101",
@@ -38,7 +38,7 @@
           "naziv": "Mis Logitech M196, crni",
           "barkod": "5099206128330",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Logitech WebCam C930e",
@@ -110,7 +110,7 @@
           "naziv": "Mis Logitech M100, zicani, crni",
           "barkod": "5099206104242",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK540 Advanced, bezicna, siva",
@@ -176,7 +176,7 @@
           "naziv": "Web kamera Logitech C920 Pro HD",
           "barkod": "5099206061309",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Gaming mis LOGITECH PRO X2 SUPERSTRIKE",
