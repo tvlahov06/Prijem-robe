@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:38:10.389Z",
+  "azurirano": "2026-10-16T13:38:19.668Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -226,7 +226,7 @@
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi",
           "barkod": "8806099028114",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
@@ -262,7 +262,7 @@
           "naziv": "Mobitel Samsung Galaxy A27 5G 6GB/128GB dual SIM svjetloruzicasti",
           "barkod": "8806099353599",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 18 Pro 256GB Black",
