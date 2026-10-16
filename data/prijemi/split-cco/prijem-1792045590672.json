@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T06:26:30.672Z",
-  "azurirano": "2026-10-16T06:32:50.068Z",
+  "azurirano": "2026-10-16T06:32:57.608Z",
   "dokumenti": [
     {
       "naziv": "MSI 6692-101",
@@ -1420,7 +1420,7 @@
           "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
           "barkod": "740617348699",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
@@ -1432,7 +1432,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
           "barkod": "740617326376",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
@@ -1654,7 +1654,7 @@
           "naziv": "USB stick Samsung 512GB BAR Plus titan sivi PC MUF-512BE4/APC",
           "barkod": "8806095379708",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MicroSD Samsung P9 Express Card, 256GB, PCIe W Gen3.0x1, NVMe 1.3, SD 7.1, MB-MK256T/WW",
