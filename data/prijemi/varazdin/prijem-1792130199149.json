@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:34:19.666Z",
+  "azurirano": "2026-10-16T13:34:26.061Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -689,7 +689,7 @@
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
           "barkod": "740617348408",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
@@ -797,7 +797,7 @@
           "naziv": "USB STICK KINGSTON FD 128GB USB3.2 Exodia",
           "barkod": "740617314359",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Book Cover s tipkovnicom slim za Tab S12 Ultra crni",
