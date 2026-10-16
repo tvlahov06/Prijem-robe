@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:34:41.292Z",
+  "azurirano": "2026-10-16T13:34:48.847Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -731,7 +731,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
           "barkod": "4718050609642",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
@@ -755,7 +755,7 @@
           "naziv": "SanDisk USB Stick SDCZ48-128G-U46 Ultra USB 3.0 U46 128GB",
           "barkod": "619659113568",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Sandisk Ultra Luxe 64GB, USB 3.2 G46",
@@ -845,7 +845,7 @@
           "naziv": "ADATA C906, 32GB, USB 2.0 plavi",
           "barkod": "4711085945075",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ADATA C906, 64GB, USB 2.0 plavi",
