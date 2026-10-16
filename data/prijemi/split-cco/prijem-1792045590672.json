@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T06:26:30.672Z",
-  "azurirano": "2026-10-16T06:32:07.444Z",
+  "azurirano": "2026-10-16T06:32:45.914Z",
   "dokumenti": [
     {
       "naziv": "MSI 6692-101",
@@ -1534,7 +1534,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ruksak za laptop Asus AP4600, do 17''",
@@ -1696,7 +1696,7 @@
           "naziv": "MicroSD Samsung P9 Express Card, 512GB, PCIe W Gen3.0x1, NVMe 1.3, SD 7.1, MB-MK512T/WW",
           "barkod": "8806097644200",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link TL-MR100 V3 300 Mbps Wireless N 4G LTE Router",
