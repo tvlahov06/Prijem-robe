@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:36:08.010Z",
+  "azurirano": "2026-10-16T13:36:17.577Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -107,7 +107,7 @@
           "naziv": "Brijac za glavu Philips HS7980/15",
           "barkod": "8720689044257",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Remington D5715",
@@ -149,7 +149,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX3792/11 Sonicare series 6800 Black",
           "barkod": "8720689046916",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
