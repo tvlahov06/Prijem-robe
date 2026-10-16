@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T06:26:30.672Z",
-  "azurirano": "2026-10-16T06:08:25.641Z",
+  "azurirano": "2026-10-16T06:08:40.226Z",
   "dokumenti": [
     {
       "naziv": "MSI 6692-101",
@@ -884,7 +884,7 @@
           "naziv": "Parna postaja Tefal GV9920E0, 9 bara, Blue Gold",
           "barkod": "3121040095645",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vrecice za usisavac Philips FC8021/03 sinteticke, S-BAG, 4kom",
@@ -950,7 +950,7 @@
           "naziv": "Mikser stapni Bosch MSM6M633",
           "barkod": "4242005446902",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
