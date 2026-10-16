@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:32:41.953Z",
+  "azurirano": "2026-10-16T13:32:48.625Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -719,7 +719,7 @@
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
           "barkod": "4897098683446",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
