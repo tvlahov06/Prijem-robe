@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T06:26:30.672Z",
-  "azurirano": "2026-10-16T05:46:52.919Z",
+  "azurirano": "2026-10-16T05:47:00.957Z",
   "dokumenti": [
     {
       "naziv": "MSI 6692-101",
@@ -442,7 +442,7 @@
           "naziv": "Parna postaja Gorenje SGD3000BKV",
           "barkod": "3838782860737",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Bosch MSM4B620 ErgoMaster",
