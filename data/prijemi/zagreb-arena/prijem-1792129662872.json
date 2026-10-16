@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:47:42.872Z",
-  "azurirano": "2026-10-16T06:23:33.441Z",
+  "azurirano": "2026-10-16T06:25:55.550Z",
   "dokumenti": [
     {
       "naziv": "MSI 6707-101",
@@ -259,7 +259,7 @@
           "naziv": "Torba za laptop Lenovo T210 siva 15,6\"",
           "barkod": "193386076902",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
@@ -493,7 +493,7 @@
           "naziv": "Torba za laptop ASUS EOS 2, 15.6\", crno-siva",
           "barkod": "4718017800303",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Podloga za mis HyperX Pulsefire 2XL",
