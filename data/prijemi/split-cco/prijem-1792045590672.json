@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T06:26:30.672Z",
-  "azurirano": "2026-10-16T06:24:48.249Z",
+  "azurirano": "2026-10-16T06:24:50.692Z",
   "dokumenti": [
     {
       "naziv": "MSI 6692-101",
@@ -1390,7 +1390,7 @@
           "naziv": "Asus USB-C Mini Dock DC100",
           "barkod": "4711081799320",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
