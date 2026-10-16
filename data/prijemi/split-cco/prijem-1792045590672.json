@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T06:26:30.672Z",
-  "azurirano": "2026-10-16T06:21:32.500Z",
+  "azurirano": "2026-10-16T06:21:38.537Z",
   "dokumenti": [
     {
       "naziv": "MSI 6692-101",
@@ -1241,7 +1241,7 @@
           "naziv": "Web kamera Logitech C920 Pro HD",
           "barkod": "5099206061309",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M190, crni",
@@ -1271,7 +1271,7 @@
           "naziv": "Mis Logitech M171, rozi",
           "barkod": "5099206108783",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M350s Pebble, bijeli",
