@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:36:20.422Z",
+  "azurirano": "2026-10-16T13:36:46.681Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -113,7 +113,7 @@
           "naziv": "Susilo za kosu Remington D5715",
           "barkod": "4008496985357",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Remington S8598 Keratin Protect Intelligent",
@@ -137,7 +137,7 @@
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
           "barkod": "8710103932482",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD538/30",
@@ -196,7 +196,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB crni",
           "barkod": "8806097827467",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 crni 46mm (Atum-B39F)",
