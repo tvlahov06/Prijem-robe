@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:54:57.370Z",
-  "azurirano": "2026-10-16T06:07:29.138Z",
+  "azurirano": "2026-10-16T06:07:39.178Z",
   "dokumenti": [
     {
       "naziv": "MOBIS 02 16102026",
@@ -61,7 +61,7 @@
           "naziv": "Pametna kamera XIAOMI C701",
           "barkod": "6932554432454",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametna uticnica Xiaomi Smart plug WI-FI EU",
@@ -151,7 +151,7 @@
           "naziv": "Vanjska kamera XIAOMI CW100 dual",
           "barkod": "6932554428877",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Xiaomi Tag lokator (4 komada)",
