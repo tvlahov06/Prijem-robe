@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T06:26:30.672Z",
-  "azurirano": "2026-10-16T06:18:37.954Z",
+  "azurirano": "2026-10-16T06:18:54.936Z",
   "dokumenti": [
     {
       "naziv": "MSI 6692-101",
@@ -1576,7 +1576,7 @@
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-031 REVENGE 750x350 Crna",
           "barkod": "3858894503667",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KINGSTON Canvas Select Plus SD kartica, 64GB, R100MB",
@@ -1642,7 +1642,7 @@
           "naziv": "White Shark TIPKOVNICA GK-2201 RONIN Bijela / HR",
           "barkod": "0736373271159",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Eksterni disk WD Elements Portable 5TB",
