@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:34:54.804Z",
+  "azurirano": "2026-10-16T13:34:59.666Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -761,7 +761,7 @@
           "naziv": "USB STICK Sandisk Ultra Luxe 64GB, USB 3.2 G46",
           "barkod": "619659172831",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB Dual Drive Go Ultra 64GB, USB-C & USB 3.1 null G46",
@@ -839,7 +839,7 @@
           "naziv": "Eksterni disk ADATA Ex HDD HV620 Slim, 1TB, usb3.1, 1-CBL plavi",
           "barkod": "4712366966055",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ADATA C906, 32GB, USB 2.0 plavi",
