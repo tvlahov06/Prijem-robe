@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:35:02.103Z",
+  "azurirano": "2026-10-16T13:35:24.551Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -869,7 +869,7 @@
           "naziv": "Mis HyperX Pulsefire Haste 2 black",
           "barkod": "196786272523",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link LS105G, 5-Port Gigabit Switch, steel",
