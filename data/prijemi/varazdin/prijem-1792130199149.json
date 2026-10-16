@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:33:53.185Z",
+  "azurirano": "2026-10-16T13:33:58.418Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -809,7 +809,7 @@
           "naziv": "HP HyperX QuadCast 2 S BK Microphone",
           "barkod": "197961186741",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link AC750 bezicni pojacivac dometa, Dual Band 5GHz/2.4GHz, 802.11ac/a/b/g/n",
