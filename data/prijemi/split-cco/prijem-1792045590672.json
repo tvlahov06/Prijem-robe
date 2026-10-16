@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T06:26:30.672Z",
-  "azurirano": "2026-10-16T06:22:05.015Z",
+  "azurirano": "2026-10-16T06:22:10.394Z",
   "dokumenti": [
     {
       "naziv": "MSI 6692-101",
@@ -1349,7 +1349,7 @@
           "naziv": "Mis Logitech M190, crveni",
           "barkod": "5099206091856",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech G Pro X Superlight 2 SE",
@@ -1379,7 +1379,7 @@
           "naziv": "Mis Logitech POP Universal, bijeli",
           "barkod": "5099206126398",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
