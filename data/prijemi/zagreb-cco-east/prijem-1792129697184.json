@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:48:17.184Z",
-  "azurirano": "2026-10-16T07:38:28.876Z",
+  "azurirano": "2026-10-16T07:38:45.263Z",
   "dokumenti": [
     {
       "naziv": "logista 16102026",
@@ -128,7 +128,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC I KABEL USB-C 3A/15W",
           "barkod": "8018080303906",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC IPHONE USB-C I KABEL C TO LIGHTNING 20W",
@@ -140,7 +140,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 15W BLACK",
           "barkod": "8018080434730",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 15W BLACK",
@@ -290,7 +290,7 @@
           "naziv": "Kucni Punjac CELLULARLINE GaN+ Slim Dual 45W",
           "barkod": "8018080514272",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Kucni Punjac CELLULARLINE GaN+ Slim Dual 65W",
