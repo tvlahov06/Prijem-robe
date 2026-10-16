@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T06:26:30.672Z",
-  "azurirano": "2026-10-16T06:33:12.985Z",
+  "azurirano": "2026-10-16T06:33:25.404Z",
   "dokumenti": [
     {
       "naziv": "MSI 6692-101",
@@ -1474,13 +1474,13 @@
           "naziv": "SanDisk USB Stick SDCZ48-128G-U46 Ultra USB 3.0 U46 128GB",
           "barkod": "619659113568",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "SanDisk USB Stick SDCZ430-128G-G46 SanDisk Ultra Fit -G46 USB 3.1 128GB",
           "barkod": "619659163761",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Sandisk Ultra Luxe 64GB, USB 3.2 G46",
@@ -1498,7 +1498,7 @@
           "naziv": "SanDisk Ultra Dual Drive USB Type-C 64 GB USB stick G46",
           "barkod": "619659142056",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
@@ -1732,7 +1732,7 @@
           "naziv": "USB STICK Kingston FD 2568GB USB3.2Data Traveler B MicroMetal case",
           "barkod": "740617327984",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "White Shark MIS GM-5009 GARETH Crni / 6400 dpi",
