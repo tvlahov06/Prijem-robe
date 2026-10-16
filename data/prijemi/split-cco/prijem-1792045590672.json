@@ -5,7 +5,7 @@
   "datum": "2026-10-15",
   "status": "aktivan",
   "kreirano": "2026-10-15T06:26:30.672Z",
-  "azurirano": "2026-10-16T06:08:05.142Z",
+  "azurirano": "2026-10-16T06:08:18.779Z",
   "dokumenti": [
     {
       "naziv": "MSI 6692-101",
@@ -782,7 +782,7 @@
           "naziv": "Usisavac Bosch BGC05AAA2",
           "barkod": "4242005076321",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablete za ciscenje kamenca Krups XS300010",
