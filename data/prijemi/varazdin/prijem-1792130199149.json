@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:33:02.928Z",
+  "azurirano": "2026-10-16T13:33:08.103Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -779,7 +779,7 @@
           "naziv": "Podloga za mis HyperX Pulsefire L HMPM1-L",
           "barkod": "196188567326",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP HyperX Wrist Rest - Keyboard - Full Size",
