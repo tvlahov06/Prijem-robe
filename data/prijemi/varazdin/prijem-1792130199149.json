@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:47:54.658Z",
+  "azurirano": "2026-10-16T13:47:57.978Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -606,7 +606,7 @@
           "naziv": "Web kamera Logitech BRIO 100 bijela",
           "barkod": "5099206113275",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech MX Vertical Ergonomic",
