@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:47:50.401Z",
+  "azurirano": "2026-10-16T13:47:52.608Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -588,7 +588,7 @@
           "naziv": "Web kamera Logitech C920 Pro HD",
           "barkod": "5099206061309",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Podloga za mis Logitech G240",
