@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:47:42.872Z",
-  "azurirano": "2026-10-16T07:07:00.976Z",
+  "azurirano": "2026-10-16T07:11:09.401Z",
   "dokumenti": [
     {
       "naziv": "MSI 6707-101",
@@ -50,19 +50,19 @@
           "naziv": "Slusalice Logitech G PRO X2 LIGHTSPEED, gaming, bezicne, crne",
           "barkod": "5099206109056",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Gaming mis Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED, magenta",
           "barkod": "5099206113169",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tipkovnica Logitech K400+ crna",
           "barkod": "5099206070868",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tipkovnica LOGITECH G413 TKL SE, taktilni prekidaci, PBT tipke, aluminijsko kuciste, bijelo LED osvjetljenje,",
@@ -86,7 +86,7 @@
           "naziv": "Zvucnici Logitech Z150, 2.0, bijeli",
           "barkod": "5099206048799",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Gaming mikrofon LOGITECH Yeti 2",
@@ -200,7 +200,7 @@
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
           "barkod": "5099206089235",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M171, plavi",
@@ -230,13 +230,13 @@
           "naziv": "Gaming mis Logitech PRO X3 Superstrike, Pink Eclipse, R2933",
           "barkod": "5099206139657",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, ljubicasti",
           "barkod": "5099206134799",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
