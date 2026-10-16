@@ -5,7 +5,7 @@
   "datum": "2026-10-16",
   "status": "aktivan",
   "kreirano": "2026-10-16T05:56:39.149Z",
-  "azurirano": "2026-10-16T13:35:42.122Z",
+  "azurirano": "2026-10-16T13:35:51.070Z",
   "dokumenti": [
     {
       "naziv": "MSI 6644-101",
@@ -749,7 +749,7 @@
           "naziv": "USB STICK Sandisk Ultra Flair 128GB, USB 3.0 G46",
           "barkod": "619659136710",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "SanDisk USB Stick SDCZ48-128G-U46 Ultra USB 3.0 U46 128GB",
@@ -767,13 +767,13 @@
           "naziv": "USB Dual Drive Go Ultra 64GB, USB-C & USB 3.1 null G46",
           "barkod": "619659177171",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "SanDisk Ultra Dual Drive USB Type-C 64 GB USB stick G46",
           "barkod": "619659142056",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Podloga za mis HyperX Pulsefire L HMPM1-L",
