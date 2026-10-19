@@ -5,7 +5,7 @@
   "datum": "2026-10-19",
   "status": "aktivan",
   "kreirano": "2026-10-19T06:46:12.974Z",
-  "azurirano": "2026-10-19T06:46:12.974Z",
+  "azurirano": "2026-10-19T06:46:55.966Z",
   "dokumenti": [
     {
       "naziv": "Mobis 2",
@@ -270,7 +270,7 @@
           "naziv": "CELLULARLINE KABEL TYPE C TO C 300 CM",
           "barkod": "8018080373664",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KP USB-C I KABEL C-C 45W",
