@@ -1,0 +1,46 @@
+{
+  "id": "inv1792419257872",
+  "poslovnica": "zagreb-cco-east",
+  "naziv": "",
+  "datum": "2026-10-19",
+  "status": "aktivan",
+  "kreirano": "2026-10-19T14:14:17.872Z",
+  "azurirano": "2026-10-19T14:14:17.872Z",
+  "dijelovi": [
+    {
+      "id": "dio1792419248758",
+      "naziv": "1"
+    }
+  ],
+  "dokumenti": [
+    {
+      "naziv": "Stanje_zalihe_261019161721",
+      "stavke": [
+        {
+          "naziv": "PlayStation 5 Slim E chassis",
+          "barkod": "711719020172",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim Digital Edition E chassis + Fortnite Flowering Chaos VCH",
+          "barkod": "711719021742",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim Digital Edition E chassis + PS5 Dualsense Wireless Controller",
+          "barkod": "711719022329",
+          "ocekivano": 12,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim Digital Edition E chassis",
+          "barkod": "711719020844",
+          "ocekivano": 34,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
