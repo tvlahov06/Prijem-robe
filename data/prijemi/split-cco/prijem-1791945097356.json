@@ -5,7 +5,7 @@
   "datum": "2026-10-19",
   "status": "aktivan",
   "kreirano": "2026-10-19T06:46:12.974Z",
-  "azurirano": "2026-10-19T06:47:01.540Z",
+  "azurirano": "2026-10-19T06:47:07.621Z",
   "dokumenti": [
     {
       "naziv": "Mobis 2",
@@ -270,7 +270,7 @@
           "naziv": "CELLULARLINE KABEL TYPE C TO C 300 CM",
           "barkod": "8018080373664",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KP USB-C I KABEL C-C 45W",
@@ -294,7 +294,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
           "barkod": "8018080270420",
           "ocekivano": 6,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
