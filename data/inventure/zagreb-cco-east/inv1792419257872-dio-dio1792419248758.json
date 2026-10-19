@@ -1,0 +1,36 @@
+{
+  "id": "inv1792419257872-dio-dio1792419248758",
+  "inventuraId": "inv1792419257872",
+  "dio": "1",
+  "dokumenti": [
+    {
+      "naziv": "Stanje_zalihe_261019161721",
+      "stavke": [
+        {
+          "naziv": "PlayStation 5 Slim E chassis",
+          "barkod": "711719020172",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim Digital Edition E chassis + Fortnite Flowering Chaos VCH",
+          "barkod": "711719021742",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim Digital Edition E chassis + PS5 Dualsense Wireless Controller",
+          "barkod": "711719022329",
+          "ocekivano": 12,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim Digital Edition E chassis",
+          "barkod": "711719020844",
+          "ocekivano": 34,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
