@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T13:35:48.478Z",
-  "azurirano": "2026-10-20T20:29:38.898Z",
+  "azurirano": "2026-10-20T20:29:43.911Z",
   "dokumenti": [
     {
       "naziv": "MSI 6730-101",
@@ -288,7 +288,7 @@
           "naziv": "Aparat za kavu Krups KP243AF0 Genio S taupe",
           "barkod": "3045380028241",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Nespresso INISSIA Red C40-EURENE5-S",
@@ -342,7 +342,7 @@
           "naziv": "Glacalo Tefal FV9848E0",
           "barkod": "3121040071526",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Tefal DT2022E1 Pure Pop coral",
