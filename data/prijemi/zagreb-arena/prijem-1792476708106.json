@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T06:11:48.106Z",
-  "azurirano": "2026-10-20T08:35:36.354Z",
+  "azurirano": "2026-10-20T08:35:45.429Z",
   "dokumenti": [
     {
       "naziv": "MSI 6746-101",
@@ -627,7 +627,7 @@
           "naziv": "Pecnica ugradbena AEG OA5CB531AB",
           "barkod": "7333394110752",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena BOSCH HBA572BB4",
