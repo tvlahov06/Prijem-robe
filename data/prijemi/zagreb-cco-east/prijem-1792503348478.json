@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T13:35:48.478Z",
-  "azurirano": "2026-10-20T20:09:38.768Z",
+  "azurirano": "2026-10-20T20:09:43.691Z",
   "dokumenti": [
     {
       "naziv": "MSI 6730-101",
@@ -395,7 +395,7 @@
           "naziv": "Televizor HISENSE 65E7S 2026, 165,1 cm (65\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351431710",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG QE55S85HAEXXH 2026, 139,7 cm H (55\"), OLED, 4K UHD, Smart TV, Tizen OS",
@@ -407,13 +407,13 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor LG 55QNED70B3C 2026, 139,7 cm (55\"), QNED, AEU 4K UHD, Smart TV, webOS",
           "barkod": "8806096713457",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
