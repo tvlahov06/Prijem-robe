@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T13:35:48.478Z",
-  "azurirano": "2026-10-20T19:51:56.834Z",
+  "azurirano": "2026-10-20T19:53:17.307Z",
   "dokumenti": [
     {
       "naziv": "MSI 6730-101",
@@ -216,13 +216,13 @@
           "naziv": "Usisavac Rowenta RH9B74WO X-Force Flex 14.80 Animal",
           "barkod": "3221616128613",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac robot Roborock Q10 VF+ crna",
           "barkod": "6936905902368",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac robot Philips XU5100/20",
@@ -354,7 +354,7 @@
           "naziv": "Osvjezivac odjece Philips STH7060/80",
           "barkod": "8720389007484",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
