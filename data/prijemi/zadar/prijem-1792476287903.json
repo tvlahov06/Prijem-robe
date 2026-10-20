@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T06:04:47.903Z",
-  "azurirano": "2026-10-20T07:21:57.168Z",
+  "azurirano": "2026-10-20T07:22:03.690Z",
   "dokumenti": [
     {
       "naziv": "MSI 6716-101",
@@ -751,7 +751,7 @@
           "naziv": "Printer HP LaserJet M209d, 8J9L0F",
           "barkod": "197961893151",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Multifunkcijski pisac Canon Pixma G3480",
