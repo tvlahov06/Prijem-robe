@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T06:11:48.106Z",
-  "azurirano": "2026-10-20T08:09:40.253Z",
+  "azurirano": "2026-10-20T08:33:37.327Z",
   "dokumenti": [
     {
       "naziv": "MSI 6746-101",
@@ -573,7 +573,7 @@
           "naziv": "Hladnjak kombinirani Bosch KGN56XLEB",
           "barkod": "4242005317226",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Hladnjak kombinirani Gorenje RK416EPS4",
