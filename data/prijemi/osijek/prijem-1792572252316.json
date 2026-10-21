@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T08:44:12.316Z",
-  "azurirano": "2026-10-21T10:19:37.477Z",
+  "azurirano": "2026-10-21T10:22:29.280Z",
   "dokumenti": [
     {
       "naziv": "MSI 6770-101",
@@ -203,7 +203,7 @@
           "naziv": "Usisavac Philips XB2122/09",
           "barkod": "8710103925279",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Rowenta RO3721EA",
