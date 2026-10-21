@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T21:04:14.941Z",
-  "azurirano": "2026-10-21T05:35:29.782Z",
+  "azurirano": "2026-10-21T05:35:35.192Z",
   "dokumenti": [
     {
       "naziv": "MSI 6718-101",
@@ -459,7 +459,7 @@
           "naziv": "Printer HP LaserJet M140w MFP",
           "barkod": "194850677267",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer Canon Pixma G3470 BK",
