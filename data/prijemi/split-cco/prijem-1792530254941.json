@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T21:04:14.941Z",
-  "azurirano": "2026-10-21T06:30:17.318Z",
+  "azurirano": "2026-10-21T06:30:27.405Z",
   "dokumenti": [
     {
       "naziv": "MSI 6718-101",
@@ -798,7 +798,7 @@
           "naziv": "Aparat za izradu tjestenine Philips HR2665/96",
           "barkod": "8720389014833",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pekac kruha Tefal PF240E38",
