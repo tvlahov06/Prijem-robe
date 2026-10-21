@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T14:21:59.368Z",
-  "azurirano": "2026-10-21T23:02:03.112Z",
+  "azurirano": "2026-10-21T23:02:11.517Z",
   "dokumenti": [
     {
       "naziv": "MSI 6791-101",
@@ -1270,7 +1270,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Tinta HP GT52 M0H54AE, Cyan",
@@ -1342,7 +1342,7 @@
           "naziv": "USB STICK Kingston DataTraveler microDuo 3C 64GB, USB GB 3.2, USB-A+C",
           "barkod": "740617328219",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Microsoft Office Home 2024 FPP Medialess ENG, EP2-06812",
@@ -1378,7 +1378,7 @@
           "naziv": "USB stick ADATA UV128, 128GB, USB3.2 RBE",
           "barkod": "4713435799444",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis ASUS MW425 wireless, crni",
@@ -1402,7 +1402,7 @@
           "naziv": "ADATA C906, 32GB, USB 2.0 plavi",
           "barkod": "4711085945075",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Bezicni snimac zvuka Plaud NotePin S AI PN0210, 64GB, crni",
