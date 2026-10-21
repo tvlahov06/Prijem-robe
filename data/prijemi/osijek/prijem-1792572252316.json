@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T08:44:12.316Z",
-  "azurirano": "2026-10-21T11:43:30.255Z",
+  "azurirano": "2026-10-21T11:46:55.315Z",
   "dokumenti": [
     {
       "naziv": "MSI 6770-101",
@@ -26,13 +26,13 @@
           "naziv": "Televizor SAMSUNG QE55S85HAEXXH 2026, 139,7 cm H (55\"), OLED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097963639",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 32A4S 2026, 81,3 cm (32\"), DLED, HD, Smart TV, VIDAA OS",
           "barkod": "6942351429205",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -431,7 +431,7 @@
           "naziv": "Kuhalo za vodu Gorenje K15DWBK",
           "barkod": "3838782483240",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Citruseta Tefal ZP300138",
