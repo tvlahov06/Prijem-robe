@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T14:21:59.368Z",
-  "azurirano": "2026-10-21T22:22:30.549Z",
+  "azurirano": "2026-10-21T22:22:36.091Z",
   "dokumenti": [
     {
       "naziv": "MSI 6791-101",
@@ -1176,13 +1176,13 @@
           "naziv": "Tipkovnica MS ELITE K-702C",
           "barkod": "3856032100754",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica MS ELITE-700C",
           "barkod": "3856032100778",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
