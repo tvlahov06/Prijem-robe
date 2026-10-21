@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T14:21:59.368Z",
-  "azurirano": "2026-10-21T22:51:48.757Z",
+  "azurirano": "2026-10-21T22:51:52.401Z",
   "dokumenti": [
     {
       "naziv": "MSI 6791-101",
@@ -1032,7 +1032,7 @@
           "naziv": "Mis MS FLOW MC-105 zicani mis",
           "barkod": "3856032105957",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Podloga za mis HyperX Pulsefire XL HMPM1-XL",
@@ -1134,7 +1134,7 @@
           "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
           "barkod": "740617347999",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Microsoft Office Home and Business 2024 Medialess ENG, EP2-06631",
