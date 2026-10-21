@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T09:04:18.202Z",
-  "azurirano": "2026-10-21T09:36:30.396Z",
+  "azurirano": "2026-10-21T09:36:50.226Z",
   "dokumenti": [
     {
       "naziv": "MSI 6760-101",
@@ -614,13 +614,13 @@
           "naziv": "Mikrovalna pecnica Hisense H23MOBS4HI",
           "barkod": "3838782853937",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrovalna pecnica Gorenje MO20A3BH",
           "barkod": "3838782667336",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pecnica ugradbena ELECTROLUX LOX8P87WZ PizzaExpert",
