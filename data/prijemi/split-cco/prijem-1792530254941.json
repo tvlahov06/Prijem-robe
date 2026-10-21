@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T21:04:14.941Z",
-  "azurirano": "2026-10-20T21:04:14.941Z",
+  "azurirano": "2026-10-21T05:15:34.336Z",
   "dokumenti": [
     {
       "naziv": "MSI 6718-101",
@@ -358,13 +358,13 @@
           "naziv": "Televizor SAMSUNG UE50U8072HUXXH 2026, 127 cm XH (50\"), UHD, Smart TV, Tizen OS",
           "barkod": "8806097978244",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG QE50QN70HAUXXH 2026, 127 cm XXH (50\"), Neo QLED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806099024147",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor SAMSUNG QE55S85HAEXXH 2026, 139,7 cm H (55\"), OLED, 4K UHD, Smart TV, Tizen OS",
@@ -388,7 +388,7 @@
           "naziv": "Televizor LG OLED65C61LA 2026, 165,1 cm (65\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
           "barkod": "8806096685969",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 32A4S 2026, 81,3 cm (32\"), DLED, HD, Smart TV, VIDAA OS",
