@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T09:04:18.202Z",
-  "azurirano": "2026-10-21T09:41:16.432Z",
+  "azurirano": "2026-10-21T09:41:22.327Z",
   "dokumenti": [
     {
       "naziv": "MSI 6760-101",
@@ -726,19 +726,19 @@
           "naziv": "Televizor SAMSUNG QE50QN70HAUXXH 2026, 127 cm XXH (50\"), Neo QLED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806099024147",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor PHILIPS 55PUS7001 2026, 139,7 cm (55\"), LED, UHD 4K, Smart TV, Titan OS",
           "barkod": "8718863051627",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SONY K50S25M2PB 2026, 126 cm (50\"), Bravia 2 EI II, 4K Google TV",
           "barkod": "4548736180383",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
