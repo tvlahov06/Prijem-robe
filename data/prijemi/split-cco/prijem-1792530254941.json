@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T21:04:14.941Z",
-  "azurirano": "2026-10-21T06:35:53.361Z",
+  "azurirano": "2026-10-21T06:35:58.441Z",
   "dokumenti": [
     {
       "naziv": "MSI 6718-101",
@@ -558,7 +558,7 @@
           "naziv": "Usisavac Rowenta RO4B63EA",
           "barkod": "3221616093133",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BGB41POW1 ProPower Crna",
