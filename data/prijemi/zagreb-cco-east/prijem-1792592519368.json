@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T14:21:59.368Z",
-  "azurirano": "2026-10-21T22:11:04.542Z",
+  "azurirano": "2026-10-21T22:11:48.833Z",
   "dokumenti": [
     {
       "naziv": "MSI 6791-101",
@@ -66,7 +66,7 @@
           "naziv": "Laptop HP VICTUS 15-fa2001nmx, 39.6 cm (15.6\") FHD, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 4050 6GB,",
           "barkod": "821844546567",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Go 15 NX.J7WEX.00Q, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
@@ -483,7 +483,7 @@
           "naziv": "Usisavac stapni Dyson V12 Detect Slim Absolute (494876)",
           "barkod": "5025155136294",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Usisavac stapni Dyson V15 Detect Absolute",
@@ -495,7 +495,7 @@
           "naziv": "Usisavac stapni Dyson V10 Cyclone Submarine + low reach adapter (626460)",
           "barkod": "5025155137697",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Dyson susilo za kosu Supersonic HD07 Prussian Blue/ Rich Copper (Curly+Coily)",
