@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T14:21:59.368Z",
-  "azurirano": "2026-10-21T22:12:09.517Z",
+  "azurirano": "2026-10-21T22:12:24.648Z",
   "dokumenti": [
     {
       "naziv": "MSI 6791-101",
@@ -1228,7 +1228,7 @@
           "naziv": "Mis MS NEMESIS T-106WBC",
           "barkod": "3856032100679",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis MS NEMESIS T-105WBC",
@@ -1276,7 +1276,7 @@
           "naziv": "Tinta HP GT52 M0H54AE, Cyan",
           "barkod": "190780132517",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK KINGSTON FD Exodia 64GB USB 3.2",
@@ -1396,7 +1396,7 @@
           "naziv": "MIS SBOX M-958 Crni",
           "barkod": "0616320538309",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ADATA C906, 32GB, USB 2.0 plavi",
