@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T21:04:14.941Z",
-  "azurirano": "2026-10-21T05:16:16.961Z",
+  "azurirano": "2026-10-21T05:16:22.516Z",
   "dokumenti": [
     {
       "naziv": "MSI 6718-101",
@@ -334,7 +334,7 @@
           "naziv": "Televizor HISENSE 32A5S 2026, 81,3 cm (32\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
           "barkod": "6942351429441",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 50E7S 2026, 126 cm (50\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
@@ -394,7 +394,7 @@
           "naziv": "Televizor HISENSE 32A4S 2026, 81,3 cm (32\"), DLED, HD, Smart TV, VIDAA OS",
           "barkod": "6942351429205",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
