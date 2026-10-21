@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T21:04:14.941Z",
-  "azurirano": "2026-10-21T06:16:03.022Z",
+  "azurirano": "2026-10-21T06:16:16.932Z",
   "dokumenti": [
     {
       "naziv": "MSI 6718-101",
@@ -96,7 +96,7 @@
           "naziv": "PS5 Dualsense Edge Wireless Stick Module",
           "barkod": "711719444497",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Mortal Kombat 1 PS5 A38",
@@ -114,7 +114,7 @@
           "naziv": "PlayStation Link USB Adapter",
           "barkod": "711719574392",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PS5 Disc Drive (Slim D chassis)",
@@ -138,13 +138,13 @@
           "naziv": "Nintendo Switch 2 AC Adapter",
           "barkod": "0045496321352",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Nintendo Switch 2 Pro-Controller",
           "barkod": "0045496321475",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PS5 Dualsense Edge Wireless Controller v2",
