@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T09:04:18.202Z",
-  "azurirano": "2026-10-21T10:18:54.666Z",
+  "azurirano": "2026-10-21T10:42:23.478Z",
   "dokumenti": [
     {
       "naziv": "MSI 6760-101",
@@ -633,53 +633,6 @@
           "barkod": "3838782753442",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6820-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac stapni Dyson V12 Detect Slim Absolute (494876)",
-          "barkod": "5025155136294",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V10 Cyclone Submarine + low reach adapter (626460)",
-          "barkod": "5025155137697",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Dyson susilo za kosu Supersonic HD07 Prussian Blue/ Rich Copper (Curly+Coily)",
-          "barkod": "5025155117859",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V12s Detect Slim Submarine + Low-reach adaptor",
-          "barkod": "5025155137277",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Cetka za oblikovanje kose Dyson Airsmooth (493078) Ceramic Pink/Rose Gold",
-          "barkod": "5025155140376",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V16 Piston Animal Submarine",
-          "barkod": "5025155114841",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB505DG 500W",
-          "barkod": "8006447000070",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     },
