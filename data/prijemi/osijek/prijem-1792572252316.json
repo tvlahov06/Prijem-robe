@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T08:44:12.316Z",
-  "azurirano": "2026-10-21T11:46:55.315Z",
+  "azurirano": "2026-10-21T11:47:13.379Z",
   "dokumenti": [
     {
       "naziv": "MSI 6770-101",
@@ -329,7 +329,7 @@
           "naziv": "Glacalo Philips DST3031/20",
           "barkod": "8720389003066",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Tefal DB1612E0 putno",
@@ -359,7 +359,7 @@
           "naziv": "Mikser stapni Gorenje HBX1500VS",
           "barkod": "3838782994227",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Kuhinjski asistent Bosch MUM5XW40 MUM5 CreationLine",
