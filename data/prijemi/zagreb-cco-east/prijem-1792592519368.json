@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T14:21:59.368Z",
-  "azurirano": "2026-10-21T22:25:47.541Z",
+  "azurirano": "2026-10-21T22:26:08.476Z",
   "dokumenti": [
     {
       "naziv": "MSI 6791-101",
@@ -572,7 +572,7 @@
           "naziv": "Web kamera Logitech C270 HD",
           "barkod": "5099206064201",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Volan LOGITECH G G29 + mjenjac",
@@ -626,7 +626,7 @@
           "naziv": "Mis Logitech M196, crni",
           "barkod": "5099206128330",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bezicni mis Logitech M850 L",
