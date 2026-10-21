@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T09:04:18.202Z",
-  "azurirano": "2026-10-21T09:22:51.630Z",
+  "azurirano": "2026-10-21T09:22:58.197Z",
   "dokumenti": [
     {
       "naziv": "MSI 6760-101",
@@ -85,7 +85,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
