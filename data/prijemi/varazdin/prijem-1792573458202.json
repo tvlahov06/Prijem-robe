@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T09:04:18.202Z",
-  "azurirano": "2026-10-21T09:56:20.448Z",
+  "azurirano": "2026-10-21T09:56:30.165Z",
   "dokumenti": [
     {
       "naziv": "MSI 6760-101",
@@ -406,7 +406,7 @@
           "naziv": "prijenosni bluetooth JBL GO 5 maskirni",
           "barkod": "1200130034336",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
@@ -442,13 +442,13 @@
           "naziv": "Zvucnik prijenosni bluetooth JBL GO 5 crveni",
           "barkod": "1200130034305",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice JBL TUNE 110E crne",
           "barkod": "1200130022722",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice bezicne JBL WAVE BEAM 2 True Wireless crne",
