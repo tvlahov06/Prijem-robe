@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T09:04:18.202Z",
-  "azurirano": "2026-10-21T09:47:42.184Z",
+  "azurirano": "2026-10-21T09:51:37.162Z",
   "dokumenti": [
     {
       "naziv": "MSI 6760-101",
@@ -412,7 +412,7 @@
           "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
           "barkod": "1200130026294",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX ULTIMATE 2 LT2EU",
@@ -478,7 +478,7 @@
           "naziv": "Soundbar JBL BAR 2.1 DEEP BASS MK2 BLKEP",
           "barkod": "6925281926501",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
