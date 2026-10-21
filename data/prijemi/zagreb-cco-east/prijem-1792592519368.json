@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T14:21:59.368Z",
-  "azurirano": "2026-10-21T23:04:41.366Z",
+  "azurirano": "2026-10-21T23:04:49.800Z",
   "dokumenti": [
     {
       "naziv": "MSI 6791-101",
@@ -1252,7 +1252,7 @@
           "naziv": "Tipkovnica MS ELITE K-701C",
           "barkod": "3856032100761",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link Bluetooth adapter 4.0 UB400",
