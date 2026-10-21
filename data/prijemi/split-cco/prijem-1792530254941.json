@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T21:04:14.941Z",
-  "azurirano": "2026-10-21T06:30:27.405Z",
+  "azurirano": "2026-10-21T06:30:46.103Z",
   "dokumenti": [
     {
       "naziv": "MSI 6718-101",
@@ -840,7 +840,7 @@
           "naziv": "Blender Philips HR3760/00",
           "barkod": "8720389013539",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sokovnik Philips HR1888/70",
