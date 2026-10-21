@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T14:21:59.368Z",
-  "azurirano": "2026-10-21T22:06:32.333Z",
+  "azurirano": "2026-10-21T22:06:44.222Z",
   "dokumenti": [
     {
       "naziv": "MSI 6791-101",
@@ -489,7 +489,7 @@
           "naziv": "Usisavac stapni Dyson V15 Detect Absolute",
           "barkod": "5025155136201",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac stapni Dyson V10 Cyclone Submarine + low reach adapter (626460)",
@@ -507,13 +507,13 @@
           "naziv": "Usisavac stapni Dyson V12s Detect Slim Submarine + Low-reach adaptor",
           "barkod": "5025155137277",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetka za oblikovanje kose Dyson Airsmooth (493078) Ceramic Pink/Rose Gold",
           "barkod": "5025155140376",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
@@ -543,7 +543,7 @@
           "naziv": "Blender Nutribullet NB907CP 900W",
           "barkod": "8006447000087",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Blender Nutribullet NB606R 600W",
