@@ -5,7 +5,7 @@
   "datum": "2026-10-21",
   "status": "aktivan",
   "kreirano": "2026-10-21T14:21:59.368Z",
-  "azurirano": "2026-10-21T23:04:35.411Z",
+  "azurirano": "2026-10-21T23:04:41.366Z",
   "dokumenti": [
     {
       "naziv": "MSI 6791-101",
@@ -1432,7 +1432,7 @@
           "naziv": "Podloga za mis HyperX Pulsefire 2XL",
           "barkod": "196188567340",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 64GB, USB3.2 BE",
