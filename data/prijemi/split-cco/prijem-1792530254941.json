@@ -5,7 +5,7 @@
   "datum": "2026-10-20",
   "status": "aktivan",
   "kreirano": "2026-10-20T21:04:14.941Z",
-  "azurirano": "2026-10-21T05:16:22.516Z",
+  "azurirano": "2026-10-21T05:18:47.868Z",
   "dokumenti": [
     {
       "naziv": "MSI 6718-101",
@@ -642,7 +642,7 @@
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
           "barkod": "8720389030307",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3B10 Piccolo XS black/anthracite PF",
@@ -714,7 +714,7 @@
           "naziv": "Parna postaja Tefal GV9812E0",
           "barkod": "3121040082331",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Tefal GV9823E1, 9 bara, Gold Black",
