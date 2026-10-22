@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "zavrsen",
   "kreirano": "2026-10-22T06:15:57.046Z",
-  "azurirano": "2026-10-22T09:32:51.650Z",
+  "azurirano": "2026-10-22T09:32:56.684Z",
   "dokumenti": [
     {
       "naziv": "MSI 6778-101",
@@ -452,112 +452,6 @@
           "barkod": "3121040086414",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6818-101",
-      "stavke": [
-        {
-          "naziv": "Call of Duty: Modern Warfare 4 PS5",
-          "barkod": "196388866229",
-          "ocekivano": 45,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Call of Duty: Modern Warfare 4 Switch 2",
-          "barkod": "196388879939",
-          "ocekivano": 5,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6819-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac stapni Dyson V12 Detect Slim Absolute (494876)",
-          "barkod": "5025155136294",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V10 Cyclone Submarine + low reach adapter (626460)",
-          "barkod": "5025155137697",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Dyson susilo za kosu Supersonic HD07 Prussian Blue/ Rich Copper (Curly+Coily)",
-          "barkod": "5025155117859",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V12s Detect Slim Submarine + Low-reach adaptor",
-          "barkod": "5025155137277",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V16 Piston Animal",
-          "barkod": "5025155114834",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V8 Total Clean",
-          "barkod": "5025155080306",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
-          "barkod": "5025155117187",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Dyson uredaj za ravnanje kose Airstrait s intergriranim cesljem (650104) Plum/Copper",
-          "barkod": "5025155141861",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Prussian Blue/Rich Copper Straight+Wavy",
-          "barkod": "5025155117378",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic Apricot/Topaz Straight+Wavy",
-          "barkod": "5025155127964",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB907CP 900W",
-          "barkod": "8006447000087",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB606R 600W",
-          "barkod": "8006447001190",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB505DG 500W",
-          "barkod": "8006447000070",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
-          "barkod": "8006447002166",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     },
