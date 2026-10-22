@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-arena",
   "naziv": "22.10.2026.",
   "datum": "2026-10-22",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-10-22T06:15:57.046Z",
-  "azurirano": "2026-10-22T09:08:31.048Z",
+  "azurirano": "2026-10-22T09:31:17.137Z",
   "dokumenti": [
     {
       "naziv": "MSI 6778-101",
@@ -1084,5 +1084,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-10-22T09:31:17.136Z"
 }
