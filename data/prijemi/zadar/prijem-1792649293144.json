@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T08:27:56.412Z",
+  "azurirano": "2026-10-22T08:28:08.922Z",
   "dokumenti": [
     {
       "naziv": "MSI 6781-101",
@@ -1461,7 +1461,7 @@
           "naziv": "Red Dead Redemption 2 PS4 F37",
           "barkod": "5026555423052",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "GTA V PREMIUM ONLINE EDITION PS4 E32 S4",
@@ -1485,13 +1485,13 @@
           "naziv": "GTA V PS5 C38",
           "barkod": "5026555431842",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Call of Duty: Modern Warfare II PS5 E24",
           "barkod": "5030917297038",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 4
         },
         {
           "naziv": "Mortal Kombat 1 PS5 A38",
