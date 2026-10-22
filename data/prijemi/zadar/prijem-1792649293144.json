@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T08:27:24.170Z",
+  "azurirano": "2026-10-22T08:27:35.641Z",
   "dokumenti": [
     {
       "naziv": "MSI 6781-101",
@@ -1497,7 +1497,7 @@
           "naziv": "Mortal Kombat 1 PS5 A38",
           "barkod": "5051895416815",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Marvel's Spider-Man 2 Standard Edition PS5 D35",
@@ -1557,13 +1557,13 @@
           "naziv": "Splatoon Raiders Switch 2",
           "barkod": "0045496314309",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "The Crew Motorfest (GAME KEY CARD) Switch 2",
           "barkod": "3307216315230",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
