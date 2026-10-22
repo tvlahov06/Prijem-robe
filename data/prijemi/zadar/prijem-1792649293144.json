@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T09:45:31.025Z",
+  "azurirano": "2026-10-22T09:46:14.147Z",
   "dokumenti": [
     {
       "naziv": "MSI 6782-101",
@@ -63,23 +63,6 @@
           "barkod": "5056577754568",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6801-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac stapni Dyson V12s Detect Slim Submarine",
-          "barkod": "5025155131992",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac rucni Gorenje MVC72FW",
-          "barkod": "3838782040542",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
