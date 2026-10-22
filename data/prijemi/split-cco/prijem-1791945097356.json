@@ -2,10 +2,10 @@
   "id": "prijem-1791945097356",
   "poslovnica": "split-cco",
   "naziv": "Komisija u dolasku",
-  "datum": "2026-10-19",
+  "datum": "2026-10-22",
   "status": "aktivan",
-  "kreirano": "2026-10-19T22:26:12.510Z",
-  "azurirano": "2026-10-19T22:26:12.510Z",
+  "kreirano": "2026-10-22T17:40:23.854Z",
+  "azurirano": "2026-10-22T17:40:23.854Z",
   "dokumenti": [
     {
       "naziv": "Orbico",
@@ -169,6 +169,410 @@
           "naziv": "Pametni sat Google Pixel Watch 5 (45mm) Silver",
           "barkod": "840353962262",
           "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Comtrade",
+      "stavke": [
+        {
+          "naziv": "Akcijska kamera GoPro Mission 1",
+          "barkod": "810116385188",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Akcijska kamera GoPro Mission 1 Pro Grip Edition",
+          "barkod": "810116385331",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Mic Mini 2S (1 TX + 1 Mobile RX + Charging Case)",
+          "barkod": "6937224149489",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Mic Mini 2S (1 TX + 1 RX)",
+          "barkod": "6937224149403",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Mic Mini 2S Transmitter",
+          "barkod": "6937224149342",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Mini 5 Pro Fly More Combo (DJI RC2)",
+          "barkod": "6937224123212",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI OSMO Action 4 Adventure Combo",
+          "barkod": "6941565965080",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI OSMO Action 4 Standard Combo",
+          "barkod": "6941565965073",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Osmo Action 6 Standard Combo",
+          "barkod": "6937224126060",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Osmo Pocket 4 Standard Combo",
+          "barkod": "6937224133099",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Osmo Pocket 4P Vlog Combo",
+          "barkod": "6937224148307",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Avata 360 Fly More Combo (DJI RC 2)",
+          "barkod": "6937224137622",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Lito 1",
+          "barkod": "6937224146877",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Lito X1 Fly More Combo (DJI RC-N3)",
+          "barkod": "6937224140714",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Lito X1 Fly More Combo Plus (DJI RC 2)",
+          "barkod": "6937224142756",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Neo",
+          "barkod": "6941565988362",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Neo 2 (samo dron)",
+          "barkod": "6937224131767",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Neo 2 Fly More Combo",
+          "barkod": "6937224131774",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gimbal DJI Osmo Mobile 8P Standard Combo",
+          "barkod": "6937224142947",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GoPro HERO 13 Black",
+          "barkod": "810116381616",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GoPro Hero13 Black Extended Power Bundle",
+          "barkod": "0810116383931",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GoPro LIT HERO Black",
+          "barkod": "810116384136",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GoPro pribor Travel Kit",
+          "barkod": "818279024142",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kamera DJI Osmo Pocket 4 Creator Combo",
+          "barkod": "6937224133082",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "H2O",
+      "stavke": [
+        {
+          "naziv": "METHOD 360 ANC Skullcandy True Wireless slusalice",
+          "barkod": "810145321935",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Skullcandy Crusher ANC 2 Wireless S6CAW-R740",
+          "barkod": "0810045688817",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Skullcandy CRUSHER EVO WIRELESS OVER-EAR",
+          "barkod": "0810015587249",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Skullcandy CRUSHER WIRELESS OVER-EAR",
+          "barkod": "878615084377",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Skullcandy DIME_EVO TRUE WIRELESS IN-EAR",
+          "barkod": "810145320396",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Skullcandy HESH ANC WIRELESS OVER-EAR",
+          "barkod": "0810015588512",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Skullcandy HESH EVO WIRELESS OVER-EAR",
+          "barkod": "0810015587195",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Skullcandy PUSH_ANC_ACTIVE TRUE WIRELESS IN-EAR",
+          "barkod": "810045689487",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Skullcandy Rail ANC TWS S2IPW-P740, crne",
+          "barkod": "0810045686653",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Skullcandy SMOKIN BUDS 360 TRUE WIRELESS IN-EAR crne",
+          "barkod": "810145322673",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Skullcandy SMOKIN BUDS TRUE WIRELESS IN-EAR",
+          "barkod": "0810045688770",
+          "ocekivano": 5,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Mobis",
+      "stavke": [
+        {
+          "naziv": "Pametna kamera XIAOMI C701 PRO EU",
+          "barkod": "6932554451370",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna narukvica XIAOMI 11 Active crna",
+          "barkod": "6932554400712",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna narukvica XIAOMI 11 Active roza",
+          "barkod": "6932554400743",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna narukvica XIAOMI 11 Active siva",
+          "barkod": "6932554400736",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna stropna svetiljka XIAOMI MI SMART LED CEILING LIGHT D40",
+          "barkod": "6932554417550",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat XIAOMI REDMI Watch 6 Active matte silver",
+          "barkod": "6932554406059",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat XIAOMI REDMI Watch 6 Active midnight black",
+          "barkod": "6932554406103",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat XIAOMI REDMI Watch 6 Active sunset orange",
+          "barkod": "6932554406080",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat XIAOMI REDMI Watch 6 crni",
+          "barkod": "6932554452520",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat XIAOMI REDMI Watch 6 Lite crni",
+          "barkod": "6932554406042",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat XIAOMI REDMI Watch 6 Lite sivi",
+          "barkod": "6932554406004",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat XIAOMI REDMI Watch 6 plavi",
+          "barkod": "6932554452667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat XIAOMI REDMI Watch 6 sivi",
+          "barkod": "6932554452643",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat XIAOMI Watch S5 46mm srebrni",
+          "barkod": "6932554463366",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija XIAOMI UltraThin Magnetic 5000mAh 15W crna",
+          "barkod": "6932554496173",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija XIAOMI UltraThin Magnetic 5000mAh 15W narancasta",
+          "barkod": "6932554412692",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija XIAOMI UltraThin Magnetic 5000mAh 15W srebrna",
+          "barkod": "6932554494001",
+          "ocekivano": 5,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Mobis2",
+      "stavke": [
+        {
+          "naziv": "Odvlazivac zraka XIAOMI Dehumidifier Lite",
+          "barkod": "6941812777466",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ovlazivac zraka XIAOMI Humidifier 2",
+          "barkod": "6934177783982",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ovlazivac zraka XIAOMI Mijia Smart Evaporative Humidifier Pro EU",
+          "barkod": "6932554439644",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ovlazivac zraka Xiaomi Smart Humidifier 2 Lite EU",
+          "barkod": "6934177799785",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prociscivac zraka XIAOMI Mijia Smart Air Purifier 6",
+          "barkod": "6932554469139",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prociscivac zraka XIAOMI Mijia Smart Air Purifier 6 Plus",
+          "barkod": "6932554400538",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prociscivac zraka XIAOMI Mijia Smart Air Purifier Max",
+          "barkod": "6932554490805",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prociscivac zraka Xiaomi Smart Air Purifier 4 Elite",
+          "barkod": "6934177793394",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prociscivac zraka Xiaomi Smart Air Purifier 4 Lite",
+          "barkod": "6934177751158",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prociscivac zraka Xiaomi Smart Air Purifier 4 Pro",
+          "barkod": "6934177743665",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prociscivac zraka XIAOMI Smart Pet Care Air Purifier",
+          "barkod": "6932554418373",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Senzor temperature i vlage XIAOMI Smart Temperature and Humidity Monitor 3 Mini",
+          "barkod": "6932554422325",
+          "ocekivano": 6,
           "skenirano": 0
         }
       ]
