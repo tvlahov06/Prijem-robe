@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T07:11:09.922Z",
+  "azurirano": "2026-10-22T07:11:20.333Z",
   "dokumenti": [
     {
       "naziv": "MSI 6781-101",
@@ -1200,7 +1200,7 @@
           "naziv": "TP-Link Bluetooth adapter 4.0 UB400",
           "barkod": "6935364099664",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston DataTraveler Exodia M 256GB, USB3.2",
