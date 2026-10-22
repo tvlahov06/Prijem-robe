@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:15:57.046Z",
-  "azurirano": "2026-10-22T07:34:51.539Z",
+  "azurirano": "2026-10-22T07:36:06.770Z",
   "dokumenti": [
     {
       "naziv": "MSI 6778-101",
@@ -164,7 +164,7 @@
           "naziv": "Sjeckalica Tefal K1320404 900ML, rucna",
           "barkod": "3168430275591",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pekac kruha Tefal PF611838",
@@ -200,7 +200,7 @@
           "naziv": "Citruseta Philips HR2738/00",
           "barkod": "8710103641315",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kuhalo za vodu Gorenje K15DWW",
