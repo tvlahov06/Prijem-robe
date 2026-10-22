@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T08:49:18.921Z",
+  "azurirano": "2026-10-22T08:49:23.482Z",
   "dokumenti": [
     {
       "naziv": "MSI 6781-101",
@@ -939,7 +939,7 @@
           "naziv": "USB STICK Kingston DataTraveler microDuo 3C 64GB, USB GB 3.2, USB-A+C",
           "barkod": "740617328219",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Microsoft Office Home 2024 FPP Medialess ENG, EP2-06812",
@@ -1170,7 +1170,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "USB STICK KINGSTON FD Exodia 128GB USB 3.2",
