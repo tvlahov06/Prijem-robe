@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:15:57.046Z",
-  "azurirano": "2026-10-22T07:08:17.123Z",
+  "azurirano": "2026-10-22T07:09:50.359Z",
   "dokumenti": [
     {
       "naziv": "MSI 6778-101",
@@ -247,7 +247,7 @@
           "naziv": "Usisavac Philips XD8152/12",
           "barkod": "8720389037955",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9744/09",
@@ -295,7 +295,7 @@
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
           "barkod": "8720389040733",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac stapni JIMMY H10 Flex",
@@ -439,7 +439,7 @@
           "naziv": "Parna postaja Philips PSG8200/70",
           "barkod": "8720389066511",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Philips PSG8300/80",
