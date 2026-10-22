@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T09:49:57.118Z",
+  "azurirano": "2026-10-22T09:50:16.844Z",
   "dokumenti": [
     {
       "naziv": "MSI 6782-101",
@@ -139,101 +139,6 @@
           "barkod": "195951382364",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6711-101",
-      "stavke": [
-        {
-          "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
-          "barkod": "5099206112100",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Web kamera LOGITECH BRIO 4K, grafit",
-          "barkod": "5099206129719",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Logitech G PRO X2 LIGHTSPEED, gaming, bezicne, crne",
-          "barkod": "5099206109056",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Podloga za mis Logitech Studio, crna",
-          "barkod": "5099206099470",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Gaming mis Logitech G PRO X SUPERLIGHT 2 LIGHTSPEED, magenta",
-          "barkod": "5099206113169",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tipkovnica Logitech K400+ crna",
-          "barkod": "5099206070868",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tipkovnica LOGITECH G413 TKL SE, taktilni prekidaci, PBT tipke, aluminijsko kuciste, bijelo LED osvjetljenje,",
-          "barkod": "5099206097971",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tipkovnica LOGITECH MK250 graphite",
-          "barkod": "5099206130982",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Podloga za mis LOGITECH G840 XL, crna",
-          "barkod": "5099206104310",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnici Logitech Z150, 2.0, bijeli",
-          "barkod": "5099206048799",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech POP Universal, bijeli",
-          "barkod": "5099206126398",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Web kamera Logitech C270 HD",
-          "barkod": "5099206064201",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Logitech G Pro X SE zicne",
-          "barkod": "5099206125575",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Podloga za mis Logitech Desk Mat Studio, roza",
-          "barkod": "5099206099517",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, crni",
-          "barkod": "5099206134737",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
