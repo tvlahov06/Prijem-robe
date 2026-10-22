@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T08:36:54.237Z",
+  "azurirano": "2026-10-22T08:43:29.581Z",
   "dokumenti": [
     {
       "naziv": "MSI 6781-101",
@@ -587,7 +587,7 @@
           "naziv": "Tipkovnica LOGITECH MK250 graphite",
           "barkod": "5099206130982",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Komplet tipkovnice i misa Logitech MK880",
@@ -1301,7 +1301,7 @@
           "naziv": "Tipkovnica LOGITECH MK250 graphite",
           "barkod": "5099206130982",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Podloga za mis LOGITECH G840 XL, crna",
