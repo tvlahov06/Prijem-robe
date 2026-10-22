@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T06:08:13.144Z",
+  "azurirano": "2026-10-22T06:56:10.532Z",
   "dokumenti": [
     {
       "naziv": "MSI 6781-101",
@@ -1027,7 +1027,7 @@
           "naziv": "Perilica posuda samostojeca 60cm Hisense HS642D90B",
           "barkod": "6974805075805",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Hladnjak kombinirani Hisense RB372N4AC2",
@@ -1039,13 +1039,13 @@
           "naziv": "Susilica rublja HISENSE DH5I104BBAB",
           "barkod": "6901101834126",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja HISENSE WF5I1045BBQ",
           "barkod": "6901101834089",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
