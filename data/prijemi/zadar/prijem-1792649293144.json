@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T08:47:14.476Z",
+  "azurirano": "2026-10-22T08:47:23.839Z",
   "dokumenti": [
     {
       "naziv": "MSI 6781-101",
@@ -831,7 +831,7 @@
           "naziv": "Mis ACER Smart Fit Vertical Mouse, Crna",
           "barkod": "4712842946755",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Microsoft Office Home and Business 2024 Medialess CRO, EP2-06649",
@@ -849,7 +849,7 @@
           "naziv": "Tinta Canon CL-576 color",
           "barkod": "4549292192650",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica MS ELITE K-703C",
@@ -873,13 +873,13 @@
           "naziv": "Mis MS NEMESIS T-106WBC",
           "barkod": "3856032100679",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis MS NEMESIS T-105WBC",
           "barkod": "3856032100686",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis MS NEMESIS T-104C",
@@ -921,7 +921,7 @@
           "naziv": "Tinta HP GT52 M0H54AE, Cyan",
           "barkod": "190780132517",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Kyson 64GB USB 3.2",
