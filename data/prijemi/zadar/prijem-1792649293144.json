@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T08:54:15.166Z",
+  "azurirano": "2026-10-22T08:54:19.395Z",
   "dokumenti": [
     {
       "naziv": "MSI 6781-101",
@@ -748,7 +748,7 @@
           "naziv": "Tipkovnica MSI ALPHA C100",
           "barkod": "3856005179251",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick Samsung 64GB BAR Plus crni MUF-64BE4/APC",
@@ -784,7 +784,7 @@
           "naziv": "Mis MS NEMESIS T-102C",
           "barkod": "3856032100716",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mis MS NEMESIS T-101C",
