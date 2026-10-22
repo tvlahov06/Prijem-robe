@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "zavrsen",
   "kreirano": "2026-10-22T06:15:57.046Z",
-  "azurirano": "2026-10-22T09:31:17.137Z",
+  "azurirano": "2026-10-22T09:32:51.650Z",
   "dokumenti": [
     {
       "naziv": "MSI 6778-101",
@@ -452,71 +452,6 @@
           "barkod": "3121040086414",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6817-101",
-      "stavke": [
-        {
-          "naziv": "Paladone Playstation podloga za mis svjetleca V2",
-          "barkod": "5056577711929",
-          "ocekivano": 6,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Paladone Astrobot LED Neon zidna svjetiljka",
-          "barkod": "5056577768633",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Paladone Playstation Anti Stres Controller PS5 V2",
-          "barkod": "5055964783600",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Paladone Playstation stolni nosac za slusalice sa svjetlom",
-          "barkod": "5056577751413",
-          "ocekivano": 6,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Paladone Astrobot Embossed 3D salica",
-          "barkod": "5056577769623",
-          "ocekivano": 8,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Paladone Playstation LED Neon Bulb stolna svjetiljka",
-          "barkod": "5056577745559",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Paladone Astrobot Icon sat sa alarmom",
-          "barkod": "5056577751482",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Paladone Playstation LED Neon logo zarulja",
-          "barkod": "5056577746327",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Paladone Astrobot Gamer salica",
-          "barkod": "5056577769609",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Paldaone Astrobot kasica prasica",
-          "barkod": "5056577754568",
-          "ocekivano": 3,
-          "skenirano": 0
         }
       ]
     },
