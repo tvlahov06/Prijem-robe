@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:15:57.046Z",
-  "azurirano": "2026-10-22T09:06:49.966Z",
+  "azurirano": "2026-10-22T09:06:54.200Z",
   "dokumenti": [
     {
       "naziv": "MSI 6778-101",
@@ -253,7 +253,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XB2122/09",
@@ -331,7 +331,7 @@
           "naziv": "Usisavac robot Roborock Qrevo S Pro crna",
           "barkod": "6936905906298",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Q10 VF+ crna",
