@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T07:33:53.061Z",
+  "azurirano": "2026-10-22T07:34:02.464Z",
   "dokumenti": [
     {
       "naziv": "MSI 6781-101",
@@ -1669,7 +1669,7 @@
           "naziv": "Aparat za kavu Philips EP3347/90 espresso",
           "barkod": "8720389030222",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECO 311.W Metal Icona White",
@@ -1729,7 +1729,7 @@
           "naziv": "Parna postaja Tefal SV8151E0",
           "barkod": "3121040086414",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal GV9823E1, 9 bara, Gold Black",
@@ -1789,7 +1789,7 @@
           "naziv": "Friteza na vruci zrak Philips NA552/00 Airfryer Dual Basket, para",
           "barkod": "8720389049286",
           "ocekivano": 2,
-          "skenirano": 2
+          "skenirano": 5
         },
         {
           "naziv": "Friteza na vruci zrak Tefal EY245B10 Easy Fry Max crna",
