@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "zavrsen",
   "kreirano": "2026-10-22T06:15:57.046Z",
-  "azurirano": "2026-10-22T09:33:06.646Z",
+  "azurirano": "2026-10-22T09:33:10.378Z",
   "dokumenti": [
     {
       "naziv": "MSI 6778-101",
@@ -452,131 +452,6 @@
           "barkod": "3121040086414",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6833-101",
-      "stavke": [
-        {
-          "naziv": "Laptop ACER Aspire Lite 15 NX.DLPEX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711474830203",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA5337W Ryzen 5 F90 40, 16GB, SSD 512GB, 156\" FHD, Radeon Graphics,",
-          "barkod": "4711636496544",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop HP VICTUS 15-fa2001nmx, 39.6 cm (15.6\") FHD, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 4050 6GB,",
-          "barkod": "821844546567",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ACER Aspire Go 15 NX.J7WEX.00Q, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711474945655",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ACER Aspire Lite 15, NX.DTJEX.003, 39.6cm (15.6\") IPS Full HD, Intel Core Ultra 5 115U, 16 GB RAM, 1 TB",
-          "barkod": "4711474971869",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 15 M1502NAQ, 39.6 cm (15.6\") Full 7V0_W11H HD, AMD Ryzen 7 170, 16 GB RAM, 512 GB SSD, AMD",
-          "barkod": "2010033157822",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop LENOVO V15 G5, 39.6cm (15.6\") IPS Full HD, i7-13620H, 32 GB RAM, 1 TB SSD, AMD Radeon 610M,",
-          "barkod": "0199274070892",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop ASUS VivoBook V16 V3607VH-RP010, 40.6cm (16'') 9L0 WUXGA 144Hz, Intel Core 7 240H, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711636350594",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop HP OmniBook 3 17-dp0020nmx, 43.9 cm (17.3\") FHD, AMD Ryzen 5 130, 8 GB RAM, 512 GB SSD, AMD",
-          "barkod": "821844674307",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Indigo, mhff4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
-          "barkod": "195950852578",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Silver, mhfc4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
-          "barkod": "195950851168",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Blush, mhfh4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
-          "barkod": "195950853513",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Silver, mhfa4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
-          "barkod": "195950850697",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop Apple Macbook Air Silver, mdh74cr/a, /M5/16GB/512GB-CRO",
-          "barkod": "195950687217",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "SAMSUNG 27\" Odyssey G5 Gaming Monitor EN LS27FG502EUXEN, IPS 2K/QHD, 180Hz, 1ms, AMD",
-          "barkod": "8806097817796",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Monitor 27\" Samsung Odyssey OLED G5 G50SF, EN LS27FG502SUXEN, OLED, QHD, 180Hz",
-          "barkod": "8806097684046",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "LG 32\" UltraFine Monitor 32UR550K-B, VA 4K UHD, 60Hz, U 4ms, Dynamic Action Sync, AMD FreeSync, DisplayPort, 2x",
-          "barkod": "8806096228159",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Monitor 27\" ACER CE27QX, UM.GCXEE.X01, 2K/QHD, 240Hz, 0.03ms, AMD FreeSync Premium, 2x",
-          "barkod": "4711474846679",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "325QF MSI 31.5\" MAG Gaming Monitor Monitor 325QF E18V, VA E18V 2K/WQHD, 180Hz, 0.5ms, Adaptive-Sync, HDR Ready,",
-          "barkod": "4711377347792",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Monitor ACER Nitro KG271UX1bmiipx 27inch IPS QHD ZeroFrame 16:9 200Hz 250nits 1ms/0.5ms 2xHDMI DP MM",
-          "barkod": "4711474434692",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     }
