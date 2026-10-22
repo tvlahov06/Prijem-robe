@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T10:16:12.394Z",
+  "azurirano": "2026-10-22T10:17:54.673Z",
   "dokumenti": [
     {
       "naziv": "MSI 6782-101",
@@ -80,113 +80,6 @@
           "barkod": "195951382364",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6715-101",
-      "stavke": [
-        {
-          "naziv": "Mikrofon JBL PARTYBOX SMIC",
-          "barkod": "1200130010156",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crni",
-          "barkod": "1200130019555",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice JBL TUNE 110E bijele",
-          "barkod": "1200130022739",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
-          "barkod": "1200130029967",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "prijenosni bluetooth JBL GO 5 maskirni",
-          "barkod": "1200130034336",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
-          "barkod": "1200130026294",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 730BT crne",
-          "barkod": "1200130029837",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Rezervna baterija JBL Battery 400 s kucistem za punjenje RGCASE crna",
-          "barkod": "1200130026874",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice bezicne JBL Tune 135 crna",
-          "barkod": "1200130026003",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice bezicne JBL ENDURANCE ZONE crno zelene LKL",
-          "barkod": "1200130024757",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikrofon JBL Easy Sing Mics ICS",
-          "barkod": "1200130032752",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice bezicne JBL WAVE BEAM 2 True Wireless crne",
-          "barkod": "1200130015250",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX ENCORE 2 EP",
-          "barkod": "1200130020216",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 plavi",
-          "barkod": "1200130019579",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Party light JBL BEAM",
-          "barkod": "1200130012938",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 ljubicasti",
-          "barkod": "1200130019319",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Soundbar JBL BAR 2.1 DEEP BASS MK2 BLKEP",
-          "barkod": "6925281926501",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
