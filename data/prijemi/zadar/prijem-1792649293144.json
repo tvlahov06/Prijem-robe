@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T08:54:41.671Z",
+  "azurirano": "2026-10-22T08:55:15.456Z",
   "dokumenti": [
     {
       "naziv": "MSI 6781-101",
@@ -357,13 +357,13 @@
           "naziv": "Televizor SAMSUNG UE65M70HAUXXH 2026, 164 cm (65\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097977728",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PRO TCL Premium QD Mini-LED TV 85\" 85C6K Pro, Google TV",
           "barkod": "5901292531638",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -552,7 +552,7 @@
           "naziv": "Soundbar Sony HT-S60 BRAVIA Theatre System 6 Dolby Atmos",
           "barkod": "4548736165427",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "84 TV tuner STRONG SRT 84, DVB-T2 HEVC/H.265, 10 bits, 5V",
