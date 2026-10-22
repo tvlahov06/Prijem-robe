@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T09:47:32.290Z",
+  "azurirano": "2026-10-22T09:47:49.268Z",
   "dokumenti": [
     {
       "naziv": "MSI 6782-101",
@@ -63,17 +63,6 @@
           "barkod": "5056577754568",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6806-101",
-      "stavke": [
-        {
-          "naziv": "EPSON L6570 Printer Color Ecotank A4 32/32 ppm",
-          "barkod": "8715946676432",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
