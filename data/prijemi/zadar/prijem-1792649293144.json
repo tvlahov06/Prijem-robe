@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T07:21:05.303Z",
+  "azurirano": "2026-10-22T07:21:18.730Z",
   "dokumenti": [
     {
       "naziv": "MSI 6781-101",
@@ -1747,7 +1747,7 @@
           "naziv": "Glacalo Philips DST3031/20",
           "barkod": "8720389003066",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Tefal DB1612E0 putno",
@@ -1759,7 +1759,7 @@
           "naziv": "Osvjezivac odjece Philips STH7060/80",
           "barkod": "8720389007484",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA150/00 Airfryer Dual Basket",
