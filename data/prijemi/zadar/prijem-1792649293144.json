@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T06:08:13.144Z",
-  "azurirano": "2026-10-22T08:47:28.889Z",
+  "azurirano": "2026-10-22T08:47:42.237Z",
   "dokumenti": [
     {
       "naziv": "MSI 6781-101",
@@ -813,7 +813,7 @@
           "naziv": "Tinta Epson 103 za L11xx/L12xx/L31xx/L32xx/L51xx/L52xx, 65ml",
           "barkod": "8715946655840",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
@@ -825,7 +825,7 @@
           "naziv": "Microsoft Office Home and Business 2024 Medialess ENG, EP2-06631",
           "barkod": "196388410088",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis ACER Smart Fit Vertical Mouse, Crna",
@@ -837,7 +837,7 @@
           "naziv": "Microsoft Office Home and Business 2024 Medialess CRO, EP2-06649",
           "barkod": "196388410262",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP HyperX PF Has 2 Core Wireless - Gaming Mouse Black",
@@ -945,13 +945,13 @@
           "naziv": "Microsoft Office Home 2024 FPP Medialess ENG, EP2-06812",
           "barkod": "0196388411894",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Microsoft Office Home 2024 CRO, EP2-06832",
           "barkod": "196388412099",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ADATA C008, 32GB, USB2.0, plavo-bijeli",
