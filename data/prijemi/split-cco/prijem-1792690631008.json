@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T17:40:35.817Z",
-  "azurirano": "2026-10-23T06:04:03.600Z",
+  "azurirano": "2026-10-23T06:04:11.773Z",
   "dokumenti": [
     {
       "naziv": "MSI 6807-101",
@@ -1112,7 +1112,7 @@
           "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
           "barkod": "8806097984795",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
@@ -1190,7 +1190,7 @@
           "naziv": "Apple AirPods 5",
           "barkod": "195951379036",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "X-200 TV nosac BOF TVM X-200",
