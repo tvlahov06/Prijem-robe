@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "zavrsen",
   "kreirano": "2026-10-22T17:40:35.817Z",
-  "azurirano": "2026-10-23T07:06:29.076Z",
+  "azurirano": "2026-10-23T07:06:34.815Z",
   "dokumenti": [
     {
       "naziv": "MSI 6850-101",
@@ -21,59 +21,6 @@
           "barkod": "195951382364",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6858-101",
-      "stavke": [
-        {
-          "naziv": "Tipkovnica + mis Logitech MK540 Advanced, bezicna, siva",
-          "barkod": "5099206077522",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mis Logitech M330 Silent Plus, crni",
-          "barkod": "5099206066670",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, crni",
-          "barkod": "5099206134737",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mis Logitech M196, crni",
-          "barkod": "5099206128330",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
-          "barkod": "5099206112100",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tipkovnica LOGITECH MK250 graphite",
-          "barkod": "5099206130982",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech MX Vertical Ergonomic",
-          "barkod": "5099206081901",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Komplet tipkovnice i misa Logitech MK880",
-          "barkod": "5099206136069",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
