@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T10:51:58.510Z",
+  "azurirano": "2026-10-23T10:52:09.542Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -353,7 +353,7 @@
           "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA5337W Ryzen 5 F90 40, 16GB, SSD 512GB, 156\" FHD, Radeon Graphics,",
           "barkod": "4711636496544",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP VICTUS 15-fa2001nmx, 39.6 cm (15.6\") FHD, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 4050 6GB,",
@@ -365,7 +365,7 @@
           "naziv": "Laptop ACER Aspire Go 15 NX.J7WEX.00Q, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
           "barkod": "4711474945655",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15, NX.DTJEX.003, 39.6cm (15.6\") IPS Full HD, Intel Core Ultra 5 115U, 16 GB RAM, 1 TB",
@@ -377,7 +377,7 @@
           "naziv": "Laptop ASUS Vivobook 15 M1502NAQ, 39.6 cm (15.6\") Full 7V0_W11H HD, AMD Ryzen 7 170, 16 GB RAM, 512 GB SSD, AMD",
           "barkod": "2010033157822",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO V15 G5, 39.6cm (15.6\") IPS Full HD, i7-13620H, 32 GB RAM, 1 TB SSD, AMD Radeon 610M,",
