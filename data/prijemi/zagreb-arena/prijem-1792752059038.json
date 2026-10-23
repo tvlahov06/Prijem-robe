@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T11:01:07.875Z",
+  "azurirano": "2026-10-23T11:01:11.452Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -54,7 +54,7 @@
           "naziv": "fotoaparat Fujifilm Instax Mini 13 rozi",
           "barkod": "4547410564853",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 zeleni",
@@ -204,7 +204,7 @@
           "naziv": "Instant fotoaparat Fujifilm Instax Mini 41",
           "barkod": "4547410545180",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT 5 41mm Gold Milanese Strap (Jana-B19M)",
