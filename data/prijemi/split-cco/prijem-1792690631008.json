@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T17:40:35.817Z",
-  "azurirano": "2026-10-23T05:56:37.823Z",
+  "azurirano": "2026-10-23T05:56:45.681Z",
   "dokumenti": [
     {
       "naziv": "MSI 6807-101",
@@ -921,7 +921,7 @@
           "naziv": "Mis MS FLOW MC-105 zicani mis",
           "barkod": "3856032105957",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
