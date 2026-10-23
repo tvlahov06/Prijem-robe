@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T12:47:41.164Z",
+  "azurirano": "2026-10-23T12:48:43.652Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -1272,13 +1272,13 @@
           "naziv": "Stilizator za kosu Babyliss Air Wand AS6550E",
           "barkod": "3030050190731",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD530/00",
           "barkod": "8710103977209",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "IPL depilator Philips BRI983/00 Lumea",
@@ -1320,7 +1320,7 @@
           "naziv": "IPL depilator Philips BRI937/00 Lumea",
           "barkod": "8720689018838",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Susilo za kosu Babyliss 6710DE 2100W difuzor profesionalni AC motor",
@@ -1458,7 +1458,7 @@
           "naziv": "Oblikovatelj za kosu Philips BHA956/00 Airstyler 9000",
           "barkod": "8720689049931",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/87 Optimal White 4/1 white",
