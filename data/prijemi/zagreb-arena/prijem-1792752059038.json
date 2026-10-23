@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T12:57:11.583Z",
+  "azurirano": "2026-10-23T12:57:14.509Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -1308,7 +1308,7 @@
           "naziv": "Brijac za glavu Philips HS7980/15",
           "barkod": "8720689044257",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "za oblikovanje kose Shark HD426SLEU FlexStyle 3u1",
@@ -1506,7 +1506,7 @@
           "naziv": "Sisac za tijelo 10U1 Philips MG5921/15",
           "barkod": "8720689045360",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips nastavak SH93/50 zamjenske glave",
