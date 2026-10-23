@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T17:40:35.817Z",
-  "azurirano": "2026-10-23T06:12:00.273Z",
+  "azurirano": "2026-10-23T06:12:07.692Z",
   "dokumenti": [
     {
       "naziv": "MSI 6807-101",
@@ -420,7 +420,7 @@
           "naziv": "Brijaci aparat Philips S3244/12",
           "barkod": "8720689018609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP440/50 nastavci 360",
@@ -468,7 +468,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX6600/11 For Kids",
           "barkod": "8720689058346",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube OralB PRO Kids 3+ FROZEN+putna torb.",
@@ -510,7 +510,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9212/81 DiamondClean",
           "barkod": "8720689054225",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9052/88 Premium Gum Care Black 2/1",
@@ -540,7 +540,7 @@
           "naziv": "Epilator Philips BRE711/00",
           "barkod": "8720689042185",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
