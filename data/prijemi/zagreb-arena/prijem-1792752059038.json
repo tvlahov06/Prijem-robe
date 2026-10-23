@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T11:03:21.806Z",
+  "azurirano": "2026-10-23T11:03:37.985Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -60,13 +60,13 @@
           "naziv": "fotoaparat Fujifilm Instax Mini 13 zeleni",
           "barkod": "4547410564860",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 bijeli",
           "barkod": "4547410564877",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 ljubicasti",
@@ -192,7 +192,7 @@
           "naziv": "Pametni sat Huawei Watch GT 5 41mm White Leather Strap (Jana-B19L)",
           "barkod": "6942103131967",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB crni",
@@ -288,7 +288,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 plavi 46mm (Atum-B39FC)",
           "barkod": "6942711308621",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Apple Magic Keyboard for iPad Pro 13-inch (M4) Croatian - Black",
