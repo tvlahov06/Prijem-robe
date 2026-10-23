@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T12:54:07.129Z",
+  "azurirano": "2026-10-23T12:54:17.999Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -1356,7 +1356,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP420/50 nastavci 360",
           "barkod": "8710103997153",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Uvijaci - vikleri za kosu Remington H9100 Proluxe",
@@ -1410,7 +1410,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP440/50 nastavci 360",
           "barkod": "8720689016148",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips XP9204/30",
@@ -1464,7 +1464,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/87 Optimal White 4/1 white",
           "barkod": "8720689036450",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7429/01 Sonicare Series 7100 DUO, Blue & White",
@@ -1488,7 +1488,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9052/88 Premium Gum Care Black 2/1",
           "barkod": "8720689037006",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za kosu Philips HC9721/15 Series 9000",
@@ -1530,7 +1530,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9094/88 Premium All-In-One Black 4/1",
           "barkod": "8720689037396",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         }
       ]
     },
