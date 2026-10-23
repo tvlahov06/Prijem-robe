@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T12:02:14.601Z",
+  "azurirano": "2026-10-23T12:02:18.040Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -1081,7 +1081,7 @@
           "naziv": "USB STICK Kingston DataTraveler SE9 G3 256GB, USB3.2, B zlatni",
           "barkod": "740617341379",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Microsoft Office Home 2024 FPP Medialess ENG, EP2-06812",
@@ -1093,7 +1093,7 @@
           "naziv": "USB STICK Kingston DataTraveler SE9 G3 128GB, USB3.2, B zlatni",
           "barkod": "740617341225",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Microsoft Office Home 2024 CRO, EP2-06832",
