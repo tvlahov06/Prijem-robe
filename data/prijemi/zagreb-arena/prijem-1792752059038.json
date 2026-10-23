@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T12:19:04.898Z",
+  "azurirano": "2026-10-23T12:19:10.566Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -1039,19 +1039,19 @@
           "naziv": "Windows 11 Pro CRO 64-bit OEM,",
           "barkod": "889842905854",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta HP GT52 M0H54AE, Cyan",
           "barkod": "190780132517",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta HP GT52 M0H55AE, Magenta",
           "barkod": "190780132531",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Razer DeathAdder Essential 0-R3M1",
