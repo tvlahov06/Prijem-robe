@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T17:40:35.817Z",
-  "azurirano": "2026-10-23T06:07:43.244Z",
+  "azurirano": "2026-10-23T06:08:00.534Z",
   "dokumenti": [
     {
       "naziv": "MSI 6807-101",
@@ -969,13 +969,13 @@
           "naziv": "Tipkovnica MS ELITE K-500C",
           "barkod": "3856032100792",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica MS ELITE-501C",
           "barkod": "3856032100785",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis MS NEMESIS T-102C",
@@ -1071,13 +1071,13 @@
           "naziv": "Tipkovnica MS ELITE K-702C",
           "barkod": "3856032100754",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica MS ELITE-700C",
           "barkod": "3856032100778",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis MS NEMESIS T-106WBC",
