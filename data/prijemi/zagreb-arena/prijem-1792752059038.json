@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T11:55:34.343Z",
+  "azurirano": "2026-10-23T11:55:48.801Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -830,7 +830,7 @@
           "naziv": "Slusalice Sony potpuno bezicne WF-C710N/B",
           "barkod": "4548736164161",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke 7 WH-CH720N/P",
@@ -884,7 +884,7 @@
           "naziv": "Slusalice Sony",
           "barkod": "4548736170599",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bezicni snimac zvuka PLAUD Note AI NB-100, 64GB, srebrni",
