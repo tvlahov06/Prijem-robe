@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T11:34:38.980Z",
+  "azurirano": "2026-10-23T11:36:29.490Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -1664,13 +1664,13 @@
           "naziv": "Usisavac stapni Dyson V12 Detect Slim Absolute (494876)",
           "barkod": "5025155136294",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Usisavac stapni Dyson V10 Cyclone Submarine + low reach adapter (626460)",
           "barkod": "5025155137697",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Dyson susilo za kosu Supersonic HD07 Prussian Blue/ Rich Copper (Curly+Coily)",
@@ -1682,7 +1682,7 @@
           "naziv": "Usisavac stapni Dyson V12s Detect Slim Submarine + Low-reach adaptor",
           "barkod": "5025155137277",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Usisavac stapni Dyson V16 Piston Animal",
@@ -1694,7 +1694,7 @@
           "naziv": "Usisavac stapni Dyson V8 Total Clean",
           "barkod": "5025155080306",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
