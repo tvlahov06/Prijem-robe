@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T12:01:38.398Z",
+  "azurirano": "2026-10-23T12:01:47.344Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -1003,7 +1003,7 @@
           "naziv": "Mis MS NEMESIS T-106WBC",
           "barkod": "3856032100679",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis MS NEMESIS T-105WBC",
@@ -1015,13 +1015,13 @@
           "naziv": "Mis MS NEMESIS T-104C",
           "barkod": "3856032100693",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis MS NEMESIS T-103C",
           "barkod": "3856032100709",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk WD My Passport 4TB, Black, USB 3.2 K-WESN",
@@ -1033,7 +1033,7 @@
           "naziv": "Tipkovnica MS ELITE K-701C",
           "barkod": "3856032100761",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Windows 11 Pro CRO 64-bit OEM,",
