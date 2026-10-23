@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T12:03:24.161Z",
+  "azurirano": "2026-10-23T12:03:28.182Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -1141,7 +1141,7 @@
           "naziv": "HDD WD Elements Portable 2TB, USB 3.0",
           "barkod": "718037855363",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis ASUS MW425 wireless, crni",
@@ -1189,7 +1189,7 @@
           "naziv": "Eksterni disk WD My Passport 5TB, Black, USB 3.2 K-WESN",
           "barkod": "718037868448",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis ASUS MW465 wireless, crni",
@@ -1225,7 +1225,7 @@
           "naziv": "WD My Passport 4TB Portable, USB 3.0 Crveni D-WESN",
           "barkod": "718037870236",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Keychron K10H-J1-UK Black RGB",
