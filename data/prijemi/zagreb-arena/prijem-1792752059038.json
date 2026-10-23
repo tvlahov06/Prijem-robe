@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T10:51:49.201Z",
+  "azurirano": "2026-10-23T10:51:56.184Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -371,7 +371,7 @@
           "naziv": "Laptop ACER Aspire Lite 15, NX.DTJEX.003, 39.6cm (15.6\") IPS Full HD, Intel Core Ultra 5 115U, 16 GB RAM, 1 TB",
           "barkod": "4711474971869",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Vivobook 15 M1502NAQ, 39.6 cm (15.6\") Full 7V0_W11H HD, AMD Ryzen 7 170, 16 GB RAM, 512 GB SSD, AMD",
@@ -389,7 +389,7 @@
           "naziv": "Laptop ASUS VivoBook V16 V3607VH-RP010, 40.6cm (16'') 9L0 WUXGA 144Hz, Intel Core 7 240H, 16 GB RAM, 1 TB SSD,",
           "barkod": "4711636350594",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP OmniBook 3 17-dp0020nmx, 43.9 cm (17.3\") FHD, AMD Ryzen 5 130, 8 GB RAM, 512 GB SSD, AMD",
