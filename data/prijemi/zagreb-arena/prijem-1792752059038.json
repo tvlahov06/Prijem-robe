@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T12:12:02.547Z",
+  "azurirano": "2026-10-23T12:13:06.494Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -735,7 +735,7 @@
           "naziv": "Komplet tipkovnice i misa Logitech MK880",
           "barkod": "5099206136069",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
@@ -747,7 +747,7 @@
           "naziv": "Tipkovnica LOGITECH MK250 graphite",
           "barkod": "5099206130982",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Web kamera Logitech BRIO 300 crna",
@@ -759,7 +759,7 @@
           "naziv": "Web kamera Logitech C270 HD",
           "barkod": "5099206064201",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech MX Vertical Ergonomic",
@@ -801,7 +801,7 @@
           "naziv": "Podloga za mis Logitech Desk Mat Studio, Lila",
           "barkod": "5099206126572",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
