@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T12:13:06.494Z",
+  "azurirano": "2026-10-23T12:14:02.199Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -1009,7 +1009,7 @@
           "naziv": "Mis MS NEMESIS T-105WBC",
           "barkod": "3856032100686",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis MS NEMESIS T-104C",
@@ -1243,7 +1243,7 @@
           "naziv": "MIS SBOX VM-838W Vertical wireless crni",
           "barkod": "3858894503087",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
