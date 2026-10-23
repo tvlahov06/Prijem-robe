@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T17:40:35.817Z",
-  "azurirano": "2026-10-23T05:58:43.156Z",
+  "azurirano": "2026-10-23T05:58:47.074Z",
   "dokumenti": [
     {
       "naziv": "MSI 6807-101",
@@ -760,7 +760,7 @@
           "naziv": "Memorijska kartica Kingston 512GB microSDXC Canvas Go Plus Gen4 + ADP",
           "barkod": "740617348040",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HDD WD Elements Portable 2TB, USB 3.0",
@@ -814,7 +814,7 @@
           "naziv": "ADATA microSD U3, V30, 160/140MBs, 64GB 2SP-RA1",
           "barkod": "4711085949196",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Kingston DataTraveler SE9 G3 64GB, USB3.2, zlatni",
