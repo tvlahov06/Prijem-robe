@@ -5,7 +5,7 @@
   "datum": "2026-10-23",
   "status": "aktivan",
   "kreirano": "2026-10-23T10:40:59.038Z",
-  "azurirano": "2026-10-23T12:09:10.307Z",
+  "azurirano": "2026-10-23T12:09:14.822Z",
   "dokumenti": [
     {
       "naziv": "MSI 6830-101",
@@ -968,7 +968,7 @@
           "naziv": "Mikrofon VIVAX MC-2",
           "barkod": "3856032101454",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "84 TV tuner STRONG SRT 84, DVB-T2 HEVC/H.265, 10 bits, 5V",
