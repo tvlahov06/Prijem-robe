@@ -4,8 +4,8 @@
   "naziv": "Roba 23.10. 4 palete",
   "datum": "2026-10-23",
   "status": "aktivan",
-  "kreirano": "2026-10-23T06:11:18.723Z",
-  "azurirano": "2026-10-23T06:11:18.723Z",
+  "kreirano": "2026-10-23T06:15:19.660Z",
+  "azurirano": "2026-10-23T06:15:19.660Z",
   "dokumenti": [
     {
       "naziv": "MSI 6835-101",
@@ -1026,6 +1026,70 @@
           "naziv": "TV SONY KD32W800P1AEP, 81.3cm (32\"), Direct LED, HD EP SMART TV, Android TV",
           "barkod": "4548736153448",
           "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6820-101",
+      "stavke": [
+        {
+          "naziv": "Usisavac stapni Dyson V12 Detect Slim Absolute (494876)",
+          "barkod": "5025155136294",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Dyson V10 Cyclone Submarine + low reach adapter (626460)",
+          "barkod": "5025155137697",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dyson susilo za kosu Supersonic HD07 Prussian Blue/ Rich Copper (Curly+Coily)",
+          "barkod": "5025155117859",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Dyson V12s Detect Slim Submarine + Low-reach adaptor",
+          "barkod": "5025155137277",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetka za oblikovanje kose Dyson Airsmooth (493078) Ceramic Pink/Rose Gold",
+          "barkod": "5025155140376",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Dyson V16 Piston Animal Submarine",
+          "barkod": "5025155114841",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB505DG 500W",
+          "barkod": "8006447000070",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 6834-101",
+      "stavke": [
+        {
+          "naziv": "Call of Duty: Modern Warfare 4 PS5",
+          "barkod": "196388866229",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Call of Duty: Modern Warfare 4 Switch 2",
+          "barkod": "196388879939",
+          "ocekivano": 2,
           "skenirano": 0
         }
       ]
