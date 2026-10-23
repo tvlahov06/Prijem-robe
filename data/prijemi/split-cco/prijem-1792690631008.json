@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T17:40:35.817Z",
-  "azurirano": "2026-10-23T06:12:12.732Z",
+  "azurirano": "2026-10-23T06:12:18.804Z",
   "dokumenti": [
     {
       "naziv": "MSI 6807-101",
@@ -426,7 +426,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP440/50 nastavci 360",
           "barkod": "8720689016148",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips XP9204/30",
@@ -480,7 +480,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/87 Premium Plaque Defence Standard 2/1 White",
           "barkod": "8720689036917",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/88 Premium Plaque Defence Standard 2/1 Black",
@@ -516,7 +516,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9052/88 Premium Gum Care Black 2/1",
           "barkod": "8720689037006",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu Philips HC7722/15",
