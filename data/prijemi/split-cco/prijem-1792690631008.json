@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T17:40:35.817Z",
-  "azurirano": "2026-10-23T05:53:43.343Z",
+  "azurirano": "2026-10-23T05:53:48.613Z",
   "dokumenti": [
     {
       "naziv": "MSI 6807-101",
@@ -551,7 +551,7 @@
           "naziv": "Tipkovnica + mis Logitech MK540 Advanced, bezicna, siva",
           "barkod": "5099206077522",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M330 Silent Plus, crni",
@@ -575,13 +575,13 @@
           "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
           "barkod": "5099206112100",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica LOGITECH MK250 graphite",
           "barkod": "5099206130982",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech MX Vertical Ergonomic",
