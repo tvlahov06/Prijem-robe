@@ -5,7 +5,7 @@
   "datum": "2026-10-26",
   "status": "aktivan",
   "kreirano": "2026-10-26T20:28:52.097Z",
-  "azurirano": "2026-10-26T20:42:43.287Z",
+  "azurirano": "2026-10-26T20:42:53.007Z",
   "dokumenti": [
     {
       "naziv": "MSI 6887-101",
@@ -633,7 +633,7 @@
           "naziv": "Parna postaja Philips PSG8300/80",
           "barkod": "8720389066504",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal SV8151E0",
