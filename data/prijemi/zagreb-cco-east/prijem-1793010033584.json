@@ -5,7 +5,7 @@
   "datum": "2026-10-26",
   "status": "aktivan",
   "kreirano": "2026-10-26T20:28:52.097Z",
-  "azurirano": "2026-10-26T20:32:46.910Z",
+  "azurirano": "2026-10-26T20:32:51.680Z",
   "dokumenti": [
     {
       "naziv": "MSI 6887-101",
@@ -383,7 +383,7 @@
           "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 maskirni",
           "barkod": "1200130019340",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL GO 5 plavi",
@@ -419,7 +419,7 @@
           "naziv": "Slusalice potpuno bezicne JBL WAVE FLEX TWS bez",
           "barkod": "6925281953507",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 4
         }
       ]
     },
