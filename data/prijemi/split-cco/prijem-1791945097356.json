@@ -5,7 +5,7 @@
   "datum": "2026-10-22",
   "status": "aktivan",
   "kreirano": "2026-10-22T17:40:23.854Z",
-  "azurirano": "2026-10-26T20:36:17.628Z",
+  "azurirano": "2026-10-26T20:36:20.136Z",
   "dokumenti": [
     {
       "naziv": "Orbico",
@@ -390,83 +390,6 @@
           "barkod": "0810045688770",
           "ocekivano": 5,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "Mobis2",
-      "stavke": [
-        {
-          "naziv": "Odvlazivac zraka XIAOMI Dehumidifier Lite",
-          "barkod": "6941812777466",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Ovlazivac zraka XIAOMI Humidifier 2",
-          "barkod": "6934177783982",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Ovlazivac zraka XIAOMI Mijia Smart Evaporative Humidifier Pro EU",
-          "barkod": "6932554439644",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Ovlazivac zraka Xiaomi Smart Humidifier 2 Lite EU",
-          "barkod": "6934177799785",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Prociscivac zraka XIAOMI Mijia Smart Air Purifier 6",
-          "barkod": "6932554469139",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Prociscivac zraka XIAOMI Mijia Smart Air Purifier 6 Plus",
-          "barkod": "6932554400538",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Prociscivac zraka XIAOMI Mijia Smart Air Purifier Max",
-          "barkod": "6932554490805",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Prociscivac zraka Xiaomi Smart Air Purifier 4 Elite",
-          "barkod": "6934177793394",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Prociscivac zraka Xiaomi Smart Air Purifier 4 Lite",
-          "barkod": "6934177751158",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Prociscivac zraka Xiaomi Smart Air Purifier 4 Pro",
-          "barkod": "6934177743665",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Prociscivac zraka XIAOMI Smart Pet Care Air Purifier",
-          "barkod": "6932554418373",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Senzor temperature i vlage XIAOMI Smart Temperature and Humidity Monitor 3 Mini",
-          "barkod": "6932554422325",
-          "ocekivano": 6,
-          "skenirano": 6
         }
       ]
     }
