@@ -5,7 +5,7 @@
   "datum": "2026-10-26",
   "status": "aktivan",
   "kreirano": "2026-10-26T20:28:52.097Z",
-  "azurirano": "2026-10-26T20:33:50.607Z",
+  "azurirano": "2026-10-26T20:34:01.757Z",
   "dokumenti": [
     {
       "naziv": "MSI 6887-101",
@@ -38,13 +38,13 @@
           "naziv": "Susilo za kosu Philips BHD530/00",
           "barkod": "8710103977209",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "IPL depilator Philips BRI983/00 Lumea",
           "barkod": "8720689035880",
           "ocekivano": 6,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "IPL depilator Philips BRI934/00 Lumea",
@@ -116,7 +116,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP4631/65 Face & Body",
           "barkod": "8720689020558",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7108/02 Sonicare Series 5300 White",
@@ -146,7 +146,7 @@
           "naziv": "IPL depilator Philips BRI973/00 Lumea",
           "barkod": "8720689005708",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Babyliss D6555DE Air Power Pro",
@@ -236,7 +236,7 @@
           "naziv": "Susilo za kosu Remington D5710",
           "barkod": "4008496985326",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube OralB iO2 BLACK + Travel case",
