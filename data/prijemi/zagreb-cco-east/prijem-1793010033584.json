@@ -5,7 +5,7 @@
   "datum": "2026-10-26",
   "status": "aktivan",
   "kreirano": "2026-10-26T20:28:52.097Z",
-  "azurirano": "2026-10-26T20:44:55.618Z",
+  "azurirano": "2026-10-26T20:45:04.078Z",
   "dokumenti": [
     {
       "naziv": "MSI 6887-101",
@@ -753,7 +753,7 @@
           "naziv": "Mikser stapni Bosch MSM6M633",
           "barkod": "4242005446902",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Bosch MUM5XW40 MUM5 CreationLine",
