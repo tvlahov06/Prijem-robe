@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T07:44:52.062Z",
-  "azurirano": "2026-10-28T08:24:38.837Z",
+  "azurirano": "2026-10-28T08:25:12.445Z",
   "dokumenti": [
     {
       "naziv": "MSI 6883-101",
@@ -463,7 +463,7 @@
           "naziv": "Usisavac Rowenta RO3721EA",
           "barkod": "3221616129719",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BGB41POW1 ProPower Crna",
