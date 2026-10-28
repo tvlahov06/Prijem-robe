@@ -5,7 +5,7 @@
   "datum": "2026-10-27",
   "status": "aktivan",
   "kreirano": "2026-10-27T19:25:48.582Z",
-  "azurirano": "2026-10-28T07:58:24.412Z",
+  "azurirano": "2026-10-28T07:59:17.687Z",
   "dokumenti": [
     {
       "naziv": "MSI 6884-101",
@@ -38,7 +38,7 @@
           "naziv": "TV SONY K50XR35M2PB, 126 cm (50''), Bravia 3 II, 4K CEI Google TV",
           "barkod": "4548736177963",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SONY K55A65PB.CEI 2026, 139 cm (55\"), Bravia 6, OLED, 4K Google TV",
@@ -56,13 +56,13 @@
           "naziv": "Televizor SONY K55XR35M2PB 2026, 139 cm (55\"), Bravia CEI 3 II, 4K Google TV",
           "barkod": "4548736177949",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SONY K55XR8M25BP.CEI, 139.7cm (55\"), OLED, 4K CEI UHD SMART TV, Android TV",
           "barkod": "4548736170346",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor SONY K65A65PB.CEI 2026, 164 cm (65\"), Bravia 6, OLED, 4K Google TV",
@@ -74,7 +74,7 @@
           "naziv": "TV SONY K65XR8M25BP.CEI, 165.1cm (65\"), OLED, 4K CEI UHD SMART TV, Android TV",
           "barkod": "4548736170254",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV SONY KD32W800P1AEP, 81.3cm (32\"), Direct LED, HD EP SMART TV, Android TV",
