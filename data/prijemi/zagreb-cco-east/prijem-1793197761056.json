@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T14:29:21.056Z",
-  "azurirano": "2026-10-28T20:37:13.092Z",
+  "azurirano": "2026-10-28T20:37:19.775Z",
   "dokumenti": [
     {
       "naziv": "MSI 6978-101",
@@ -390,7 +390,7 @@
           "naziv": "Susilo za kosu Philips BHD956/10 Aqua Edition Hair Dryer",
           "barkod": "8720689049849",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX8513/11 DiamondClean",
@@ -1162,7 +1162,7 @@
           "naziv": "Usisavac stapni Gorenje SVC296449NMBL",
           "barkod": "3838783075871",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "robot Roborock Saros 20",
