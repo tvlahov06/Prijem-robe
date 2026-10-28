@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T14:29:21.056Z",
-  "azurirano": "2026-10-28T20:13:28.112Z",
+  "azurirano": "2026-10-28T20:13:40.763Z",
   "dokumenti": [
     {
       "naziv": "MSI 6978-101",
@@ -110,7 +110,7 @@
           "naziv": "Epson EcoTank L3350 MFP Inkjet pisac",
           "barkod": "8715946741253",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer Canon Pixma G3470 BK",
