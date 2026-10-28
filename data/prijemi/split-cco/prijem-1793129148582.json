@@ -5,7 +5,7 @@
   "datum": "2026-10-27",
   "status": "zavrsen",
   "kreirano": "2026-10-27T19:25:48.582Z",
-  "azurirano": "2026-10-28T09:12:18.018Z",
+  "azurirano": "2026-10-28T09:12:37.443Z",
   "dokumenti": [
     {
       "naziv": "MSI 6927-101",
@@ -393,53 +393,6 @@
           "barkod": "8720389058707",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6952-101",
-      "stavke": [
-        {
-          "naziv": "Susilica rublja Hisense DH5S102BW",
-          "barkod": "6901101825612",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "GORENJE susilica rublja DHNE82",
-          "barkod": "3838782868924",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Perilica susilica Gorenje WD2PA854ADW",
-          "barkod": "3838782818233",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "7N2B-S Susilica rublja CANDY GDS 7N2B-S",
-          "barkod": "8059019116143",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak kombinirani Samsung RB34C600ES9/EK EK",
-          "barkod": "8806095545684",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikrovalna pecnica Bosch FEL023MS2",
-          "barkod": "4242005296699",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Ploca ugradbena kombinirana Gorenje GCE681BSC",
-          "barkod": "3838782321771",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     }
