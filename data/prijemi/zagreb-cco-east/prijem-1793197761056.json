@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T14:29:21.056Z",
-  "azurirano": "2026-10-28T20:56:59.249Z",
+  "azurirano": "2026-10-28T20:57:03.930Z",
   "dokumenti": [
     {
       "naziv": "MSI 6978-101",
@@ -1021,7 +1021,7 @@
           "naziv": "Aparat za kavu Krups KP243B10 Genio S anthracite PF",
           "barkod": "3045380024335",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal GV9823E1, 9 bara, Gold Black",
@@ -1205,13 +1205,13 @@
           "naziv": "Parna postaja Tefal GV9823E1, 9 bara, Gold Black",
           "barkod": "3121040091005",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Tefal FV9852E0, 3200W",
           "barkod": "3121040095737",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Ninja FN101EUST Crispi 4u1 Stone",
