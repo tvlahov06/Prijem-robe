@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T14:29:21.056Z",
-  "azurirano": "2026-10-28T20:22:52.705Z",
+  "azurirano": "2026-10-28T20:27:51.291Z",
   "dokumenti": [
     {
       "naziv": "MSI 6978-101",
@@ -1038,7 +1038,7 @@
           "naziv": "Parna postaja Tefal GV9823E1, 9 bara, Gold Black",
           "barkod": "3121040091005",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Q10 VF bijela",
@@ -1180,19 +1180,19 @@
           "naziv": "Usisavac Bosch BGB41POW1 ProPower Crna",
           "barkod": "4242005483990",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za uklanjanje mrlja Rowenta IN7021F0 Clean It Hot & Cold",
           "barkod": "3121040098240",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Tefal GC270D10",
           "barkod": "3045380026377",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Bosch TAT2M123, MyMoment, crni",
@@ -1228,13 +1228,13 @@
           "naziv": "Friteza na vruci zrak Ninja FN101EUST Crispi 4u1 Stone",
           "barkod": "0622356317610",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Bosch MAF462B1 Airfryer",
           "barkod": "4242005525973",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NBP003NBL Portable plavi",
@@ -1252,7 +1252,7 @@
           "naziv": "Aparat za kavu Krups SA403BE0 espresso Coffee Crush Experience Lioness",
           "barkod": "3016661181603",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
