@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T14:29:21.056Z",
-  "azurirano": "2026-10-28T20:45:52.994Z",
+  "azurirano": "2026-10-28T20:45:59.878Z",
   "dokumenti": [
     {
       "naziv": "MSI 6978-101",
@@ -1098,7 +1098,7 @@
           "naziv": "Usisavac Miele Boost CX1 Blue Pulse",
           "barkod": "4002516897026",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dyson stapni usisavac V10 Cyclone Submarine (594446)",
@@ -1263,7 +1263,7 @@
           "naziv": "Soundbar SAMSUNG Q serije",
           "barkod": "8806099013486",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Soundbar SAMSUNG",
