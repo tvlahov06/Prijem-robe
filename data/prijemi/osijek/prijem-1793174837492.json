@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T08:07:17.492Z",
-  "azurirano": "2026-10-28T10:41:05.284Z",
+  "azurirano": "2026-10-28T10:41:16.514Z",
   "dokumenti": [
     {
       "naziv": "MSI 6936-101",
@@ -246,7 +246,7 @@
           "naziv": "Usisavac Philips XC3133/01",
           "barkod": "8720389029868",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC8057/01 Aqua Plus",
