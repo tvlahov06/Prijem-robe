@@ -5,7 +5,7 @@
   "datum": "2026-10-27",
   "status": "aktivan",
   "kreirano": "2026-10-27T19:25:48.582Z",
-  "azurirano": "2026-10-28T06:42:46.662Z",
+  "azurirano": "2026-10-28T06:42:56.858Z",
   "dokumenti": [
     {
       "naziv": "MSI 6884-101",
@@ -862,13 +862,13 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/88 Premium Plaque Defence Standard 2/1 Black",
           "barkod": "8720689036924",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6054/87 Sensitive Standard 4/1",
           "barkod": "8720689036870",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube CURAPROX CS KIDS Grafitti Edition 2/1",
