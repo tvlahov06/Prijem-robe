@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T14:29:21.056Z",
-  "azurirano": "2026-10-28T20:35:37.101Z",
+  "azurirano": "2026-10-28T20:35:51.242Z",
   "dokumenti": [
     {
       "naziv": "MSI 6978-101",
@@ -650,7 +650,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Deep Blue",
           "barkod": "195950627596",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 rozi 41mm (Konsu-B39F)",
@@ -686,7 +686,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 crni 46mm (Atum-B39F)",
           "barkod": "6942711308607",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "APPLE DODACI 240W USB-C Charge Cable (2 m)",
@@ -728,7 +728,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
           "barkod": "6942103168239",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB crni",
@@ -818,7 +818,7 @@
           "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F)",
           "barkod": "6942103189739",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Dodatni Marine remen za Samsung Galaxy Watch Ultra2 mocha",
@@ -854,7 +854,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Cosmic Orange",
           "barkod": "195950627398",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/512GB grafitno crni",
@@ -878,7 +878,7 @@
           "naziv": "Mobitel Apple iPhone 18 Pro 256GB Glacier",
           "barkod": "195951415697",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
