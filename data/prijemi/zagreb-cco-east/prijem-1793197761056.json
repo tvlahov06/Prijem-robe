@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T14:29:21.056Z",
-  "azurirano": "2026-10-28T20:46:07.228Z",
+  "azurirano": "2026-10-28T20:46:13.878Z",
   "dokumenti": [
     {
       "naziv": "MSI 6978-101",
@@ -1020,7 +1020,7 @@
           "naziv": "Usisavac Rowenta GZ5736E0 X-Clean 7, 2u1",
           "barkod": "3221616163355",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP143GF0 Mini Me 2 arctic grey",
@@ -1104,13 +1104,13 @@
           "naziv": "Dyson stapni usisavac V10 Cyclone Submarine (594446)",
           "barkod": "5025155134016",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Blender Ninja TB401EU Detect Power & Processor Pro",
           "barkod": "0622356294607",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Ninja DZ950EU Dual Zone",
