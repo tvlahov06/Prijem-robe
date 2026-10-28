@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T08:07:17.492Z",
-  "azurirano": "2026-10-28T08:50:28.920Z",
+  "azurirano": "2026-10-28T08:50:58.957Z",
   "dokumenti": [
     {
       "naziv": "MSI 6904-101",
@@ -150,7 +150,7 @@
           "naziv": "Usisavac stapni Dyson V15 Detect Absolute",
           "barkod": "5025155136201",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac stapni Dyson V16 Piston Animal Submarine",
