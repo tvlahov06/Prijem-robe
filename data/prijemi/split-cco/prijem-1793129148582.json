@@ -5,7 +5,7 @@
   "datum": "2026-10-27",
   "status": "aktivan",
   "kreirano": "2026-10-27T19:25:48.582Z",
-  "azurirano": "2026-10-28T08:12:04.032Z",
+  "azurirano": "2026-10-28T08:12:17.362Z",
   "dokumenti": [
     {
       "naziv": "MSI 6884-101",
@@ -1224,7 +1224,7 @@
           "naziv": "Susilica rublja Hisense DH5S102BW",
           "barkod": "6901101825612",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "GORENJE susilica rublja DHNE82",
@@ -1260,7 +1260,7 @@
           "naziv": "Ploca ugradbena kombinirana Gorenje GCE681BSC",
           "barkod": "3838782321771",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
