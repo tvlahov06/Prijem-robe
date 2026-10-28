@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T08:07:17.492Z",
-  "azurirano": "2026-10-28T10:47:18.785Z",
+  "azurirano": "2026-10-28T10:47:38.747Z",
   "dokumenti": [
     {
       "naziv": "MSI 6936-101",
@@ -360,7 +360,7 @@
           "naziv": "Brijaci aparat Philips S5885/10",
           "barkod": "8720689008440",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips X3001/00",
@@ -396,7 +396,7 @@
           "naziv": "Brijaci aparat Philips XP9204/30",
           "barkod": "8720689030199",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/87 Optimal White 4/1 white",
