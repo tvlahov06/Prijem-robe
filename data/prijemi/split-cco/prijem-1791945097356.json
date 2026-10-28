@@ -2,10 +2,10 @@
   "id": "prijem-1791945097356",
   "poslovnica": "split-cco",
   "naziv": "Komisija u dolasku",
-  "datum": "2026-10-27",
+  "datum": "2026-10-28",
   "status": "aktivan",
-  "kreirano": "2026-10-27T21:39:18.091Z",
-  "azurirano": "2026-10-27T21:39:18.091Z",
+  "kreirano": "2026-10-28T23:21:38.237Z",
+  "azurirano": "2026-10-28T23:21:38.237Z",
   "dokumenti": [
     {
       "naziv": "Orbico",
@@ -717,6 +717,160 @@
           "naziv": "TRUST PC ADAPTER USB-C U HDMI",
           "barkod": "8713439237740",
           "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "BigPartner2",
+      "stavke": [
+        {
+          "naziv": "TV nosac BOF TVM H-100",
+          "barkod": "2010030072609",
+          "ocekivano": 7,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV nosac BOF TVM H-200",
+          "barkod": "2010030072616",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV nosac BOF TVM H-300",
+          "barkod": "2010030072623",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV nosac BOF TVM V-100",
+          "barkod": "2010030072630",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV nosac BOF TVM V-200",
+          "barkod": "2010030072647",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV nosac BOF TVM X-100",
+          "barkod": "2010030072654",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV nosac BOF TVM X-200",
+          "barkod": "2010030072661",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Mobis",
+      "stavke": [
+        {
+          "naziv": "Kabel Xiaomi 6A High-Speed USB4 Braided USB-C to USB-C (1m)",
+          "barkod": "6932554444044",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna narukvica XIAOMI Smart Band 10 bijela",
+          "barkod": "6932554434205",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna narukvica XIAOMI Smart Band 9 Active ljubicasta",
+          "barkod": "6932554465797",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna narukvica XIAOMI Smart Band 9 Active zelena",
+          "barkod": "6932554465773",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Power Bank Xiaomi 10000 mAh 33W Ice Blue",
+          "barkod": "6941812774717",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Power Bank Xiaomi 10000 mAh 33W Tan",
+          "barkod": "6941812743669",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Power Bank Xiaomi Magnetic 6000 mAh",
+          "barkod": "6941812797495",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija XIAOMI 10000 mAh, 33W, magnetska, sa stalkom, plava",
+          "barkod": "6932554473747",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija XIAOMI 10000 mAh, 67W, s integriranim kabelom, Ice Blue",
+          "barkod": "6932554471149",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija XIAOMI 10000 mAh, 67W, s integriranim kabelom, Tan",
+          "barkod": "6932554471132",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija Xiaomi Super Slim Magnetic 22,5W 5000mAh crni",
+          "barkod": "6932554473860",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija Xiaomi Super Slim Magnetic 22,5W 5000mAh ljubicasti",
+          "barkod": "6932554473853",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija Xiaomi Super Slim Magnetic 22,5W 5000mAh plavi",
+          "barkod": "6932554473884",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija Xiaomi Super Slim Magnetic 22,5W 5000mAh zlatni",
+          "barkod": "6932554473877",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac XIAOMI 33W Charging Combo Type-A",
+          "barkod": "6932554418366",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Xiaomi 33W Nano 1xUSB-C",
+          "barkod": "6932554443924",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Xiaomi 45W Nano (2x USB-C)",
+          "barkod": "6932554443955",
+          "ocekivano": 10,
           "skenirano": 0
         }
       ]
