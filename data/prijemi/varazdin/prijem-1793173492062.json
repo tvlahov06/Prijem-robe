@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T07:44:52.062Z",
-  "azurirano": "2026-10-28T08:16:09.200Z",
+  "azurirano": "2026-10-28T08:16:13.583Z",
   "dokumenti": [
     {
       "naziv": "MSI 6883-101",
@@ -297,7 +297,7 @@
           "naziv": "Brijaci aparat Philips S5885/35",
           "barkod": "8720689008037",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Philips BHB887/00 tulip SenseIQ",
