@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T06:59:18.391Z",
-  "azurirano": "2026-10-29T07:00:56.119Z",
+  "azurirano": "2026-10-29T07:01:01.709Z",
   "dokumenti": [
     {
       "naziv": "logista 01",
@@ -307,13 +307,13 @@
           "naziv": "CELLULARLINE KP USB-C I KABEL C-C 45W",
           "barkod": "8018080438240",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
           "barkod": "8018080367199",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 20.000 BLUE",
