@@ -1,0 +1,585 @@
+{
+  "id": "prijem-1793266940600",
+  "poslovnica": "zagreb-arena",
+  "naziv": "Logista 29.10.2026.",
+  "datum": "2026-10-29",
+  "status": "aktivan",
+  "kreirano": "2026-10-29T09:42:20.600Z",
+  "azurirano": "2026-10-29T09:42:20.600Z",
+  "dokumenti": [
+    {
+      "naziv": "6701",
+      "stavke": [
+        {
+          "naziv": "Auto Punjac PLOOS, 2A, 1xUSB-A, USB-C Kabel 100cm, Crni",
+          "barkod": "8018080367328",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Auto Punjac PLOOS, USB-A, USB-C, 15W, Crni",
+          "barkod": "8018080497421",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ACL AUDIO KABEL 3.5 MM NA MFI",
+          "barkod": "8018080342370",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUDIO ADAPTER AUX-TYPE-C",
+          "barkod": "8018080351518",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUTO ADAPTER USB-A TO USB-C",
+          "barkod": "8018080399534",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUTO DRZAC HANDY FORCE DRIVE",
+          "barkod": "8018080280290",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE DRZAC HANDY DRIVE",
+          "barkod": "8018080251238",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE DRZAC HANDY WING",
+          "barkod": "8018080251252",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE FINE GALAXY S25 ULTRA",
+          "barkod": "8018080491498",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE FM TRANSMITTER",
+          "barkod": "8018080476976",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL SPIRAL USB-C",
+          "barkod": "8018080493782",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
+          "barkod": "8018080373633",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE C TO C 300 CM",
+          "barkod": "8018080373664",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE-C 200CM",
+          "barkod": "8018080295737",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
+          "barkod": "8018080367199",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 10.000 BLUE",
+          "barkod": "8018080484636",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA BOOK ESSENTIAL GALAXY A17 BLACK",
+          "barkod": "8018080505454",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO MAX",
+          "barkod": "8018080499586",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO",
+          "barkod": "8018080483035",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELULLARLINE AUTO ADAPTER TYPE-C 20W",
+          "barkod": "8018080468063",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Drzac Za Mobitel PLOOS, Air Vent, Crni",
+          "barkod": "8018080368240",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 1m",
+          "barkod": "766623395007",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 2m",
+          "barkod": "766623395014",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 1m",
+          "barkod": "766623356763",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 2m",
+          "barkod": "766623356770",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 4K@60Hz Certified Premium High Speed with Ethernet, 2m",
+          "barkod": "766623394932",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 2m",
+          "barkod": "766623394963",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 3m",
+          "barkod": "766623394970",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 2m",
+          "barkod": "766623395069",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 2m",
+          "barkod": "766623356831",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN USB 2.0 Type-C to Type-B Cable, 2 m",
+          "barkod": "766623394895",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN USB 3.0 Type-A to Type-C, 2m",
+          "barkod": "766623394871",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
+          "barkod": "8018080371547",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MANHATTAN CITAC SMART CARD",
+          "barkod": "766623102049",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MANHATTAN CITAC SMART CARD SIM",
+          "barkod": "766623102025",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrofon Bezicni CELLULARLINE Talk Pro",
+          "barkod": "8018080494383",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna Baterija CELLULARLINE Roller 10.000 mAh 45W crna",
+          "barkod": "8018080513411",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST KP USB-C I KABEL C-C 45W,MAXO",
+          "barkod": "8713439248166",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastita Preklopna CELLULARLINE, Book Essential, Samsung Galaxy A37, Crna",
+          "barkod": "8018080514739",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna maska Cellularline, Clear Protect, Iphone 18 Pro Max",
+          "barkod": "8018080520891",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Maska CELLULARLINE, Fine, Samsung Galaxy  A57, Prozirna",
+          "barkod": "8018080514555",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna maska Cellularline, Sensation Mag, Iphone 18 Pro , Black",
+          "barkod": "8018080522222",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Maska CELLULARLINE, Soft,Samsung Galaxy A27, Clear",
+          "barkod": "8018080520822",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Maska CELLULARLINE, Ultra Slim MAG, Iphone 18 DUO",
+          "barkod": "8018080528231",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna maska Cellularline, Ultra Slim Mag, Iphone 18 Pro",
+          "barkod": "8018080526619",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna maska CELLULARLINE, Ultra Slim Mag, Iphone 18 PRO MAX",
+          "barkod": "8018080526602",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitno staklo Cellularline, Iphone 18 Pro",
+          "barkod": "8018080522444",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitno staklo Cellularline, Iphone 18 Pro Max",
+          "barkod": "8018080522437",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitno Staklo CELLULARLINE, Samsung Galaxy A27",
+          "barkod": "8018080520662",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitno Staklo CELLULARLINE, Samsung Galaxy S24 FE/A36/A56/A37",
+          "barkod": "8018080514753",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "6700",
+      "stavke": [
+        {
+          "naziv": "ADAPTER USB-C 10u1/1x USB-C PD,2x USB-C,3x USB-A,2x HDMI,1x Ethernet,1xSD",
+          "barkod": "0194644119300",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER GaN Prime punjac, 100W, 2xUSB-C/1xUSB-A, sivi",
+          "barkod": "0194644199746",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni crni",
+          "barkod": "0194644125806",
+          "ocekivano": 12,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Kucni bezicni punjac sa drzacem 15W, 3u1, bijeli",
+          "barkod": "0194644206772",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Kucni bezicni punjac sa magnetskim drzacem 15W, 3u1, bijeli",
+          "barkod": "0194644173319",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER kucni punjac 33W, 1xUSB-C/1xUSB-A, bijeli",
+          "barkod": "0194644115524",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Prijenosna baterija 20.000, 30W, crni",
+          "barkod": "0194644173401",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Prijenosna baterija 20.000, 87W, crni",
+          "barkod": "194644197469",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Prijenosna baterija 25.000, 165W, bijeli",
+          "barkod": "0194644286217",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Prijenosna baterija 25.000, 165W, crni",
+          "barkod": "0194644288679",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Anker Soundcore AeroFit 2 Pro bezicne slusalice, crne",
+          "barkod": "194644250096",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Anker Soundcore Space One Pro naglavne bezicne slusalice, crne",
+          "barkod": "0194644186845",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Stanica za bezicno punjenje 15W, 3u1, crni",
+          "barkod": "0194644173289",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER USB Hub A7516016, 1xUSB-A/4xUSB-A 3.0",
+          "barkod": "0194644075811",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bluetooth slusalice ANKER SoundCore Liberty 5, bijele",
+          "barkod": "0194644230807",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EUFY Motion Senzor pokreta T8910021",
+          "barkod": "0194644019075",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EUFY Senzor za vodu i smrzavanje T89203D1",
+          "barkod": "0194644168384",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EUFY Senzor za vrata i prozore T89000D4",
+          "barkod": "0194644019068",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EUFY Sigurnosni alarm set 5 uredaja T8990321",
+          "barkod": "0194644017804",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EUFY Solarna kamera S120 s ugradenim svjetlom T81A0311",
+          "barkod": "0194644145996",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kamera vanjska solarna Anker Eufy S3 Pro, 2-pak, s HomeBase 3",
+          "barkod": "0194644293871",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac ANKER GaN 2x USB-C/USB-A + USB-C Kabel",
+          "barkod": "0194644291754",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni punjac ANKER Nano Display, USB-C, 45W, bijela",
+          "barkod": "0194644320850",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pleteni kabel ANKER USB-C na Lightning Kabel 90 cm",
+          "barkod": "0194644125608",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pleteni kabel ANKER USB-C na USB-C 240W 180 cm",
+          "barkod": "0194644199760",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija ANKER Zolo 10000 mAh, 30W, crna",
+          "barkod": "0194644201081",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija ANKER Zolo 10K, 10000 mAh, 22.5W, Ugradeni USB-C kabel, Black, A110DH11",
+          "barkod": "0194644291464",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Projektor NEBULA, Capsule 3",
+          "barkod": "0194644176075",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac ANKER 511 CHARGER NANO 3, 30W: BIJELA-PUNJAC",
+          "barkod": "0194644103538",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Anker, 140W, 3xUSB-C, 1xUSB-A + kabel C-C",
+          "barkod": "0194644289607",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice ANKER Soundcore Space One Pro naglavne bezicne slusalice, bijele",
+          "barkod": "0194644186838",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Anker Soundcore Space One, bluetooth, bez",
+          "barkod": "0194644138615",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Anker Soundcore Space One, bluetooth, crne",
+          "barkod": "0194644138646",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Anker Soundcore V20i Bluetooth over-ear crne",
+          "barkod": "0194644037581",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne ANKER SOUNDCORE BT K20i crne",
+          "barkod": "0194644037635",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne ANKER Soundcore R50i crne",
+          "barkod": "0194644199432",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice SOUNDCORE TWS R60i NC Bluetooth Bijele",
+          "barkod": "0194644269487",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice SOUNDCORE TWS R60i NC Bluetooth Crne",
+          "barkod": "0194644269470",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice SOUNDCORE, Liberty 5 PRO Max, In-ear, Bluetooth, Crne",
+          "barkod": "0194644307981",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Stanica za bezicno punjenje Anker, MagGo 3u1, 15W, B2557311, crna",
+          "barkod": "0194644157128",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vanjska Sigurnosna Kamera EUFY E40 3-Pack + Home 3",
+          "barkod": "0194644279516",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik Anker Soundcore Motion X500, bluetooth, crni",
+          "barkod": "0194644154905",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik Anker Soundcore RGB Glow Mini, bluetooth, plavi",
+          "barkod": "0194644178154",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni Anker Soundcore Glow mini crni",
+          "barkod": "0194644158903",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
