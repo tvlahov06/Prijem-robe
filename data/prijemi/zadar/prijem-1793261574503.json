@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T08:12:54.503Z",
-  "azurirano": "2026-10-29T08:43:34.589Z",
+  "azurirano": "2026-10-29T08:43:39.531Z",
   "dokumenti": [
     {
       "naziv": "MSI 7002-101",
@@ -727,7 +727,7 @@
           "naziv": "Brijaci aparat Philips nastavak SH30/50 zamjenske glave",
           "barkod": "8710103767091",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHC010/10 putno",
