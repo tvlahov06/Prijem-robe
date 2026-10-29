@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T06:59:18.391Z",
-  "azurirano": "2026-10-29T07:08:21.031Z",
+  "azurirano": "2026-10-29T07:08:24.882Z",
   "dokumenti": [
     {
       "naziv": "logista 01",
@@ -361,13 +361,13 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 2m",
           "barkod": "766623356831",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-C, 2 m, crni",
           "barkod": "766623394857",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel PLOOS, USB-A na USB-C, 100cm, Bijeli",
