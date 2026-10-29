@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T06:59:18.391Z",
-  "azurirano": "2026-10-29T07:00:46.048Z",
+  "azurirano": "2026-10-29T07:00:50.691Z",
   "dokumenti": [
     {
       "naziv": "logista 01",
@@ -307,7 +307,7 @@
           "naziv": "CELLULARLINE KP USB-C I KABEL C-C 45W",
           "barkod": "8018080438240",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
@@ -325,7 +325,7 @@
           "naziv": "CELLULARLINE SLEEK BLUETOOTH MONO HEADSET",
           "barkod": "8018080453199",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO MAX",
