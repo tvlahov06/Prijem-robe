@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T06:59:18.391Z",
-  "azurirano": "2026-10-29T07:06:47.131Z",
+  "azurirano": "2026-10-29T07:07:02.925Z",
   "dokumenti": [
     {
       "naziv": "logista 01",
@@ -110,7 +110,7 @@
           "naziv": "EUFY Motion Senzor pokreta T8910021",
           "barkod": "0194644019075",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "EUFY Senzor za vodu i smrzavanje T89203D1",
@@ -212,7 +212,7 @@
           "naziv": "Slusalice bezicne ANKER Soundcore R50i crne",
           "barkod": "0194644199432",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice SOUNDCORE TWS R60i NC Bluetooth Crne",
