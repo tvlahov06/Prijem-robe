@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T08:12:54.503Z",
-  "azurirano": "2026-10-29T09:24:02.100Z",
+  "azurirano": "2026-10-29T09:24:18.248Z",
   "dokumenti": [
     {
       "naziv": "MSI 7002-101",
@@ -396,101 +396,6 @@
           "barkod": "017817853439",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6935-101",
-      "stavke": [
-        {
-          "naziv": "Televizor HISENSE 65E7S 2026, 165,1 cm (65\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
-          "barkod": "6942351431710",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor HISENSE 43A6S 2026, 109,2 cm (43\"), DLED, 4K UHD, Smart TV, VIDAA OS",
-          "barkod": "6942351430102",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Televizor TCL 50P7L 2026, 50\", QLED, Google TV",
-          "barkod": "5901292530259",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Televizor SAMSUNG UE50M70HAUXXH 2026, 127 cm (50\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
-          "barkod": "8806097977667",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Televizor LG OLED48C61LA 2026, 121,9 cm (48\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
-          "barkod": "8806096706046",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV LG 55NU850B3LA 139.7cm (55\"), LED, 4K UHD Smart AEU TV, webOS",
-          "barkod": "8806096715710",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Televizor SAMSUNG UE65U8072HUXXH 2026, 164 cm XH (65\"), UHD, Smart TV, Tizen OS",
-          "barkod": "8806097969020",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor SAMSUNG QE48S90HAEXXH 2026, 122 cm (48\"), H OLED, 4K UHD, Smart TV, Tizen OS",
-          "barkod": "8806097952961",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor SAMSUNG UE65M80HAUXXH 2026, 164 cm (65\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
-          "barkod": "8806099014254",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor SAMSUNG UE43U8072HUXXH 2026, 109 cm XH (43\"), UHD, Smart TV, Tizen OS",
-          "barkod": "8806097968962",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789556",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "EPSON EcoTank L3356 Multi function printer Ink 33ppm",
-          "barkod": "8715946741277",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Epson EcoTank L3350 MFP Inkjet pisac",
-          "barkod": "8715946741253",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Printer HP LaserJet M140w MFP",
-          "barkod": "194850677267",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "CANON Pixma TR4755i Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Fax, Cloud, Duplex, ADF, A4",
-          "barkod": "4549292237368",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
