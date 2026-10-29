@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T08:12:54.503Z",
-  "azurirano": "2026-10-29T09:20:54.666Z",
+  "azurirano": "2026-10-29T09:21:08.913Z",
   "dokumenti": [
     {
       "naziv": "MSI 7002-101",
@@ -412,7 +412,7 @@
           "naziv": "Televizor HISENSE 43A6S 2026, 109,2 cm (43\"), DLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351430102",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Televizor TCL 50P7L 2026, 50\", QLED, Google TV",
@@ -484,13 +484,13 @@
           "naziv": "Printer HP LaserJet M140w MFP",
           "barkod": "194850677267",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CANON Pixma TR4755i Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Fax, Cloud, Duplex, ADF, A4",
           "barkod": "4549292237368",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
