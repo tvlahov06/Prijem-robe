@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T10:09:50.580Z",
-  "azurirano": "2026-10-29T10:38:36.103Z",
+  "azurirano": "2026-10-29T10:38:40.669Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_261029110956",
@@ -409,7 +409,7 @@
           "naziv": "EUFY Motion Senzor pokreta T8910021",
           "barkod": "0194644019075",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "EUFY Senzor za vodu i smrzavanje T89203D1",
