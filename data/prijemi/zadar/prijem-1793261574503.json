@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T08:12:54.503Z",
-  "azurirano": "2026-10-29T09:26:02.790Z",
+  "azurirano": "2026-10-29T09:26:36.274Z",
   "dokumenti": [
     {
       "naziv": "MSI 7002-101",
@@ -1098,59 +1098,6 @@
           "barkod": "8720389035975",
           "ocekivano": 6,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 6987-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac stapni Dyson V15 Detect Absolute",
-          "barkod": "5025155136201",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V12 Detect Slim Absolute (494876)",
-          "barkod": "5025155136294",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
-          "barkod": "5025155127759",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V10 Cyclone Submarine + low reach adapter (626460)",
-          "barkod": "5025155137697",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
-          "barkod": "5025155112656",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Blender Nutribullet NB907CP 900W",
-          "barkod": "8006447000087",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NB907S 900W",
-          "barkod": "8006447002487",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Blender Nutribullet NBP003NBL Portable plavi",
-          "barkod": "8006447002111",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
