@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "Logista 29-10-2026",
   "datum": "2026-10-29",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-10-29T06:59:18.391Z",
-  "azurirano": "2026-10-29T07:13:22.270Z",
+  "azurirano": "2026-10-29T07:16:17.059Z",
   "dokumenti": [
     {
       "naziv": "logista 01",
@@ -461,5 +461,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-10-29T07:16:17.059Z"
 }
