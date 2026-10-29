@@ -1,0 +1,322 @@
+{
+  "id": "prijem-1793268445308",
+  "poslovnica": "osijek",
+  "naziv": "Logista",
+  "datum": "2026-10-29",
+  "status": "aktivan",
+  "kreirano": "2026-10-29T10:07:25.308Z",
+  "azurirano": "2026-10-29T10:07:25.308Z",
+  "dokumenti": [
+    {
+      "naziv": "Narudžba_Control_Center_261029110956",
+      "stavke": [
+        {
+          "naziv": "Auto Punjac PLOOS, 2A, 1xUSB-A, USB-C Kabel 100cm, Crni",
+          "barkod": "8018080367328",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUTO DRZAC BIG CRAB DUAL FIX",
+          "barkod": "8018080120411",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUTO PUNJAC MULTIPOWER ADAPTER FAST+ DUAL USB-A/USB-C 32W",
+          "barkod": "8018080420719",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
+          "barkod": "8018080373633",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE-C 200CM",
+          "barkod": "8018080295737",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
+          "barkod": "8018080295751",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KP USB-C I KABEL C-C 45W",
+          "barkod": "8018080438240",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 25W",
+          "barkod": "8018080367182",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
+          "barkod": "8018080367199",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PODATKOVNI KABEL MICRO USB 120 CM",
+          "barkod": "8018080131745",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
+          "barkod": "8018080270420",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
+          "barkod": "8018080481963",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE SLEEK BLUETOOTH MONO HEADSET",
+          "barkod": "8018080453199",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17",
+          "barkod": "8018080499623",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNA MASKA SENSATION IPHONE 17 BLACK",
+          "barkod": "8018080499708",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELULLARLINE AUTO ADAPTER TYPE-C 20W",
+          "barkod": "8018080468063",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Drzac za Mobitel CELLULARLINE Slide Fit",
+          "barkod": "8018080443701",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Drzac Za Mobitel PLOOS, Gravity, Crni",
+          "barkod": "8018080422287",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 2m",
+          "barkod": "766623395014",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN DisplayPort 4K@60Hz (DP), 2m",
+          "barkod": "766623356800",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 2m",
+          "barkod": "766623356770",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 3m",
+          "barkod": "766623356787",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Micro-USB, 2m",
+          "barkod": "766623356855",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 2m",
+          "barkod": "766623356831",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 3m",
+          "barkod": "766623356848",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac CELLULARLINE GaN+ Slim Dual 65W",
+          "barkod": "8018080514067",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac PLOOS, Za Apple, 1xUSB-A, Kabel Lightning 100cm, Crni",
+          "barkod": "8018080368288",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Maskica Cellularline Samsung Galaxy S26, silikonska",
+          "barkod": "8018080510519",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrofon Bezicni CELLULARLINE Talk Pro",
+          "barkod": "8018080494383",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nadzorna kamera MERCUSYS, WiFi, 2K, Pano, MC510(EU)",
+          "barkod": "6957939004606",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna Baterija CELLULARLINE Roller 10.000 mAh 45W crna",
+          "barkod": "8018080513411",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna Baterija PLOOS, 10000 mAh, Black",
+          "barkod": "8018080458545",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Cellularline 40W PD USB-C",
+          "barkod": "8018080513237",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST DRZAC ZA MOBITEL,RUNO AIR",
+          "barkod": "8713439249835",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST KP USB-C I KABEL C-C 45W,MAXO",
+          "barkod": "8713439248166",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PRIJENOSNA BATERIJA PRIMO 20000 Black",
+          "barkod": "8713439246766",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastita Preklopna CELLULARLINE, Book Essential, Samsung Galaxy A37, Crna",
+          "barkod": "8018080514739",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna maska Cellularline, Clear Protect, Iphone 18 Pro",
+          "barkod": "8018080520907",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna maska Cellularline, Clear Protect, Iphone 18 Pro Max",
+          "barkod": "8018080520891",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Maska CELLULARLINE, Fine, Samsung Galaxy  A57, Prozirna",
+          "barkod": "8018080514555",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Maska CELLULARLINE, Fine, Samsung Galaxy A37, Prozirna",
+          "barkod": "8018080514463",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna maska Cellularline, Seansation Mag, Iphone 18 Pro Max, Black",
+          "barkod": "8018080522208",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna maska Cellularline, Sensation Mag, Iphone 18 Pro , Black",
+          "barkod": "8018080522222",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Maska CELLULARLINE, Soft,Samsung Galaxy A27, Clear",
+          "barkod": "8018080520822",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna Maska CELLULARLINE, Ultra Slim MAG, Iphone 18 DUO",
+          "barkod": "8018080528231",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna maska Cellularline, Ultra Slim Mag, Iphone 18 Pro",
+          "barkod": "8018080526619",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitna maska CELLULARLINE, Ultra Slim Mag, Iphone 18 PRO MAX",
+          "barkod": "8018080526602",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitno staklo Cellularline Samsung Galaxy S26",
+          "barkod": "8018080511585",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitno staklo Cellularline, Iphone 18 Pro",
+          "barkod": "8018080522444",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitno staklo Cellularline, Iphone 18 Pro Max",
+          "barkod": "8018080522437",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zastitno Staklo CELLULARLINE, Samsung Galaxy A27",
+          "barkod": "8018080520662",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
