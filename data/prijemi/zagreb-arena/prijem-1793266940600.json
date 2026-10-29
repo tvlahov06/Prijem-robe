@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:42:20.600Z",
-  "azurirano": "2026-10-29T10:29:26.345Z",
+  "azurirano": "2026-10-29T10:30:23.347Z",
   "dokumenti": [
     {
       "naziv": "6701",
@@ -14,13 +14,13 @@
           "naziv": "Auto Punjac PLOOS, 2A, 1xUSB-A, USB-C Kabel 100cm, Crni",
           "barkod": "8018080367328",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Auto Punjac PLOOS, USB-A, USB-C, 15W, Crni",
           "barkod": "8018080497421",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ACL AUDIO KABEL 3.5 MM NA MFI",
@@ -206,7 +206,7 @@
           "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
           "barkod": "8018080371547",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "MANHATTAN CITAC SMART CARD",
