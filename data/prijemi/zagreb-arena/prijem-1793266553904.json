@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T11:45:33.598Z",
+  "azurirano": "2026-10-30T11:45:37.650Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -707,13 +707,13 @@
           "naziv": "Toster grill Gorenje GCG2000M",
           "barkod": "3838782867712",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Bosch TCG4215, silver",
           "barkod": "4242005238699",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Multipraktik Bosch MCM3501M MultiTalent 3",
