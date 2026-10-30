@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T11:00:46.332Z",
+  "azurirano": "2026-10-30T11:28:08.338Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -623,7 +623,7 @@
           "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
           "barkod": "8720389032998",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA565/02 Airfryer Dual Basket, para",
@@ -635,7 +635,7 @@
           "naziv": "Friteza na vruci zrak Philips NA555/00 Airfryer Dual Basket, para",
           "barkod": "8720389047558",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Ninja FN101EUST Crispi 4u1 Stone",
@@ -701,7 +701,7 @@
           "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
           "barkod": "622356350907",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Gorenje GCG2000M",
@@ -749,7 +749,7 @@
           "naziv": "Sokovnik Bosch MESM731M VitaExtract hladna presa",
           "barkod": "4242002974187",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Bosch MMB6172S VitaPower Serie 4",
