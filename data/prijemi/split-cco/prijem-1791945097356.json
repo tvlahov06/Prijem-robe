@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T23:21:38.237Z",
-  "azurirano": "2026-10-30T06:41:09.615Z",
+  "azurirano": "2026-10-30T06:41:15.373Z",
   "dokumenti": [
     {
       "naziv": "Orbico",
@@ -502,7 +502,7 @@
           "naziv": "EUFY Senzor za vrata i prozore T89000D4",
           "barkod": "0194644019068",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "EUFY Sigurnosni alarm set 5 uredaja T8990321",
@@ -693,7 +693,7 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Micro-USB, 2m",
           "barkod": "766623356855",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 2m",
