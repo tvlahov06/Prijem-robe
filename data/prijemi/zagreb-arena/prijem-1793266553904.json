@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T09:56:17.736Z",
+  "azurirano": "2026-10-30T09:56:39.310Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -1267,7 +1267,7 @@
           "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
           "barkod": "2010033161096",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Laptop ACER Aspire Go 15 NX.J7XEX.00S, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 32 GB RAM, 512 GB",
@@ -1285,7 +1285,7 @@
           "naziv": "Laptop HP HyperX OMEN 15-gb0003nm, 38.9 cm (15.3\") WQXGA 180Hz, AMD Ryzen 7 260, 16 GB RAM, 512 GB",
           "barkod": "821844674277",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Flex 5 82XX00HGSC, 35.6cm (14\") IPS WUXGA Touch, AMD Ryzen 5 5625U, 16 GB RAM,",
@@ -1309,7 +1309,7 @@
           "naziv": "Laptop HP HyperX OMEN 15-gb0004nm, 38.9 cm (15.3\") IPS 2.5K 180Hz, AMD Ryzen 7 8745HX, 24 GB RAM, 1 TB",
           "barkod": "821844674284",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA5499 Ryzen 3 NN0 30, 8GB, SSD 256GB, 156\" FHD, Radeon Graphics, Brez",
@@ -1327,7 +1327,7 @@
           "naziv": "Laptop ACER Nitro V 15 NH.QZAEX.009, 39.6cm (15.6\") IPS Full HD 165Hz, Intel Core 9 270H, 16 GB RAM, 1 TB",
           "barkod": "4711474900760",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS ROG Strix G16 G615LP-TS220W, 40.6cm A30 (16\") 2.5K WQXGA 300Hz, Intel Core Ultra 9 290HX, 32 GB",
@@ -1894,7 +1894,7 @@
           "naziv": "Laptop LENOVO LOQ Essential, 83S000A7SC, 39.6cm (15.6\") IPS Full HD 144Hz, AMD Ryzen 5 150, 16 GB RAM,",
           "barkod": "199274270841",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice HyperX Cloud III Red Black",
