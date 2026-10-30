@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T08:39:55.324Z",
+  "azurirano": "2026-10-30T08:40:04.761Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -885,7 +885,7 @@
           "naziv": "Web kamera Logitech C270 HD",
           "barkod": "5099206064201",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zvucnici Logitech Z150, 2.0, bijeli",
@@ -897,7 +897,7 @@
           "naziv": "Mis Logitech M100, zicani, crni",
           "barkod": "5099206104242",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Volan Logitech G923 Driving force + Shifter Logitech Driving Force",
@@ -915,7 +915,7 @@
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/G",
           "barkod": "4548736176751",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-1000XM6/T",
@@ -933,7 +933,7 @@
           "naziv": "Sony LinkBuds Clip Open-Ear WFLC900G.CE7, bezicne slusalice, zelena",
           "barkod": "4548736174009",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/B",
@@ -1017,7 +1017,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP420/50 nastavci 360",
           "barkod": "8710103997153",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac za glavu Remington XR1600",
