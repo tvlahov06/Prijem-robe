@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T07:43:49.304Z",
+  "azurirano": "2026-10-30T07:43:52.580Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -437,7 +437,7 @@
           "naziv": "Usisavac robot Philips XU5100/20",
           "barkod": "8720389055584",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "robot iRobot Roomba 115 Combo Robot White",
