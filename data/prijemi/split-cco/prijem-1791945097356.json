@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T23:21:38.237Z",
-  "azurirano": "2026-10-30T08:07:10.075Z",
+  "azurirano": "2026-10-30T08:07:34.331Z",
   "dokumenti": [
     {
       "naziv": "Orbico",
@@ -483,13 +483,13 @@
           "naziv": "Power Bank Xiaomi Magnetic 6000 mAh",
           "barkod": "6941812797495",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Prijenosna baterija XIAOMI 10000 mAh, 33W, magnetska, sa stalkom, plava",
           "barkod": "6932554473747",
           "ocekivano": 10,
-          "skenirano": 1
+          "skenirano": 10
         },
         {
           "naziv": "Prijenosna baterija XIAOMI 10000 mAh, 67W, s integriranim kabelom, Ice Blue",
@@ -507,7 +507,7 @@
           "naziv": "Prijenosna baterija Xiaomi Super Slim Magnetic 22,5W 5000mAh crni",
           "barkod": "6932554473860",
           "ocekivano": 10,
-          "skenirano": 3
+          "skenirano": 6
         },
         {
           "naziv": "Prijenosna baterija Xiaomi Super Slim Magnetic 22,5W 5000mAh ljubicasti",
