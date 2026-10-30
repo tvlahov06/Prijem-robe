@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T11:33:43.212Z",
+  "azurirano": "2026-10-30T11:36:51.150Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -563,7 +563,7 @@
           "naziv": "Parna postaja Philips PSG7200/20",
           "barkod": "8720389065170",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8300/80",
@@ -611,7 +611,7 @@
           "naziv": "Friteza na vruci zrak Philips NA150/00 Airfryer Dual Basket",
           "barkod": "8720389052989",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA342/00 Airfryer",
@@ -623,7 +623,7 @@
           "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
           "barkod": "8720389032998",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA565/02 Airfryer Dual Basket, para",
