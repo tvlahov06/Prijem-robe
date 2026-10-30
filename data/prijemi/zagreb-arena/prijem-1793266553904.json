@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T08:34:46.129Z",
+  "azurirano": "2026-10-30T08:35:11.058Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -1053,7 +1053,7 @@
           "naziv": "Brijaci aparat Philips X3001/00",
           "barkod": "8720689018920",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips S3244/12",
@@ -1089,7 +1089,7 @@
           "naziv": "Epilator Philips BRE237/00",
           "barkod": "8720689030915",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips XP9204/30",
