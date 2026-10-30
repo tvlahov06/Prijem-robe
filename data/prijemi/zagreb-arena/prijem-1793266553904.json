@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T07:43:27.160Z",
+  "azurirano": "2026-10-30T07:43:35.701Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -383,7 +383,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9334/09",
@@ -395,7 +395,7 @@
           "naziv": "Usisavac Bosch BGB41POW1 ProPower Crna",
           "barkod": "4242005483990",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
