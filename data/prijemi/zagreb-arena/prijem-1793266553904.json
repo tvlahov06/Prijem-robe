@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T09:56:09.487Z",
+  "azurirano": "2026-10-30T09:56:17.736Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -1267,7 +1267,7 @@
           "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
           "barkod": "2010033161096",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Go 15 NX.J7XEX.00S, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 32 GB RAM, 512 GB",
@@ -1297,7 +1297,7 @@
           "naziv": "Laptop LENOVO Yoga Pro 7 83W5000PSC, 38.9 cm (15.3\") OLED 2.5K, AMD Ryzen AI Max+ 388, 32 GB RAM, 1 TB",
           "barkod": "199276330925",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP 250R G10 D13J5ET, 39.6cm (15.6\") Full HD, Intel Core 5-120U, 16 GB RAM, 512 GB SSD, Intel",
@@ -1333,13 +1333,13 @@
           "naziv": "Laptop ASUS ROG Strix G16 G615LP-TS220W, 40.6cm A30 (16\") 2.5K WQXGA 300Hz, Intel Core Ultra 9 290HX, 32 GB",
           "barkod": "4711636543064",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS TUF Gaming A16 FA608UHI-TU657W, 40.6cm HK0 (16\") IPS WUXGA 144Hz, AMD Ryzen 7 260, 16 GB RAM,",
           "barkod": "4711636546782",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Vivobook 16 X1605VAPBF-SH223, 40.6cm X20 (16\") OLED Full HD, Intel Core 9 270H, 24 GB RAM, 1 TB",
