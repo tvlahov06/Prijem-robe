@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T08:55:30.043Z",
+  "azurirano": "2026-10-30T08:55:40.744Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -401,7 +401,7 @@
           "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
           "barkod": "4242005306978",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
