@@ -5,7 +5,7 @@
   "datum": "2026-10-30",
   "status": "aktivan",
   "kreirano": "2026-10-30T10:25:43.935Z",
-  "azurirano": "2026-10-30T11:39:24.678Z",
+  "azurirano": "2026-10-30T11:39:44.572Z",
   "dokumenti": [
     {
       "naziv": "MSI 6937-101",
@@ -523,7 +523,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP5443/70 espresso",
