@@ -5,7 +5,7 @@
   "datum": "2026-10-30",
   "status": "aktivan",
   "kreirano": "2026-10-30T10:25:43.935Z",
-  "azurirano": "2026-10-30T10:50:46.341Z",
+  "azurirano": "2026-10-30T10:50:49.319Z",
   "dokumenti": [
     {
       "naziv": "MSI 6937-101",
@@ -613,7 +613,7 @@
           "naziv": "Usisavac Miele Boost CX1 Blue Pulse",
           "barkod": "4002516897026",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dyson stapni usisavac V10 Cyclone Submarine (594446)",
