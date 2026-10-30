@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T16:07:24.135Z",
-  "azurirano": "2026-10-30T06:24:43.139Z",
+  "azurirano": "2026-10-30T06:24:46.403Z",
   "dokumenti": [
     {
       "naziv": "MSI 7024-101",
@@ -513,7 +513,7 @@
           "naziv": "Susilica rublja Hisense DH5S102BW",
           "barkod": "6901101825612",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja GORENJE W3NGPI61SAS",
@@ -543,7 +543,7 @@
           "naziv": "Perilica-susilica rublja LG F2DR508S1W slim",
           "barkod": "8806084510297",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrovalna pecnica Gorenje MO20A3BH",
