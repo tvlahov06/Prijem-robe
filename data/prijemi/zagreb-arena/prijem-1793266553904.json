@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T08:39:36.947Z",
+  "azurirano": "2026-10-30T08:39:50.213Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -873,7 +873,7 @@
           "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, crni",
           "barkod": "5099206134737",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Unifying Receiver Logitech USB",
@@ -909,7 +909,7 @@
           "naziv": "Mis LOGITECH MX Master 3S \"SE\" grafit",
           "barkod": "5099206129382",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/G",
@@ -993,7 +993,7 @@
           "naziv": "Susilo za kosu Philips BHC010/10 putno",
           "barkod": "8710103887119",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD501/00",
@@ -1059,7 +1059,7 @@
           "naziv": "Brijaci aparat Philips S3244/12",
           "barkod": "8720689018609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP4631/65 Face & Body",
@@ -1197,7 +1197,7 @@
           "naziv": "Tus za zube Philips Sonicare HX3333/23 Compact Flosser 1000, Pink",
           "barkod": "8720689046787",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Braun PL5221",
@@ -1227,7 +1227,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX8513/11 DiamondClean",
           "barkod": "8720689054195",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
