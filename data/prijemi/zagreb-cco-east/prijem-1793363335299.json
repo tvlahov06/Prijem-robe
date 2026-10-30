@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "Rob DSD 30-10-2026",
   "datum": "2026-10-30",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-10-30T12:28:55.299Z",
-  "azurirano": "2026-10-30T12:32:22.762Z",
+  "azurirano": "2026-10-30T12:32:26.385Z",
   "dokumenti": [
     {
       "naziv": "MSI 7047-101",
@@ -83,5 +83,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-10-30T12:32:26.385Z"
 }
