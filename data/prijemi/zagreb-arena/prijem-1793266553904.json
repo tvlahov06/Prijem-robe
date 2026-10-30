@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T10:59:13.983Z",
+  "azurirano": "2026-10-30T10:59:20.644Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -1476,7 +1476,7 @@
           "naziv": "Usisavac Bosch BGC05AAA2",
           "barkod": "4242005076321",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BGLS2BA1",
