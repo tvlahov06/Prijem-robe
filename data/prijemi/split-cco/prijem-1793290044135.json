@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T16:07:24.135Z",
-  "azurirano": "2026-10-30T06:52:36.194Z",
+  "azurirano": "2026-10-30T06:53:15.840Z",
   "dokumenti": [
     {
       "naziv": "MSI 7024-101",
@@ -286,7 +286,7 @@
           "naziv": "fotoaparat Fujifilm Instax Mini 13 bijeli",
           "barkod": "4547410564877",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sat Samsung Galaxy Watch Ultra2 srebrni",
@@ -388,13 +388,13 @@
           "naziv": "Mobitel Samsung Galaxy A27 5G 6GB/128GB dual SIM crni",
           "barkod": "8806099353469",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
           "barkod": "6942103168239",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB crni",
@@ -412,7 +412,7 @@
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM svijetlo plavi",
           "barkod": "8806099025915",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zastitna folija za Samsung Galaxy Fold8 prozirna 2 komada",
@@ -424,7 +424,7 @@
           "naziv": "Silikonska maska s prstenom za Samsung Galaxy Flip8 zelena",
           "barkod": "8806099229351",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Carbon stojeca maska za Samsung Galaxy Fold8 Ultra crna",
