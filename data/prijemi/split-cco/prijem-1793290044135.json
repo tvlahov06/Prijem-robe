@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T16:07:24.135Z",
-  "azurirano": "2026-10-30T06:45:22.251Z",
+  "azurirano": "2026-10-30T06:45:25.664Z",
   "dokumenti": [
     {
       "naziv": "MSI 7024-101",
@@ -157,7 +157,7 @@
           "naziv": "Aparat za kavu HESCM15CD",
           "barkod": "3838783092328",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Bosch MMB6172S VitaPower Serie 4",
