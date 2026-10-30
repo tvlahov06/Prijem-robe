@@ -5,7 +5,7 @@
   "datum": "2026-10-28",
   "status": "aktivan",
   "kreirano": "2026-10-28T23:21:38.237Z",
-  "azurirano": "2026-10-30T06:44:00.208Z",
+  "azurirano": "2026-10-30T06:44:06.817Z",
   "dokumenti": [
     {
       "naziv": "Orbico",
@@ -400,7 +400,7 @@
           "naziv": "ADAPTER USB-C 10u1/1x USB-C PD,2x USB-C,3x USB-A,2x HDMI,1x Ethernet,1xSD",
           "barkod": "0194644119300",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "ANKER GaN Prime punjac, 100W, 2xUSB-C/1xUSB-A, sivi",
@@ -472,7 +472,7 @@
           "naziv": "ANKER USB Hub A7516016, 1xUSB-A/4xUSB-A 3.0",
           "barkod": "0194644075811",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Bluetooth slusalice ANKER SoundCore Liberty 5, bijele",
@@ -490,13 +490,13 @@
           "naziv": "EUFY Motion Senzor pokreta T8910021",
           "barkod": "0194644019075",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "EUFY Senzor za vodu i smrzavanje T89203D1",
           "barkod": "0194644168384",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "EUFY Senzor za vrata i prozore T89000D4",
