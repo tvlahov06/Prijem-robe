@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T08:45:43.526Z",
+  "azurirano": "2026-10-30T08:45:45.712Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -671,7 +671,7 @@
           "naziv": "Mikser stapni Philips HR2683/00",
           "barkod": "8720389033902",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Tefal HT450B38 bijeli 450W",
