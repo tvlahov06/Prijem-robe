@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T16:07:24.135Z",
-  "azurirano": "2026-10-30T06:48:30.559Z",
+  "azurirano": "2026-10-30T06:48:46.155Z",
   "dokumenti": [
     {
       "naziv": "MSI 7024-101",
@@ -121,7 +121,7 @@
           "naziv": "Dyson stapni usisavac V10 Cyclone Submarine (594446)",
           "barkod": "5025155134016",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Blender Ninja TB401EU Detect Power & Processor Pro",
@@ -163,7 +163,7 @@
           "naziv": "Blender Bosch MMB6172S VitaPower Serie 4",
           "barkod": "4242005215980",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
