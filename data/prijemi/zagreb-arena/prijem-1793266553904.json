@@ -5,7 +5,7 @@
   "datum": "2026-10-29",
   "status": "aktivan",
   "kreirano": "2026-10-29T09:35:53.904Z",
-  "azurirano": "2026-10-30T07:43:20.551Z",
+  "azurirano": "2026-10-30T07:43:27.160Z",
   "dokumenti": [
     {
       "naziv": "MSI 6961-101",
@@ -569,7 +569,7 @@
           "naziv": "Parna postaja Philips PSG8300/80",
           "barkod": "8720389066504",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Philips DST3031/20",
