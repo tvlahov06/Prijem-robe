@@ -5,7 +5,7 @@
   "datum": "2026-11-02",
   "status": "aktivan",
   "kreirano": "2026-11-02T20:23:29.712Z",
-  "azurirano": "2026-11-02T20:23:29.712Z",
+  "azurirano": "2026-11-02T20:23:43.513Z",
   "dokumenti": [
     {
       "naziv": "MSI 7053-101",
@@ -465,7 +465,7 @@
           "naziv": "Parna postaja Philips PSG7200/20",
           "barkod": "8720389065170",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal GV9823E1, 9 bara, Gold Black",
