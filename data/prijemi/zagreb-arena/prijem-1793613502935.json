@@ -5,7 +5,7 @@
   "datum": "2026-11-02",
   "status": "aktivan",
   "kreirano": "2026-11-02T09:58:22.935Z",
-  "azurirano": "2026-11-02T10:05:12.139Z",
+  "azurirano": "2026-11-02T10:05:18.586Z",
   "dokumenti": [
     {
       "naziv": "logista brojanje",
@@ -32,7 +32,7 @@
           "naziv": "TRUST PC USB 3.2 CITAC KARTICA BRZI",
           "barkod": "8713439241358",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "TRUST PC TIPKOVNICA S MISEM US WLESS TREZO",
@@ -56,7 +56,7 @@
           "naziv": "TRUST PC ADAPTER MINI USB-A/4x USB-A,HALYX",
           "barkod": "8713439237863",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST GM SLUSALICE,ZIROX,BLACK,GXT415",
