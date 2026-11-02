@@ -5,7 +5,7 @@
   "datum": "2026-11-02",
   "status": "aktivan",
   "kreirano": "2026-11-02T20:23:29.712Z",
-  "azurirano": "2026-11-02T20:24:04.517Z",
+  "azurirano": "2026-11-02T20:24:10.618Z",
   "dokumenti": [
     {
       "naziv": "MSI 7053-101",
@@ -345,7 +345,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips FC9334/09",
@@ -501,7 +501,7 @@
           "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
           "barkod": "8720389032998",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA552/00 Airfryer Dual Basket, para",
