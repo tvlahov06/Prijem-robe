@@ -4,8 +4,8 @@
   "naziv": "Roba 02-11-2026",
   "datum": "2026-11-02",
   "status": "aktivan",
-  "kreirano": "2026-11-02T14:06:33.550Z",
-  "azurirano": "2026-11-02T20:21:53.419Z",
+  "kreirano": "2026-11-02T20:23:29.712Z",
+  "azurirano": "2026-11-02T20:23:29.712Z",
   "dokumenti": [
     {
       "naziv": "MSI 7053-101",
@@ -215,6 +215,406 @@
           "naziv": "976258 Perilica-susilica Whirlpool FFWDB 976258 BV EE BV EE",
           "barkod": "8003437635915",
           "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7081-101",
+      "stavke": [
+        {
+          "naziv": "Mis LOGITECH MX Master 4 grafit",
+          "barkod": "5099206133082",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, crni",
+          "barkod": "5099206134737",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M196, crni",
+          "barkod": "5099206128330",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech C270 HD",
+          "barkod": "5099206064201",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
+          "barkod": "5099206112100",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis Logitech G240",
+          "barkod": "5099206104334",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M100, zicani, crni",
+          "barkod": "5099206104242",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Web kamera Logitech BRIO 300 crna",
+          "barkod": "5099206104938",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicni mis Logitech Signature M650 s podlogom, grafitni, EMEA28i935",
+          "barkod": "5099206142558",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP Envy 6110e All-in-One (714J3B) Color Inkjet MF pisac - Print, Scan, Copy, Mobile Fax, Duplex, Wi-Fi, USB, A4 -",
+          "barkod": "197498438979",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP DeskJet 2920 All-in-One (89F97B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "198701680109",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP DeskJet 2922 All-in-One (A24HVB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "198828789792",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP Smart Tank 580 All-in-One (1F3Y2A) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
+          "barkod": "196188530313",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer HP LaserJet M207dw, 8J9K9F",
+          "barkod": "0197961893083",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CANON Pixma TS3750i Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Cloud, A4",
+          "barkod": "4549292234107",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Canon Pixma TS4150i",
+          "barkod": "4549292248067",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CANON Pixma G3416 Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Cloud, A4",
+          "barkod": "4549292219470",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer HP Smart Tank 725 AiO",
+          "barkod": "195908302254",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7080-101",
+      "stavke": [
+        {
+          "naziv": "Usisavac Philips FC9550/09",
+          "barkod": "8710103860105",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips FC9744/09",
+          "barkod": "8710103810483",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips FC9334/09",
+          "barkod": "8710103796329",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGB41POW1 ProPower Crna",
+          "barkod": "4242005483990",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Rowenta RH9B74WO X-Force Flex 14.80 Animal",
+          "barkod": "3221616128613",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock Q10 VF+ crna",
+          "barkod": "6936905902368",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "robot Roomba Plus 575 Combo robot + AutoWash dock White",
+          "barkod": "5061083615616",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za uklanjanje mrlja Rowenta IN7021F0 Clean It Hot & Cold",
+          "barkod": "3121040098240",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi EC 685.M Dedica Style",
+          "barkod": "8004399331198",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1A3B10 Piccolo XS black/anthracite PF",
+          "barkod": "3016661159121",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1A3AF0 Piccolo XS taupe",
+          "barkod": "3045380028180",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP243B10 Genio S anthracite PF",
+          "barkod": "3045380024335",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1438F0 Mini Me 2 piano black",
+          "barkod": "3045380404144",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups SA403BE0 espresso Coffee Crush Experience Lioness",
+          "barkod": "3016661181603",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1A3110 Piccolo XS white/burgundy PF",
+          "barkod": "3045380024380",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1A3510 Piccolo XS red/black BF",
+          "barkod": "3016661163777",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP243AF0 Genio S taupe",
+          "barkod": "3045380028241",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso INISSIA Red C40-EURENE5-S",
+          "barkod": "8606112020374",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso ESSENZA MINI White S C30-EUWHNE2-S",
+          "barkod": "7630030342486",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso ESSENZA MINI Grey S C30-EUGRNE2-S",
+          "barkod": "7630030306792",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
+          "barkod": "8606112020473",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG7200/20",
+          "barkod": "8720389065170",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9823E1, 9 bara, Gold Black",
+          "barkod": "3121040091005",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV6812E0",
+          "barkod": "3121040077184",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV9852E0, 3200W",
+          "barkod": "3121040095737",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Tefal DT2022E1 Pure Pop coral",
+          "barkod": "3121040088517",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Tefal DT2020E1 Pure Pop blue",
+          "barkod": "3121040088494",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
+          "barkod": "8720389032998",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA552/00 Airfryer Dual Basket, para",
+          "barkod": "8720389049286",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja AS101EUCY Crispi Pro 7u1 Cyber Space",
+          "barkod": "0622356384902",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja FN101EUSG Crispi 4u1 Sage Green",
+          "barkod": "0622356317634",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser stapni Bosch MSM6M633",
+          "barkod": "4242005446902",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhinjski asistent Bosch MUM5XW40 MUM5 CreationLine",
+          "barkod": "4242005185214",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhinjski asistent Bosch MUMS2VM40 Serie 2",
+          "barkod": "4242005289431",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sjeckalica Tefal K1320404 900ML, rucna",
+          "barkod": "3168430275591",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC272D10",
+          "barkod": "3045380026230",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC270D10",
+          "barkod": "3045380026377",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dehidrator hrane Gorenje FDK24DW",
+          "barkod": "3838942927034",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sjeckalica Bosch MMR08R2 800 ml, crvena/antracit",
+          "barkod": "4242002742274",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sjeckalica Bosch MMR08A1 800 ml, bijela/antracit",
+          "barkod": "4242002742816",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Philips HR3760/00",
+          "barkod": "8720389013539",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Gorenje K15DWW",
+          "barkod": "3838782473739",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips XV5113/01",
+          "barkod": "8720389035975",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6903/22 filter za vodu 2 kom",
+          "barkod": "8720389000720",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips oprema CA6903/10 filter za vodu",
+          "barkod": "8720389000508",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
+          "barkod": "8004399329485",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablete za ciscenje kamenca Krups XS300010",
+          "barkod": "3016661181542",
+          "ocekivano": 3,
           "skenirano": 0
         }
       ]
