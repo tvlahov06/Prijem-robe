@@ -5,7 +5,7 @@
   "datum": "2026-11-02",
   "status": "aktivan",
   "kreirano": "2026-11-02T20:23:29.712Z",
-  "azurirano": "2026-11-02T20:27:36.546Z",
+  "azurirano": "2026-11-02T20:28:19.956Z",
   "dokumenti": [
     {
       "naziv": "MSI 7053-101",
@@ -108,13 +108,13 @@
           "naziv": "TV LG 43NU850B3LA 109.2cm (43\"), LED, 4K UHD Smart AEU TV, webOS",
           "barkod": "8806096714867",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor LG 50QNED72B3B 2026, 127 cm (50\"), QNED, 4K AEU UHD, Smart TV, webOS",
           "barkod": "8806096733790",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor 55QNED8MB6C 2026, 139,7 cm (55\"), QNED, 4K UHD, Smart TV, webOS",
@@ -132,13 +132,13 @@
           "naziv": "TV LG 43QNED72B3B 109.2cm (43\"), QNED, 4K UHD AEU Smart TV, webOS",
           "barkod": "8806096729519",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor HISENSE 43A6S 2026, 109,2 cm (43\"), DLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351430102",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
@@ -174,7 +174,7 @@
           "naziv": "Televizor SAMSUNG UE43U8072HUXXH 2026, 109 cm XH (43\"), UHD, Smart TV, Tizen OS",
           "barkod": "8806097968962",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE55U8072HUXXH 2026, 139 cm XH (55\"), UHD, Smart TV, Tizen OS",
