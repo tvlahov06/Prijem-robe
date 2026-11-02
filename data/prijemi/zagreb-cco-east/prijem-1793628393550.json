@@ -5,7 +5,7 @@
   "datum": "2026-11-02",
   "status": "aktivan",
   "kreirano": "2026-11-02T20:23:29.712Z",
-  "azurirano": "2026-11-02T20:24:52.472Z",
+  "azurirano": "2026-11-02T20:25:06.352Z",
   "dokumenti": [
     {
       "naziv": "MSI 7053-101",
@@ -280,7 +280,7 @@
           "naziv": "HP Envy 6110e All-in-One (714J3B) Color Inkjet MF pisac - Print, Scan, Copy, Mobile Fax, Duplex, Wi-Fi, USB, A4 -",
           "barkod": "197498438979",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP DeskJet 2920 All-in-One (89F97B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
@@ -298,7 +298,7 @@
           "naziv": "HP Smart Tank 580 All-in-One (1F3Y2A) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
           "barkod": "196188530313",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Printer HP LaserJet M207dw, 8J9K9F",
