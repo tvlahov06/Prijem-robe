@@ -1,0 +1,223 @@
+{
+  "id": "prijem-1793628393550",
+  "poslovnica": "zagreb-cco-east",
+  "naziv": "Roba 02-11-2026",
+  "datum": "2026-11-02",
+  "status": "aktivan",
+  "kreirano": "2026-11-02T14:06:33.550Z",
+  "azurirano": "2026-11-02T14:06:33.550Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 7053-101",
+      "stavke": [
+        {
+          "naziv": "Hladnjak kombinirani LG GBB72TW9DQ",
+          "barkod": "8806091717375",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7070-101",
+      "stavke": [
+        {
+          "naziv": "Usisavac stapni Dyson V15 Detect Absolute",
+          "barkod": "5025155136201",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Dyson V16 Piston Animal",
+          "barkod": "5025155114834",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. Ceramic Pink/Rose Gold",
+          "barkod": "5025155117187",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dyson uredaj za ravnanje kose Airstrait s intergriranim cesljem (493296) Ceramic Pink/Rose Gold",
+          "barkod": "5025155135198",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Dyson V12 Detect Slim Absolute (494876)",
+          "barkod": "5025155136294",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Cetka za oblikovanje kose Dyson Airsmooth (493078) Ceramic Pink/Rose Gold",
+          "barkod": "5025155140376",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dyson uredaj za ravnanje kose Airstrait s intergriranim cesljem (650104) Plum/Copper",
+          "barkod": "5025155141861",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic Apricot/Topaz Straight+Wavy",
+          "barkod": "5025155127964",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dyson susilo za kosu Supersonic HD07 Prussian Blue/ Rich Copper (Curly+Coily)",
+          "barkod": "5025155117859",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Dyson V8 Total Clean",
+          "barkod": "5025155080306",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x Ceramic pink/rose gold Straight+Wavy",
+          "barkod": "5025155112656",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dyson pegla za kosu Corrale CoolShine (600111) Jasper Plum",
+          "barkod": "5025155118917",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907S 900W",
+          "barkod": "8006447002487",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7071-101",
+      "stavke": [
+        {
+          "naziv": "TV LG 43NU850B3LA 109.2cm (43\"), LED, 4K UHD Smart AEU TV, webOS",
+          "barkod": "8806096714867",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor LG 50QNED72B3B 2026, 127 cm (50\"), QNED, 4K AEU UHD, Smart TV, webOS",
+          "barkod": "8806096733790",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor 55QNED8MB6C 2026, 139,7 cm (55\"), QNED, 4K UHD, Smart TV, webOS",
+          "barkod": "8806096857861",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor LG 55QNED72B3B 2026, 139,7 cm (55\"), QNED, AEU 4K UHD, Smart TV, webOS",
+          "barkod": "8806096715642",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 43QNED72B3B 109.2cm (43\"), QNED, 4K UHD AEU Smart TV, webOS",
+          "barkod": "8806096729519",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 43A6S 2026, 109,2 cm (43\"), DLED, 4K UHD, Smart TV, VIDAA OS",
+          "barkod": "6942351430102",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
+          "barkod": "5901292530242",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 40A5S 2026, 101,6 cm (40\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
+          "barkod": "6942351429632",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PRO Televizor HISENSE 43E7S PRO 2026, 109,2 cm (43\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
+          "barkod": "6942351432410",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 50A6S 2026, 127 cm (50\"), DLED, 4K UHD, Smart TV, VIDAA OS",
+          "barkod": "6942351430263",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
+          "barkod": "5901292525804",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG UE43U8072HUXXH 2026, 109 cm XH (43\"), UHD, Smart TV, Tizen OS",
+          "barkod": "8806097968962",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG UE55U8072HUXXH 2026, 139 cm XH (55\"), UHD, Smart TV, Tizen OS",
+          "barkod": "8806097977698",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 32A4S 2026, 81,3 cm (32\"), DLED, HD, Smart TV, VIDAA OS",
+          "barkod": "6942351429205",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor LG 55QNED70B3C 2026, 139,7 cm (55\"), QNED, AEU 4K UHD, Smart TV, webOS",
+          "barkod": "8806096713457",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7074-101",
+      "stavke": [
+        {
+          "naziv": "Blender Bosch MMB6172S VitaPower Serie 4",
+          "barkod": "4242005215980",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prociscivac zraka Bosch Air 4000",
+          "barkod": "4062321594749",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "976258 Perilica-susilica Whirlpool FFWDB 976258 BV EE BV EE",
+          "barkod": "8003437635915",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
