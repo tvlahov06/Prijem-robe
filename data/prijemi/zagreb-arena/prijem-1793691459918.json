@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T07:37:39.918Z",
-  "azurirano": "2026-11-03T12:25:12.046Z",
+  "azurirano": "2026-11-03T12:25:15.059Z",
   "dokumenti": [
     {
       "naziv": "MSI 7055-101",
@@ -258,13 +258,13 @@
           "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
           "barkod": "1200130029967",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice bluetooth bezicne JBL TUNE 780NC crne",
           "barkod": "1200130030482",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice JBL TUNE 110E crne",
