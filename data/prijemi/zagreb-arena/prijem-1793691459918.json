@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T07:37:39.918Z",
-  "azurirano": "2026-11-03T10:51:26.139Z",
+  "azurirano": "2026-11-03T10:52:18.320Z",
   "dokumenti": [
     {
       "naziv": "MSI 7055-101",
@@ -788,13 +788,13 @@
           "naziv": "Susilo za kosu Remington D5901 Coconut",
           "barkod": "5038061112795",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD272/00",
           "barkod": "8710103898108",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Pegla za kosu Philips BHS752/00",
