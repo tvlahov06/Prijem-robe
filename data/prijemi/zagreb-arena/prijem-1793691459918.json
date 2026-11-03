@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T07:37:39.918Z",
-  "azurirano": "2026-11-03T07:45:14.292Z",
+  "azurirano": "2026-11-03T07:45:47.977Z",
   "dokumenti": [
     {
       "naziv": "MSI 7055-101",
@@ -430,7 +430,7 @@
           "naziv": "Usisavac Philips XB2122/09",
           "barkod": "8710103925279",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC8057/01 Aqua Plus",
@@ -526,7 +526,7 @@
           "naziv": "Parna postaja Philips PSG7200/20",
           "barkod": "8720389065170",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal GV9812E0",
