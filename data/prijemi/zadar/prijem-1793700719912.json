@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T10:11:59.912Z",
-  "azurirano": "2026-11-03T12:16:25.063Z",
+  "azurirano": "2026-11-03T12:16:39.473Z",
   "dokumenti": [
     {
       "naziv": "MSI 7072-101",
@@ -542,7 +542,7 @@
           "naziv": "Ploca ugradbena Bosch PXE601DC1E",
           "barkod": "4242002915814",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Indukcijska ploca Hisense HI6442BSCE",
@@ -578,7 +578,7 @@
           "naziv": "Perilica rublja HISENSE WF3S9045BW1",
           "barkod": "6901101834591",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Perilica susilica Gorenje WD2PA854ADW",
@@ -590,7 +590,7 @@
           "naziv": "Pecnica ugradbena Gorenje BPS6747A06BG",
           "barkod": "3838782477942",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
