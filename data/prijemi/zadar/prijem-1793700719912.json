@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T10:11:59.912Z",
-  "azurirano": "2026-11-03T11:00:06.267Z",
+  "azurirano": "2026-11-03T11:01:06.562Z",
   "dokumenti": [
     {
       "naziv": "MSI 7072-101",
@@ -912,7 +912,7 @@
           "naziv": "Canon Pixma TS4150i",
           "barkod": "4549292248067",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
