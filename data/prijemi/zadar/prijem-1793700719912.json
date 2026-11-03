@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T10:11:59.912Z",
-  "azurirano": "2026-11-03T10:59:47.666Z",
+  "azurirano": "2026-11-03T11:00:00.100Z",
   "dokumenti": [
     {
       "naziv": "MSI 7072-101",
@@ -619,7 +619,7 @@
           "naziv": "Susilo za kosu Philips BHD272/00",
           "barkod": "8710103898108",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Philips BHS752/00",
