@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T07:37:39.918Z",
-  "azurirano": "2026-11-03T08:04:17.445Z",
+  "azurirano": "2026-11-03T08:24:09.606Z",
   "dokumenti": [
     {
       "naziv": "MSI 7055-101",
@@ -44,7 +44,7 @@
           "naziv": "TV LG 43QNED72B3B 109.2cm (43\"), QNED, 4K UHD AEU Smart TV, webOS",
           "barkod": "8806096729519",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor HISENSE 50E7S 2026, 126 cm (50\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
@@ -56,19 +56,19 @@
           "naziv": "Televizor SONY K50S25M2PB 2026, 126 cm (50\"), Bravia 2 EI II, 4K Google TV",
           "barkod": "4548736180383",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
           "barkod": "5901292530242",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE50M70HAUXXH 2026, 127 cm (50\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097977667",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 40A5S 2026, 101,6 cm (40\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
@@ -104,7 +104,7 @@
           "naziv": "Televizor HISENSE 58E7S 2026, 147,3 cm (58\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351431420",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
