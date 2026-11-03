@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T07:37:39.918Z",
-  "azurirano": "2026-11-03T11:18:05.356Z",
+  "azurirano": "2026-11-03T11:19:05.800Z",
   "dokumenti": [
     {
       "naziv": "MSI 7055-101",
@@ -1123,25 +1123,25 @@
           "naziv": "fotoaparat Fujifilm Instax Mini 13 rozi",
           "barkod": "4547410564853",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 ljubicasti",
           "barkod": "4547410564884",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 bijeli",
           "barkod": "4547410564877",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 plavi",
           "barkod": "4547410564846",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Pametni sat Huawei Watch Fit 5 crni (Niki-B19F)",
@@ -1177,7 +1177,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 crni 46mm (Atum-B39F)",
           "barkod": "6942711308607",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitna maska za Samsung Galaxy A57 5G s utorom za kartice crna",
@@ -1189,7 +1189,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 plavi 46mm (Atum-B39FC)",
           "barkod": "6942711308621",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Silikonska maska za Samsung Galaxy A57 5G ljubicasta",
@@ -1225,7 +1225,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 zuti 46mm (Atum-B39FY)",
           "barkod": "6942711308614",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pribor za akcijsku kameru Insta360 114cm Invisible Selfie Stick",
