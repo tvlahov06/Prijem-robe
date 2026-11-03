@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T10:11:59.912Z",
-  "azurirano": "2026-11-03T11:07:53.309Z",
+  "azurirano": "2026-11-03T11:08:36.420Z",
   "dokumenti": [
     {
       "naziv": "MSI 7072-101",
@@ -625,7 +625,7 @@
           "naziv": "Pegla za kosu Philips BHS752/00",
           "barkod": "8710103974178",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Uvijac za kosu Philips BHA310/00",
@@ -637,7 +637,7 @@
           "naziv": "Uvijac za kosu Philips BHA710/00",
           "barkod": "8720689003872",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips BRI977/00 Lumea",
