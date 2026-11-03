@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T07:37:39.918Z",
-  "azurirano": "2026-11-03T10:59:32.619Z",
+  "azurirano": "2026-11-03T11:00:05.413Z",
   "dokumenti": [
     {
       "naziv": "MSI 7055-101",
@@ -992,13 +992,13 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7101/02 Sonicare Series 5300 Black",
           "barkod": "8720689025201",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za bradu Philips BT5780/15",
           "barkod": "8720689034203",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX3792/11 Sonicare series 6800 Black",
@@ -1022,7 +1022,7 @@
           "naziv": "Osobna vaga Tefal BM2600V0 Body Up 2.0",
           "barkod": "3121040097168",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Sisac za bradu Philips BT7670/15",
