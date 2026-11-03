@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T10:11:59.912Z",
-  "azurirano": "2026-11-03T11:14:29.481Z",
+  "azurirano": "2026-11-03T11:14:35.771Z",
   "dokumenti": [
     {
       "naziv": "MSI 7072-101",
@@ -775,7 +775,7 @@
           "naziv": "Epilator Philips BRE257/00",
           "barkod": "8720689030977",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips BRI947/00 Lumea",
