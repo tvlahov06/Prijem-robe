@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T07:37:39.918Z",
-  "azurirano": "2026-11-03T07:47:42.310Z",
+  "azurirano": "2026-11-03T07:49:05.325Z",
   "dokumenti": [
     {
       "naziv": "MSI 7055-101",
@@ -568,7 +568,7 @@
           "naziv": "Osvjezivac odjece Philips STH3010/30",
           "barkod": "8720389037535",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH7060/80",
@@ -634,7 +634,7 @@
           "naziv": "Mikser stapni Tefal HB672B30",
           "barkod": "3016667291740",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Tefal HT450B38 bijeli 450W",
@@ -688,7 +688,7 @@
           "naziv": "Toster grill Gorenje GCG2000M",
           "barkod": "3838782867712",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vaga kuhinjska Gorenje KT10LBW",
