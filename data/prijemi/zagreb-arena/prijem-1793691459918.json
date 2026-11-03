@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T07:37:39.918Z",
-  "azurirano": "2026-11-03T10:10:51.102Z",
+  "azurirano": "2026-11-03T10:10:57.461Z",
   "dokumenti": [
     {
       "naziv": "MSI 7055-101",
@@ -163,7 +163,7 @@
           "naziv": "Dyson susilo za kosu Supersonic HD07 Prussian Blue/ Rich Copper (Curly+Coily)",
           "barkod": "5025155117859",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dyson pegla za kosu Corrale CoolShine (600111) Jasper Plum",
@@ -1272,7 +1272,7 @@
           "naziv": "Dyson susilo za kosu Supersonic HD07 Prussian Blue/ Rich Copper (Curly+Coily)",
           "barkod": "5025155117859",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac stapni Dyson V12s Detect Slim Submarine + Low-reach adaptor",
