@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T10:11:59.912Z",
-  "azurirano": "2026-11-03T11:04:54.825Z",
+  "azurirano": "2026-11-03T11:05:19.300Z",
   "dokumenti": [
     {
       "naziv": "MSI 7072-101",
@@ -685,7 +685,7 @@
           "naziv": "Brijaci aparat Philips S3244/12",
           "barkod": "8720689018609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Philips BHS838/00 SenseIQ",
@@ -703,7 +703,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP225/50 nastavci Face",
           "barkod": "8720689003087",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3911/40 Power Flosser",
@@ -787,7 +787,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/88 Optimal White 4/1 black",
           "barkod": "8720689035064",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/88 Premium Plaque Defence Standard 2/1 Black",
@@ -865,7 +865,7 @@
           "naziv": "Brijac za tijelo Philips BG3480/15",
           "barkod": "8720689026871",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
