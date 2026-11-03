@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T10:11:59.912Z",
-  "azurirano": "2026-11-03T10:53:05.228Z",
+  "azurirano": "2026-11-03T10:53:10.741Z",
   "dokumenti": [
     {
       "naziv": "MSI 7072-101",
@@ -180,7 +180,7 @@
           "naziv": "Televizor LG 50QNED72B3B 2026, 127 cm (50\"), QNED, 4K AEU UHD, Smart TV, webOS",
           "barkod": "8806096733790",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG 32LQ63006LA 81.3cm (32\"), LED, FHD, webOS",
@@ -204,7 +204,7 @@
           "naziv": "TV LG 43QNED72B3B 109.2cm (43\"), QNED, 4K UHD AEU Smart TV, webOS",
           "barkod": "8806096729519",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor SAMSUNG UE50M70HAUXXH 2026, 127 cm (50\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
