@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T07:37:39.918Z",
-  "azurirano": "2026-11-03T10:45:43.435Z",
+  "azurirano": "2026-11-03T10:46:11.610Z",
   "dokumenti": [
     {
       "naziv": "MSI 7055-101",
@@ -806,7 +806,7 @@
           "naziv": "Susilo za kosu Remington D5720",
           "barkod": "4008496985388",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Philips BHA310/00",
@@ -884,7 +884,7 @@
           "naziv": "Susilo za kosu Philips BHD723/10",
           "barkod": "8720689027236",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tus za zube Philips Sonicare HX3886/43 Power Flosser + Cetkica za zube Diamond Clean 9000 Black",
@@ -968,7 +968,7 @@
           "naziv": "Susilo za kosu Rowenta HY8310F0",
           "barkod": "3121040092590",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu/bradu Rowenta TN1551E0",
