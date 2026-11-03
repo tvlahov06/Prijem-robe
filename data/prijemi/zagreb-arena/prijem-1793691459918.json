@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T07:37:39.918Z",
-  "azurirano": "2026-11-03T10:48:41.170Z",
+  "azurirano": "2026-11-03T10:49:55.367Z",
   "dokumenti": [
     {
       "naziv": "MSI 7055-101",
@@ -800,7 +800,7 @@
           "naziv": "Pegla za kosu Philips BHS752/00",
           "barkod": "8710103974178",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Remington D5720",
@@ -818,7 +818,7 @@
           "naziv": "Uvijac za kosu Philips BHA710/00",
           "barkod": "8720689003872",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips BRI977/00 Lumea",
@@ -854,7 +854,7 @@
           "naziv": "Pegla za kosu Philips BHS838/00 SenseIQ",
           "barkod": "8720689002134",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP430/50 nastavci 360",
@@ -974,7 +974,7 @@
           "naziv": "Sisac za kosu/bradu Rowenta TN1551E0",
           "barkod": "3121040093870",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube CURAPROX CS KIDS Grafitti Edition 2/1",
@@ -1010,7 +1010,7 @@
           "naziv": "Susilo za kosu Rowenta HY8530E0, HD Nano Foldable",
           "barkod": "3121040095379",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Epilator Philips BRE708/00",
