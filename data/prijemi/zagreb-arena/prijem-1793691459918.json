@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T07:37:39.918Z",
-  "azurirano": "2026-11-03T13:00:17.500Z",
+  "azurirano": "2026-11-03T13:00:51.912Z",
   "dokumenti": [
     {
       "naziv": "MSI 7055-101",
@@ -646,7 +646,7 @@
           "naziv": "Aparat za izradu tjestenine Philips HR2665/96",
           "barkod": "8720389014833",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Philips HD6307/70 preklopni",
