@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T10:11:59.912Z",
-  "azurirano": "2026-11-03T10:31:39.495Z",
+  "azurirano": "2026-11-03T10:31:46.317Z",
   "dokumenti": [
     {
       "naziv": "MSI 7072-101",
@@ -501,7 +501,7 @@
           "naziv": "Slusalice bluetooth bezicne JBL TUNE 780NC crne",
           "barkod": "1200130030482",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice JBL TUNE 110E crne",
@@ -525,7 +525,7 @@
           "naziv": "Slusalice zicane JBL TUNE 530C USB-C crne",
           "barkod": "1200130030055",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "prijenosni bluetooth JBL GO 5 maskirni",
