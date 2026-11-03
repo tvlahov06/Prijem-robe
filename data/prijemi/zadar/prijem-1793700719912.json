@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T10:11:59.912Z",
-  "azurirano": "2026-11-03T10:53:19.091Z",
+  "azurirano": "2026-11-03T10:56:54.140Z",
   "dokumenti": [
     {
       "naziv": "MSI 7072-101",
@@ -548,13 +548,13 @@
           "naziv": "Indukcijska ploca Hisense HI6442BSCE",
           "barkod": "3838782836770",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena indukcija Gorenje GI6401BCE",
           "barkod": "3838782757457",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja ELECTROLUX EW6F8482E",
