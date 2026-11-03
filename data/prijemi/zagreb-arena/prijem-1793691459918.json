@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T07:37:39.918Z",
-  "azurirano": "2026-11-03T12:16:22.737Z",
+  "azurirano": "2026-11-03T12:16:35.998Z",
   "dokumenti": [
     {
       "naziv": "MSI 7055-101",
@@ -389,7 +389,7 @@
           "naziv": "HP Smart Tank 580 All-in-One (1F3Y2A) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
           "barkod": "196188530313",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet M110w",
@@ -413,7 +413,7 @@
           "naziv": "Printer HP Smart Tank 725 AiO",
           "barkod": "195908302254",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
