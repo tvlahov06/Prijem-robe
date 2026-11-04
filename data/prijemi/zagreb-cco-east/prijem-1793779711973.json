@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "",
   "datum": "2026-11-04",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:23:49.509Z",
+  "azurirano": "2026-11-04T20:35:34.231Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -558,5 +558,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-11-04T20:35:34.231Z"
 }
