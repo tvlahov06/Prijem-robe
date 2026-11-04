@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:23:31.351Z",
+  "azurirano": "2026-11-04T08:23:49.509Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -14,7 +14,7 @@
           "naziv": "PG ZAST.STAKLO GALAXY S26+ ULTRA WIDE FIT",
           "barkod": "5715685033834",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "PG CASE TRANSPARENT URBAN COMBAT S26+",
@@ -32,7 +32,7 @@
           "naziv": "PG ZAST.STAKLO GALAXY S26 ULTRA ULTRA WIDE FIT PRIVACY",
           "barkod": "5715685033902",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "PG CASE TRANSPARENT URBAN COMBAT S26 ULTRA",
@@ -68,7 +68,7 @@
           "naziv": "PG ZAST.STAKLO GALAXY S26 ULTRA WIDE FIT PRIVACY",
           "barkod": "5715685033889",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "PG CASE TRANSPARENT URBAN COMBAT S26",
@@ -98,7 +98,7 @@
           "naziv": "SENSATION+ GALAXY S26 ULTRA BLACK",
           "barkod": "8018080510144",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PG ZAST.STAKLO IPHONE 17 PRO/18 PRO ULTRA WIDE FIT",
@@ -110,7 +110,7 @@
           "naziv": "CLEAR PROTECT GALAXY S26 ULTRA",
           "barkod": "8018080510243",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "GM MIS WLESS,HELOX,WHITE,GXT929W",
@@ -242,7 +242,7 @@
           "naziv": "PG ZAST.STAKLO IPHONE 18 DUO ULTRA WIDE FIT",
           "barkod": "5715685054310",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "SLUSALICE ON-EAR BT Q20i BLACK",
@@ -278,7 +278,7 @@
           "naziv": "ZAS.STAKLO GALAXY S26",
           "barkod": "8018080511585",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KP GAN 2x USB-C/USB-A 100W + KABEL C-C",
@@ -530,7 +530,7 @@
           "naziv": "SENSATION IPHONE 17 PRO BLACK",
           "barkod": "8018080499661",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ZAS.STAKLO IPHONE 16 PRO/17/17 PRO",
@@ -554,7 +554,7 @@
           "naziv": "ZAS.STAKLO GALAXY S26 ULTRA",
           "barkod": "8018080511592",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
