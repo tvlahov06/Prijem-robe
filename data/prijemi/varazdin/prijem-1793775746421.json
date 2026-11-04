@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T07:02:26.421Z",
-  "azurirano": "2026-11-04T08:38:55.766Z",
+  "azurirano": "2026-11-04T08:39:01.992Z",
   "dokumenti": [
     {
       "naziv": "MSI 7095-101",
@@ -596,13 +596,13 @@
           "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
           "barkod": "4242005306978",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Rowenta RH1833E0 X-Force 8.80",
           "barkod": "3221616176485",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "robot Roborock Saros 20",
