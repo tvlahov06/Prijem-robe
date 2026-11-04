@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T07:02:26.421Z",
-  "azurirano": "2026-11-04T07:29:14.293Z",
+  "azurirano": "2026-11-04T07:31:07.259Z",
   "dokumenti": [
     {
       "naziv": "MSI 7095-101",
@@ -322,13 +322,13 @@
           "naziv": "The Legend of Zelda: Breath Of The Wild Switch 2",
           "barkod": "0045496312664",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PS5 Pulse Elite wireless headset+",
           "barkod": "711719598275",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PS5 Dualsense Wireless Controller Chroma Pearl v2",
@@ -346,7 +346,7 @@
           "naziv": "Call of Duty: Modern Warfare 4 PS5",
           "barkod": "196388866229",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
