@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T14:51:37.386Z",
-  "azurirano": "2026-11-04T06:44:13.297Z",
+  "azurirano": "2026-11-04T06:45:38.154Z",
   "dokumenti": [
     {
       "naziv": "MSI 7103-101",
@@ -524,7 +524,7 @@
           "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5021F0",
           "barkod": "3121040095003",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uredaj za uklanjanje mrlja Rowenta IN7021F0 Clean It Hot & Cold",
@@ -548,7 +548,7 @@
           "naziv": "Aparat za kavu DeLonghi EC 685.R Dedica Style",
           "barkod": "8004399331204",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3AF0 Piccolo XS taupe",
@@ -608,7 +608,7 @@
           "naziv": "Parna postaja Philips PSG8300/80",
           "barkod": "8720389066504",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Tefal SV6212E0 Power Pro Compact 200",
@@ -662,7 +662,7 @@
           "naziv": "Friteza na vruci zrak Tefal EY245B10 Easy Fry Max crna",
           "barkod": "3045387291112",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Tefal EY7568E0 Easy Fry Crispy Stack",
@@ -674,7 +674,7 @@
           "naziv": "Mikser rucni Gorenje M500DCBK",
           "barkod": "3838782541605",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhinjski asistent Bosch MUMS2VM40 Serie 2",
@@ -704,7 +704,7 @@
           "naziv": "Vaga kuhinjska Tefal BC50D4V0 Cupcakes",
           "barkod": "3121040092439",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
@@ -746,13 +746,13 @@
           "naziv": "Kuhalo za vodu Tefal KO693110 1.5L, display",
           "barkod": "3045387243159",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mop elektricni Philips XV3101/11",
           "barkod": "8720389058707",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6903/22 filter za vodu 2 kom",
