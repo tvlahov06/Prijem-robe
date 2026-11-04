@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T07:02:26.421Z",
-  "azurirano": "2026-11-04T07:20:29.027Z",
+  "azurirano": "2026-11-04T07:21:18.805Z",
   "dokumenti": [
     {
       "naziv": "MSI 7095-101",
@@ -357,7 +357,7 @@
           "naziv": "Susilo za kosu Philips BHD530/00",
           "barkod": "8710103977209",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Pegla za kosu Philips BHS752/00",
@@ -381,7 +381,7 @@
           "naziv": "IPL depilator Philips BRI977/00 Lumea",
           "barkod": "8720689005944",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetka za kosu Philips BHH885/00",
@@ -441,7 +441,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP225/50 nastavci Face",
           "barkod": "8720689003087",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6652/61 Face & Body",
@@ -489,7 +489,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP624/50 nastavci Face & Body",
           "barkod": "8720689031875",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Uvijac za kosu Philips BHB968/00 WavePro Styler SenseIQ",
@@ -501,7 +501,7 @@
           "naziv": "IPL depilator Philips BRI947/00 Lumea",
           "barkod": "8720689016438",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/88 Optimal White 4/1 black",
@@ -567,7 +567,7 @@
           "naziv": "depilator Philips BRC332/00 Lumea",
           "barkod": "8720689045698",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "IPL depilator Philips BRC344/00 Lumea",
