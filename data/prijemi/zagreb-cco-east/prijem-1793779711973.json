@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:23:09.936Z",
+  "azurirano": "2026-11-04T08:23:22.066Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -92,7 +92,7 @@
           "naziv": "CITAC SMART CARD/SIM",
           "barkod": "766623102025",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SENSATION+ GALAXY S26 ULTRA BLACK",
@@ -272,7 +272,7 @@
           "naziv": "SLUSALICE IN-EAR TWS R60i NC WHITE",
           "barkod": "0194644269487",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "ZAS.STAKLO GALAXY S26",
@@ -374,7 +374,7 @@
           "naziv": "KP USB-A/USB-C 33W BLACK",
           "barkod": "0194644125639",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "KABEL C-C 200 CM",
@@ -386,7 +386,7 @@
           "naziv": "PRIJENOSNA BATERIJA MAG GO 10.000 15W BLACK",
           "barkod": "0194644173388",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PLOOS AUTO PUNJAC USB-A/C ADAPTER DUAL",
