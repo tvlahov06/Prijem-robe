@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T14:51:37.386Z",
-  "azurirano": "2026-11-04T06:36:31.086Z",
+  "azurirano": "2026-11-04T06:36:39.970Z",
   "dokumenti": [
     {
       "naziv": "MSI 7103-101",
@@ -846,7 +846,7 @@
           "naziv": "TV LG 32LQ63006LA 81.3cm (32\"), LED, FHD, webOS",
           "barkod": "8806091636959",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Televizor 55QNED8MB6C 2026, 139,7 cm (55\"), QNED, 4K UHD, Smart TV, webOS",
@@ -864,7 +864,7 @@
           "naziv": "TV LG 43QNED72B3B 109.2cm (43\"), QNED, 4K UHD AEU Smart TV, webOS",
           "barkod": "8806096729519",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor HISENSE 40A5S 2026, 101,6 cm (40\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
@@ -888,19 +888,19 @@
           "naziv": "Televizor HISENSE 50A6S 2026, 127 cm (50\"), DLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351430263",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 43A6S 2026, 109,2 cm (43\"), DLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351430102",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 50E7S 2026, 126 cm (50\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
           "barkod": "6942351431161",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 55U7SE 2026, 139,7 cm (55\"), ULED Mini LED, 4K UHD, Smart TV, VIDAA OS",
@@ -912,7 +912,7 @@
           "naziv": "Televizor LG OLED55C61LA 2026, 139,7 cm (55\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
           "barkod": "8806096685792",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE65U8072HUXXH 2026, 164 cm XH (65\"), UHD, Smart TV, Tizen OS",
