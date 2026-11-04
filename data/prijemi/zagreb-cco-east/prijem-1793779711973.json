@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:12:44.067Z",
+  "azurirano": "2026-11-04T08:13:13.702Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -164,13 +164,13 @@
           "naziv": "PC ADAPTER USB-A/4x USB-A,HALYX",
           "barkod": "8713439249477",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PC ADAPTER USB-C/4x USB-A,HALYX",
           "barkod": "8713439249484",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "GM MIS WLESS,FELOX,BLACK,GXT110",
@@ -356,7 +356,7 @@
           "naziv": "SLUSALICE IN-EAR TWS LIBERTY 5 BLACK",
           "barkod": "0194644291334",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "SLUSALICE IN-EAR TWS R60i NC BLACK",
@@ -524,7 +524,7 @@
           "naziv": "PRIJENOSNA BATERIJA ELITE 20.000 BLUE",
           "barkod": "8018080484629",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SENSATION IPHONE 17 PRO BLACK",
@@ -536,13 +536,13 @@
           "naziv": "ZAS.STAKLO IPHONE 16 PRO/17/17 PRO",
           "barkod": "8018080483035",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ZAS.STAKLO IPHONE 16 PRO MAX/17 PRO MAX",
           "barkod": "8018080483042",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "ACL SLUSALICE TYPE-C SPARROW WHITE",
