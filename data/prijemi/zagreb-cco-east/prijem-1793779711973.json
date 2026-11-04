@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:15:26.756Z",
+  "azurirano": "2026-11-04T08:16:06.770Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -332,13 +332,13 @@
           "naziv": "KABEL SPIRAL C-C",
           "barkod": "8018080493805",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "KABEL SPIRAL USB-C",
           "barkod": "8018080493782",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "BT MONO SLUSALICA BOLD",
