@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:13:33.318Z",
+  "azurirano": "2026-11-04T08:15:16.272Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -302,13 +302,13 @@
           "naziv": "AUTO ADAPTER USB-A TO USB-C",
           "barkod": "8018080399534",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "AUTO ADAPTER USB-C TO USB-A",
           "barkod": "8018080399541",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ACL AUDIO KABEL 3.5 MM NA USB-C",
@@ -392,7 +392,7 @@
           "naziv": "PLOOS AUTO PUNJAC USB-A/C ADAPTER DUAL",
           "barkod": "8018080497421",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SLUSALICE ON-EAR BT Q30 BLACK",
