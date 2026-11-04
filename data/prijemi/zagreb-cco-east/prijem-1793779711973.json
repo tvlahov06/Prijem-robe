@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:16:06.770Z",
+  "azurirano": "2026-11-04T08:16:23.223Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -290,7 +290,7 @@
           "naziv": "PLOOS PODATKOVNI KABEL USB-C, 100 CM",
           "barkod": "8018080369780",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "ACL AUDIO ADAPTER AUX/TYPE-C",
@@ -428,7 +428,7 @@
           "naziv": "KP SAMSUNG USB-C I KABEL C-C 15W BLACK",
           "barkod": "8018080434778",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KABEL HDMI 4K@30HZ ETHERNET 1M NEW",
@@ -500,7 +500,7 @@
           "naziv": "KP SAMSUNG USB-C I KABEL C-C 25W",
           "barkod": "8018080367199",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KABEL C-C 120 CM",
@@ -512,13 +512,13 @@
           "naziv": "PRIJENOSNA BATERIJA ELITE 10.000 BLACK",
           "barkod": "8018080484643",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KP SAMSUNG ADAPTER USB-C 25W",
           "barkod": "8018080367182",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PRIJENOSNA BATERIJA ELITE 20.000 BLUE",
