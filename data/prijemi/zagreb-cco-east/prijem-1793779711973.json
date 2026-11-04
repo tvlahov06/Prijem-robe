@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:15:16.272Z",
+  "azurirano": "2026-11-04T08:15:19.872Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -314,7 +314,7 @@
           "naziv": "ACL AUDIO KABEL 3.5 MM NA USB-C",
           "barkod": "8018080384097",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DRZAC HUG FLEXI",
@@ -494,7 +494,7 @@
           "naziv": "AP ADAPTER TYPE-C 20W",
           "barkod": "8018080468063",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KP SAMSUNG USB-C I KABEL C-C 25W",
