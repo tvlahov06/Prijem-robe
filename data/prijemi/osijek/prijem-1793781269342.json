@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-04T13:37:06.046Z",
+  "azurirano": "2026-11-04T13:37:51.133Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -85,7 +85,7 @@
           "naziv": "Usisavac Bosch BGC05AAA2",
           "barkod": "4242005076321",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Ninja AF550EU",
