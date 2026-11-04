@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T07:02:26.421Z",
-  "azurirano": "2026-11-04T08:55:52.744Z",
+  "azurirano": "2026-11-04T08:56:56.483Z",
   "dokumenti": [
     {
       "naziv": "MSI 7095-101",
@@ -758,7 +758,7 @@
           "naziv": "Aparat za kavu Philips oprema CA6903/22 filter za vodu 2 kom",
           "barkod": "8720389000720",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Aparat za kavu Philips oprema CA6903/10 filter za vodu",
@@ -770,7 +770,7 @@
           "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
           "barkod": "8004399329485",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Tablete za ciscenje kamenca Krups XS300010",
