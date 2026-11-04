@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T07:02:26.421Z",
-  "azurirano": "2026-11-04T07:19:53.299Z",
+  "azurirano": "2026-11-04T07:20:06.687Z",
   "dokumenti": [
     {
       "naziv": "MSI 7095-101",
@@ -363,7 +363,7 @@
           "naziv": "Pegla za kosu Philips BHS752/00",
           "barkod": "8710103974178",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Philips BHA310/00",
@@ -387,7 +387,7 @@
           "naziv": "Cetka za kosu Philips BHH885/00",
           "barkod": "8720689000185",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips S7885/50",
