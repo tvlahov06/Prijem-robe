@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T10:06:01.911Z",
-  "azurirano": "2026-11-04T10:32:30.505Z",
+  "azurirano": "2026-11-04T10:33:12.126Z",
   "dokumenti": [
     {
       "naziv": "1234",
@@ -206,7 +206,7 @@
           "naziv": "MANHATTAN CITAC SMART CARD SIM",
           "barkod": "766623102025",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kucni Punjac PLOOS, Za Apple, 1xUSB-A, Kabel Lightning 100cm, Crni",
@@ -236,13 +236,13 @@
           "naziv": "Kabel MANHATTAN USB-C to DisplayPort (DP) 8K@60Hz, 3m",
           "barkod": "766623394994",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 3m",
           "barkod": "766623356787",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Drzac Za Mobitel PLOOS, Gravity, Crni",
