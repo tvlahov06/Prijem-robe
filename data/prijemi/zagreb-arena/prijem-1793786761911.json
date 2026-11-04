@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T10:06:01.911Z",
-  "azurirano": "2026-11-04T10:15:31.213Z",
+  "azurirano": "2026-11-04T10:15:50.848Z",
   "dokumenti": [
     {
       "naziv": "1234",
@@ -356,7 +356,7 @@
           "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
           "barkod": "8018080295751",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL SPIRAL C-C",
