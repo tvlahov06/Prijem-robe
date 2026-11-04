@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T14:51:37.386Z",
-  "azurirano": "2026-11-04T06:32:51.043Z",
+  "azurirano": "2026-11-04T06:33:03.085Z",
   "dokumenti": [
     {
       "naziv": "MSI 7103-101",
@@ -840,7 +840,7 @@
           "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
           "barkod": "5901292530242",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG 32LQ63006LA 81.3cm (32\"), LED, FHD, webOS",
@@ -852,13 +852,13 @@
           "naziv": "Televizor 55QNED8MB6C 2026, 139,7 cm (55\"), QNED, 4K UHD, Smart TV, webOS",
           "barkod": "8806096857861",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor LG 55QNED72B3B 2026, 139,7 cm (55\"), QNED, AEU 4K UHD, Smart TV, webOS",
           "barkod": "8806096715642",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG 43QNED72B3B 109.2cm (43\"), QNED, 4K UHD AEU Smart TV, webOS",
@@ -870,7 +870,7 @@
           "naziv": "Televizor HISENSE 40A5S 2026, 101,6 cm (40\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
           "barkod": "6942351429632",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Philips 32PHS6050/12 TV, 2K LED TV",
@@ -906,7 +906,7 @@
           "naziv": "Televizor HISENSE 55U7SE 2026, 139,7 cm (55\"), ULED Mini LED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351433677",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor LG OLED55C61LA 2026, 139,7 cm (55\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
@@ -918,7 +918,7 @@
           "naziv": "Televizor SAMSUNG UE65U8072HUXXH 2026, 164 cm XH (65\"), UHD, Smart TV, Tizen OS",
           "barkod": "8806097969020",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
