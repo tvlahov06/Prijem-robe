@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T10:06:01.911Z",
-  "azurirano": "2026-11-04T10:14:36.491Z",
+  "azurirano": "2026-11-04T10:14:59.528Z",
   "dokumenti": [
     {
       "naziv": "1234",
@@ -332,7 +332,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC HUAWEI I KABEL USB-C 3A/18W",
           "barkod": "8018080303869",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC APPLE USB-C 30W",
