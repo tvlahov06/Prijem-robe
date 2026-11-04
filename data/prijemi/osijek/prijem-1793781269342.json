@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-04T12:51:05.418Z",
+  "azurirano": "2026-11-04T12:51:15.821Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -287,7 +287,7 @@
           "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
           "barkod": "4242005306978",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Rowenta RH7AC1E0",
