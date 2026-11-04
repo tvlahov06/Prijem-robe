@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T14:51:37.386Z",
-  "azurirano": "2026-11-04T07:04:27.988Z",
+  "azurirano": "2026-11-04T07:04:40.938Z",
   "dokumenti": [
     {
       "naziv": "MSI 7103-101",
@@ -566,7 +566,7 @@
           "naziv": "Aparat za kavu Krups KP1A3110 Piccolo XS white/burgundy PF",
           "barkod": "3045380024380",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP1A3510 Piccolo XS red/black BF",
@@ -728,13 +728,13 @@
           "naziv": "Sjeckalica Bosch MMR08R2 800 ml, crvena/antracit",
           "barkod": "4242002742274",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sjeckalica Bosch MMR08A1 800 ml, bijela/antracit",
           "barkod": "4242002742816",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sokovnik Philips HR1888/70",
