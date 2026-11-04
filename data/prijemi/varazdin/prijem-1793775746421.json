@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T07:02:26.421Z",
-  "azurirano": "2026-11-04T07:35:32.247Z",
+  "azurirano": "2026-11-04T07:44:19.361Z",
   "dokumenti": [
     {
       "naziv": "MSI 7095-101",
@@ -32,7 +32,7 @@
           "naziv": "TV LG 32LQ63006LA 81.3cm (32\"), LED, FHD, webOS",
           "barkod": "8806091636959",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor 55QNED8MB6C 2026, 139,7 cm (55\"), QNED, 4K UHD, Smart TV, webOS",
@@ -304,7 +304,7 @@
           "naziv": "PlayStation Portal remote player Midnight Black",
           "barkod": "711719593171",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Nintendo Switch 2 Pro-Controller",
