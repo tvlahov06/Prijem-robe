@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:19:24.998Z",
+  "azurirano": "2026-11-04T08:21:43.132Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -434,7 +434,7 @@
           "naziv": "KABEL HDMI 4K@30HZ ETHERNET 1M NEW",
           "barkod": "766623356763",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KABEL HDMI 4K@30HZ ETHERNET 2M NEW",
@@ -482,7 +482,7 @@
           "naziv": "KABEL USB 3.2, USB-C/USB-C 1M NEW",
           "barkod": "766623394901",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KABEL DISPLAY PORT 4K@60HZ/DISPLAY PORT 1M NEW",
