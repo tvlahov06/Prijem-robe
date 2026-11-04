@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:21:47.265Z",
+  "azurirano": "2026-11-04T08:21:52.441Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -284,7 +284,7 @@
           "naziv": "KP GAN 2x USB-C/USB-A 100W + KABEL C-C",
           "barkod": "0194644291754",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PLOOS PODATKOVNI KABEL USB-C, 100 CM",
@@ -368,7 +368,7 @@
           "naziv": "KABEL USB-C TO USB-C 322 60W 90 CM WOVEN BLACK",
           "barkod": "0194644125806",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KP USB-A/USB-C 33W BLACK",
@@ -446,7 +446,7 @@
           "naziv": "KABEL USB 2.0, USB-A/USB-B 3M BLACK NEW",
           "barkod": "766623356848",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "KABEL DISPLAY PORT 4K@60HZ/DISPLAY PORT 2M NEW",
@@ -458,7 +458,7 @@
           "naziv": "KABEL USB 2.0, USB-A/USB-C 1M BLACK NEW",
           "barkod": "766623394864",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KABEL DISPLAY PORT 8K@60HZ/USB-C 2M NEW",
@@ -482,7 +482,7 @@
           "naziv": "KABEL USB 3.2, USB-C/USB-C 1M NEW",
           "barkod": "766623394901",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "KABEL DISPLAY PORT 4K@60HZ/DISPLAY PORT 1M NEW",
