@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-04T12:16:27.454Z",
+  "azurirano": "2026-11-04T12:16:30.092Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -1069,7 +1069,7 @@
           "naziv": "Web kamera Logitech C270 HD",
           "barkod": "5099206064201",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Volan Logitech G923 Driving force + Shifter Logitech Driving Force",
