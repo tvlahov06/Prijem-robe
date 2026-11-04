@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-04T13:02:23.716Z",
+  "azurirano": "2026-11-04T13:02:32.286Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -293,7 +293,7 @@
           "naziv": "Usisavac Rowenta RH7AC1E0",
           "barkod": "3221616183063",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "robot Roborock Saros 20",
