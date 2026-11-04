@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:38:44.572Z",
-  "azurirano": "2026-11-04T08:41:01.886Z",
+  "azurirano": "2026-11-04T08:59:12.919Z",
   "dokumenti": [
     {
       "naziv": "H2O",
@@ -75,65 +75,6 @@
           "barkod": "0810045688770",
           "ocekivano": 5,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "Agram",
-      "stavke": [
-        {
-          "naziv": "Mobitel Honor 600 Lite 5G DS 8GB/256GB Sprout Green",
-          "barkod": "6936520891986",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Mobitel Honor 600 Lite 5G DS 8GB/256GB Velvet Black",
-          "barkod": "6936520891962",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Mobitel HONOR Magic8 Lite 8GB/256GB Forest Green",
-          "barkod": "6936520884223",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Motorola edge 60 Pro 8GB/256GB Pantone Shadow Green",
-          "barkod": "840493609355",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Pametni sat Honor Choice Watch 2i crni",
-          "barkod": "6977887510127",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Susilo za kosu HONOR Choice Pro Zelena",
-          "barkod": "6977100380735",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tablet HONOR Pad 20 6GB/256GB WIFI + tipkovnica i olovka",
-          "barkod": "6942785110991",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Tablet Honor Pad X8b 4GB/128GB WIFI Space Grey",
-          "barkod": "6936520897179",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Tablet Honor Pad X8b 4GB/64GB WIFI Space Grey",
-          "barkod": "6936520897162",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     }
