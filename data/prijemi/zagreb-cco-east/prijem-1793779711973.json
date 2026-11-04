@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:23:22.066Z",
+  "azurirano": "2026-11-04T08:23:31.351Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -296,7 +296,7 @@
           "naziv": "ACL AUDIO ADAPTER AUX/TYPE-C",
           "barkod": "8018080351518",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "AUTO ADAPTER USB-A TO USB-C",
@@ -326,7 +326,7 @@
           "naziv": "FM TRANSMITTER",
           "barkod": "8018080476976",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KABEL SPIRAL C-C",
@@ -410,7 +410,7 @@
           "naziv": "KP GAN+ POWERVIEW IQ 2x USB-C/USB-A I KABEL C-C 67W",
           "barkod": "8018080513435",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PLOOS PODATKOVNI KABEL C-C, 100 CM",
