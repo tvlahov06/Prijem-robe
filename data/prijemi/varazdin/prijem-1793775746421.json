@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T07:02:26.421Z",
-  "azurirano": "2026-11-04T07:22:26.496Z",
+  "azurirano": "2026-11-04T07:22:40.439Z",
   "dokumenti": [
     {
       "naziv": "MSI 7095-101",
@@ -162,7 +162,7 @@
           "naziv": "fotoaparat Fujifilm Instax Mini 13 zeleni",
           "barkod": "4547410564860",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange",
@@ -174,7 +174,7 @@
           "naziv": "fotoaparat Fujifilm Instax Mini 13 bijeli",
           "barkod": "4547410564877",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch Fit 5 crni (Niki-B19F)",
@@ -186,7 +186,7 @@
           "naziv": "Pametni sat Huawei Watch Fit 5 ljubicasti (Niki-B19F)",
           "barkod": "6942103189708",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 crni 46mm (Atum-B39F)",
@@ -210,7 +210,7 @@
           "naziv": "Instant fotoaparat Fujifilm Instax Mini 41",
           "barkod": "4547410545180",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet HUAWEI MatePad Air White 8GB/256GB + tipkovnica (Wooki-W09DK)",
