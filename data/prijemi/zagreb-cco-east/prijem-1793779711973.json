@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:13:13.702Z",
+  "azurirano": "2026-11-04T08:13:33.318Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -176,7 +176,7 @@
           "naziv": "GM MIS WLESS,FELOX,BLACK,GXT110",
           "barkod": "8713439250374",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PC MIS WLESS,PUNJIVI,ERGONOMSKI,BAYO II WHITE",
@@ -206,7 +206,7 @@
           "naziv": "PC MIS WLESS,SILENT CLICK,MYDO,BLACK",
           "barkod": "8713439250848",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "GM TIPKOVNICA S MISEM HR,WLESS,TKL,THADO,BLACK,GXT832",
@@ -218,7 +218,7 @@
           "naziv": "DRZAC ZA MOB,RUNO AIR",
           "barkod": "8713439249835",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KABEL USB-C TO LIGHTNING 322 90 CM WOVEN WHITE*",
@@ -260,7 +260,7 @@
           "naziv": "BS PC TIPKOVNICA HR/SI,WLESS,BT",
           "barkod": "8713439262100",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "GM TIPKOVNICA US,MEHANICKA,TORIX,GXT866",
