@@ -5,7 +5,7 @@
   "datum": "2026-11-03",
   "status": "aktivan",
   "kreirano": "2026-11-03T14:51:37.386Z",
-  "azurirano": "2026-11-04T06:43:41.588Z",
+  "azurirano": "2026-11-04T06:43:49.631Z",
   "dokumenti": [
     {
       "naziv": "MSI 7103-101",
@@ -608,7 +608,7 @@
           "naziv": "Parna postaja Philips PSG8300/80",
           "barkod": "8720389066504",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal SV6212E0 Power Pro Compact 200",
