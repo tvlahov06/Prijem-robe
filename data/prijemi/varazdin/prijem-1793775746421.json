@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T07:02:26.421Z",
-  "azurirano": "2026-11-04T07:20:06.687Z",
+  "azurirano": "2026-11-04T07:20:16.541Z",
   "dokumenti": [
     {
       "naziv": "MSI 7095-101",
@@ -363,7 +363,7 @@
           "naziv": "Pegla za kosu Philips BHS752/00",
           "barkod": "8710103974178",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Uvijac za kosu Philips BHA310/00",
@@ -423,7 +423,7 @@
           "naziv": "Pegla za kosu Philips BHS838/00 SenseIQ",
           "barkod": "8720689002134",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP430/50 nastavci 360",
