@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T10:06:01.911Z",
-  "azurirano": "2026-11-04T10:16:43.347Z",
+  "azurirano": "2026-11-04T10:17:37.941Z",
   "dokumenti": [
     {
       "naziv": "1234",
@@ -230,7 +230,7 @@
           "naziv": "Kabel PLOOS, USB-A na USB-C, 100cm, Bijeli",
           "barkod": "8018080369780",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Kabel MANHATTAN USB-C to DisplayPort (DP) 8K@60Hz, 3m",
