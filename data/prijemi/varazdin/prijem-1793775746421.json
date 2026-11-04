@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T07:02:26.421Z",
-  "azurirano": "2026-11-04T07:24:24.532Z",
+  "azurirano": "2026-11-04T07:24:35.502Z",
   "dokumenti": [
     {
       "naziv": "MSI 7095-101",
@@ -471,7 +471,7 @@
           "naziv": "Susilo za kosu Philips BHD839/00",
           "barkod": "8720689032384",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Susilo za kosu Philips BHD837/10",
@@ -561,7 +561,7 @@
           "naziv": "Sisac za bradu Philips BT7670/15",
           "barkod": "8720689029421",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "depilator Philips BRC332/00 Lumea",
