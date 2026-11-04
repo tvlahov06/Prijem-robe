@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:17:14.623Z",
+  "azurirano": "2026-11-04T08:17:57.880Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -86,7 +86,7 @@
           "naziv": "PLOOS KUCNI PUNJAC USB ADAPTER DUAL 2A",
           "barkod": "8018080367809",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CITAC SMART CARD/SIM",
@@ -314,7 +314,7 @@
           "naziv": "ACL AUDIO KABEL 3.5 MM NA USB-C",
           "barkod": "8018080384097",
           "ocekivano": 6,
-          "skenirano": 4
+          "skenirano": 6
         },
         {
           "naziv": "DRZAC HUG FLEXI",
@@ -350,7 +350,7 @@
           "naziv": "ACL AUDIO KABEL 3.5 MM NA MFI",
           "barkod": "8018080342370",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SLUSALICE IN-EAR TWS LIBERTY 5 BLACK",
@@ -380,7 +380,7 @@
           "naziv": "KABEL C-C 200 CM",
           "barkod": "8018080373633",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PRIJENOSNA BATERIJA MAG GO 10.000 15W BLACK",
@@ -506,7 +506,7 @@
           "naziv": "KABEL C-C 120 CM",
           "barkod": "8018080270420",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "PRIJENOSNA BATERIJA ELITE 10.000 BLACK",
