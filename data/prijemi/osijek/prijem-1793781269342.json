@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-04T13:47:53.901Z",
+  "azurirano": "2026-11-04T13:48:10.780Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -814,7 +814,7 @@
           "naziv": "Sisac za bradu Philips BT5780/15",
           "barkod": "8720689034203",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX3792/11 Sonicare series 6800 Black",
@@ -850,7 +850,7 @@
           "naziv": "Sisac za bradu Philips BT7670/15",
           "barkod": "8720689029421",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "depilator Philips BRC332/00 Lumea",
