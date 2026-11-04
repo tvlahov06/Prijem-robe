@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:08:31.973Z",
-  "azurirano": "2026-11-04T08:21:52.441Z",
+  "azurirano": "2026-11-04T08:21:57.375Z",
   "dokumenti": [
     {
       "naziv": "otp 2",
@@ -440,7 +440,7 @@
           "naziv": "KABEL HDMI 4K@30HZ ETHERNET 2M NEW",
           "barkod": "766623356770",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "KABEL USB 2.0, USB-A/USB-B 3M BLACK NEW",
@@ -452,7 +452,7 @@
           "naziv": "KABEL DISPLAY PORT 4K@60HZ/DISPLAY PORT 2M NEW",
           "barkod": "766623356800",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KABEL USB 2.0, USB-A/USB-C 1M BLACK NEW",
@@ -464,13 +464,13 @@
           "naziv": "KABEL DISPLAY PORT 8K@60HZ/USB-C 2M NEW",
           "barkod": "766623394987",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KABEL DISPLAY PORT 8K@60HZ/USB-C 3M NEW",
           "barkod": "766623394994",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PLOOS PODATKOVNI KABEL MICRO USB, 100 CM",
@@ -488,7 +488,7 @@
           "naziv": "KABEL DISPLAY PORT 4K@60HZ/DISPLAY PORT 1M NEW",
           "barkod": "766623356794",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "AP ADAPTER TYPE-C 20W",
