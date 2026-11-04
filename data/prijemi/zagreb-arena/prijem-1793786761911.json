@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T10:06:01.911Z",
-  "azurirano": "2026-11-04T10:15:50.848Z",
+  "azurirano": "2026-11-04T10:15:56.273Z",
   "dokumenti": [
     {
       "naziv": "1234",
@@ -302,7 +302,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL MICRO USB 120 CM",
           "barkod": "8018080131745",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
@@ -368,7 +368,7 @@
           "naziv": "CELLULARLINE KABEL MFI 200CM",
           "barkod": "8018080201912",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE AUTO DRZAC BIG CRAB DUAL FIX",
