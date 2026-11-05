@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T11:45:09.652Z",
-  "azurirano": "2026-11-05T12:36:08.710Z",
+  "azurirano": "2026-11-05T12:36:53.142Z",
   "dokumenti": [
     {
       "naziv": "MSI 7166-101",
@@ -363,7 +363,7 @@
           "naziv": "Tipkovnica Keychron K5U-H1-UK",
           "barkod": "4894979065520",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Keychron BM27-A61",
@@ -423,7 +423,7 @@
           "naziv": "Tipkovnica HyperX Eve 1800",
           "barkod": "198990307855",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ink Cartidge",
@@ -453,7 +453,7 @@
           "naziv": "SBOX K-33 HR | Zicna tipkovnica",
           "barkod": "3858894501816",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Tinta HP GT52 M0H55AE, Magenta",
