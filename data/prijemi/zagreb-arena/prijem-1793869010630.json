@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T08:56:50.630Z",
-  "azurirano": "2026-11-05T09:08:26.212Z",
+  "azurirano": "2026-11-05T09:08:52.843Z",
   "dokumenti": [
     {
       "naziv": "MSI 7166-101",
@@ -74,7 +74,7 @@
           "naziv": "Usisavac Bosch BGB41POW2",
           "barkod": "4242005601127",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Ninja AF550EU",
