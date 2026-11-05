@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-05T14:25:53.384Z",
+  "azurirano": "2026-11-05T14:25:59.328Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -724,7 +724,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
           "barkod": "8720689027137",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD723/10",
@@ -868,7 +868,7 @@
           "naziv": "Brijac za tijelo Philips BG3480/15",
           "barkod": "8720689026871",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
