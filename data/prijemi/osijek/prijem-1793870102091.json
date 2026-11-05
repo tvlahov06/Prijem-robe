@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T09:15:02.091Z",
-  "azurirano": "2026-11-05T09:29:22.258Z",
+  "azurirano": "2026-11-05T09:29:37.389Z",
   "dokumenti": [
     {
       "naziv": "Loggg",
@@ -92,7 +92,7 @@
           "naziv": "CELLULARLINE FINE MASKICA IPHONE 16 PRO MAX",
           "barkod": "8018080482472",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE FM TRANSMITTER",
@@ -116,7 +116,7 @@
           "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
           "barkod": "8018080295751",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC APPLE USB-C 30W",
@@ -164,7 +164,7 @@
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 10.000 BLUE",
           "barkod": "8018080484636",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
@@ -194,13 +194,13 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 15/15 PRO",
           "barkod": "8018080467431",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO",
           "barkod": "8018080483035",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO MAX",
@@ -254,7 +254,7 @@
           "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
           "barkod": "8018080371547",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel PLOOS, USB-A na USB-C, 100cm, Bijeli",
@@ -332,7 +332,7 @@
           "naziv": "Olovka za Ipad Trust Stylus Kyna",
           "barkod": "8713439251913",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "PANZER GLASS PG ZASTITNO STAKLO IPHONE 17 PRO MAX ULTRA WIDE FIT",
@@ -404,7 +404,7 @@
           "naziv": "TRUST PC ADAPTER USB-C U USB-A KABEL",
           "barkod": "8713439209679",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLACK",
@@ -428,7 +428,7 @@
           "naziv": "Zastitna maska CELLULARLINE, Ultra Slim Mag, Iphone 18 PRO MAX",
           "barkod": "8018080526602",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitna Maska PANZERGLASS, SL1M MagSafe Apple iPhone 17/18 Pro Max, Prozirna",
@@ -470,7 +470,7 @@
           "naziv": "Zastitno Staklo CELLULARLINE, Samsung Galaxy S24 FE/A36/A56/A37",
           "barkod": "8018080514753",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitno Staklo PANZERGLASS, Apple iPhone 17/18 Pro Max, Ultra Wide Fit",
