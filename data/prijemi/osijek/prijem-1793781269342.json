@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-05T14:36:09.463Z",
+  "azurirano": "2026-11-05T14:36:22.336Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -1185,95 +1185,6 @@
         {
           "naziv": "Prociscivac zraka Bosch Air 4000",
           "barkod": "4062321594749",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7134-101",
-      "stavke": [
-        {
-          "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
-          "barkod": "2010033161096",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop LENOVO LOQ, 83TN0069SC, 38.9cm (15.3\") IPS WUXGA, AMD Ryzen 7 250, 16 GB RAM, 512 GB SSD,",
-          "barkod": "199276323002",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop HP 255 G10, 39.6cm (15.6\") Full HD, AMD Ryzen 5 1P 7530U, 16 GB RAM, 512GB SSD, AMD Radeon",
-          "barkod": "2010030201313",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Monitor 27\" ACER Nitro XF270U P1, UM.HX0EE.114, IPS 2K/WQHD, 144Hz, 1ms, AMD FreeSync, DisplayPort, 2x",
-          "barkod": "4711721097700",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Monitor 27\" ACER Nitro KG270 W5, UM.HX0EE.506, IPS Full HD, 260Hz, 0.5ms, AMD FreeSync Premium, DisplayPort,",
-          "barkod": "4711474998835",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Monitor Acer IPS 27\" QHD, 210Hz, HDMI, DP, 1ms/0,5ms, HDR400, FreeSync Premium, G-Sync Compatible, crni",
-          "barkod": "4711474917980",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ACER Aspire Lite 14 NX.DPREX.003, 35.6 cm (14.0\") IPS WUXGA, AMD Ryzen 3 5400U, 8 GB RAM, 256",
-          "barkod": "4711721083550",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop HP 255R G10 CV4Q5ET, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 7735U, 16 GB RAM, 1 TB SSD, AMD",
-          "barkod": "199764603715",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQ5473, 39.6cm MU0 (15.6\") IPS Full HD, AMD Ryzen 5 40, 8 GB RAM, 256 GB",
-          "barkod": "4711636560870",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ACER Aspire Go 15 NX.JW6EX.00J, 39.6cm (15.6\") IPS Full HD, Intel Core 7 150U, 16 GB RAM, 1 TB SSD, Intel",
-          "barkod": "4711474892423",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "SAMSUNG 27\" Odyssey G5 G50F Gaming Monitor EN LS27FG502EUXEN, Fast IPS 2K/QHD, 180Hz, 1ms, AMD",
-          "barkod": "8806097817796",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 27\" ACER CE27QX, UM.GCXEE.X01, 2K/QHD, 240Hz, 0.03ms, AMD FreeSync Premium, 2x",
-          "barkod": "4711474846679",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor SAMSUNG 27\" Essential G3 G32H EN",
-          "barkod": "8806099279707",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor SAMSUNG 24\" Essential G3 G32H EN",
-          "barkod": "8806099279653",
           "ocekivano": 1,
           "skenirano": 1
         }
