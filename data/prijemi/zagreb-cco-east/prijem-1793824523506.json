@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T20:35:23.506Z",
-  "azurirano": "2026-11-05T06:59:13.657Z",
+  "azurirano": "2026-11-05T07:01:48.914Z",
   "dokumenti": [
     {
       "naziv": "MSI 7172-101",
@@ -949,19 +949,19 @@
           "naziv": "Sisac za bradu Philips BT7670/15",
           "barkod": "8720689029421",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "depilator Philips BRC332/00 Lumea",
           "barkod": "8720689045698",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "IPL depilator Philips BRC344/00 Lumea",
           "barkod": "8720689045667",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijac za tijelo Philips BG3480/15",
@@ -1079,7 +1079,7 @@
           "naziv": "Parna postaja Tefal SV6115E0 Express Easy",
           "barkod": "3121040079034",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mikser stapni Tefal HB673830",
@@ -1127,7 +1127,7 @@
           "naziv": "Usisavac stapni Shark IZ400EU",
           "barkod": "0622356254601",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
