@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T08:16:30.594Z",
-  "azurirano": "2026-11-05T10:59:37.494Z",
+  "azurirano": "2026-11-05T11:02:13.155Z",
   "dokumenti": [
     {
       "naziv": "MSI 172-139",
@@ -15,95 +15,6 @@
           "barkod": "1200130006692",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7159-101",
-      "stavke": [
-        {
-          "naziv": "Aparat za kavu Philips EP5549/70 espresso",
-          "barkod": "8720389032271",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za kavu Philips EP5443/70 espresso",
-          "barkod": "8720389052354",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
-          "barkod": "8720389032998",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
-          "barkod": "8720389040733",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac robot Philips XU2100/25",
-          "barkod": "8720389064999",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Parna postaja Tefal SV6115E0 Express Easy",
-          "barkod": "3121040079034",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Friteza na vruci zrak Bosch MAFS2462B Airfryer",
-          "barkod": "4242005535668",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Friteza na vruci zrak Ninja AF550EU",
-          "barkod": "622356320757",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac stapni Shark IZ400EU",
-          "barkod": "0622356254601",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
-          "barkod": "8004399021396",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sokovnik Hurom H320N mat zeleni",
-          "barkod": "8809686401048",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sokovnik Hurom H320N titan sivi",
-          "barkod": "8809686401079",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
-          "barkod": "198415435569",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Volan LOGITECH G G29 + mjenjac",
-          "barkod": "5099206132467",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
