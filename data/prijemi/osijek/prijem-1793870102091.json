@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T09:15:02.091Z",
-  "azurirano": "2026-11-05T09:32:19.230Z",
+  "azurirano": "2026-11-05T09:32:34.752Z",
   "dokumenti": [
     {
       "naziv": "Loggg",
@@ -104,13 +104,13 @@
           "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
           "barkod": "8018080373633",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE C TO C 300 CM",
           "barkod": "8018080373664",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
@@ -266,7 +266,7 @@
           "naziv": "Kabel PLOOS, USB-C na Lightning, MFI, 100cm, Bijeli",
           "barkod": "8018080367762",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel PLOOS, USB-C na USB-C, 100cm, Bijeli",
