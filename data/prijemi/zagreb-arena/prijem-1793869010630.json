@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T11:45:09.652Z",
-  "azurirano": "2026-11-05T11:48:34.206Z",
+  "azurirano": "2026-11-05T11:50:30.468Z",
   "dokumenti": [
     {
       "naziv": "MSI 7166-101",
@@ -882,19 +882,19 @@
           "naziv": "Monitor SAMSUNG 27\" Essential G3 G32H EN",
           "barkod": "8806099279707",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor SAMSUNG 24\" Essential G3 G32H EN",
           "barkod": "8806099279653",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 27\" ACER CE27QX, UM.GCXEE.X01, 2K/QHD, 240Hz, 0.03ms, AMD FreeSync Premium, 2x",
           "barkod": "4711474846679",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO Legion 5i, 83VK001NSC, 38.9cm (15.3\") OLED WQXGA 165Hz, Intel Core Ultra 9 290HX, 32 GB",
