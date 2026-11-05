@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T11:45:09.652Z",
-  "azurirano": "2026-11-05T12:54:45.272Z",
+  "azurirano": "2026-11-05T12:54:55.478Z",
   "dokumenti": [
     {
       "naziv": "MSI 7166-101",
@@ -561,7 +561,7 @@
           "naziv": "MW300RE Wi-Fi extender 300Mbps (2.4 GHz)",
           "barkod": "6957939000462",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SBOX K-123 HR | Zicna tipkovnica",
@@ -573,7 +573,7 @@
           "naziv": "ruter MERCUSYS MB130-4G N150 4G LTE SIM",
           "barkod": "6957939001971",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
