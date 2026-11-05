@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T08:16:30.594Z",
-  "azurirano": "2026-11-05T09:08:46.392Z",
+  "azurirano": "2026-11-05T09:08:56.077Z",
   "dokumenti": [
     {
       "naziv": "MSI 172-139",
@@ -357,7 +357,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
           "barkod": "4718050609642",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta Epson 101 EcoTank 4-colour Multipack",
@@ -381,7 +381,7 @@
           "naziv": "USB STICK Kingston DT Exodia G2, 64GB, USB3.2 Gen1",
           "barkod": "740617353679",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Mis Keychron BM27-A61",
