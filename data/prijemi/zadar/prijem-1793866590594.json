@@ -1,0 +1,725 @@
+{
+  "id": "prijem-1793866590594",
+  "poslovnica": "zadar",
+  "naziv": "",
+  "datum": "2026-11-05",
+  "status": "aktivan",
+  "kreirano": "2026-11-05T08:16:30.594Z",
+  "azurirano": "2026-11-05T08:16:30.594Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 172-139",
+      "stavke": [
+        {
+          "naziv": "Mikrofon gaming JBL QUANTUM STREAM TALK LK",
+          "barkod": "1200130006692",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7159-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu Philips EP5549/70 espresso",
+          "barkod": "8720389032271",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP5443/70 espresso",
+          "barkod": "8720389052354",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
+          "barkod": "8720389032998",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
+          "barkod": "8720389040733",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Philips XU2100/25",
+          "barkod": "8720389064999",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal SV6115E0 Express Easy",
+          "barkod": "3121040079034",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Bosch MAFS2462B Airfryer",
+          "barkod": "4242005535668",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja AF550EU",
+          "barkod": "622356320757",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Shark IZ400EU",
+          "barkod": "0622356254601",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
+          "barkod": "8004399021396",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sokovnik Hurom H320N mat zeleni",
+          "barkod": "8809686401048",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sokovnik Hurom H320N titan sivi",
+          "barkod": "8809686401079",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
+          "barkod": "198415435569",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan LOGITECH G G29 + mjenjac",
+          "barkod": "5099206132467",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7171-101",
+      "stavke": [
+        {
+          "naziv": "Perilica posuda ugradbena AEG NG62IC20SK",
+          "barkod": "7333394154084",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani Samsung RB34C600ES9/EK EK",
+          "barkod": "8806095545684",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani LG GBB72TW9DQ",
+          "barkod": "8806091717375",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak kombinirani GORENJE NRB620C81BX4WFE WFE",
+          "barkod": "3838782945670",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7184-101",
+      "stavke": [
+        {
+          "naziv": "Friday vrecica",
+          "barkod": "2010033340200",
+          "ocekivano": 100,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7188-101",
+      "stavke": [
+        {
+          "naziv": "Laptop LENOVO LOQ, 83TN0069SC, 38.9cm (15.3\") IPS WUXGA, AMD Ryzen 7 250, 16 GB RAM, 512 GB SSD,",
+          "barkod": "199276323002",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 27\" ACER Nitro XF270U P1, UM.HX0EE.114, IPS 2K/WQHD, 144Hz, 1ms, AMD FreeSync, DisplayPort, 2x",
+          "barkod": "4711721097700",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 27\" ACER Nitro KG270 W5, UM.HX0EE.506, IPS Full HD, 260Hz, 0.5ms, AMD FreeSync Premium, DisplayPort,",
+          "barkod": "4711474998835",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 27\" ACER PREDATOR XB273U X2, UM.HX3EE.219, IPS 2K/WQHD, 210Hz, 0.5ms, AMD FreeSync Premium,",
+          "barkod": "4711474917980",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
+          "barkod": "2010033161096",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Aspire Lite 15 NX.DK1EX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
+          "barkod": "4711474852366",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop ACER Aspire Go 15 NX.J7WEX.00Q, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
+          "barkod": "4711474945655",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor SAMSUNG 27\" Essential G3 G32H EN",
+          "barkod": "8806099279707",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor SAMSUNG 24\" Essential G3 G32H EN",
+          "barkod": "8806099279653",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop LENOVO LOQ Essential, 83S000A7SC, 39.6cm (15.6\") IPS Full HD 144Hz, AMD Ryzen 5 150, 16 GB RAM,",
+          "barkod": "199274270841",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7189-101",
+      "stavke": [
+        {
+          "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
+          "barkod": "740617326260",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
+          "barkod": "740617326376",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Kyson 64GB USB 3.2",
+          "barkod": "740617309102",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305XL Cartridge Ink 3YM62AE, Boja Black - Instant Ink",
+          "barkod": "193905429288",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305XL Ink Cartridge 3YM63AE, Boja Tri-colour - Instant Ink",
+          "barkod": "0194441597370",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
+          "barkod": "740617348651",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 650 CZ101AE Black Ink Cartridge",
+          "barkod": "886112545987",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347890",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Kyson 128GB USB 3.2",
+          "barkod": "740617309119",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis HyperX Pulsefire XL HMPM1-XL",
+          "barkod": "196188567333",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "T2U TP-Link AC600 Archer T2U Nano bezicni Dual-Band USB2.0 Nano adapter 200Mbps/433Mbps (2.4GHz/5gHz),",
+          "barkod": "6935364099978",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link AC600 ARCHER-T2U Wi-Fi USB Adapter 433Mbps at 5GHz + 150Mbps at 2.4GHz",
+          "barkod": "6935364089917",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB Stick ADATA UV250, 16GB, USB 2.0, metal BK",
+          "barkod": "4713218468796",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB Stick ADATA UV250, 32GB, USB 2.0, metal BK",
+          "barkod": "4713218468802",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB Stick ADATA UV250, 64GB, USB 2.0, metal BK",
+          "barkod": "4713218468819",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DataTraveler SE9 G3 128GB, USB3.2, B zlatni",
+          "barkod": "740617341225",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-link UC400 USB-C to USB 3.0 Adapter 1 USB-C connector 1 USB 3.0 port",
+          "barkod": "6935364096151",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis MS COMBO MK-110 bezicni set",
+          "barkod": "3856032105933",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TORBA SBOX NSE-2022 HONG KONG 15,6\"",
+          "barkod": "0616320538262",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD 512GB DTKN USB3.2DataTraveler KysonStylish Capless Metal Case,200MB/s read",
+          "barkod": "740617340761",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348507",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE300, AC1200 WiFi pojacivac signala",
+          "barkod": "1210002613798",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link AC1200 bezicni pojacivac dometa (Range Extender), Dual Band 300Mbps/867Mbps (2.4GHz/5GHz),",
+          "barkod": "6935364097974",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
+          "barkod": "4718050609642",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 101 EcoTank 4-colour Multipack",
+          "barkod": "8715946701288",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 101 za L62xx/L61xx/L42xx/L41xx",
+          "barkod": "8715946643380",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
+          "barkod": "8715946701271",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DT Exodia G2, 64GB, USB3.2 Gen1",
+          "barkod": "740617353679",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Keychron BM27-A61",
+          "barkod": "4894979054982",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON FD 128GB USB3.2 Exodia",
+          "barkod": "740617314359",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347999",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk ADATA Ex HDD HD330, 1TB, usb3.2, plavi -CBL",
+          "barkod": "4713218465474",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer DeathAdder Essential 0-R3M1",
+          "barkod": "8886419333265",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-051 300x250X2mm",
+          "barkod": "3858894507917",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link 4G Mobile Router M7200, 2.4GHz Wi-Fi, 4G modem, LTE+HSPA, SIM kartica, punjiva baterija",
+          "barkod": "6935364082505",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "XL Podloga za mis WHITE SHARK SHARK, MP-1967, 80x30cm",
+          "barkod": "0616320539771",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer Cobra, zicani, gaming, 8500DPI, RGB, crni 0-R3M1",
+          "barkod": "8886419334095",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark STALAK Desktop GMS-3206 Tutankhamun / 2 Monitora",
+          "barkod": "3858894502363",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7190-101",
+      "stavke": [
+        {
+          "naziv": "Apple EarPods (USB-C)",
+          "barkod": "195949776274",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-300 TV nosac BOF TVM H-300",
+          "barkod": "2010030072623",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds SE 3 Black (ULC-CT020)",
+          "barkod": "6942103140112",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple EarPods (Lightning Connector)",
+          "barkod": "195949506123",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
+          "barkod": "8806097984795",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-100 TV nosac BOF TVM H-100",
+          "barkod": "2010030072609",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
+          "barkod": "197029008220",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "X-200 TV nosac BOF TVM X-200",
+          "barkod": "2010030072661",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-200 TV nosac BOF TVM V-200",
+          "barkod": "2010030072647",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-100 TV nosac BOF TVM V-100",
+          "barkod": "2010030072630",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-200 TV nosac BOF TVM H-200",
+          "barkod": "2010030072616",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX Cloud Jet Wireless Gaming Headset Blue",
+          "barkod": "198701343424",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar LG S40T",
+          "barkod": "8806091960320",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LG soundbar S70TR",
+          "barkod": "8806096575277",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods Pro3 with MagSafe Case (USB-C)",
+          "barkod": "195950543742",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "X-100 TV nosac BOF TVM X-100",
+          "barkod": "2010030072654",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mini linija LG CK43N",
+          "barkod": "8806096402467",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 5",
+          "barkod": "195951379036",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Radio prijenosni Blaupunkt PP7BT BT/FM/USB/AUX",
+          "barkod": "5901750505287",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei Freeclip 2 plave",
+          "barkod": "6942103169458",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "RIG 300 PRO HS gaming slusalice Acid CID",
+          "barkod": "3665962026788",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Radio Alarm Blaupunkt CR5WH FM",
+          "barkod": "5901750500251",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7191-101",
+      "stavke": [
+        {
+          "naziv": "Bigben PS4 Nacon Compact Light Wired Controller REEN prozirno-zeleni",
+          "barkod": "3499550360868",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tony Hawk's Pro Skater 1 + 2 PS4 C14",
+          "barkod": "5030917291166",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Screamer Day 1 Edition PS5",
+          "barkod": "8056216170435",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim Digital Edition E chassis",
+          "barkod": "711719020844",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Chroma Pearl v2",
+          "barkod": "711719023722",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Minecraft Dungeons II Deluxe Edition (GAME KEY CARD) Switch 2",
+          "barkod": "0045496314736",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Switch Sports Resort Switch 2",
+          "barkod": "0045496314903",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nintendo Switch 2 Console Sports Resort And 3 Months NSO Bundle",
+          "barkod": "5949106281171",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7192-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Glacier",
+          "barkod": "195951415697",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7193-101",
+      "stavke": [
+        {
+          "naziv": "Tablet Apple 11-inch iPad Air (M4) Wi-Fi 128GB Starlight",
+          "barkod": "195950823974",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7198-101",
+      "stavke": [
+        {
+          "naziv": "Kalorifer ELIT CAL-06",
+          "barkod": "3871250004219",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Grijalica konvektorska ELIT Con-09S",
+          "barkod": "3871250006572",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Grijalica konvektorska Bosch HC 4000-20, 2000 W",
+          "barkod": "4062321781262",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Grijalica konvektorska Bosch HC 4000-15, 1500 W",
+          "barkod": "4062321976149",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Grijalica konvektorska Bosch HC 4000-25, 2500 W",
+          "barkod": "4062321976163",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Grijalica panel ELIT",
+          "barkod": "3871250008897",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Grijalica konvektorska ELIT Con-26TF",
+          "barkod": "3875001742825",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zidna grijalica ELIT PTC-21",
+          "barkod": "3875001741088",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7209-101",
+      "stavke": [
+        {
+          "naziv": "The Legend of Zelda: Ocarina of Time Switch 2",
+          "barkod": "0045496315474",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
