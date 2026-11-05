@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T20:35:23.506Z",
-  "azurirano": "2026-11-05T07:02:48.172Z",
+  "azurirano": "2026-11-05T07:03:01.075Z",
   "dokumenti": [
     {
       "naziv": "MSI 7172-101",
@@ -784,17 +784,6 @@
           "barkod": "195950543742",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7179-101",
-      "stavke": [
-        {
-          "naziv": "Friday vrecica",
-          "barkod": "2010033340200",
-          "ocekivano": 150,
-          "skenirano": 0
         }
       ]
     },
