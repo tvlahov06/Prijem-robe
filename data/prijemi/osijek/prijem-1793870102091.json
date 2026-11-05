@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T09:15:02.091Z",
-  "azurirano": "2026-11-05T09:22:48.293Z",
+  "azurirano": "2026-11-05T09:22:51.818Z",
   "dokumenti": [
     {
       "naziv": "Loggg",
@@ -302,7 +302,7 @@
           "naziv": "Kucni Punjac PLOOS, 2A, 1xUSB-A, Kabel USB-C 100cm, Crni",
           "barkod": "8018080367663",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kucni Punjac PLOOS, Dual, 20W, 1xUSB-A, 1xUSB-C, Crni",
@@ -350,7 +350,7 @@
           "naziv": "Punjac ANKER 511 CHARGER NANO 3, 30W: BIJELA-PUNJAC",
           "barkod": "0194644103538",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Punjac Cellularline 40W PD USB-C",
