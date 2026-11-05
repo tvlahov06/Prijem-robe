@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T11:45:09.652Z",
-  "azurirano": "2026-11-05T12:45:14.991Z",
+  "azurirano": "2026-11-05T12:45:30.198Z",
   "dokumenti": [
     {
       "naziv": "MSI 7166-101",
@@ -584,7 +584,7 @@
           "naziv": "The Legend of Zelda: Breath of the Wild Switch EC7",
           "barkod": "045496420055",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC CK compatible) crni",
@@ -608,25 +608,25 @@
           "naziv": "Ghost of Tsushima Standard Edition PS4 E38",
           "barkod": "711719363804",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sackboy A Big Adventure! PS5 B36",
           "barkod": "711719824121",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Minecraft Starter Collection Refresh PS4 F33",
           "barkod": "711719704096",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Nintendo Switch 2 Micro SD Card Samsung Mario Logo",
           "barkod": "8806095700670",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PlayStation 5 Slim Digital Edition E chassis",
@@ -656,7 +656,7 @@
           "naziv": "0017 Nintendo Switch 2 Joy-Con Pair Blue/Light Yellow",
           "barkod": "0045496321857",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
