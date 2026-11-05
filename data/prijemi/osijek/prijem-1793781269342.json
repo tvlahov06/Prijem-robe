@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-05T14:26:48.699Z",
+  "azurirano": "2026-11-05T14:26:56.183Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -724,7 +724,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
           "barkod": "8720689027137",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Philips BHD723/10",
@@ -784,7 +784,7 @@
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX6064/88 Optimal White 4/1 black",
           "barkod": "8720689035064",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu/bradu Rowenta TN1551E0",
