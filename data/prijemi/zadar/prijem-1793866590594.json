@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T08:16:30.594Z",
-  "azurirano": "2026-11-05T11:03:47.094Z",
+  "azurirano": "2026-11-05T11:04:05.737Z",
   "dokumenti": [
     {
       "naziv": "MSI 172-139",
@@ -15,59 +15,6 @@
           "barkod": "1200130006692",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7191-101",
-      "stavke": [
-        {
-          "naziv": "Bigben PS4 Nacon Compact Light Wired Controller REEN prozirno-zeleni",
-          "barkod": "3499550360868",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Tony Hawk's Pro Skater 1 + 2 PS4 C14",
-          "barkod": "5030917291166",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Screamer Day 1 Edition PS5",
-          "barkod": "8056216170435",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "PlayStation 5 Slim Digital Edition E chassis",
-          "barkod": "711719020844",
-          "ocekivano": 20,
-          "skenirano": 20
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Chroma Pearl v2",
-          "barkod": "711719023722",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "Minecraft Dungeons II Deluxe Edition (GAME KEY CARD) Switch 2",
-          "barkod": "0045496314736",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Switch Sports Resort Switch 2",
-          "barkod": "0045496314903",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Nintendo Switch 2 Console Sports Resort And 3 Months NSO Bundle",
-          "barkod": "5949106281171",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
