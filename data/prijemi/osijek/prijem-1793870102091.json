@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T09:15:02.091Z",
-  "azurirano": "2026-11-05T09:27:35.603Z",
+  "azurirano": "2026-11-05T09:28:19.513Z",
   "dokumenti": [
     {
       "naziv": "Loggg",
@@ -170,13 +170,13 @@
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
           "barkod": "8018080481963",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO",
           "barkod": "8018080499609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA SENSATION IPHONE 17 PRO BLACK",
@@ -206,13 +206,13 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO MAX",
           "barkod": "8018080483042",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Drzac Za Mobitel PLOOS, Air Vent, Crni",
           "barkod": "8018080368240",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN Audio 3.5 mm musko/zenski (produzni), 2m",
@@ -248,7 +248,7 @@
           "naziv": "Kabel PLOOS, USB-A na Lightning, MFI, 100cm, Bijeli",
           "barkod": "8018080367854",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
@@ -410,13 +410,13 @@
           "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLACK",
           "barkod": "8713439250848",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST PC PUNJAC ZA LAPTOP UNIVERZALNI PRIMO 19V-45W",
           "barkod": "8713439219043",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST PC PUNJAC ZA LAPTOP UNIVERZALNI PRIMO 19V-70W",
