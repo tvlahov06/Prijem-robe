@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T08:16:30.594Z",
-  "azurirano": "2026-11-05T11:02:13.155Z",
+  "azurirano": "2026-11-05T11:02:32.168Z",
   "dokumenti": [
     {
       "naziv": "MSI 172-139",
@@ -15,35 +15,6 @@
           "barkod": "1200130006692",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7171-101",
-      "stavke": [
-        {
-          "naziv": "Perilica posuda ugradbena AEG NG62IC20SK",
-          "barkod": "7333394154084",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak kombinirani Samsung RB34C600ES9/EK EK",
-          "barkod": "8806095545684",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak kombinirani LG GBB72TW9DQ",
-          "barkod": "8806091717375",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak kombinirani GORENJE NRB620C81BX4WFE WFE",
-          "barkod": "3838782945670",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
