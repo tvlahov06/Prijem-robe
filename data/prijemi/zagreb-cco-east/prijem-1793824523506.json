@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T20:35:23.506Z",
-  "azurirano": "2026-11-05T06:18:47.710Z",
+  "azurirano": "2026-11-05T06:18:52.036Z",
   "dokumenti": [
     {
       "naziv": "MSI 7172-101",
@@ -794,7 +794,7 @@
           "naziv": "Apple AirPods Pro3 with MagSafe Case (USB-C)",
           "barkod": "195950543742",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
@@ -1299,7 +1299,7 @@
           "naziv": "Apple AirPods Pro3 with MagSafe Case (USB-C)",
           "barkod": "195950543742",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mini linija LG CK43N",
