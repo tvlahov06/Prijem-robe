@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T08:16:30.594Z",
-  "azurirano": "2026-11-05T11:04:05.737Z",
+  "azurirano": "2026-11-05T11:04:28.837Z",
   "dokumenti": [
     {
       "naziv": "MSI 172-139",
@@ -15,17 +15,6 @@
           "barkod": "1200130006692",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7192-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Glacier",
-          "barkod": "195951415697",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
