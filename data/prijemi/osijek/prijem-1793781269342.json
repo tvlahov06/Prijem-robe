@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-05T14:55:24.429Z",
+  "azurirano": "2026-11-05T14:55:53.701Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -867,113 +867,6 @@
         {
           "naziv": "Brijac za tijelo Philips BG3480/15",
           "barkod": "8720689026871",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7114-101",
-      "stavke": [
-        {
-          "naziv": "Slusalice bluetooth potpuno bezicne JBL TUNE FLEX 2 crne",
-          "barkod": "1200130016233",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
-          "barkod": "1200130029967",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice JBL WAVE BUDS 2 bezicne Bluetooth in-ear bijele",
-          "barkod": "1200130015380",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crni",
-          "barkod": "1200130019555",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL GO 5 plavi",
-          "barkod": "1200130034299",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL GO ESSENTIAL 2 crni",
-          "barkod": "1200130018589",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice bluetooth potpuno bezicne JBL TOUR PRO 3 TWS LK crne",
-          "barkod": "1200130013836",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice JBL TUNE 110E crne",
-          "barkod": "1200130022722",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice JBL Live 780NC crne LK",
-          "barkod": "1200130033469",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice bezicne JBL VIBE FLEX 2 crna",
-          "barkod": "1200130015212",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL BOOMBOX 4 crni BLKEP",
-          "barkod": "1200130024221",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 130 bijeli",
-          "barkod": "1200130035142",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
-          "barkod": "1200130026294",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX ULTIMATE 2 LT2EU",
-          "barkod": "1200130037085",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "prijenosni bluetooth JBL XTREME 5 crni",
-          "barkod": "1200130033742",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikrofon JBL Easy Sing Mics ICS",
-          "barkod": "1200130032752",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Partylight JBL stick",
-          "barkod": "1200130013997",
           "ocekivano": 1,
           "skenirano": 1
         }
