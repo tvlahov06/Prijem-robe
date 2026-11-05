@@ -1,0 +1,151 @@
+{
+  "id": "prijem-1793869010630",
+  "poslovnica": "zagreb-arena",
+  "naziv": "",
+  "datum": "2026-11-05",
+  "status": "aktivan",
+  "kreirano": "2026-11-05T08:56:50.630Z",
+  "azurirano": "2026-11-05T08:56:50.630Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 7166-101",
+      "stavke": [
+        {
+          "naziv": "Usisavac Philips FC9744/09",
+          "barkod": "8710103810483",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP5549/70 espresso",
+          "barkod": "8720389032271",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
+          "barkod": "8720389032998",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
+          "barkod": "8720389040733",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Rowenta GZ5736E0 X-Clean 7, 2u1",
+          "barkod": "3221616163355",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal SV6115E0 Express Easy",
+          "barkod": "3121040079034",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "robot Roborock Saros 20",
+          "barkod": "6936905905291",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock Saros 20 Sonic Complete crna",
+          "barkod": "6936905905765",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Bosch MAFD440B7",
+          "barkod": "4242005586981",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGB41HYG1H ProHygienic Bijela",
+          "barkod": "4242005483839",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGB41POW2",
+          "barkod": "4242005601127",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja AF550EU",
+          "barkod": "622356320757",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Shark IZ400EU",
+          "barkod": "0622356254601",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhinjski asistent Kenwood KMX750RD crveni",
+          "barkod": "5011423190198",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
+          "barkod": "8004399021396",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sokovnik Hurom H320N mat zeleni",
+          "barkod": "8809686401048",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sokovnik Hurom H320N titan sivi",
+          "barkod": "8809686401079",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7185-101",
+      "stavke": [
+        {
+          "naziv": "Friday vrecica",
+          "barkod": "2010033340200",
+          "ocekivano": 150,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 215-151",
+      "stavke": [
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke E7 WH-CH730N/B",
+          "barkod": "4548736179721",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7208-101",
+      "stavke": [
+        {
+          "naziv": "The Legend of Zelda: Ocarina of Time Switch 2",
+          "barkod": "0045496315474",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
