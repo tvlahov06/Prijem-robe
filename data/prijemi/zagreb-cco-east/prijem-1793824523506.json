@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T20:35:23.506Z",
-  "azurirano": "2026-11-05T06:09:17.004Z",
+  "azurirano": "2026-11-05T06:09:22.030Z",
   "dokumenti": [
     {
       "naziv": "MSI 7172-101",
@@ -538,7 +538,7 @@
           "naziv": "fotoaparat Fujifilm Instax Mini 13 zeleni",
           "barkod": "4547410564860",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange",
@@ -556,13 +556,13 @@
           "naziv": "fotoaparat Fujifilm Instax Mini 13 rozi",
           "barkod": "4547410564853",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 plavi",
           "barkod": "4547410564846",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Huawei Watch Fit 5 crni (Niki-B19F)",
@@ -646,7 +646,7 @@
           "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM svijetlo plavi",
           "barkod": "8806099025915",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Apple MagSafe Charger (1 m)",
