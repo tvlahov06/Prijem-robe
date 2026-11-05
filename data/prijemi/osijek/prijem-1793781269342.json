@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-05T14:36:48.424Z",
+  "azurirano": "2026-11-05T14:54:59.288Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -1118,17 +1118,6 @@
           "barkod": "195908302254",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7119-101",
-      "stavke": [
-        {
-          "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
-          "barkod": "2010033161096",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     }
