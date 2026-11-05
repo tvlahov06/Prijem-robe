@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-05T14:56:42.647Z",
+  "azurirano": "2026-11-05T14:56:53.939Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -27,107 +27,6 @@
           "barkod": "7333394120072",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7139-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac Philips FC9744/09",
-          "barkod": "8710103810483",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za kavu Philips EP5549/70 espresso",
-          "barkod": "8720389032271",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Aparat za kavu Philips EP5443/70 espresso",
-          "barkod": "8720389052354",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
-          "barkod": "8720389032998",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
-          "barkod": "8720389040733",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Parna postaja Tefal SV6115E0 Express Easy",
-          "barkod": "3121040079034",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac robot Roborock Q7 BF+ sa stanicom za samopraznjenje crna",
-          "barkod": "6936905901927",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Friteza na vruci zrak Bosch MAFS2462B Airfryer",
-          "barkod": "4242005535668",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Usisavac Bosch BGC05AAA2",
-          "barkod": "4242005076321",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Friteza na vruci zrak Ninja AF550EU",
-          "barkod": "622356320757",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac stapni Shark IZ400EU",
-          "barkod": "0622356254601",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
-          "barkod": "8004399021396",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sokovnik Hurom H320N mat zeleni",
-          "barkod": "8809686401048",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sokovnik Hurom H320N titan sivi",
-          "barkod": "8809686401079",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
-          "barkod": "197029008220",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Volan LOGITECH G G29 + mjenjac",
-          "barkod": "5099206132467",
-          "ocekivano": 3,
-          "skenirano": 3
         }
       ]
     }
