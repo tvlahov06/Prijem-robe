@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T20:35:23.506Z",
-  "azurirano": "2026-11-05T06:52:27.064Z",
+  "azurirano": "2026-11-05T06:52:53.718Z",
   "dokumenti": [
     {
       "naziv": "MSI 7172-101",
@@ -1834,77 +1834,6 @@
         {
           "naziv": "Epilator Philips BRE708/00",
           "barkod": "8720689032704",
-          "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7218-101",
-      "stavke": [
-        {
-          "naziv": "Perilica rublja HISENSE WF5I9043BBFS",
-          "barkod": "6901101834119",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "BK A60 Kuhinjska napa Faber VRT BK A60 2LS 2LS",
-          "barkod": "7612985650106",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Kuhinjska napa HISENSE CH6T6246B",
-          "barkod": "3838783061355",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Perilica-susilica rublja Bosch WNC254A0BY",
-          "barkod": "4242005349210",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Ploca ugradbena HISENSE HI6442MSCWF - Perfect Matt",
-          "barkod": "3838783152190",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "S5360 BF/W Ploca ugradbena indukcija Whirlpool WL S5360 BF/W",
-          "barkod": "8003437238239",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "GORENJE indukcijska ploca za kuhanje GI6442BSCWF",
-          "barkod": "3838782900259",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Ploca ugradbena Bosch PXE601DC1E",
-          "barkod": "4242002915814",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Ugradbena pecnica GORENJE BP6138B",
-          "barkod": "3838782901812",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Ploca ugradbena indukcija ELECTROLUX EIV63449CT SaphirMatt(R)",
-          "barkod": "7333394162171",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Ploca ugradbena sa integriranom napom Bosch PXX875D67E",
-          "barkod": "4242005192540",
           "ocekivano": 1,
           "skenirano": 0
         }
