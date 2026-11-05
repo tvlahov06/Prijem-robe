@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-05T14:54:59.288Z",
+  "azurirano": "2026-11-05T14:55:08.300Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -1041,83 +1041,6 @@
           "barkod": "8006447002487",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7117-101",
-      "stavke": [
-        {
-          "naziv": "Mis LOGITECH MX Master 4 grafit",
-          "barkod": "5099206133082",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Bezicni mis Logitech M850 L",
-          "barkod": "5099206134683",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech M196, crni",
-          "barkod": "5099206128330",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Web kamera Logitech C270 HD",
-          "barkod": "5099206064201",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Volan Logitech G923 Driving force + Shifter Logitech Driving Force",
-          "barkod": "5099206124745",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Bezicni mis Logitech Signature M650 s podlogom, grafitni, EMEA28i935",
-          "barkod": "5099206142558",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Printer HP LaserJet M110w",
-          "barkod": "194850676970",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP Smart Tank 720 All-in-One (6UU46A) Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
-          "barkod": "195908302995",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer Canon Pixma G3470 BK",
-          "barkod": "4549292205398",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "CANON Pixma G3416 Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Cloud, A4",
-          "barkod": "4549292219470",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
-          "barkod": "194850664199",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Printer HP Smart Tank 725 AiO",
-          "barkod": "195908302254",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     }
