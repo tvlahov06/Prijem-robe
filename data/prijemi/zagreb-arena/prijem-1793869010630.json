@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T11:45:09.652Z",
-  "azurirano": "2026-11-05T12:24:45.897Z",
+  "azurirano": "2026-11-05T12:25:39.333Z",
   "dokumenti": [
     {
       "naziv": "MSI 7166-101",
@@ -685,13 +685,13 @@
           "naziv": "Samsung Galaxy Buds4 slusalice bijele",
           "barkod": "8806097998174",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Samsung Galaxy Buds4 slusalice crne UC",
           "barkod": "8806097998570",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple EarPods (Lightning Connector)",
@@ -733,7 +733,7 @@
           "naziv": "Apple AirPods Pro3 with MagSafe Case (USB-C)",
           "barkod": "195950543742",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "X-100 TV nosac BOF TVM X-100",
@@ -769,7 +769,7 @@
           "naziv": "Slusalice Huawei Freeclip 2 plave",
           "barkod": "6942103169458",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Huawei Freeclip 2 crne",
@@ -805,7 +805,7 @@
           "naziv": "Slusalice Razer Hammerhead V3 X HyperSpeed 0-R3G1",
           "barkod": "8887910061794",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Gramofon LENCO TT-110, sa zvucnicima, bluetooth, retro, crni",
