@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T20:35:23.506Z",
-  "azurirano": "2026-11-05T06:23:33.705Z",
+  "azurirano": "2026-11-05T06:23:43.819Z",
   "dokumenti": [
     {
       "naziv": "MSI 7172-101",
@@ -223,13 +223,13 @@
           "naziv": "Tinta Epson 101 EcoTank 4-colour Multipack",
           "barkod": "8715946701288",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
           "barkod": "8715946701271",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TP-Link RE605X, AX1800 Wi-Fi 6 Range Extender",
