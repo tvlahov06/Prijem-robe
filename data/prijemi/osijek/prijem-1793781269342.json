@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-05T14:20:58.843Z",
+  "azurirano": "2026-11-05T14:25:20.760Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -610,7 +610,7 @@
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
           "barkod": "8710103932482",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9992/11 Prestige, Champagne",
@@ -688,7 +688,7 @@
           "naziv": "Brijaci aparat Philips S3244/12",
           "barkod": "8720689018609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP4631/65 Face & Body",
@@ -796,7 +796,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7111/01 Sonicare Series 5500 Black",
           "barkod": "8720689021685",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX7108/02 Sonicare Series 5300 White",
@@ -820,13 +820,13 @@
           "naziv": "Cetkica za zube Philips Sonicare HX3792/11 Sonicare series 6800 Black",
           "barkod": "8720689046916",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Rowenta HY8530E0, HD Nano Foldable",
           "barkod": "3121040095379",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sisac za bradu Philips BT3665/15",
