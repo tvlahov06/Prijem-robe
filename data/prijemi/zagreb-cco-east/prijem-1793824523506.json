@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "Roba 05-11-2026 [ujutro]",
   "datum": "2026-11-04",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-11-04T20:35:23.506Z",
-  "azurirano": "2026-11-05T07:03:01.075Z",
+  "azurirano": "2026-11-05T07:03:06.945Z",
   "dokumenti": [
     {
       "naziv": "MSI 7172-101",
@@ -1530,5 +1530,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-11-05T07:03:06.945Z"
 }
