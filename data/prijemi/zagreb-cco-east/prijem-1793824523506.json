@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T20:35:23.506Z",
-  "azurirano": "2026-11-05T06:27:03.511Z",
+  "azurirano": "2026-11-05T06:27:28.467Z",
   "dokumenti": [
     {
       "naziv": "MSI 7172-101",
@@ -456,13 +456,13 @@
           "naziv": "Mobitel Apple iPhone 18 Pro 256GB Glacier",
           "barkod": "195951415697",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Apple iPhone 18 Pro 256GB Silver",
           "barkod": "195951415673",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -520,7 +520,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
           "barkod": "195950627190",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "APPLE DODACI USB-C to Lightning Cable (1m)",
@@ -1488,7 +1488,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Cosmic Orange",
           "barkod": "195950639049",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple EarPods (Lightning Connector)",
