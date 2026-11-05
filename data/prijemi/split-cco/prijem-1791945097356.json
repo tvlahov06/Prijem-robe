@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T09:49:11.910Z",
-  "azurirano": "2026-11-05T07:18:53.834Z",
+  "azurirano": "2026-11-05T07:18:59.179Z",
   "dokumenti": [
     {
       "naziv": "H2O",
@@ -240,7 +240,7 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-C, 2 m, crni",
           "barkod": "766623394857",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-C to Type-B Cable, 2 m",
@@ -372,7 +372,7 @@
           "naziv": "Zastitna Maska PANZERGLASS, SL1M MagSafe Apple iPhone 18 Duo, Prozirna",
           "barkod": "5715685044908",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Zastitna Maska PANZERGLASS, Urban Combat Samsung Galaxy S26 ULTRA, Prozirna",
@@ -384,7 +384,7 @@
           "naziv": "Zastitna Maska PANZERGLASS, Urban Combat Samsung Galaxy S26, Prozirna",
           "barkod": "5715685034176",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitna Maska PANZERGLASS, Urban Combat Samsung Galaxy S26+, Prozirna",
