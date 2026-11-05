@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-05T14:13:21.618Z",
+  "azurirano": "2026-11-05T14:13:42.231Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -646,7 +646,7 @@
           "naziv": "Uvijac za kosu Philips BHA310/00",
           "barkod": "8720689002790",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Uvijac za kosu Philips BHA710/00",
@@ -682,7 +682,7 @@
           "naziv": "Brijaci aparat Philips S7886/58",
           "barkod": "8720689010931",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips S3244/12",
