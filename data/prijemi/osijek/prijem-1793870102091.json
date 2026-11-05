@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T09:15:02.091Z",
-  "azurirano": "2026-11-05T09:21:15.238Z",
+  "azurirano": "2026-11-05T09:21:23.377Z",
   "dokumenti": [
     {
       "naziv": "Loggg",
@@ -68,7 +68,7 @@
           "naziv": "CELLULARLINE AUDIO ADAPTER AUX-TYPE-C",
           "barkod": "8018080351518",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE AUTO ADAPTER USB-C TO USB-A",
@@ -440,7 +440,7 @@
           "naziv": "Zastitna Maska PANZERGLASS, SL1M MagSafe Apple iPhone 18 Duo, Prozirna",
           "barkod": "5715685044908",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Zastitna Maska PANZERGLASS, Urban Combat Samsung Galaxy S26 ULTRA, Prozirna",
@@ -518,13 +518,13 @@
           "naziv": "Zastitno Staklo PANZERGLASS, Samsung Galaxy S26, Ultra Wide Fit Privacy",
           "barkod": "5715685033889",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Zastitno Staklo PANZERGLASS, Samsung Galaxy S26+, Ultra Wide Fit",
           "barkod": "5715685033834",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitno Staklo PANZERGLASS, Samsung Galaxy S26+, Ultra Wide Fit Privacy",
