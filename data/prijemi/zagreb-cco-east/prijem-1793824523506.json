@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T20:35:23.506Z",
-  "azurirano": "2026-11-05T06:10:16.465Z",
+  "azurirano": "2026-11-05T06:10:28.740Z",
   "dokumenti": [
     {
       "naziv": "MSI 7172-101",
@@ -858,7 +858,7 @@
           "naziv": "Brijaci aparat Philips S7886/58",
           "barkod": "8720689010931",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips X3001/00",
@@ -942,7 +942,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX3792/11 Sonicare series 6800 Black",
           "barkod": "8720689046916",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac za glavu Rowenta TN3110E0",
@@ -978,7 +978,7 @@
           "naziv": "Brijac za tijelo Philips BG3480/15",
           "barkod": "8720689026871",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -989,25 +989,25 @@
           "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC CK compatible) crni",
           "barkod": "3499550360653",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC Y compatible) sivi",
           "barkod": "3499550360776",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bigben Wired Nacon Controller PS4 3m kabel (PC compatible) crveni",
           "barkod": "3499550360714",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Bigben PS4 Nacon Compact Light Wired Controller LUE prozirno-plavi",
           "barkod": "3499550360806",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Death Stranding Standard Edition PS4 A35",
