@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T11:45:09.652Z",
-  "azurirano": "2026-11-05T11:50:54.035Z",
+  "azurirano": "2026-11-05T11:51:00.092Z",
   "dokumenti": [
     {
       "naziv": "MSI 7166-101",
@@ -852,7 +852,7 @@
           "naziv": "Laptop LENOVO LOQ, 83TN0069SC, 38.9cm (15.3\") IPS WUXGA, AMD Ryzen 7 250, 16 GB RAM, 512 GB SSD,",
           "barkod": "199276323002",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Monitor 27\" ACER Nitro XF270U P1, UM.HX0EE.114, IPS 2K/WQHD, 144Hz, 1ms, AMD FreeSync, DisplayPort, 2x",
@@ -876,7 +876,7 @@
           "naziv": "Laptop HP OmniBook 3 17-dp0007nmx, 43.9 cm (17.3\") FHD, AMD Ryzen 5 40, 16 GB RAM, 512 GB SSD, AMD",
           "barkod": "821844546789",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Monitor SAMSUNG 27\" Essential G3 G32H EN",
@@ -900,7 +900,7 @@
           "naziv": "Laptop LENOVO Legion 5i, 83VK001NSC, 38.9cm (15.3\") OLED WQXGA 165Hz, Intel Core Ultra 9 290HX, 32 GB",
           "barkod": "199276324290",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
