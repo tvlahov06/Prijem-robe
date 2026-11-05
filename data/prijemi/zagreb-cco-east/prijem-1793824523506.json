@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T20:35:23.506Z",
-  "azurirano": "2026-11-05T06:11:10.587Z",
+  "azurirano": "2026-11-05T06:11:19.672Z",
   "dokumenti": [
     {
       "naziv": "MSI 7172-101",
@@ -550,7 +550,7 @@
           "naziv": "Dron DJI Neo Fly More Combo",
           "barkod": "6941565988294",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 rozi",
@@ -828,7 +828,7 @@
           "naziv": "Susilo za kosu Philips BHD272/00",
           "barkod": "8710103898108",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP420/50 nastavci 360",
@@ -846,7 +846,7 @@
           "naziv": "Cetka za kosu Philips BHH885/00",
           "barkod": "8720689000185",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips S7885/50",
@@ -870,13 +870,13 @@
           "naziv": "Brijaci aparat Philips S3244/12",
           "barkod": "8720689018609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Rowenta CV1801F0",
           "barkod": "3121040087633",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP225/50 nastavci Face",
@@ -900,7 +900,7 @@
           "naziv": "Susilo za kosu Philips BHD538/30",
           "barkod": "8720689023276",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Philips BHD839/00",
@@ -930,7 +930,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7109/01 Sonicare Series 5300 DUO, Black & White",
           "barkod": "8720689021418",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za bradu Philips BT5780/15",
@@ -948,7 +948,7 @@
           "naziv": "Brijac za glavu Rowenta TN3110E0",
           "barkod": "3121040095584",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osobna vaga Tefal BM2600V0 Body Up 2.0",
