@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T09:49:11.910Z",
-  "azurirano": "2026-11-05T07:16:09.324Z",
+  "azurirano": "2026-11-05T07:16:13.473Z",
   "dokumenti": [
     {
       "naziv": "H2O",
@@ -180,7 +180,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL MFI 120 CM",
           "barkod": "8018080175466",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL MICRO USB 120 CM",
@@ -192,7 +192,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
           "barkod": "8018080270420",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
