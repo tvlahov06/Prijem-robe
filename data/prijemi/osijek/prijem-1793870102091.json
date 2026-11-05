@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T09:15:02.091Z",
-  "azurirano": "2026-11-05T09:36:10.770Z",
+  "azurirano": "2026-11-05T09:36:54.329Z",
   "dokumenti": [
     {
       "naziv": "Loggg",
@@ -14,7 +14,7 @@
           "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni crni",
           "barkod": "0194644125806",
           "ocekivano": 10,
-          "skenirano": 9
+          "skenirano": 10
         },
         {
           "naziv": "ANKER kucni punjac 33W, 1xUSB-C/1xUSB-A, bijeli",
@@ -56,7 +56,7 @@
           "naziv": "CELLULARLINE ACL AUDIO KABEL 3.5 MM NA TYPE-C",
           "barkod": "8018080384097",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ACL MUSIC BT RECEIVER BLACK",
@@ -122,7 +122,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC APPLE USB-C 30W",
           "barkod": "8018080433559",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 15W BLACK",
@@ -146,7 +146,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
           "barkod": "8018080270420",
           "ocekivano": 10,
-          "skenirano": 3
+          "skenirano": 9
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
@@ -356,7 +356,7 @@
           "naziv": "Punjac Cellularline 40W PD USB-C",
           "barkod": "8018080513237",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Putni Adapter SKROSS World to EU + USB-A/USB-C",
