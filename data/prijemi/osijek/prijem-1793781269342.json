@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-05T14:36:32.510Z",
+  "azurirano": "2026-11-05T14:36:48.424Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -1127,35 +1127,6 @@
         {
           "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
           "barkod": "2010033161096",
-          "ocekivano": 2,
-          "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7120-101",
-      "stavke": [
-        {
-          "naziv": "Hogwarts Legacy PS4 A32",
-          "barkod": "5051895413418",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "PS5 Vertical Stand",
-          "barkod": "711719579540",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "The Legend of Zelda: Breath Of The Wild Switch 2",
-          "barkod": "0045496312664",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Switch Sports Resort Switch 2",
-          "barkod": "0045496314903",
           "ocekivano": 2,
           "skenirano": 2
         }
