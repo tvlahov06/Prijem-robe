@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-05T14:25:48.989Z",
+  "azurirano": "2026-11-05T14:25:53.384Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -802,13 +802,13 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7108/02 Sonicare Series 5300 White",
           "barkod": "8720689023009",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 17U1 Philips MG7941/15",
           "barkod": "8720689044950",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za bradu Philips BT5780/15",
