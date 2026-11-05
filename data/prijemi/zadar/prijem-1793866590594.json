@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T08:16:30.594Z",
-  "azurirano": "2026-11-05T11:02:48.491Z",
+  "azurirano": "2026-11-05T11:03:07.172Z",
   "dokumenti": [
     {
       "naziv": "MSI 172-139",
@@ -15,71 +15,6 @@
           "barkod": "1200130006692",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7188-101",
-      "stavke": [
-        {
-          "naziv": "Laptop LENOVO LOQ, 83TN0069SC, 38.9cm (15.3\") IPS WUXGA, AMD Ryzen 7 250, 16 GB RAM, 512 GB SSD,",
-          "barkod": "199276323002",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Monitor 27\" ACER Nitro XF270U P1, UM.HX0EE.114, IPS 2K/WQHD, 144Hz, 1ms, AMD FreeSync, DisplayPort, 2x",
-          "barkod": "4711721097700",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Monitor 27\" ACER Nitro KG270 W5, UM.HX0EE.506, IPS Full HD, 260Hz, 0.5ms, AMD FreeSync Premium, DisplayPort,",
-          "barkod": "4711474998835",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Monitor 27\" ACER PREDATOR XB273U X2, UM.HX3EE.219, IPS 2K/WQHD, 210Hz, 0.5ms, AMD FreeSync Premium,",
-          "barkod": "4711474917980",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
-          "barkod": "2010033161096",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ACER Aspire Lite 15 NX.DK1EX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711474852366",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ACER Aspire Go 15 NX.J7WEX.00Q, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711474945655",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Monitor SAMSUNG 27\" Essential G3 G32H EN",
-          "barkod": "8806099279707",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor SAMSUNG 24\" Essential G3 G32H EN",
-          "barkod": "8806099279653",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop LENOVO LOQ Essential, 83S000A7SC, 39.6cm (15.6\") IPS Full HD 144Hz, AMD Ryzen 5 150, 16 GB RAM,",
-          "barkod": "199274270841",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
