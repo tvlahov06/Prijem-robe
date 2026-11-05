@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T08:16:30.594Z",
-  "azurirano": "2026-11-05T11:02:32.168Z",
+  "azurirano": "2026-11-05T11:02:48.491Z",
   "dokumenti": [
     {
       "naziv": "MSI 172-139",
@@ -15,17 +15,6 @@
           "barkod": "1200130006692",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7184-101",
-      "stavke": [
-        {
-          "naziv": "Friday vrecica",
-          "barkod": "2010033340200",
-          "ocekivano": 100,
-          "skenirano": 100
         }
       ]
     },
