@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T09:15:02.091Z",
-  "azurirano": "2026-11-05T09:36:54.329Z",
+  "azurirano": "2026-11-05T09:37:42.026Z",
   "dokumenti": [
     {
       "naziv": "Loggg",
@@ -74,19 +74,19 @@
           "naziv": "CELLULARLINE AUTO ADAPTER USB-C TO USB-A",
           "barkod": "8018080399541",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE CLEAR STRONG MASKICA IPHONE 16 PRO",
           "barkod": "8018080482878",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE DRZAC HANDY DRIVE",
           "barkod": "8018080251238",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE FINE MASKICA IPHONE 16 PRO MAX",
@@ -110,7 +110,7 @@
           "naziv": "CELLULARLINE KABEL TYPE C TO C 300 CM",
           "barkod": "8018080373664",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
@@ -146,7 +146,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
           "barkod": "8018080270420",
           "ocekivano": 10,
-          "skenirano": 9
+          "skenirano": 10
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
@@ -362,7 +362,7 @@
           "naziv": "Putni Adapter SKROSS World to EU + USB-A/USB-C",
           "barkod": "7640326820994",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Anker Soundcore Space One, bluetooth, crne",
@@ -422,7 +422,7 @@
           "naziv": "TRUST PC PUNJAC ZA LAPTOP UNIVERZALNI PRIMO 19V-70W",
           "barkod": "8713439221411",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitna maska CELLULARLINE, Ultra Slim Mag, Iphone 18 PRO MAX",
