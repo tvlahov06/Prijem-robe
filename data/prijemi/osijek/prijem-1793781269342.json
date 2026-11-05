@@ -5,7 +5,7 @@
   "datum": "2026-11-04",
   "status": "aktivan",
   "kreirano": "2026-11-04T08:34:29.342Z",
-  "azurirano": "2026-11-05T14:25:59.328Z",
+  "azurirano": "2026-11-05T14:26:08.742Z",
   "dokumenti": [
     {
       "naziv": "MSI 7138-101",
@@ -640,7 +640,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP420/50 nastavci 360",
           "barkod": "8710103997153",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Philips BHA310/00",
@@ -706,7 +706,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP430/50 nastavci 360",
           "barkod": "8710103997177",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Rowenta CV1801F0",
@@ -718,7 +718,7 @@
           "naziv": "Brijaci aparat Philips OneBlade QP225/50 nastavci Face",
           "barkod": "8720689003087",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
