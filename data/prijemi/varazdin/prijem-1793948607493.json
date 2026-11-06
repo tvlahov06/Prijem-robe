@@ -5,7 +5,7 @@
   "datum": "2026-11-06",
   "status": "aktivan",
   "kreirano": "2026-11-06T07:03:27.493Z",
-  "azurirano": "2026-11-06T10:55:09.394Z",
+  "azurirano": "2026-11-06T10:55:17.468Z",
   "dokumenti": [
     {
       "naziv": "MSI 7156-101",
@@ -295,7 +295,7 @@
           "naziv": "H-300 TV nosac BOF TVM H-300",
           "barkod": "2010030072623",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple EarPods (Lightning Connector)",
@@ -307,7 +307,7 @@
           "naziv": "H-100 TV nosac BOF TVM H-100",
           "barkod": "2010030072609",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "X-200 TV nosac BOF TVM X-200",
@@ -349,7 +349,7 @@
           "naziv": "X-100 TV nosac BOF TVM X-100",
           "barkod": "2010030072654",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mini linija LG CK43N",
