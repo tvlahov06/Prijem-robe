@@ -5,7 +5,7 @@
   "datum": "2026-11-06",
   "status": "aktivan",
   "kreirano": "2026-11-06T09:28:17.754Z",
-  "azurirano": "2026-11-06T09:41:47.148Z",
+  "azurirano": "2026-11-06T09:42:19.153Z",
   "dokumenti": [
     {
       "naziv": "MSI 7168-101",
@@ -20,7 +20,7 @@
           "naziv": "Mobitel Apple iPhone 18 Pro 256GB Silver",
           "barkod": "195951415673",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -55,7 +55,7 @@
           "naziv": "Apple EarPods (Lightning Connector)",
           "barkod": "195949506123",
           "ocekivano": 6,
-          "skenirano": 4
+          "skenirano": 6
         },
         {
           "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
@@ -67,7 +67,7 @@
           "naziv": "H-100 TV nosac BOF TVM H-100",
           "barkod": "2010030072609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
@@ -145,7 +145,7 @@
           "naziv": "Slusalice Huawei Freeclip 2 crne",
           "barkod": "6942103169434",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Corsair HS55, Carbon",
