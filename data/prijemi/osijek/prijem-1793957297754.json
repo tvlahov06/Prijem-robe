@@ -5,7 +5,7 @@
   "datum": "2026-11-06",
   "status": "aktivan",
   "kreirano": "2026-11-06T09:28:17.754Z",
-  "azurirano": "2026-11-06T10:15:24.895Z",
+  "azurirano": "2026-11-06T10:15:45.114Z",
   "dokumenti": [
     {
       "naziv": "MSI 7168-101",
@@ -275,7 +275,7 @@
           "naziv": "USB Stick ADATA UV250, 16GB, USB 2.0, metal BK",
           "barkod": "4713218468796",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB Stick ADATA UV250, 32GB, USB 2.0, metal BK",
@@ -539,7 +539,7 @@
           "naziv": "USB stick ADATA UV128, 128GB, USB3.2 RBE",
           "barkod": "4713435799444",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SSD ADATA SU630, R520/W450, 240GB, 7mm, 2.5\" GQ-R",
