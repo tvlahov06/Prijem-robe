@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T21:20:02.514Z",
-  "azurirano": "2026-11-06T07:09:59.158Z",
+  "azurirano": "2026-11-06T07:10:03.514Z",
   "dokumenti": [
     {
       "naziv": "MSI 7157-101",
@@ -623,7 +623,7 @@
           "naziv": "Eksterni disk ADATA Ex HDD HD330, 1TB, usb3.2, plavi -CBL",
           "barkod": "4713218465474",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SanDisk Ultra Dual Drive USB Type-C 64 GB USB stick G46",
