@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T21:20:02.514Z",
-  "azurirano": "2026-11-06T07:05:32.161Z",
+  "azurirano": "2026-11-06T07:05:35.972Z",
   "dokumenti": [
     {
       "naziv": "MSI 7157-101",
@@ -206,7 +206,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX7111/01 Sonicare Series 5500 Black",
           "barkod": "8720689021685",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za bradu Philips BT5780/15",
@@ -218,7 +218,7 @@
           "naziv": "Brijac za glavu Rowenta TN3110E0",
           "barkod": "3121040095584",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Rowenta UB9920E0",
