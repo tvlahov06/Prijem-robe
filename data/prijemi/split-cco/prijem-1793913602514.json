@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T21:20:02.514Z",
-  "azurirano": "2026-11-06T06:49:35.408Z",
+  "azurirano": "2026-11-06T06:51:45.774Z",
   "dokumenti": [
     {
       "naziv": "MSI 7157-101",
@@ -80,7 +80,7 @@
           "naziv": "Brijaci aparat Philips S5885/35",
           "barkod": "8720689008037",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD720/10",
