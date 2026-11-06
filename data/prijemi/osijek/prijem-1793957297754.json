@@ -1,0 +1,595 @@
+{
+  "id": "prijem-1793957297754",
+  "poslovnica": "osijek",
+  "naziv": "06.11",
+  "datum": "2026-11-06",
+  "status": "aktivan",
+  "kreirano": "2026-11-06T09:28:17.754Z",
+  "azurirano": "2026-11-06T09:28:17.754Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 7168-101",
+      "stavke": [
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Glacier",
+          "barkod": "195951415697",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Silver",
+          "barkod": "195951415673",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7169-101",
+      "stavke": [
+        {
+          "naziv": "Apple EarPods (USB-C)",
+          "barkod": "195949776274",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
+          "barkod": "6942103101359",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-300 TV nosac BOF TVM H-300",
+          "barkod": "2010030072623",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung Galaxy Buds4 slusalice crne UC",
+          "barkod": "8806097998570",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple EarPods (Lightning Connector)",
+          "barkod": "195949506123",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
+          "barkod": "8806097984795",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-100 TV nosac BOF TVM H-100",
+          "barkod": "2010030072609",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
+          "barkod": "197029008220",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "X-200 TV nosac BOF TVM X-200",
+          "barkod": "2010030072661",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-200 TV nosac BOF TVM V-200",
+          "barkod": "2010030072647",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar LG S40T",
+          "barkod": "8806091960320",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "RIG 300 PRO HS gaming slusalice Cosmic OSMIC",
+          "barkod": "3665962026764",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LG soundbar S70TR",
+          "barkod": "8806096575277",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods Pro3 with MagSafe Case (USB-C)",
+          "barkod": "195950543742",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "X-100 TV nosac BOF TVM X-100",
+          "barkod": "2010030072654",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mini linija LG CK43N",
+          "barkod": "8806096402467",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice HyperX Cloud III Red Black",
+          "barkod": "197029008237",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 5",
+          "barkod": "195951379036",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei Freeclip 2 plave",
+          "barkod": "6942103169458",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei Freeclip 2 crne",
+          "barkod": "6942103169434",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Corsair HS55, Carbon",
+          "barkod": "0840006657866",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark BLUETOOTH ZVUCNIK GBT-619 IDAKKA crni IDAKKA BLACK",
+          "barkod": "3858894504053",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben PS4 Stereo Gaming slusalice v3 Red V3RED",
+          "barkod": "3499550381429",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Razer BlackShark V2 HyperSpeed 0-R3M1",
+          "barkod": "8886419378235",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods Max (USB-C) Midnight",
+          "barkod": "195949544026",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7186-101",
+      "stavke": [
+        {
+          "naziv": "Friday vrecica",
+          "barkod": "2010033340200",
+          "ocekivano": 100,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7205-101",
+      "stavke": [
+        {
+          "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
+          "barkod": "740617326260",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Kyson 64GB USB 3.2",
+          "barkod": "740617309102",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON FD Exodia 128GB USB 3.2",
+          "barkod": "740617309928",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305 Tri-colour Original Ink Cartridge, 3YM60AE - Instant Ink",
+          "barkod": "194441597318",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305XL Cartridge Ink 3YM62AE, Boja Black - Instant Ink",
+          "barkod": "193905429288",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
+          "barkod": "740617348408",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 652 Black Original Ink Advantage Cartridge, F6V25AE",
+          "barkod": "889296160939",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
+          "barkod": "740617348651",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 650 CZ101AE Black Ink Cartridge",
+          "barkod": "886112545987",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 650 CZ102AE Tri-color Ink Cartridge",
+          "barkod": "886112546052",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 652 Tri-Colour Original Ink Advantage Cartridge, F6V24AE",
+          "barkod": "889296160892",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "T2U TP-Link AC600 Archer T2U Nano bezicni Dual-Band USB2.0 Nano adapter 200Mbps/433Mbps (2.4GHz/5gHz),",
+          "barkod": "6935364099978",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link AC600 ARCHER-T2U Wi-Fi USB Adapter 433Mbps at 5GHz + 150Mbps at 2.4GHz",
+          "barkod": "6935364089917",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB Stick ADATA UV250, 16GB, USB 2.0, metal BK",
+          "barkod": "4713218468796",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB Stick ADATA UV250, 32GB, USB 2.0, metal BK",
+          "barkod": "4713218468802",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB Stick ADATA UV250, 64GB, USB 2.0, metal BK",
+          "barkod": "4713218468819",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
+          "barkod": "740617348699",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis MS COMBO MK-110 bezicni set",
+          "barkod": "3856032105933",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD 512GB DTKN USB3.2DataTraveler KysonStylish Capless Metal Case,200MB/s read",
+          "barkod": "740617340761",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE300, AC1200 WiFi pojacivac signala",
+          "barkod": "1210002613798",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link AC1200 bezicni pojacivac dometa (Range Extender), Dual Band 300Mbps/867Mbps (2.4GHz/5GHz),",
+          "barkod": "6935364097974",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak za laptop ASUS ROG BP4701, 17.3\" gaming",
+          "barkod": "4711081074205",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA C008, 16GB, USB2.0, bijelo-plavi",
+          "barkod": "4718050609642",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link USB3.0 na Gigabit mrezni adapter",
+          "barkod": "4897098687376",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ADATA UV320, 64GB, USB3.2 bijelo-zeleni WHGN",
+          "barkod": "4713218462831",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
+          "barkod": "8715946701271",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Externi SSD Kingston XS1000 2TB",
+          "barkod": "740617338508",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Epson 103 za L11xx/L12xx/L31xx/L32xx/L51xx/L52xx, 65ml",
+          "barkod": "8715946655840",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX Desktop stalak LCD-LM01-2 (13-32\"/9kg monitor + 4kg laptop/VESA 100x100)",
+          "barkod": "3858894502844",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis ACER Smart Fit Vertical Mouse, Crna",
+          "barkod": "4712842946755",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP GT52 M0H56AE, Yellow",
+          "barkod": "190780132555",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Keychron K5U-H1-UK",
+          "barkod": "4894979065520",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Keychron BM27-A61",
+          "barkod": "4894979054982",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrofon HP HyperX SoloCast 2, AR0A0AA, crni",
+          "barkod": "198701525790",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica MS ELITE-501C",
+          "barkod": "3856032100785",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis MS NEMESIS T-102C",
+          "barkod": "3856032100716",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta Canon CL-576 color",
+          "barkod": "4549292192650",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link TL-MR6400 bezicni 4G LTE Router, 300Mbps, interni 4G modem, SIM card slot",
+          "barkod": "6935364092764",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk WD My Passport 4TB, Black, USB 3.2 K-WESN",
+          "barkod": "718037869438",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis White Shark ESL-MP7 ASHIKAGA L 45x40x0,3cm",
+          "barkod": "0736373269767",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ink Cartidge",
+          "barkod": "4549292145038",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-051 300x250X2mm",
+          "barkod": "3858894507917",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WARRIOR Rashladni stalak WHITE SHARK ICE WARRIOR, GCP-25, 4 vent.",
+          "barkod": "0616320533793",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-011 WALRUS Crna/narancasta 800x400 XL",
+          "barkod": "3858894503643",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda TIPKOVNICA+MIS BGC-011 ORCA Crna - Combo",
+          "barkod": "3858894506552",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta CANON",
+          "barkod": "4549292192629",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica MS ELITE K-703C",
+          "barkod": "3856032100747",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicni mis ASUS Fragrance MD101",
+          "barkod": "4711387793398",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CANON",
+          "barkod": "4960999974521",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick Samsung 512GB Pendrive BAR Plus champaign PC srebrni MUF-512BE3/APC",
+          "barkod": "8806095379692",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TORBA SBOX NSS-19368O JAKARTA Narancasta / Ruksak",
+          "barkod": "3858894506958",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-061 300x250X2mm",
+          "barkod": "3858894507924",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta CANON",
+          "barkod": "4549292192612",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "tinta GI-490BK, crna",
+          "barkod": "4549292041729",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Book Cover s tipkovnicom slim za Tab S12 Ultra crni",
+          "barkod": "8806099005788",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston 512GB USB 3.2",
+          "barkod": "740617341324",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk ADATA Ex SSD SC730, R600/W600, 512GB, ACTI USB-A/C",
+          "barkod": "4711085948595",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA UV128, 128GB, USB3.2 RBE",
+          "barkod": "4713435799444",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD ADATA SU630, R520/W450, 240GB, 7mm, 2.5\" GQ-R",
+          "barkod": "4713218469175",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ADATA microSD U3, V30, 160/140MBs, 64GB 2SP-RA1",
+          "barkod": "4711085949196",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming mis HP HyperX Pulsefire Fuse",
+          "barkod": "198122802449",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk WD My Passport 5TB, Black, USB 3.2 K-WESN",
+          "barkod": "718037868448",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer Basilisk V3, zicani, gaming, 26000DPI, RGB, crni 0-R3M1",
+          "barkod": "8886419333487",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
+          "barkod": "4713435796641",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "WHITE SHARK GM-5014 Graphene, 12.400 DPI, crvena boja | Gaming mis",
+          "barkod": "3858894505845",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-041 300x250X2mm",
+          "barkod": "3858894507900",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
