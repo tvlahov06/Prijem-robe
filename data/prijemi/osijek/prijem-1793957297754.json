@@ -5,7 +5,7 @@
   "datum": "2026-11-06",
   "status": "aktivan",
   "kreirano": "2026-11-06T09:28:17.754Z",
-  "azurirano": "2026-11-06T10:16:23.195Z",
+  "azurirano": "2026-11-06T10:16:26.026Z",
   "dokumenti": [
     {
       "naziv": "MSI 7168-101",
@@ -533,7 +533,7 @@
           "naziv": "Eksterni disk ADATA Ex SSD SC730, R600/W600, 512GB, ACTI USB-A/C",
           "barkod": "4711085948595",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 128GB, USB3.2 RBE",
