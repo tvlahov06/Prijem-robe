@@ -5,7 +5,7 @@
   "datum": "2026-11-06",
   "status": "aktivan",
   "kreirano": "2026-11-06T07:03:27.493Z",
-  "azurirano": "2026-11-06T10:50:27.273Z",
+  "azurirano": "2026-11-06T10:50:29.598Z",
   "dokumenti": [
     {
       "naziv": "MSI 7156-101",
@@ -110,7 +110,7 @@
           "naziv": "TP-Link RE300, AC1200 WiFi pojacivac signala",
           "barkod": "1210002613798",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link AC1200 bezicni pojacivac dometa (Range Extender), Dual Band 300Mbps/867Mbps (2.4GHz/5GHz),",
