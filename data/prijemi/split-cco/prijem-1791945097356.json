@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T21:22:09.283Z",
-  "azurirano": "2026-11-06T07:21:45.684Z",
+  "azurirano": "2026-11-06T07:21:50.049Z",
   "dokumenti": [
     {
       "naziv": "H2O",
@@ -156,7 +156,7 @@
           "naziv": "Cetkica za zube OralB iO10 STARDUST WHITE",
           "barkod": "4210201434658",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube OralB iO2 GREEN",
@@ -222,7 +222,7 @@
           "naziv": "Cetkica za zube OralB iO6 DUO",
           "barkod": "8006530021746",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Cetkica za zube OralB iO6 GREY OPAL",
