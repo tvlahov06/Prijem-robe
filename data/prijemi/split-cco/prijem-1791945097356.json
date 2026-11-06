@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T21:22:09.283Z",
-  "azurirano": "2026-11-06T09:08:49.508Z",
+  "azurirano": "2026-11-06T09:08:54.554Z",
   "dokumenti": [
     {
       "naziv": "H2O",
@@ -425,41 +425,6 @@
           "barkod": "753759380212",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "Orbico2",
-      "stavke": [
-        {
-          "naziv": "Brijaci aparat BRAUN  SERIES 9 - 9467cc SILVER",
-          "barkod": "4210201394174",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Brijaci aparat BRAUN SERIES 5 - 52-N1500s F1",
-          "barkod": "8006530561426",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Brijaci aparat BRAUN SERIES 7 - 72-N1000s F1",
-          "barkod": "8006530561501",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Epilator BRAUN SES9-341 2D",
-          "barkod": "7500435225182",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "IPL depilator Braun PL5152",
-          "barkod": "7500435238366",
-          "ocekivano": 3,
-          "skenirano": 3
         }
       ]
     }
