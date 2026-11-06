@@ -5,7 +5,7 @@
   "datum": "2026-11-06",
   "status": "aktivan",
   "kreirano": "2026-11-06T07:03:27.493Z",
-  "azurirano": "2026-11-06T10:52:38.002Z",
+  "azurirano": "2026-11-06T10:52:43.888Z",
   "dokumenti": [
     {
       "naziv": "MSI 7156-101",
@@ -20,7 +20,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
           "barkod": "740617326376",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Kyson 64GB USB 3.2",
@@ -104,7 +104,7 @@
           "naziv": "USB STICK Kingston FD 512GB DTKN USB3.2DataTraveler KysonStylish Capless Metal Case,200MB/s read",
           "barkod": "740617340761",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link RE300, AC1200 WiFi pojacivac signala",
@@ -128,7 +128,7 @@
           "naziv": "USB stick Samsung 64GB BAR Plus crni MUF-64BE4/APC",
           "barkod": "8801643230739",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
