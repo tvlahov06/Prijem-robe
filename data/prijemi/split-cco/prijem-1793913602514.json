@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T21:20:02.514Z",
-  "azurirano": "2026-11-06T07:00:40.946Z",
+  "azurirano": "2026-11-06T07:00:46.326Z",
   "dokumenti": [
     {
       "naziv": "MSI 7157-101",
@@ -449,7 +449,7 @@
           "naziv": "USB STICK Kingston FD Kyson 64GB USB 3.2",
           "barkod": "740617309102",
           "ocekivano": 5,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Tinta HP 305 Tri-colour Original Ink Cartridge, 3YM60AE - Instant Ink",
@@ -599,7 +599,7 @@
           "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
           "barkod": "740617305371",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK KINGSTON FD 128GB USB3.2 Exodia",
