@@ -5,7 +5,7 @@
   "datum": "2026-11-09",
   "status": "aktivan",
   "kreirano": "2026-11-09T18:48:06.139Z",
-  "azurirano": "2026-11-09T21:34:30.489Z",
+  "azurirano": "2026-11-09T21:34:35.896Z",
   "dokumenti": [
     {
       "naziv": "MSI 7233-101",
@@ -131,7 +131,7 @@
           "naziv": "Pegla za kosu Philips BHS956/00 Aqua Edition Straightener",
           "barkod": "8720689049603",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX6600/13 For Kids",
@@ -1221,7 +1221,7 @@
           "naziv": "Pegla za kosu Philips BHS956/00 Aqua Edition Straightener",
           "barkod": "8720689049603",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetka za kosu Babyliss AS965E 1000W rotirajuca 4u1",
