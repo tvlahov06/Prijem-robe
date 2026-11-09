@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "Carrier 09112026",
   "datum": "2026-11-09",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-11-09T13:59:05.468Z",
-  "azurirano": "2026-11-09T14:47:49.159Z",
+  "azurirano": "2026-11-09T14:48:02.216Z",
   "dokumenti": [
     {
       "naziv": "carrier 09112026",
@@ -62,7 +62,7 @@
           "naziv": "Jolly Line, univerzalni daljinski za Philips TV, HPH238-PH-V1, IR + BT",
           "barkod": "8023389764853",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Jolly Line, univerzalni daljinski za Samsung TV, BN59-01330B, IR + BT",
@@ -74,37 +74,37 @@
           "naziv": "Jolly Line, univerzalni daljinski za Samsung TV, BN59-01363A, IR + BT",
           "barkod": "8023389774906",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Unitronic, univerzalni daljinski upravljac za Hisense TV",
           "barkod": "8023389780006",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Unitronic, univerzalni daljinski upravljac za LG TV",
           "barkod": "8023389779987",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Unitronic, univerzalni daljinski upravljac za Philips TV",
           "barkod": "8023389779994",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Unitronic, univerzalni daljinski upravljac za Samsung TV",
           "barkod": "8023389779963",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Unitronic, univerzalni daljinski upravljac za Sony TV",
           "barkod": "8023389779970",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Vogel's MA3010 zidni stalak za ekrane od 32\"-65\" sa nagibom",
@@ -228,5 +228,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-11-09T14:48:02.214Z"
 }
