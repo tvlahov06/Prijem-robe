@@ -5,7 +5,7 @@
   "datum": "2026-11-09",
   "status": "aktivan",
   "kreirano": "2026-11-09T18:48:06.139Z",
-  "azurirano": "2026-11-09T21:34:20.921Z",
+  "azurirano": "2026-11-09T21:34:26.736Z",
   "dokumenti": [
     {
       "naziv": "MSI 7233-101",
@@ -125,7 +125,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX8311/13 DiamondClean",
           "barkod": "8720689054317",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Pegla za kosu Philips BHS956/00 Aqua Edition Straightener",
@@ -173,13 +173,13 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9813/98 DiamondClean Prestige 9900",
           "barkod": "8720689054270",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9212/81 DiamondClean",
           "barkod": "8720689054225",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
