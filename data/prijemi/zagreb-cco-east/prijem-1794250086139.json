@@ -5,7 +5,7 @@
   "datum": "2026-11-09",
   "status": "aktivan",
   "kreirano": "2026-11-09T18:48:06.139Z",
-  "azurirano": "2026-11-09T21:23:53.307Z",
+  "azurirano": "2026-11-09T21:24:08.442Z",
   "dokumenti": [
     {
       "naziv": "MSI 7233-101",
@@ -524,7 +524,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 Pro zuti 46mm (Atum-B49W)",
           "barkod": "6942711308652",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 5
         },
         {
           "naziv": "Slusalice Huawei FreeBuds 7i Black",
@@ -548,7 +548,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 Pro crni 46mm (Atum-B49F)",
           "barkod": "6942711308645",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat HUAWEI Watch 6 46mm crni (Niz-L19F)",
@@ -566,7 +566,7 @@
           "naziv": "Slusalice Huawei FreeClip 2 S Space Silver",
           "barkod": "6942103196775",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Purple 41mm (Konsu-B19FC)",
@@ -596,7 +596,7 @@
           "naziv": "Slusalice Huawei Freeclip 2 plave",
           "barkod": "6942103169458",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pametni sat Huawei Watch Fit 4 Pro zeleni (Seiya-B29W)",
