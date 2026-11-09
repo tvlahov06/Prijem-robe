@@ -5,7 +5,7 @@
   "datum": "2026-11-09",
   "status": "aktivan",
   "kreirano": "2026-11-09T18:48:06.139Z",
-  "azurirano": "2026-11-09T21:28:48.762Z",
+  "azurirano": "2026-11-09T21:29:02.312Z",
   "dokumenti": [
     {
       "naziv": "MSI 7233-101",
@@ -44,7 +44,7 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XM01ACSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 512",
           "barkod": "199276322814",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ01CYSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 3 30, 16 GB RAM, 512 GB",
@@ -56,7 +56,7 @@
           "naziv": "Laptop LENOVO V15 G5, 83GW007USC, 39.6cm (15.6\") IPS Full HD, Intel Core i7-13620H, 16 GB RAM, 512 GB",
           "barkod": "0199272000068",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Monitor 27\" ACER Predator X27QX, UM.GXXEE.305, QD-OLED 2K/QHD, 240Hz, 0.03ms, AMD FreeSync",
