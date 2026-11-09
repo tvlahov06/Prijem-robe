@@ -5,7 +5,7 @@
   "datum": "2026-11-09",
   "status": "aktivan",
   "kreirano": "2026-11-09T18:48:06.139Z",
-  "azurirano": "2026-11-09T21:30:28.645Z",
+  "azurirano": "2026-11-09T21:30:39.443Z",
   "dokumenti": [
     {
       "naziv": "MSI 7233-101",
@@ -744,7 +744,7 @@
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
           "barkod": "8720389040733",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac robot Philips XU2100/25",
