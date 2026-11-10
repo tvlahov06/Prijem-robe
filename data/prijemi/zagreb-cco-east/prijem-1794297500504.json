@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "zavrsen",
   "kreirano": "2026-11-10T08:36:28.462Z",
-  "azurirano": "2026-11-10T08:53:09.769Z",
+  "azurirano": "2026-11-10T08:53:13.416Z",
   "dokumenti": [
     {
       "naziv": "MSI 185-132",
@@ -524,65 +524,6 @@
           "barkod": "4548736181779",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 252-150",
-      "stavke": [
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
-          "barkod": "1200130029967",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice bezicne JBL VIBE FLEX 2 True Wireless bijele",
-          "barkod": "1200130015229",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL GO ESSENTIAL 2 crni",
-          "barkod": "1200130018589",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL GO ESSENTIAL 2 crveni",
-          "barkod": "1200130018602",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "prijenosni bluetooth JBL GO 5 maskirni",
-          "barkod": "1200130034336",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 crveni",
-          "barkod": "1200130019296",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke 7 WH-CH730N/P",
-          "barkod": "4548736181731",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-1000XM6/T",
-          "barkod": "4548736176850",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Sony",
-          "barkod": "4548736170643",
-          "ocekivano": 5,
-          "skenirano": 0
         }
       ]
     },
