@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:32:07.564Z",
-  "azurirano": "2026-11-10T08:46:10.283Z",
+  "azurirano": "2026-11-10T08:46:15.907Z",
   "dokumenti": [
     {
       "naziv": "logista_101126",
@@ -74,7 +74,7 @@
           "naziv": "Manhattan kabel HDMI M/M, 4K@60Hz UHD,Eth,3m,crni",
           "barkod": "0766623355353",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bluetooth zvucnik Soundcore Boom 2 s RGB osvjetljenjem",
@@ -266,13 +266,13 @@
           "naziv": "Intellinet UTP Cat7, Cat6A,CU,S/FTP, LSOH, 2m,sivi",
           "barkod": "766623740807",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Intellinet UTP Cat7, Cat6A,CU,S/FTP, LSOH, 3m,sivi",
           "barkod": "766623740869",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Kabel INTELLINET 740920, Mrezni, Patch, CAT7/CAT6a , RJ45 (M), 5m, Sivi",
