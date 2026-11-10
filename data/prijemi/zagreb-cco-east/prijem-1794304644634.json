@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T09:57:24.634Z",
-  "azurirano": "2026-11-10T10:26:27.255Z",
+  "azurirano": "2026-11-10T10:26:31.329Z",
   "dokumenti": [
     {
       "naziv": "logista 10112026",
@@ -878,7 +878,7 @@
           "naziv": "TRUST PC ADAPTER USB-C 3U1 DALYX",
           "barkod": "8713439237726",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST PC ADAPTER USB-C/4x USB-A,HALYX",
