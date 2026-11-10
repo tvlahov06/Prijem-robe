@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T12:34:44.000Z",
+  "azurirano": "2026-11-10T12:34:54.133Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -452,7 +452,7 @@
           "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
           "barkod": "8018080371547",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN USB-C to DisplayPort (DP) 8K@60Hz, 3m",
@@ -620,7 +620,7 @@
           "naziv": "Drzac Za Mobitel PLOOS, Air Vent, Crni",
           "barkod": "8018080368240",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Drzac za Mobitel CELLULARLINE Slide Fit",
