@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T20:39:41.522Z",
-  "azurirano": "2026-11-10T21:21:52.342Z",
+  "azurirano": "2026-11-10T21:21:54.636Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -691,17 +691,6 @@
         {
           "naziv": "Mobitel Apple iPhone Duo 512GB Star White",
           "barkod": "195951406404",
-          "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7333-101",
-      "stavke": [
-        {
-          "naziv": "Dyson prociscivac HushJet Compact HJ10 White/Silver",
-          "barkod": "5025155136140",
           "ocekivano": 1,
           "skenirano": 0
         }
