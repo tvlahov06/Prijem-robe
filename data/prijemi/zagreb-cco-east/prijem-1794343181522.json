@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T20:39:41.522Z",
-  "azurirano": "2026-11-10T21:21:21.995Z",
+  "azurirano": "2026-11-10T21:21:52.342Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -691,23 +691,6 @@
         {
           "naziv": "Mobitel Apple iPhone Duo 512GB Star White",
           "barkod": "195951406404",
-          "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7334-101",
-      "stavke": [
-        {
-          "naziv": "Perilica rublja Samsung WW90DG6U8FLKU4 KU4",
-          "barkod": "8806095582962",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Perilica rublja SAMSUNG WW10FG5U3EAELE ELE",
-          "barkod": "8806097804802",
           "ocekivano": 1,
           "skenirano": 0
         }
