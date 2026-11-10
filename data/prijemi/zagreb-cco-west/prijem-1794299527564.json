@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:32:07.564Z",
-  "azurirano": "2026-11-10T08:57:38.221Z",
+  "azurirano": "2026-11-10T08:59:28.856Z",
   "dokumenti": [
     {
       "naziv": "logista_101126",
@@ -80,7 +80,7 @@
           "naziv": "Bluetooth zvucnik Soundcore Boom 2 s RGB osvjetljenjem",
           "barkod": "194644255510",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bezicna stanica za punjenje Anker MagGo 3u1, 25 W",
@@ -140,7 +140,7 @@
           "naziv": "Kabel MANHATTAN HDMI 4K@30Hz High Speed with Ethernet, 3m",
           "barkod": "766623356787",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Kabel MANHATTAN DisplayPort 8K@60Hz (DP), 1m",
@@ -692,7 +692,7 @@
           "naziv": "TRUST PC ADAPTER MINI USB-A/4x USB-A,HALYX",
           "barkod": "8713439237863",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Tipkovnica Trust Primo HR/SI",
