@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-arena",
   "naziv": "Logista 10.11.2026.",
   "datum": "2026-11-10",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T14:09:50.710Z",
+  "azurirano": "2026-11-10T14:13:10.513Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -978,5 +978,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-11-10T14:13:10.513Z"
 }
