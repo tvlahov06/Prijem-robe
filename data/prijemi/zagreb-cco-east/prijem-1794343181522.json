@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T20:39:41.522Z",
-  "azurirano": "2026-11-10T21:03:58.895Z",
+  "azurirano": "2026-11-10T21:04:09.554Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -1249,7 +1249,7 @@
           "naziv": "Friteza na vruci zrak Philips NA231/00 Airfryer",
           "barkod": "8720389035074",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA462/70 Airfryer vertikalni",
@@ -1267,7 +1267,7 @@
           "naziv": "Kuhinjski asistent Bosch MUM5XW40 MUM5 CreationLine",
           "barkod": "4242005185214",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Toster grill Tefal GC728D10 rostilj OptiGrill + XL Tefal hvataljke",
@@ -1321,7 +1321,7 @@
           "naziv": "Sokovnik Hurom H330P sivi",
           "barkod": "8809686402151",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mikser stapni Philips HR2685/00",
