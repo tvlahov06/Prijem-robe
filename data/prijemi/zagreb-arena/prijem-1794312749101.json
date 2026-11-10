@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T12:48:32.080Z",
+  "azurirano": "2026-11-10T12:48:44.292Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -14,7 +14,7 @@
           "naziv": "Zastitno staklo Cellularline, Iphone 18 Pro Max",
           "barkod": "8018080522437",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitno staklo Cellularline, Iphone 18 Pro",
@@ -650,7 +650,7 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO",
           "barkod": "8018080483035",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO GALAXY S25 FE",
