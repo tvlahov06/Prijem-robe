@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T13:36:36.338Z",
+  "azurirano": "2026-11-10T13:36:41.135Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -446,7 +446,7 @@
           "naziv": "Kabel PLOOS, USB-C na USB-C, 100cm, Bijeli",
           "barkod": "8018080371509",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
@@ -938,7 +938,7 @@
           "naziv": "Auto Punjac PLOOS, 2A, 1xUSB-A, USB-C Kabel 100cm, Crni",
           "barkod": "8018080367328",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Auto Punjac PLOOS, 20W, 1xUSB-A, Kabel, Crni",
