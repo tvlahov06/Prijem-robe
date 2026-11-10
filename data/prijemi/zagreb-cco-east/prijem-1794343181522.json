@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T20:39:41.522Z",
-  "azurirano": "2026-11-10T21:04:54.486Z",
+  "azurirano": "2026-11-10T21:05:07.040Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -992,13 +992,13 @@
           "naziv": "Tinta HP GT53XL 1VV21AE, Black",
           "barkod": "192545270656",
           "ocekivano": 7,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tinta HP GT52 M0H56AE, Yellow",
           "barkod": "190780132555",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Tinta HP GT52 M0H55AE, Magenta",
@@ -1010,7 +1010,7 @@
           "naziv": "Tinta Epson 103 za L11xx/L12xx/L31xx/L32xx/L51xx/L52xx, 65ml",
           "barkod": "8715946655840",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "tinta GI-490BK, crna",
