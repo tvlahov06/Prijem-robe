@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:51:12.404Z",
-  "azurirano": "2026-11-10T13:03:54.467Z",
+  "azurirano": "2026-11-10T13:03:58.593Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center",
@@ -50,7 +50,7 @@
           "naziv": "Auto Punjac PLOOS, 2A, 1xUSB-A, USB-C Kabel 100cm, Crni",
           "barkod": "8018080367328",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Auto Punjac PLOOS, USB-A, USB-C, 15W, Crni",
@@ -572,7 +572,7 @@
           "naziv": "Kabel PLOOS, USB-C na USB-C, 100cm, Bijeli",
           "barkod": "8018080371509",
           "ocekivano": 15,
-          "skenirano": 12
+          "skenirano": 13
         },
         {
           "naziv": "Bezicna stanica za punjenje Anker MagGo 3u1, 25 W",
