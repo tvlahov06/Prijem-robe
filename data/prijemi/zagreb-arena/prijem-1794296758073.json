@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T07:45:58.073Z",
-  "azurirano": "2026-11-10T09:15:22.467Z",
+  "azurirano": "2026-11-10T09:26:40.428Z",
   "dokumenti": [
     {
       "naziv": "MSI 7224-101",
@@ -797,13 +797,13 @@
           "naziv": "Televizor HISENSE 58E7S 2026, 147,3 cm (58\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351431420",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 50E7S 2026, 126 cm (50\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
           "barkod": "6942351431161",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 65E7S 2026, 165,1 cm (65\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
@@ -815,13 +815,13 @@
           "naziv": "Televizor HISENSE 55E7S 2026, 139,7 cm (55\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
           "barkod": "6942351431352",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PRO Televizor HISENSE 55E7S PRO 2026, 139,7 cm (55\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351432779",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PRO Televizor HISENSE 50E7S PRO 2026, 127 cm (50\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
@@ -833,13 +833,13 @@
           "naziv": "Televizor LG OLED55C61LA 2026, 139,7 cm (55\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
           "barkod": "8806096685792",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor LG 50QNED72B3B 2026, 127 cm (50\"), QNED, 4K AEU UHD, Smart TV, webOS",
           "barkod": "8806096733790",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE43U8072HUXXH 2026, 109 cm XH (43\"), UHD, Smart TV, Tizen OS",
@@ -857,7 +857,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
