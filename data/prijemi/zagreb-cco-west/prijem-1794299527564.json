@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:32:07.564Z",
-  "azurirano": "2026-11-10T08:49:32.173Z",
+  "azurirano": "2026-11-10T08:49:38.389Z",
   "dokumenti": [
     {
       "naziv": "logista_101126",
@@ -806,7 +806,7 @@
           "naziv": "Slusalice Trust Carus GXT492 black",
           "barkod": "8713439254471",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Trust Carus GXT492W white",
@@ -830,7 +830,7 @@
           "naziv": "PC WEBCAM FULL HD,TANOR",
           "barkod": "8713439255485",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "BATERIJE PUNJIVE TRUST USB-C 2x AA",
