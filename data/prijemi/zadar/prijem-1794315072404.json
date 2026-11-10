@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:51:12.404Z",
-  "azurirano": "2026-11-10T13:08:11.001Z",
+  "azurirano": "2026-11-10T13:08:25.631Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center",
@@ -440,7 +440,7 @@
           "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 1m",
           "barkod": "766623395007",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN DisplayPort 8K@60Hz (DP), 1m",
@@ -506,7 +506,7 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Micro-USB, 2m",
           "barkod": "766623356855",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 2m",
@@ -536,7 +536,7 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-C to Type-B Cable, 2 m",
           "barkod": "766623394895",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN USB 3.0 Type-A to Type-C, 2m",
