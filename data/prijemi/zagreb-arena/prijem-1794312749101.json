@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T14:09:27.513Z",
+  "azurirano": "2026-11-10T14:09:32.002Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -920,7 +920,7 @@
           "naziv": "BATERIJE PUNJIVE TRUST USB-C 2x AA",
           "barkod": "8713439255843",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Auto Punjac PLOOS, USB-A, USB-C, 15W, Crni",
