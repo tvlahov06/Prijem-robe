@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T12:41:38.278Z",
+  "azurirano": "2026-11-10T12:41:53.402Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -20,7 +20,7 @@
           "naziv": "Zastitno staklo Cellularline, Iphone 18 Pro",
           "barkod": "8018080522444",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Zastitno staklo Cellularline Samsung Galaxy S26 Ultra",
@@ -38,13 +38,13 @@
           "naziv": "Zastitna maska Cellularline, Ultra Slim Mag, Iphone 18 Pro",
           "barkod": "8018080526619",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitna maska Cellularline, Sensation Mag, Iphone 18 Pro , Black",
           "barkod": "8018080522222",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitna Maska CELLULARLINE, Fine, Samsung Galaxy  A57, Prozirna",
@@ -224,7 +224,7 @@
           "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Capsule, In-Ear, 3,5mm, Bijele",
           "barkod": "8018080371448",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice CELLULARLINE, AUDIO MUSIC SOUND, Flow, Bluetooth, In-Ear, TWS, Red",
@@ -344,13 +344,13 @@
           "naziv": "Maskica Cellularline Samsung Galaxy S26, tvrda, prozirna",
           "barkod": "8018080510267",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Maskica Cellularline Samsung Galaxy S26, silikonska",
           "barkod": "8018080510519",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, tvrda, prozirna",
@@ -374,7 +374,7 @@
           "naziv": "Maskica Cellularline Samsung Galaxy A27, Book 3, crna",
           "barkod": "8018080520754",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Manhattan kabel HDMI M/M, 4K@60Hz UHD,Eth,3m,crni",
@@ -824,7 +824,7 @@
           "naziv": "CELLULARLINE BOOK ESSENTIAL GALAXY A16 4G/5G BLACK",
           "barkod": "8018080489716",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE BOOK AGENDA GALAXY S25+ BLACK",
@@ -836,7 +836,7 @@
           "naziv": "CELLULARLINE BOOK AGENDA GALAXY S25 ULTRA BLACK",
           "barkod": "8018080491290",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE BOOK AGENDA GALAXY S25 BLACK",
@@ -860,7 +860,7 @@
           "naziv": "CELLULARLINE ACL SLUSALICE BT TWS CORE WHITE",
           "barkod": "8018080490606",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ACL SLUSALICE BT TWS CORE BLACK",
