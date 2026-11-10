@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:51:12.404Z",
-  "azurirano": "2026-11-10T12:53:13.367Z",
+  "azurirano": "2026-11-10T12:53:17.800Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center",
@@ -662,7 +662,7 @@
           "naziv": "Mis Trust Bayo 2 bezicni ergonomski",
           "barkod": "8713439251456",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Trust Helox GXT928 crni",
@@ -836,7 +836,7 @@
           "naziv": "TRUST PC MIS WLESS SILENT CLICK YVI+ RED",
           "barkod": "8713439245509",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST PC MIS WLESS SILENT MULTI-DEVICE OZAA+ WHITE",
