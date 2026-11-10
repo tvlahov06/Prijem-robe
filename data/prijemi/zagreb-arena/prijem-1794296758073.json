@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T07:45:58.073Z",
-  "azurirano": "2026-11-10T10:20:08.160Z",
+  "azurirano": "2026-11-10T10:32:10.448Z",
   "dokumenti": [
     {
       "naziv": "MSI 7224-101",
@@ -559,7 +559,7 @@
           "naziv": "Laptop HP VICTUS Gaming 15-fa2001nmx, 39.6 cm (15.6\") IPS Full HD 144Hz, Intel Core i5-13420H, 16 GB RAM, 512",
           "barkod": "821844546567",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL BOOMBOX 4 crni BLKEP",
@@ -809,7 +809,7 @@
           "naziv": "Televizor HISENSE 65E7S 2026, 165,1 cm (65\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351431710",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 55E7S 2026, 139,7 cm (55\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
@@ -851,7 +851,7 @@
           "naziv": "Televizor LG OLED65C61LA 2026, 165,1 cm (65\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
           "barkod": "8806096685969",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
@@ -863,7 +863,7 @@
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
           "barkod": "5901292525798",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
@@ -875,7 +875,7 @@
           "naziv": "TCL QLED TV 65\" 65P7L, Google TV",
           "barkod": "5901292530235",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor TCL 32S5L 2026, 32\", QLED, Google TV",
