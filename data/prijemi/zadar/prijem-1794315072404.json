@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:51:12.404Z",
-  "azurirano": "2026-11-10T13:05:56.348Z",
+  "azurirano": "2026-11-10T13:06:06.310Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center",
@@ -524,13 +524,13 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-C, 1 m, crni",
           "barkod": "766623394864",
           "ocekivano": 6,
-          "skenirano": 3
+          "skenirano": 6
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-C, 2 m, crni",
           "barkod": "766623394857",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-C to Type-B Cable, 2 m",
