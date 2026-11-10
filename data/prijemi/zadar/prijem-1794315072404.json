@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:51:12.404Z",
-  "azurirano": "2026-11-10T13:04:05.889Z",
+  "azurirano": "2026-11-10T13:04:13.653Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center",
@@ -104,7 +104,7 @@
           "naziv": "CELLULARLINE AUTO ADAPTER USB-C TO USB-A",
           "barkod": "8018080399541",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE AUTO DRZAC DRZAC HANDY WING PRO",
@@ -284,7 +284,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
           "barkod": "8018080270420",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
@@ -704,7 +704,7 @@
           "naziv": "Prijenosna Baterija CELLULARLINE Roller 20.000 mAh 65W Crna",
           "barkod": "8018080513404",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Selfie stap CELLULARLINE Sparkle Bluetooth Tripod Crni",
