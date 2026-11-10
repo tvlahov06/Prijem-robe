@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T13:21:10.135Z",
+  "azurirano": "2026-11-10T13:21:39.349Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -764,7 +764,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC I KABEL MICRO USB 3A/15W",
           "barkod": "8018080303890",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
