@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T12:18:50.305Z",
+  "azurirano": "2026-11-10T12:19:15.107Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -476,7 +476,7 @@
           "naziv": "Kabel MANHATTAN USB 3.2 Type-A to Type-C, 1m",
           "barkod": "766623394888",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Kabel MANHATTAN USB 3.0 Type-A to Type-C, 2m",
@@ -488,19 +488,19 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-C to Type-B Cable, 2 m",
           "barkod": "766623394895",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-C, 2 m, crni",
           "barkod": "766623394857",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-C, 1 m, crni",
           "barkod": "766623394864",
           "ocekivano": 5,
-          "skenirano": 2
+          "skenirano": 5
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 3m",
@@ -512,7 +512,7 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 2m",
           "barkod": "766623356831",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 3m",
@@ -578,7 +578,7 @@
           "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 1m",
           "barkod": "766623395007",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 4
         },
         {
           "naziv": "Kabel INTELLINET 740920, Mrezni, Patch, CAT7/CAT6a , RJ45 (M), 5m, Sivi",
