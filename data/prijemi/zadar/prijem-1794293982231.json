@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T06:59:42.231Z",
-  "azurirano": "2026-11-10T08:27:07.823Z",
+  "azurirano": "2026-11-10T08:27:32.221Z",
   "dokumenti": [
     {
       "naziv": "MSI 7198-101",
@@ -161,13 +161,13 @@
           "naziv": "Aparat za kavu Philips EP5549/70 espresso",
           "barkod": "8720389032271",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP5443/70 espresso",
           "barkod": "8720389052354",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
