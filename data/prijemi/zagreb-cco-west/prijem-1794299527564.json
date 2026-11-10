@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:32:07.564Z",
-  "azurirano": "2026-11-10T08:42:31.072Z",
+  "azurirano": "2026-11-10T08:42:52.482Z",
   "dokumenti": [
     {
       "naziv": "logista_101126",
@@ -32,7 +32,7 @@
           "naziv": "Slusalice bezicne ANKER Soundcore R50i crne",
           "barkod": "0194644199432",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pleteni kabel ANKER USB-C na USB-C 240W 180 cm",
@@ -416,7 +416,7 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC MULTIPOWER MICRO 45W DUAL USB-C/USB-A",
           "barkod": "8018080444715",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE SLEEK BLUETOOTH MONO HEADSET",
@@ -602,7 +602,7 @@
           "naziv": "Zastitno staklo Cellularline Samsung Galaxy S26 Ultra",
           "barkod": "8018080511592",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Prijenosna Baterija CELLULARLINE Roller 20.000 mAh 65W Crna",
@@ -638,7 +638,7 @@
           "naziv": "Zastitna Maska CELLULARLINE, Fine, Samsung Galaxy  A57, Prozirna",
           "barkod": "8018080514555",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zastita Preklopna CELLULARLINE, Book Essential, Samsung Galaxy A57, Crna",
