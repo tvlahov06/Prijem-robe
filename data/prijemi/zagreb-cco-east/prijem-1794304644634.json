@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T09:57:24.634Z",
-  "azurirano": "2026-11-10T10:28:25.708Z",
+  "azurirano": "2026-11-10T10:28:31.020Z",
   "dokumenti": [
     {
       "naziv": "logista 10112026",
@@ -218,7 +218,7 @@
           "naziv": "CELLULARLINE GLOSS MAG GALAXY S25+",
           "barkod": "8018080491443",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL C-C 100W DISPLAY 200 CM BLACK",
@@ -272,7 +272,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL MICRO USB 120 CM",
           "barkod": "8018080131745",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
