@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "MSI iz drugih poslovnica [10-11-2026]",
   "datum": "2026-11-10",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-11-10T08:36:28.462Z",
-  "azurirano": "2026-11-10T08:53:15.985Z",
+  "azurirano": "2026-11-10T09:12:45.467Z",
   "dokumenti": [
     {
       "naziv": "MSI 185-132",
@@ -675,6 +675,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-11-10T08:50:41.108Z"
+  ]
 }
