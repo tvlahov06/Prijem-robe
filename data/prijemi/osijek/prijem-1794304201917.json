@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T09:50:01.917Z",
-  "azurirano": "2026-11-10T10:52:51.052Z",
+  "azurirano": "2026-11-10T10:52:59.186Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_(2)_261110105320",
@@ -164,7 +164,7 @@
           "naziv": "CELLULARLINE FINE GALAXY S25",
           "barkod": "8018080491467",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE FINE GALAXY S25 ULTRA",
@@ -362,7 +362,7 @@
           "naziv": "CELLULARLINE ZASTITNA MASKA SOFT GALAXY A17",
           "barkod": "8018080505508",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO GALAXY S25",
@@ -386,7 +386,7 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO",
           "barkod": "8018080483035",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Citac Pametnih Kartica TRUST Primo 26253, PC, USB-C",
@@ -890,7 +890,7 @@
           "naziv": "Zastitno staklo Cellularline, Iphone 18 Pro Max",
           "barkod": "8018080522437",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
