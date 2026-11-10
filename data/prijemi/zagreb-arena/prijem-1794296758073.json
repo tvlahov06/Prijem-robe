@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T07:45:58.073Z",
-  "azurirano": "2026-11-10T11:05:27.404Z",
+  "azurirano": "2026-11-10T11:05:43.486Z",
   "dokumenti": [
     {
       "naziv": "MSI 7224-101",
@@ -750,7 +750,7 @@
           "naziv": "HP DeskJet 4330 All-in-One (AJ4X9B) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Wi-Fi, USB, A4 - Instant Ink",
           "barkod": "0198828789877",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet M207dw, 8J9K9F",
@@ -780,7 +780,7 @@
           "naziv": "Printer HP Smart Tank 725 AiO",
           "barkod": "195908302254",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
