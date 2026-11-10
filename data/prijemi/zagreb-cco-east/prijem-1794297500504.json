@@ -4,8 +4,8 @@
   "naziv": "MSI iz drugih poslovnica [10-11-2026]",
   "datum": "2026-11-10",
   "status": "aktivan",
-  "kreirano": "2026-11-10T07:58:20.504Z",
-  "azurirano": "2026-11-10T08:24:25.186Z",
+  "kreirano": "2026-11-10T08:25:59.600Z",
+  "azurirano": "2026-11-10T08:25:59.600Z",
   "dokumenti": [
     {
       "naziv": "MSI 132-110",
@@ -872,6 +872,119 @@
         {
           "naziv": "Mis bezicni Trust Helox GXT929W bijeli",
           "barkod": "8713439253900",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 249-150",
+      "stavke": [
+        {
+          "naziv": "Apple iPhone 16e Silicone Case Fuchsia",
+          "barkod": "195950217322",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 17 Silicone Case with MagSafe - Bright Guava",
+          "barkod": "195951036458",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro Silicone Case with MagSafe - Black",
+          "barkod": "195951408231",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro TechWoven Case with MagSafe - Burgundy",
+          "barkod": "195951381527",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro TechWoven Case with MagSafe - Black",
+          "barkod": "195951381671",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple iPhone 18 Pro TechWoven Case with MagSafe - Olive",
+          "barkod": "195951381589",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple MagSafe Charger (1 m)",
+          "barkod": "195949590580",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Dual USB-C Power Adapter 35W",
+          "barkod": "195949376733",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "APPLE DODACI 30W USB-C Power Adapter",
+          "barkod": "195949376511",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Black",
+          "barkod": "195951415666",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Deep Blue",
+          "barkod": "195950639247",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
+          "barkod": "195949689673",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods 4 (USB-C)",
+          "barkod": "195949688591",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Pink",
+          "barkod": "195950086867",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE3 v2 GPS 40mm Starlight Aluminium Case with Sand Sport Band - M/L",
+          "barkod": "195951258782",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch SE3 v2 GPS 40mm Starlight Aluminium Case with Sand Sport Band - S/M",
+          "barkod": "195951258577",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 12 GPS 42mm Light Gold Aluminium Case with Sand Sport Band - M/L",
+          "barkod": "195951226064",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 12 GPS 42mm Dark Bronze Aluminium Case with Olive Sport Band - M/L",
+          "barkod": "195951226460",
           "ocekivano": 1,
           "skenirano": 0
         }
