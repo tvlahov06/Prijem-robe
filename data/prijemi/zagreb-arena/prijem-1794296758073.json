@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T07:45:58.073Z",
-  "azurirano": "2026-11-10T11:06:41.878Z",
+  "azurirano": "2026-11-10T11:21:23.076Z",
   "dokumenti": [
     {
       "naziv": "MSI 7224-101",
@@ -452,7 +452,7 @@
           "naziv": "Friteza na vruci zrak Bosch MAFD440B7",
           "barkod": "4242005586981",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BGB41POW2",
