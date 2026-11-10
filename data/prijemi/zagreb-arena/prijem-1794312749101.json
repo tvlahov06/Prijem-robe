@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T12:34:04.281Z",
+  "azurirano": "2026-11-10T12:34:10.858Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -212,7 +212,7 @@
           "naziv": "Slusalice PLOOS, Capsule, In-Ear, USB-C, Black",
           "barkod": "8018080456688",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice CELLULARLINE, MUSIC SOUND, Spark, In-Ear, Bluetooth, Black",
@@ -932,7 +932,7 @@
           "naziv": "Auto Punjac PLOOS, Dual, 2A, 2xUSB-A, Crni",
           "barkod": "8018080367281",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Auto Punjac PLOOS, 2A, 1xUSB-A, USB-C Kabel 100cm, Crni",
