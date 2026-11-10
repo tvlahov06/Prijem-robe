@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:32:07.564Z",
-  "azurirano": "2026-11-10T08:56:24.422Z",
+  "azurirano": "2026-11-10T08:56:30.490Z",
   "dokumenti": [
     {
       "naziv": "logista_101126",
@@ -194,7 +194,7 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-C to Type-B Cable, 2 m",
           "barkod": "766623394895",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN USB 3.2 Type-C to Type-C, 100W, 1m",
@@ -236,7 +236,7 @@
           "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 1m",
           "barkod": "766623395007",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 1m",
@@ -254,7 +254,7 @@
           "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 3m",
           "barkod": "766623395076",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Kabel INTELLINET 740616, Mrezni, Patch, CAT7/CAT6a , RJ45, 0.5, Sivi",
