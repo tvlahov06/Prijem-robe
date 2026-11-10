@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T20:39:41.522Z",
-  "azurirano": "2026-11-10T21:30:44.327Z",
+  "azurirano": "2026-11-10T21:30:47.236Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -836,47 +836,6 @@
           "barkod": "1200130016363",
           "ocekivano": 4,
           "skenirano": 4
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7329-101",
-      "stavke": [
-        {
-          "naziv": "Soundbar SAMSUNG Q serije",
-          "barkod": "8806099013486",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Soundbar SAMSUNG Q serije",
-          "barkod": "8806099014148",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Soundbar SAMSUNG",
-          "barkod": "8806099014704",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik SAMSUNG Music Studio 5 LS51H WiFi-Bluetooth Bezicni",
-          "barkod": "8806099004071",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnik SAMSUNG Music Studio 7 LS71H WiFi-Bluetooth Bezicni",
-          "barkod": "8806099004118",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Soundbar Hisense HS2100",
-          "barkod": "6942147497937",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
