@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T20:39:41.522Z",
-  "azurirano": "2026-11-10T21:02:40.004Z",
+  "azurirano": "2026-11-10T21:03:04.658Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -1165,7 +1165,7 @@
           "naziv": "Usisavac Philips XC3133/01",
           "barkod": "8720389029868",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP2224/10 espresso",
