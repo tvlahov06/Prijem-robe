@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T20:39:41.522Z",
-  "azurirano": "2026-11-10T21:04:30.389Z",
+  "azurirano": "2026-11-10T21:04:42.004Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -1237,13 +1237,13 @@
           "naziv": "Glacalo Tefal FV9848E0",
           "barkod": "3121040071526",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Glacalo Tefal DB1612E0 putno",
           "barkod": "3121040095867",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA231/00 Airfryer",
@@ -1285,7 +1285,7 @@
           "naziv": "Vaga kuhinjska Tefal BC50D6V0 Mozaic",
           "barkod": "3121040092453",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster preklopni Gorenje SM701SB",
@@ -1303,7 +1303,7 @@
           "naziv": "Mlinac za kavu Gorenje SMK150WI",
           "barkod": "3838782393976",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kuhalo za vodu Gorenje K15DWBK",
