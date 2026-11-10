@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:32:07.564Z",
-  "azurirano": "2026-11-10T08:44:42.297Z",
+  "azurirano": "2026-11-10T08:44:51.200Z",
   "dokumenti": [
     {
       "naziv": "logista_101126",
@@ -26,7 +26,7 @@
           "naziv": "ANKER MAG GO Prijenosna baterija 10.000, 15W, crni",
           "barkod": "0194644173388",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice bezicne ANKER Soundcore R50i crne",
@@ -50,7 +50,7 @@
           "naziv": "Kucni punjac ANKER Prime, 160W, 3xUSB-C, GaNPrime, Pametni zaslon, A2687341",
           "barkod": "0194644243890",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB-C Adapter ANKER 7-u-1",
@@ -458,7 +458,7 @@
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 10.000 BLACK",
           "barkod": "8018080481956",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
