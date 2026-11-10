@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T20:39:41.522Z",
-  "azurirano": "2026-11-10T21:25:43.423Z",
+  "azurirano": "2026-11-10T21:30:35.823Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -1299,83 +1299,6 @@
         {
           "naziv": "Tablete za ciscenje kamenca Krups XS300010",
           "barkod": "3016661181542",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7324-101",
-      "stavke": [
-        {
-          "naziv": "Laptop ACER Aspire Lite 15 NX.DLPEX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711474830203",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop HP 255R G10 CV4Q5ET, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 7735U, 16 GB RAM, 1 TB SSD, AMD",
-          "barkod": "199764603715",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
-          "barkod": "2010033161096",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Laptop HP 255 G10, 39.6cm (15.6\") Full HD, AMD Ryzen 5 1P 7530U, 16 GB RAM, 512GB SSD, AMD Radeon",
-          "barkod": "2010030201313",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Laptop ACER Extensa 15, NX.EKUEX.001, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 512 GB",
-          "barkod": "4711721054949",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop HP 250R G10 D13J3ET, 39.6cm (15.6\") Full HD, Intel Core 5-120U, 16 GB RAM, 512 GB SSD, Intel",
-          "barkod": "199896044295",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming A16 FA608UHI-TU126, 16\" AZ0 WUXGA 144 Hz, AMD Ryzen 7 260, 16 GB RAM, 512 GB",
-          "barkod": "4711636513548",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ACER Aspire Go 15 NX.JW6EX.00J, 39.6cm (15.6\") IPS Full HD, Intel Core 7 150U, 16 GB RAM, 1 TB SSD, Intel",
-          "barkod": "4711474892423",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "SAMSUNG 27\" Odyssey G5 G50F Gaming Monitor EN LS27FG502EUXEN, Fast IPS 2K/QHD, 180Hz, 1ms, AMD",
-          "barkod": "8806097817796",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "SAMSUNG 27\" Odyssey OLED G5 G50SF Gaming Monitor EN LS27FG502SUXEN, QD-OLED 2K/QHD, 180Hz, 0.03ms,",
-          "barkod": "8806097684046",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor MSI MAG 272QPF E20",
-          "barkod": "4711377380201",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "SAMSUNG 32\" Odyssey G5 G50F Gaming Monitor EN LS32FG502EUXEN, Fast IPS 2K/QHD, 180Hz, 1ms, AMD",
-          "barkod": "8806097817802",
           "ocekivano": 1,
           "skenirano": 1
         }
