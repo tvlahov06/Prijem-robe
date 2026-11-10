@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T12:43:15.832Z",
+  "azurirano": "2026-11-10T12:43:25.091Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -44,7 +44,7 @@
           "naziv": "Zastitna maska Cellularline, Sensation Mag, Iphone 18 Pro , Black",
           "barkod": "8018080522222",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Zastitna Maska CELLULARLINE, Fine, Samsung Galaxy  A57, Prozirna",
@@ -56,7 +56,7 @@
           "naziv": "Zastitna maska Cellularline, Clear Protect, Iphone 18 Pro",
           "barkod": "8018080520907",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastita Preklopna CELLULARLINE, Book Essential, Samsung Galaxy A57, Crna",
@@ -674,7 +674,7 @@
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO",
           "barkod": "8018080499609",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17",
@@ -710,7 +710,7 @@
           "naziv": "CELLULARLINE SENSATION MASKICA IPHONE 16 PRO PINK",
           "barkod": "8018080482564",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA THUNDER 10.000 BLACK",
@@ -812,7 +812,7 @@
           "naziv": "CELLULARLINE CLEAR STRONG ZASTITNA MASKA IPHONE 16",
           "barkod": "8018080482892",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE BOOK ESSENTIAL GALAXY A26 5G",
