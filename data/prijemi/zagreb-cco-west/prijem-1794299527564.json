@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:32:07.564Z",
-  "azurirano": "2026-11-10T08:54:48.741Z",
+  "azurirano": "2026-11-10T08:54:55.352Z",
   "dokumenti": [
     {
       "naziv": "logista_101126",
@@ -200,7 +200,7 @@
           "naziv": "Kabel MANHATTAN USB 3.2 Type-C to Type-C, 100W, 1m",
           "barkod": "766623394901",
           "ocekivano": 8,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Kabel MANHATTAN USB 3.2 Type-C to Type-C, 60W, 1m",
@@ -242,7 +242,7 @@
           "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 1m",
           "barkod": "766623395052",
           "ocekivano": 6,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 2m",
