@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T09:50:01.917Z",
-  "azurirano": "2026-11-10T10:43:51.719Z",
+  "azurirano": "2026-11-10T10:43:59.399Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_(2)_261110105320",
@@ -56,7 +56,7 @@
           "naziv": "Auto Punjac PLOOS, 20W, 1xUSB-A, Kabel, Crni",
           "barkod": "8018080497438",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Auto Punjac PLOOS, 2A, 1xUSB-A, USB-C Kabel 100cm, Crni",
@@ -260,7 +260,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
           "barkod": "8018080270420",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 6
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
