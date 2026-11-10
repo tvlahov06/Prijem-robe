@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T12:22:32.652Z",
+  "azurirano": "2026-11-10T12:22:43.157Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -464,7 +464,7 @@
           "naziv": "Kabel MANHATTAN USB 3.2 Type-C to Type-C, 60W, 1m",
           "barkod": "766623394918",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kabel MANHATTAN USB 3.2 Type-C to Type-C, 100W, 1m",
@@ -506,13 +506,13 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 3m",
           "barkod": "766623356848",
           "ocekivano": 6,
-          "skenirano": 3
+          "skenirano": 6
         },
         {
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Type-B Cable, 2m",
           "barkod": "766623356831",
           "ocekivano": 6,
-          "skenirano": 5
+          "skenirano": 6
         },
         {
           "naziv": "Kabel MANHATTAN Opticki audio TOSLINK, 3m",
