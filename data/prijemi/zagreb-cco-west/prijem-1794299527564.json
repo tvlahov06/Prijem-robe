@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:32:07.564Z",
-  "azurirano": "2026-11-10T08:48:15.155Z",
+  "azurirano": "2026-11-10T08:48:31.107Z",
   "dokumenti": [
     {
       "naziv": "logista_101126",
@@ -146,7 +146,7 @@
           "naziv": "Kabel MANHATTAN DisplayPort 8K@60Hz (DP), 1m",
           "barkod": "766623356817",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Kabel MANHATTAN DisplayPort 8K@60Hz (DP), 2m",
@@ -230,7 +230,7 @@
           "naziv": "Kabel MANHATTAN USB-C to DisplayPort (DP) 8K@60Hz, 3m",
           "barkod": "766623394994",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Kabel MANHATTAN Audio 3.5 mm to 3.5 mm, 1m",
