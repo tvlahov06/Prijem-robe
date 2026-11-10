@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T09:50:01.917Z",
-  "azurirano": "2026-11-10T10:35:24.835Z",
+  "azurirano": "2026-11-10T10:35:40.704Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_(2)_261110105320",
@@ -200,7 +200,7 @@
           "naziv": "CELLULARLINE KABEL C-C 100W DISPLAY 200 CM BLACK",
           "barkod": "8018080456145",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL C-C 3.1 150 CM WHITE",
@@ -848,7 +848,7 @@
           "naziv": "USB-C na USB-C Kabel CELLULARLINE GaN+ 240W 120 cm Black",
           "barkod": "8018080513725",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vanjska Sigurnosna Kamera EUFY E42 2-Pack + Home 3",
