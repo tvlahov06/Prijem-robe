@@ -5,7 +5,7 @@
   "datum": "2026-11-05",
   "status": "aktivan",
   "kreirano": "2026-11-05T21:22:09.283Z",
-  "azurirano": "2026-11-07T08:51:18.961Z",
+  "azurirano": "2026-11-10T18:12:01.184Z",
   "dokumenti": [
     {
       "naziv": "H2O",
@@ -104,83 +104,6 @@
           "barkod": "753759338152",
           "ocekivano": 10,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "BigBang",
-      "stavke": [
-        {
-          "naziv": "Aparat za espresso RUSSELL HOBBS Café Genie Auto Stone",
-          "barkod": "5038061186543",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pegla za kosu Remington S7970 Wet2Straight Pro",
-          "barkod": "5038061112856",
-          "ocekivano": 6,
-          "skenirano": 6
-        },
-        {
-          "naziv": "Remington Balder brijac za glavu i bradu",
-          "barkod": "5038061180428",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Remington Balder brijac za glavu i lice",
-          "barkod": "5038061180374",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Remington Balder Original brijac za glavu",
-          "barkod": "5038061184396",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Remington BuzCut Original bezicni sisac",
-          "barkod": "5038061181814",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Remington DURACUT rotacijski brijac",
-          "barkod": "5038061184075",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Remington ONE Dry & Style digitalno susilo za kosu",
-          "barkod": "5038061182408",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Remington ONE Power Dry & Smooth cetka za susenje i ravnanje kose",
-          "barkod": "5038061184358",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Remington SENSICUT rotacijski brijac",
-          "barkod": "5038061184013",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Remington WASHUP rotacijski brijac",
-          "barkod": "5038061184136",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Set Remington = Sisac za kosu, nos HC910",
-          "barkod": "5038061135688",
-          "ocekivano": 6,
-          "skenirano": 6
         }
       ]
     },
