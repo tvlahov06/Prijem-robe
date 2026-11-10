@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T06:59:42.231Z",
-  "azurirano": "2026-11-10T12:06:07.218Z",
+  "azurirano": "2026-11-10T12:07:13.961Z",
   "dokumenti": [
     {
       "naziv": "MSI 7198-101",
@@ -636,83 +636,6 @@
           "barkod": "5055964730369",
           "ocekivano": 6,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7279-101",
-      "stavke": [
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 730BT crne",
-          "barkod": "1200130029837",
-          "ocekivano": 7,
-          "skenirano": 7
-        },
-        {
-          "naziv": "Slusalice bluetooth bezicne JBL TUNE 780NC crne",
-          "barkod": "1200130030482",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 520 crni 20EU",
-          "barkod": "1200130021961",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mikrofon JBL PARTYBOX SMIC",
-          "barkod": "1200130010156",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "prijenosni bluetooth JBL XTREME 5 crni",
-          "barkod": "1200130033742",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 plavi",
-          "barkod": "1200130019579",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "prijenosni bluetooth JBL PARTYBOX 330 crni",
-          "barkod": "1200130037559",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
-          "barkod": "1200130026294",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 4330 All-in-One (AJ4X9B) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "0198828789877",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "HP Smart Tank 675 All-in-One (28C12A) Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
-          "barkod": "195908302667",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer HP LaserJet M140w MFP",
-          "barkod": "194850677267",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer HP Smart Tank 725 AiO",
-          "barkod": "195908302254",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
