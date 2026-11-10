@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T07:45:58.073Z",
-  "azurirano": "2026-11-10T07:45:58.073Z",
+  "azurirano": "2026-11-10T07:55:25.775Z",
   "dokumenti": [
     {
       "naziv": "MSI 7224-101",
@@ -179,7 +179,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX6600/11 For Kids",
           "barkod": "8720689058346",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare HX9813/98 DiamondClean Prestige 9900",
@@ -191,7 +191,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9212/81 DiamondClean",
           "barkod": "8720689054225",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
