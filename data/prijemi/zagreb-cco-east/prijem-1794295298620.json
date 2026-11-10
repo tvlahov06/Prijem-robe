@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T07:21:38.620Z",
-  "azurirano": "2026-11-10T07:44:15.457Z",
+  "azurirano": "2026-11-10T07:44:39.472Z",
   "dokumenti": [
     {
       "naziv": "logista_barkod_kolicina_166",
@@ -170,7 +170,7 @@
           "naziv": "Artikl 766623356848",
           "barkod": "766623356848",
           "ocekivano": 7,
-          "skenirano": 6
+          "skenirano": 7
         },
         {
           "naziv": "Artikl 766623356831",
@@ -200,7 +200,7 @@
           "naziv": "Artikl 766623394918",
           "barkod": "766623394918",
           "ocekivano": 7,
-          "skenirano": 6
+          "skenirano": 7
         },
         {
           "naziv": "Artikl 0194644291754",
@@ -242,7 +242,7 @@
           "naziv": "Artikl 766623394994",
           "barkod": "766623394994",
           "ocekivano": 7,
-          "skenirano": 5
+          "skenirano": 7
         },
         {
           "naziv": "Artikl 8018080367755",
@@ -254,7 +254,7 @@
           "naziv": "Artikl 766623395076",
           "barkod": "766623395076",
           "ocekivano": 9,
-          "skenirano": 7
+          "skenirano": 8
         },
         {
           "naziv": "Artikl 7640166323693",
@@ -512,7 +512,7 @@
           "naziv": "Artikl 766623395052",
           "barkod": "766623395052",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Artikl 8018080491498",
