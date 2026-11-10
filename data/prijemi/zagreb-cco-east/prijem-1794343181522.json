@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T20:39:41.522Z",
-  "azurirano": "2026-11-10T21:03:30.092Z",
+  "azurirano": "2026-11-10T21:03:48.265Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -1147,7 +1147,7 @@
           "naziv": "Usisavac Philips FC9744/09",
           "barkod": "8710103810483",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips FC9334/09",
