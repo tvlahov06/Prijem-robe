@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:25:59.600Z",
-  "azurirano": "2026-11-10T08:32:04.062Z",
+  "azurirano": "2026-11-10T08:32:11.352Z",
   "dokumenti": [
     {
       "naziv": "MSI 132-110",
@@ -656,7 +656,7 @@
           "naziv": "TRUST GM MIS,FELOX,WHITE,GXT109",
           "barkod": "8713439250664",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M330 Silent Plus, crni",
@@ -668,7 +668,7 @@
           "naziv": "Mis Logitech M90, zicani, sivi",
           "barkod": "5099206021860",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         }
       ]
     },
