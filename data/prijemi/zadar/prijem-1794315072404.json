@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:51:12.404Z",
-  "azurirano": "2026-11-10T13:11:28.421Z",
+  "azurirano": "2026-11-10T13:11:34.900Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center",
@@ -92,7 +92,7 @@
           "naziv": "CELLULARLINE ACL SLUSALICE BT TWS LITE WHITE",
           "barkod": "8018080488726",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE AUTO ADAPTER USB-A TO USB-C",
@@ -896,7 +896,7 @@
           "naziv": "USB-C Adapter ANKER 7-u-1",
           "barkod": "0194644271732",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Vanjska Sigurnosna Kamera EUFY E42 2-Pack + Home 3",
@@ -938,7 +938,7 @@
           "naziv": "Zastitno staklo Cellularline Samsung Galaxy S26 Ultra",
           "barkod": "8018080511592",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Zastitno staklo Cellularline, Iphone 18 Pro",
