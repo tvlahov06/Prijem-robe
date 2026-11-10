@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:32:07.564Z",
-  "azurirano": "2026-11-10T08:56:41.692Z",
+  "azurirano": "2026-11-10T08:56:54.656Z",
   "dokumenti": [
     {
       "naziv": "logista_101126",
@@ -482,7 +482,7 @@
           "naziv": "CELLULARLINE CLEAR STRONG ZASTITNA MASKA IPHONE 16",
           "barkod": "8018080482892",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE PAMETNI SAT ION PRO SQUARE",
@@ -650,7 +650,7 @@
           "naziv": "Zastitna maska Cellularline, Clear Protect, Iphone 18 Pro",
           "barkod": "8018080520907",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "Zastitno staklo Cellularline, Iphone 18 Pro Max",
