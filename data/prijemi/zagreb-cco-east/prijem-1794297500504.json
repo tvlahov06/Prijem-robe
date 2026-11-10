@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "zavrsen",
   "kreirano": "2026-11-10T08:36:28.462Z",
-  "azurirano": "2026-11-10T08:53:06.612Z",
+  "azurirano": "2026-11-10T08:53:09.769Z",
   "dokumenti": [
     {
       "naziv": "MSI 185-132",
@@ -436,41 +436,6 @@
           "barkod": "5099206021860",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 221-151",
-      "stavke": [
-        {
-          "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/D",
-          "barkod": "4548736157118",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/P",
-          "barkod": "4548736164314",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/P",
-          "barkod": "4548736164314",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke 7 WH-CH730N/L",
-          "barkod": "4548736181694",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke 7 WH-CH730N/L",
-          "barkod": "4548736181694",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     },
