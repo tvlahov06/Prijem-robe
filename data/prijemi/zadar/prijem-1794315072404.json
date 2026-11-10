@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:51:12.404Z",
-  "azurirano": "2026-11-10T13:02:29.776Z",
+  "azurirano": "2026-11-10T13:02:33.959Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center",
@@ -206,7 +206,7 @@
           "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
           "barkod": "8018080373633",
           "ocekivano": 17,
-          "skenirano": 16
+          "skenirano": 17
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE C TO C 300 CM",
@@ -278,7 +278,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL MICRO USB 120 CM",
           "barkod": "8018080131745",
           "ocekivano": 8,
-          "skenirano": 5
+          "skenirano": 6
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
