@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T20:39:41.522Z",
-  "azurirano": "2026-11-10T21:04:45.908Z",
+  "azurirano": "2026-11-10T21:04:54.486Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -1279,7 +1279,7 @@
           "naziv": "Vaga kuhinjska Tefal BC50D4V0 Cupcakes",
           "barkod": "3121040092439",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Vaga kuhinjska Tefal BC50D6V0 Mozaic",
@@ -1291,13 +1291,13 @@
           "naziv": "Toster preklopni Gorenje SM701SB",
           "barkod": "3838782767197",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Dehidrator hrane Gorenje FDK24DW",
           "barkod": "3838942927034",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mlinac za kavu Gorenje SMK150WI",
@@ -1309,7 +1309,7 @@
           "naziv": "Kuhalo za vodu Gorenje K15DWBK",
           "barkod": "3838782483240",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Ledomat Gorenje IMD 1200 W",
