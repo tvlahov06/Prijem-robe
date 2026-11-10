@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T07:45:58.073Z",
-  "azurirano": "2026-11-10T11:38:21.979Z",
+  "azurirano": "2026-11-10T11:39:30.178Z",
   "dokumenti": [
     {
       "naziv": "MSI 7224-101",
@@ -458,13 +458,13 @@
           "naziv": "Usisavac Bosch BGB41POW2",
           "barkod": "4242005601127",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BGC05AAA2",
           "barkod": "4242005076321",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Miele Guard L1 Red Pulse",
