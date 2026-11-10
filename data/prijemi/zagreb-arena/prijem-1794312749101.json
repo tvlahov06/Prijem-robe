@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T12:45:29.113Z",
+  "azurirano": "2026-11-10T12:46:36.427Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -80,7 +80,7 @@
           "naziv": "USB-C na USB-C Kabel CELLULARLINE GaN+ 240W 120 cm Black",
           "barkod": "8018080513725",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "USB-C Adapter ANKER 7-u-1",
@@ -230,19 +230,19 @@
           "naziv": "Slusalice CELLULARLINE, AUDIO MUSIC SOUND, Flow, Bluetooth, In-Ear, TWS, Red",
           "barkod": "8018080467912",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice CELLULARLINE, AUDIO MUSIC SOUND, Bluetooth, In-Ear, TWS, Swag, Black",
           "barkod": "8018080454776",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Slusalice bezicne ANKER Soundcore R50i crne",
           "barkod": "0194644199432",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Selfie stap CELLULARLINE Sparkle Bluetooth Tripod Crni",
@@ -332,7 +332,7 @@
           "naziv": "Mikrofon Bezicni CELLULARLINE Talk Pro",
           "barkod": "8018080494383",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Maskica Cellularline Samsung Galaxy S26+, sensation, crna",
@@ -638,7 +638,7 @@
           "naziv": "CELULLARLINE AUTO ADAPTER TYPE-C 20W",
           "barkod": "8018080468063",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO MAX",
@@ -650,7 +650,7 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO",
           "barkod": "8018080483035",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO GALAXY S25 FE",
