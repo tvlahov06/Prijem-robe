@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T09:13:19.383Z",
-  "azurirano": "2026-11-10T09:14:00.537Z",
+  "azurirano": "2026-11-10T09:14:17.665Z",
   "dokumenti": [
     {
       "naziv": "MSI 185-132",
@@ -718,13 +718,13 @@
           "naziv": "Tablet Apple 11\" iPad (A16) Cellular 128GB - Blue",
           "barkod": "195950104752",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-XB100/D",
           "barkod": "4548736146150",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-XB100/H",
