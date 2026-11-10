@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T07:45:58.073Z",
-  "azurirano": "2026-11-10T11:46:18.906Z",
+  "azurirano": "2026-11-10T11:53:07.268Z",
   "dokumenti": [
     {
       "naziv": "MSI 7224-101",
@@ -32,7 +32,7 @@
           "naziv": "Ovlazivac zraka Philips HU4210/03",
           "barkod": "8720389071904",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Prociscivac zraka BOSCH Air 500",
