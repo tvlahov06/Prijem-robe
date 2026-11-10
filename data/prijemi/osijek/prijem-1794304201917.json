@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T09:50:01.917Z",
-  "azurirano": "2026-11-10T10:58:49.465Z",
+  "azurirano": "2026-11-10T10:58:57.521Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_(2)_261110105320",
@@ -644,7 +644,7 @@
           "naziv": "PC NAVLAKA ZA LAPTOP 13.3\",PRIMO, BLACK",
           "barkod": "8713439212518",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "PC WEBCAM FULL HD,TANOR",
@@ -746,7 +746,7 @@
           "naziv": "Torba za laptop Trust Bologna16\" crna",
           "barkod": "8713439244472",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST GM GAMEPAD WLESS MUTA GXT542",
