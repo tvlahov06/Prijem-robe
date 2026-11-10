@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T09:50:01.917Z",
-  "azurirano": "2026-11-10T10:58:57.521Z",
+  "azurirano": "2026-11-10T11:02:10.867Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_(2)_261110105320",
@@ -530,13 +530,13 @@
           "naziv": "Kabel MANHATTAN USB 3.0 Type-A to Type-C, 2m",
           "barkod": "766623394871",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN USB 3.2 Type-A to Type-C, 1m",
           "barkod": "766623394888",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 5
         },
         {
           "naziv": "Kabel MANHATTAN USB 3.2 Type-C to Type-C, 100W, 1m",
