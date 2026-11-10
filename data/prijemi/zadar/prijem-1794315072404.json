@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:51:12.404Z",
-  "azurirano": "2026-11-10T12:57:04.790Z",
+  "azurirano": "2026-11-10T12:57:09.816Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center",
@@ -410,7 +410,7 @@
           "naziv": "Citac Pametnih Kartica TRUST Primo 26253, PC, USB-C",
           "barkod": "8713439262537",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Drzac Za Mobitel PLOOS, Window/Dash, Crni",
@@ -836,7 +836,7 @@
           "naziv": "TRUST PC MIS WLESS SILENT CLICK YVI+ RED",
           "barkod": "8713439245509",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "TRUST PC MIS WLESS SILENT MULTI-DEVICE OZAA+ WHITE",
