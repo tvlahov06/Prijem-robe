@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T13:36:25.084Z",
+  "azurirano": "2026-11-10T13:36:36.338Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -398,13 +398,13 @@
           "naziv": "Kucni Punjac PLOOS, Dual, 2A, 2xUSB-A, Crni",
           "barkod": "8018080367809",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kucni Punjac PLOOS, 20W, 1xUSB-C, Kabel USB-C na MFI, Crni",
           "barkod": "8018080399503",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kucni Punjac PLOOS, 1A, 1xUSB-A, Crni",
@@ -452,7 +452,7 @@
           "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
           "barkod": "8018080371547",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN USB-C to DisplayPort (DP) 8K@60Hz, 3m",
