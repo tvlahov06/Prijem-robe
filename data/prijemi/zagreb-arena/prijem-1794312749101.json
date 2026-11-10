@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T13:51:48.160Z",
+  "azurirano": "2026-11-10T13:51:58.390Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -536,13 +536,13 @@
           "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 3m",
           "barkod": "766623394970",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 2m",
           "barkod": "766623394963",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 4K@60Hz Certified Premium High Speed with Ethernet, 2m",
