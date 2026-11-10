@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T07:45:58.073Z",
-  "azurirano": "2026-11-10T11:53:07.268Z",
+  "azurirano": "2026-11-10T11:53:15.327Z",
   "dokumenti": [
     {
       "naziv": "MSI 7224-101",
@@ -50,7 +50,7 @@
           "naziv": "Stupna grijalica ARDES Atmo",
           "barkod": "8004032115895",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Grijalica konvektorska Bosch HC 4000-25, 2500 W",
