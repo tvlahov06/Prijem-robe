@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T12:57:11.022Z",
+  "azurirano": "2026-11-10T13:04:15.813Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -902,7 +902,7 @@
           "naziv": "Bluetooth zvucnik Soundcore Boom 2 s RGB osvjetljenjem",
           "barkod": "194644255510",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Bezicne slusalice ANKER Soundcore Space 2, crne",
@@ -974,7 +974,7 @@
           "naziv": "ANKER kucni punjac 33W, 1xUSB-C/1xUSB-A, bijeli",
           "barkod": "0194644115524",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         }
       ]
     }
