@@ -4,8 +4,8 @@
   "naziv": "MSI iz drugih poslovnica [10-11-2026]",
   "datum": "2026-11-10",
   "status": "aktivan",
-  "kreirano": "2026-11-10T08:36:28.462Z",
-  "azurirano": "2026-11-10T09:12:45.467Z",
+  "kreirano": "2026-11-10T09:13:19.383Z",
+  "azurirano": "2026-11-10T09:13:19.383Z",
   "dokumenti": [
     {
       "naziv": "MSI 185-132",
@@ -672,6 +672,77 @@
           "barkod": "195950217285",
           "ocekivano": 1,
           "skenirano": 1
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 133-110",
+      "stavke": [
+        {
+          "naziv": "Zvucnik prijenosni Bluetooth Sony ULT FIELD 3 7 SRS-ULT30/W",
+          "barkod": "4548736164581",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni Bluetooth Sony ULT FIELD 3 7 SRS-ULT30/B",
+          "barkod": "4548736164574",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/P",
+          "barkod": "4548736164314",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-ULT900N/B",
+          "barkod": "4548736156432",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-ULT900N/H",
+          "barkod": "4548736158382",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirPods Pro2 with MagSafe Case (USB-C)",
+          "barkod": "195949052637",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Apple 11\" iPad (A16) Cellular 128GB - Blue",
+          "barkod": "195950104752",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-XB100/D",
+          "barkod": "4548736146150",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-XB100/H",
+          "barkod": "4548736146136",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 15 128GB Black",
+          "barkod": "195949036019",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro Max 256GB Deep Blue",
+          "barkod": "195950639247",
+          "ocekivano": 1,
+          "skenirano": 0
         }
       ]
     }
