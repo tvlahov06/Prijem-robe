@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T12:36:37.932Z",
+  "azurirano": "2026-11-10T12:40:36.567Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -644,7 +644,7 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO MAX",
           "barkod": "8018080483042",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO",
@@ -656,7 +656,7 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO GALAXY S25 FE",
           "barkod": "8018080507236",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO GALAXY S25",
@@ -692,7 +692,7 @@
           "naziv": "CELLULARLINE ZAS.STAKLO GALAXY S24+",
           "barkod": "8018080475290",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE SOFT GALAXY A26",
@@ -746,7 +746,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
           "barkod": "8018080270420",
           "ocekivano": 12,
-          "skenirano": 9
+          "skenirano": 11
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL MICRO USB 120 CM",
@@ -806,7 +806,7 @@
           "naziv": "CELLULARLINE FINE GALAXY S25+",
           "barkod": "8018080491481",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE CLEAR STRONG ZASTITNA MASKA IPHONE 16",
