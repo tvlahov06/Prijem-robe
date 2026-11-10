@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:32:07.564Z",
-  "azurirano": "2026-11-10T08:59:54.142Z",
+  "azurirano": "2026-11-10T09:00:00.957Z",
   "dokumenti": [
     {
       "naziv": "logista_101126",
@@ -290,7 +290,7 @@
           "naziv": "CELLULARLINE KABEL MICRO USB 200CM",
           "barkod": "8018080203947",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE DRZAC HANDY WING",
@@ -332,7 +332,7 @@
           "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
           "barkod": "8018080295751",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ACL MUSIC BT RECEIVER BLACK",
