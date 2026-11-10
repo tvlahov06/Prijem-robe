@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:12:29.101Z",
-  "azurirano": "2026-11-10T12:43:25.091Z",
+  "azurirano": "2026-11-10T12:43:39.223Z",
   "dokumenti": [
     {
       "naziv": "Logista brojanje",
@@ -368,7 +368,7 @@
           "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, book essential",
           "barkod": "8018080511042",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Maskica Cellularline Samsung Galaxy A27, Book 3, crna",
@@ -662,7 +662,7 @@
           "naziv": "CELLULARLINE ZASTITNO STAKLO GALAXY S25",
           "barkod": "8018080491504",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA SOFT GALAXY A17",
@@ -704,7 +704,7 @@
           "naziv": "CELLULARLINE SLEEK BLUETOOTH MONO HEADSET",
           "barkod": "8018080453199",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE SENSATION MASKICA IPHONE 16 PRO PINK",
@@ -746,7 +746,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
           "barkod": "8018080270420",
           "ocekivano": 12,
-          "skenirano": 11
+          "skenirano": 12
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL MICRO USB 120 CM",
@@ -758,13 +758,13 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 25W",
           "barkod": "8018080367182",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC I KABEL MICRO USB 3A/15W",
           "barkod": "8018080303890",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
@@ -866,7 +866,7 @@
           "naziv": "CELLULARLINE ACL SLUSALICE BT TWS CORE BLACK",
           "barkod": "8018080490576",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE ACL MUSIC BT RECEIVER BLACK",
@@ -950,7 +950,7 @@
           "naziv": "Auto Punjac CELLULARLINE GaN+ 67W 2x USB-C/USB-A + USB-C Kabel",
           "barkod": "8018080513435",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Auto punjac Anker Nano 75 W",
