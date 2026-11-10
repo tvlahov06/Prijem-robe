@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:36:28.462Z",
-  "azurirano": "2026-11-10T08:40:39.968Z",
+  "azurirano": "2026-11-10T08:41:01.956Z",
   "dokumenti": [
     {
       "naziv": "MSI 132-110",
@@ -155,7 +155,7 @@
           "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Blue",
           "barkod": "195950086409",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Pink",
@@ -568,7 +568,7 @@
           "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Pink",
           "barkod": "195950086867",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Watch SE3 v2 GPS 40mm Starlight Aluminium Case with Sand Sport Band - S/M",
