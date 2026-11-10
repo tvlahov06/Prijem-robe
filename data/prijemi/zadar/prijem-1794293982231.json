@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T06:59:42.231Z",
-  "azurirano": "2026-11-10T07:40:12.084Z",
+  "azurirano": "2026-11-10T07:40:22.183Z",
   "dokumenti": [
     {
       "naziv": "MSI 7198-101",
@@ -901,7 +901,7 @@
           "naziv": "Printer HP LaserJet M140w MFP",
           "barkod": "194850677267",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP Smart Tank 725 AiO",
