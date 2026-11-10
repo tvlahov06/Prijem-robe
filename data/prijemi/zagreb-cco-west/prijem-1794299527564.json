@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:32:07.564Z",
-  "azurirano": "2026-11-10T08:46:15.907Z",
+  "azurirano": "2026-11-10T08:46:19.037Z",
   "dokumenti": [
     {
       "naziv": "logista_101126",
@@ -86,7 +86,7 @@
           "naziv": "Bezicna stanica za punjenje Anker MagGo 3u1, 25 W",
           "barkod": "194644268039",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Auto punjac Anker Nano 75 W",
