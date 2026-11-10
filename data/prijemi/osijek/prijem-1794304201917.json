@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T09:50:01.917Z",
-  "azurirano": "2026-11-10T10:35:40.704Z",
+  "azurirano": "2026-11-10T10:36:59.911Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_(2)_261110105320",
@@ -170,19 +170,19 @@
           "naziv": "CELLULARLINE FINE GALAXY S25 ULTRA",
           "barkod": "8018080491498",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE FINE GALAXY S25+",
           "barkod": "8018080491481",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE FINE MASKICA IPHONE 16 PRO MAX",
           "barkod": "8018080482472",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE FM TRANSMITTER",
@@ -338,7 +338,7 @@
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO",
           "barkod": "8018080499609",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ZASTITNA MASKA CLEAR STRONG IPHONE 17 PRO MAX",
