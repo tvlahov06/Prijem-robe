@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T08:32:07.564Z",
-  "azurirano": "2026-11-10T08:49:19.493Z",
+  "azurirano": "2026-11-10T08:49:26.637Z",
   "dokumenti": [
     {
       "naziv": "logista_101126",
@@ -740,7 +740,7 @@
           "naziv": "TRUST GM GAMEPAD WLESS MUTA GXT542",
           "barkod": "8713439247909",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST PC MIS WLESS PRIMO BLACK",
@@ -776,13 +776,13 @@
           "naziv": "RUNO DRZAC ZA MOBITEL",
           "barkod": "8713439249842",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST GM MIS RGB,FELOX,BLACK,GXT109",
           "barkod": "8713439250367",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Trust Helox GXT928 crni",
