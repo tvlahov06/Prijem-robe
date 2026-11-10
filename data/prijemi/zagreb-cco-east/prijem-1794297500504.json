@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "MSI iz drugih poslovnica [10-11-2026]",
   "datum": "2026-11-10",
-  "status": "zavrsen",
+  "status": "aktivan",
   "kreirano": "2026-11-10T08:36:28.462Z",
-  "azurirano": "2026-11-10T08:48:33.966Z",
+  "azurirano": "2026-11-10T08:48:57.429Z",
   "dokumenti": [
     {
       "naziv": "MSI 132-110",
@@ -544,7 +544,7 @@
           "naziv": "Apple AirPods Pro2 with MagSafe Case (USB-C)",
           "barkod": "195949052637",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple AirPods 4 (USB-C) with Active Noise Cancellation",
@@ -1025,6 +1025,5 @@
         }
       ]
     }
-  ],
-  "zavrseno": "2026-11-10T08:48:33.966Z"
+  ]
 }
