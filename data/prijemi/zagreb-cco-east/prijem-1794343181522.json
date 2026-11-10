@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T20:39:41.522Z",
-  "azurirano": "2026-11-10T21:10:40.221Z",
+  "azurirano": "2026-11-10T21:10:44.364Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -608,7 +608,7 @@
           "naziv": "Gimbal DJI RS 4 Mini",
           "barkod": "6941565995230",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "DJI Mini 5 Pro",
