@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-west",
   "naziv": "lođista kurve",
   "datum": "2026-11-10",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-11-10T08:32:07.564Z",
-  "azurirano": "2026-11-10T09:08:49.235Z",
+  "azurirano": "2026-11-10T09:38:27.013Z",
   "dokumenti": [
     {
       "naziv": "logista_101126",
@@ -858,5 +858,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-11-10T09:38:27.013Z"
 }
