@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T07:58:20.504Z",
-  "azurirano": "2026-11-10T08:00:02.402Z",
+  "azurirano": "2026-11-10T08:12:34.326Z",
   "dokumenti": [
     {
       "naziv": "MSI 132-110",
@@ -292,7 +292,7 @@
           "naziv": "Apple STARTER PACK - 60W USB-C Charging Cable+ 20W Power Adapter",
           "barkod": "5999862874667",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Apple Watch SE3 v2 GPS 44mm Midnight Aluminium Case with Navy Blue Sport Band - M/L",
@@ -457,31 +457,31 @@
           "naziv": "Slusalice HyperX Cloud Stinger 2 Core, bijele",
           "barkod": "196786000362",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Canon tinta",
           "barkod": "4549292145014",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TRUST PC MIS WLESS PRIMO BLUE",
           "barkod": "8713439247961",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TRUST PC MIS WLESS SILENT MULTI-DEVICE OZAA+ WHITE",
           "barkod": "8713439249354",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TRUST GM MIS,FELOX,BLUE,GXT109",
           "barkod": "8713439250671",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
