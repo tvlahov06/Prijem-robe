@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "zavrsen",
   "kreirano": "2026-11-10T08:36:28.462Z",
-  "azurirano": "2026-11-10T08:53:03.585Z",
+  "azurirano": "2026-11-10T08:53:06.612Z",
   "dokumenti": [
     {
       "naziv": "MSI 185-132",
@@ -389,35 +389,6 @@
           "barkod": "195951408354",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 217-170",
-      "stavke": [
-        {
-          "naziv": "Tinta CANON",
-          "barkod": "4549292192643",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLUE",
-          "barkod": "8713439250411",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "TRUST PC MIS WLESS,SILENT CLICK,MYDO,BLACK",
-          "barkod": "8713439250848",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice HyperX Cloud Flight 2 PS White",
-          "barkod": "198990148328",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     },
