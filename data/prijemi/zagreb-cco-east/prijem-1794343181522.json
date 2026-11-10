@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T20:39:41.522Z",
-  "azurirano": "2026-11-10T21:00:32.943Z",
+  "azurirano": "2026-11-10T21:01:03.309Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -956,7 +956,7 @@
           "naziv": "Ink Cartidge",
           "barkod": "4549292145038",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta Canon CL-576 color",
@@ -1022,13 +1022,13 @@
           "naziv": "Mis Logitech M196, crni",
           "barkod": "5099206128330",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mis Logitech M330 Silent Plus, crni",
           "barkod": "5099206066670",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis Logitech M100, zicani, bijeli",
@@ -1040,7 +1040,7 @@
           "naziv": "Mis Logitech M100, zicani, crni",
           "barkod": "5099206104242",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech M190, crni",
@@ -1052,13 +1052,13 @@
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, plavi",
           "barkod": "5099206089211",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mis Logitech G502 X PLUS, LIGHTSPEED, LIGHTSYNC RGB, bijeli",
           "barkod": "5099206096356",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Logitech H390, zicane, USB, bijele",
@@ -1076,31 +1076,31 @@
           "naziv": "Mis LOGITECH G502 X, zicani, bijeli",
           "barkod": "5099206096318",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, ljubicasti",
           "barkod": "5099206134799",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
           "barkod": "5099206089235",
           "ocekivano": 5,
-          "skenirano": 3
+          "skenirano": 5
         },
         {
           "naziv": "Mis Logitech M171, plavi",
           "barkod": "5099206062863",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "prezenter Logitech R500s",
           "barkod": "5099206090828",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Podloga za mis LOGITECH G840 XL, crna",
@@ -1118,7 +1118,7 @@
           "naziv": "Bezicni mis Logitech M850 L",
           "barkod": "5099206134683",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/B",
