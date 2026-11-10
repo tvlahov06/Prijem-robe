@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:51:12.404Z",
-  "azurirano": "2026-11-10T12:57:56.204Z",
+  "azurirano": "2026-11-10T12:58:04.607Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center",
@@ -212,7 +212,7 @@
           "naziv": "CELLULARLINE KABEL TYPE C TO C 300 CM",
           "barkod": "8018080373664",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE-C 200CM",
@@ -302,7 +302,7 @@
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 20.000 BLACK",
           "barkod": "8018080484612",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 20.000 BLUE",
