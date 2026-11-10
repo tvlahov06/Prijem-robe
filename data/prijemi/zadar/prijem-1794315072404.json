@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T12:51:12.404Z",
-  "azurirano": "2026-11-10T12:55:57.549Z",
+  "azurirano": "2026-11-10T12:56:02.507Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center",
@@ -422,7 +422,7 @@
           "naziv": "GM GAMEPAD MOBILE,WLESS,MYLOX,GXT735",
           "barkod": "8713439254853",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "GM POSTOLJE ZA HLADENJE PR.RACUNALA DO 17.3'' YOZU GXT278",
@@ -788,7 +788,7 @@
           "naziv": "TRUST GM MIS I PODLOGA,WLESS,FELOX,BLACK,GXT112",
           "barkod": "8713439250701",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST GM MIS RGB,FELOX,BLACK,GXT109",
