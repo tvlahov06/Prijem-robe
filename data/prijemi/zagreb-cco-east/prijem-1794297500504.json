@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "zavrsen",
   "kreirano": "2026-11-10T08:36:28.462Z",
-  "azurirano": "2026-11-10T08:52:41.260Z",
+  "azurirano": "2026-11-10T08:52:54.343Z",
   "dokumenti": [
     {
       "naziv": "MSI 185-132",
@@ -295,47 +295,6 @@
           "barkod": "195951408354",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 214-170",
-      "stavke": [
-        {
-          "naziv": "Slusalice bluetooth JBL LIVE 670 NC bijele WHT",
-          "barkod": "1200130004742",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
-          "barkod": "1200130029967",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice bezicne JBL VIBE FLEX 2 True Wireless bijele",
-          "barkod": "1200130015229",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "prijenosni bluetooth JBL GO 5 maskirni",
-          "barkod": "1200130034336",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL GO 5 plavi",
-          "barkod": "1200130034299",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CLIP 5 crni",
-          "barkod": "1200130010170",
-          "ocekivano": 2,
-          "skenirano": 0
         }
       ]
     },
