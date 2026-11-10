@@ -3,21 +3,10 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "MSI iz drugih poslovnica [10-11-2026]",
   "datum": "2026-11-10",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-11-10T08:36:28.462Z",
-  "azurirano": "2026-11-10T08:49:28.151Z",
+  "azurirano": "2026-11-10T08:52:34.624Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 132-110",
-      "stavke": [
-        {
-          "naziv": "H848 Slusalice Redragon IRE H848 WIRELESS - BLACK",
-          "barkod": "6950376715357",
-          "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
     {
       "naziv": "MSI 133-110",
       "stavke": [
@@ -1025,5 +1014,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-11-10T08:50:41.108Z"
 }
