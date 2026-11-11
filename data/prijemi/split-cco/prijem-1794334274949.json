@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T18:11:14.949Z",
-  "azurirano": "2026-11-11T12:23:54.826Z",
+  "azurirano": "2026-11-11T12:28:15.553Z",
   "dokumenti": [
     {
       "naziv": "MSI 7267-101",
@@ -753,59 +753,6 @@
           "naziv": "Mop elektricni Philips XV3101/11",
           "barkod": "8720389058707",
           "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7314-101",
-      "stavke": [
-        {
-          "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
-          "barkod": "6942103101359",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Apple EarPods (USB-C)",
-          "barkod": "195949776274",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Samsung Galaxy Buds4 Pro slusalice crne UC",
-          "barkod": "8806097984795",
-          "ocekivano": 7,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Apple EarPods (Lightning Connector)",
-          "barkod": "195949506123",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "H-200 TV nosac BOF TVM H-200",
-          "barkod": "2010030072616",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Projektor Acer AOpen QF23s MR.JXC11.002, FHD LCD, 250 ANSI",
-          "barkod": "4711474140623",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Samsung Galaxy Buds4 Pro slusalice bijele",
-          "barkod": "8806097985310",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Apple AirPods Pro3 with MagSafe Case (USB-C)",
-          "barkod": "195950543742",
-          "ocekivano": 3,
           "skenirano": 0
         }
       ]
