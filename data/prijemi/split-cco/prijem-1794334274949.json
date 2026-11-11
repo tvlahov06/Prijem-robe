@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T18:11:14.949Z",
-  "azurirano": "2026-11-11T12:28:46.139Z",
+  "azurirano": "2026-11-11T12:30:24.373Z",
   "dokumenti": [
     {
       "naziv": "MSI 7267-101",
@@ -403,101 +403,6 @@
           "barkod": "194850664199",
           "ocekivano": 2,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7300-101",
-      "stavke": [
-        {
-          "naziv": "Slusalice HyperX Cloud III Red Black",
-          "barkod": "197029008237",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
-          "barkod": "198415435569",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Gaming mis LOGITECH PRO X2 SUPERSTRIKE",
-          "barkod": "5099206136199",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Laptop HP VICTUS Gaming 15-fa2001nmx, 39.6 cm (15.6\") IPS Full HD 144Hz, Intel Core i5-13420H, 16 GB RAM, 512",
-          "barkod": "821844546567",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL BOOMBOX 4 crni BLKEP",
-          "barkod": "1200130024221",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crni",
-          "barkod": "1200130019555",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 Tomorrowland",
-          "barkod": "1200130028274",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Televizor HISENSE 32A4S 2026, 81,3 cm (32\"), DLED, HD, Smart TV, VIDAA OS",
-          "barkod": "6942351429205",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Televizor LG OLED55C61LA 2026, 139,7 cm (55\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
-          "barkod": "8806096685792",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "TV LG 43NU850B3LA 109.2cm (43\"), LED, 4K UHD Smart AEU TV, webOS",
-          "barkod": "8806096714867",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TV LG 55NU850B3LA 139.7cm (55\"), LED, 4K UHD Smart AEU TV, webOS",
-          "barkod": "8806096715710",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor SAMSUNG UE55M80HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
-          "barkod": "8806099014230",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Televizor SAMSUNG UE55M70HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
-          "barkod": "8806097977674",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "TCL QLED TV 43\" 43P7L, Google TV",
-          "barkod": "5901292530266",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
-          "barkod": "5901292530242",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
