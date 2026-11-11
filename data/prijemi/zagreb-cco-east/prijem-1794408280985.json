@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T14:44:40.985Z",
-  "azurirano": "2026-11-11T15:32:27.874Z",
+  "azurirano": "2026-11-11T15:32:36.836Z",
   "dokumenti": [
     {
       "naziv": "MSI 7332-101",
@@ -738,17 +738,6 @@
           "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5021F0",
           "barkod": "3121040095003",
           "ocekivano": 5,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7367-101",
-      "stavke": [
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 Tomorrowland",
-          "barkod": "1200130028274",
-          "ocekivano": 10,
           "skenirano": 0
         }
       ]
