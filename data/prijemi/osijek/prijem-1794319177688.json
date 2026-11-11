@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T13:59:37.688Z",
-  "azurirano": "2026-11-11T10:04:44.023Z",
+  "azurirano": "2026-11-11T10:04:57.058Z",
   "dokumenti": [
     {
       "naziv": "MSI 7256-101",
@@ -786,7 +786,7 @@
           "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA2786, 39.6cm FB0 (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
           "barkod": "4711636470988",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
@@ -810,7 +810,7 @@
           "naziv": "Laptop ACER Extensa 15, NX.EKUEX.001, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 512 GB",
           "barkod": "4711721054949",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO LOQ, 83TN0069SC, 38.9cm (15.3\") IPS WUXGA, AMD Ryzen 7 250, 16 GB RAM, 512 GB SSD,",
