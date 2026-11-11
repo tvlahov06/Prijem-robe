@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T18:13:52.755Z",
-  "azurirano": "2026-11-11T06:53:54.587Z",
+  "azurirano": "2026-11-11T06:54:05.295Z",
   "dokumenti": [
     {
       "naziv": "Garmin",
@@ -509,7 +509,7 @@
           "naziv": "CELLULARLINE KABEL TYPE-C 200CM",
           "barkod": "8018080295737",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC I KABEL USB-C 3A/15W",
@@ -557,13 +557,13 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL MICRO USB 120 CM",
           "barkod": "8018080131745",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
           "barkod": "8018080270420",
           "ocekivano": 15,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
