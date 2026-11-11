@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T07:00:57.316Z",
-  "azurirano": "2026-11-11T16:10:08.884Z",
+  "azurirano": "2026-11-11T16:10:13.336Z",
   "dokumenti": [
     {
       "naziv": "MSI 7253-101",
@@ -529,7 +529,7 @@
           "naziv": "Parna postaja Gorenje SGD3000BKV",
           "barkod": "3838782860737",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Tefal FV9848E0",
