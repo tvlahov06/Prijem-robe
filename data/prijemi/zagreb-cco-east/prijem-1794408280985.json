@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T14:44:40.985Z",
-  "azurirano": "2026-11-11T17:12:44.925Z",
+  "azurirano": "2026-11-11T17:12:56.765Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -338,7 +338,7 @@
           "naziv": "Silikonska maska za Samsung Galaxy Fold8 Ultra prozirna",
           "barkod": "8806099229474",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tablet Samsung Galaxy Tab S12 Ultra 5G 12GB/256GB sivi",
@@ -494,7 +494,7 @@
           "naziv": "Pametni sat Huawei Watch Fit 5 ljubicasti (Niki-B19F)",
           "barkod": "6942103189708",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB bez",
@@ -632,7 +632,7 @@
           "naziv": "Insta360 Motorcycle Kit",
           "barkod": "6970357855841",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametni sat Garmin Fenix 9 PRO inReach 43 mm AMOLED Titanium Fog gray/Dark sandstone",
