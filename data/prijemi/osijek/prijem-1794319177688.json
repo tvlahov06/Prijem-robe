@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T13:59:37.688Z",
-  "azurirano": "2026-11-11T14:05:34.806Z",
+  "azurirano": "2026-11-11T16:55:57.219Z",
   "dokumenti": [
     {
       "naziv": "MSI 7256-101",
@@ -42,31 +42,31 @@
           "naziv": "Laptop HP 200 G2a, DZ5Q4ET, 40.6cm (16\") WUXGA, AMD Ryzen 5 220, 16 GB RAM, 512 GB SSD, AMD Radeon 740M",
           "barkod": "826581892304",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Laptop HP 200 G2i, DZ5J1ET, 40.6cm (16\") WUXGA, Intel Core 5 120U, 16 GB RAM, 512 GB SSD, Intel Graphics,",
           "barkod": "826581890737",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Laptop HP OmniBook 3 16-by0029nmx, 40.6cm (16\") IPS 2K, AMD Ryzen 5 40, 16 GB RAM, 512 GB SSD, AMD",
           "barkod": "2010033340491",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Laptop LENOVO ThinkBook 16 G8, 21SK00FQSC, 40.6cm (16\") IPS WUXGA, Intel Core Ultra 5 135H, 16 GB RAM,",
           "barkod": "199274052522",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ01CUSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 1 TB",
           "barkod": "199274826765",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XM01ACSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 512",
@@ -78,19 +78,19 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ01CYSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 3 30, 16 GB RAM, 512 GB",
           "barkod": "199274826796",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Laptop LENOVO V15 G5, 83GW007USC, 39.6cm (15.6\") IPS Full HD, Intel Core i7-13620H, 16 GB RAM, 512 GB",
           "barkod": "0199272000068",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Monitor 27\" ACER Predator X27QX, UM.GXXEE.305, QD-OLED 2K/QHD, 240Hz, 0.03ms, AMD FreeSync",
           "barkod": "4711474804747",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Monitor 23.8\" LENOVO ThinkVision S24-4e, 64B5KAT1EU, IPS Full HD, 100Hz, 4ms, VGA, HDMI",
@@ -102,13 +102,13 @@
           "naziv": "Monitor 27\" LENOVO ThinkVisionS27-4e, 64BEKAT1EU, IPS Full HD, 100Hz, 4ms, VGA, HDMI",
           "barkod": "0198157472259",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "HP Envy 6122 All-in-One (C2WS1B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4",
           "barkod": "199485545967",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
@@ -119,55 +119,55 @@
           "naziv": "Slusalice HyperX Cloud III Red Black",
           "barkod": "197029008237",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
           "barkod": "197029008220",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
           "barkod": "198415435569",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Volan LOGITECH G G29 + mjenjac",
           "barkod": "5099206132467",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Laptop HP VICTUS Gaming 15-fa2001nmx, 39.6 cm (15.6\") IPS Full HD 144Hz, Intel Core i5-13420H, 16 GB RAM, 512",
           "barkod": "821844546567",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO LOQ Essential, 83S000A7SC, 39.6cm (15.6\") IPS Full HD 144Hz, AMD Ryzen 5 150, 16 GB RAM,",
           "barkod": "199274270841",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL BOOMBOX 4 crni BLKEP",
           "barkod": "1200130024221",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crni",
           "barkod": "1200130019555",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 Tomorrowland",
           "barkod": "1200130028274",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Televizor HISENSE 32A4S 2026, 81,3 cm (32\"), DLED, HD, Smart TV, VIDAA OS",
@@ -220,7 +220,7 @@
           "naziv": "Televizor HISENSE 43A6S 2026, 109,2 cm (43\"), DLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351430102",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor LG OLED55C61LA 2026, 139,7 cm (55\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
@@ -244,13 +244,13 @@
           "naziv": "Televizor SAMSUNG UE43U8072HUXXH 2026, 109 cm XH (43\"), UHD, Smart TV, Tizen OS",
           "barkod": "8806097968962",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
@@ -268,19 +268,19 @@
           "naziv": "Televizor TCL 32S5L 2026, 32\", QLED, Google TV",
           "barkod": "5901292530389",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TCL QLED TV 40\" 40S5L, Google TV",
           "barkod": "5901292530372",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Televizor HISENSE 32A4S 2026, 81,3 cm (32\"), DLED, HD, Smart TV, VIDAA OS",
           "barkod": "6942351429205",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Web kamera Logitech C270 HD",
