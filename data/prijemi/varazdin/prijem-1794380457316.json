@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T07:00:57.316Z",
-  "azurirano": "2026-11-11T16:10:13.336Z",
+  "azurirano": "2026-11-11T16:10:22.800Z",
   "dokumenti": [
     {
       "naziv": "MSI 7253-101",
@@ -523,7 +523,7 @@
           "naziv": "Parna postaja Tefal SV6212E0 Power Pro Compact 200",
           "barkod": "3121040097984",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Gorenje SGD3000BKV",
