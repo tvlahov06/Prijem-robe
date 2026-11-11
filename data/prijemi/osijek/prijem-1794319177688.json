@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T13:59:37.688Z",
-  "azurirano": "2026-11-11T18:49:28.441Z",
+  "azurirano": "2026-11-11T18:50:16.721Z",
   "dokumenti": [
     {
       "naziv": "MSI 7296-101",
@@ -544,7 +544,7 @@
           "naziv": "Sisac dlacica nos/usi Philips NT5650/16",
           "barkod": "8710103932482",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD530/00",
