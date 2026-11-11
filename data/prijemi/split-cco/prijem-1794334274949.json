@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T18:11:14.949Z",
-  "azurirano": "2026-11-10T18:11:14.949Z",
+  "azurirano": "2026-11-11T09:09:24.991Z",
   "dokumenti": [
     {
       "naziv": "MSI 7259-101",
@@ -14,13 +14,13 @@
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
           "barkod": "3474636819713",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
           "barkod": "3474637116415",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
@@ -73,7 +73,7 @@
           "naziv": "Laptop LENOVO V15 G5, 83GW007USC, 39.6cm (15.6\") IPS Full HD, Intel Core i7-13620H, 16 GB RAM, 512 GB",
           "barkod": "0199272000068",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 27\" ACER Predator X27QX, UM.GXXEE.305, QD-OLED 2K/QHD, 240Hz, 0.03ms, AMD FreeSync",
@@ -441,7 +441,7 @@
           "naziv": "Televizor HISENSE 50E7S 2026, 126 cm (50\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
           "barkod": "6942351431161",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Televizor HISENSE 43A6S 2026, 109,2 cm (43\"), DLED, 4K UHD, Smart TV, VIDAA OS",
@@ -453,79 +453,79 @@
           "naziv": "PRO Televizor HISENSE 50E7S PRO 2026, 127 cm (50\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351432977",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor LG 50QNED72B3B 2026, 127 cm (50\"), QNED, 4K AEU UHD, Smart TV, webOS",
           "barkod": "8806096733790",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TV LG 55NU850B3LA 139.7cm (55\"), LED, 4K UHD Smart AEU TV, webOS",
           "barkod": "8806096715710",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG 43QNED72B3B 109.2cm (43\"), QNED, 4K UHD AEU Smart TV, webOS",
           "barkod": "8806096729519",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG 43NU850B3LA 109.2cm (43\"), LED, 4K UHD Smart AEU TV, webOS",
           "barkod": "8806096714867",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE43U8072HUXXH 2026, 109 cm XH (43\"), UHD, Smart TV, Tizen OS",
           "barkod": "8806097968962",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Televizor LG OLED65C61LA 2026, 165,1 cm (65\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
           "barkod": "8806096685969",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor SAMSUNG QE65S85HAEXXH 2026, 164 cm (65\"), H OLED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097963646",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
           "barkod": "5901292525798",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TCL QLED TV 65\" 65P7L, Google TV",
           "barkod": "5901292530235",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor TCL 32S5L 2026, 32\", QLED, Google TV",
           "barkod": "5901292530389",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TCL QLED TV 40\" 40S5L, Google TV",
           "barkod": "5901292530372",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mis Logitech M196, crni",
@@ -733,49 +733,49 @@
           "naziv": "Televizor HISENSE 32A4S 2026, 81,3 cm (32\"), DLED, HD, Smart TV, VIDAA OS",
           "barkod": "6942351429205",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor LG OLED55C61LA 2026, 139,7 cm (55\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
           "barkod": "8806096685792",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TV LG 43NU850B3LA 109.2cm (43\"), LED, 4K UHD Smart AEU TV, webOS",
           "barkod": "8806096714867",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG 55NU850B3LA 139.7cm (55\"), LED, 4K UHD Smart AEU TV, webOS",
           "barkod": "8806096715710",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE55M80HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806099014230",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Televizor SAMSUNG UE55M70HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097977674",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TCL QLED TV 43\" 43P7L, Google TV",
           "barkod": "5901292530266",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
           "barkod": "5901292530242",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
