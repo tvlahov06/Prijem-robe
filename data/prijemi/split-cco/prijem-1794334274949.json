@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T18:11:14.949Z",
-  "azurirano": "2026-11-11T12:19:39.320Z",
+  "azurirano": "2026-11-11T12:20:11.128Z",
   "dokumenti": [
     {
       "naziv": "MSI 7259-101",
@@ -21,17 +21,6 @@
           "barkod": "3474637116415",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7266-101",
-      "stavke": [
-        {
-          "naziv": "Parna postaja Philips PSG7200/20",
-          "barkod": "8720389065170",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
