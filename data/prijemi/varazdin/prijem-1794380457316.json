@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T07:00:57.316Z",
-  "azurirano": "2026-11-11T15:11:35.998Z",
+  "azurirano": "2026-11-11T15:27:54.802Z",
   "dokumenti": [
     {
       "naziv": "MSI 7253-101",
@@ -90,13 +90,13 @@
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
           "barkod": "3474636819713",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
           "barkod": "3474637116415",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
