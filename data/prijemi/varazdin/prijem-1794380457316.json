@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T07:00:57.316Z",
-  "azurirano": "2026-11-11T16:50:57.360Z",
+  "azurirano": "2026-11-11T16:51:05.184Z",
   "dokumenti": [
     {
       "naziv": "MSI 7253-101",
@@ -863,7 +863,7 @@
           "naziv": "TCL QLED TV 43\" 43P7L, Google TV",
           "barkod": "5901292530266",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         }
       ]
     },
@@ -1029,7 +1029,7 @@
           "naziv": "Televizor LG OLED55C61LA 2026, 139,7 cm (55\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
           "barkod": "8806096685792",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor LG 50QNED72B3B 2026, 127 cm (50\"), QNED, 4K AEU UHD, Smart TV, webOS",
