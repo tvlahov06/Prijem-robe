@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T07:00:57.316Z",
-  "azurirano": "2026-11-11T17:15:40.009Z",
+  "azurirano": "2026-11-11T17:16:17.487Z",
   "dokumenti": [
     {
       "naziv": "MSI 7253-101",
@@ -118,7 +118,7 @@
           "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
           "barkod": "8720389032998",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
@@ -130,7 +130,7 @@
           "naziv": "Parna postaja Philips PSG8300/80",
           "barkod": "8720389066504",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Philips XU2100/25",
@@ -160,7 +160,7 @@
           "naziv": "Usisavac Rowenta RH1833E0 X-Force 8.80",
           "barkod": "3221616176485",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Krups KP243B10 Genio S anthracite PF",
