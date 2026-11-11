@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T18:11:14.949Z",
-  "azurirano": "2026-11-11T12:30:38.011Z",
+  "azurirano": "2026-11-11T12:39:06.621Z",
   "dokumenti": [
     {
       "naziv": "MSI 7267-101",
@@ -318,47 +318,6 @@
         {
           "naziv": "Mis Logitech M196, rozi",
           "barkod": "5099206128316",
-          "ocekivano": 3,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7301-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac stapni Dyson V10 Cyclone Submarine + low reach adapter (626460)",
-          "barkod": "5025155137697",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Dyson stapni usisavac V10 Cyclone Submarine (594446)",
-          "barkod": "5025155134016",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V8 Total Clean",
-          "barkod": "5025155080306",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V12s Detect Slim Submarine + Low-reach adaptor",
-          "barkod": "5025155137277",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V16 Piston Animal Submarine",
-          "barkod": "5025155114841",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V12s Detect Slim Submarine + detail cleaning kit (630897)",
-          "barkod": "5025155137253",
           "ocekivano": 3,
           "skenirano": 0
         }
