@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T14:44:40.985Z",
-  "azurirano": "2026-11-11T15:32:25.764Z",
+  "azurirano": "2026-11-11T15:32:27.874Z",
   "dokumenti": [
     {
       "naziv": "MSI 7332-101",
@@ -749,17 +749,6 @@
           "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 Tomorrowland",
           "barkod": "1200130028274",
           "ocekivano": 10,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7365-101",
-      "stavke": [
-        {
-          "naziv": "Philips prijenosni radio TAR5100",
-          "barkod": "4895229158627",
-          "ocekivano": 2,
           "skenirano": 0
         }
       ]
