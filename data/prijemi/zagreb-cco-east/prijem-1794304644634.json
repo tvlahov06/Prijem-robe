@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T09:57:24.634Z",
-  "azurirano": "2026-11-11T07:29:52.934Z",
+  "azurirano": "2026-11-11T07:29:55.903Z",
   "dokumenti": [
     {
       "naziv": "logista 10112026",
@@ -434,7 +434,7 @@
           "naziv": "GM GAMEPAD MOBILE,WLESS,MYLOX,GXT735",
           "barkod": "8713439254853",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "GM MIS WLESS,HIGH PERF,REDEX+,GXT927",
