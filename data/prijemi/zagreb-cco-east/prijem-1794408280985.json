@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T14:44:40.985Z",
-  "azurirano": "2026-11-11T15:32:21.319Z",
+  "azurirano": "2026-11-11T15:32:23.508Z",
   "dokumenti": [
     {
       "naziv": "MSI 7332-101",
@@ -776,41 +776,6 @@
         {
           "naziv": "Slusalice zicane JBL TUNE 305C USB-C crvene",
           "barkod": "1200130013928",
-          "ocekivano": 5,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7362-101",
-      "stavke": [
-        {
-          "naziv": "Asus USB-C Mini Dock DC100",
-          "barkod": "4711081799320",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Black",
-          "barkod": "195951415666",
-          "ocekivano": 20,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Burgundy",
-          "barkod": "195951415680",
-          "ocekivano": 20,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Glacier",
-          "barkod": "195951415697",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Silver",
-          "barkod": "195951415673",
           "ocekivano": 5,
           "skenirano": 0
         }
