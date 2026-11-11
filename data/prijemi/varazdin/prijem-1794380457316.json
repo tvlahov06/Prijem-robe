@@ -1,0 +1,1186 @@
+{
+  "id": "prijem-1794380457316",
+  "poslovnica": "varazdin",
+  "naziv": "Roba 11.11",
+  "datum": "2026-11-11",
+  "status": "aktivan",
+  "kreirano": "2026-11-11T07:00:57.316Z",
+  "azurirano": "2026-11-11T07:00:57.316Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 7253-101",
+      "stavke": [
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX ULTIMATE 2 LT2EU",
+          "barkod": "1200130037085",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7254-101",
+      "stavke": [
+        {
+          "naziv": "Ploca ugradbena kombinirana Gorenje GCE681BSC",
+          "barkod": "3838782321771",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrovalna pecnica Bosch FEL023MS2",
+          "barkod": "4242005296699",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrovalna pecnica Hisense H23MOBS4HI",
+          "barkod": "3838782853937",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrovalna pecnica Hisense H29MOBS9H",
+          "barkod": "3838782637926",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Stednjak kombinirani 50 cm Gorenje GK5A12WD",
+          "barkod": "3838782934254",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ugradbena ploca s integriranom napom ELECTROLUX ECC83410CT SaphirMatt(R)",
+          "barkod": "7333394141671",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica posuda samostojeca Bosch SMS46KI01E",
+          "barkod": "4242002993300",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja HISENSE WF1I8042BWP2",
+          "barkod": "6901101840226",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Perilica rublja Hisense WF5S1045BW",
+          "barkod": "6901101825575",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Hladnjak Side by side Samsung RS70F64KETEO",
+          "barkod": "8806097264576",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7255-101",
+      "stavke": [
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
+          "barkod": "3474636819713",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
+          "barkod": "3474637116415",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7302-101",
+      "stavke": [
+        {
+          "naziv": "Monitor 27\" ACER Predator X27QX, UM.GXXEE.305, QD-OLED 2K/QHD, 240Hz, 0.03ms, AMD FreeSync",
+          "barkod": "4711474804747",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7303-101",
+      "stavke": [
+        {
+          "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
+          "barkod": "8720389032998",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
+          "barkod": "8720389040733",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8300/80",
+          "barkod": "8720389066504",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Philips XU2100/25",
+          "barkod": "8720389064999",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips XV5113/01",
+          "barkod": "8720389035975",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1A3B10 Piccolo XS black/anthracite PF",
+          "barkod": "3016661159121",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1A3110 Piccolo XS white/burgundy PF",
+          "barkod": "3045380024380",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Rowenta RH1833E0 X-Force 8.80",
+          "barkod": "3221616176485",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP243B10 Genio S anthracite PF",
+          "barkod": "3045380024335",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock Q7 BF+ sa stanicom za samopraznjenje bijela",
+          "barkod": "6936905901934",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock Qrevo S Pro bijela",
+          "barkod": "6936905906304",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock Saros 20 Sonic Complete crna",
+          "barkod": "6936905905765",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
+          "barkod": "4242005306978",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGC05AAA2",
+          "barkod": "4242005076321",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Miele Guard L1 Red Pulse",
+          "barkod": "4002516906803",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Dyson V10 Cyclone Submarine + low reach adapter (626460)",
+          "barkod": "5025155137697",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Dyson V12 Detect Slim Absolute (494876)",
+          "barkod": "5025155136294",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Dyson V12s Detect Slim Submarine + Low-reach adaptor",
+          "barkod": "5025155137277",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Ninja TB401EU Detect Power & Processor Pro",
+          "barkod": "0622356294607",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja AF550EU",
+          "barkod": "622356320757",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja DZ950EU Dual Zone",
+          "barkod": "622356353229",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
+          "barkod": "8606112020473",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso ESSENZA MINI White S C30-EUWHNE2-S",
+          "barkod": "7630030342486",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7304-101",
+      "stavke": [
+        {
+          "naziv": "Laptop HP 200 G2a, DZ5Q4ET, 40.6cm (16\") WUXGA, AMD Ryzen 5 220, 16 GB RAM, 512 GB SSD, AMD Radeon 740M",
+          "barkod": "826581892304",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP 200 G2i, DZ5J1ET, 40.6cm (16\") WUXGA, Intel Core 5 120U, 16 GB RAM, 512 GB SSD, Intel Graphics,",
+          "barkod": "826581890737",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP OmniBook 3 16-by0029nmx, 40.6cm (16\") IPS 2K, AMD Ryzen 5 40, 16 GB RAM, 512 GB SSD, AMD",
+          "barkod": "2010033340491",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop LENOVO ThinkBook 16 G8, 21SK00FQSC, 40.6cm (16\") IPS WUXGA, Intel Core Ultra 5 135H, 16 GB RAM,",
+          "barkod": "199274052522",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ01CUSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 1 TB",
+          "barkod": "199274826765",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XM01ACSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 512",
+          "barkod": "199276322814",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ01CYSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 3 30, 16 GB RAM, 512 GB",
+          "barkod": "199274826796",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop LENOVO V15 G5, 83GW007USC, 39.6cm (15.6\") IPS Full HD, Intel Core i7-13620H, 16 GB RAM, 512 GB",
+          "barkod": "0199272000068",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 27\" ACER Predator X27QX, UM.GXXEE.305, QD-OLED 2K/QHD, 240Hz, 0.03ms, AMD FreeSync",
+          "barkod": "4711474804747",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 23.8\" LENOVO ThinkVision S24-4e, 64B5KAT1EU, IPS Full HD, 100Hz, 4ms, VGA, HDMI",
+          "barkod": "0198156628701",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Monitor 27\" LENOVO ThinkVisionS27-4e, 64BEKAT1EU, IPS Full HD, 100Hz, 4ms, VGA, HDMI",
+          "barkod": "0198157472259",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP Envy 6122 All-in-One (C2WS1B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4",
+          "barkod": "199485545967",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7305-101",
+      "stavke": [
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 730BT crne",
+          "barkod": "1200130029837",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth bezicne JBL TUNE 780NC crne",
+          "barkod": "1200130030482",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 520 crni 20EU",
+          "barkod": "1200130021961",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikrofon JBL PARTYBOX SMIC",
+          "barkod": "1200130010156",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "prijenosni bluetooth JBL XTREME 5 crni",
+          "barkod": "1200130033742",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice JBL Live 780NC crne LK",
+          "barkod": "1200130033469",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
+          "barkod": "1200130029967",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 plavi",
+          "barkod": "1200130019579",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 720 crni 20EU",
+          "barkod": "1200130025822",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
+          "barkod": "1200130026294",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX ENCORE 2 EP",
+          "barkod": "1200130020216",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "198828789556",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP Smart Tank 580 All-in-One (1F3Y2A) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
+          "barkod": "196188530313",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer HP LaserJet M110w",
+          "barkod": "194850676970",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP DeskJet 4330 All-in-One (AJ4X9B) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "0198828789877",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CANON Pixma MG2551S Color Inkjet MF pisac - Print, Copy, Scan, A4",
+          "barkod": "4549292234206",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer HP Smart Tank 725 AiO",
+          "barkod": "195908302254",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7306-101",
+      "stavke": [
+        {
+          "naziv": "Usisavac Philips FC9334/09",
+          "barkod": "8710103796329",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Philips XU5100/20",
+          "barkod": "8720389055584",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "robot iRobot Roomba Plus 515 Combo robot + AutoWash dock Black",
+          "barkod": "5061112450973",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP2224/10 espresso",
+          "barkod": "8710103894742",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP8757/12 espresso, Cafe Aromis",
+          "barkod": "8720389077005",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi EC 890.GR Dedica Duo",
+          "barkod": "8004399032538",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1438F0 Mini Me 2 piano black",
+          "barkod": "3045380404144",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP143BF0 Mini Me 2 cosmic grey",
+          "barkod": "3045380404151",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8300/20",
+          "barkod": "8720389066498",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8200/70",
+          "barkod": "8720389066511",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG7200/20",
+          "barkod": "8720389065170",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG7300/80",
+          "barkod": "8720389058332",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal SV8151E0",
+          "barkod": "3121040086414",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal SV6212E0 Power Pro Compact 200",
+          "barkod": "3121040097984",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Gorenje SGD3000BKV",
+          "barkod": "3838782860737",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV9848E0",
+          "barkod": "3121040071526",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal DB1612E0 putno",
+          "barkod": "3121040095867",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA462/70 Airfryer vertikalni",
+          "barkod": "8720389072239",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA555/00 Airfryer Dual Basket, para",
+          "barkod": "8720389047558",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za izradu tjestenine Philips HR2665/96",
+          "barkod": "8720389014833",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sjeckalica Tefal K1320404 900ML, rucna",
+          "barkod": "3168430275591",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC728D10 rostilj OptiGrill + XL Tefal hvataljke",
+          "barkod": "3168437252106",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster grill Tefal GC270D10",
+          "barkod": "3045380026377",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Vaga kuhinjska Tefal BC50D6V0 Mozaic",
+          "barkod": "3121040092453",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Toster preklopni Gorenje SM701SB",
+          "barkod": "3838782767197",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dehidrator hrane Gorenje FDK24DW",
+          "barkod": "3838942927034",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za vakumiranje Gorenje VS120W",
+          "barkod": "3838782060854",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mlinac za kavu Gorenje SMK150WI",
+          "barkod": "3838782393976",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sokovnik Hurom H330P sivi",
+          "barkod": "8809686402151",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mikser stapni Philips HR2685/00",
+          "barkod": "8720389033933",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhinjski asistent Kenwood KMX750RD crveni",
+          "barkod": "5011423190198",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablete za ciscenje kamenca Krups XS300010",
+          "barkod": "3016661181542",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips dodaci XV1882/10 zamjenski podni brisac",
+          "barkod": "8720389070044",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sredstvo za ciscenje kamenca DeLonghi DLSC200 dekalcifikator",
+          "barkod": "8004399329485",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips dodaci XV1882/20 zamjenski podni brisac",
+          "barkod": "8720389057540",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips dodaci XV1892/02 sredstvo za ciscenje poda",
+          "barkod": "8720389035937",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7309-101",
+      "stavke": [
+        {
+          "naziv": "Slusalice bezicne JBL VIVE FLEX 2 True Wireless roze",
+          "barkod": "1200130015236",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL LIVE 770 NC bijele WHT",
+          "barkod": "1200130004599",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL LIVE 770 NC crne LK",
+          "barkod": "1200130004582",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth potpuno bezicne JBL TUNE BUDS 2 crne",
+          "barkod": "1200130016356",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CLIP 5 crveni",
+          "barkod": "1200130010194",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CLIP 5 rozi",
+          "barkod": "1200130010231",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GRIP plavi",
+          "barkod": "1200130024856",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
+          "barkod": "1200130029967",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice JBL Live 780NC crne LK",
+          "barkod": "1200130033469",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crveni",
+          "barkod": "1200130019562",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 ljubicasti",
+          "barkod": "1200130019593",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 plavi",
+          "barkod": "1200130019579",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 rozi NK",
+          "barkod": "1200130019623",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Hisense HS2100",
+          "barkod": "6942147497937",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Hisense HS2000",
+          "barkod": "6942351411514",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Samsung",
+          "barkod": "8806097071877",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Samsung",
+          "barkod": "8806097091905",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Hisense AX5125H",
+          "barkod": "6942147497432",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar SAMSUNG Q serije",
+          "barkod": "8806099013486",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar SAMSUNG",
+          "barkod": "8806099014704",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar SAMSUNG Q serije",
+          "barkod": "8806099014148",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Hisense AX5140Q",
+          "barkod": "6942351423456",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LG soundbar S70TR",
+          "barkod": "8806096575277",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony MDR3RS.CE7",
+          "barkod": "4548736185166",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7310-101",
+      "stavke": [
+        {
+          "naziv": "Gaming mis Logitech G305 X SUPERLIGHT, crni",
+          "barkod": "5099206134737",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan LOGITECH G G29 + mjenjac",
+          "barkod": "5099206132467",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP VICTUS Gaming 15-fa2001nmx, 39.6 cm (15.6\") IPS Full HD 144Hz, Intel Core i5-13420H, 16 GB RAM, 512",
+          "barkod": "821844546567",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL BOOMBOX 4 crni BLKEP",
+          "barkod": "1200130024221",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crni",
+          "barkod": "1200130019555",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 Tomorrowland",
+          "barkod": "1200130028274",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor LG OLED55C61LA 2026, 139,7 cm (55\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
+          "barkod": "8806096685792",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG UE55M80HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
+          "barkod": "8806099014230",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TCL QLED TV 43\" 43P7L, Google TV",
+          "barkod": "5901292530266",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7311-101",
+      "stavke": [
+        {
+          "naziv": "It Takes Two PS4 D27",
+          "barkod": "5030945124696",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Star Wars Jedi Survivor PS4",
+          "barkod": "5030949125170",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "EA Sports UFC 6 PS5",
+          "barkod": "5030943125466",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Fortnite stolni stalak za slusalice sa svjetlom",
+          "barkod": "5056577754810",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Fortnite igrace karte u kutiji",
+          "barkod": "5056577755039",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Fortnite salica s termo efektom",
+          "barkod": "5056577756647",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Fortnite zidna LED Neon svjetiljka",
+          "barkod": "5056577756005",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Harry Potter Patronus svjetiljka s daljinskim upravljacem",
+          "barkod": "5056577753196",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Harry Potter svjetiljka u obliku svijece s daljinskim upravljacem",
+          "barkod": "5055964786830",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Minecraft Cat GloBuddies svjetiljka",
+          "barkod": "5056577776164",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Minecraft Gamer termo salica",
+          "barkod": "5056577759778",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Minecraft zelena 900ml termo salica sa slamkom",
+          "barkod": "5056577755756",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Minecraft Creeper dekica i jastuk",
+          "barkod": "5056577740226",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Minecraft Pig dekica i jastuk",
+          "barkod": "5056577740233",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Minecraft Jack O Lantern Pumpkin svjetiljka",
+          "barkod": "5056577779424",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Super Mario Green Shell svjetiljka sa zvukom V2",
+          "barkod": "5055964767631",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Super Mario salica s termo efektom V2",
+          "barkod": "5055964707262",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Super Mario Question Block zidna LED Neon svjetiljka",
+          "barkod": "5056577757743",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Super Mario Boo zidna LED Neon svjetiljka",
+          "barkod": "5056577757767",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Fortnite 3D Motion igrace karte",
+          "barkod": "5056577774665",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Super Mario Super Star Icon sat s alarmom",
+          "barkod": "5056577740868",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Super Mario 550ml aluminijska boca za vodu",
+          "barkod": "5056577718843",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Super Mario metalna boca za vodu s karikom za nosenje",
+          "barkod": "5056577774849",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Paladone Super Mario Big Up boca za vodu V2",
+          "barkod": "5055964730369",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7312-101",
+      "stavke": [
+        {
+          "naziv": "Televizor HISENSE 50E7S 2026, 126 cm (50\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
+          "barkod": "6942351431161",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor LG OLED55C61LA 2026, 139,7 cm (55\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
+          "barkod": "8806096685792",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor LG 50QNED72B3B 2026, 127 cm (50\"), QNED, 4K AEU UHD, Smart TV, webOS",
+          "barkod": "8806096733790",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG UE43U8072HUXXH 2026, 109 cm XH (43\"), UHD, Smart TV, Tizen OS",
+          "barkod": "8806097968962",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
+          "barkod": "5901292525798",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TCL QLED TV 65\" 65P7L, Google TV",
+          "barkod": "5901292530235",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor TCL 32S5L 2026, 32\", QLED, Google TV",
+          "barkod": "5901292530389",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TCL QLED TV 40\" 40S5L, Google TV",
+          "barkod": "5901292530372",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
+          "barkod": "5099206112100",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Logitech tipkovnica i mis Signature Slim Combo MK950 - GRAPHITE - US INT",
+          "barkod": "5099206119185",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK540 Advanced, bezicna, siva",
+          "barkod": "5099206077522",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne Sony s funkcijom blokade buke E7 WF-1000XM6/B",
+          "barkod": "4548736171770",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
+          "barkod": "4548736161436",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/B",
+          "barkod": "4548736164161",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/B",
+          "barkod": "4548736157088",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/D",
+          "barkod": "4548736157118",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni Bluetooth Sony SRS-ULT10/W",
+          "barkod": "4548736157095",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
+          "barkod": "5099206089235",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M705 Marathon, srebrni",
+          "barkod": "5099206023901",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G305 LIGHTSPEED, crni",
+          "barkod": "5099206077829",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
+          "barkod": "5099206092525",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M196, rozi",
+          "barkod": "5099206128316",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech M650 L, crni",
+          "barkod": "5099206097179",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gaming mis LOGITECH PRO X3 SUPERSTRIKE",
+          "barkod": "5099206139725",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "za mis Logitech G640 EWR",
+          "barkod": "5099206104358",
+          "ocekivano": 4,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7317-101",
+      "stavke": [
+        {
+          "naziv": "Usisavac stapni Xiaomi G20 Lite",
+          "barkod": "6941812771921",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
