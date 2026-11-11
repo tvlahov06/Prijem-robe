@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T14:44:40.985Z",
-  "azurirano": "2026-11-11T15:32:23.508Z",
+  "azurirano": "2026-11-11T15:32:25.764Z",
   "dokumenti": [
     {
       "naziv": "MSI 7332-101",
@@ -760,23 +760,6 @@
           "naziv": "Philips prijenosni radio TAR5100",
           "barkod": "4895229158627",
           "ocekivano": 2,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 135-110",
-      "stavke": [
-        {
-          "naziv": "Slusalice bezicne JBL VIBE FLEX 2 crna",
-          "barkod": "1200130015212",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice zicane JBL TUNE 305C USB-C crvene",
-          "barkod": "1200130013928",
-          "ocekivano": 5,
           "skenirano": 0
         }
       ]
