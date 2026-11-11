@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T13:59:37.688Z",
-  "azurirano": "2026-11-11T19:00:43.040Z",
+  "azurirano": "2026-11-11T19:00:46.536Z",
   "dokumenti": [
     {
       "naziv": "MSI 7296-101",
@@ -521,7 +521,7 @@
           "naziv": "Printer HP Smart Tank 725 AiO",
           "barkod": "195908302254",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
