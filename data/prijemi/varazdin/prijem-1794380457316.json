@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T07:00:57.316Z",
-  "azurirano": "2026-11-11T16:33:00.971Z",
+  "azurirano": "2026-11-11T16:33:12.829Z",
   "dokumenti": [
     {
       "naziv": "MSI 7253-101",
@@ -267,7 +267,7 @@
           "naziv": "Laptop HP 200 G2i, DZ5J1ET, 40.6cm (16\") WUXGA, Intel Core 5 120U, 16 GB RAM, 512 GB SSD, Intel Graphics,",
           "barkod": "826581890737",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop HP OmniBook 3 16-by0029nmx, 40.6cm (16\") IPS 2K, AMD Ryzen 5 40, 16 GB RAM, 512 GB SSD, AMD",
@@ -279,7 +279,7 @@
           "naziv": "Laptop LENOVO ThinkBook 16 G8, 21SK00FQSC, 40.6cm (16\") IPS WUXGA, Intel Core Ultra 5 135H, 16 GB RAM,",
           "barkod": "199274052522",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ01CUSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 1 TB",
@@ -297,13 +297,13 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ01CYSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 3 30, 16 GB RAM, 512 GB",
           "barkod": "199274826796",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Laptop LENOVO V15 G5, 83GW007USC, 39.6cm (15.6\") IPS Full HD, Intel Core i7-13620H, 16 GB RAM, 512 GB",
           "barkod": "0199272000068",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Monitor 27\" ACER Predator X27QX, UM.GXXEE.305, QD-OLED 2K/QHD, 240Hz, 0.03ms, AMD FreeSync",
