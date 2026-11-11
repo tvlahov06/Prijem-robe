@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T13:59:37.688Z",
-  "azurirano": "2026-11-11T19:20:36.709Z",
+  "azurirano": "2026-11-11T19:21:02.825Z",
   "dokumenti": [
     {
       "naziv": "MSI 7308-101",
@@ -147,113 +147,6 @@
           "barkod": "5055964730369",
           "ocekivano": 6,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7319-101",
-      "stavke": [
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 730BT crne",
-          "barkod": "1200130029837",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Slusalice bluetooth bezicne JBL TUNE 780NC crne",
-          "barkod": "1200130030482",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 520 crni 20EU",
-          "barkod": "1200130021961",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mikrofon JBL PARTYBOX SMIC",
-          "barkod": "1200130010156",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "prijenosni bluetooth JBL XTREME 5 crni",
-          "barkod": "1200130033742",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
-          "barkod": "1200130029967",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 plavi",
-          "barkod": "1200130019579",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "prijenosni bluetooth JBL PARTYBOX 130 crni",
-          "barkod": "1200130035135",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "prijenosni bluetooth JBL PARTYBOX 330 crni",
-          "barkod": "1200130037559",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice JBL TUNE 110E plave",
-          "barkod": "1200130022746",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX ENCORE 2 EP",
-          "barkod": "1200130020216",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 2920 All-in-One (89F97B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198701680109",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "HP DeskJet 4330 All-in-One (AJ4X9B) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "0198828789877",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "CANON Pixma MG2551S Color Inkjet MF pisac - Print, Copy, Scan, A4",
-          "barkod": "4549292234206",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer Canon Pixma G3470 BK",
-          "barkod": "4549292205398",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer HP Smart Tank 725 AiO",
-          "barkod": "195908302254",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer HP LaserJet MFP M234dw, 6GW99F, A4, mono, 29ppm, USB",
-          "barkod": "194850664199",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
