@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "",
   "datum": "2026-11-10",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-11-10T20:39:41.522Z",
-  "azurirano": "2026-11-11T14:03:59.652Z",
+  "azurirano": "2026-11-11T14:05:38.552Z",
   "dokumenti": [
     {
       "naziv": "MSI 7352-101",
@@ -464,7 +464,7 @@
           "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB rozi",
           "barkod": "8806099191993",
           "ocekivano": 2,
-          "skenirano": 3
+          "skenirano": 2
         },
         {
           "naziv": "Preklopna maska za Samsung Galaxy Flip8 siva",
@@ -725,5 +725,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-11-11T14:05:38.552Z"
 }
