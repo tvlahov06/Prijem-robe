@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T18:11:14.949Z",
-  "azurirano": "2026-11-11T09:25:06.180Z",
+  "azurirano": "2026-11-11T09:25:21.774Z",
   "dokumenti": [
     {
       "naziv": "MSI 7259-101",
@@ -346,7 +346,7 @@
           "naziv": "Usisavac Bosch BGB41PET1",
           "barkod": "4242005483983",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BGC05AAA2",
