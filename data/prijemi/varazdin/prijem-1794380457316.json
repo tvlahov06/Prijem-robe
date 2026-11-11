@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T07:00:57.316Z",
-  "azurirano": "2026-11-11T17:00:41.934Z",
+  "azurirano": "2026-11-11T17:00:53.127Z",
   "dokumenti": [
     {
       "naziv": "MSI 7253-101",
@@ -451,7 +451,7 @@
           "naziv": "Usisavac robot Philips XU5100/20",
           "barkod": "8720389055584",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "robot iRobot Roomba Plus 515 Combo robot + AutoWash dock Black",
@@ -463,7 +463,7 @@
           "naziv": "Aparat za kavu Philips EP2224/10 espresso",
           "barkod": "8710103894742",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP8757/12 espresso, Cafe Aromis",
