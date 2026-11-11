@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T14:44:40.985Z",
-  "azurirano": "2026-11-11T15:32:36.836Z",
+  "azurirano": "2026-11-11T15:32:38.950Z",
   "dokumenti": [
     {
       "naziv": "MSI 7332-101",
@@ -710,35 +710,6 @@
           "barkod": "195951406404",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7385-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Google Pixel 11 Pro 512GB Canyon",
-          "barkod": "840353957275",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Google Pixel 11 Pro XL 512GB Obsidian",
-          "barkod": "840353957756",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Google Pixel 11 Pro XL 512GB Olive",
-          "barkod": "840353958357",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5021F0",
-          "barkod": "3121040095003",
-          "ocekivano": 5,
-          "skenirano": 0
         }
       ]
     }
