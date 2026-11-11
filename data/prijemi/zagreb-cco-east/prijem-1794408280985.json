@@ -5,7 +5,7 @@
   "datum": "2026-11-11",
   "status": "aktivan",
   "kreirano": "2026-11-11T14:44:40.985Z",
-  "azurirano": "2026-11-11T15:29:12.834Z",
+  "azurirano": "2026-11-11T15:29:22.398Z",
   "dokumenti": [
     {
       "naziv": "MSI 132-110",
@@ -1064,7 +1064,7 @@
           "naziv": "Mobitel Apple iPhone Duo 256GB Star White",
           "barkod": "195951406046",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Akcijska kamera Insta360 X5 Essential Bundle",
@@ -1100,7 +1100,7 @@
           "naziv": "Mobitel Apple iPhone Duo 512GB Star White",
           "barkod": "195951406404",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
