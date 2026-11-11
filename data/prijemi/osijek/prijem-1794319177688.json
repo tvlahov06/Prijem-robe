@@ -5,7 +5,7 @@
   "datum": "2026-11-10",
   "status": "aktivan",
   "kreirano": "2026-11-10T13:59:37.688Z",
-  "azurirano": "2026-11-11T18:50:16.721Z",
+  "azurirano": "2026-11-11T18:50:20.547Z",
   "dokumenti": [
     {
       "naziv": "MSI 7296-101",
@@ -604,7 +604,7 @@
           "naziv": "Sisac za tijelo 8U1 Philips MG3940/15",
           "barkod": "8720689026611",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac za glavu Philips HS7980/15",
