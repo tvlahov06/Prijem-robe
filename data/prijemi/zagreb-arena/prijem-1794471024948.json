@@ -5,7 +5,7 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T08:10:24.948Z",
-  "azurirano": "2026-11-12T09:21:48.377Z",
+  "azurirano": "2026-11-12T09:22:11.247Z",
   "dokumenti": [
     {
       "naziv": "MSI 7360-101",
@@ -597,7 +597,7 @@
           "naziv": "Tinta HP GT52 M0H56AE, Yellow",
           "barkod": "190780132555",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk ADATA Ex HDD HV620 Slim, 1TB, usb3.1, 1-CBL plavi",
@@ -615,7 +615,7 @@
           "naziv": "Tinta HP GT52 M0H54AE, Cyan",
           "barkod": "190780132517",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kingston 500GB NV3 SSD M.2 2280 PCIe 4.0 NVMe, Read: 5,000/ Write: 3,000MB/s",
@@ -657,7 +657,7 @@
           "naziv": "Tinta HP GT52 M0H55AE, Magenta",
           "barkod": "190780132531",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP 308e EvoMore Black Original Ink Cartridge",
