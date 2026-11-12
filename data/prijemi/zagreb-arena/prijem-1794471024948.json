@@ -5,7 +5,7 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T08:10:24.948Z",
-  "azurirano": "2026-11-12T12:25:10.015Z",
+  "azurirano": "2026-11-12T12:25:17.444Z",
   "dokumenti": [
     {
       "naziv": "MSI 7360-101",
@@ -1290,88 +1290,6 @@
           "barkod": "8004399329485",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7411-101",
-      "stavke": [
-        {
-          "naziv": "PlayStation Link USB Adapter",
-          "barkod": "711719574392",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Pulse Elite wireless headset Midnight Black",
-          "barkod": "711719590101",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Midnight Black za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719022381",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Cosmic Red za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719023012",
-          "ocekivano": 20,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Grey Camo za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719023708",
-          "ocekivano": 40,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Rhythm Blue",
-          "barkod": "711719020943",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Techno Red",
-          "barkod": "711719020677",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Chroma Indigo v2",
-          "barkod": "711719023616",
-          "ocekivano": 20,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Starlight Blue za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719022473",
-          "ocekivano": 40,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PlayStation 5 Slim E chassis",
-          "barkod": "711719020172",
-          "ocekivano": 40,
-          "skenirano": 0
-        },
-        {
-          "naziv": "PlayStation 5 Slim Digital Edition E chassis",
-          "barkod": "711719020844",
-          "ocekivano": 30,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7412-101",
-      "stavke": [
-        {
-          "naziv": "Laptop ASUS Vivobook S 14 S5408QA-TM274W X1 26 101, PH0 8GB, SSD256GB, 14\" WUXGA 60Hz, Qualcomm Adreno",
-          "barkod": "4711636681476",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     }
