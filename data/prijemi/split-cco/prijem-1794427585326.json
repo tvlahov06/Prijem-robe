@@ -4,8 +4,8 @@
   "naziv": "Roba u dolasku",
   "datum": "2026-11-12",
   "status": "aktivan",
-  "kreirano": "2026-11-12T15:54:51.845Z",
-  "azurirano": "2026-11-12T15:54:51.845Z",
+  "kreirano": "2026-11-12T19:59:41.121Z",
+  "azurirano": "2026-11-12T19:59:41.121Z",
   "dokumenti": [
     {
       "naziv": "MSI 7313-101",
@@ -1483,6 +1483,23 @@
           "naziv": "Hladnjak kombinirani Bosch KGN56XLEB",
           "barkod": "4242005317226",
           "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7467-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu Philips EP5443/70 espresso",
+          "barkod": "8720389052354",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP5549/70 espresso",
+          "barkod": "8720389032271",
+          "ocekivano": 4,
           "skenirano": 0
         }
       ]
