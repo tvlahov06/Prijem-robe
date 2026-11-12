@@ -5,7 +5,7 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T08:10:24.948Z",
-  "azurirano": "2026-11-12T12:22:26.056Z",
+  "azurirano": "2026-11-12T12:22:31.500Z",
   "dokumenti": [
     {
       "naziv": "MSI 7360-101",
@@ -567,7 +567,7 @@
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
           "barkod": "4713435796641",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "SanDisk Ultra Dual Drive USB Type-C 64 GB USB stick G46",
