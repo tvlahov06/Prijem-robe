@@ -5,7 +5,7 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T08:10:24.948Z",
-  "azurirano": "2026-11-12T11:53:04.960Z",
+  "azurirano": "2026-11-12T11:53:08.958Z",
   "dokumenti": [
     {
       "naziv": "MSI 7360-101",
@@ -954,7 +954,7 @@
           "naziv": "Sisac za bradu Philips BT5780/15",
           "barkod": "8720689034203",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za tijelo 17U1 Philips MG7951/15",
