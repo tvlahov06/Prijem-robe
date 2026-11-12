@@ -5,7 +5,7 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T08:10:24.948Z",
-  "azurirano": "2026-11-12T09:23:52.343Z",
+  "azurirano": "2026-11-12T09:23:54.546Z",
   "dokumenti": [
     {
       "naziv": "MSI 7360-101",
@@ -537,7 +537,7 @@
           "naziv": "TP-Link Tapo P100 Mini Smart Wi-Fi Alexa & Google",
           "barkod": "4897098681619",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link USB3.0 na Gigabit mrezni adapter",
