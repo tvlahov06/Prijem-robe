@@ -5,7 +5,7 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T08:10:24.948Z",
-  "azurirano": "2026-11-12T11:34:49.470Z",
+  "azurirano": "2026-11-12T11:34:54.355Z",
   "dokumenti": [
     {
       "naziv": "MSI 7360-101",
@@ -990,13 +990,13 @@
           "naziv": "Usisavac stapni Dyson V15 Detect Absolute",
           "barkod": "5025155136201",
           "ocekivano": 8,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac stapni Dyson V16 Piston Animal",
           "barkod": "5025155114834",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Dyson uredaj za ravnanje kose Airstrait s intergriranim cesljem (650104) Plum/Copper",
