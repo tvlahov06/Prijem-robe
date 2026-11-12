@@ -5,7 +5,7 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T08:10:24.948Z",
-  "azurirano": "2026-11-12T11:35:00.019Z",
+  "azurirano": "2026-11-12T11:35:15.741Z",
   "dokumenti": [
     {
       "naziv": "MSI 7360-101",
@@ -990,13 +990,13 @@
           "naziv": "Usisavac stapni Dyson V15 Detect Absolute",
           "barkod": "5025155136201",
           "ocekivano": 8,
-          "skenirano": 4
+          "skenirano": 8
         },
         {
           "naziv": "Usisavac stapni Dyson V16 Piston Animal",
           "barkod": "5025155114834",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Dyson uredaj za ravnanje kose Airstrait s intergriranim cesljem (650104) Plum/Copper",
@@ -1014,13 +1014,13 @@
           "naziv": "Usisavac stapni Dyson V16 Piston Animal Submarine",
           "barkod": "5025155114841",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac stapni Dyson V8 Total Clean",
           "barkod": "5025155080306",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (257389) Ceramic Apricot/Topaz",
