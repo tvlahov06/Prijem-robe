@@ -5,7 +5,7 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T08:10:24.948Z",
-  "azurirano": "2026-11-12T12:16:46.488Z",
+  "azurirano": "2026-11-12T12:16:53.792Z",
   "dokumenti": [
     {
       "naziv": "MSI 7360-101",
@@ -829,7 +829,7 @@
           "naziv": "Monitor MSI MAG 272QPF E20",
           "barkod": "4711377380201",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "SAMSUNG 27\" Essential Monitor G3 G32H EN LS27HG322EUXEN, IPS Full HD, 144Hz, 1ms, AMD",
@@ -841,13 +841,13 @@
           "naziv": "SAMSUNG 32\" Odyssey G5 G50F Gaming Monitor EN LS32FG502EUXEN, Fast IPS 2K/QHD, 180Hz, 1ms, AMD",
           "barkod": "8806097817802",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "LG 32\" UltraFine Monitor 32UR550K-B, VA 4K UHD, 60Hz, U 4ms, Dynamic Action Sync, AMD FreeSync, DisplayPort, 2x",
           "barkod": "8806096228159",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
