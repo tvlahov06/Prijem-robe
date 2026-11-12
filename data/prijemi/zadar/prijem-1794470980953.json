@@ -5,7 +5,7 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T08:09:40.953Z",
-  "azurirano": "2026-11-12T08:13:43.918Z",
+  "azurirano": "2026-11-12T08:13:48.133Z",
   "dokumenti": [
     {
       "naziv": "MSI 7363-101",
@@ -503,7 +503,7 @@
           "naziv": "Televizor 55QNED8MB6C 2026, 139,7 cm (55\"), QNED, 4K UHD, Smart TV, webOS",
           "barkod": "8806096857861",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 40A4S 2026, 101,6 cm (40\"), DLED, FHD, Smart TV, VIDAA OS",
@@ -623,7 +623,7 @@
           "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
           "barkod": "5901292530242",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG 32LQ63006LA 81.3cm (32\"), LED, FHD, webOS",
