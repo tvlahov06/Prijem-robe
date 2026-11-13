@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:37:14.782Z",
-  "azurirano": "2026-11-13T16:54:20.681Z",
+  "azurirano": "2026-11-13T16:54:47.372Z",
   "dokumenti": [
     {
       "naziv": "MSI 7399-101",
@@ -592,7 +592,7 @@
           "naziv": "Tipkovnica MS ELITE K-701C",
           "barkod": "3856032100761",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK KINGSTON FD Exodia 256GB USB 3.2",
