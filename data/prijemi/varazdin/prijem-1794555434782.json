@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:37:14.782Z",
-  "azurirano": "2026-11-13T15:24:33.139Z",
+  "azurirano": "2026-11-13T15:26:52.853Z",
   "dokumenti": [
     {
       "naziv": "MSI 7399-101",
@@ -62,7 +62,7 @@
           "naziv": "Sisac za kosu Philips HC3734/15",
           "barkod": "8720689058247",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sisac za kosu Philips HC5735/15 Series 5000",
@@ -115,7 +115,7 @@
           "naziv": "Slusalice Huawei FreeBuds SE2 bijele (ULC-CT010)",
           "barkod": "6942103101359",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "H-300 TV nosac BOF TVM H-300",
