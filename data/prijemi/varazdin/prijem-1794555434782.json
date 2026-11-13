@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:37:14.782Z",
-  "azurirano": "2026-11-13T16:53:46.125Z",
+  "azurirano": "2026-11-13T16:53:51.353Z",
   "dokumenti": [
     {
       "naziv": "MSI 7399-101",
@@ -508,7 +508,7 @@
           "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
           "barkod": "8715946701271",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link USB3.0 na Gigabit mrezni adapter",
