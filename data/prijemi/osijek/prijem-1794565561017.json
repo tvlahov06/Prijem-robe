@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T10:26:01.017Z",
-  "azurirano": "2026-11-13T11:28:32.058Z",
+  "azurirano": "2026-11-13T11:31:04.404Z",
   "dokumenti": [
     {
       "naziv": "MSI 7322-101",
@@ -32,7 +32,7 @@
           "naziv": "Aparat za kavu Philips EP3347/90 espresso",
           "barkod": "8720389030222",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 685.BK Dedica Style",
@@ -104,7 +104,7 @@
           "naziv": "Friteza na vruci zrak Philips NA555/00 Airfryer Dual Basket, para",
           "barkod": "8720389047558",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Tefal EY245B10 Easy Fry Max crna",
@@ -182,7 +182,7 @@
           "naziv": "Kuhalo za vodu Gorenje K15DWW",
           "barkod": "3838782473739",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kuhalo za vodu Gorenje K15DWBK",
