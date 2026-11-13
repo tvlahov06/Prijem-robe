@@ -5,7 +5,7 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T19:59:41.121Z",
-  "azurirano": "2026-11-13T07:34:33.298Z",
+  "azurirano": "2026-11-13T07:34:56.589Z",
   "dokumenti": [
     {
       "naziv": "MSI 7313-101",
@@ -489,7 +489,7 @@
           "naziv": "Laptop ACER Aspire Lite 15 NX.DK1EX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
           "barkod": "4711474852366",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Monitor 27\" ACER PREDATOR XB273U X2, UM.HX3EE.219, IPS 2K/WQHD, 210Hz, 0.5ms, AMD FreeSync Premium,",
@@ -731,7 +731,7 @@
           "naziv": "Laptop ACER Aspire Lite 15 NX.DK1EX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
           "barkod": "4711474852366",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
