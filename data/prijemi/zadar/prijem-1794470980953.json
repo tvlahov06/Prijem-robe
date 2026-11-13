@@ -3,9 +3,9 @@
   "poslovnica": "zadar",
   "naziv": "",
   "datum": "2026-11-12",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-11-12T08:09:40.953Z",
-  "azurirano": "2026-11-12T08:14:23.050Z",
+  "azurirano": "2026-11-13T07:04:48.041Z",
   "dokumenti": [
     {
       "naziv": "MSI 7363-101",
@@ -1321,5 +1321,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-11-13T07:04:48.041Z"
 }
