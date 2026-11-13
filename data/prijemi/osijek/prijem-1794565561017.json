@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T10:26:01.017Z",
-  "azurirano": "2026-11-13T18:43:43.798Z",
+  "azurirano": "2026-11-13T18:44:06.134Z",
   "dokumenti": [
     {
       "naziv": "MSI 7349-101",
@@ -295,53 +295,6 @@
           "barkod": "0622356306638",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7414-101",
-      "stavke": [
-        {
-          "naziv": "TV LG 50NU850B3LA 127.0cm (50\"), LED, 4K UHD Smart AEU TV, webOS",
-          "barkod": "8806096718117",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor SAMSUNG UE50U8092HUXXH 2026, 127 cm XH (50\"), UHD, Smart TV, Tizen OS",
-          "barkod": "8806097977438",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/W",
-          "barkod": "4548736164215",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Pegla za kosu + susilo Remington 2u1 AS8930E51 AIRviveTM Air Styler",
-          "barkod": "5038061174700",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Uredaj za dubinsko ciscenje Rowenta IN5021F0",
-          "barkod": "3121040095003",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mis Logitech G PRO X Superlight 2, bijeli",
-          "barkod": "5099206104549",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "HP DeskJet 2921 All-in-One (A24HWB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "0198828789822",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
