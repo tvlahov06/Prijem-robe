@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:05:14.529Z",
-  "azurirano": "2026-11-13T08:32:55.135Z",
+  "azurirano": "2026-11-13T08:32:58.510Z",
   "dokumenti": [
     {
       "naziv": "MSI 7354-101",
@@ -1085,7 +1085,7 @@
           "naziv": "SanDisk Ultra Dual Drive USB Type-C 64 GB USB stick G46",
           "barkod": "619659142056",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK KINGSTON FD 128GB USB3.2 Exodia",
@@ -1121,7 +1121,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 256GB, USB3.2",
           "barkod": "740617326383",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB Hub ACER HP.DSCAB.022, Srebrna",
