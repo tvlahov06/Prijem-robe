@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:37:14.782Z",
-  "azurirano": "2026-11-13T16:51:30.586Z",
+  "azurirano": "2026-11-13T16:51:35.736Z",
   "dokumenti": [
     {
       "naziv": "MSI 7399-101",
@@ -616,7 +616,7 @@
           "naziv": "Mis ACER AMR130, Ljubicasta",
           "barkod": "4711474835550",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link LS105G, 5-Port Gigabit Switch, steel",
