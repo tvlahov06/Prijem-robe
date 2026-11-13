@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T10:26:01.017Z",
-  "azurirano": "2026-11-13T18:29:14.084Z",
+  "azurirano": "2026-11-13T18:43:41.011Z",
   "dokumenti": [
     {
       "naziv": "MSI 7349-101",
@@ -653,7 +653,7 @@
           "naziv": "TP-Link RE300, AC1200 WiFi pojacivac signala",
           "barkod": "1210002613798",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link Bluetooth adapter 4.0 UB400",
