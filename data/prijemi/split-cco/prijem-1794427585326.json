@@ -5,43 +5,8 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T19:59:41.121Z",
-  "azurirano": "2026-11-13T13:57:17.760Z",
+  "azurirano": "2026-11-13T13:57:20.376Z",
   "dokumenti": [
-    {
-      "naziv": "MSI 7420-101",
-      "stavke": [
-        {
-          "naziv": "Laptop ACER Aspire Lite 15 NX.JXTEX.002, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 3 5400U, 8 GB RAM, 256 GB SSD,",
-          "barkod": "4711474955425",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ACER Aspire Lite 15 NX.DK1EX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 1 TB SSD,",
-          "barkod": "4711474852366",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Monitor 27\" ACER PREDATOR XB273U X2, UM.HX3EE.219, IPS 2K/WQHD, 210Hz, 0.5ms, AMD FreeSync Premium,",
-          "barkod": "4711474917980",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Monitor MSI MAG 272QPF E20",
-          "barkod": "4711377380201",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "SAMSUNG 32\" Odyssey G5 G50F Gaming Monitor EN LS32FG502EUXEN, Fast IPS 2K/QHD, 180Hz, 1ms, AMD",
-          "barkod": "8806097817802",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
     {
       "naziv": "MSI 7421-101",
       "stavke": [
