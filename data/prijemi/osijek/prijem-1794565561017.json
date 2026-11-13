@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T10:26:01.017Z",
-  "azurirano": "2026-11-13T16:37:04.528Z",
+  "azurirano": "2026-11-13T16:37:11.496Z",
   "dokumenti": [
     {
       "naziv": "MSI 7349-101",
@@ -311,7 +311,7 @@
           "naziv": "Slusalice bluetooth JBL LIVE 770 NC bijele WHT",
           "barkod": "1200130004599",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice bluetooth JBL LIVE 770 NC crne LK",
@@ -347,7 +347,7 @@
           "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
           "barkod": "1200130029967",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crveni",
