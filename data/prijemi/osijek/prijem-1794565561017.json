@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T10:26:01.017Z",
-  "azurirano": "2026-11-13T11:00:52.177Z",
+  "azurirano": "2026-11-13T11:01:02.040Z",
   "dokumenti": [
     {
       "naziv": "MSI 7322-101",
@@ -80,7 +80,7 @@
           "naziv": "Parna postaja Philips PSG7300/80",
           "barkod": "8720389058332",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Gorenje SGD3000BKV",
@@ -98,7 +98,7 @@
           "naziv": "Friteza na vruci zrak Philips NA462/70 Airfryer vertikalni",
           "barkod": "8720389072239",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA555/00 Airfryer Dual Basket, para",
