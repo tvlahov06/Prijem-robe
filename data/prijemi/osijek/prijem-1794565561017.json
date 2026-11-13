@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T10:26:01.017Z",
-  "azurirano": "2026-11-13T18:21:58.736Z",
+  "azurirano": "2026-11-13T18:22:44.938Z",
   "dokumenti": [
     {
       "naziv": "MSI 7349-101",
@@ -712,13 +712,13 @@
           "naziv": "TV LG 50NU850B3LA 127.0cm (50\"), LED, 4K UHD Smart AEU TV, webOS",
           "barkod": "8806096718117",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE50U8092HUXXH 2026, 127 cm XH (50\"), UHD, Smart TV, Tizen OS",
           "barkod": "8806097977438",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Slusalice Sony potpuno bezicne WF-C710N/W",
@@ -748,7 +748,7 @@
           "naziv": "HP DeskJet 2921 All-in-One (A24HWB) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
           "barkod": "0198828789822",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
