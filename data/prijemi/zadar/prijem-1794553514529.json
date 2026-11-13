@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:05:14.529Z",
-  "azurirano": "2026-11-13T08:33:09.823Z",
+  "azurirano": "2026-11-13T08:33:14.852Z",
   "dokumenti": [
     {
       "naziv": "MSI 7354-101",
@@ -833,7 +833,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 128GB, USB3.2",
           "barkod": "740617326376",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Asus USB-C Mini Dock DC100",
@@ -1091,7 +1091,7 @@
           "naziv": "USB STICK KINGSTON FD 128GB USB3.2 Exodia",
           "barkod": "740617314359",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP HyperX Wrist Rest - Keyboard - Full Size",
