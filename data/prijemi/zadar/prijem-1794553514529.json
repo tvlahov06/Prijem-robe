@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:05:14.529Z",
-  "azurirano": "2026-11-13T08:32:47.482Z",
+  "azurirano": "2026-11-13T08:32:53.002Z",
   "dokumenti": [
     {
       "naziv": "MSI 7354-101",
@@ -911,7 +911,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-061 300x250X2mm",
@@ -1037,7 +1037,7 @@
           "naziv": "Memorijska kartica ADATA microSD U3, V30, 180/160MBs, A2SP-RA1 128GB",
           "barkod": "4711085949202",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Book Cover s tipkovnicom slim za Tab S12 Ultra crni",
@@ -1067,7 +1067,7 @@
           "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
           "barkod": "740617347999",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
