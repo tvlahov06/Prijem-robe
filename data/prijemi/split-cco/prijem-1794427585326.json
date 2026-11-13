@@ -5,7 +5,7 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T19:59:41.121Z",
-  "azurirano": "2026-11-13T08:32:43.897Z",
+  "azurirano": "2026-11-13T08:32:50.428Z",
   "dokumenti": [
     {
       "naziv": "MSI 7313-101",
@@ -826,13 +826,13 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
           "barkod": "740617348408",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "WHITE SHARK GK-002422 Wakizashi, mehanicka, HR Blue Switch, roza boja | Gaming tipkovnica",
