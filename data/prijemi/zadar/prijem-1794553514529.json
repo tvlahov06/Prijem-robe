@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:05:14.529Z",
-  "azurirano": "2026-11-13T12:31:17.006Z",
+  "azurirano": "2026-11-13T12:31:19.222Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -303,17 +303,6 @@
           "barkod": "6942103155062",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7466-101",
-      "stavke": [
-        {
-          "naziv": "Aparat za kavu Philips EP5549/70 espresso",
-          "barkod": "8720389032271",
-          "ocekivano": 3,
-          "skenirano": 0
         }
       ]
     }
