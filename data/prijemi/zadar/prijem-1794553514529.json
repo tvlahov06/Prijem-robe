@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:05:14.529Z",
-  "azurirano": "2026-11-13T08:32:26.609Z",
+  "azurirano": "2026-11-13T08:32:32.605Z",
   "dokumenti": [
     {
       "naziv": "MSI 7354-101",
@@ -863,7 +863,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
           "barkod": "740617326260",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "WHITE SHARK GK-2022 Shinobi, bijela, mehanicka HR Blue Switch | Gaming tipkovnica",
@@ -911,7 +911,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 5,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-061 300x250X2mm",
