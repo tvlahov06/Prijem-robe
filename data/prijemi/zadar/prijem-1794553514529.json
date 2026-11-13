@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:05:14.529Z",
-  "azurirano": "2026-11-13T08:47:52.454Z",
+  "azurirano": "2026-11-13T08:47:56.886Z",
   "dokumenti": [
     {
       "naziv": "MSI 7354-101",
@@ -983,7 +983,7 @@
           "naziv": "Podloga za mis HyperX Pulsefire XL HMPM1-XL",
           "barkod": "196188567333",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
