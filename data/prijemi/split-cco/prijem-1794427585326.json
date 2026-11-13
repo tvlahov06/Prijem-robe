@@ -5,7 +5,7 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T19:59:41.121Z",
-  "azurirano": "2026-11-13T08:36:05.642Z",
+  "azurirano": "2026-11-13T08:36:10.160Z",
   "dokumenti": [
     {
       "naziv": "MSI 7313-101",
@@ -874,7 +874,7 @@
           "naziv": "Tinta HP 652 Black Original Ink Advantage Cartridge, F6V25AE",
           "barkod": "889296160939",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 128GB micSDHC Canvas Select Plus G3 150R+",
@@ -1042,7 +1042,7 @@
           "naziv": "HP 308e EvoMore Black Original Ink Cartridge",
           "barkod": "0199764692306",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "LENOVO 65W AC Adapter",
