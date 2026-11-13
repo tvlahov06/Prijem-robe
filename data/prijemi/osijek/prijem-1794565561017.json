@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T10:26:01.017Z",
-  "azurirano": "2026-11-13T16:37:11.496Z",
+  "azurirano": "2026-11-13T16:44:16.125Z",
   "dokumenti": [
     {
       "naziv": "MSI 7349-101",
@@ -210,7 +210,7 @@
           "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
           "barkod": "4242005306978",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BGC05AAA2",
@@ -240,7 +240,7 @@
           "naziv": "Usisavac stapni Dyson V12 Detect Slim Absolute (494876)",
           "barkod": "5025155136294",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Usisavac stapni Dyson V12s Detect Slim Submarine + Low-reach adaptor",
@@ -258,7 +258,7 @@
           "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
           "barkod": "622356350907",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Ninja TB401EU Detect Power & Processor Pro",
@@ -295,137 +295,6 @@
           "barkod": "0622356306638",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7394-101",
-      "stavke": [
-        {
-          "naziv": "Slusalice bezicne JBL VIVE FLEX 2 True Wireless roze",
-          "barkod": "1200130015236",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL LIVE 770 NC bijele WHT",
-          "barkod": "1200130004599",
-          "ocekivano": 2,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL LIVE 770 NC crne LK",
-          "barkod": "1200130004582",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice bluetooth potpuno bezicne JBL TUNE BUDS 2 crne",
-          "barkod": "1200130016356",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CLIP 5 crveni",
-          "barkod": "1200130010194",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CLIP 5 rozi",
-          "barkod": "1200130010231",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL GRIP plavi",
-          "barkod": "1200130024856",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
-          "barkod": "1200130029967",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crveni",
-          "barkod": "1200130019562",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 ljubicasti",
-          "barkod": "1200130019593",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 rozi NK",
-          "barkod": "1200130019623",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CLIP 5 crni",
-          "barkod": "1200130010170",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Soundbar Hisense HS2000",
-          "barkod": "6942351411514",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Soundbar Samsung",
-          "barkod": "8806097071877",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Soundbar Samsung",
-          "barkod": "8806097091905",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Soundbar Hisense AX5125H",
-          "barkod": "6942147497432",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Soundbar SAMSUNG",
-          "barkod": "8806099014704",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Soundbar SAMSUNG Q serije",
-          "barkod": "8806099014148",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Soundbar Hisense AX5140Q",
-          "barkod": "6942351423456",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "LG soundbar S70TR",
-          "barkod": "8806096575277",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Sony MDR3RS.CE7",
-          "barkod": "4548736185166",
-          "ocekivano": 3,
-          "skenirano": 3
         }
       ]
     },
@@ -742,7 +611,7 @@
           "naziv": "SBOX Desktop stalak LCD-LM01-2 (13-32\"/9kg monitor + 4kg laptop/VESA 100x100)",
           "barkod": "3858894502844",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 256GB microSDXC Canvas Go Plus Gen4 + ADP",
