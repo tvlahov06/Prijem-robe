@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T08:43:51.543Z",
-  "azurirano": "2026-11-13T11:07:03.501Z",
+  "azurirano": "2026-11-13T11:07:22.638Z",
   "dokumenti": [
     {
       "naziv": "MSI 7409-101",
@@ -668,19 +668,19 @@
           "naziv": "Laptop ACER Extensa 15, NX.EKUEX.001, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 5 7430U, 16 GB RAM, 512 GB",
           "barkod": "4711721054949",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Laptop ACER Aspire Lite 17, NX.DPJEX.001, 43.9cm (17.3\") IPS Full HD, Intel Core Ultra 5 115U, 16 GB RAM, 512 GB",
           "barkod": "4711721076774",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ACER Nitro V15, NH.U3REX.00L, 39.6cm (15.6\") IPS Full HD 165Hz, AMD Ryzen 7 170, 16 GB RAM, 512 GB",
           "barkod": "4711721086384",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS ROG Strix G16 G615LW-S5031W, 40.6cm",
@@ -704,7 +704,7 @@
           "naziv": "Laptop HP HyperX OMEN 16-am2000nm, 40.6 cm (16.0\") K 240Hz, Intel Core Ultra 7 255HX, 16 GB RAM, 512 GB",
           "barkod": "826581077848",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO Legion 5i, 83VK001NSC, 38.9cm (15.3\") OLED WQXGA 165Hz, Intel Core Ultra 9 290HX, 32 GB",
