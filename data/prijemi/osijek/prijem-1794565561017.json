@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T10:26:01.017Z",
-  "azurirano": "2026-11-13T18:44:06.134Z",
+  "azurirano": "2026-11-13T18:44:22.501Z",
   "dokumenti": [
     {
       "naziv": "MSI 7349-101",
@@ -295,17 +295,6 @@
           "barkod": "0622356306638",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7415-101",
-      "stavke": [
-        {
-          "naziv": "gratis artikl",
-          "barkod": "2010033328314",
-          "ocekivano": 5,
-          "skenirano": 5
         }
       ]
     },
