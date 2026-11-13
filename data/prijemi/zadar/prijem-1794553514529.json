@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:05:14.529Z",
-  "azurirano": "2026-11-13T08:29:06.914Z",
+  "azurirano": "2026-11-13T08:29:11.488Z",
   "dokumenti": [
     {
       "naziv": "MSI 7354-101",
@@ -583,7 +583,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
           "barkod": "8806097827177",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
@@ -613,7 +613,7 @@
           "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/128GB pistachio zelena",
           "barkod": "8806099395100",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/128GB blueberry plava",
