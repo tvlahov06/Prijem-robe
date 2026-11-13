@@ -5,7 +5,7 @@
   "datum": "2026-11-12",
   "status": "aktivan",
   "kreirano": "2026-11-12T19:59:41.121Z",
-  "azurirano": "2026-11-13T07:38:40.962Z",
+  "azurirano": "2026-11-13T07:38:44.711Z",
   "dokumenti": [
     {
       "naziv": "MSI 7313-101",
@@ -814,7 +814,7 @@
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-071 300x250X2mm",
           "barkod": "3858894507931",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, L10A1-RA1 100/25MBs, 128GB",
@@ -844,7 +844,7 @@
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-061 300x250X2mm",
           "barkod": "3858894507924",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ruksak Lenovo 15,6'' ThinkPad Basic, 4X40K09936",
