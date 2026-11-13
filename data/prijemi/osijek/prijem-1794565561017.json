@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T10:26:01.017Z",
-  "azurirano": "2026-11-13T16:24:31.431Z",
+  "azurirano": "2026-11-13T16:29:16.996Z",
   "dokumenti": [
     {
       "naziv": "MSI 7349-101",
@@ -156,7 +156,7 @@
           "naziv": "Parna postaja Tefal GV9920E0, 9 bara, Blue Gold",
           "barkod": "3121040095645",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Krups KP143GF0 Mini Me 2 arctic grey",
@@ -1280,83 +1280,6 @@
           "barkod": "195950823974",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7439-101",
-      "stavke": [
-        {
-          "naziv": "PS5 Media Remote",
-          "barkod": "711719801122",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "PS5 Vertical Stand",
-          "barkod": "711719579540",
-          "ocekivano": 20,
-          "skenirano": 20
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Midnight Black za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719022381",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Cosmic Red za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719023012",
-          "ocekivano": 20,
-          "skenirano": 20
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Grey Camo za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719023708",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Techno Red",
-          "barkod": "711719020677",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Remix Green",
-          "barkod": "711719020912",
-          "ocekivano": 20,
-          "skenirano": 20
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Chroma Pearl v2",
-          "barkod": "711719023722",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Chroma Indigo v2",
-          "barkod": "711719023616",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless controller Starlight Blue za PS5, PC, Mac i mobilni uredaj",
-          "barkod": "711719022473",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "PS5 Dualsense Wireless Controller Chroma Teal v2",
-          "barkod": "711719023838",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "PlayStation 5 Slim Digital Edition E chassis",
-          "barkod": "711719020844",
-          "ocekivano": 20,
-          "skenirano": 20
         }
       ]
     },
