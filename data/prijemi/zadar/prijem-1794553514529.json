@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:05:14.529Z",
-  "azurirano": "2026-11-13T07:58:11.839Z",
+  "azurirano": "2026-11-13T08:05:02.175Z",
   "dokumenti": [
     {
       "naziv": "MSI 7354-101",
@@ -340,13 +340,13 @@
           "naziv": "Perilica posuda samostojeca 60cm Hisense HS642D90B",
           "barkod": "6974805075805",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica posuda samostojeca 60cm Hisense HS642D90B",
           "barkod": "6974805075805",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Perilica rublja ELECTROLUX EW6F8482E",
@@ -388,7 +388,7 @@
           "naziv": "Ploca indukcija Gorenje GI6432BSCE",
           "barkod": "3838782836749",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ploca ugradbena Bosch PIX631HC1E",
@@ -406,7 +406,7 @@
           "naziv": "Ploca ugradbena indukcija Gorenje GI6442BSCE",
           "barkod": "3838782836763",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilica rublja GORENJE DG2P7D",
