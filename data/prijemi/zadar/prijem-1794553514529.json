@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:05:14.529Z",
-  "azurirano": "2026-11-13T09:14:12.418Z",
+  "azurirano": "2026-11-13T09:14:50.219Z",
   "dokumenti": [
     {
       "naziv": "MSI 7354-101",
@@ -447,13 +447,13 @@
           "naziv": "Prociscivac zraka Bosch Air 4000",
           "barkod": "4062321594749",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Prociscivac zraka BOSCH Air 4000i",
           "barkod": "4062321912741",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Prociscivac zraka BOSCH Air 6000i",
