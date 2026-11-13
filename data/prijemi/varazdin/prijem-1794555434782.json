@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:37:14.782Z",
-  "azurirano": "2026-11-13T16:46:59.682Z",
+  "azurirano": "2026-11-13T16:47:01.917Z",
   "dokumenti": [
     {
       "naziv": "MSI 7399-101",
@@ -436,7 +436,7 @@
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
           "barkod": "4897098683446",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrofon HyperX QuadCast 2 BK",
