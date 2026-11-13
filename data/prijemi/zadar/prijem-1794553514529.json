@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:05:14.529Z",
-  "azurirano": "2026-11-13T07:52:06.249Z",
+  "azurirano": "2026-11-13T07:52:10.574Z",
   "dokumenti": [
     {
       "naziv": "MSI 7354-101",
@@ -310,7 +310,7 @@
           "naziv": "Pecnica ugradbena Bosch HBG7741B1",
           "barkod": "4242005326563",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena Bosch HQA574BB3",
