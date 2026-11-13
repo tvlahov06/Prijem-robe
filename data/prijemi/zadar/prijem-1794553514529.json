@@ -5,7 +5,7 @@
   "datum": "2026-11-13",
   "status": "aktivan",
   "kreirano": "2026-11-13T07:05:14.529Z",
-  "azurirano": "2026-11-13T09:15:28.737Z",
+  "azurirano": "2026-11-13T09:15:40.788Z",
   "dokumenti": [
     {
       "naziv": "MSI 7354-101",
@@ -429,7 +429,7 @@
           "naziv": "Ovlazivac zraka Gorenje H50W",
           "barkod": "3838782471056",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ovlazivac zraka Philips HU4210/04",
