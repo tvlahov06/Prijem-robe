@@ -1,0 +1,312 @@
+{
+  "id": "prijem-1794845911985",
+  "poslovnica": "zagreb-cco-east",
+  "naziv": "ROBA 16-11-2026",
+  "datum": "2026-11-16",
+  "status": "aktivan",
+  "kreirano": "2026-11-16T16:18:31.985Z",
+  "azurirano": "2026-11-16T16:18:31.985Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 7462-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu Philips EP5443/70 espresso",
+          "barkod": "8720389052354",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP5549/70 espresso",
+          "barkod": "8720389032271",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7473-101",
+      "stavke": [
+        {
+          "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
+          "barkod": "198415435569",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Volan LOGITECH G G29 + mjenjac",
+          "barkod": "5099206132467",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Laptop HP VICTUS Gaming 15-fa2001nmx, 39.6 cm (15.6\") IPS Full HD 144Hz, Intel Core i5-13420H, 16 GB RAM, 512",
+          "barkod": "821844546567",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "LOGITECH G29 za PS3, PS4, PS5 i PC, igraci volan",
+          "barkod": "5099206057302",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SONY K43S25M2PB 2026, 108 cm (43\"), Bravia 2 EI II, 4K Google TV",
+          "barkod": "4548736180420",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke E7 WH-CH730N/B",
+          "barkod": "4548736179721",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SONY K55A65PB.CEI 2026, 139 cm (55\"), Bravia 6, OLED, 4K Google TV",
+          "barkod": "4548736183025",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
+          "barkod": "5901292530242",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX ENCORE 2 EP",
+          "barkod": "1200130020216",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 55NU850B3LA 139.7cm (55\"), LED, 4K UHD Smart AEU TV, webOS",
+          "barkod": "8806096715710",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7486-101",
+      "stavke": [
+        {
+          "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
+          "barkod": "8720389032998",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG8300/80",
+          "barkod": "8720389066504",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips XV5113/01",
+          "barkod": "8720389035975",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP1A3B10 Piccolo XS black/anthracite PF",
+          "barkod": "3016661159121",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Tefal EY9278E0, Dual Infrared",
+          "barkod": "3045380407220",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP243B10 Genio S anthracite PF",
+          "barkod": "3045380024335",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za glavu Remington XR1600",
+          "barkod": "5038061144017",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock Q10 VF+ crna",
+          "barkod": "6936905902368",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock Saros 20 Sonic Complete crna",
+          "barkod": "6936905905765",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGB41HYG1H ProHygienic Bijela",
+          "barkod": "4242005483839",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGC05AAA2",
+          "barkod": "4242005076321",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Miele Boost CX1 Blue Pulse",
+          "barkod": "4002516897026",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Dyson V12 Detect Slim Absolute (494876)",
+          "barkod": "5025155136294",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907CP 900W",
+          "barkod": "8006447000087",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za sladoled Ninja NC502EU Creami Deluxe",
+          "barkod": "622356350907",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja DZ950EU Dual Zone",
+          "barkod": "622356353229",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja FN101EUST Crispi 4u1 Stone",
+          "barkod": "0622356317610",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Shark IZ400EU",
+          "barkod": "0622356254601",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu DeLonghi ECAM 290.61.B Magnifica Evo",
+          "barkod": "8004399021396",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sokovnik Hurom H320N mat zeleni",
+          "barkod": "8809686401048",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "za oblikovanje kose Shark HD426SLEU FlexStyle 3u1",
+          "barkod": "0622356306638",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
+          "barkod": "3474636819713",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
+          "barkod": "3474637116415",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7496-101",
+      "stavke": [
+        {
+          "naziv": "PlayStation 5 Slim E chassis",
+          "barkod": "711719020172",
+          "ocekivano": 40,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim Digital Edition E chassis",
+          "barkod": "711719020844",
+          "ocekivano": 50,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7497-101",
+      "stavke": [
+        {
+          "naziv": "Slusalice bezicne JBL TUNE 235 crne",
+          "barkod": "1200130025969",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 crni",
+          "barkod": "1200130019272",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "198828789556",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP DeskJet 2920 All-in-One (89F97B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "198701680109",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP Smart Tank 580 All-in-One (1F3Y2A) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
+          "barkod": "196188530313",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP DeskJet 4322 All-in-One (A24HNB) Color Inkjet MF pisac - Print, Scan (ADF), Copy, Wi-Fi, USB, A4 - Instant Ink",
+          "barkod": "198828789709",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP Smart Tank 720 All-in-One (6UU46A) Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
+          "barkod": "195908302995",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Printer HP LaserJet M207dw, 8J9K9F",
+          "barkod": "0197961893083",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Epson EcoTank L4366 Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
+          "barkod": "8715946733289",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
