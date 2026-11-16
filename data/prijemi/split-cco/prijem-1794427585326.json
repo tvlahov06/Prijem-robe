@@ -2,10 +2,10 @@
   "id": "prijem-1794427585326",
   "poslovnica": "split-cco",
   "naziv": "Roba u dolasku",
-  "datum": "2026-11-14",
+  "datum": "2026-11-16",
   "status": "aktivan",
-  "kreirano": "2026-11-14T01:05:07.876Z",
-  "azurirano": "2026-11-14T01:05:07.876Z",
+  "kreirano": "2026-11-16T12:06:26.407Z",
+  "azurirano": "2026-11-16T12:06:26.407Z",
   "dokumenti": [
     {
       "naziv": "MSI 7467-101",
@@ -342,6 +342,23 @@
           "naziv": "Dyson susilo za kosu Supersonic HD07 Prussian Blue/ Rich Copper (Curly+Coily)",
           "barkod": "5025155117859",
           "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7491-101",
+      "stavke": [
+        {
+          "naziv": "PlayStation 5 Slim E chassis",
+          "barkod": "711719020172",
+          "ocekivano": 50,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation 5 Slim Digital Edition E chassis",
+          "barkod": "711719020844",
+          "ocekivano": 50,
           "skenirano": 0
         }
       ]
