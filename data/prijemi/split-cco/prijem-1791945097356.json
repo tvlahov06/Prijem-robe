@@ -2,10 +2,10 @@
   "id": "prijem-1791945097356",
   "poslovnica": "split-cco",
   "naziv": "Komisija u dolasku",
-  "datum": "2026-11-10",
+  "datum": "2026-11-16",
   "status": "aktivan",
-  "kreirano": "2026-11-10T18:13:52.755Z",
-  "azurirano": "2026-11-12T15:55:06.254Z",
+  "kreirano": "2026-11-16T12:46:11.277Z",
+  "azurirano": "2026-11-16T12:46:11.277Z",
   "dokumenti": [
     {
       "naziv": "Garmin",
@@ -436,6 +436,65 @@
           "naziv": "Slusalice Xiaomi Redmi Buds 8 Lite plave",
           "barkod": "6932554471927",
           "ocekivano": 5,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Microline",
+      "stavke": [
+        {
+          "naziv": "Micro linija Philips TAM3505m2, DAB +, USB, Bluetooth",
+          "barkod": "4895229151956",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Philips gramofon TAV5000, Bluetooth",
+          "barkod": "4895229178809",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Philips in-ear BT slusalice TAT1300BK, crne",
+          "barkod": "4895229176935",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Philips in-ear BT slusalice TAT1300LB, svijetloplave",
+          "barkod": "4895229176959",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Philips in-ear BT slusalice TAT1300PK, roze",
+          "barkod": "4895229176966",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Philips in-ear BT slusalice TAT1300WT, bijele",
+          "barkod": "4895229176942",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PHILIPS TAV3000B/10, gramofon, Bluetooth",
+          "barkod": "4895229163782",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Radio Philips TAM6805/10- mikro linija",
+          "barkod": "4895229109841",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Philips Fidelio L5",
+          "barkod": "4895229182585",
+          "ocekivano": 1,
           "skenirano": 0
         }
       ]
