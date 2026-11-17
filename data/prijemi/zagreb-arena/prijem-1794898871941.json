@@ -5,7 +5,7 @@
   "datum": "2026-11-17",
   "status": "aktivan",
   "kreirano": "2026-11-17T07:01:11.941Z",
-  "azurirano": "2026-11-17T08:42:32.382Z",
+  "azurirano": "2026-11-17T08:42:38.324Z",
   "dokumenti": [
     {
       "naziv": "MSI 7481-101",
@@ -241,19 +241,19 @@
           "naziv": "Usisavac robot Roborock Q10 VF crna",
           "barkod": "6936905901620",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Q10 VF+ crna",
           "barkod": "6936905902368",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac robot Roborock Q7 BF+ sa stanicom za samopraznjenje crna",
           "barkod": "6936905901927",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "robot Roborock Saros 20",
