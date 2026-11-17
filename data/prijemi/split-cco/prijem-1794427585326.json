@@ -5,7 +5,7 @@
   "datum": "2026-11-16",
   "status": "aktivan",
   "kreirano": "2026-11-16T12:06:26.407Z",
-  "azurirano": "2026-11-17T08:18:26.923Z",
+  "azurirano": "2026-11-17T08:19:24.810Z",
   "dokumenti": [
     {
       "naziv": "MSI 7467-101",
@@ -150,13 +150,13 @@
           "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
           "barkod": "8720389032998",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8300/80",
           "barkod": "8720389066504",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mop elektricni Philips XV5113/01",
@@ -180,7 +180,7 @@
           "naziv": "Usisavac Rowenta RO3721EA",
           "barkod": "3221616129719",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Tefal GV9920E0, 9 bara, Blue Gold",
@@ -312,7 +312,7 @@
           "naziv": "Friteza na vruci zrak Ninja FN101EUST Crispi 4u1 Stone",
           "barkod": "0622356317610",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pekac za pizzu Kenwood KPO10.000BK My pizzeria, black",
@@ -342,7 +342,7 @@
           "naziv": "Dyson susilo za kosu Supersonic HD07 Prussian Blue/ Rich Copper (Curly+Coily)",
           "barkod": "5025155117859",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
