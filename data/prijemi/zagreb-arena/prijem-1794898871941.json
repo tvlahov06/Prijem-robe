@@ -5,7 +5,7 @@
   "datum": "2026-11-17",
   "status": "aktivan",
   "kreirano": "2026-11-17T07:01:11.941Z",
-  "azurirano": "2026-11-17T10:22:31.868Z",
+  "azurirano": "2026-11-17T10:22:47.016Z",
   "dokumenti": [
     {
       "naziv": "MSI 7481-101",
@@ -380,107 +380,6 @@
           "barkod": "5025155117859",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7498-101",
-      "stavke": [
-        {
-          "naziv": "Slusalice JBL TUNE 110E bijele",
-          "barkod": "1200130022739",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice JBL TUNE 530C USB-C bez",
-          "barkod": "1200130030086",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice bezicne JBL WAVE BEAM 2 True Wireless crne",
-          "barkod": "1200130015250",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice bezicne JBL TUNE 235 crne",
-          "barkod": "1200130025969",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 crni",
-          "barkod": "1200130019272",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 plavi",
-          "barkod": "1200130019289",
-          "ocekivano": 3,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mikrofon JBL Easy Sing Mics ICS",
-          "barkod": "1200130032752",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice potpuno bezicne JBL WAVE FLEX TWS bez",
-          "barkod": "6925281953507",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789556",
-          "ocekivano": 4,
-          "skenirano": 0
-        },
-        {
-          "naziv": "HP Smart Tank 580 All-in-One (1F3Y2A) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
-          "barkod": "196188530313",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Printer HP LaserJet M110w",
-          "barkod": "194850676970",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "HP Smart Tank 720 All-in-One (6UU46A) Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
-          "barkod": "195908302995",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "CANON Pixma MG2551S Color Inkjet MF pisac - Print, Copy, Scan, A4",
-          "barkod": "4549292234206",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "CANON Pixma G3416 Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Cloud, A4",
-          "barkod": "4549292219470",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Printer HP Smart Tank 725 AiO",
-          "barkod": "195908302254",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Epson EcoTank L4366 Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
-          "barkod": "8715946733289",
-          "ocekivano": 3,
-          "skenirano": 0
         }
       ]
     },
