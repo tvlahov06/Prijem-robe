@@ -5,7 +5,7 @@
   "datum": "2026-11-17",
   "status": "aktivan",
   "kreirano": "2026-11-17T07:41:41.165Z",
-  "azurirano": "2026-11-17T09:08:26.029Z",
+  "azurirano": "2026-11-17T09:08:33.405Z",
   "dokumenti": [
     {
       "naziv": "MSI 7466-101",
@@ -163,17 +163,6 @@
           "barkod": "3474637116415",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 238-141",
-      "stavke": [
-        {
-          "naziv": "Laptop HP HyperX OMEN 15-gb0003nm, 38.9 cm (15.3\") WQXGA 180Hz, AMD Ryzen 7 260, 16 GB RAM, 512 GB",
-          "barkod": "821844674277",
-          "ocekivano": 1,
-          "skenirano": 0
         }
       ]
     }
