@@ -5,7 +5,7 @@
   "datum": "2026-11-17",
   "status": "aktivan",
   "kreirano": "2026-11-17T11:04:21.216Z",
-  "azurirano": "2026-11-17T11:43:15.317Z",
+  "azurirano": "2026-11-17T11:43:41.569Z",
   "dokumenti": [
     {
       "naziv": "MSI 7463-101",
@@ -14,13 +14,13 @@
           "naziv": "Aparat za kavu Philips EP5443/70 espresso",
           "barkod": "8720389052354",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Philips EP5549/70 espresso",
           "barkod": "8720389032271",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         }
       ]
     },
