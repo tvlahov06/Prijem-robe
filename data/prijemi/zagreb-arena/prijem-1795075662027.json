@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T08:07:42.027Z",
-  "azurirano": "2026-11-19T13:40:00.838Z",
+  "azurirano": "2026-11-19T13:40:14.084Z",
   "dokumenti": [
     {
       "naziv": "MSI 7498-101",
@@ -904,13 +904,13 @@
           "naziv": "Televizor HISENSE 55U7SE 2026, 139,7 cm (55\"), ULED Mini LED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351433677",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SONY K55XR75M2PB 2026, 139 cm (55\"), Bravia CEI 7 II, TRUE RGB",
           "barkod": "4548736178373",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TV LG 43QNED72B3B 109.2cm (43\"), QNED, 4K UHD AEU Smart TV, webOS",
@@ -922,7 +922,7 @@
           "naziv": "Televizor LG 55QNED72B3B 2026, 139,7 cm (55\"), QNED, AEU 4K UHD, Smart TV, webOS",
           "barkod": "8806096715642",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE43U8072HUXXH 2026, 109 cm XH (43\"), UHD, Smart TV, Tizen OS",
@@ -940,7 +940,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
@@ -952,19 +952,19 @@
           "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
           "barkod": "5901292530242",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor TCL 32S5L 2026, 32\", QLED, Google TV",
           "barkod": "5901292530389",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TCL QLED TV 40\" 40S5L, Google TV",
           "barkod": "5901292530372",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-ULT900N/H",
@@ -1024,7 +1024,7 @@
           "naziv": "Televizor SONY K55A65PB.CEI 2026, 139 cm (55\"), Bravia 6, OLED, 4K Google TV",
           "barkod": "4548736183025",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Televizor SONY K65A65PB.CEI 2026, 164 cm (65\"), Bravia 6, OLED, 4K Google TV",
