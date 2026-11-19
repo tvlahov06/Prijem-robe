@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T08:07:42.027Z",
-  "azurirano": "2026-11-19T09:09:59.809Z",
+  "azurirano": "2026-11-19T09:11:22.983Z",
   "dokumenti": [
     {
       "naziv": "MSI 7498-101",
@@ -325,7 +325,7 @@
           "naziv": "Mikser rucni Bosch MFQ3010",
           "barkod": "4242002439808",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser Stapni Bosch MSM4B621 ErgoMaster",
