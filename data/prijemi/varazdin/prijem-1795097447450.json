@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T14:10:47.450Z",
-  "azurirano": "2026-11-19T14:37:20.298Z",
+  "azurirano": "2026-11-19T14:37:28.780Z",
   "dokumenti": [
     {
       "naziv": "MSI 7553-101",
@@ -771,13 +771,13 @@
           "naziv": "Apple AirPods 4 (USB-C)",
           "barkod": "195949688591",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple AirPods 5",
           "barkod": "195951379036",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Watch SE3 v2 GPS 40mm Starlight Aluminium Case with Sand Sport Band - S/M",
