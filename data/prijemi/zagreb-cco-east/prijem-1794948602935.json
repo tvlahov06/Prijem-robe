@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T16:22:23.180Z",
-  "azurirano": "2026-11-19T21:01:58.359Z",
+  "azurirano": "2026-11-19T21:02:20.745Z",
   "dokumenti": [
     {
       "naziv": "MSI 7497-101",
@@ -508,7 +508,7 @@
           "naziv": "IPL depilator Braun PL5221",
           "barkod": "8700216937818",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osobna vaga Tefal BM2600V0 Body Up 2.0",
@@ -526,7 +526,7 @@
           "naziv": "IPL depilator Braun PL5152",
           "barkod": "7500435238366",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "2D Epilator BRAUN SES9-341 2D",
