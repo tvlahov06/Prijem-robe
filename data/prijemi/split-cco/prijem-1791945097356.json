@@ -5,7 +5,7 @@
   "datum": "2026-11-16",
   "status": "aktivan",
   "kreirano": "2026-11-16T12:46:11.277Z",
-  "azurirano": "2026-11-19T23:05:55.715Z",
+  "azurirano": "2026-11-19T23:05:58.766Z",
   "dokumenti": [
     {
       "naziv": "Garmin",
@@ -37,89 +37,6 @@
         {
           "naziv": "Pametni sat Garmin Fenix 9 PRO 51 mm AMOLED Titanium Graphite/Black",
           "barkod": "753759380212",
-          "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "Comtrade",
-      "stavke": [
-        {
-          "naziv": "DJI Mic 3 (2 TX + 1 RX + Charging Case)",
-          "barkod": "6937224116344",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "DJI Mic Mini 2S (1 TX + 1 RX)",
-          "barkod": "6937224149403",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "DJI Mic Mini 2S (2 TX + 1 RX + Charging Case)",
-          "barkod": "6937224141018",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "DJI Osmo 360 II Limitless Riding Combo",
-          "barkod": "6937224177819",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "DJI Osmo 360 II Standard Combo",
-          "barkod": "6937224148376",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "DJI OSMO Action 4 Adventure Combo",
-          "barkod": "6941565965080",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "DJI Osmo Action 5 Pro Adventure Combo",
-          "barkod": "6941565981059",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "DJI Osmo Action 6 Adventure Combo",
-          "barkod": "6937224126107",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "DJI Osmo Nano (128GB)",
-          "barkod": "6937224115453",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "DJI Osmo Pocket 4P Vlog Combo",
-          "barkod": "6937224148307",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Gimbal DJI Osmo Mobile 7",
-          "barkod": "6941565997586",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Gimbal DJI Osmo Mobile 8P Creator Combo",
-          "barkod": "6937224142930",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Kamera DJI Osmo Pocket 4 Creator Combo",
-          "barkod": "6937224133082",
           "ocekivano": 1,
           "skenirano": 0
         }
