@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T08:07:42.027Z",
-  "azurirano": "2026-11-19T08:46:52.832Z",
+  "azurirano": "2026-11-19T08:54:19.482Z",
   "dokumenti": [
     {
       "naziv": "MSI 7498-101",
@@ -121,7 +121,7 @@
           "naziv": "Usisavac Bosch BGB38RD2",
           "barkod": "4242005359271",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BCS711EXT Unlimited 7, crni",
