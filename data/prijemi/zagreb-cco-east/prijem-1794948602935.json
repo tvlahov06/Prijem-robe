@@ -2,10 +2,10 @@
   "id": "prijem-1794948602935",
   "poslovnica": "zagreb-cco-east",
   "naziv": "Roba 19-11-2026",
-  "datum": "2026-11-17",
+  "datum": "2026-11-19",
   "status": "aktivan",
-  "kreirano": "2026-11-17T20:50:02.935Z",
-  "azurirano": "2026-11-17T20:50:02.935Z",
+  "kreirano": "2026-11-19T16:22:23.180Z",
+  "azurirano": "2026-11-19T16:22:23.180Z",
   "dokumenti": [
     {
       "naziv": "MSI 7497-101",
@@ -1362,6 +1362,280 @@
           "naziv": "Silikonska maska za Samsung Galaxy Fold8 prozirna",
           "barkod": "8806099229801",
           "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7614-101",
+      "stavke": [
+        {
+          "naziv": "Samsung Galaxy Buds4 slusalice crne UC",
+          "barkod": "8806097998570",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "White Shark BLUETOOTH ZVUCNIK GBT-619 IDAKKA bijeli IDAKKA WHITE",
+          "barkod": "3858894504060",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bigben Stereo Gaming slusalice PS5 crne PS5HEADSETV1",
+          "barkod": "3665962006339",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX Cloud III S Wireless Headset Black",
+          "barkod": "198415435590",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Razer Barracuda gaming bezicne slusalice, crne 0-R3M1",
+          "barkod": "8886419378860",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice BARACUDA BGH-041 SEAGUL Zute",
+          "barkod": "3858894509263",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SBOX DRZAC KABLOVA CH-44",
+          "barkod": "736373265509",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice WHITE SHARK TITAN, GEB-TWS96, Bijele, Bluetooth",
+          "barkod": "3858894502639",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice WHITE SHARK TITAN, GEB-TWS96, Crne, Bluetooth",
+          "barkod": "3858894502622",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice BARACUDA BGH-041 SEAGUL Roze",
+          "barkod": "3858894509256",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Earbuds SBOX EB-TWS-54 Bijele/ANC+ 4 Mic ENC",
+          "barkod": "3858894504497",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "RIG 300 PRO HS gaming slusalice bijele",
+          "barkod": "3665962009262",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice HyperX Cloud III Red Black",
+          "barkod": "197029008237",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
+          "barkod": "197029008220",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "RIG 300 PRO HS gaming slusalice Cosmic OSMIC",
+          "barkod": "3665962026764",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "V-200 TV nosac BOF TVM V-200",
+          "barkod": "2010030072647",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "X-200 TV nosac BOF TVM X-200",
+          "barkod": "2010030072661",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "RIG 300 PRO HS gaming slusalice crne",
+          "barkod": "3665962009231",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Razer Blackshark V2 X, 7.1 surround, black 0-R3M1",
+          "barkod": "8886419378396",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
+          "barkod": "198415435569",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX Cloud Jet Wireless Gaming Headset Blue",
+          "barkod": "198701343424",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice HyperX Cloud Stinger 2 Core Wired Gaming Headset",
+          "barkod": "196548418183",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gramofon LENCO TT-110, sa zvucnicima, bluetooth, retro, plavi",
+          "barkod": "8711902044895",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "H-200 TV nosac BOF TVM H-200",
+          "barkod": "2010030072616",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne Shokz Openrun Pro 2 mini narancaste",
+          "barkod": "0810092679646",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Huawei Freeclip 2 bijele",
+          "barkod": "6942103169441",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gramofon LENCO TT-120, sa zvucnicima, bluetooth, retro",
+          "barkod": "8711902044918",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gramofon LENCO TT-116BK, sa zvucnicima, Bluetooth 5, RCA izlaz, AUX ulaz, USB B PC kodiranje, 33,45 i 75 RPM",
+          "barkod": "8711902079750",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "RIG 600 Pro Bluetooth/Wireless gaming slusalice",
+          "barkod": "3665962019520",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "BLAUPUNKT FM PRIJENOSNI RADIO PR5BL, FM/MP3/USB/microSD",
+          "barkod": "5901750501050",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Radio prijenosni Blaupunkt PP7BT BT/FM/USB/AUX",
+          "barkod": "5901750505287",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mini linija LENCO MC-150, bluetooth, DAB+, CD/MP3",
+          "barkod": "8711902039532",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Radio budilica LENCO CR-28BK, FM/AM, crna",
+          "barkod": "8711902090618",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Razer Kraken V3 X, USB 0-R3M1",
+          "barkod": "8886419379362",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Razer Kraken X Lite, zicane, gaming, 7.1, 0-R381 mikrofon, over-ear",
+          "barkod": "8886419378082",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice HyperX Cloud Flight 2 Black",
+          "barkod": "198990148311",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar SAMSUNG",
+          "barkod": "8806099014704",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Skullcandy GROM KIDS WIRED HEADPHONE BONE SEAFOAM",
+          "barkod": "810045688701",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel MANHATTAN DisplayPort 8K@60Hz (DP), 2m",
+          "barkod": "766623356824",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice HUAWEI FreeBuds Neo Stellar Silver (Dolphin-T010)",
+          "barkod": "6942711308324",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Rowenta RH1833E0 X-Force 8.80",
+          "barkod": "3221616176485",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Philips NA352/00 Airfryer Dual Basket",
+          "barkod": "8720389032998",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
+          "barkod": "8720389040733",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7613-101",
+      "stavke": [
+        {
+          "naziv": "PS5 Dualsense Wireless controller White za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022350",
+          "ocekivano": 20,
           "skenirano": 0
         }
       ]
