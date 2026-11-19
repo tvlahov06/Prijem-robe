@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T08:07:42.027Z",
-  "azurirano": "2026-11-19T12:41:40.483Z",
+  "azurirano": "2026-11-19T12:41:54.632Z",
   "dokumenti": [
     {
       "naziv": "MSI 7498-101",
@@ -1220,13 +1220,13 @@
           "naziv": "Usisavac stapni Dyson V10 Cyclone Submarine + low reach adapter (626460)",
           "barkod": "5025155137697",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Usisavac stapni Dyson V15 Detect Absolute",
           "barkod": "5025155136201",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 5
         },
         {
           "naziv": "Dyson uredaj za ravnanje kose Airstrait s intergriranim cesljem (650104) Plum/Copper",
@@ -1238,7 +1238,7 @@
           "naziv": "Usisavac stapni Dyson V16 Piston Animal",
           "barkod": "5025155114834",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Uredaj za oblikovanje kose Dyson Airwrap i.d. (492319) Plum/Copper Straight+Wavy",
@@ -1256,19 +1256,19 @@
           "naziv": "Usisavac stapni Dyson V12s Detect Slim Submarine + Low-reach adaptor",
           "barkod": "5025155137277",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac stapni Dyson V15s Detect Submarine",
           "barkod": "5025155136218",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac stapni Dyson V8 Cyclone",
           "barkod": "5025155136195",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907S 900W",
