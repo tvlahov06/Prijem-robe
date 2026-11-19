@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T08:07:42.027Z",
-  "azurirano": "2026-11-19T13:09:55.885Z",
+  "azurirano": "2026-11-19T13:10:00.067Z",
   "dokumenti": [
     {
       "naziv": "MSI 7498-101",
@@ -768,13 +768,13 @@
           "naziv": "Laptop ASUS ROG Zephyrus G16 GU606AR-TB070W, 3E0 40.6cm (16\") OLED 2.5K 240Hz, Intel Core Ultra 9 386H,",
           "barkod": "4711636513456",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Vivobook 16 X1605VAPBF-SH223, 40.6cm X20 (16\") OLED Full HD, Intel Core 9 270H, 24 GB RAM, 1 TB",
           "barkod": "4711636496513",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS Zenbook Duo UX8407AA-SN130X, 35.6cm Z20 (14\") OLED 3K 144Hz Touch, Intel Core Ultra 9 386H, 32",
