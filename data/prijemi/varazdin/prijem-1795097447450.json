@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T14:10:47.450Z",
-  "azurirano": "2026-11-19T15:29:47.185Z",
+  "azurirano": "2026-11-19T15:32:52.915Z",
   "dokumenti": [
     {
       "naziv": "MSI 7553-101",
@@ -120,7 +120,7 @@
           "naziv": "Usisavac Philips FC9334/09",
           "barkod": "8710103796329",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BGB38RD2",
