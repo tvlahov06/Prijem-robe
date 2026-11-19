@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T08:07:42.027Z",
-  "azurirano": "2026-11-19T14:12:41.774Z",
+  "azurirano": "2026-11-19T14:12:46.262Z",
   "dokumenti": [
     {
       "naziv": "MSI 7498-101",
@@ -636,13 +636,13 @@
           "naziv": "Zvucnici Logitech Z207, 2.0, crni",
           "barkod": "5099206075023",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Zvucnici Logitech Z150, 2.0, crni",
           "barkod": "5099206048782",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Web kamera Logitech MX Brio 4K Ultra HD Webcam - PALE GREY",
