@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T08:07:42.027Z",
-  "azurirano": "2026-11-19T13:09:41.420Z",
+  "azurirano": "2026-11-19T13:09:50.006Z",
   "dokumenti": [
     {
       "naziv": "MSI 7498-101",
@@ -696,7 +696,7 @@
           "naziv": "Laptop Apple Macbook Pro Space Black, mhwt4cr/a, 14/M6 12C CPU/12C GPU/16GB/1TB SSD",
           "barkod": "195951080123",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15, NX.DTJEX.003, 39.6cm (15.6\") IPS Full HD, Intel Core Ultra 5 115U, 16 GB RAM, 1 TB",
@@ -708,7 +708,7 @@
           "naziv": "Laptop Apple Macbook Neo Blush, mhfj4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
           "barkod": "195950853988",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO V15 G5, 83HF00GUSC, 39.6cm (15.6\") IPS Full HD, Intel Core i5-13420H, 32 GB RAM, 1 TB SSD, Intel",
@@ -720,7 +720,7 @@
           "naziv": "Laptop Apple Macbook Air Midnight, mdhe4cr/a, /M5/16GB/512GB-CRO",
           "barkod": "195950690033",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO Yoga Pro 7 83W5000PSC, 38.9 cm (15.3\") OLED 2.5K, AMD Ryzen AI Max+ 388, 32 GB RAM, 1 TB",
@@ -738,13 +738,13 @@
           "naziv": "Laptop Apple Macbook Air Silver, mdh74cr/a, /M5/16GB/512GB-CRO",
           "barkod": "195950687217",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop Apple Macbook Neo Silver, mhfc4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
           "barkod": "195950851168",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO LOQ 17, 83JH00FGSC, 43.9cm (17.3\") IPS Full HD, Intel Core i7-14700HX, 16 GB RAM, 1 TB SSD,",
@@ -834,7 +834,7 @@
           "naziv": "Laptop Apple Macbook Pro Silver, mhww4cr/a, 14/M6 12C CPU/12C GPU/16GB/1TB SSD",
           "barkod": "195951081533",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 27\" ACER PREDATOR XB273U X2, UM.HX3EE.219, IPS 2K/WQHD, 210Hz, 0.5ms, AMD FreeSync Premium,",
