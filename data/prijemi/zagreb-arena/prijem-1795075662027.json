@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T08:07:42.027Z",
-  "azurirano": "2026-11-19T14:08:52.765Z",
+  "azurirano": "2026-11-19T14:09:08.894Z",
   "dokumenti": [
     {
       "naziv": "MSI 7498-101",
@@ -546,7 +546,7 @@
           "naziv": "Mis LOGITECH MX Master 4 grafit",
           "barkod": "5099206133082",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Bezicni mis Logitech M850 L",
@@ -576,7 +576,7 @@
           "naziv": "Web kamera Logitech BRIO 500 crna",
           "barkod": "5099206104914",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Logitech G733, gaming, RGB, bezicne, crne",
@@ -594,13 +594,13 @@
           "naziv": "Mis Logitech G102 LIGHTSYNC RGB, zicani, crni",
           "barkod": "5099206089235",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech G305 LIGHTSPEED, crni",
           "barkod": "5099206077829",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
