@@ -5,7 +5,7 @@
   "datum": "2026-11-16",
   "status": "aktivan",
   "kreirano": "2026-11-16T12:46:11.277Z",
-  "azurirano": "2026-11-19T23:06:01.420Z",
+  "azurirano": "2026-11-19T23:06:03.557Z",
   "dokumenti": [
     {
       "naziv": "Garmin",
@@ -38,35 +38,6 @@
           "naziv": "Pametni sat Garmin Fenix 9 PRO 51 mm AMOLED Titanium Graphite/Black",
           "barkod": "753759380212",
           "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "Mobis-2",
-      "stavke": [
-        {
-          "naziv": "Slusalice Xiaomi Redmi Buds 6 Play crne",
-          "barkod": "6941812791240",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Xiaomi Redmi Buds 6 Play plave",
-          "barkod": "6941812737071",
-          "ocekivano": 5,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Xiaomi Redmi Buds 8 Lite crne",
-          "barkod": "6932554471897",
-          "ocekivano": 10,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Slusalice Xiaomi Redmi Buds 8 Lite plave",
-          "barkod": "6932554471927",
-          "ocekivano": 5,
           "skenirano": 0
         }
       ]
