@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T14:10:47.450Z",
-  "azurirano": "2026-11-19T14:42:17.071Z",
+  "azurirano": "2026-11-19T14:42:22.271Z",
   "dokumenti": [
     {
       "naziv": "MSI 7553-101",
@@ -754,7 +754,7 @@
           "naziv": "Blender Nutribullet NB606R 600W",
           "barkod": "8006447001190",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
