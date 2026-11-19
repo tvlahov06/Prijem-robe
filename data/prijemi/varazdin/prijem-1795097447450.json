@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T14:10:47.450Z",
-  "azurirano": "2026-11-19T15:17:10.553Z",
+  "azurirano": "2026-11-19T15:17:33.168Z",
   "dokumenti": [
     {
       "naziv": "MSI 7553-101",
@@ -1217,13 +1217,13 @@
           "naziv": "Laptop Apple Macbook Pro Space Black, mhwt4cr/a, 14/M6 12C CPU/12C GPU/16GB/1TB SSD",
           "barkod": "195951080123",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop Apple Macbook Neo Blush, mhfj4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/512GB-CRO",
           "barkod": "195950853988",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop ASUS TUF Gaming F16 FX607VJR-TU295 Core 5 M00 205H, 16GB, SSD512GB, 16\" FHD+144Hz IPS-level, RTX",
