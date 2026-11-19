@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T08:07:42.027Z",
-  "azurirano": "2026-11-19T14:18:38.767Z",
+  "azurirano": "2026-11-19T14:18:48.063Z",
   "dokumenti": [
     {
       "naziv": "MSI 7498-101",
@@ -205,7 +205,7 @@
           "naziv": "Aparat za kavu Krups KP1A3AF0 Piccolo XS taupe",
           "barkod": "3045380028180",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP243AF0 Genio S taupe",
@@ -409,7 +409,7 @@
           "naziv": "Dehidrator hrane Gorenje FDK24DW",
           "barkod": "3838942927034",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Sjeckalica Bosch MMR08R2 800 ml, crvena/antracit",
