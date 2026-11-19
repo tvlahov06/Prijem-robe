@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T14:10:47.450Z",
-  "azurirano": "2026-11-19T14:24:12.848Z",
+  "azurirano": "2026-11-19T14:24:25.466Z",
   "dokumenti": [
     {
       "naziv": "MSI 7553-101",
@@ -198,7 +198,7 @@
           "naziv": "Osvjezivac odjece Philips STH3010/30",
           "barkod": "8720389037535",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH7060/80",
