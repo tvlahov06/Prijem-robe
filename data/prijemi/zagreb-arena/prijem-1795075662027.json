@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T08:07:42.027Z",
-  "azurirano": "2026-11-19T12:12:39.953Z",
+  "azurirano": "2026-11-19T12:13:30.077Z",
   "dokumenti": [
     {
       "naziv": "MSI 7498-101",
@@ -1190,7 +1190,7 @@
           "naziv": "IPL depilator Philips BRC332/00 Lumea",
           "barkod": "8720689045698",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijac za tijelo Philips BG3480/15",
@@ -1274,13 +1274,13 @@
           "naziv": "Blender Nutribullet NB907S 900W",
           "barkod": "8006447002487",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907R 900W",
           "barkod": "8006447000872",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NBP003LBL Portable tirkizni",
@@ -1298,7 +1298,7 @@
           "naziv": "Blender Nutribullet NB505DG 500W",
           "barkod": "8006447000070",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB606R 600W",
