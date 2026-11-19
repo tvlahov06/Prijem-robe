@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T08:07:42.027Z",
-  "azurirano": "2026-11-19T09:16:48.059Z",
+  "azurirano": "2026-11-19T09:16:55.039Z",
   "dokumenti": [
     {
       "naziv": "MSI 7498-101",
@@ -127,7 +127,7 @@
           "naziv": "Usisavac Bosch BCS711EXT Unlimited 7, crni",
           "barkod": "4242005306985",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
@@ -145,7 +145,7 @@
           "naziv": "Usisavac Rowenta RH7A32E0 X-Force Flex 10.80",
           "barkod": "3221616182011",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac robot Roborock Qrevo Edge 2 Pro",
@@ -517,7 +517,7 @@
           "naziv": "Kompletno rjesenje za glacanje Philips AIS8540 All-In-One",
           "barkod": "8720389023026",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mop elektricni Philips dodaci XV1882/10 zamjenski podni brisac",
