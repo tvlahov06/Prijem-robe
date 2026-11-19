@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T14:10:47.450Z",
-  "azurirano": "2026-11-19T15:17:33.168Z",
+  "azurirano": "2026-11-19T15:17:48.428Z",
   "dokumenti": [
     {
       "naziv": "MSI 7553-101",
@@ -1247,13 +1247,13 @@
           "naziv": "SAMSUNG 27\" Odyssey G5 G50F Gaming Monitor EN LS27FG502EUXEN, Fast IPS 2K/QHD, 180Hz, 1ms, AMD",
           "barkod": "8806097817796",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Monitor 27\" LENOVO ThinkVisionS27-4e, 64BEKAT1EU, IPS Full HD, 100Hz, 4ms, VGA, HDMI",
           "barkod": "0198157472259",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
