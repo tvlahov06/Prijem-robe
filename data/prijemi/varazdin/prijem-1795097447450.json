@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T14:10:47.450Z",
-  "azurirano": "2026-11-19T14:23:39.569Z",
+  "azurirano": "2026-11-19T14:23:55.243Z",
   "dokumenti": [
     {
       "naziv": "MSI 7553-101",
@@ -389,7 +389,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
           "barkod": "195950627190",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
@@ -503,7 +503,7 @@
           "naziv": "Mobitel Apple iPhone 18 Pro 256GB Burgundy",
           "barkod": "195951415680",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Mobitel Apple iPhone 18 Pro 256GB Glacier",
@@ -557,7 +557,7 @@
           "naziv": "Mobitel Apple iPhone 18 Pro Max 256GB Black",
           "barkod": "195951410029",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Watch Series 12 GPS 42mm Space Grey Aluminium Case with Navy Blue Sport Band - S/M",
