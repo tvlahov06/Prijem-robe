@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T16:22:23.180Z",
-  "azurirano": "2026-11-19T20:49:53.428Z",
+  "azurirano": "2026-11-19T20:50:16.779Z",
   "dokumenti": [
     {
       "naziv": "MSI 7497-101",
@@ -860,13 +860,13 @@
           "naziv": "SAMSUNG 27\" Odyssey G5 G50F Gaming Monitor EN LS27FG502EUXEN, Fast IPS 2K/QHD, 180Hz, 1ms, AMD",
           "barkod": "8806097817796",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "SAMSUNG 27\" Odyssey OLED G5 G50SF Gaming Monitor EN LS27FG502SUXEN, QD-OLED 2K/QHD, 180Hz, 0.03ms,",
           "barkod": "8806097684046",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
