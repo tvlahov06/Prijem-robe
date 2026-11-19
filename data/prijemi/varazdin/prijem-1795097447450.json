@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T14:10:47.450Z",
-  "azurirano": "2026-11-19T15:17:48.428Z",
+  "azurirano": "2026-11-19T15:18:08.996Z",
   "dokumenti": [
     {
       "naziv": "MSI 7553-101",
@@ -1139,13 +1139,13 @@
           "naziv": "Tipkovnica Logitech K270 bezicna, USB, crna",
           "barkod": "5099206032842",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
           "barkod": "5099206112100",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis LOGITECH MX Master 3S \"SE\" grafit",
