@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T07:04:35.518Z",
-  "azurirano": "2026-11-20T10:41:31.703Z",
+  "azurirano": "2026-11-20T10:42:14.328Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -303,65 +303,6 @@
           "barkod": "6942103155062",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7529-101",
-      "stavke": [
-        {
-          "naziv": "Mikser rucni Bosch MFQ3010",
-          "barkod": "4242002439808",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mikser stapni Bosch MSM6M810 ErgoMaster",
-          "barkod": "4242005340583",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Robotski usisavac 6 Max EU Xiaomi",
-          "barkod": "6932554486198",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Sokovnik Bosch MESM731M VitaExtract hladna presa",
-          "barkod": "4242002974187",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Toster Bosch TAT2M123, MyMoment, crni",
-          "barkod": "4242005402977",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac Bosch BGB38RD2",
-          "barkod": "4242005359271",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac stapni JIMMY H9 Pro",
-          "barkod": "6946499309924",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Vaga kuhinjska Tefal BC5504V0",
-          "barkod": "3121040095287",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Vaga osobna Tefal PP1600V0 Wood",
-          "barkod": "3121040082355",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
