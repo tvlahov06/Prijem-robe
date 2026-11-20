@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T13:15:09.018Z",
-  "azurirano": "2026-11-20T13:55:14.974Z",
+  "azurirano": "2026-11-20T13:55:26.602Z",
   "dokumenti": [
     {
       "naziv": "MSI 7615-101",
@@ -438,7 +438,7 @@
           "naziv": "fotoaparat Fujifilm Instax Mini 13 bijeli",
           "barkod": "4547410564877",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB nebesko plavi",
@@ -468,7 +468,7 @@
           "naziv": "fotoaparat Fujifilm Instax Mini 13 plavi",
           "barkod": "4547410564846",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB kobalt ljubicasti",
@@ -504,7 +504,7 @@
           "naziv": "fotoaparat Fujifilm Instax Mini 13 ljubicasti",
           "barkod": "4547410564884",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Apple Watch SE 3 GPS 44mm Midnight Aluminium Case with Midnight Sport Band - M/L",
