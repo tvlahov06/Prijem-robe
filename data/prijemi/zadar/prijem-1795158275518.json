@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T07:04:35.518Z",
-  "azurirano": "2026-11-20T08:57:19.326Z",
+  "azurirano": "2026-11-20T08:57:30.439Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -636,7 +636,7 @@
           "naziv": "Mikser rucni Bosch MFQ3010",
           "barkod": "4242002439808",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Bosch MSM6M810 ErgoMaster",
