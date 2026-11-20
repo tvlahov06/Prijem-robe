@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T23:10:44.231Z",
-  "azurirano": "2026-11-20T07:44:22.975Z",
+  "azurirano": "2026-11-20T07:44:48.531Z",
   "dokumenti": [
     {
       "naziv": "MSI 7569-101",
@@ -913,7 +913,7 @@
           "naziv": "Usisavac Bosch BGB41POW1 ProPower Crna",
           "barkod": "4242005483990",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Bosch BGB38RD2",
