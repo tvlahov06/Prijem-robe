@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T13:15:09.018Z",
-  "azurirano": "2026-11-20T13:55:26.602Z",
+  "azurirano": "2026-11-20T13:55:50.838Z",
   "dokumenti": [
     {
       "naziv": "MSI 7615-101",
@@ -396,7 +396,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 sivi 41mm (Konsu-B39L)",
           "barkod": "6942711308683",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/128GB grafitno crna",
@@ -462,7 +462,7 @@
           "naziv": "Pametni sat Huawei Watch GT6 Green 46mm (Atum-B19W)",
           "barkod": "6942103168178",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 plavi",
@@ -582,7 +582,7 @@
           "naziv": "Pametni sat Huawei Watch GT 5 Pro 46mm Black (Vili-B29F)",
           "barkod": "6942103132032",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tablet Samsung Galaxy Tab S12 Ultra WiFi 12GB/256GB sivi",
@@ -660,7 +660,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 crni 46mm (Atum-B39F)",
           "barkod": "6942711308607",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tablet Apple 11\" iPad (A16) Wi-Fi 128GB - Blue",
@@ -714,7 +714,7 @@
           "naziv": "Pametni sat HUAWEI Watch 6 46mm crni (Niz-L19F)",
           "barkod": "6942711314189",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
