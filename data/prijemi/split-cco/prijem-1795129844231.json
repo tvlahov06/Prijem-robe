@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T23:10:44.231Z",
-  "azurirano": "2026-11-20T07:34:15.812Z",
+  "azurirano": "2026-11-20T07:34:56.214Z",
   "dokumenti": [
     {
       "naziv": "MSI 7569-101",
@@ -907,7 +907,7 @@
           "naziv": "Usisavac Philips FC9550/09",
           "barkod": "8710103860105",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Bosch BGB41POW1 ProPower Crna",
