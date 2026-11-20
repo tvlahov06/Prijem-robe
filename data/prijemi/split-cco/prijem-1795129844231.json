@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T23:10:44.231Z",
-  "azurirano": "2026-11-20T07:49:46.270Z",
+  "azurirano": "2026-11-20T07:49:53.665Z",
   "dokumenti": [
     {
       "naziv": "MSI 7569-101",
@@ -925,7 +925,7 @@
           "naziv": "Usisavac robot Roborock Qrevo Edge 2 Pro",
           "barkod": "6936905905000",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac robot Philips XU2100/25",
@@ -1027,13 +1027,13 @@
           "naziv": "Friteza na vruci zrak Ninja AS101EUGY Crispi Pro 7u1",
           "barkod": "0622356384926",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Ninja AS101EUCY Crispi Pro 7u1 Cyber Space",
           "barkod": "0622356384902",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Bosch MAF462B1 Airfryer",
