@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T07:04:35.518Z",
-  "azurirano": "2026-11-20T10:46:29.119Z",
+  "azurirano": "2026-11-20T10:46:46.749Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -499,47 +499,6 @@
           "barkod": "4242005327720",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7568-101",
-      "stavke": [
-        {
-          "naziv": "TCL QLED TV 75\" 75P7L, Google TV",
-          "barkod": "5901292530228",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor SAMSUNG QE75QN80HAUXXH 2026, 190 cm XXH (75\"), Neo QLED, 4K UHD, Smart TV, Tizen OS",
-          "barkod": "8806097943082",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor SAMSUNG UE75M70HAUXXH 2026, 190 cm (75\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
-          "barkod": "8806097968986",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor HISENSE 75E7S 2026, 190,5 cm (75\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
-          "barkod": "6942351431901",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor SAMSUNG UE55U8072HUXXH 2026, 139 cm XH (55\"), UHD, Smart TV, Tizen OS",
-          "barkod": "8806097977698",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Televizor HISENSE 50E7S 2026, 126 cm (50\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
-          "barkod": "6942351431161",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
