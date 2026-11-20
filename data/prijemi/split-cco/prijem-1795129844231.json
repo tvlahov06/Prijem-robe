@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T23:10:44.231Z",
-  "azurirano": "2026-11-20T07:29:08.969Z",
+  "azurirano": "2026-11-20T07:29:17.287Z",
   "dokumenti": [
     {
       "naziv": "MSI 7569-101",
@@ -931,7 +931,7 @@
           "naziv": "Usisavac robot Philips XU2100/25",
           "barkod": "8720389064999",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP2224/10 espresso",
@@ -985,7 +985,7 @@
           "naziv": "Parna postaja Philips PSG8200/70",
           "barkod": "8720389066511",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG7200/20",
