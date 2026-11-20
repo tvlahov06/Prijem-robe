@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T10:48:32.327Z",
-  "azurirano": "2026-11-20T10:48:32.327Z",
+  "azurirano": "2026-11-20T10:52:32.764Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -474,29 +474,6 @@
         {
           "naziv": "Telefon Panasonic KX-TG6811M sivi",
           "barkod": "5025232742127",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7545-101",
-      "stavke": [
-        {
-          "naziv": "Pecnica ugradbena WHIRLPOOL WOI5S8PM2SWA",
-          "barkod": "8003437836824",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Pecnica ugradbena ELECTROLUX LOF7P16K",
-          "barkod": "7333394145426",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Hladnjak kombinirani Bosch KGN86AIDR",
-          "barkod": "4242005327720",
           "ocekivano": 1,
           "skenirano": 1
         }
