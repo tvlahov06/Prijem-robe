@@ -4,8 +4,8 @@
   "naziv": "",
   "datum": "2026-11-20",
   "status": "aktivan",
-  "kreirano": "2026-11-20T07:04:35.518Z",
-  "azurirano": "2026-11-20T10:46:46.749Z",
+  "kreirano": "2026-11-20T10:48:32.327Z",
+  "azurirano": "2026-11-20T10:48:32.327Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -902,6 +902,358 @@
         {
           "naziv": "Memorijska kartica ADATA microSDXC, Class10, 10A1-RA1 100/25MBs, 64GB",
           "barkod": "4713218461933",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7632-101",
+      "stavke": [
+        {
+          "naziv": "Televizor HISENSE 43E7S 2026, 109,2 cm (43\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
+          "barkod": "6942351430973",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 58E7S 2026, 147,3 cm (58\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
+          "barkod": "6942351431420",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 32A5S 2026, 81,3 cm (32\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
+          "barkod": "6942351429441",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 50E7S 2026, 126 cm (50\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
+          "barkod": "6942351431161",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 40A5S 2026, 101,6 cm (40\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
+          "barkod": "6942351429632",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PRO Televizor HISENSE 43E7S PRO 2026, 109,2 cm (43\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
+          "barkod": "6942351432410",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 43A6S 2026, 109,2 cm (43\"), DLED, 4K UHD, Smart TV, VIDAA OS",
+          "barkod": "6942351430102",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SONY K50S25M2PB 2026, 126 cm (50\"), Bravia 2 EI II, 4K Google TV",
+          "barkod": "4548736180383",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG UE50M70HAUXXH 2026, 127 cm (50\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
+          "barkod": "8806097977667",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor LG OLED55C61LA 2026, 139,7 cm (55\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
+          "barkod": "8806096685792",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG QE48S90HAEXXH 2026, 122 cm (48\"), H OLED, 4K UHD, Smart TV, Tizen OS",
+          "barkod": "8806097952961",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG UE55M80HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
+          "barkod": "8806099014230",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG UE55U8072HUXXH 2026, 139 cm XH (55\"), UHD, Smart TV, Tizen OS",
+          "barkod": "8806097977698",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 32A4S 2026, 81,3 cm (32\"), DLED, HD, Smart TV, VIDAA OS",
+          "barkod": "6942351429205",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor LG OLED65C61LA 2026, 165,1 cm (65\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
+          "barkod": "8806096685969",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SONY K65A65PB.CEI 2026, 164 cm (65\"), Bravia 6, OLED, 4K Google TV",
+          "barkod": "4548736183049",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7627-101",
+      "stavke": [
+        {
+          "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
+          "barkod": "740617347944",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda MIS BGM-084 LOBSTER Roza",
+          "barkod": "3858894506545",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MIS SBOX WM-710 Roza Bezicni",
+          "barkod": "3858894506576",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MIS SBOX WM-710 Bijeli Bezicni",
+          "barkod": "3858894506477",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Memorijska kartica Kingston 256GB micSDHC Canvas Select Plus G3 150R+",
+          "barkod": "740617348507",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "MIS SBOX WM-710 Crni Bezicni",
+          "barkod": "3858894506460",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ADATA UV320, 64GB, USB3.2 bijelo-zeleni WHGN",
+          "barkod": "4713218462831",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link UE300C USB Type-C na Ethernet adapter, USB 3.0 port, 10/100/1000",
+          "barkod": "1210002617895",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-link UC400 USB-C to USB 3.0 Adapter 1 USB-C connector 1 USB 3.0 port",
+          "barkod": "6935364096151",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda MIS BGM-092 SEAL BIJELI / 12800 dpi",
+          "barkod": "3858894507979",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda MIS BGM-091 SEAL CRNI / 12800 dpi",
+          "barkod": "3858894507962",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA UR340, 128GB, USB3.2 28GBK",
+          "barkod": "4711085935472",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK KINGSTON 64GB DT50 3.2 KC-U2G64-5R",
+          "barkod": "740617314342",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick Samsung 64GB BAR Plus crni MUF-64BE4/APC",
+          "barkod": "8801643230739",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-031 REVENGE 750x350 Crna",
+          "barkod": "3858894503667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Podloga za mis WHITE SHARK KARUTA XL, ESL-MP1, 90x40cm",
+          "barkod": "0616320538897",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk ADATA Ex HDD HD330, 2TB, usb3.0, plavi -CBL",
+          "barkod": "4713218465504",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
+          "barkod": "740617348699",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer DeathAdder Essential, bijeli 0-R3M1",
+          "barkod": "8886419333326",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Externi SSD Kingston XS1000 2TB",
+          "barkod": "740617338508",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HP HyperX PF Has 2 Core Wireless - Gaming Mouse Black",
+          "barkod": "197498115382",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB STICK Kingston DT Exodia G2, 512GB, USB3.2 Gen1",
+          "barkod": "740617353907",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Windows 11 Pro ENG 64-bit OEM,",
+          "barkod": "889842905892",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE605X, AX1800 Wi-Fi 6 Range Extender",
+          "barkod": "1210002604550",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torba za laptop ASUS AC1600 Carry Bag",
+          "barkod": "4711636079792",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tinta HP 305XL Cartridge Ink 3YM62AE, Boja Black - Instant Ink",
+          "barkod": "193905429288",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis HyperX Pulsefire Haste 2 black",
+          "barkod": "196786272523",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PODLOGA ZA MIS SBOX MP-03 30x25 Crna",
+          "barkod": "736373267923",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SSD Samsung 1TB 990 PRO M.2 NVMe PCle 4.0 x4",
+          "barkod": "8806094215021",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Baracuda PODLOGA ZA MIS BGMP-021 WALRUS Crna/narancasta 400x300 L",
+          "barkod": "3858894503650",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "SanDisk Ultra Dual Drive USB Type-C 64 GB USB stick G46",
+          "barkod": "619659142056",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link TL-MR6400 bezicni 4G LTE Router, 300Mbps, interni 4G modem, SIM card slot",
+          "barkod": "6935364092764",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link AC1200 bezicni pojacivac dometa (Range Extender), Dual Band 300Mbps/867Mbps (2.4GHz/5GHz),",
+          "barkod": "6935364097974",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link bezicni pojacivac dometa (Universal Range Extender) 300Mbps, (2.4GHz), 802.11b/g/n, 1×RJ45",
+          "barkod": "6935364070199",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
+          "barkod": "4713435796641",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tipkovnica Keychron K2H-Q1 White wooden RGB",
+          "barkod": "4895248889205",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "KINGSTON Canvas Select Plus SD kartica, 64GB, R100MB",
+          "barkod": "740617348255",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "HDD WD Elements Portable 4TB, USB 3.0",
+          "barkod": "718037855981",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Bezicni USB adapter Mercusys MW300UH, 300Mbps (2.4GHz), 802.11n/g/b, 2×2 MIMO, 2×5dBi antena",
+          "barkod": "6935364099602",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Razer DeathAdder Essential 0-R3M1",
+          "barkod": "8886419333265",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Eksterni disk WD My Passport 1TB, Black, USB 3.2",
+          "barkod": "718037869469",
           "ocekivano": 1,
           "skenirano": 0
         }
