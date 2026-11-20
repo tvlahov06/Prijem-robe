@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T07:04:35.518Z",
-  "azurirano": "2026-11-20T10:46:10.902Z",
+  "azurirano": "2026-11-20T10:46:29.119Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -499,41 +499,6 @@
           "barkod": "4242005327720",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7564-101",
-      "stavke": [
-        {
-          "naziv": "Perilica posuda ugradbena 60cm Hisense HV642C65",
-          "barkod": "3838782945380",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Perilica rublja Gorenje WNHA74SASEU",
-          "barkod": "3838782753039",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Susilica rublja ELECTROLUX EW7D394UE",
-          "barkod": "7333394043135",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Susilica rublja GORENJE DG2P7D",
-          "barkod": "3838783100337",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Susilica rublja Hisense DH3I802UWDD",
-          "barkod": "6901101834560",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     },
