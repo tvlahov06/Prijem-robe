@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T07:04:35.518Z",
-  "azurirano": "2026-11-20T09:01:25.521Z",
+  "azurirano": "2026-11-20T09:01:50.255Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -337,7 +337,7 @@
           "naziv": "Usisavac Rowenta RH7AC1E0",
           "barkod": "3221616183063",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac robot Roborock Qrevo Edge 2 Pro",
