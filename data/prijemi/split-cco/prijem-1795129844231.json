@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T23:10:44.231Z",
-  "azurirano": "2026-11-20T07:30:46.288Z",
+  "azurirano": "2026-11-20T07:30:54.878Z",
   "dokumenti": [
     {
       "naziv": "MSI 7569-101",
@@ -1063,7 +1063,7 @@
           "naziv": "Mikser stapni Philips HR2684/00",
           "barkod": "8720389035333",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser rucni Philips HR3781/00 crni 500W",
