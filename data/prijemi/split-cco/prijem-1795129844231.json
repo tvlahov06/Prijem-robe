@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T23:10:44.231Z",
-  "azurirano": "2026-11-20T08:10:35.491Z",
+  "azurirano": "2026-11-20T08:11:30.832Z",
   "dokumenti": [
     {
       "naziv": "MSI 7569-101",
@@ -1051,7 +1051,7 @@
           "naziv": "Mikser Stapni Bosch MSM4B621 ErgoMaster",
           "barkod": "4242005346622",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Bosch MSM6M810 ErgoMaster",
@@ -1087,7 +1087,7 @@
           "naziv": "Sjeckalica Tefal K1320404 900ML, rucna",
           "barkod": "3168430275591",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pekac kruha Tefal PF240E38",
@@ -1195,7 +1195,7 @@
           "naziv": "Uredaj za uklanjanje vlakana Tefal JB1011E0",
           "barkod": "3121040070314",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Philips HR2685/00",
@@ -1497,7 +1497,7 @@
           "naziv": "HP HyperX Cloud III S Wireless Headset Black",
           "barkod": "198415435590",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice Huawei FreeBuds SE 3 Black (ULC-CT020)",
@@ -1563,7 +1563,7 @@
           "naziv": "Slusalice HyperX Cloud III Red Black",
           "barkod": "197029008237",
           "ocekivano": 4,
-          "skenirano": 1
+          "skenirano": 4
         },
         {
           "naziv": "Slusalice HyperX Cloud III Gunmetal Black",
@@ -1599,7 +1599,7 @@
           "naziv": "HP HyperX Cloud III S Wireless Headset Black-Red",
           "barkod": "198415435569",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP HyperX Cloud Jet Wireless Gaming Headset Blue",
