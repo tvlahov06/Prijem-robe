@@ -5,7 +5,7 @@
   "datum": "2026-11-21",
   "status": "aktivan",
   "kreirano": "2026-11-21T06:34:33.520Z",
-  "azurirano": "2026-11-21T07:58:56.946Z",
+  "azurirano": "2026-11-21T07:59:02.506Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -652,13 +652,13 @@
           "naziv": "USB STICK KINGSTON FD Exodia 64GB USB 3.2",
           "barkod": "740617309829",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
           "barkod": "740617326260",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "White Shark MIS GM-5014 GRAPHENE / 12.400 DPI - Crni",
