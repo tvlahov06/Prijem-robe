@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T12:54:01.102Z",
-  "azurirano": "2026-11-21T06:28:44.118Z",
+  "azurirano": "2026-11-21T06:28:52.026Z",
   "dokumenti": [
     {
       "naziv": "MSI 7613-101",
@@ -341,7 +341,7 @@
           "naziv": "Usisavac robot Philips XU2100/25",
           "barkod": "8720389064999",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mop elektricni Philips XV5113/01",
