@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T14:13:50.066Z",
-  "azurirano": "2026-11-21T09:35:12.903Z",
+  "azurirano": "2026-11-21T09:35:28.020Z",
   "dokumenti": [
     {
       "naziv": "MSI 7599-101",
@@ -841,7 +841,7 @@
           "naziv": "Usisavac Bosch BGB38RD2",
           "barkod": "4242005359271",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Philips XC3133/01",
