@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T12:54:01.102Z",
-  "azurirano": "2026-11-21T07:05:34.343Z",
+  "azurirano": "2026-11-21T07:05:42.743Z",
   "dokumenti": [
     {
       "naziv": "MSI 7613-101",
@@ -628,7 +628,7 @@
           "naziv": "Tinta Epson 101 EcoTank 4-colour Multipack",
           "barkod": "8715946701288",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "KINGSTON Canvas Select Plus SD kartica, 128GB, R150MB",
@@ -646,7 +646,7 @@
           "naziv": "Mis ACER AMR130, Zelena",
           "barkod": "4711474835567",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Ruksak Lenovo za prijenosno racunalo 17'' Legion Armored, GX40V10007",
