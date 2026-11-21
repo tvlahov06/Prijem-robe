@@ -5,7 +5,7 @@
   "datum": "2026-11-21",
   "status": "aktivan",
   "kreirano": "2026-11-21T06:34:33.520Z",
-  "azurirano": "2026-11-21T10:13:36.495Z",
+  "azurirano": "2026-11-21T10:14:34.155Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -476,59 +476,6 @@
           "barkod": "5025232742127",
           "ocekivano": 1,
           "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7600-101",
-      "stavke": [
-        {
-          "naziv": "Apple AirPods 4 (USB-C)",
-          "barkod": "195949688591",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Apple AirPods 5",
-          "barkod": "195951379036",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Apple Watch SE3 v2 GPS 40mm Starlight Aluminium Case with Sand Sport Band - S/M",
-          "barkod": "195951258577",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Apple Watch SE3 v2 GPS 44mm Midnight Aluminium Case with Navy Blue Sport Band - S/M",
-          "barkod": "195951259833",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Air Silver, mdh74cr/a, /M5/16GB/512GB-CRO",
-          "barkod": "195950687217",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Indigo, mhff4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
-          "barkod": "195950852578",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Sage",
-          "barkod": "195950644333",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac robot Roborock Qrevo S Pro bijela",
-          "barkod": "6936905906304",
-          "ocekivano": 7,
-          "skenirano": 7
         }
       ]
     },
