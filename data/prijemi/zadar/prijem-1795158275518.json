@@ -5,7 +5,7 @@
   "datum": "2026-11-21",
   "status": "aktivan",
   "kreirano": "2026-11-21T06:34:33.520Z",
-  "azurirano": "2026-11-21T07:53:55.218Z",
+  "azurirano": "2026-11-21T07:54:14.177Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -1010,13 +1010,13 @@
           "naziv": "MIS SBOX WM-710 Bijeli Bezicni",
           "barkod": "3858894506477",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Memorijska kartica Kingston 256GB micSDHC Canvas Select Plus G3 150R+",
           "barkod": "740617348507",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MIS SBOX WM-710 Crni Bezicni",
@@ -1052,7 +1052,7 @@
           "naziv": "Baracuda MIS BGM-091 SEAL CRNI / 12800 dpi",
           "barkod": "3858894507962",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UR340, 128GB, USB3.2 28GBK",
