@@ -5,7 +5,7 @@
   "datum": "2026-11-21",
   "status": "aktivan",
   "kreirano": "2026-11-21T06:34:33.520Z",
-  "azurirano": "2026-11-21T07:55:07.602Z",
+  "azurirano": "2026-11-21T07:55:11.307Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -1088,7 +1088,7 @@
           "naziv": "Eksterni disk ADATA Ex HDD HD330, 2TB, usb3.0, plavi -CBL",
           "barkod": "4713218465504",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 128GB USB 3.2 Black-Turquoise",
@@ -1232,7 +1232,7 @@
           "naziv": "Eksterni disk WD My Passport 1TB, Black, USB 3.2",
           "barkod": "718037869469",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
