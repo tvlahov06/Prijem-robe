@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T14:13:50.066Z",
-  "azurirano": "2026-11-21T09:45:28.416Z",
+  "azurirano": "2026-11-21T09:45:37.822Z",
   "dokumenti": [
     {
       "naziv": "MSI 7599-101",
@@ -254,7 +254,7 @@
           "naziv": "Tinta HP 305XL Ink Cartridge 3YM63AE, Boja Tri-colour - Instant Ink",
           "barkod": "193905429318",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Baracuda MIS BGM-124 TURTLE ROZA / 3200 dpi / Wireless",
@@ -278,13 +278,13 @@
           "naziv": "Tinta HP 650 CZ101AE Black Ink Cartridge",
           "barkod": "886112545987",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Tinta HP 650 CZ102AE Tri-color Ink Cartridge",
           "barkod": "886112546052",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Baracuda MIS BGM-011 NAUTILUS Crni RGB / 12.800 dpi",
