@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T14:13:50.066Z",
-  "azurirano": "2026-11-21T07:01:02.121Z",
+  "azurirano": "2026-11-21T07:01:17.467Z",
   "dokumenti": [
     {
       "naziv": "MSI 7599-101",
@@ -1871,83 +1871,6 @@
           "barkod": "1200130035135",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7596-101",
-      "stavke": [
-        {
-          "naziv": "Slusalice bezicne JBL TUNE 680NC crne",
-          "barkod": "1200130030444",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice JBL TUNE 110E bijele",
-          "barkod": "1200130022739",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice bezicne JBL TUNE 235 crne",
-          "barkod": "1200130025969",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Party light JBL BEAM",
-          "barkod": "1200130012938",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice potpuno bezicne JBL WAVE FLEX TWS bez",
-          "barkod": "6925281953507",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP DeskJet 2910 All-in-One (89F98B) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, A4 - Instant Ink",
-          "barkod": "198828789556",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "HP Smart Tank 580 All-in-One (1F3Y2A) Color Inkjet MF pisac - Print, Scan, Copy, Wi-Fi, USB, CISS, A4",
-          "barkod": "196188530313",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "HP Smart Tank 720 All-in-One (6UU46A) Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
-          "barkod": "195908302995",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Multifunkcijski pisac Canon Pixma G3480",
-          "barkod": "4549292235753",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Printer HP LaserJet M140w MFP",
-          "barkod": "194850677267",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "CANON Pixma G3416 Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Cloud, A4",
-          "barkod": "4549292219470",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Epson EcoTank L4366 Color Inkjet MF pisac - Print, Scan, Copy, Duplex, Wi-Fi, USB, CISS, A4",
-          "barkod": "8715946733289",
-          "ocekivano": 3,
-          "skenirano": 3
         }
       ]
     }
