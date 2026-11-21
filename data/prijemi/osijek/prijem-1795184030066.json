@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T14:13:50.066Z",
-  "azurirano": "2026-11-21T07:00:42.000Z",
+  "azurirano": "2026-11-21T07:01:02.121Z",
   "dokumenti": [
     {
       "naziv": "MSI 7599-101",
@@ -1948,77 +1948,6 @@
           "barkod": "8715946733289",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7597-101",
-      "stavke": [
-        {
-          "naziv": "Apple AirPods 4 (USB-C)",
-          "barkod": "195949688591",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Apple AirPods 5",
-          "barkod": "195951379036",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Apple AirPods Pro3 with MagSafe Case (USB-C)",
-          "barkod": "195950543742",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Apple Watch SE3 v2 GPS 40mm Starlight Aluminium Case with Sand Sport Band - S/M",
-          "barkod": "195951258577",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Apple Watch SE3 v2 GPS 44mm Midnight Aluminium Case with Navy Blue Sport Band - M/L",
-          "barkod": "195951260044",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Air Midnight, mdhe4cr/a, /M5/16GB/512GB-CRO",
-          "barkod": "195950690033",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Air Midnight, mdvh4cr/a, /M5/16GB/512GB-CRO",
-          "barkod": "195950696912",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Air Sky Blue, mdvq4cr/a, /M5/16GB/512GB-CRO",
-          "barkod": "195950698329",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Neo Indigo, mhff4cr/a, 13/A18 Pro 6C CPU/5C GPU/8GB/256GB-CRO",
-          "barkod": "195950852578",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Mobitel Apple iPhone 17 256GB Lavender",
-          "barkod": "195950644135",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac robot Roborock Qrevo S Pro bijela",
-          "barkod": "6936905906304",
-          "ocekivano": 5,
-          "skenirano": 5
         }
       ]
     }
