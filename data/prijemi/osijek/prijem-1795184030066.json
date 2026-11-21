@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T14:13:50.066Z",
-  "azurirano": "2026-11-21T09:35:36.589Z",
+  "azurirano": "2026-11-21T09:35:49.710Z",
   "dokumenti": [
     {
       "naziv": "MSI 7599-101",
@@ -1099,7 +1099,7 @@
           "naziv": "Blender Bosch MMB6762M VitaPower Serie 6",
           "barkod": "4242005395170",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Ninja BN800EU 3u1 1200W",
