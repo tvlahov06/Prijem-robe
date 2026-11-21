@@ -5,7 +5,7 @@
   "datum": "2026-11-21",
   "status": "aktivan",
   "kreirano": "2026-11-21T06:34:33.520Z",
-  "azurirano": "2026-11-21T07:52:37.390Z",
+  "azurirano": "2026-11-21T07:52:42.599Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -1130,7 +1130,7 @@
           "naziv": "TP-Link RE605X, AX1800 Wi-Fi 6 Range Extender",
           "barkod": "1210002604550",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Torba za laptop ASUS AC1600 Carry Bag",
@@ -1190,7 +1190,7 @@
           "naziv": "TP-Link bezicni pojacivac dometa (Universal Range Extender) 300Mbps, (2.4GHz), 802.11b/g/n, 1×RJ45",
           "barkod": "6935364070199",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UV128, 32GB, USB3.2 BE",
