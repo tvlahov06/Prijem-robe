@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T14:13:50.066Z",
-  "azurirano": "2026-11-21T07:31:42.243Z",
+  "azurirano": "2026-11-21T07:31:59.094Z",
   "dokumenti": [
     {
       "naziv": "MSI 7599-101",
@@ -997,7 +997,7 @@
           "naziv": "Mikser stapni Tefal HB643138",
           "barkod": "3016661150036",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Philips HD2650/90",
@@ -1033,7 +1033,7 @@
           "naziv": "Sjeckalica Bosch MMR08A1 800 ml, bijela/antracit",
           "barkod": "4242002742816",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Philips HR3020/20",
