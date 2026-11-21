@@ -5,7 +5,7 @@
   "datum": "2026-11-21",
   "status": "aktivan",
   "kreirano": "2026-11-21T06:34:33.520Z",
-  "azurirano": "2026-11-21T07:54:14.177Z",
+  "azurirano": "2026-11-21T07:54:32.142Z",
   "dokumenti": [
     {
       "naziv": "MSI 7395-101",
@@ -1034,7 +1034,7 @@
           "naziv": "TP-Link UE300C USB Type-C na Ethernet adapter, USB 3.0 port, 10/100/1000",
           "barkod": "1210002617895",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TP-link UC400 USB-C to USB 3.0 Adapter 1 USB-C connector 1 USB 3.0 port",
@@ -1160,7 +1160,7 @@
           "naziv": "SSD Samsung 1TB 990 PRO M.2 NVMe PCle 4.0 x4",
           "barkod": "8806094215021",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-021 WALRUS Crna/narancasta 400x300 L",
