@@ -5,7 +5,7 @@
   "datum": "2026-11-20",
   "status": "aktivan",
   "kreirano": "2026-11-20T12:54:01.102Z",
-  "azurirano": "2026-11-21T06:19:46.343Z",
+  "azurirano": "2026-11-21T06:19:57.022Z",
   "dokumenti": [
     {
       "naziv": "MSI 7613-101",
@@ -449,7 +449,7 @@
           "naziv": "Usisavac Bosch BGC05AAA2",
           "barkod": "4242005076321",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Miele Guard L1 Red Pulse",
