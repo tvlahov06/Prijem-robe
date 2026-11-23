@@ -5,7 +5,7 @@
   "datum": "2026-11-23",
   "status": "aktivan",
   "kreirano": "2026-11-23T12:47:44.974Z",
-  "azurirano": "2026-11-23T20:26:56.167Z",
+  "azurirano": "2026-11-23T20:27:36.960Z",
   "dokumenti": [
     {
       "naziv": "MSI 7671-101",
@@ -426,13 +426,13 @@
           "naziv": "Blender Nutribullet NB505DG 500W",
           "barkod": "8006447000070",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB1206DGCC PRO 1200W",
           "barkod": "8006447002166",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Remington AC9096 Silk",
