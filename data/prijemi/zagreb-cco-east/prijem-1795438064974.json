@@ -5,7 +5,7 @@
   "datum": "2026-11-23",
   "status": "aktivan",
   "kreirano": "2026-11-23T12:47:44.974Z",
-  "azurirano": "2026-11-23T20:16:42.786Z",
+  "azurirano": "2026-11-23T20:16:51.534Z",
   "dokumenti": [
     {
       "naziv": "MSI 7671-101",
@@ -280,7 +280,7 @@
           "naziv": "Printer HP LaserJet M140w MFP",
           "barkod": "194850677267",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CANON Pixma G3416 Color Inkjet MF pisac - Wi-Fi, Print, Copy, Scan, Cloud, A4",
