@@ -5,7 +5,7 @@
   "datum": "2026-11-23",
   "status": "aktivan",
   "kreirano": "2026-11-23T12:47:44.974Z",
-  "azurirano": "2026-11-23T20:29:12.770Z",
+  "azurirano": "2026-11-23T20:29:29.294Z",
   "dokumenti": [
     {
       "naziv": "MSI 7671-101",
@@ -617,7 +617,7 @@
           "naziv": "Tipkovnica Logitech K270 bezicna, USB, crna",
           "barkod": "5099206032842",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Logitech G502 X PLUS, LIGHTSPEED, LIGHTSYNC RGB, crni",
@@ -641,7 +641,7 @@
           "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
           "barkod": "5099206112100",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Web kamera Logitech C270 HD",
