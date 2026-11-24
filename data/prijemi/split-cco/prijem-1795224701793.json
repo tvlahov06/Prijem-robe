@@ -5,7 +5,7 @@
   "datum": "2026-11-23",
   "status": "aktivan",
   "kreirano": "2026-11-23T18:43:54.229Z",
-  "azurirano": "2026-11-24T07:32:44.866Z",
+  "azurirano": "2026-11-24T07:32:54.973Z",
   "dokumenti": [
     {
       "naziv": "MSI 7628-101",
@@ -133,7 +133,7 @@
           "naziv": "USB STICK Kingston DataTraveler Exodia M 64GB, USB3.2",
           "barkod": "740617326260",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "White Shark TIPKOVNICA GK-004132 SHINOBI-2 Crna - R-BROWN.SW Mehanicka / HR- BROWN SW.",
@@ -193,7 +193,7 @@
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
           "barkod": "740617348408",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
@@ -277,7 +277,7 @@
           "naziv": "USB stick ADATA C008, 16GB, USB2.0, crno-crveni",
           "barkod": "4718050609604",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis BARACUDA BGM-062 ANGLERFISH - Bijeli / 3600 dpi",
@@ -367,7 +367,7 @@
           "naziv": "TP-Link Bluetooth adapter 5.0 UB500",
           "barkod": "4897098683446",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
