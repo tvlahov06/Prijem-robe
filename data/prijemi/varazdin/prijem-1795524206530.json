@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T12:43:26.530Z",
-  "azurirano": "2026-11-24T13:22:20.026Z",
+  "azurirano": "2026-11-24T13:22:28.462Z",
   "dokumenti": [
     {
       "naziv": "MSI 7637-101",
@@ -1206,7 +1206,7 @@
           "naziv": "Tipkovnica + mis MS COMBO MK-110 bezicni set",
           "barkod": "3856032105933",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk ADATA Ex HDD HV300, 2TB, usb3.0, crni -CBK",
@@ -1338,7 +1338,7 @@
           "naziv": "Tipkovnica MS ELITE K-701C",
           "barkod": "3856032100761",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link Bluetooth adapter 4.0 UB400",
