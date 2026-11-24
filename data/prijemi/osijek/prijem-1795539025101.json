@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T16:50:25.101Z",
-  "azurirano": "2026-11-24T17:31:04.591Z",
+  "azurirano": "2026-11-24T17:31:16.964Z",
   "dokumenti": [
     {
       "naziv": "10799",
@@ -325,25 +325,25 @@
           "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
           "barkod": "8018080371547",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kucni Punjac ANKER GaN 2x USB-C/USB-A + USB-C Kabel",
           "barkod": "0194644291754",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, silikonska",
           "barkod": "8018080510496",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis bezicni Trust Helox GXT929 crni",
           "barkod": "8713439253078",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mis bezicni Trust Helox GXT929W bijeli",
@@ -361,7 +361,7 @@
           "naziv": "Mis Trust Helox GXT928W bijeli",
           "barkod": "8713439253894",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mrezni Punjac CELLULARLINE GaN+ 100W 2x USB-C/USB-A",
