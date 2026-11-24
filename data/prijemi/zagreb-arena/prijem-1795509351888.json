@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T08:35:51.888Z",
-  "azurirano": "2026-11-24T10:50:26.142Z",
+  "azurirano": "2026-11-24T10:50:54.844Z",
   "dokumenti": [
     {
       "naziv": "MSI 7642-101",
@@ -1602,7 +1602,7 @@
           "naziv": "Susilo za kosu Philips BHD274/00",
           "barkod": "8710103898122",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Cetkica za zube OralB iO6 GREY OPAL",
@@ -1620,13 +1620,13 @@
           "naziv": "Susilo za kosu Philips BHD510/00",
           "barkod": "8710103948834",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Susilo za kosu Philips BHD530/00",
           "barkod": "8710103977209",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Tus za zube Philips Sonicare nastavak HX3042/00 Airfloss",
