@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T08:35:51.888Z",
-  "azurirano": "2026-11-24T09:44:59.392Z",
+  "azurirano": "2026-11-24T09:45:07.040Z",
   "dokumenti": [
     {
       "naziv": "MSI 7642-101",
@@ -611,7 +611,7 @@
           "naziv": "Tinta HP GT52 M0H56AE, Yellow",
           "barkod": "190780132555",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Mis Keychron BM27-A61",
@@ -725,7 +725,7 @@
           "naziv": "Tinta HP GT52 M0H55AE, Magenta",
           "barkod": "190780132531",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica HyperX Origins 2 65",
