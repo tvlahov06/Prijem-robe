@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T16:50:25.101Z",
-  "azurirano": "2026-11-24T17:15:39.581Z",
+  "azurirano": "2026-11-24T17:15:42.797Z",
   "dokumenti": [
     {
       "naziv": "10799",
@@ -44,7 +44,7 @@
           "naziv": "Pametna narukvica Garmin CIRQA S/M Black",
           "barkod": "753759375331",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametna narukvica Garmin CIRQA S/M Captain Blue",
@@ -164,7 +164,7 @@
           "naziv": "Pametni sportski sat Garmin Forerunner 165 Black/Slate Gray",
           "barkod": "753759326593",
           "ocekivano": 5,
-          "skenirano": 4
+          "skenirano": 5
         },
         {
           "naziv": "Pribor Garmin kabel za napajanje/prijenos podataka za Fenix 1m",
