@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T12:43:26.530Z",
-  "azurirano": "2026-11-24T13:17:05.517Z",
+  "azurirano": "2026-11-24T13:17:07.720Z",
   "dokumenti": [
     {
       "naziv": "MSI 7637-101",
@@ -1445,7 +1445,7 @@
           "naziv": "USB STICK Kingston FD Kyson 64GB USB 3.2",
           "barkod": "740617309102",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP PUNJAC ZA LAPTOP 65W USB-C",
