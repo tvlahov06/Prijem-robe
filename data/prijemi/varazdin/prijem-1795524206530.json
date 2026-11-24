@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T12:43:26.530Z",
-  "azurirano": "2026-11-24T13:36:31.942Z",
+  "azurirano": "2026-11-24T13:37:39.988Z",
   "dokumenti": [
     {
       "naziv": "MSI 7637-101",
@@ -653,7 +653,7 @@
           "naziv": "IPL depilator Philips BRI976/00 Lumea",
           "barkod": "8720689005937",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "IPL depilator Philips BRI973/00 Lumea",
@@ -665,7 +665,7 @@
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6652/61 Face & Body",
           "barkod": "8720689027298",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade Pro QP6542/15 Face & Body",
@@ -683,7 +683,7 @@
           "naziv": "IPL depilator Philips BRI947/00 Lumea",
           "barkod": "8720689016438",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "Cetkica za zube Philips Sonicare nastavak HX9042/87 Premium Plaque Defence Standard 2/1 White",
