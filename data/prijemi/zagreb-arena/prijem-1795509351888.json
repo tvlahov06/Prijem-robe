@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T08:35:51.888Z",
-  "azurirano": "2026-11-24T12:21:13.278Z",
+  "azurirano": "2026-11-24T12:21:18.942Z",
   "dokumenti": [
     {
       "naziv": "MSI 7642-101",
@@ -1489,7 +1489,7 @@
           "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
           "barkod": "5099206092525",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Mis Logitech G305 LIGHTSPEED, crni",
@@ -1531,7 +1531,7 @@
           "naziv": "Tipkovnica Logitech MX Keys S, bezicna, HR tipke, siva",
           "barkod": "5099206112100",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Web kamera Logitech MX Brio 4K Ultra HD Webcam - PALE GREY",
@@ -1555,7 +1555,7 @@
           "naziv": "Tipkovnica + mis Logitech MK470 Slim, bezicna, siva",
           "barkod": "5099206086661",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
