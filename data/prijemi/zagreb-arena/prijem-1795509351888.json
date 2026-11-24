@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T08:35:51.888Z",
-  "azurirano": "2026-11-24T13:21:23.478Z",
+  "azurirano": "2026-11-24T13:21:30.670Z",
   "dokumenti": [
     {
       "naziv": "MSI 7642-101",
@@ -1134,7 +1134,7 @@
           "naziv": "Laptop ACER Aspire Lite 17, NX.DPJEX.001, 43.9cm (17.3\") IPS Full HD, Intel Core Ultra 5 115U, 16 GB RAM, 512 GB",
           "barkod": "4711721076774",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS TUF Gaming F16 FX607VU-TU446, 40.6cm XM0 (16\") IPS WUXGA 144Hz, Intel Core 5 210H, 16 GB RAM,",
@@ -1158,7 +1158,7 @@
           "naziv": "Laptop ASUS TUF Gaming A16 FA608UP-RV018, 40.6cm 2J0 (16\") IPS WUXGA 165Hz, AMD Ryzen 7 260, 16 GB RAM, 1",
           "barkod": "4711636527071",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Monitor 27\" ACER Predator X27QX, UM.GXXEE.305, QD-OLED 2K/QHD, 240Hz, 0.03ms, AMD FreeSync",
@@ -1170,7 +1170,7 @@
           "naziv": "Laptop ACER Swift Go 14, NX.KTSEX.00C, 35.6cm (14\") OLED 2.8K, AMD Ryzen 7 8845HS, 16 GB RAM, 512 GB",
           "barkod": "4711721084229",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop LENOVO V15 G5, 83HF00H8SC, 39.6cm (15.6\") IPS Full HD, Intel Core 5 210H, 16 GB RAM, 1 TB SSD, Intel",
