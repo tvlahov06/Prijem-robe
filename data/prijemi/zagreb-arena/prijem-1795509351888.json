@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T08:35:51.888Z",
-  "azurirano": "2026-11-24T09:51:42.168Z",
+  "azurirano": "2026-11-24T09:51:49.166Z",
   "dokumenti": [
     {
       "naziv": "MSI 7642-101",
@@ -360,7 +360,7 @@
           "naziv": "Usisavac Rowenta GZ5736E0 X-Clean 7, 2u1",
           "barkod": "3221616163355",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Krups KP143GF0 Mini Me 2 arctic grey",
@@ -444,7 +444,7 @@
           "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
           "barkod": "4242005306978",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac Bosch BGC05AAA2",
