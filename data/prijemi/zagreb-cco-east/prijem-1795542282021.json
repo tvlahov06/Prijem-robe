@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "",
   "datum": "2026-11-24",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-11-24T17:44:42.021Z",
-  "azurirano": "2026-11-24T17:53:27.927Z",
+  "azurirano": "2026-11-24T17:53:52.327Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_",
@@ -101,5 +101,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-11-24T17:53:52.327Z"
 }
