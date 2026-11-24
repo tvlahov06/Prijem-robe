@@ -5,7 +5,7 @@
   "datum": "2026-11-23",
   "status": "aktivan",
   "kreirano": "2026-11-23T18:43:54.229Z",
-  "azurirano": "2026-11-24T07:36:05.199Z",
+  "azurirano": "2026-11-24T07:36:09.152Z",
   "dokumenti": [
     {
       "naziv": "MSI 7628-101",
@@ -402,7 +402,7 @@
           "naziv": "MIS SBOX WM-710 Bijeli Bezicni",
           "barkod": "3858894506477",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Tinta HP 652 Black Original Ink Advantage Cartridge, F6V25AE",
@@ -612,7 +612,7 @@
           "naziv": "Eksterni disk WD My Passport 2TB, Black, USB 3.2",
           "barkod": "718037869476",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk WD My Passport 6TB, Portable, USB 3.0, plavi",
