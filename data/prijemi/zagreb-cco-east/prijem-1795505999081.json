@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T07:39:59.081Z",
-  "azurirano": "2026-11-24T07:43:30.697Z",
+  "azurirano": "2026-11-24T07:43:36.081Z",
   "dokumenti": [
     {
       "naziv": "logista 24112026",
@@ -104,7 +104,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE-C 120 CM",
           "barkod": "8018080270413",
           "ocekivano": 4,
-          "skenirano": 2
+          "skenirano": 4
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ELITE 10.000 BLACK",
@@ -236,7 +236,7 @@
           "naziv": "Prijenosna Baterija CELLULARLINE, Glam, 10000mAh, White",
           "barkod": "8018080491047",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Putni adapter Skross EU/AUS/UK/SAD + 2× USB-A",
