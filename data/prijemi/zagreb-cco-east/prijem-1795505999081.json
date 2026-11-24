@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T07:39:59.081Z",
-  "azurirano": "2026-11-24T07:42:51.339Z",
+  "azurirano": "2026-11-24T07:42:57.628Z",
   "dokumenti": [
     {
       "naziv": "logista 24112026",
@@ -122,7 +122,7 @@
           "naziv": "Drzac Za Mobitel PLOOS, Air Vent, Crni",
           "barkod": "8018080368240",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Drzac Za Mobitel PLOOS, Gravity, Crni",
@@ -164,7 +164,7 @@
           "naziv": "Kucni Punjac PLOOS, 1A, 1xUSB-A, Crni",
           "barkod": "8018080367755",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kucni Punjac PLOOS, 2A, 1xUSB-A, Kabel USB-C 100cm, Crni",
