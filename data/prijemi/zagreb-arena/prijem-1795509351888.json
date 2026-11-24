@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T08:35:51.888Z",
-  "azurirano": "2026-11-24T08:53:45.119Z",
+  "azurirano": "2026-11-24T08:54:31.779Z",
   "dokumenti": [
     {
       "naziv": "MSI 7642-101",
@@ -402,13 +402,13 @@
           "naziv": "Usisavac robot Roborock Q10 VF bijela",
           "barkod": "6936905901637",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Q10 VF crna",
           "barkod": "6936905901620",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac robot Roborock Q10 VF+ bijela",
