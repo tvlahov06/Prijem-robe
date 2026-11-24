@@ -5,7 +5,7 @@
   "datum": "2026-11-23",
   "status": "aktivan",
   "kreirano": "2026-11-23T18:43:54.229Z",
-  "azurirano": "2026-11-24T07:35:56.179Z",
+  "azurirano": "2026-11-24T07:35:59.708Z",
   "dokumenti": [
     {
       "naziv": "MSI 7628-101",
@@ -522,7 +522,7 @@
           "naziv": "TP-Link RE450 bezicni pojacivac dometa, Dual Band GHz/5GHz, 10/100/1000 LAN prikljucak",
           "barkod": "6935364092382",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
@@ -606,7 +606,7 @@
           "naziv": "SSD Samsung 1TB USB 3.2 T7 Portable plavi MU-PE1T0R/EU",
           "barkod": "8806092968479",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk WD My Passport 2TB, Black, USB 3.2",
