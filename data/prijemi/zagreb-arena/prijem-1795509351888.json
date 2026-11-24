@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T08:35:51.888Z",
-  "azurirano": "2026-11-24T09:45:57.345Z",
+  "azurirano": "2026-11-24T09:46:02.656Z",
   "dokumenti": [
     {
       "naziv": "MSI 7642-101",
@@ -755,7 +755,7 @@
           "naziv": "Eksterni disk WD My Passport 6TB, Portable, USB 3.0, plavi",
           "barkod": "0718037903910",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mis ACER AMR130, Ljubicasta",
@@ -773,7 +773,7 @@
           "naziv": "Eksterni HDD Western Digital My Passport Blue 4TB 2,5\" L-WESN WDBPKJ0040",
           "barkod": "718037870212",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Eksterni disk WD Elements 5TB, Portable 2,5\", USB-C BK",
@@ -785,7 +785,7 @@
           "naziv": "Eksterni disk WD My Passport 6TB, Portable, USB 3.0, RD-WESN crveni",
           "barkod": "0718037903958",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
