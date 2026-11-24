@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T08:35:51.888Z",
-  "azurirano": "2026-11-24T13:22:26.678Z",
+  "azurirano": "2026-11-24T13:22:36.853Z",
   "dokumenti": [
     {
       "naziv": "MSI 7642-101",
@@ -1086,13 +1086,13 @@
           "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
           "barkod": "2010033161096",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Laptop HP VICTUS Gaming 15-fa2001nmx, 39.6 cm (15.6\") IPS Full HD 144Hz, Intel Core i5-13420H, 16 GB RAM, 512",
           "barkod": "821844546567",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ01CYSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 3 30, 16 GB RAM, 512 GB",
@@ -1116,13 +1116,13 @@
           "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA2786, 39.6cm FB0 (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
           "barkod": "4711636470988",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15 NX.DLPEX.002, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 5825U, 16 GB RAM, 1 TB SSD,",
           "barkod": "4711474830203",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ACER Aspire Lite 15 NX.JXTEX.002, 39.6 cm (15.6\") IPS Full HD, AMD Ryzen 3 5400U, 8 GB RAM, 256 GB SSD,",
@@ -1182,13 +1182,13 @@
           "naziv": "Laptop HP OmniBook X Flip 14-kb0009nnx, 35.6cm (14\") OLED 2K Touchscreen, Intel Core Ultra 5 325, 16 GB RAM,",
           "barkod": "0885981737455",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP OmniBook X Flip 16-cb0004nnx, 40.6cm (16\") OLED 2K Touchscreen, Intel Core Ultra 5 325, 16 GB RAM,",
           "barkod": "0885981737462",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
