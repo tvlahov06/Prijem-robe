@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "gista i garmin",
   "datum": "2026-11-24",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-11-24T17:31:53.118Z",
-  "azurirano": "2026-11-24T17:31:53.118Z",
+  "azurirano": "2026-11-24T17:32:08.215Z",
   "dokumenti": [
     {
       "naziv": "10799",
@@ -581,5 +581,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-11-24T17:32:08.215Z"
 }
