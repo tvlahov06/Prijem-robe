@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T08:35:51.888Z",
-  "azurirano": "2026-11-24T08:53:38.680Z",
+  "azurirano": "2026-11-24T08:53:41.489Z",
   "dokumenti": [
     {
       "naziv": "MSI 7642-101",
@@ -414,13 +414,13 @@
           "naziv": "Usisavac robot Roborock Q10 VF+ bijela",
           "barkod": "6936905902375",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Usisavac robot Roborock Q7 BF+ sa stanicom za samopraznjenje bijela",
           "barkod": "6936905901934",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Q7 BF+ sa stanicom za samopraznjenje crna",
