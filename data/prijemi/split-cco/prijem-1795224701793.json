@@ -5,7 +5,7 @@
   "datum": "2026-11-23",
   "status": "aktivan",
   "kreirano": "2026-11-23T18:43:54.229Z",
-  "azurirano": "2026-11-24T07:34:53.726Z",
+  "azurirano": "2026-11-24T07:35:03.093Z",
   "dokumenti": [
     {
       "naziv": "MSI 7628-101",
@@ -420,7 +420,7 @@
           "naziv": "TP-Link UE300C USB Type-C na Ethernet adapter, USB 3.0 port, 10/100/1000",
           "barkod": "1210002617895",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Baracuda MIS BGM-092 SEAL BIJELI / 12800 dpi",
@@ -522,7 +522,7 @@
           "naziv": "TP-Link RE450 bezicni pojacivac dometa, Dual Band GHz/5GHz, 10/100/1000 LAN prikljucak",
           "barkod": "6935364092382",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
