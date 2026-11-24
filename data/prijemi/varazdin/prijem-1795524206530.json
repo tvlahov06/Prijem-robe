@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T12:43:26.530Z",
-  "azurirano": "2026-11-24T13:01:39.893Z",
+  "azurirano": "2026-11-24T13:01:43.880Z",
   "dokumenti": [
     {
       "naziv": "MSI 7637-101",
@@ -968,7 +968,7 @@
           "naziv": "Glacalo Tefal FV9852E0, 3200W",
           "barkod": "3121040095737",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/40",
