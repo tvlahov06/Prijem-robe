@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T16:50:25.101Z",
-  "azurirano": "2026-11-24T16:58:09.160Z",
+  "azurirano": "2026-11-24T16:58:15.936Z",
   "dokumenti": [
     {
       "naziv": "10799",
@@ -271,7 +271,7 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Micro-USB, 2m",
           "barkod": "766623356855",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
@@ -540,7 +540,7 @@
           "naziv": "Kabel MANHATTAN USB 2.0 Type-A to Micro-USB, 2m",
           "barkod": "766623356855",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN USB-C to DisplayPort (DP) 8K@60Hz, 2m",
