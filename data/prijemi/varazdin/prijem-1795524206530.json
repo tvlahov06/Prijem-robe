@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T12:43:26.530Z",
-  "azurirano": "2026-11-24T13:15:33.886Z",
+  "azurirano": "2026-11-24T13:15:45.611Z",
   "dokumenti": [
     {
       "naziv": "MSI 7637-101",
@@ -1320,7 +1320,7 @@
           "naziv": "TP-Link USB3.0 na Gigabit mrezni adapter",
           "barkod": "6935364091743",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ADATA C008, 32GB, USB2.0, plavo-bijeli",
