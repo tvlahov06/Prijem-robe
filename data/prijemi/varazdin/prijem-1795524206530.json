@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T12:43:26.530Z",
-  "azurirano": "2026-11-24T13:14:26.000Z",
+  "azurirano": "2026-11-24T13:14:35.731Z",
   "dokumenti": [
     {
       "naziv": "MSI 7637-101",
@@ -1158,7 +1158,7 @@
           "naziv": "Baracuda TIPKOVNICA BGK-04141 SEAHORSE Crna / US",
           "barkod": "3858894508013",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB STICK Kingston FD Kyson 128GB USB 3.2",
@@ -1296,7 +1296,7 @@
           "naziv": "Tinta Epson 103 EcoTank 4-colour Multipack",
           "barkod": "8715946701271",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "HP HyperX Wrist Rest - Keyboard - Full Size",
@@ -1332,7 +1332,7 @@
           "naziv": "Tipkovnica Razer huntsman Mini, Purple Switch, US HR 0-R3M1",
           "barkod": "8886419345732",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tipkovnica MS ELITE K-701C",
@@ -1487,7 +1487,7 @@
           "naziv": "Mikrofon HP HyperX SoloCast 2, AR0A0AA, crni",
           "barkod": "198701525790",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Baracuda MIS BGM-081 LOBSTER Crni",
