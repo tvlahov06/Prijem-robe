@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T12:43:26.530Z",
-  "azurirano": "2026-11-24T13:16:06.018Z",
+  "azurirano": "2026-11-24T13:16:12.479Z",
   "dokumenti": [
     {
       "naziv": "MSI 7637-101",
@@ -1188,7 +1188,7 @@
           "naziv": "Memorijska kartica Kingston 128GB microSDXC Canvas Go Plus Gen4 + ADP",
           "barkod": "740617347944",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MIS SBOX WM-710 Bijeli Bezicni",
@@ -1254,7 +1254,7 @@
           "naziv": "USB STICK Kingston DataTraveler microDuo 3C 64GB, USB GB 3.2, USB-A+C",
           "barkod": "740617328219",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TP-Link RE605X, AX1800 Wi-Fi 6 Range Extender",
@@ -1344,7 +1344,7 @@
           "naziv": "TP-Link Bluetooth adapter 4.0 UB400",
           "barkod": "6935364099664",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "HDD WD Elements Portable 4TB, USB 3.0",
