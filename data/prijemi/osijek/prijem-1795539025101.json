@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T16:50:25.101Z",
-  "azurirano": "2026-11-24T17:13:36.428Z",
+  "azurirano": "2026-11-24T17:13:46.211Z",
   "dokumenti": [
     {
       "naziv": "10799",
@@ -642,13 +642,13 @@
           "naziv": "Torba za laptop Trust Bologna16\" crna",
           "barkod": "8713439244472",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Torba za laptop Trust Bologna16\" plava",
           "barkod": "8713439244489",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TP-Link MESH Wi-Fi HALO H30G (2-pack)",
