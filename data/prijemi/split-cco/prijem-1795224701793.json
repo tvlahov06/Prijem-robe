@@ -5,7 +5,7 @@
   "datum": "2026-11-23",
   "status": "aktivan",
   "kreirano": "2026-11-23T18:43:54.229Z",
-  "azurirano": "2026-11-24T07:35:48.098Z",
+  "azurirano": "2026-11-24T07:35:56.179Z",
   "dokumenti": [
     {
       "naziv": "MSI 7628-101",
@@ -396,7 +396,7 @@
           "naziv": "MIS SBOX WM-710 Roza Bezicni",
           "barkod": "3858894506576",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "MIS SBOX WM-710 Bijeli Bezicni",
@@ -522,7 +522,7 @@
           "naziv": "TP-Link RE450 bezicni pojacivac dometa, Dual Band GHz/5GHz, 10/100/1000 LAN prikljucak",
           "barkod": "6935364092382",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Kingston FD DT70/128GB-USB-C Flash Drive",
@@ -552,7 +552,7 @@
           "naziv": "TP-Link AC750 bezicni pojacivac dometa, Dual Band 5GHz/2.4GHz, 802.11ac/a/b/g/n",
           "barkod": "6935364071295",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Baracuda PODLOGA ZA MIS BGMP-021 WALRUS Crna/narancasta 400x300 L",
