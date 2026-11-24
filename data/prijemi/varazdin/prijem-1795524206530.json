@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T12:43:26.530Z",
-  "azurirano": "2026-11-24T13:13:50.351Z",
+  "azurirano": "2026-11-24T13:13:58.652Z",
   "dokumenti": [
     {
       "naziv": "MSI 7637-101",
@@ -1212,7 +1212,7 @@
           "naziv": "Eksterni disk ADATA Ex HDD HV300, 2TB, usb3.0, crni -CBK",
           "barkod": "4713218465016",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "USB stick ADATA UR340, 128GB, USB3.2 28GBK",
