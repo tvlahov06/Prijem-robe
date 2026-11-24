@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T07:39:59.081Z",
-  "azurirano": "2026-11-24T07:46:36.455Z",
+  "azurirano": "2026-11-24T07:46:42.588Z",
   "dokumenti": [
     {
       "naziv": "logista 24112026",
@@ -140,13 +140,13 @@
           "naziv": "Kabel MANHATTAN Audio 3.5 mm musko/zenski (produzni), 2m",
           "barkod": "766623395038",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN DisplayPort 4K@60Hz (DP), 2m",
           "barkod": "766623356800",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Kabel PLOOS, USB-A na USB-C, 100cm, Bijeli",
