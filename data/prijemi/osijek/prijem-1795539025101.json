@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T16:50:25.101Z",
-  "azurirano": "2026-11-24T17:01:05.501Z",
+  "azurirano": "2026-11-24T17:01:09.299Z",
   "dokumenti": [
     {
       "naziv": "10799",
@@ -229,7 +229,7 @@
           "naziv": "CELLULARLINE KABEL TYPE-C 200CM",
           "barkod": "8018080295737",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE-C 300 CM",
@@ -397,7 +397,7 @@
           "naziv": "Zastitno Staklo CELLULARLINE, Samsung Galaxy S24 FE/A36/A56/A37",
           "barkod": "8018080514753",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
