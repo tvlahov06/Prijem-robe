@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T12:43:26.530Z",
-  "azurirano": "2026-11-24T13:42:08.068Z",
+  "azurirano": "2026-11-24T13:42:16.466Z",
   "dokumenti": [
     {
       "naziv": "MSI 7637-101",
@@ -32,7 +32,7 @@
           "naziv": "Usisavac Rowenta RO3721EA",
           "barkod": "3221616129719",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Tefal GV9920E0, 9 bara, Blue Gold",
@@ -44,7 +44,7 @@
           "naziv": "Aparat za kavu Krups KP243B10 Genio S anthracite PF",
           "barkod": "3045380024335",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Q10 VF bijela",
