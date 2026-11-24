@@ -5,7 +5,7 @@
   "datum": "2026-11-23",
   "status": "aktivan",
   "kreirano": "2026-11-23T18:43:54.229Z",
-  "azurirano": "2026-11-24T07:18:02.419Z",
+  "azurirano": "2026-11-24T07:18:11.326Z",
   "dokumenti": [
     {
       "naziv": "MSI 7628-101",
@@ -80,7 +80,7 @@
           "naziv": "Usisavac Bosch BGC05AAA2",
           "barkod": "4242005076321",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Blender Nutribullet NB907CP 900W",
