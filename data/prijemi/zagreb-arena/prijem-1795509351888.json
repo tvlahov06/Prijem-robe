@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T08:35:51.888Z",
-  "azurirano": "2026-11-24T13:15:39.817Z",
+  "azurirano": "2026-11-24T13:21:23.478Z",
   "dokumenti": [
     {
       "naziv": "MSI 7642-101",
@@ -1068,7 +1068,7 @@
           "naziv": "Laptop HP 200 G2a, DZ5Q4ET, 40.6cm (16\") WUXGA, AMD Ryzen 5 220, 16 GB RAM, 512 GB SSD, AMD Radeon 740M",
           "barkod": "826581892304",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB SSD, AMD",
@@ -1086,7 +1086,7 @@
           "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
           "barkod": "2010033161096",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP VICTUS Gaming 15-fa2001nmx, 39.6 cm (15.6\") IPS Full HD 144Hz, Intel Core i5-13420H, 16 GB RAM, 512",
@@ -1098,7 +1098,7 @@
           "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ01CYSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 3 30, 16 GB RAM, 512 GB",
           "barkod": "199274826796",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop Apple Macbook Air Midnight, mdhe4cr/a, /M5/16GB/512GB-CRO",
@@ -1176,7 +1176,7 @@
           "naziv": "Laptop LENOVO V15 G5, 83HF00H8SC, 39.6cm (15.6\") IPS Full HD, Intel Core 5 210H, 16 GB RAM, 1 TB SSD, Intel",
           "barkod": "0199274075705",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Laptop HP OmniBook X Flip 14-kb0009nnx, 35.6cm (14\") OLED 2K Touchscreen, Intel Core Ultra 5 325, 16 GB RAM,",
