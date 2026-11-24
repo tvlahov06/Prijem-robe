@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T12:43:26.530Z",
-  "azurirano": "2026-11-24T13:17:07.720Z",
+  "azurirano": "2026-11-24T13:17:17.055Z",
   "dokumenti": [
     {
       "naziv": "MSI 7637-101",
@@ -1397,7 +1397,7 @@
           "naziv": "White Shark TIPKOVNICA GK-004132 SHINOBI-2 Crna - R-BROWN.SW Mehanicka / HR- BROWN SW.",
           "barkod": "3858894506071",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Tinta HP 305 Black Original Ink Cartridge, 3YM61AE - Instant Ink",
@@ -1439,13 +1439,13 @@
           "naziv": "USB STICK KINGSTON FD Exodia 128GB USB 3.2",
           "barkod": "740617309928",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "USB STICK Kingston FD Kyson 64GB USB 3.2",
           "barkod": "740617309102",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "HP PUNJAC ZA LAPTOP 65W USB-C",
@@ -1457,7 +1457,7 @@
           "naziv": "Memorijska kartica Kingston 64GB micSDHC Canvas Select Plus G3 100R+A",
           "barkod": "740617348408",
           "ocekivano": 3,
-          "skenirano": 2
+          "skenirano": 3
         },
         {
           "naziv": "USB STICK Kingston FD Exodia S 64GB USB 3.2 Black",
@@ -1553,7 +1553,7 @@
           "naziv": "White Shark MIS GM-5013 AZRAEL / 12.800 DPI - Crni",
           "barkod": "3858894503520",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "White Shark MIS WGM-5012 LIONEL / 10.000 DPI - Pink / Wireless",
