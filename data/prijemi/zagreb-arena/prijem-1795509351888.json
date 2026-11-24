@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T08:35:51.888Z",
-  "azurirano": "2026-11-24T13:37:02.071Z",
+  "azurirano": "2026-11-24T13:37:04.669Z",
   "dokumenti": [
     {
       "naziv": "MSI 7642-101",
@@ -1930,7 +1930,7 @@
           "naziv": "Usisavac Bosch BGC05AAA2",
           "barkod": "4242005076321",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac Miele Boost CX1 Blue Pulse",
