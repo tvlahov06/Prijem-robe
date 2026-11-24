@@ -5,7 +5,7 @@
   "datum": "2026-11-24",
   "status": "aktivan",
   "kreirano": "2026-11-24T08:35:51.888Z",
-  "azurirano": "2026-11-24T09:13:49.354Z",
+  "azurirano": "2026-11-24T09:14:23.481Z",
   "dokumenti": [
     {
       "naziv": "MSI 7642-101",
@@ -1022,13 +1022,13 @@
           "naziv": "Mikrovalna pecnica ugradbena Electrolux LMS2203EMX",
           "barkod": "7332543673575",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikrovalna ugradbena Gorenje BMX201AG1BG",
           "barkod": "3838782498916",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
