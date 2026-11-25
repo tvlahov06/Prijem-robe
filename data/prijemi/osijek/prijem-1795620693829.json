@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T15:31:33.829Z",
-  "azurirano": "2026-11-25T15:44:17.911Z",
+  "azurirano": "2026-11-25T15:45:09.472Z",
   "dokumenti": [
     {
       "naziv": "MSI 7540-101",
@@ -480,7 +480,7 @@
           "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
           "barkod": "195950627190",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C bijeli bez kabela",
@@ -498,7 +498,7 @@
           "naziv": "Mobitel Samsung Galaxy A37 5G 6GB/128GB dual SIM sivi",
           "barkod": "8806099035259",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Sat Samsung Galaxy Watch9 44mm srebrni",
@@ -546,7 +546,7 @@
           "naziv": "Mobitel Apple iPhone 18 Pro 256GB Silver",
           "barkod": "195951415673",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Instant fotoaparat Fujifilm Instax Mini 12 plavi",
@@ -570,7 +570,7 @@
           "naziv": "Mobitel Apple iPhone 17 256GB Black",
           "barkod": "195950643534",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Carbon magnetna maska za Samsung Galaxy Fold8 Ultra crvena",
@@ -582,13 +582,13 @@
           "naziv": "Mobitel Apple iPhone 18 Pro 256GB Black",
           "barkod": "195951415666",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple 40W Dynamic Power Adapter with 60W Max",
           "barkod": "195950673982",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Apple Watch Series 12 GPS 46mm Space Grey Aluminium Case with Navy Blue Sport Band - M/L",
@@ -606,7 +606,7 @@
           "naziv": "Mobitel Samsung Galaxy A18 4GB/128GB dual SIM srebrni",
           "barkod": "8806099456863",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "GoPro pribor Enduro Battery (2 Pack) (Hero 13 Black)",
