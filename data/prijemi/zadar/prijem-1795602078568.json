@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T10:21:18.568Z",
-  "azurirano": "2026-11-25T11:25:27.812Z",
+  "azurirano": "2026-11-25T11:25:33.625Z",
   "dokumenti": [
     {
       "naziv": "MSI 7710-101",
@@ -513,7 +513,7 @@
           "naziv": "Uvijac za kosu Philips BHA710/00",
           "barkod": "8720689003872",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "IPL depilator Philips BRI976/00 Lumea",
