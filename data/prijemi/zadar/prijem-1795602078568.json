@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T10:21:18.568Z",
-  "azurirano": "2026-11-25T11:22:31.751Z",
+  "azurirano": "2026-11-25T11:22:38.839Z",
   "dokumenti": [
     {
       "naziv": "MSI 7710-101",
@@ -531,7 +531,7 @@
           "naziv": "Brijaci aparat Philips S3244/12",
           "barkod": "8720689018609",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Brijaci aparat Philips OneBlade QP225/50 nastavci Face",
