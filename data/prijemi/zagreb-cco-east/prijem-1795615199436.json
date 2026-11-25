@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T13:59:59.436Z",
-  "azurirano": "2026-11-25T20:47:34.732Z",
+  "azurirano": "2026-11-25T20:47:52.547Z",
   "dokumenti": [
     {
       "naziv": "MSI 7777-101",
@@ -103,13 +103,13 @@
           "naziv": "IPL depilator Philips BRI947/00 Lumea",
           "barkod": "8720689016438",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop LENOVO LOQ, 83TN0069SC, 38.9cm (15.3\") IPS WUXGA, AMD Ryzen 7 250, 16 GB RAM, 512 GB SSD,",
           "barkod": "199276323002",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor SAMSUNG QE65S85HAEXXH 2026, 164 cm (65\"), H OLED, 4K UHD, Smart TV, Tizen OS",
@@ -655,7 +655,7 @@
           "naziv": "aparat za glavu Philips Head Shaver Pro HS9980/16 Series 9000, s premium dodacima",
           "barkod": "8720689062671",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         }
       ]
     },
