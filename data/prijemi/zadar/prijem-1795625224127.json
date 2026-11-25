@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T16:47:04.127Z",
-  "azurirano": "2026-11-25T18:07:03.861Z",
+  "azurirano": "2026-11-25T18:07:08.187Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_nova",
@@ -128,7 +128,7 @@
           "naziv": "Zastitno staklo Cellularline, Iphone 18 Pro",
           "barkod": "8018080522444",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
@@ -140,7 +140,7 @@
           "naziv": "Zastitno staklo Cellularline Samsung Galaxy S26",
           "barkod": "8018080511585",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
