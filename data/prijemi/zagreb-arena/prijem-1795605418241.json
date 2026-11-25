@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T11:16:58.241Z",
-  "azurirano": "2026-11-25T11:29:02.370Z",
+  "azurirano": "2026-11-25T11:29:05.184Z",
   "dokumenti": [
     {
       "naziv": "Logista OT 7371-1234",
@@ -368,7 +368,7 @@
           "naziv": "TRUST PC ADAPTER USB-C U HDMI",
           "barkod": "8713439237740",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TRUST PC ADAPTER USB-C U USB-A KABEL",
