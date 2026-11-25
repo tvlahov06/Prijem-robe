@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T23:08:14.026Z",
-  "azurirano": "2026-11-25T07:21:07.540Z",
+  "azurirano": "2026-11-25T07:21:10.702Z",
   "dokumenti": [
     {
       "naziv": "Also",
@@ -180,7 +180,7 @@
           "naziv": "ANKER Prijenosna baterija 20.000, 87W, crni",
           "barkod": "194644197469",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ANKER Prijenosna baterija 25.000, 165W, bijeli",
@@ -300,7 +300,7 @@
           "naziv": "Drzac za Mobitel CELLULARLINE Slide Fit",
           "barkod": "8018080443701",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 2m",
