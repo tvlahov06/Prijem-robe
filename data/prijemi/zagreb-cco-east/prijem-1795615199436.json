@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T13:59:59.436Z",
-  "azurirano": "2026-11-25T20:40:18.655Z",
+  "azurirano": "2026-11-25T20:41:40.665Z",
   "dokumenti": [
     {
       "naziv": "MSI 7777-101",
@@ -56,7 +56,7 @@
           "naziv": "Televizor SAMSUNG UE55M80HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806099014230",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -73,13 +73,13 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE55M80HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806099014230",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony potpuno bezicne WF-C710N/B",
@@ -292,7 +292,7 @@
           "naziv": "Televizor SAMSUNG QE65S85HAEXXH 2026, 164 cm (65\"), H OLED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097963646",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
