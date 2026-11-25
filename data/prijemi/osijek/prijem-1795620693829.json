@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T15:31:33.829Z",
-  "azurirano": "2026-11-25T16:36:37.623Z",
+  "azurirano": "2026-11-25T16:36:52.874Z",
   "dokumenti": [
     {
       "naziv": "MSI 7540-101",
@@ -1171,7 +1171,7 @@
           "naziv": "Susilo za kosu Philips BHC010/10 putno",
           "barkod": "8710103887119",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD510/00",
@@ -1195,7 +1195,7 @@
           "naziv": "Pegla za kosu Philips BHS520/00",
           "barkod": "8710103974147",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Uvijac za kosu Philips BHA710/00",
@@ -1231,7 +1231,7 @@
           "naziv": "Cetkica za zube Philips Sonicare HX9911/88 DiamondClean, Blue",
           "barkod": "8720689001007",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pegla za kosu Philips BHS838/00 SenseIQ",
