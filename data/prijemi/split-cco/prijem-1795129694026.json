@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T23:08:14.026Z",
-  "azurirano": "2026-11-25T07:21:48.612Z",
+  "azurirano": "2026-11-25T07:22:02.855Z",
   "dokumenti": [
     {
       "naziv": "Also",
@@ -246,7 +246,7 @@
           "naziv": "CELLULARLINE FM TRANSMITTER",
           "barkod": "8018080476976",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
@@ -282,13 +282,13 @@
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C 25W",
           "barkod": "8018080367182",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
           "barkod": "8018080367199",
           "ocekivano": 5,
-          "skenirano": 1
+          "skenirano": 5
         },
         {
           "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO",
