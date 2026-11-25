@@ -3,9 +3,9 @@
   "poslovnica": "zagreb-cco-east",
   "naziv": "MSI 7777 -> MSI 7822 [zasad otvoreni MSI dokumenti za robu]",
   "datum": "2026-11-25",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-11-25T13:59:59.436Z",
-  "azurirano": "2026-11-25T21:00:47.485Z",
+  "azurirano": "2026-11-25T21:21:10.601Z",
   "dokumenti": [
     {
       "naziv": "MSI 7777-101",
@@ -967,5 +967,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-11-25T21:21:10.601Z"
 }
