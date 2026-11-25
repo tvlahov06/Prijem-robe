@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T10:21:18.568Z",
-  "azurirano": "2026-11-25T15:09:12.642Z",
+  "azurirano": "2026-11-25T15:09:29.478Z",
   "dokumenti": [
     {
       "naziv": "MSI 7712-101",
@@ -401,77 +401,6 @@
           "barkod": "8806097977674",
           "ocekivano": 3,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7665-101",
-      "stavke": [
-        {
-          "naziv": "Pegla za kosu Loreal Professionnel Steampod 4.0",
-          "barkod": "3474637116415",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Susilo za kosu Dyson Supersonic Travel HD19 Ceramic pink/Rose gold",
-          "barkod": "5025155130285",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "LOGITECH G29 za PS3, PS4, PS5 i PC, igraci volan",
-          "barkod": "5099206057302",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice bluetooth potpuno bezicne JBL Vibe BUDS 2 crne",
-          "barkod": "1200130015694",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 plavi",
-          "barkod": "1200130019579",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL GO 5 crni",
-          "barkod": "1200130034282",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX On-the-Go 2 TG2BEP",
-          "barkod": "1200130026294",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "prijenosni bluetooth JBL XTREME 5 crni",
-          "barkod": "1200130033742",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mikrofon JBL PARTYBOX SMIC",
-          "barkod": "1200130010156",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice bezicne Sony s funkcijom blokade buke E7 WF-1000XM6/B",
-          "barkod": "4548736171770",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
-          "barkod": "4548736161436",
-          "ocekivano": 3,
-          "skenirano": 3
         }
       ]
     },
