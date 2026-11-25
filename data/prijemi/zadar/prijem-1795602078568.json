@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T10:21:18.568Z",
-  "azurirano": "2026-11-25T15:08:45.005Z",
+  "azurirano": "2026-11-25T15:08:58.697Z",
   "dokumenti": [
     {
       "naziv": "MSI 7712-101",
@@ -207,89 +207,6 @@
           "barkod": "8720689062671",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7737-101",
-      "stavke": [
-        {
-          "naziv": "Film za Fujifilm Instax Mini - 2 paketa",
-          "barkod": "4547410364866",
-          "ocekivano": 20,
-          "skenirano": 20
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
-          "barkod": "6942103168239",
-          "ocekivano": 10,
-          "skenirano": 10
-        },
-        {
-          "naziv": "Pametni sat HUAWEI Watch GT7 Pro crni 46mm (Atum-B49F)",
-          "barkod": "6942711308645",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Sat Samsung Galaxy Watch9 40mm crni",
-          "barkod": "8806099325442",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM tamnoplavi",
-          "barkod": "8806099028282",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
-          "barkod": "6942103168246",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "fotoaparat Fujifilm Instax Mini 13 zeleni",
-          "barkod": "4547410564860",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Apple AirTag (2. generacije), pakiranje 1 kom",
-          "barkod": "195950667363",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
-          "barkod": "8806097827177",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Silikonska magnetna maska za Samsung Galaxy S26 Ultra bijela",
-          "barkod": "8806097887188",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Apple 40W Dynamic Power Adapter with 60W Max",
-          "barkod": "195950673982",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Apple Watch Series 12 GPS 46mm Black Aluminium Case with Black Sport Band - M/L",
-          "barkod": "195951227269",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "DJI Osmo Nano (64GB)",
-          "barkod": "6937224115446",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
