@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T13:59:59.436Z",
-  "azurirano": "2026-11-25T20:41:40.665Z",
+  "azurirano": "2026-11-25T20:41:48.619Z",
   "dokumenti": [
     {
       "naziv": "MSI 7777-101",
@@ -493,7 +493,7 @@
           "naziv": "Glacalo Tefal FV9852E0, 3200W",
           "barkod": "3121040095737",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH5020/40",
@@ -505,7 +505,7 @@
           "naziv": "Osvjezivac odjece Philips STH5030/20",
           "barkod": "8720389050091",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA150/00 Airfryer Dual Basket",
@@ -553,7 +553,7 @@
           "naziv": "Sjeckalica Philips HR1502/00",
           "barkod": "8720389066573",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster Philips HD2350/80 preklopni",
