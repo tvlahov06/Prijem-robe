@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T23:08:14.026Z",
-  "azurirano": "2026-11-25T07:17:56.792Z",
+  "azurirano": "2026-11-25T07:19:47.514Z",
   "dokumenti": [
     {
       "naziv": "Also",
@@ -252,13 +252,13 @@
           "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
           "barkod": "8018080373633",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KABEL TYPE-C 200CM",
           "barkod": "8018080295737",
           "ocekivano": 5,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "CELLULARLINE KP ADAPTER USB-C 45W",
