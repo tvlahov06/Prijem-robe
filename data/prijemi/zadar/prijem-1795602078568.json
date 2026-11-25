@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T10:21:18.568Z",
-  "azurirano": "2026-11-25T11:19:17.261Z",
+  "azurirano": "2026-11-25T11:19:38.911Z",
   "dokumenti": [
     {
       "naziv": "MSI 7710-101",
@@ -483,7 +483,7 @@
           "naziv": "Susilo za kosu Philips BHC010/10 putno",
           "barkod": "8710103887119",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Susilo za kosu Philips BHD510/00",
