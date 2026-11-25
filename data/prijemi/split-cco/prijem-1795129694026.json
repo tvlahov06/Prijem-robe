@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T23:08:14.026Z",
-  "azurirano": "2026-11-25T07:22:23.079Z",
+  "azurirano": "2026-11-25T07:22:34.375Z",
   "dokumenti": [
     {
       "naziv": "Also",
@@ -174,7 +174,7 @@
           "naziv": "ANKER kucni punjac 33W, 1xUSB-C/1xUSB-A, crni",
           "barkod": "0194644125639",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "ANKER Prijenosna baterija 20.000, 87W, crni",
@@ -210,7 +210,7 @@
           "naziv": "Bluetooth slusalice ANKER SoundCore Liberty 5, crne",
           "barkod": "0194644291334",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "CELLULARLINE ACL AUDIO KABEL 3.5 MM NA TYPE-C",
@@ -318,13 +318,13 @@
           "naziv": "Kucni Punjac ANKER GaN 2x USB-C/USB-A + USB-C Kabel",
           "barkod": "0194644291754",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Kucni punjac ANKER Nano Display, USB-C, 45W, bijela",
           "barkod": "0194644320850",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Maskica Cellularline Samsung Galaxy A27, Book 3, crna",
@@ -372,7 +372,7 @@
           "naziv": "Slusalice SOUNDCORE TWS R60i NC Bluetooth Crne",
           "barkod": "0194644269470",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Slusalice SOUNDCORE, Liberty 5 PRO, In-ear, Bluetooth, Black",
