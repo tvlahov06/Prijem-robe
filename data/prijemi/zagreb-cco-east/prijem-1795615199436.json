@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T13:59:59.436Z",
-  "azurirano": "2026-11-25T20:30:09.291Z",
+  "azurirano": "2026-11-25T20:30:19.642Z",
   "dokumenti": [
     {
       "naziv": "MSI 7777-101",
@@ -487,7 +487,7 @@
           "naziv": "Parna postaja Tefal SV8151E0",
           "barkod": "3121040086414",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Tefal FV9852E0, 3200W",
@@ -565,7 +565,7 @@
           "naziv": "Pekac kruha Tefal PF240E38",
           "barkod": "3045385783428",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Toster grill Tefal GC272D10",
