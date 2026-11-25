@@ -5,7 +5,7 @@
   "datum": "2026-11-19",
   "status": "aktivan",
   "kreirano": "2026-11-19T23:08:14.026Z",
-  "azurirano": "2026-11-25T07:17:24.618Z",
+  "azurirano": "2026-11-25T07:17:50.825Z",
   "dokumenti": [
     {
       "naziv": "Also",
@@ -384,7 +384,7 @@
           "naziv": "Tipkovnica i mis Trust ODY II Wireless",
           "barkod": "8713439253665",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Torba za laptop Trust Bologna16\" crna",
@@ -396,7 +396,7 @@
           "naziv": "TP-Link MESH Wi-Fi HALO H30G (2-pack)",
           "barkod": "6957939000677",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "TP-Link SWITCH 8 PORT SA 7-PORT PoE+",
@@ -468,7 +468,7 @@
           "naziv": "Zicni mrezni adapter MERCUSYS AV1000 Gigabit Powerline Starter Kit (MP500 KIT) 1000 Mbps - komplet",
           "barkod": "6935364072681",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         }
       ]
     },
