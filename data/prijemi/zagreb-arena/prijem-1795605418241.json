@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T11:16:58.241Z",
-  "azurirano": "2026-11-25T11:21:48.423Z",
+  "azurirano": "2026-11-25T11:21:57.236Z",
   "dokumenti": [
     {
       "naziv": "Logista OT 7371-1234",
@@ -86,7 +86,7 @@
           "naziv": "CELLULARLINE ZASTITNA MASKA FINE GALAXY S25 FE",
           "barkod": "8018080507335",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Maskica Cellularline Samsung Galaxy A27, Book 3, crna",
@@ -98,7 +98,7 @@
           "naziv": "Zastitno staklo Cellularline Samsung Galaxy S26 Ultra",
           "barkod": "8018080511592",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitno staklo Cellularline, Iphone 18 Pro Max",
@@ -248,7 +248,7 @@
           "naziv": "Zastitno staklo Cellularline Samsung Galaxy S26",
           "barkod": "8018080511585",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Kabel MANHATTAN HDMI 8K@60Hz Certified Ultra High Speed with Ethernet, 2m",
