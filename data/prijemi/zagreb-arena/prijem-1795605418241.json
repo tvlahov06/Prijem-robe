@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T11:16:58.241Z",
-  "azurirano": "2026-11-25T11:19:45.342Z",
+  "azurirano": "2026-11-25T11:19:50.853Z",
   "dokumenti": [
     {
       "naziv": "Logista OT 7371-1234",
@@ -104,7 +104,7 @@
           "naziv": "Zastitno staklo Cellularline, Iphone 18 Pro Max",
           "barkod": "8018080522437",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Zastitna maska Cellularline, Clear Protect, Iphone 18 Pro",
@@ -206,7 +206,7 @@
           "naziv": "Maskica Cellularline Samsung Galaxy S26 Ultra, silikonska",
           "barkod": "8018080510496",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "CELLULARLINE KP ADAPTER USB-C 45W",
