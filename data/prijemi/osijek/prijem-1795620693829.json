@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T15:31:33.829Z",
-  "azurirano": "2026-11-25T15:45:56.214Z",
+  "azurirano": "2026-11-25T15:47:06.789Z",
   "dokumenti": [
     {
       "naziv": "MSI 7540-101",
@@ -225,7 +225,7 @@
           "naziv": "Aparat za kavu Philips EP5443/70 espresso",
           "barkod": "8720389052354",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Parna postaja Philips PSG8300/80",
@@ -456,7 +456,7 @@
           "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C crni bez kabela",
           "barkod": "8806094912128",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 10
         },
         {
           "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
