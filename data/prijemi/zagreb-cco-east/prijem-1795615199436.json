@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T13:59:59.436Z",
-  "azurirano": "2026-11-25T20:46:05.384Z",
+  "azurirano": "2026-11-25T20:46:14.004Z",
   "dokumenti": [
     {
       "naziv": "MSI 7777-101",
@@ -785,7 +785,7 @@
           "naziv": "Glacalo Gorenje SIH3200WR",
           "barkod": "3838782693489",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Glacalo Tefal FV8062E0",
@@ -815,7 +815,7 @@
           "naziv": "Glacalo Gorenje SIK2400BKV",
           "barkod": "3838782966309",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
@@ -903,7 +903,7 @@
           "naziv": "Usisavac robot Roborock Q10 VF bijela",
           "barkod": "6936905901637",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Roborock Q7 BF+ sa stanicom za samopraznjenje bijela",
