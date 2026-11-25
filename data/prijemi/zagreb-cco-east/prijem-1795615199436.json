@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T13:59:59.436Z",
-  "azurirano": "2026-11-25T20:43:26.064Z",
+  "azurirano": "2026-11-25T20:43:39.954Z",
   "dokumenti": [
     {
       "naziv": "MSI 7777-101",
@@ -427,7 +427,7 @@
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
           "barkod": "8720389030307",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP8757/12 espresso, Cafe Aromis",
@@ -445,7 +445,7 @@
           "naziv": "Aparat za kavu Krups KP1438F0 Mini Me 2 piano black",
           "barkod": "3045380404144",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Aparat za kavu Krups KP143BF0 Mini Me 2 cosmic grey",
@@ -475,7 +475,7 @@
           "naziv": "Parna postaja Philips PSG7300/80",
           "barkod": "8720389058332",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Parna postaja Philips PSG6064/80",
@@ -803,7 +803,7 @@
           "naziv": "Parna postaja Philips PSG7200/20",
           "barkod": "8720389065170",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Tefal DB1612E0 putno",
