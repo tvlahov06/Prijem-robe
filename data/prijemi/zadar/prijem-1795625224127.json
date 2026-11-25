@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T16:47:04.127Z",
-  "azurirano": "2026-11-25T17:47:47.267Z",
+  "azurirano": "2026-11-25T17:47:51.464Z",
   "dokumenti": [
     {
       "naziv": "Narudžba_Control_Center_nova",
@@ -20,7 +20,7 @@
           "naziv": "CELLULARLINE PODATKOVNI KABEL TYPE C-C 120 CM",
           "barkod": "8018080270420",
           "ocekivano": 4,
-          "skenirano": 3
+          "skenirano": 4
         },
         {
           "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
@@ -146,7 +146,7 @@
           "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
           "barkod": "8018080371547",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice SOUNDCORE TWS R60i NC Bluetooth Bijele",
