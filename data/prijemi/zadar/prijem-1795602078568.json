@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T10:21:18.568Z",
-  "azurirano": "2026-11-25T15:08:22.386Z",
+  "azurirano": "2026-11-25T15:08:29.197Z",
   "dokumenti": [
     {
       "naziv": "MSI 7712-101",
@@ -207,71 +207,6 @@
           "barkod": "8720689062671",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7735-101",
-      "stavke": [
-        {
-          "naziv": "Shifter Logitech Driving Force",
-          "barkod": "5099206057661",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice bezicne JBL VIBE FLEX 2 modra",
-          "barkod": "1200130015243",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice JBL TUNE 520 USB-C plave",
-          "barkod": "1200130023279",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 530BT bez",
-          "barkod": "1200130029998",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Mis Logitech G305 LIGHTSPEED, crni",
-          "barkod": "5099206077829",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Logitech G733, gaming, RGB, bezicne, crne",
-          "barkod": "5099206088719",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Web kamera Logitech C270 HD",
-          "barkod": "5099206064201",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnici Logitech Z207, 2.0, crni",
-          "barkod": "5099206075023",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Podloga za mis Logitech G240",
-          "barkod": "5099206104334",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech M705 Marathon, srebrni",
-          "barkod": "5099206023901",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
