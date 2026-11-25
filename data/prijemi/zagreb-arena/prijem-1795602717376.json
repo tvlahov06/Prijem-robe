@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T10:31:57.376Z",
-  "azurirano": "2026-11-25T10:51:45.900Z",
+  "azurirano": "2026-11-25T10:52:07.907Z",
   "dokumenti": [
     {
       "naziv": "Logista OT 7536-1234",
@@ -80,7 +80,7 @@
           "naziv": "ANKER Prijenosna baterija 20.000, 87W, crni",
           "barkod": "194644197469",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Kucni Punjac ANKER GaN 2x USB-C/USB-A + USB-C Kabel",
@@ -242,7 +242,7 @@
           "naziv": "Slusalice SOUNDCORE TWS R60i NC Bluetooth Bijele",
           "barkod": "0194644269487",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "TRUST PC ADAPTER USB-C U USB-A KABEL",
