@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T15:31:33.829Z",
-  "azurirano": "2026-11-25T15:43:21.902Z",
+  "azurirano": "2026-11-25T15:44:17.911Z",
   "dokumenti": [
     {
       "naziv": "MSI 7540-101",
@@ -468,7 +468,7 @@
           "naziv": "Pametni sat HUAWEI Watch GT7 Pro crni 46mm (Atum-B49F)",
           "barkod": "6942711308645",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Sat Samsung Galaxy Watch9 40mm crni",
@@ -486,7 +486,7 @@
           "naziv": "Punjac Samsung T2510 25W Fast Charge USB-C bijeli bez kabela",
           "barkod": "8806094912081",
           "ocekivano": 10,
-          "skenirano": 0
+          "skenirano": 10
         },
         {
           "naziv": "Pametni sat HUAWEI Watch GT7 plavi 46mm (Atum-B39FC)",
@@ -504,7 +504,7 @@
           "naziv": "Sat Samsung Galaxy Watch9 44mm srebrni",
           "barkod": "8806099326777",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "fotoaparat Fujifilm Instax Mini 13 zeleni",
@@ -528,13 +528,13 @@
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/256GB nebesko plavi",
           "barkod": "8806097826781",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Mobitel Samsung Galaxy S26 Ultra 5G 12/512GB crni",
           "barkod": "8806097827177",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Tablet Apple 13\" iPad Pro (M5) WiFi 1TB w Standard Glass - Space Black",
@@ -558,13 +558,13 @@
           "naziv": "Mobitel Samsung Galaxy Z Flip8 5G 12GB/256GB grafitno crni",
           "barkod": "8806099191818",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pametna narukvica Garmin CIRQA L/XL Black",
           "barkod": "753759375317",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mobitel Apple iPhone 17 256GB Black",
