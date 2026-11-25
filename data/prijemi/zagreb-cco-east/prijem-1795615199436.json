@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T13:59:59.436Z",
-  "azurirano": "2026-11-25T20:43:39.954Z",
+  "azurirano": "2026-11-25T20:43:47.497Z",
   "dokumenti": [
     {
       "naziv": "MSI 7777-101",
@@ -433,7 +433,7 @@
           "naziv": "Aparat za kavu Philips EP8757/12 espresso, Cafe Aromis",
           "barkod": "8720389077005",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu DeLonghi EC 890.GR Dedica Duo",
@@ -517,13 +517,13 @@
           "naziv": "Friteza na vruci zrak Philips NA462/70 Airfryer vertikalni",
           "barkod": "8720389072239",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Philips NA555/00 Airfryer Dual Basket, para",
           "barkod": "8720389047558",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Friteza na vruci zrak Ninja AS101EUGY Crispi Pro 7u1",
@@ -613,7 +613,7 @@
           "naziv": "Sokovnik Philips HR1888/70",
           "barkod": "8710103860822",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Kuhalo za vodu Gorenje K15DWW",
