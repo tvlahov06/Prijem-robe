@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T10:21:18.568Z",
-  "azurirano": "2026-11-25T15:08:58.697Z",
+  "azurirano": "2026-11-25T15:09:12.642Z",
   "dokumenti": [
     {
       "naziv": "MSI 7712-101",
@@ -207,23 +207,6 @@
           "barkod": "8720689062671",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7755-101",
-      "stavke": [
-        {
-          "naziv": "GTA VI PS5",
-          "barkod": "5026555439800",
-          "ocekivano": 120,
-          "skenirano": 120
-        },
-        {
-          "naziv": "The Legend of Zelda: Ocarina of Time Switch 2",
-          "barkod": "045496315474",
-          "ocekivano": 5,
-          "skenirano": 5
         }
       ]
     },
