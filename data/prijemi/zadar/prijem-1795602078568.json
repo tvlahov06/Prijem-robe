@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T10:21:18.568Z",
-  "azurirano": "2026-11-25T15:07:27.464Z",
+  "azurirano": "2026-11-25T15:07:39.425Z",
   "dokumenti": [
     {
       "naziv": "MSI 7712-101",
@@ -207,71 +207,6 @@
           "barkod": "8720689062671",
           "ocekivano": 3,
           "skenirano": 3
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7713-101",
-      "stavke": [
-        {
-          "naziv": "Laptop LENOVO IdeaPad Slim 3, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB SSD, AMD",
-          "barkod": "2010033340668",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "SAMSUNG 27\" Odyssey G5 G50F Gaming Monitor EN LS27FG502EUXEN, Fast IPS 2K/QHD, 180Hz, 1ms, AMD",
-          "barkod": "8806097817796",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Laptop HP 250R G10, 39.6cm (15.6\") Full HD, Intel Core 5 1H 120U, 16 GB RAM, 512 GB SSD, Intel Graphics, W11H",
-          "barkod": "2010033161096",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook Go 15 E1504FA-BQA5337W, 39.6cm F90 (15.6\") IPS Full HD, AMD Ryzen 5 40, 16 GB RAM, 512 GB",
-          "barkod": "4711636496544",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop ASUS TUF Gaming F16 FX607VU-TU446, 40.6cm XM0 (16\") IPS WUXGA 144Hz, Intel Core 5 210H, 16 GB RAM,",
-          "barkod": "4711636784979",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop Apple Macbook Air Midnight, mdvh4cr/a, /M5/16GB/512GB-CRO",
-          "barkod": "195950696912",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 27\" ACER Nitro KG270 W5, UM.HX0EE.506, IPS Full HD, 260Hz, 0.5ms, AMD FreeSync Premium, DisplayPort,",
-          "barkod": "4711474998835",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 27\" ACER Nitro XF270U P1, UM.HX0EE.114, IPS 2K/WQHD, 144Hz, 1ms, AMD FreeSync, DisplayPort, 2x",
-          "barkod": "4711721097700",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Monitor 23.8\" LENOVO ThinkVision S24-4e, 64B5KAT1EU, IPS Full HD, 100Hz, 4ms, VGA, HDMI",
-          "barkod": "0198156628701",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Laptop ASUS Vivobook 16 X1607CA-MB192W Ultra 7-255H, SV0 16GB, SSD 512GB, 16\" WUXGA 1920x1200, Intel Graphics,",
-          "barkod": "4711636621410",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
