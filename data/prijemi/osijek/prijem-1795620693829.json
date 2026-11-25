@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T15:31:33.829Z",
-  "azurirano": "2026-11-25T16:02:25.734Z",
+  "azurirano": "2026-11-25T16:05:01.998Z",
   "dokumenti": [
     {
       "naziv": "MSI 7540-101",
@@ -49,7 +49,7 @@
           "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 520 crni 20EU",
           "barkod": "1200130021961",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Usisavac robot Philips XU5100/20",
@@ -73,7 +73,7 @@
           "naziv": "Kava LAVAZZA zrno Crema E Aroma 1kg",
           "barkod": "8000070024441",
           "ocekivano": 12,
-          "skenirano": 0
+          "skenirano": 8
         }
       ]
     },
