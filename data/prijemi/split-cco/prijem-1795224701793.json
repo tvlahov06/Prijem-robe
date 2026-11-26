@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T19:52:39.662Z",
-  "azurirano": "2026-11-26T07:35:51.704Z",
+  "azurirano": "2026-11-26T07:41:41.108Z",
   "dokumenti": [
     {
       "naziv": "MSI 7727-101",
@@ -14,25 +14,25 @@
           "naziv": "Televizor LG OLED55C61LA 2026, 139,7 cm (55\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
           "barkod": "8806096685792",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 40A4S 2026, 101,6 cm (40\"), DLED, FHD, Smart TV, VIDAA OS",
           "barkod": "6942351429359",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Televizor SAMSUNG QE50QN70HAUXXH 2026, 127 cm XXH (50\"), Neo QLED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806099024147",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor HISENSE 50U7SE 2026, 127 cm (50\"), ULED Mini LED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351433486",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -61,7 +61,7 @@
           "naziv": "SAMSUNG 27\" Essential Monitor G3 G32H EN LS27HG322EUXEN, IPS Full HD, 144Hz, 1ms, AMD",
           "barkod": "8806099279707",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Laptop ASUS TUF Gaming F16 FX607VU-TU446, 40.6cm XM0 (16\") IPS WUXGA 144Hz, Intel Core 5 210H, 16 GB RAM,",
@@ -103,7 +103,7 @@
           "naziv": "Laptop ASUS ROG Strix G16 G615LP-TS220W, 40.6cm A30 (16\") 2.5K WQXGA 300Hz, Intel Core Ultra 9 290HX, 32 GB",
           "barkod": "4711636543064",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -304,7 +304,7 @@
           "naziv": "Televizor SAMSUNG UE55M80HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806099014230",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
@@ -1144,7 +1144,7 @@
           "naziv": "Televizor SONY K65XR75M2PB 2026, 164 cm (65\"), Bravia CEI 7 II, TRUE RGB",
           "barkod": "4548736178335",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
@@ -1333,7 +1333,7 @@
           "naziv": "TV TCL 55C6K, 139.7cm (55\"), QD-Mini LED, 4K UHD SMART TV, GOOGLE TV",
           "barkod": "5901292525804",
           "ocekivano": 3,
-          "skenirano": 1
+          "skenirano": 3
         },
         {
           "naziv": "Televizor SAMSUNG UE55M80HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
@@ -1463,19 +1463,19 @@
           "naziv": "Televizor SAMSUNG QE55S85HAEXXH 2026, 139,7 cm H (55\"), OLED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097963639",
           "ocekivano": 2,
-          "skenirano": 1
+          "skenirano": 2
         },
         {
           "naziv": "Televizor SAMSUNG UE55M70HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097977674",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
           "barkod": "5901292530242",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 50E7S 2026, 126 cm (50\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
