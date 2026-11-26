@@ -1,0 +1,905 @@
+{
+  "id": "prijem-1795699326049",
+  "poslovnica": "varazdin",
+  "naziv": "Roba 26.11.2026",
+  "datum": "2026-11-26",
+  "status": "aktivan",
+  "kreirano": "2026-11-26T13:22:06.049Z",
+  "azurirano": "2026-11-26T13:22:06.049Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 7818-101",
+      "stavke": [
+        {
+          "naziv": "TCL QLED TV 43\" 43P7L, Google TV",
+          "barkod": "5901292530266",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TCL QLED TV 40\" 40S5L, Google TV",
+          "barkod": "5901292530372",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
+          "barkod": "5901292530242",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG UE55M70HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
+          "barkod": "8806097977674",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG UE65M70HAUXXH 2026, 164 cm (65\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
+          "barkod": "8806097977728",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TCL QLED TV 65\" 65P7L, Google TV",
+          "barkod": "5901292530235",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV TCL 65C6K 164cm (65\") QD-Mini LED Google TV",
+          "barkod": "5901292525798",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor PHILIPS 55OLED761 2026, 139,7 cm (55\"), OLED, UHD 4K 120 Hz, Smart TV, Titan OS, Ambilight",
+          "barkod": "8718863052037",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG UE55M72HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K Ultra HD, Smart TV, Tizen OS",
+          "barkod": "8806097963745",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 32A5S 2026, 81,3 cm (32\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
+          "barkod": "6942351429441",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 43A7S 2026, 109,2 cm (43\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
+          "barkod": "6942351435787",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor LG 65QNED72B3B 2026, 165,1 cm (65\"), QNED AEU AI, 4K UHD, Smart TV, webOS",
+          "barkod": "8806096732021",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor LG 55MRGB87B3B 2026, 139,7 cm (55\"), Mini AEU RGB, 4K UHD, Smart TV, webOS",
+          "barkod": "8806096729724",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor PHILIPS 55OLED811 2026, 139,7 cm (55\"), OLED, UHD 4K 165 Hz, Smart TV, Titan OS, Ambilight",
+          "barkod": "8718863052044",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 50QNED86B3B 127.0cm (50\"), QNED, 4K UHD AEU Smart TV, webOS",
+          "barkod": "8806096694015",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 55E7S 2026, 139,7 cm (55\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
+          "barkod": "6942351431352",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 55A6S 2026, 139,7 cm (55\"), DLED, 4K UHD, Smart TV, VIDAA OS",
+          "barkod": "6942351430447",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG UE55U8072HUXXH 2026, 139 cm XH (55\"), UHD, Smart TV, Tizen OS",
+          "barkod": "8806097977698",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV LG 65QNED86B3B 165.1cm (65\"), QNED, 4K UHD AEU Smart TV, webOS",
+          "barkod": "8806096694824",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG QE50QN80HAUXXH 2026, 127 cm XXH (50\"), Neo QLED, 4K UHD, Smart TV, Tizen OS",
+          "barkod": "8806097943051",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 55E8S 2026, 139,7 cm (55\"), ULED Mini LED, 4K UHD, Smart TV, VIDAA OS",
+          "barkod": "6942351434582",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 65A6S 2026, 165,1 cm (65\"), DLED, 4K UHD, Smart TV, VIDAA OS",
+          "barkod": "6942351430751",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TV SONY K50XR35M2PB, 126 cm (50''), Bravia 3 II, 4K CEI Google TV",
+          "barkod": "4548736177963",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor HISENSE 50A7S 2026, 127 cm (50\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
+          "barkod": "6942351435626",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PRO Televizor HISENSE 65E7S PRO 2026, 165,1 cm (65\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
+          "barkod": "6942351432595",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor LG OLED65C61LA 2026, 165,1 cm (65\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
+          "barkod": "8806096685969",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7819-101",
+      "stavke": [
+        {
+          "naziv": "Televizor SAMSUNG UE50M70HAUXXH 2026, 127 cm (50\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
+          "barkod": "8806097977667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SAMSUNG QE55S85HAEXXH 2026, 139,7 cm H (55\"), OLED, 4K UHD, Smart TV, Tizen OS",
+          "barkod": "8806097963639",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7826-101",
+      "stavke": [
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11 WiFi 64GB sivi",
+          "barkod": "8806097781943",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12+ WiFi 12GB/256GB srebrni",
+          "barkod": "8806099394455",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12+ WiFi 12GB/256GB sivi",
+          "barkod": "8806099394493",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12+ 5G 12GB/256GB sivi",
+          "barkod": "8806099400392",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab S12 Ultra WiFi 12GB/256GB sivi",
+          "barkod": "8806099397975",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB srebrni",
+          "barkod": "8806097854920",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Samsung Galaxy Tab A11+ Wifi 6GB/128GB sivi",
+          "barkod": "8806097855019",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy Z Fold8 Ultra 5G 12GB/256GB ljubicasti",
+          "barkod": "8806099186876",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/128GB pistachio zelena",
+          "barkod": "8806099395100",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/128GB grafitno crna",
+          "barkod": "8806099395391",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 5G 12/512GB crni",
+          "barkod": "8806097827405",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 5G 12/256GB nebesko plavi",
+          "barkod": "8806097827610",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A17 4GB/128GB dual SIM sivi",
+          "barkod": "8806097651079",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sat Samsung Galaxy Watch9 40mm bez",
+          "barkod": "8806099324841",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac Samsung T1510 15W Fast Charge USB-C bijeli bez kabela",
+          "barkod": "8806092709850",
+          "ocekivano": 20,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB White",
+          "barkod": "195950643732",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB Mist Blue",
+          "barkod": "195950643930",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB Lavender",
+          "barkod": "195950644135",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB Sage",
+          "barkod": "195950644333",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro Max 256GB Burgundy",
+          "barkod": "195951410043",
+          "ocekivano": 5,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7827-101",
+      "stavke": [
+        {
+          "naziv": "Parna postaja Philips PSG8200/70",
+          "barkod": "8720389066511",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Osvjezivac odjece Philips STH3010/30",
+          "barkod": "8720389037535",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9812E0",
+          "barkod": "3121040082331",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Gorenje SIH3200WR",
+          "barkod": "3838782693489",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV8062E0",
+          "barkod": "3121040086476",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Uredaj za uklanjanje vlakana Philips GCA2100/20",
+          "barkod": "8720389030857",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Philips PSG7200/20",
+          "barkod": "8720389065170",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Glacalo Tefal FV9848E0",
+          "barkod": "3121040071526",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7828-101",
+      "stavke": [
+        {
+          "naziv": "Soundbar Sony",
+          "barkod": "4548736067325",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7829-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu Philips EP2224/10 espresso",
+          "barkod": "8710103894742",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP3341/50 espresso",
+          "barkod": "8720389030239",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP5547/90 espresso",
+          "barkod": "8720389032370",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP4441/50 espresso",
+          "barkod": "8720389031588",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP3326/90 espresso",
+          "barkod": "8720389030277",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP4449/70 espresso",
+          "barkod": "8720389032196",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP2331/10 espresso",
+          "barkod": "8720389030307",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7832-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu Philips EP5549/70 espresso",
+          "barkod": "8720389032271",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP5443/70 espresso",
+          "barkod": "8720389052354",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Philips XW9463/11 bezicni AquaTrio",
+          "barkod": "8720389040733",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups SA403BE0 espresso Coffee Crush Experience Lioness",
+          "barkod": "3016661181603",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock Qrevo S Pro bijela",
+          "barkod": "6936905906304",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BCS711A Unlimited 7, grafit",
+          "barkod": "4242005306978",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Sokovnik Hurom H320N mat zeleni",
+          "barkod": "8809686401048",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crni",
+          "barkod": "1200130019555",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TCL QLED TV 43\" 43P7L, Google TV",
+          "barkod": "5901292530266",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7833-101",
+      "stavke": [
+        {
+          "naziv": "Ratchet and Clank PS4 HITS C38",
+          "barkod": "711719415374",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PlayStation VR2 Sense Controller Charging Station",
+          "barkod": "711719480693",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Marvel's Spider-Man 2 Standard Edition PS5 D35",
+          "barkod": "711719571698",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Midnight Black za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022381",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Cosmic Red za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719023012",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Rhythm Blue",
+          "barkod": "711719020943",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Techno Red",
+          "barkod": "711719020677",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Remix Green",
+          "barkod": "711719020912",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller White za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022350",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless controller Starlight Blue za PS5, PC, Mac i mobilni uredaj",
+          "barkod": "711719022473",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Grand Theft Auto VI Black Limited Edition",
+          "barkod": "711719072867",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "PS5 Dualsense Wireless Controller Grand Theft Auto VI White Limited Edition",
+          "barkod": "711719072874",
+          "ocekivano": 6,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7835-101",
+      "stavke": [
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL BOOMBOX 4 crni BLKEP",
+          "barkod": "1200130024221",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 bijeli HT",
+          "barkod": "1200130019586",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 crni",
+          "barkod": "1200130019555",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 720 crni 20EU",
+          "barkod": "1200130025822",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/B",
+          "barkod": "4548736162617",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke E7 WH-CH730N/B",
+          "barkod": "4548736179721",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne WH-CH530/B",
+          "barkod": "4548736179677",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
+          "barkod": "4548736161436",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/Y",
+          "barkod": "4548736161788",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/L",
+          "barkod": "4548736164260",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/P",
+          "barkod": "4548736164314",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Sony",
+          "barkod": "4548736143272",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Sony",
+          "barkod": "4548736067325",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SONY K55A65PB.CEI 2026, 139 cm (55\"), Bravia 6, OLED, 4K Google TV",
+          "barkod": "4548736183025",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7836-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu Philips EP5443/70 espresso",
+          "barkod": "8720389052354",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Parna postaja Tefal GV9812E0",
+          "barkod": "3121040082331",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP143GF0 Mini Me 2 arctic grey",
+          "barkod": "3045380404137",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Rowenta RH1833E0 X-Force 8.80",
+          "barkod": "3221616176485",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups SA403BE0 espresso Coffee Crush Experience Lioness",
+          "barkod": "3016661181603",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP243B10 Genio S anthracite PF",
+          "barkod": "3045380024335",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za glavu Remington XR1600",
+          "barkod": "5038061144017",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGB41HYG1H ProHygienic Bijela",
+          "barkod": "4242005483839",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Bosch BGC05AAA2",
+          "barkod": "4242005076321",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja AF550EU",
+          "barkod": "622356320757",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja DZ950EU Dual Zone",
+          "barkod": "622356353229",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja FN101EUSG Crispi 4u1 Sage Green",
+          "barkod": "0622356317634",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja FN101EUST Crispi 4u1 Stone",
+          "barkod": "0622356317610",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Nespresso ESSENZA MINI Black S C30-EUBKNE2-S",
+          "barkod": "8606112020473",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7838-101",
+      "stavke": [
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 Milanese 41mm (Konsu-B19M)",
+          "barkod": "6942103168239",
+          "ocekivano": 10,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HUAWEI Watch GT7 Pro crni 46mm (Atum-B49F)",
+          "barkod": "6942711308645",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 Pro 256GB Silver",
+          "barkod": "195950627190",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy A57 5G 8GB/128GB dual SIM sivi",
+          "barkod": "8806099028114",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Samsung Galaxy S26 FE 5G 8GB/128GB grafitno crna",
+          "barkod": "8806099395391",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HUAWEI Watch GT7 sivi 41mm (Konsu-B39L)",
+          "barkod": "6942711308683",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch GT6 White 41mm (Konsu-B19L)",
+          "barkod": "6942103168246",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat HUAWEI Watch GT7 plavi 41mm (Konsu-B39FB)",
+          "barkod": "6942711308706",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "fotoaparat Fujifilm Instax Mini 13 bijeli",
+          "barkod": "4547410564877",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "fotoaparat Fujifilm Instax Mini 13 zeleni",
+          "barkod": "4547410564860",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple AirTag (2. generacije), pakiranje 1 kom",
+          "barkod": "195950667363",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametni sat Huawei Watch Fit 5 Pro crni (Niki-B29F)",
+          "barkod": "6942103189739",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "APPLE DODACI USB-C to Lightning Cable (1m)",
+          "barkod": "195949085611",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Tablet Apple 13\" iPad Pro (M5) WiFi 1TB w Standard Glass - Space Black",
+          "barkod": "195950398915",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Silver",
+          "barkod": "195951415673",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni punjac ANKER Prime, 160W, 3xUSB-C, GaNPrime, Pametni zaslon, A2687341",
+          "barkod": "0194644243890",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 17 256GB Black",
+          "barkod": "195950643534",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pleteni kabel ANKER USB-C na USB-C 240W 180 cm",
+          "barkod": "0194644199760",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Preklopna maska za Samsung Galaxy Flip8 siva",
+          "barkod": "8806099235819",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro 256GB Black",
+          "barkod": "195951415666",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna narukvica Garmin CIRQA L/XL French Gray",
+          "barkod": "753759375324",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple 40W Dynamic Power Adapter with 60W Max",
+          "barkod": "195950673982",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 12 GPS 46mm Space Grey Aluminium Case with Navy Blue Sport Band - M/L",
+          "barkod": "195951226866",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Apple iPhone 18 Pro Max 256GB Glacier",
+          "barkod": "195951410050",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Apple Watch Series 12 GPS 42mm Space Grey Aluminium Case with Navy Blue Sport Band - M/L",
+          "barkod": "195951225265",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7859-101",
+      "stavke": [
+        {
+          "naziv": "Friday vrecica",
+          "barkod": "2010033340200",
+          "ocekivano": 300,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
