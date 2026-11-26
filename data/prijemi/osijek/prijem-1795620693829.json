@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T15:31:33.829Z",
-  "azurirano": "2026-11-26T07:52:24.588Z",
+  "azurirano": "2026-11-26T07:52:40.684Z",
   "dokumenti": [
     {
       "naziv": "MSI 7540-101",
@@ -21,59 +21,6 @@
           "barkod": "711719072874",
           "ocekivano": 20,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7758-101",
-      "stavke": [
-        {
-          "naziv": "Mobitel Google Pixel 11 Pro XL 512GB Obsidian",
-          "barkod": "840353957756",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor SAMSUNG UE55M80HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
-          "barkod": "8806099014230",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/B",
-          "barkod": "4548736164161",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 520 crni 20EU",
-          "barkod": "1200130021961",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac robot Philips XU5100/20",
-          "barkod": "8720389055584",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Laptop HP 255R G10 CV4Q5ET, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 7 7735U, 16 GB RAM, 1 TB SSD, AMD",
-          "barkod": "199764603715",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor SAMSUNG QE65S85HAEXXH 2026, 164 cm (65\"), H OLED, 4K UHD, Smart TV, Tizen OS",
-          "barkod": "8806097963646",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Kava LAVAZZA zrno Crema E Aroma 1kg",
-          "barkod": "8000070024441",
-          "ocekivano": 12,
-          "skenirano": 12
         }
       ]
     },
