@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T15:31:33.829Z",
-  "azurirano": "2026-11-26T11:08:11.354Z",
+  "azurirano": "2026-11-26T11:08:24.798Z",
   "dokumenti": [
     {
       "naziv": "MSI 7761-101",
@@ -146,95 +146,6 @@
           "barkod": "8806099014230",
           "ocekivano": 2,
           "skenirano": 2
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7763-101",
-      "stavke": [
-        {
-          "naziv": "Tipkovnica + mis Logitech MK295 Silent, bezicna, siva",
-          "barkod": "5099206092525",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice bezicne JBL VIBE FLEX 2 modra",
-          "barkod": "1200130015243",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice JBL TUNE 520 USB-C plave",
-          "barkod": "1200130023279",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 530BT bez",
-          "barkod": "1200130029998",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Gaming mis LOGITECH PRO X2 SUPERSTRIKE",
-          "barkod": "5099206136199",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "prijenosni bluetooth JBL GO 5 maskirni",
-          "barkod": "1200130034336",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Podloga za mis Logitech Studio, crna",
-          "barkod": "5099206099470",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech M650, crni",
-          "barkod": "5099206097223",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech G502 X PLUS, LIGHTSPEED, LIGHTSYNC RGB, bijeli",
-          "barkod": "5099206096356",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech M190, crni",
-          "barkod": "5099206091825",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnici Logitech Z625, 2.1, THX, 400W RMS",
-          "barkod": "5099206064324",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Mis Logitech G305 LIGHTSPEED, crni",
-          "barkod": "5099206077829",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Shifter Logitech Driving Force",
-          "barkod": "5099206057661",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Zvucnici Logitech Z207, 2.0, crni",
-          "barkod": "5099206075023",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     }
