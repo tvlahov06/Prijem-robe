@@ -1,0 +1,243 @@
+{
+  "id": "prijem-1795721587449",
+  "poslovnica": "split-cco",
+  "naziv": "Roba u dolasku",
+  "datum": "2026-11-26",
+  "status": "aktivan",
+  "kreirano": "2026-11-26T19:33:07.449Z",
+  "azurirano": "2026-11-26T19:33:07.449Z",
+  "dokumenti": [
+    {
+      "naziv": "MSI 7855-101",
+      "stavke": [
+        {
+          "naziv": "Aparat za kavu Philips EP5549/70 espresso",
+          "barkod": "8720389032271",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Philips EP5443/70 espresso",
+          "barkod": "8720389052354",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mop elektricni Philips XV5113/01",
+          "barkod": "8720389035975",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kuhalo za vodu Tefal KO693110 1.5L, display",
+          "barkod": "3045387243159",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac Rowenta RH1833E0 X-Force 8.80",
+          "barkod": "3221616176485",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Tefal EY7568E0 Easy Fry Crispy Stack",
+          "barkod": "3045380407350",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Tefal EY9278E0, Dual Infrared",
+          "barkod": "3045380407220",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Aparat za kavu Krups KP243B10 Genio S anthracite PF",
+          "barkod": "3045380024335",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Brijac za glavu Remington XR1600",
+          "barkod": "5038061144017",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac robot Roborock Q7 BF+ sa stanicom za samopraznjenje bijela",
+          "barkod": "6936905901934",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Usisavac stapni Dyson V10 Cyclone Submarine + low reach adapter (626460)",
+          "barkod": "5025155137697",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Blender Nutribullet NB907CP 900W",
+          "barkod": "8006447000087",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja DZ950EU Dual Zone",
+          "barkod": "622356353229",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Friteza na vruci zrak Ninja FN101EUST Crispi 4u1 Stone",
+          "barkod": "0622356317610",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "MSI 7856-101",
+      "stavke": [
+        {
+          "naziv": "LOGITECH G29 za PS3, PS4, PS5 i PC, igraci volan",
+          "barkod": "5099206057302",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mis Logitech G PRO X Superlight 2, crni",
+          "barkod": "5099206104525",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 530BT crne",
+          "barkod": "1200130029967",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bluetooth JBL TUNE 730BT crne",
+          "barkod": "1200130029837",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice JBL Live 780NC plave LU",
+          "barkod": "1200130033483",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL BOOMBOX 4 crni BLKEP",
+          "barkod": "1200130024221",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL GO 5 plavi",
+          "barkod": "1200130034299",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Zvucnik prijenosni bluetooth JBL FLIP 7 Tomorrowland",
+          "barkod": "1200130028274",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice bezicne Sony s funkcijom blokade buke E7 WF-1000XM6/S",
+          "barkod": "4548736171824",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/B",
+          "barkod": "4548736162617",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-CH720N/B",
+          "barkod": "4548736142428",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke 7 WH-CH720N/L",
+          "barkod": "4548736143012",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne WH-CH530/B",
+          "barkod": "4548736179677",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony bezicne WH-CH530/L",
+          "barkod": "4548736181335",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
+          "barkod": "4548736161436",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C510/W",
+          "barkod": "4548736161481",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/B",
+          "barkod": "4548736164161",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/L",
+          "barkod": "4548736164260",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/P",
+          "barkod": "4548736164314",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Sony",
+          "barkod": "4548736143272",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Soundbar Sony",
+          "barkod": "4548736067325",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gramofon Sony",
+          "barkod": "4548736172104",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Televizor SONY K55A65PB.CEI 2026, 139 cm (55\"), Bravia 6, OLED, 4K Google TV",
+          "barkod": "4548736183025",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
