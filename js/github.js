@@ -52,6 +52,7 @@ var GitHubStorage = {
     return fetch(url, {
       method: method,
       headers: headers,
+      cache: "no-store",
       body: body ? JSON.stringify(body) : undefined
     }).then(function(resp) {
       if (resp.status === 404) return null;
