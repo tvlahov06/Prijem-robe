@@ -5,7 +5,7 @@
   "datum": "2026-11-26",
   "status": "aktivan",
   "kreirano": "2026-11-26T08:32:38.009Z",
-  "azurirano": "2026-11-26T12:29:30.880Z",
+  "azurirano": "2026-11-26T12:35:46.495Z",
   "dokumenti": [
     {
       "naziv": "MSI 7790-101",
@@ -229,7 +229,7 @@
           "naziv": "Televizor HISENSE 43A7S 2026, 109,2 cm (43\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351435787",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor TCL 55C7L 2026, 139,7 cm (55\"), SQD Mini-LED, Google TV",
@@ -241,7 +241,7 @@
           "naziv": "Televizor HISENSE 50A6S 2026, 127 cm (50\"), DLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351430263",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor HISENSE 40A4S 2026, 101,6 cm (40\"), DLED, FHD, Smart TV, VIDAA OS",
@@ -271,13 +271,13 @@
           "naziv": "Televizor HISENSE 55A6S 2026, 139,7 cm (55\"), DLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351430447",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor SAMSUNG QE50QN80HAUXXH 2026, 127 cm XXH (50\"), Neo QLED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097943051",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor LG OLED65G61LW 2026, 165,1 cm (65\"), OLED, AEU 4K UHD 120 Hz, Smart TV, webOS",
