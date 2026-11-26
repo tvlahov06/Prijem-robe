@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T15:31:33.829Z",
-  "azurirano": "2026-11-26T11:07:52.738Z",
+  "azurirano": "2026-11-26T11:08:11.354Z",
   "dokumenti": [
     {
       "naziv": "MSI 7761-101",
@@ -233,65 +233,6 @@
         {
           "naziv": "Zvucnici Logitech Z207, 2.0, crni",
           "barkod": "5099206075023",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7764-101",
-      "stavke": [
-        {
-          "naziv": "Slusalice bluetooth potpuno bezicne JBL Vibe BUDS 2 bijele",
-          "barkod": "1200130015700",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 530BT ljubicaste",
-          "barkod": "1200130030000",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke E7 WH-CH720N/W",
-          "barkod": "4548736147843",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/L",
-          "barkod": "4548736164260",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice JBL TUNE 530C USB-C bez",
-          "barkod": "1200130030086",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice JBL TUNE 530C USB-C plave",
-          "barkod": "1200130030079",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice bluetooth Sony WH-CH520/P",
-          "barkod": "4548736166462",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom ponistavanja buke 7 WH-CH730N/P",
-          "barkod": "4548736181731",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C510/L",
-          "barkod": "4548736161733",
           "ocekivano": 1,
           "skenirano": 1
         }
