@@ -3,9 +3,9 @@
   "poslovnica": "osijek",
   "naziv": "",
   "datum": "2026-11-25",
-  "status": "aktivan",
+  "status": "zavrsen",
   "kreirano": "2026-11-25T15:31:33.829Z",
-  "azurirano": "2026-11-26T11:08:40.121Z",
+  "azurirano": "2026-11-26T11:08:58.857Z",
   "dokumenti": [
     {
       "naziv": "MSI 7761-101",
@@ -78,5 +78,6 @@
         }
       ]
     }
-  ]
+  ],
+  "zavrseno": "2026-11-26T11:08:58.857Z"
 }
