@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T15:31:33.829Z",
-  "azurirano": "2026-11-26T11:07:24.556Z",
+  "azurirano": "2026-11-26T11:07:52.738Z",
   "dokumenti": [
     {
       "naziv": "MSI 7761-101",
@@ -292,17 +292,6 @@
         {
           "naziv": "Slusalice Sony potpuno bezicne WF-C510/L",
           "barkod": "4548736161733",
-          "ocekivano": 1,
-          "skenirano": 1
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7766-101",
-      "stavke": [
-        {
-          "naziv": "Laptop LENOVO IdeaPad Slim 3, 82XQ01CYSC, 39.6cm (15.6\") IPS Full HD, AMD Ryzen 3 30, 16 GB RAM, 512 GB",
-          "barkod": "199274826796",
           "ocekivano": 1,
           "skenirano": 1
         }
