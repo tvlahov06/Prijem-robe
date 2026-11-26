@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T19:52:39.662Z",
-  "azurirano": "2026-11-26T08:09:34.700Z",
+  "azurirano": "2026-11-26T08:09:49.281Z",
   "dokumenti": [
     {
       "naziv": "MSI 7727-101",
@@ -1557,7 +1557,7 @@
           "naziv": "Parna postaja Philips PSG7200/20",
           "barkod": "8720389065170",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Osvjezivac odjece Philips STH7060/80",
