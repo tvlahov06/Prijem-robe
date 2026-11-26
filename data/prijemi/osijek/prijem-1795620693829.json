@@ -5,7 +5,7 @@
   "datum": "2026-11-25",
   "status": "aktivan",
   "kreirano": "2026-11-25T15:31:33.829Z",
-  "azurirano": "2026-11-26T07:52:11.747Z",
+  "azurirano": "2026-11-26T07:52:24.588Z",
   "dokumenti": [
     {
       "naziv": "MSI 7540-101",
@@ -74,47 +74,6 @@
           "barkod": "8000070024441",
           "ocekivano": 12,
           "skenirano": 12
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7759-101",
-      "stavke": [
-        {
-          "naziv": "Usisavac stapni Dyson V12 Detect Slim Absolute (494876)",
-          "barkod": "5025155136294",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "usisavac Dyson V8 Cyclone + Furniture Cleaning Kit",
-          "barkod": "5025155137444",
-          "ocekivano": 5,
-          "skenirano": 5
-        },
-        {
-          "naziv": "stapni Dyson V10 Cyclone Fluffy (494869)",
-          "barkod": "5025155136287",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Dyson uredaj za ravnanje kose Airstrait s intergriranim cesljem (650104) Plum/Copper",
-          "barkod": "5025155141861",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Usisavac stapni Dyson V15 Detect Absolute",
-          "barkod": "5025155136201",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Uredaj za oblikovanje kose Dyson Airwrap Co-anda2x (492427) Plum/Copper Straight+Wavy",
-          "barkod": "5025155130001",
-          "ocekivano": 1,
-          "skenirano": 1
         }
       ]
     },
