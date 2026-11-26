@@ -5,7 +5,7 @@
   "datum": "2026-11-26",
   "status": "aktivan",
   "kreirano": "2026-11-26T13:22:06.049Z",
-  "azurirano": "2026-11-26T15:06:21.774Z",
+  "azurirano": "2026-11-26T15:06:41.629Z",
   "dokumenti": [
     {
       "naziv": "MSI 7818-101",
@@ -381,19 +381,19 @@
           "naziv": "Aparat za kavu Philips EP2224/10 espresso",
           "barkod": "8710103894742",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP3341/50 espresso",
           "barkod": "8720389030239",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP5547/90 espresso",
           "barkod": "8720389032370",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP4441/50 espresso",
@@ -405,13 +405,13 @@
           "naziv": "Aparat za kavu Philips EP3326/90 espresso",
           "barkod": "8720389030277",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP4449/70 espresso",
           "barkod": "8720389032196",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Aparat za kavu Philips EP2331/10 espresso",
