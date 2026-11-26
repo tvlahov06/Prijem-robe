@@ -5,7 +5,7 @@
   "datum": "2026-11-26",
   "status": "aktivan",
   "kreirano": "2026-11-26T08:32:38.009Z",
-  "azurirano": "2026-11-26T15:16:30.702Z",
+  "azurirano": "2026-11-26T15:16:35.101Z",
   "dokumenti": [
     {
       "naziv": "MSI 7790-101",
@@ -1104,13 +1104,13 @@
           "naziv": "Slusalice Skullcandy DIME_EVO TRUE WIRELESS",
           "barkod": "810145320839",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Skullcandy TW RAIL ANC TRUE WIRELESS",
           "barkod": "810145320310",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Skullcandy HESH ANC WIRELESS",
