@@ -5,7 +5,7 @@
   "datum": "2026-11-26",
   "status": "aktivan",
   "kreirano": "2026-11-26T08:32:38.009Z",
-  "azurirano": "2026-11-26T10:14:20.315Z",
+  "azurirano": "2026-11-26T10:14:22.826Z",
   "dokumenti": [
     {
       "naziv": "MSI 7790-101",
@@ -1409,7 +1409,7 @@
           "naziv": "Mikser rucni Bosch MFQ3010",
           "barkod": "4242002439808",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Mikser stapni Tefal HB673830",
