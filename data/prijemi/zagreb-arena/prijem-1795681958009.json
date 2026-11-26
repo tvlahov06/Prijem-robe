@@ -5,7 +5,7 @@
   "datum": "2026-11-26",
   "status": "aktivan",
   "kreirano": "2026-11-26T08:32:38.009Z",
-  "azurirano": "2026-11-26T13:32:07.967Z",
+  "azurirano": "2026-11-26T13:32:13.382Z",
   "dokumenti": [
     {
       "naziv": "MSI 7790-101",
@@ -461,13 +461,13 @@
           "naziv": "Slusalice Sony potpuno bezicne WF-C710N/L",
           "barkod": "4548736164260",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Slusalice Sony potpuno bezicne WF-C710N/P",
           "barkod": "4548736164314",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG QE65S85HAEXXH 2026, 164 cm (65\"), H OLED, 4K UHD, Smart TV, Tizen OS",
@@ -858,7 +858,7 @@
           "naziv": "Slusalice Sony potpuno bezicne WF-C710N/B",
           "barkod": "4548736164161",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Razer Barracuda gaming bezicne slusalice, crne 0-R3M1",
