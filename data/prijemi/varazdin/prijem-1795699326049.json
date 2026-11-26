@@ -5,7 +5,7 @@
   "datum": "2026-11-26",
   "status": "aktivan",
   "kreirano": "2026-11-26T13:22:06.049Z",
-  "azurirano": "2026-11-26T13:49:39.202Z",
+  "azurirano": "2026-11-26T13:56:54.183Z",
   "dokumenti": [
     {
       "naziv": "MSI 7818-101",
@@ -14,13 +14,13 @@
           "naziv": "TCL QLED TV 43\" 43P7L, Google TV",
           "barkod": "5901292530266",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "TCL QLED TV 40\" 40S5L, Google TV",
           "barkod": "5901292530372",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor TCL 55P7L 2026, 55\", QLED, Google TV",
@@ -68,13 +68,13 @@
           "naziv": "Televizor HISENSE 32A5S 2026, 81,3 cm (32\"), Hi-QLED, FHD, Smart TV, VIDAA OS",
           "barkod": "6942351429441",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor HISENSE 43A7S 2026, 109,2 cm (43\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351435787",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor LG 65QNED72B3B 2026, 165,1 cm (65\"), QNED AEU AI, 4K UHD, Smart TV, webOS",
@@ -128,7 +128,7 @@
           "naziv": "Televizor SAMSUNG QE50QN80HAUXXH 2026, 127 cm XXH (50\"), Neo QLED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097943051",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor HISENSE 55E8S 2026, 139,7 cm (55\"), ULED Mini LED, 4K UHD, Smart TV, VIDAA OS",
@@ -146,7 +146,7 @@
           "naziv": "TV SONY K50XR35M2PB, 126 cm (50''), Bravia 3 II, 4K CEI Google TV",
           "barkod": "4548736177963",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Televizor HISENSE 50A7S 2026, 127 cm (50\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
