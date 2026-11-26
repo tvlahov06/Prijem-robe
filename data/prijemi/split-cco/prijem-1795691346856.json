@@ -1,0 +1,463 @@
+{
+  "id": "prijem-1795691346856",
+  "poslovnica": "split-cco",
+  "naziv": "Komisija",
+  "datum": "2026-11-26",
+  "status": "aktivan",
+  "kreirano": "2026-11-26T11:09:06.856Z",
+  "azurirano": "2026-11-26T11:09:06.856Z",
+  "dokumenti": [
+    {
+      "naziv": "Logista 10811",
+      "stavke": [
+        {
+          "naziv": "Digitalni Okvir Za Fotografije SENCOR, 8\", 1280x800, Black",
+          "barkod": "8590669308187",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Digitalni Okvir Za Fotografije SENCOR,10.1\", IPS, 1280x800, WiFi, Black",
+          "barkod": "8590669312634",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Digitalni Okvir Za Fotografije SENCOR,10.1\", IPS, 1280x800, WiFi, White",
+          "barkod": "8590669312658",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Digitalni Okvir Za Fotografije SENCOR,7\", IPS HD, 1024x600, Black",
+          "barkod": "8590669315307",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Digitalni Okvir Za Fotografije SENCOR,10\", IPS HD, 1280x800, Black",
+          "barkod": "8590669329748",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Digitalni Okvir Za Fotografije SENCOR,10\", IPS HD, 1280x800, White",
+          "barkod": "8590669329762",
+          "ocekivano": 3,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Microline 10889",
+      "stavke": [
+        {
+          "naziv": "Pametna vanjska sigurnosna kamera Tapo C560WS (4K)",
+          "barkod": "1210002602679",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna LED zarulja Tapo L530E u boji (2 kom)",
+          "barkod": "1210002604840",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Tapo C510W Outdoor Pan/Tilt Security Wi-Fi",
+          "barkod": "4895252501575",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Tapo C520WS Outdoor Pan/Tilt Security Wi-F",
+          "barkod": "4895252501599",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Tapo P100 Mini Smart Wi-Fi Alexa & Google",
+          "barkod": "4897098681619",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Archer AX55, AX3000 Gigabit Wi-Fi 6 Router",
+          "barkod": "4897098683040",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE700X, AX3000 Mesh WiFi 6 Extender",
+          "barkod": "4897098683330",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-LinkArcher TX20U Plus, AX1800 High Gain Wi-Fi 6",
+          "barkod": "4897098687888",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-LinkTapo C225 Pan/Tilt AI Home Security Wi-Fi",
+          "barkod": "4897098688090",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link AV500 Nano Powerline Ethernet Adapter Starter Kit Ultra Com",
+          "barkod": "6935364031848",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link bezicni USB mini adapter TL-WN823N, 300Mbps (2.4GHz), 802.11n/g/b, QSS tipka",
+          "barkod": "6935364050696",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link bezicni N USB Nano Adapter TL-WN725N, 150Mbps (2.4GHz), 802.11n/g/b",
+          "barkod": "6935364050719",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link TL-WPA7517, AV1000 Gb Powerline AC Wi-Fi",
+          "barkod": "6935364052584",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link AC750 bezicni pojacivac dometa, Dual Band 5GHz/2.4GHz, 802.11ac/a/b/g/n",
+          "barkod": "6935364071295",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Archer T3U Nano, AC1300 WLAN USB adapter",
+          "barkod": "6935364072667",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link ARCHER MR400 router, 4G LTE, Dual Band 2.4GHz/5GHz, 4xLAN prikljucak 10/100 Mbps, micro SIM utor",
+          "barkod": "6935364080662",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE205, pojacivac signala AC750",
+          "barkod": "6935364080976",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link TL-MR100 V3 300 Mbps Wireless N 4G LTE Router",
+          "barkod": "6935364088804",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link LS1005, 5-port 10/100 switch,plasticno",
+          "barkod": "6935364089061",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link ARCHER C24 router, Dual Band 2.4GHz/5GHz, 4xLAN prikljucak 10/100 Mbps",
+          "barkod": "6935364089474",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link RE190, pojacivac signala AC750",
+          "barkod": "6935364089665",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link TL-MR6400 bezicni 4G LTE Router, 300Mbps, interni 4G modem, SIM card slot",
+          "barkod": "6935364092764",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Archer T4U, AC1300 WLAN USB adapter",
+          "barkod": "6935364097318",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link AC1200 bezicni pojacivac dometa (Range Extender), Dual Band 300Mbps/867Mbps (2.4GHz/5GHz), 802.11ac/a/b/g/n, 1×LAN, Range extender mod, 2",
+          "barkod": "6935364097974",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Bluetooth adapter 4.0 UB400",
+          "barkod": "6935364099664",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TP-Link Tapo C530WS Outdoor Pan/Tilt Security Wi-Fi Camera, 3K 5MP (2880x1620), 2.4 GHz, 2 x External Antennas, 1 x Ethernet Port, Horizontal 360",
+          "barkod": "8885020624984",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Pametna vanjska sigurnosna kamera Tapo C545D (3K)",
+          "barkod": "8885020629255",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Logista 10895",
+      "stavke": [
+        {
+          "naziv": "Bezicne slusalice ANKER Soundcore LIFE Q30, crne",
+          "barkod": "0194644062132",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Punjac ANKER 511 CHARGER NANO 3, 30W: BIJELA-PUNJAC",
+          "barkod": "0194644103538",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER kucni punjac 33W, 1xUSB-C/1xUSB-A, crni",
+          "barkod": "0194644125639",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni crni",
+          "barkod": "0194644125806",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Kabel USB-C, 90cm, 60W, Pleteni bijeli",
+          "barkod": "0194644133108",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice SOUNDCORE TWS R60i NC Bluetooth Crne",
+          "barkod": "0194644269470",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Slusalice SOUNDCORE TWS R60i NC Bluetooth Bijele",
+          "barkod": "0194644269487",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Prijenosna baterija ANKER Zolo 10K, 10000 mAh, 22.5W, Ugradeni USB-C kabel, Black, A110DH11",
+          "barkod": "0194644291464",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni Punjac ANKER GaN 2x USB-C/USB-A + USB-C Kabel",
+          "barkod": "0194644291754",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kucni punjac ANKER Nano Display, USB-C, 45W, bijela",
+          "barkod": "0194644320850",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "ANKER Prijenosna baterija 20.000, 87W, crni",
+          "barkod": "194644197469",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE AUTO DRZAC BIG CRAB DUAL FIX",
+          "barkod": "8018080120411",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PODATKOVNI KABEL MICRO USB 120 CM",
+          "barkod": "8018080131745",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE DRZAC HANDY WING",
+          "barkod": "8018080251252",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE-C 200CM",
+          "barkod": "8018080295737",
+          "ocekivano": 8,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 25W",
+          "barkod": "8018080367199",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Kabel PLOOS, USB-A na Micro USB, 100cm, Crni",
+          "barkod": "8018080371547",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KABEL TYPE C TO C 200 CM",
+          "barkod": "8018080373633",
+          "ocekivano": 6,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ACL AUDIO KABEL 3.5 MM NA TYPE-C",
+          "barkod": "8018080384097",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC IPHONE USB-C I KABEL C TO LIGHTNING 20W",
+          "barkod": "8018080398476",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC APPLE USB-C 30W",
+          "barkod": "8018080433559",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KUCNI PUNJAC USB-C I KABEL C-C 15W BLACK",
+          "barkod": "8018080434778",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE KP ADAPTER USB-C 45W",
+          "barkod": "8018080438264",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Drzac za Mobitel CELLULARLINE Slide Fit",
+          "barkod": "8018080443701",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE PRIJENOSNA BATERIJA ENTRY 20.000 BLACK",
+          "barkod": "8018080481963",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "CELLULARLINE ZASTITNO STAKLO IPHONE 16 PRO",
+          "barkod": "8018080483035",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Auto Punjac PLOOS, USB-A, USB-C, 15W, Crni",
+          "barkod": "8018080497421",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PC PUNJAC ZA LAPTOP UNIVERZALNI PRIMO 19V-45W",
+          "barkod": "8713439219043",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST GAMING SLUSALICE ZA PS4 FORZE BLUE GXT488",
+          "barkod": "8713439235326",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST PRIJENOSNA BATERIJA PRIMO 20000 Black",
+          "barkod": "8713439246766",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST SLUSALICE ZA PS5, FORTA, CRNE GXT498",
+          "barkod": "8713439247152",
+          "ocekivano": 4,
+          "skenirano": 0
+        },
+        {
+          "naziv": "TRUST SLUSALICE ZA PS5, FORTA, BIJELE GXT498W",
+          "barkod": "8713439247169",
+          "ocekivano": 2,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Mobis 10923",
+      "stavke": [
+        {
+          "naziv": "Tablet XIAOMI Redmi PAD 2 4GB/128GB Mint Green",
+          "barkod": "6932554442569",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Xiaomi Pad 8 / 8 Pro Keyboard",
+          "barkod": "6932554479121",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI REDMI 17 5G 4/128 GB: CRNI",
+          "barkod": "6939093008690",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI REDMI 17 5G 4/128 GB: PLAVI",
+          "barkod": "6939093012505",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel Xiaomi Redmi 17 4GB/128GB Black",
+          "barkod": "6939093018675",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI 18 PRO MAX 5G 12/512GB: CRVENI",
+          "barkod": "6939093038895",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Mobitel XIAOMI 18 PRO 5G 12/512GB: CRVENI",
+          "barkod": "6939093040591",
+          "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    }
+  ]
+}
