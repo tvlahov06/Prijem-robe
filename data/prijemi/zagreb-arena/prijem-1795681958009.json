@@ -5,7 +5,7 @@
   "datum": "2026-11-26",
   "status": "aktivan",
   "kreirano": "2026-11-26T08:32:38.009Z",
-  "azurirano": "2026-11-26T13:58:09.185Z",
+  "azurirano": "2026-11-26T14:01:05.307Z",
   "dokumenti": [
     {
       "naziv": "MSI 7790-101",
@@ -1717,13 +1717,13 @@
           "naziv": "Parna postaja Philips PSG8200/70",
           "barkod": "8720389066511",
           "ocekivano": 6,
-          "skenirano": 0
+          "skenirano": 6
         },
         {
           "naziv": "Parna postaja Philips PSG8300/20",
           "barkod": "8720389066498",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3010/30",
@@ -1765,7 +1765,7 @@
           "naziv": "Parna postaja Philips PSG7200/20",
           "barkod": "8720389065170",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Osvjezivac odjece Philips STH3020/70",
