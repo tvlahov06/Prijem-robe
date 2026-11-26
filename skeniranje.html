@@ -289,6 +289,7 @@
             var s = document.createElement("div"); s.className = "doc-separator"; s.style.display = "flex"; s.style.alignItems = "center"; s.style.gap = "6px";
             var filterId = "filter-" + it.di;
             s.innerHTML = '<span style="color:' + dCol + ';margin-right:2px">' + dIc + '</span><span style="flex:1">\u{1F4C4} ' + cd + ' <span style="font-weight:400">(' + dSken + '/' + dOcek + ')</span></span><button id="' + filterId + '-btn" onclick="toggleDocFilter(' + it.di + ',\'' + filterId + '\')" data-diffcount="' + dDiffCount + '" class="diff-chip"></button><button onclick="deleteDocFromPrijem(' + dIdx + ')" style="background:none;border:none;color:var(--danger);cursor:pointer;font-size:13px" title="Obrisi dokument">\u2715</button>';
+            s.setAttribute("data-dn", cd);
             il.appendChild(s);
             // Set chip appearance after append
             updateChip(it.di);
@@ -306,6 +307,20 @@
       }
     }
 
+    function updateDocHeaders() {
+      var seps = document.querySelectorAll(".doc-separator[data-dn]");
+      for (var k = 0; k < seps.length; k++) {
+        var dn = seps[k].getAttribute("data-dn"), sk = 0, oc = 0;
+        for (var j = 0; j < items.length; j++) { if (items[j].dn === dn) { sk += items[j].skenirano; oc += items[j].ocekivano; } }
+        var st = sk === 0 ? "none" : sk < oc ? "partial" : "ok";
+        var ic = seps[k].children[0];
+        ic.textContent = st === "ok" ? "\u2713" : st === "partial" ? "\u25D0" : "\u25CB";
+        ic.style.color = st === "ok" ? "var(--success)" : st === "partial" ? "var(--warning)" : "var(--danger)";
+        var cnt = seps[k].children[1].querySelector("span");
+        if (cnt) cnt.textContent = "(" + sk + "/" + oc + ")";
+      }
+    }
+
     function stats() {
       var te = 0, ts = 0;
       for (var i = 0; i < items.length; i++) { te += items[i].ocekivano; ts += items[i].skenirano; }
@@ -320,6 +335,7 @@
         var seenDocs = {};
         for (var i = 0; i < items.length; i++) { if (!seenDocs[items[i].di]) { seenDocs[items[i].di] = true; updateChip(items[i].di); } }
       }
+      updateDocHeaders();
     }
 
     // ========== SAVE (LOCAL + GITHUB) ==========
