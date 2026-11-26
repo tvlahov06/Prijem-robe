@@ -5,7 +5,7 @@
   "datum": "2026-11-26",
   "status": "aktivan",
   "kreirano": "2026-11-26T08:32:38.009Z",
-  "azurirano": "2026-11-26T14:51:48.714Z",
+  "azurirano": "2026-11-26T14:52:32.158Z",
   "dokumenti": [
     {
       "naziv": "MSI 7790-101",
@@ -739,19 +739,19 @@
           "naziv": "Glacalo RUSSELL HOBBS Fabric Luxe Blue Aura, 2400 W",
           "barkod": "5038061181036",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "RUSSELL HOBBS Fabric Luxe Lilac, 2600 W",
           "barkod": "5038061181081",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo RUSSELL HOBBS Fabric Luxe Baked Stone, 2600 W",
           "barkod": "5038061181135",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Glacalo Tefal FV6872E0",
@@ -769,7 +769,7 @@
           "naziv": "Glacalo Braun FI3194BK FreeStyle 3 Black/Blue",
           "barkod": "8021098001948",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Glacalo Tefal FV2C41E0",
@@ -793,7 +793,7 @@
           "naziv": "Glacalo Braun SI5088BK FreeStyle 5 Black",
           "barkod": "8021098000392",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
