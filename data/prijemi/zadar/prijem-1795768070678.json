@@ -5,7 +5,7 @@
   "datum": "2026-11-27",
   "status": "aktivan",
   "kreirano": "2026-11-27T08:27:50.678Z",
-  "azurirano": "2026-11-27T09:00:27.135Z",
+  "azurirano": "2026-11-27T09:00:30.900Z",
   "dokumenti": [
     {
       "naziv": "MSI 7860-101",
@@ -263,13 +263,13 @@
           "naziv": "Soundbar Sony",
           "barkod": "4548736143272",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Soundbar Sony",
           "barkod": "4548736067325",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SONY K55A65PB.CEI 2026, 139 cm (55\"), Bravia 6, OLED, 4K Google TV",
