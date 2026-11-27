@@ -5,7 +5,7 @@
   "datum": "2026-11-27",
   "status": "aktivan",
   "kreirano": "2026-11-27T08:27:50.678Z",
-  "azurirano": "2026-11-27T08:29:54.081Z",
+  "azurirano": "2026-11-27T08:30:01.100Z",
   "dokumenti": [
     {
       "naziv": "MSI 7860-101",
@@ -310,7 +310,7 @@
           "naziv": "Mikrovalna pecnica Gorenje MO20A3BH",
           "barkod": "3838782667336",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Ugradbena mikrovalna pecnica Bosch BFL520MB0",
@@ -328,7 +328,7 @@
           "naziv": "Pecnica ugradbena Gorenje BOS67371CLI",
           "barkod": "3838782613647",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena BOSCH HBA572BB4",
