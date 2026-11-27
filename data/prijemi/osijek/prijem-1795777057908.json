@@ -5,7 +5,7 @@
   "datum": "2026-11-27",
   "status": "aktivan",
   "kreirano": "2026-11-27T10:57:37.908Z",
-  "azurirano": "2026-11-27T13:26:19.063Z",
+  "azurirano": "2026-11-27T13:32:09.990Z",
   "dokumenti": [
     {
       "naziv": "MSI 7848-101",
@@ -139,59 +139,6 @@
           "barkod": "4548736183049",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7851-101",
-      "stavke": [
-        {
-          "naziv": "Parna postaja Philips PSG8200/70",
-          "barkod": "8720389066511",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Parna postaja Philips PSG8300/20",
-          "barkod": "8720389066498",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Osvjezivac odjece Philips STH3010/30",
-          "barkod": "8720389037535",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Glacalo Gorenje SIH3200WR",
-          "barkod": "3838782693489",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Uredaj za uklanjanje vlakana Philips GCA2100/20",
-          "barkod": "8720389030857",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Parna postaja Philips PSG7200/20",
-          "barkod": "8720389065170",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Parna postaja Tefal GV9823E1, 9 bara, Gold Black",
-          "barkod": "3121040091005",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Glacalo Tefal FV9848E0",
-          "barkod": "3121040071526",
-          "ocekivano": 3,
-          "skenirano": 3
         }
       ]
     },
