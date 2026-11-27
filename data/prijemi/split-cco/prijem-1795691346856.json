@@ -4,8 +4,8 @@
   "naziv": "Komisija",
   "datum": "2026-11-27",
   "status": "aktivan",
-  "kreirano": "2026-11-27T07:56:46.641Z",
-  "azurirano": "2026-11-27T07:58:10.053Z",
+  "kreirano": "2026-11-27T10:33:17.118Z",
+  "azurirano": "2026-11-27T10:33:17.118Z",
   "dokumenti": [
     {
       "naziv": "Logista 10811",
@@ -283,6 +283,215 @@
           "barkod": "0810116383849",
           "ocekivano": 2,
           "skenirano": 2
+        }
+      ]
+    },
+    {
+      "naziv": "Microline2",
+      "stavke": [
+        {
+          "naziv": "Port mis OFFICE BUDGET - PRO, crni",
+          "barkod": "3567042029651",
+          "ocekivano": 5,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port navlaka Portland 13/14\", crna",
+          "barkod": "3567041052193",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port navlaka Torino II 15,6\", crna",
+          "barkod": "3567041404091",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port navlaka Yosemite ECO 13/14\", siva",
+          "barkod": "3567044007046",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port navlaka Yosemite ECO 15,6\", siva",
+          "barkod": "3567044007053",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port navlaka za tablet Noumea II 9/11\", crna",
+          "barkod": "3567042013193",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port navlaka za tablet Noumea II 9/11\", plava",
+          "barkod": "3567042013285",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port navlaka za tablet Noumea II 9/11\", roza",
+          "barkod": "3567042013278",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port navlaka za tablet Noumea II 9/11\", siva",
+          "barkod": "3567042013261",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port navlaka za tablet Noumea II 9/11\", terakota",
+          "barkod": "3567042013360",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port navlaka za tablet Noumea II 9/11\", zelena",
+          "barkod": "3567042013292",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port punjac 100W GaN2 USB-C kabel 2,2 m",
+          "barkod": "3567042032194",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port punjac 65W GaN2 USB-C ACER/TOSHIBA 4 nastavka",
+          "barkod": "3567042032002",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port punjac 65W GaN2 USB-C univerzalni,9 nastavaka",
+          "barkod": "3567042031883",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port punjac 65W GaN2 USB-C za DELL NB, 2 nastavka",
+          "barkod": "3567042032033",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port punjac 65W GaN2 USB-C za HP NB, 5 nastavaka",
+          "barkod": "3567042032019",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port punjac 65W GaN2 USB-C za Lenovo NB,4 nastavka",
+          "barkod": "3567042031920",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port punjac 65W typeC GaN2 za Asus NB, 4 nastavka",
+          "barkod": "3567042031944",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port punjac 65W typeC GaN2,fiksni USB-C kabel 1.5m",
+          "barkod": "3567042031906",
+          "ocekivano": 3,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port ruksak MILANO II ECO 14/16\", plavi",
+          "barkod": "3567041407252",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port ruksak MILANO II ECO 14/16\", roza",
+          "barkod": "3567041407283",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port ruksak MILANO II ECO 14/16\", smedi",
+          "barkod": "3567041407276",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port ruksak MILANO II ECO 14/16\", zeleni",
+          "barkod": "3567041407269",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port ruksak Sydney ECO 13/14\", crn",
+          "barkod": "3567041351746",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port ruksak MUSE TL ECO 16\" + neseser, crna",
+          "barkod": "3567041351807",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port Sydney TL ECO 15.6\", crna",
+          "barkod": "3567041351722",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port torba MUSE SIGNATURE 16\", crna",
+          "barkod": "3567041351821",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port torba MUSE TL ECO 16\" + neseser, crna",
+          "barkod": "3567041351814",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port torba Sydney TL ECO 13/14\", crna",
+          "barkod": "3567041351715",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Port torba Yosemite ECO TL 15.6\", siva",
+          "barkod": "3567044007015",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Port Courchevel 17.3\", crn, kisna navl.",
+          "barkod": "3567041605115",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Port Courchevel II 15.6/16\", crn, kisna navl.",
+          "barkod": "3567041605108",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Ruksak Port Sydney ECO 15.6\"/16, crni",
+          "barkod": "3567041351739",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Torba za notebook Port Courchevel CL 17.3\"",
+          "barkod": "3567041605139",
+          "ocekivano": 2,
+          "skenirano": 0
         }
       ]
     }
