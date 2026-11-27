@@ -5,7 +5,7 @@
   "datum": "2026-11-27",
   "status": "aktivan",
   "kreirano": "2026-11-27T10:33:17.118Z",
-  "azurirano": "2026-11-27T10:35:17.363Z",
+  "azurirano": "2026-11-27T10:35:24.484Z",
   "dokumenti": [
     {
       "naziv": "Logista 10811",
@@ -371,7 +371,7 @@
           "naziv": "Port punjac 65W GaN2 USB-C univerzalni,9 nastavaka",
           "barkod": "3567042031883",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Port punjac 65W GaN2 USB-C za DELL NB, 2 nastavka",
@@ -389,7 +389,7 @@
           "naziv": "Port punjac 65W GaN2 USB-C za Lenovo NB,4 nastavka",
           "barkod": "3567042031920",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Port punjac 65W typeC GaN2 za Asus NB, 4 nastavka",
