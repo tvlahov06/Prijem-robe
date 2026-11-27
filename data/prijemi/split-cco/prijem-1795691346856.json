@@ -5,7 +5,7 @@
   "datum": "2026-11-27",
   "status": "aktivan",
   "kreirano": "2026-11-27T10:33:17.118Z",
-  "azurirano": "2026-11-27T10:33:17.118Z",
+  "azurirano": "2026-11-27T10:34:47.933Z",
   "dokumenti": [
     {
       "naziv": "Logista 10811",
@@ -305,7 +305,7 @@
           "naziv": "Port navlaka Torino II 15,6\", crna",
           "barkod": "3567041404091",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Port navlaka Yosemite ECO 13/14\", siva",
@@ -461,7 +461,7 @@
           "naziv": "Port torba Sydney TL ECO 13/14\", crna",
           "barkod": "3567041351715",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Port torba Yosemite ECO TL 15.6\", siva",
@@ -485,13 +485,13 @@
           "naziv": "Ruksak Port Sydney ECO 15.6\"/16, crni",
           "barkod": "3567041351739",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Torba za notebook Port Courchevel CL 17.3\"",
           "barkod": "3567041605139",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     }
