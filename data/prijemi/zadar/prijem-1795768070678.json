@@ -5,7 +5,7 @@
   "datum": "2026-11-27",
   "status": "aktivan",
   "kreirano": "2026-11-27T08:27:50.678Z",
-  "azurirano": "2026-11-27T08:39:15.201Z",
+  "azurirano": "2026-11-27T08:39:24.305Z",
   "dokumenti": [
     {
       "naziv": "MSI 7860-101",
@@ -346,7 +346,7 @@
           "naziv": "Pecnica ugradbena Gorenje BPS6747A06BG",
           "barkod": "3838782477942",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         },
         {
           "naziv": "Pecnica ugradbena Hisense BIPZ65346WF PIZZACHEF",
@@ -436,7 +436,7 @@
           "naziv": "Perilica posuda ugradbena 60cm Hisense HV642C65",
           "barkod": "3838782945380",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     },
