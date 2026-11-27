@@ -5,7 +5,7 @@
   "datum": "2026-11-27",
   "status": "aktivan",
   "kreirano": "2026-11-27T08:27:50.678Z",
-  "azurirano": "2026-11-27T08:39:24.305Z",
+  "azurirano": "2026-11-27T08:43:09.799Z",
   "dokumenti": [
     {
       "naziv": "MSI 7860-101",
@@ -549,7 +549,7 @@
           "naziv": "Televizor SAMSUNG QE55S85HAEXXH 2026, 139,7 cm H (55\"), OLED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097963639",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor LG 65QNED72B3B 2026, 165,1 cm (65\"), QNED AEU AI, 4K UHD, Smart TV, webOS",
@@ -695,7 +695,7 @@
           "naziv": "Televizor SAMSUNG UE55M70HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097977674",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
