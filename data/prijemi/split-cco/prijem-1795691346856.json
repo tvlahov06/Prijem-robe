@@ -5,7 +5,7 @@
   "datum": "2026-11-26",
   "status": "aktivan",
   "kreirano": "2026-11-26T11:09:06.856Z",
-  "azurirano": "2026-11-27T06:06:49.581Z",
+  "azurirano": "2026-11-27T06:06:54.212Z",
   "dokumenti": [
     {
       "naziv": "Logista 10811",
@@ -210,53 +210,6 @@
         {
           "naziv": "Pametna vanjska sigurnosna kamera Tapo C545D (3K)",
           "barkod": "8885020629255",
-          "ocekivano": 1,
-          "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "Mobis 10923",
-      "stavke": [
-        {
-          "naziv": "Tablet XIAOMI Redmi PAD 2 4GB/128GB Mint Green",
-          "barkod": "6932554442569",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Xiaomi Pad 8 / 8 Pro Keyboard",
-          "barkod": "6932554479121",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel XIAOMI REDMI 17 5G 4/128 GB: CRNI",
-          "barkod": "6939093008690",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel XIAOMI REDMI 17 5G 4/128 GB: PLAVI",
-          "barkod": "6939093012505",
-          "ocekivano": 2,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel Xiaomi Redmi 17 4GB/128GB Black",
-          "barkod": "6939093018675",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel XIAOMI 18 PRO MAX 5G 12/512GB: CRVENI",
-          "barkod": "6939093038895",
-          "ocekivano": 1,
-          "skenirano": 0
-        },
-        {
-          "naziv": "Mobitel XIAOMI 18 PRO 5G 12/512GB: CRVENI",
-          "barkod": "6939093040591",
           "ocekivano": 1,
           "skenirano": 0
         }
