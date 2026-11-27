@@ -5,7 +5,7 @@
   "datum": "2026-11-27",
   "status": "aktivan",
   "kreirano": "2026-11-27T07:56:46.641Z",
-  "azurirano": "2026-11-27T07:57:30.466Z",
+  "azurirano": "2026-11-27T07:57:37.010Z",
   "dokumenti": [
     {
       "naziv": "Logista 10811",
@@ -264,7 +264,7 @@
           "naziv": "GoPro Chesty (Performance Chest Mount) AGCHM-001-VN",
           "barkod": "0810116383832",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Gopro HERO",
@@ -282,7 +282,7 @@
           "naziv": "Nosac GoPro Head Strap 2.0 ACHOM-002-VN",
           "barkod": "0810116383849",
           "ocekivano": 2,
-          "skenirano": 0
+          "skenirano": 2
         }
       ]
     }
