@@ -5,7 +5,7 @@
   "datum": "2026-11-27",
   "status": "aktivan",
   "kreirano": "2026-11-27T08:27:50.678Z",
-  "azurirano": "2026-11-27T08:34:27.744Z",
+  "azurirano": "2026-11-27T08:34:30.132Z",
   "dokumenti": [
     {
       "naziv": "MSI 7860-101",
@@ -340,7 +340,7 @@
           "naziv": "Pecnica ugradbena Gorenje BOS6747A01X",
           "barkod": "3838782477935",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Pecnica ugradbena Gorenje BPS6747A06BG",
