@@ -5,7 +5,7 @@
   "datum": "2026-11-27",
   "status": "aktivan",
   "kreirano": "2026-11-27T10:57:37.908Z",
-  "azurirano": "2026-11-27T13:32:22.180Z",
+  "azurirano": "2026-11-27T13:32:38.167Z",
   "dokumenti": [
     {
       "naziv": "MSI 7848-101",
@@ -139,113 +139,6 @@
           "barkod": "4548736183049",
           "ocekivano": 1,
           "skenirano": 0
-        }
-      ]
-    },
-    {
-      "naziv": "MSI 7853-101",
-      "stavke": [
-        {
-          "naziv": "Gaming mis LOGITECH PRO X2 SUPERSTRIKE",
-          "barkod": "5099206136199",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "LOGITECH G29 za PS3, PS4, PS5 i PC, igraci volan",
-          "barkod": "5099206057302",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Laptop LENOVO LOQ Essential, 83S000A7SC, 39.6cm (15.6\") IPS Full HD 144Hz, AMD Ryzen 5 150, 16 GB RAM,",
-          "barkod": "199274270841",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Slusalice bluetooth JBL TUNE 730BT crne",
-          "barkod": "1200130029837",
-          "ocekivano": 3,
-          "skenirano": 3
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL BOOMBOX 4 crni BLKEP",
-          "barkod": "1200130024221",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL CHARGE 6 bijeli HT",
-          "barkod": "1200130019586",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Zvucnik prijenosni bluetooth JBL PARTYBOX 520 crni 20EU",
-          "barkod": "1200130021961",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke CE7 WH-1000XM6/B",
-          "barkod": "4548736162617",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Slusalice Sony bezicne s funkcijom blokade buke 7 WH-CH720N/L",
-          "barkod": "4548736143012",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Slusalice Sony bezicne WH-CH530/B",
-          "barkod": "4548736179677",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Slusalice Sony bezicne WH-CH530/L",
-          "barkod": "4548736181335",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C510/B",
-          "barkod": "4548736161436",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/B",
-          "barkod": "4548736164161",
-          "ocekivano": 2,
-          "skenirano": 2
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/L",
-          "barkod": "4548736164260",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Slusalice Sony potpuno bezicne WF-C710N/P",
-          "barkod": "4548736164314",
-          "ocekivano": 4,
-          "skenirano": 4
-        },
-        {
-          "naziv": "Gramofon Sony",
-          "barkod": "4548736172104",
-          "ocekivano": 1,
-          "skenirano": 1
-        },
-        {
-          "naziv": "Televizor SONY K55A65PB.CEI 2026, 139 cm (55\"), Bravia 6, OLED, 4K Google TV",
-          "barkod": "4548736183025",
-          "ocekivano": 2,
-          "skenirano": 2
         }
       ]
     }
