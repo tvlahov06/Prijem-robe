@@ -2,10 +2,10 @@
   "id": "prijem-1795691346856",
   "poslovnica": "split-cco",
   "naziv": "Komisija",
-  "datum": "2026-11-26",
+  "datum": "2026-11-27",
   "status": "aktivan",
-  "kreirano": "2026-11-26T11:09:06.856Z",
-  "azurirano": "2026-11-27T07:17:47.947Z",
+  "kreirano": "2026-11-27T07:56:46.641Z",
+  "azurirano": "2026-11-27T07:56:46.641Z",
   "dokumenti": [
     {
       "naziv": "Logista 10811",
@@ -211,6 +211,77 @@
           "naziv": "Pametna vanjska sigurnosna kamera Tapo C545D (3K)",
           "barkod": "8885020629255",
           "ocekivano": 1,
+          "skenirano": 0
+        }
+      ]
+    },
+    {
+      "naziv": "Comtrade",
+      "stavke": [
+        {
+          "naziv": "Akcijska kamera GoPro Max 2",
+          "barkod": "810116384174",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Mini 5 Pro",
+          "barkod": "6941565996091",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "DJI Osmo Action 5 Pro Standard Combo",
+          "barkod": "6941565981066",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Avata 360 Motion Fly More Combo (DJI Goggles N3)",
+          "barkod": "6937224137639",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Neo 2 (samo dron)",
+          "barkod": "6937224131767",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Dron DJI Neo 2 Motion Fly More Combo",
+          "barkod": "6937224131729",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gimbal stabilizator za mobitele DJI Osmo Mobile 8",
+          "barkod": "6937224126817",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GoPro Chesty (Performance Chest Mount) AGCHM-001-VN",
+          "barkod": "0810116383832",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Gopro HERO",
+          "barkod": "810116381869",
+          "ocekivano": 2,
+          "skenirano": 0
+        },
+        {
+          "naziv": "GoPro pribor Curved + Flat Adhesive Mounts",
+          "barkod": "818279010312",
+          "ocekivano": 1,
+          "skenirano": 0
+        },
+        {
+          "naziv": "Nosac GoPro Head Strap 2.0 ACHOM-002-VN",
+          "barkod": "0810116383849",
+          "ocekivano": 2,
           "skenirano": 0
         }
       ]
