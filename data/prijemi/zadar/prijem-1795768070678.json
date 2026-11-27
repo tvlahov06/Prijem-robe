@@ -5,7 +5,7 @@
   "datum": "2026-11-27",
   "status": "aktivan",
   "kreirano": "2026-11-27T08:27:50.678Z",
-  "azurirano": "2026-11-27T09:22:29.362Z",
+  "azurirano": "2026-11-27T09:45:16.996Z",
   "dokumenti": [
     {
       "naziv": "MSI 7860-101",
@@ -447,7 +447,7 @@
           "naziv": "Televizor HISENSE 43E7S 2026, 109,2 cm (43\"), Hi-QLED, 4K UHD, Smart TV, VIDAA OS",
           "barkod": "6942351430973",
           "ocekivano": 4,
-          "skenirano": 0
+          "skenirano": 4
         },
         {
           "naziv": "Televizor SAMSUNG UE55M80HAUXXH 2026, 139 cm (55\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
@@ -507,7 +507,7 @@
           "naziv": "TCL QLED TV 43\" 43P7L, Google TV",
           "barkod": "5901292530266",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor TCL 50P7L 2026, 50\", QLED, Google TV",
@@ -519,13 +519,13 @@
           "naziv": "Televizor HISENSE 50E7S 2026, 126 cm (50\"), Hi-QLED, 4K Ultra HD 60 Hz, Smart TV, VIDAA OS",
           "barkod": "6942351431161",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE43M70HAUXXH 2026, 109 cm (43\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
           "barkod": "8806097966722",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         },
         {
           "naziv": "Televizor SAMSUNG UE65M70HAUXXH 2026, 164 cm (65\"), XH Mini LED, 4K UHD, Smart TV, Tizen OS",
@@ -561,7 +561,7 @@
           "naziv": "Televizor TCL 32S5L 2026, 32\", QLED, Google TV",
           "barkod": "5901292530389",
           "ocekivano": 1,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
