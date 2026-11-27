@@ -5,7 +5,7 @@
   "datum": "2026-11-27",
   "status": "aktivan",
   "kreirano": "2026-11-27T08:27:50.678Z",
-  "azurirano": "2026-11-27T10:33:31.511Z",
+  "azurirano": "2026-11-27T10:33:42.633Z",
   "dokumenti": [
     {
       "naziv": "MSI 7860-101",
@@ -114,7 +114,7 @@
           "naziv": "Usisavac Rowenta RH1833E0 X-Force 8.80",
           "barkod": "3221616176485",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 3
         },
         {
           "naziv": "Friteza na vruci zrak Tefal EY7568E0 Easy Fry Crispy Stack",
@@ -186,7 +186,7 @@
           "naziv": "Pegla za kosu Loreal Professionnel Steampod 3.0",
           "barkod": "3474636819713",
           "ocekivano": 3,
-          "skenirano": 0
+          "skenirano": 1
         }
       ]
     },
